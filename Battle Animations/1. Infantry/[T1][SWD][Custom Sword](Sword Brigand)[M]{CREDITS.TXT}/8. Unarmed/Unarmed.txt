@@ -1,0 +1,53 @@
+/// - Mode 1
+16 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 3
+16 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 5
+16 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 6
+16 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 7
+C02
+1 p- Unarmed_000.png
+C0E
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01
+3 p- Unarmed_001.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Unarmed_000.png
+C0E
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01
+3 p- Unarmed_001.png
+C0D
+~~~
+/// - Mode 9
+16 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 10
+16 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 11
+16 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 12
+16 p- Unarmed_000.png
+C01
+~~~
+/// - End of animation

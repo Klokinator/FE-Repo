@@ -1,0 +1,233 @@
+/// - Mode 1
+C03
+C07
+1 p- Lance_000.png
+3 p- Lance_001.png
+2 p- Lance_002.png
+3 p- Lance_003.png
+2 p- Lance_004.png
+4 p- Lance_005.png
+C1B
+4 p- Lance_006.png
+4 p- Lance_007.png
+4 p- Lance_008.png
+8 p- Lance_009.png
+1 p- Lance_008.png
+C22
+2 p- Lance_010.png
+C21
+2 p- Lance_011.png
+C04
+C1A
+1 p- Lance_012.png
+C01
+1 p- Lance_012.png
+4 p- Lance_013.png
+5 p- Lance_014.png
+C22
+3 p- Lance_015.png
+4 p- Lance_016.png
+3 p- Lance_017.png
+3 p- Lance_018.png
+C1B
+3 p- Lance_019.png
+3 p- Lance_020.png
+C1B
+3 p- Lance_021.png
+4 p- Lance_022.png
+1 p- Lance_023.png
+C06
+3 p- Lance_023.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Lance_000.png
+3 p- Lance_001.png
+3 p- Lance_002.png
+C22
+4 p- Lance_024.png
+8 p- Lance_025.png
+1 p- Lance_026.png
+C44
+1 p- Lance_025.png
+1 p- Lance_026.png
+1 p- Lance_025.png
+4 p- Lance_026.png
+4 p- Lance_027.png
+4 p- Lance_028.png
+3 p- Lance_029.png
+3 p- Lance_030.png
+4 p- Lance_031.png
+3 p- Lance_032.png
+4 p- Lance_033.png
+C22
+8 p- Lance_034.png
+4 p- Lance_035.png
+C38
+5 p- Lance_036.png
+4 p- Lance_037.png
+3 p- Lance_038.png
+10 p- Lance_009.png
+C22
+2 p- Lance_039.png
+C21
+2 p- Lance_011.png
+C04
+C08
+1 p- Lance_012.png
+C01
+1 p- Lance_012.png
+4 p- Lance_013.png
+3 p- Lance_014.png
+C22
+2 p- Lance_015.png
+2 p- Lance_016.png
+2 p- Lance_017.png
+2 p- Lance_018.png
+C1B
+2 p- Lance_019.png
+3 p- Lance_020.png
+C1B
+3 p- Lance_021.png
+4 p- Lance_022.png
+2 p- Lance_023.png
+C06
+2 p- Lance_023.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Lance_040.png
+C22
+5 p- Lance_041.png
+5 p- Lance_042.png
+2 p- Lance_043.png
+3 p- Lance_044.png
+2 p- Lance_045.png
+10 p- Lance_046.png
+C25
+2 p- Lance_047.png
+4 p- Lance_048.png
+C05
+1 p- Lance_049.png
+C01
+3 p- Lance_050.png
+2 p- Lance_051.png
+C22
+3 p- Lance_052.png
+4 p- Lance_053.png
+C1B
+3 p- Lance_054.png
+C06
+3 p- Lance_055.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Lance_056.png
+C22
+5 p- Lance_057.png
+1 p- Lance_058.png
+3 p- Lance_059.png
+C38
+3 p- Lance_060.png
+3 p- Lance_061.png
+2 p- Lance_062.png
+3 p- Lance_063.png
+4 p- Lance_064.png
+4 p- Lance_065.png
+9 p- Lance_046.png
+C25
+2 p- Lance_047.png
+4 p- Lance_066.png
+C05
+1 p- Lance_049.png
+C01
+3 p- Lance_050.png
+2 p- Lance_051.png
+C22
+3 p- Lance_052.png
+4 p- Lance_053.png
+C1B
+3 p- Lance_054.png
+C06
+3 p- Lance_055.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Lance_056.png
+C0E
+3 p- Lance_067.png
+1 p- Lance_068.png
+C01
+3 p- Lance_067.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Lance_056.png
+C0E
+3 p- Lance_067.png
+1 p- Lance_068.png
+C01
+3 p- Lance_067.png
+C0D
+~~~
+/// - Mode 9
+1 p- Lance_069.png
+C01
+~~~
+/// - Mode 10
+1 p- Lance_069.png
+C01
+~~~
+/// - Mode 11
+1 p- Lance_069.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Lance_069.png
+3 p- Lance_070.png
+2 p- Lance_071.png
+3 p- Lance_072.png
+2 p- Lance_073.png
+4 p- Lance_074.png
+C1B
+4 p- Lance_006.png
+4 p- Lance_008.png
+4 p- Lance_009.png
+8 p- Lance_008.png
+1 p- Lance_010.png
+C22
+2 p- Lance_011.png
+2 p- Lance_012.png
+C21
+C04
+1 p- Lance_012.png
+C01
+3 p- Lance_013.png
+2 p- Lance_014.png
+C22
+2 p- Lance_015.png
+3 p- Lance_016.png
+2 p- Lance_017.png
+3 p- Lance_018.png
+C1B
+3 p- Lance_019.png
+2 p- Lance_020.png
+C1B
+3 p- Lance_021.png
+4 p- Lance_022.png
+1 p- Lance_023.png
+C06
+3 p- Lance_023.png
+C0D
+~~~
+/// - End of animation

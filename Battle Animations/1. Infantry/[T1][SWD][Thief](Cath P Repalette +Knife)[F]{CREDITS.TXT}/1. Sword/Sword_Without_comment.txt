@@ -1,0 +1,197 @@
+/// - Mode 1
+C03
+C07
+1 p- Sword_Without_comment_000.png
+4 p- Sword_Without_comment_001.png
+4 p- Sword_Without_comment_002.png
+6 p- Sword_Without_comment_003.png
+4 p- Sword_Without_comment_004.png
+C22
+C04
+2 p- Sword_Without_comment_005.png
+2 p- Sword_Without_comment_006.png
+C1A
+C1F
+1 p- Sword_Without_comment_007.png
+C01
+8 p- Sword_Without_comment_008.png
+C23
+3 p- Sword_Without_comment_009.png
+8 p- Sword_Without_comment_010.png
+C34
+4 p- Sword_Without_comment_011.png
+4 p- Sword_Without_comment_012.png
+4 p- Sword_Without_comment_013.png
+6 p- Sword_Without_comment_014.png
+3 p- Sword_Without_comment_015.png
+3 p- Sword_Without_comment_016.png
+4 p- Sword_Without_comment_017.png
+C34
+4 p- Sword_Without_comment_018.png
+7 p- Sword_Without_comment_019.png
+1 p- Sword_Without_comment_020.png
+C06
+3 p- Sword_Without_comment_020.png
+3 p- Sword_Without_comment_021.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Sword_Without_comment_000.png
+3 p- Sword_Without_comment_022.png
+5 p- Sword_Without_comment_023.png
+5 p- Sword_Without_comment_024.png
+4 p- Sword_Without_comment_025.png
+6 p- Sword_Without_comment_026.png
+7 p- Sword_Without_comment_027.png
+C04
+C22
+2 p- Sword_Without_comment_028.png
+C20
+4 p- Sword_Without_comment_029.png
+4 p- Sword_Without_comment_009.png
+5 p- Sword_Without_comment_010.png
+C20
+4 p- Sword_Without_comment_029.png
+4 p- Sword_Without_comment_009.png
+5 p- Sword_Without_comment_010.png
+2 p- Sword_Without_comment_006.png
+C20
+C09
+1 p- Sword_Without_comment_007.png
+C01
+8 p- Sword_Without_comment_008.png
+C23
+3 p- Sword_Without_comment_009.png
+8 p- Sword_Without_comment_010.png
+C34
+4 p- Sword_Without_comment_011.png
+4 p- Sword_Without_comment_012.png
+4 p- Sword_Without_comment_013.png
+6 p- Sword_Without_comment_014.png
+3 p- Sword_Without_comment_015.png
+3 p- Sword_Without_comment_016.png
+4 p- Sword_Without_comment_017.png
+C34
+4 p- Sword_Without_comment_018.png
+7 p- Sword_Without_comment_019.png
+1 p- Sword_Without_comment_020.png
+C06
+3 p- Sword_Without_comment_020.png
+3 p- Sword_Without_comment_021.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Sword_Without_comment_000.png
+1 p- Sword_Without_comment_001.png
+1 p- Sword_Without_comment_002.png
+1 p- Sword_Without_comment_003.png
+4 p- Sword_Without_comment_004.png
+4 p- Sword_Without_comment_030.png
+C05
+1 p- Sword_Without_comment_031.png
+C01
+3 p- Sword_Without_comment_032.png
+C06
+3 p- Sword_Without_comment_033.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Sword_Without_comment_000.png
+1 p- Sword_Without_comment_001.png
+1 p- Sword_Without_comment_002.png
+1 p- Sword_Without_comment_003.png
+4 p- Sword_Without_comment_004.png
+4 p- Sword_Without_comment_030.png
+2 p- Sword_Without_comment_031.png
+2 p- Sword_Without_comment_034.png
+1 p- Sword_Without_comment_031.png
+1 p- Sword_Without_comment_034.png
+2 p- Sword_Without_comment_031.png
+2 p- Sword_Without_comment_034.png
+1 p- Sword_Without_comment_031.png
+2 p- Sword_Without_comment_034.png
+1 p- Sword_Without_comment_031.png
+1 p- Sword_Without_comment_034.png
+C05
+1 p- Sword_Without_comment_031.png
+C01
+3 p- Sword_Without_comment_032.png
+C06
+3 p- Sword_Without_comment_033.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Sword_Without_comment_000.png
+C0E
+3 p- Sword_Without_comment_035.png
+1 p- Sword_Without_comment_036.png
+C01
+3 p- Sword_Without_comment_035.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Sword_Without_comment_000.png
+C0E
+3 p- Sword_Without_comment_035.png
+1 p- Sword_Without_comment_036.png
+C01
+3 p- Sword_Without_comment_035.png
+C0D
+~~~
+/// - Mode 9
+1 p- Sword_Without_comment_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Sword_Without_comment_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Sword_Without_comment_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Sword_Without_comment_000.png
+1 p- Sword_Without_comment_001.png
+4 p- Sword_Without_comment_002.png
+4 p- Sword_Without_comment_003.png
+6 p- Sword_Without_comment_004.png
+4 p- Sword_Without_comment_005.png
+C22
+C04
+2 p- Sword_Without_comment_006.png
+1 p- Sword_Without_comment_007.png
+8 p- Sword_Without_comment_008.png
+9 p- Sword_Without_comment_009.png
+C23
+3 p- Sword_Without_comment_010.png
+8 p- Sword_Without_comment_011.png
+C34
+4 p- Sword_Without_comment_012.png
+4 p- Sword_Without_comment_013.png
+4 p- Sword_Without_comment_014.png
+6 p- Sword_Without_comment_015.png
+C01
+3 p- Sword_Without_comment_016.png
+3 p- Sword_Without_comment_017.png
+4 p- Sword_Without_comment_018.png
+C34
+4 p- Sword_Without_comment_019.png
+7 p- Sword_Without_comment_020.png
+1 p- Sword_Without_comment_020.png
+C06
+3 p- Sword_Without_comment_021.png
+3 p- Sword_Without_comment_000.png
+C0D
+~~~
+/// - End of animation

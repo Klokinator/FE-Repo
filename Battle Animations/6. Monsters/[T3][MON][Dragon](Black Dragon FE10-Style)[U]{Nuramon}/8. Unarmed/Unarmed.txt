@@ -1,0 +1,80 @@
+#######################################################
+#
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 5               #Ranged Animation 
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 6               #Ranged Critical Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 7               #Dodge Melee Dragonstone
+C02                               #Start of dodge
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+6 p- Unarmed_001.png
+6 p- Unarmed_002.png
+C25                               #Play wing flap SFE
+8 p- Unarmed_003.png
+8 p- Unarmed_004.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+8 p- Unarmed_003.png
+8 p- Unarmed_004.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+8 p- Unarmed_005.png
+5 p- Unarmed_006.png
+5 p- Unarmed_007.png
+3 p- Unarmed_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Dragonstone
+C02                               #Start of dodge
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+6 p- Unarmed_001.png
+6 p- Unarmed_002.png
+C25                               #Play wing flap SFE
+8 p- Unarmed_003.png
+8 p- Unarmed_004.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+8 p- Unarmed_003.png
+8 p- Unarmed_004.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+8 p- Unarmed_005.png
+5 p- Unarmed_006.png
+5 p- Unarmed_007.png
+3 p- Unarmed_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Dragonstone Missed Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - End of animation

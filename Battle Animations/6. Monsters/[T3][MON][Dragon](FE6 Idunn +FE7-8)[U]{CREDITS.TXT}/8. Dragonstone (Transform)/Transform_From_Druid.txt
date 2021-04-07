@@ -1,0 +1,125 @@
+/// - Mode 1
+S02BA
+2 p- Transform_From_Druid_000.png
+2 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_000.png
+C51
+3 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_002.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+1 p- Transform_From_Druid_001.png
+1 p- Transform_From_Druid_003.png
+C51
+13 p- Transform_From_Druid_003.png
+3 p- Transform_From_Druid_004.png
+3 p- Transform_From_Druid_005.png
+4 p- Transform_From_Druid_006.png
+36 p- Transform_From_Druid_007.png
+27 p- Transform_From_Druid_007.png
+19 p- Transform_From_Druid_007.png
+33 p- Transform_From_Druid_007.png
+~~~
+/// - Mode 3
+3 p- Transform_From_Druid_006.png
+~~~
+/// - Mode 5
+1 p- Transform_From_Druid_007.png
+~~~
+/// - Mode 6
+1 p- Transform_From_Druid_007.png
+~~~
+/// - Mode 7
+1 p- Transform_From_Druid_007.png
+~~~
+/// - Mode 8
+1 p- Transform_From_Druid_007.png
+~~~
+/// - Mode 9
+1 p- Transform_From_Druid_007.png
+C01
+~~~
+/// - Mode 10
+1 p- Transform_From_Druid_007.png
+C01
+~~~
+/// - Mode 11
+1 p- Transform_From_Druid_007.png
+C01
+~~~
+/// - Mode 12
+1 p- Transform_From_Druid_007.png
+~~~
+/// - End of animation

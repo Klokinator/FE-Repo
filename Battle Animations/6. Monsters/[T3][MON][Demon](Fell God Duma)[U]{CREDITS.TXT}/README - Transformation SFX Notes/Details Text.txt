@@ -1,0 +1,24 @@
+Japanese:
+
+必ず効果音は無音に設定してください。
+↓やり方↓
+どの効果音でもいいので適当に移植して、楽器を0に変更してください。
+そうすると、音を発生させる楽器がなくなるので無音になります。
+できたら、ソングテーブルの"Priority(Player Type)"を
+必ず"00020002=Mid-High"に変更して、
+ソングトラックから"Priority"を14に変更し、
+そのすぐ右にある"Reverb"を0に変更したら無音の完了です！
+
+--------------------------------------------------------------------------
+English:
+
+Be sure to set the sound effects to silent.
+↓How to introduce silence↓
+You can port any sound effect as you see fit and change the instrument to 0. 
+If you do so, there will be no more instruments to generate sound, 
+so it will be silent.
+When you're done, 
+be sure to change "Priority (Player Type)" to 
+"00020002=Mid-High" in the song table, change "Priority" to 
+14 in the song track, and 
+change "Reverb" to 0 just to the right of "Reverb" to complete the silence!

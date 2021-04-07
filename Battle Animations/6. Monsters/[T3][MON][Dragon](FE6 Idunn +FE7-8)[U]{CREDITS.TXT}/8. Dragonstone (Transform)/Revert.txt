@@ -1,0 +1,84 @@
+/// - Mode 1
+1 p- Revert_000.png
+3 p- Revert_001.png
+3 p- Revert_002.png
+3 p- Revert_003.png
+SE9
+2 p- Revert_004.png
+C51
+3 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_004.png
+1 p- Revert_005.png
+1 p- Revert_006.png
+1 p- Revert_005.png
+1 p- Revert_006.png
+1 p- Revert_005.png
+1 p- Revert_006.png
+1 p- Revert_005.png
+1 p- Revert_006.png
+C51
+3 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+1 p- Revert_006.png
+1 p- Revert_007.png
+2 p- Revert_006.png
+2 p- Revert_007.png
+~~~
+/// - Mode 3
+3 p- Revert_001.png
+~~~
+/// - Mode 5
+1 p- Revert_000.png
+~~~
+/// - Mode 6
+1 p- Revert_000.png
+~~~
+/// - Mode 7
+1 p- Revert_000.png
+~~~
+/// - Mode 8
+1 p- Revert_000.png
+~~~
+/// - Mode 9
+1 p- Revert_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Revert_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Revert_000.png
+C01
+~~~
+/// - Mode 12
+1 p- Revert_000.png
+~~~
+/// - End of animation

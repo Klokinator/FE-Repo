@@ -1,0 +1,205 @@
+//Generated with Skill Animation Creator.
+
+ORG $?????? //free space in your rom
+
+#incbin skillanimtemplate.dmp
+POIN Frames
+POIN TSAList
+POIN GraphicsList
+POIN PalettesList
+WORD 0x314 //sound id
+
+Frames:    //SHORT image duration
+SHORT 0 2
+SHORT 1 2
+SHORT 2 2
+SHORT 3 2
+SHORT 4 2
+SHORT 5 2
+SHORT 6 2
+SHORT 7 2
+SHORT 8 2
+SHORT 9 2
+SHORT 10 2
+SHORT 11 2
+SHORT 12 2
+SHORT 13 2
+SHORT 14 2
+SHORT 15 2
+SHORT 16 2
+SHORT 17 2
+SHORT 0xFFFF
+ALIGN 4
+
+TSAList:
+POIN TSA_Divine1
+POIN TSA_Divine2
+POIN TSA_Divine3
+POIN TSA_Divine4
+POIN TSA_Divine5
+POIN TSA_Divine6
+POIN TSA_Divine7
+POIN TSA_Divine8
+POIN TSA_Divine9
+POIN TSA_Divine10
+POIN TSA_Divine11
+POIN TSA_Divine12
+POIN TSA_Divine13
+POIN TSA_Divine14
+POIN TSA_Divine15
+POIN TSA_Divine16
+POIN TSA_Divine17
+POIN TSA_Divine18
+
+GraphicsList:
+POIN Graphics_Divine1
+POIN Graphics_Divine2
+POIN Graphics_Divine3
+POIN Graphics_Divine4
+POIN Graphics_Divine5
+POIN Graphics_Divine6
+POIN Graphics_Divine7
+POIN Graphics_Divine8
+POIN Graphics_Divine9
+POIN Graphics_Divine10
+POIN Graphics_Divine11
+POIN Graphics_Divine12
+POIN Graphics_Divine13
+POIN Graphics_Divine14
+POIN Graphics_Divine15
+POIN Graphics_Divine16
+POIN Graphics_Divine17
+POIN Graphics_Divine18
+
+PalettesList:
+POIN Pal_Divine1
+POIN Pal_Divine2
+POIN Pal_Divine3
+POIN Pal_Divine4
+POIN Pal_Divine5
+POIN Pal_Divine6
+POIN Pal_Divine7
+POIN Pal_Divine8
+POIN Pal_Divine9
+POIN Pal_Divine10
+POIN Pal_Divine11
+POIN Pal_Divine12
+POIN Pal_Divine13
+POIN Pal_Divine14
+POIN Pal_Divine15
+POIN Pal_Divine16
+POIN Pal_Divine17
+POIN Pal_Divine18
+
+TSA_Divine1:
+#incbin "Divine1.map.bin"
+TSA_Divine2:
+#incbin "Divine2.map.bin"
+TSA_Divine3:
+#incbin "Divine3.map.bin"
+TSA_Divine4:
+#incbin "Divine4.map.bin"
+TSA_Divine5:
+#incbin "Divine5.map.bin"
+TSA_Divine6:
+#incbin "Divine6.map.bin"
+TSA_Divine7:
+#incbin "Divine7.map.bin"
+TSA_Divine8:
+#incbin "Divine8.map.bin"
+TSA_Divine9:
+#incbin "Divine9.map.bin"
+TSA_Divine10:
+#incbin "Divine10.map.bin"
+TSA_Divine11:
+#incbin "Divine11.map.bin"
+TSA_Divine12:
+#incbin "Divine12.map.bin"
+TSA_Divine13:
+#incbin "Divine13.map.bin"
+TSA_Divine14:
+#incbin "Divine14.map.bin"
+TSA_Divine15:
+#incbin "Divine15.map.bin"
+TSA_Divine16:
+#incbin "Divine16.map.bin"
+TSA_Divine17:
+#incbin "Divine17.map.bin"
+TSA_Divine18:
+#incbin "Divine18.map.bin"
+
+Graphics_Divine1:
+#incbin "Divine1.img.bin"
+Graphics_Divine2:
+#incbin "Divine2.img.bin"
+Graphics_Divine3:
+#incbin "Divine3.img.bin"
+Graphics_Divine4:
+#incbin "Divine4.img.bin"
+Graphics_Divine5:
+#incbin "Divine5.img.bin"
+Graphics_Divine6:
+#incbin "Divine6.img.bin"
+Graphics_Divine7:
+#incbin "Divine7.img.bin"
+Graphics_Divine8:
+#incbin "Divine8.img.bin"
+Graphics_Divine9:
+#incbin "Divine9.img.bin"
+Graphics_Divine10:
+#incbin "Divine10.img.bin"
+Graphics_Divine11:
+#incbin "Divine11.img.bin"
+Graphics_Divine12:
+#incbin "Divine12.img.bin"
+Graphics_Divine13:
+#incbin "Divine13.img.bin"
+Graphics_Divine14:
+#incbin "Divine14.img.bin"
+Graphics_Divine15:
+#incbin "Divine15.img.bin"
+Graphics_Divine16:
+#incbin "Divine16.img.bin"
+Graphics_Divine17:
+#incbin "Divine17.img.bin"
+Graphics_Divine18:
+#incbin "Divine18.img.bin"
+
+Pal_Divine1:
+#incbin "Divine1.pal.bin"
+Pal_Divine2:
+#incbin "Divine2.pal.bin"
+Pal_Divine3:
+#incbin "Divine3.pal.bin"
+Pal_Divine4:
+#incbin "Divine4.pal.bin"
+Pal_Divine5:
+#incbin "Divine5.pal.bin"
+Pal_Divine6:
+#incbin "Divine6.pal.bin"
+Pal_Divine7:
+#incbin "Divine7.pal.bin"
+Pal_Divine8:
+#incbin "Divine8.pal.bin"
+Pal_Divine9:
+#incbin "Divine9.pal.bin"
+Pal_Divine10:
+#incbin "Divine10.pal.bin"
+Pal_Divine11:
+#incbin "Divine11.pal.bin"
+Pal_Divine12:
+#incbin "Divine12.pal.bin"
+Pal_Divine13:
+#incbin "Divine13.pal.bin"
+Pal_Divine14:
+#incbin "Divine14.pal.bin"
+Pal_Divine15:
+#incbin "Divine15.pal.bin"
+Pal_Divine16:
+#incbin "Divine16.pal.bin"
+Pal_Divine17:
+#incbin "Divine17.pal.bin"
+Pal_Divine18:
+#incbin "Divine18.pal.bin"
+
+MESSAGE Data ends at CURRENTOFFSET

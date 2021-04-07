@@ -1,0 +1,115 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000003                               #Start attack animation; should be followed by 0x07
+C000007                               #Start attack animation; should be preceeded by 0x03
+C101029                               #Background brightness and opacity XX
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C012748                               #Sound 295 SE:Divine charging
+O Spell_o_000.png
+B Spell_b_001.png
+4
+
+O Spell_o_000.png
+B Spell_b_002.png
+4
+
+O Spell_o_000.png
+B Spell_b_003.png
+5
+
+O Spell_o_000.png
+B Spell_b_004.png
+5
+
+O Spell_o_000.png
+B Spell_b_005.png
+5
+
+O Spell_o_000.png
+B Spell_b_006.png
+6
+
+O Spell_o_000.png
+B Spell_b_007.png
+6
+
+O Spell_o_000.png
+B Spell_b_008.png
+2
+
+O Spell_o_000.png
+B Spell_b_009.png
+2
+
+O Spell_o_000.png
+B Spell_b_010.png
+2
+
+O Spell_o_000.png
+B Spell_b_011.png
+2
+
+O Spell_o_000.png
+B Spell_b_012.png
+2
+
+O Spell_o_000.png
+B Spell_b_013.png
+2
+
+O Spell_o_000.png
+B Spell_b_014.png
+2
+
+O Spell_o_000.png
+B Spell_b_015.png
+2
+
+O Spell_o_000.png
+B Spell_b_016.png
+4
+
+O Spell_o_000.png
+B Spell_b_017.png
+4
+
+O Spell_o_000.png
+B Spell_b_018.png
+4
+
+O Spell_o_000.png
+B Spell_b_019.png
+4
+
+C00001A                               #Required before 1F or miss termination branch
+C00001F                               #Play a hit tone (requires 1A just before)
+C000004                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C000001                               #Wait for HP to deplete
+C012348                               #Sound 291 SE:Fimbulvetr ice
+O Spell_o_000.png
+B Spell_b_020.png
+4
+
+O Spell_o_000.png
+B Spell_b_021.png
+4
+
+O Spell_o_000.png
+B Spell_b_022.png
+3
+
+O Spell_o_000.png
+B Spell_b_023.png
+3
+
+O Spell_o_000.png
+B Spell_b_024.png
+2
+
+O Spell_o_000.png
+B Spell_b_025.png
+2
+
+/// - End of animation

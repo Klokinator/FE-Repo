@@ -1,0 +1,243 @@
+/// - Mode 1
+1 p- Transform_000.png
+C0E
+6 p- Transform_001.png
+C25
+6 p- Transform_002.png
+1 p- Transform_003.png
+1 p- Transform_004.png
+1 p- Transform_005.png
+1 p- Transform_006.png
+1 p- Transform_005.png
+1 p- Transform_007.png
+1 p- Transform_005.png
+1 p- Transform_007.png
+1 p- Transform_005.png
+1 p- Transform_008.png
+13 p- Transform_005.png
+SDF
+1 p- Transform_009.png
+1 p- Transform_010.png
+1 p- Transform_009.png
+1 p- Transform_011.png
+1 p- Transform_009.png
+1 p- Transform_012.png
+1 p- Transform_009.png
+1 p- Transform_013.png
+1 p- Transform_009.png
+1 p- Transform_014.png
+1 p- Transform_009.png
+1 p- Transform_015.png
+1 p- Transform_009.png
+1 p- Transform_016.png
+1 p- Transform_009.png
+1 p- Transform_017.png
+1 p- Transform_009.png
+1 p- Transform_018.png
+1 p- Transform_009.png
+1 p- Transform_019.png
+1 p- Transform_009.png
+1 p- Transform_020.png
+1 p- Transform_009.png
+1 p- Transform_021.png
+1 p- Transform_009.png
+1 p- Transform_022.png
+1 p- Transform_009.png
+1 p- Transform_023.png
+1 p- Transform_009.png
+1 p- Transform_024.png
+1 p- Transform_025.png
+1 p- Transform_026.png
+1 p- Transform_009.png
+1 p- Transform_027.png
+1 p- Transform_009.png
+1 p- Transform_028.png
+1 p- Transform_009.png
+1 p- Transform_029.png
+1 p- Transform_009.png
+1 p- Transform_030.png
+1 p- Transform_009.png
+1 p- Transform_031.png
+1 p- Transform_025.png
+1 p- Transform_032.png
+1 p- Transform_009.png
+1 p- Transform_033.png
+1 p- Transform_009.png
+1 p- Transform_034.png
+1 p- Transform_009.png
+1 p- Transform_035.png
+1 p- Transform_025.png
+1 p- Transform_036.png
+1 p- Transform_009.png
+1 p- Transform_037.png
+1 p- Transform_009.png
+1 p- Transform_038.png
+1 p- Transform_009.png
+1 p- Transform_039.png
+1 p- Transform_025.png
+1 p- Transform_040.png
+1 p- Transform_009.png
+1 p- Transform_041.png
+1 p- Transform_009.png
+1 p- Transform_042.png
+1 p- Transform_009.png
+1 p- Transform_043.png
+1 p- Transform_025.png
+1 p- Transform_044.png
+1 p- Transform_009.png
+1 p- Transform_045.png
+1 p- Transform_009.png
+1 p- Transform_046.png
+1 p- Transform_009.png
+1 p- Transform_047.png
+1 p- Transform_025.png
+1 p- Transform_048.png
+1 p- Transform_009.png
+1 p- Transform_049.png
+1 p- Transform_009.png
+1 p- Transform_050.png
+1 p- Transform_009.png
+1 p- Transform_051.png
+1 p- Transform_025.png
+1 p- Transform_052.png
+1 p- Transform_009.png
+1 p- Transform_053.png
+1 p- Transform_009.png
+1 p- Transform_054.png
+1 p- Transform_009.png
+1 p- Transform_055.png
+1 p- Transform_009.png
+1 p- Transform_056.png
+1 p- Transform_009.png
+1 p- Transform_057.png
+1 p- Transform_009.png
+1 p- Transform_057.png
+1 p- Transform_009.png
+1 p- Transform_057.png
+1 p- Transform_025.png
+1 p- Transform_057.png
+1 p- Transform_025.png
+1 p- Transform_057.png
+1 p- Transform_025.png
+1 p- Transform_057.png
+1 p- Transform_025.png
+1 p- Transform_058.png
+1 p- Transform_025.png
+1 p- Transform_059.png
+1 p- Transform_025.png
+1 p- Transform_060.png
+1 p- Transform_025.png
+C51
+C14
+S02F0
+5 p- Transform_061.png
+1 p- Transform_062.png
+1 p- Transform_063.png
+C14
+6 p- Transform_064.png
+2 p- Transform_065.png
+C14
+2 p- Transform_066.png
+2 p- Transform_067.png
+2 p- Transform_068.png
+2 p- Transform_069.png
+C14
+2 p- Transform_070.png
+2 p- Transform_071.png
+2 p- Transform_072.png
+C14
+2 p- Transform_073.png
+2 p- Transform_074.png
+2 p- Transform_075.png
+2 p- Transform_076.png
+C14
+2 p- Transform_077.png
+2 p- Transform_078.png
+4 p- Transform_064.png
+C14
+14 p- Transform_064.png
+C14
+8 p- Transform_064.png
+C14
+8 p- Transform_064.png
+C14
+8 p- Transform_064.png
+C14
+14 p- Transform_064.png
+4 p- Transform_079.png
+6 p- Transform_080.png
+4 p- Transform_079.png
+11 p- Transform_064.png
+4 p- Transform_079.png
+6 p- Transform_080.png
+4 p- Transform_079.png
+27 p- Transform_064.png
+10 p- Transform_081.png
+4 p- Transform_064.png
+3 p- Transform_082.png
+19 p- Transform_083.png
+3 p- Transform_082.png
+4 p- Transform_064.png
+13 p- Transform_081.png
+S02F1
+C14
+3 p- Transform_084.png
+4 p- Transform_085.png
+C14
+3 p- Transform_084.png
+4 p- Transform_085.png
+C14
+3 p- Transform_084.png
+4 p- Transform_085.png
+C14
+3 p- Transform_084.png
+4 p- Transform_085.png
+C14
+3 p- Transform_084.png
+4 p- Transform_085.png
+C14
+3 p- Transform_084.png
+4 p- Transform_085.png
+C14
+3 p- Transform_084.png
+4 p- Transform_085.png
+C14
+2 p- Transform_084.png
+3 p- Transform_085.png
+2 p- Transform_084.png
+C14
+7 p- Transform_064.png
+C14
+10 p- Transform_064.png
+15 p- Transform_064.png
+25 p- Transform_064.png
+30 p- Transform_064.png
+~~~
+/// - Mode 3
+4 p- Transform_000.png
+~~~
+/// - Mode 5
+4 p- Transform_000.png
+~~~
+/// - Mode 6
+4 p- Transform_000.png
+~~~
+/// - Mode 7
+4 p- Transform_000.png
+~~~
+/// - Mode 8
+4 p- Transform_000.png
+~~~
+/// - Mode 9
+4 p- Transform_000.png
+~~~
+/// - Mode 10
+4 p- Transform_000.png
+~~~
+/// - Mode 11
+4 p- Transform_000.png
+~~~
+/// - Mode 12
+4 p- Transform_000.png
+~~~
+/// - End of animation

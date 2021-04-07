@@ -1,0 +1,1 @@
+Import the .s file in the Sount Effect folder into the song table spot labelled on it, followed by the .instrument one.

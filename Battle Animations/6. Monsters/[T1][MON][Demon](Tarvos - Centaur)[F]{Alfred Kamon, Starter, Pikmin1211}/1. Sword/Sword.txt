@@ -1,0 +1,210 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+5 p- Sword_000.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+3 p- Sword_001.png
+4 p- Sword_002.png
+C23                                     #Play shorter sword swinging SFE
+2 p- Sword_002.png
+14 p- Sword_003.png
+3 p- Sword_004.png
+1 p- Sword_005.png
+C22                                     #Play short sword swinging SFE
+3 p- Sword_005.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_006.png
+C1D                                     #Play light horse stepping SFE; pitch increases
+6 p- Sword_007.png
+C1A                                     #Normal hit
+C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+4 p- Sword_008.png
+C01                                     #NOP
+C22                                     #Play short sword swinging SFE
+4 p- Sword_009.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_010.png
+C1D                                     #Play light horse stepping SFE; pitch increases
+5 p- Sword_011.png
+4 p- Sword_012.png
+4 p- Sword_013.png
+3 p- Sword_014.png
+5 p- Sword_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+5 p- Sword_000.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+3 p- Sword_001.png
+4 p- Sword_002.png
+C23                                     #Play shorter sword swinging SFE
+2 p- Sword_002.png
+3 p- Sword_003.png
+C24                                     #Play sword slashing air SFE
+2 p- Sword_015.png
+2 p- Sword_016.png
+2 p- Sword_017.png
+3 p- Sword_018.png
+C24                                     #Play sword slashing air SFE
+2 p- Sword_019.png
+2 p- Sword_016.png
+2 p- Sword_017.png
+3 p- Sword_018.png
+3 p- Sword_005.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_006.png
+C1D                                     #Play light horse stepping SFE; pitch increases
+6 p- Sword_007.png
+C08                                     #Critical hit
+C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+4 p- Sword_008.png
+C01                                     #NOP
+C22                                     #Play short sword swinging SFE
+4 p- Sword_009.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_010.png
+C1D                                     #Play light horse stepping SFE; pitch increases
+5 p- Sword_011.png
+4 p- Sword_012.png
+4 p- Sword_013.png
+3 p- Sword_014.png
+5 p- Sword_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+5 p- Sword_000.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+3 p- Sword_001.png
+4 p- Sword_002.png
+C23                                     #Play shorter sword swinging SFE
+2 p- Sword_002.png
+14 p- Sword_003.png
+3 p- Sword_004.png
+1 p- Sword_005.png
+C05                                     #Call spell associated with equipped weapon
+C01                                     #NOP
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C22                                     #Play short sword swinging SFE
+4 p- Sword_004.png
+3 p- Sword_003.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_002.png
+3 p- Sword_001.png
+5 p- Sword_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+5 p- Sword_000.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+3 p- Sword_001.png
+4 p- Sword_002.png
+C23                                     #Play shorter sword swinging SFE
+2 p- Sword_002.png
+3 p- Sword_003.png
+C24                                     #Play sword slashing air SFE
+2 p- Sword_015.png
+2 p- Sword_016.png
+2 p- Sword_017.png
+3 p- Sword_018.png
+C24                                     #Play sword slashing air SFE
+2 p- Sword_019.png
+2 p- Sword_016.png
+2 p- Sword_017.png
+3 p- Sword_018.png
+3 p- Sword_005.png
+C05                                     #Call spell associated with equipped weapon
+C01                                     #NOP
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C22                                     #Play short sword swinging SFE
+4 p- Sword_004.png
+3 p- Sword_003.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_002.png
+3 p- Sword_001.png
+5 p- Sword_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Monster
+C02                                     #Start of dodge
+2 p- Sword_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+16 p- Sword_020.png
+C01                                     #NOP
+5 p- Sword_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Monster
+C02                                     #Start of dodge
+2 p- Sword_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+16 p- Sword_020.png
+C01                                     #NOP
+5 p- Sword_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Sword_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+1 p- Sword_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Sword_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Monster Missed Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+5 p- Sword_000.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+3 p- Sword_001.png
+4 p- Sword_002.png
+C23                                     #Play shorter sword swinging SFE
+2 p- Sword_002.png
+14 p- Sword_003.png
+3 p- Sword_004.png
+1 p- Sword_005.png
+C22                                     #Play short sword swinging SFE
+3 p- Sword_005.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_006.png
+C1D                                     #Play light horse stepping SFE; pitch increases
+6 p- Sword_007.png
+C1A                                     #Normal hit
+C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+4 p- Sword_021.png
+C01                                     #NOP
+C22                                     #Play short sword swinging SFE
+4 p- Sword_009.png
+C1C                                     #Play light horse stepping SFE; pitch decreases
+4 p- Sword_010.png
+C1D                                     #Play light horse stepping SFE; pitch increases
+5 p- Sword_011.png
+4 p- Sword_012.png
+4 p- Sword_013.png
+3 p- Sword_014.png
+5 p- Sword_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

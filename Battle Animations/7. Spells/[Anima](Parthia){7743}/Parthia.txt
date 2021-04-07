@@ -1,0 +1,101 @@
+/// - パルティア/Parthia by 7743
+C101029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+C40                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+C00F148
+O  p- blank.png
+B  p- Img3.png
+1
+O  p- blank.png
+B  p- Img4.png
+1
+O  p- blank.png
+B  p- Img5.png
+1
+O  p- blank.png
+B  p- Img6.png
+1
+O  p- blank.png
+B  p- Img7.png
+1
+O  p- blank.png
+B  p- Img8.png
+1
+O  p- blank.png
+B  p- Img9.png
+1
+C1A                               #1Fまたはミス終端分岐の前に必要
+C1F                               #ヒット音を鳴らす(直前に1Aが必要)
+~~~
+C51                               #Show brief white flash animation
+C15                               #画面揺れる 小さい
+O  p- blank.png
+B  p- Img10.png
+1
+C00F248
+O  p- blank.png
+B  p- Img11.png
+1
+C00F248
+O  p- blank.png
+B  p- Img12.png
+1
+C00F248
+O  p- blank.png
+B  p- Img13.png
+1
+C00F248
+O  p- blank.png
+B  p- Img14.png
+1
+C00F248
+O  p- blank.png
+B  p- Img15.png
+1
+C00F248
+O  p- blank.png
+B  p- Img16.png
+1
+C00F248
+O  p- blank.png
+B  p- Img17.png
+1
+C00F248
+C15                               #画面揺れる 小さい
+O  p- blank.png
+B  p- Img18.png
+1
+C00F248
+O  p- blank.png
+B  p- Img19.png
+1
+C00F248
+O  p- blank.png
+B  p- Img20.png
+1
+C00F248
+O  p- blank.png
+B  p- Img21.png
+1
+C00F248
+O  p- blank.png
+B  p- Img22.png
+1
+C00F248
+O  p- blank.png
+B  p- Img23.png
+1
+C00F248
+O  p- blank.png
+B  p- Img24.png
+1
+C00F248
+O  p- blank.png
+B  p- Img25.png
+1
+C00F748
+O  p- blank.png
+B  p- Img26.png
+2
+C15                               #画面揺れる 小さい
+C00012A
+/// - End Animation

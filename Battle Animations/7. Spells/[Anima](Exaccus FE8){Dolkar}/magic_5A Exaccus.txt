@@ -1,0 +1,45 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C100829                               #Background brightness and opacity XX
+C000153                               #screen stretching YY
+C010C48                               #Sound 268 SE:Ekkesachs Range Attack
+O magic_5A Exaccus_o_000.png
+B magic_5A Exaccus_b_001.png
+1
+
+O magic_5A Exaccus_o_000.png
+B magic_5A Exaccus_b_002.png
+1
+
+O magic_5A Exaccus_o_000.png
+B magic_5A Exaccus_b_003.png
+1
+
+O magic_5A Exaccus_o_000.png
+B magic_5A Exaccus_b_004.png
+1
+
+O magic_5A Exaccus_o_000.png
+B magic_5A Exaccus_b_005.png
+1
+
+O magic_5A Exaccus_o_000.png
+B magic_5A Exaccus_b_006.png
+1
+
+O magic_5A Exaccus_o_000.png
+B magic_5A Exaccus_b_007.png
+1
+
+C00001F                               #Play a hit tone (requires 1A just before)
+C00001A                               #Required before 1F or miss termination branch
+~                               #miss terminator
+C000053                               #screen stretching YY
+/// - End of animation

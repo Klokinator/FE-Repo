@@ -1,0 +1,213 @@
+//ファイガ FF5
+C02C248          #Sound
+C000040                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+O dummy.png
+B img138.png
+4
+O dummy.png
+B img141.png
+3
+O dummy.png
+B img144.png
+3
+O dummy.png
+B img147.png
+3
+O dummy.png
+B img150.png
+3
+O dummy.png
+B img154.png
+2
+O dummy.png
+B img158.png
+2
+O dummy.png
+B img162.png
+2
+C00F148                               #Sound 
+O dummy.png
+B img166.png
+1
+O dummy.png
+B img168.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img170.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img172.png
+1
+O dummy.png
+B img154.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img174.png
+1
+O dummy.png
+B img176.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img178.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img180.png
+1
+O dummy.png
+B img154.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img182.png
+1
+O dummy.png
+B img184.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img186.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img186.png
+1
+O dummy.png
+B img154.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img188.png
+1
+O dummy.png
+B img190.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img192.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img194.png
+1
+O dummy.png
+B img154.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img198.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img200.png
+1
+O dummy.png
+B img154.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img202.png
+1
+O dummy.png
+B img204.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img206.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img208.png
+1
+O dummy.png
+B img154.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img210.png
+1
+O dummy.png
+B img212.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img214.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img216.png
+1
+O dummy.png
+B img154.png
+1
+C00F148                               #Sound 
+O dummy.png
+B img218.png
+1
+O dummy.png
+B img220.png
+1
+C00001A                               #1Fまたはミス終端分岐の前に必要
+~                                     #miss terminator
+C00001F                               #ヒット音を鳴らす(直前に1Aが必要)
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img222.png
+1
+O dummy.png
+B img224.png
+1
+O dummy.png
+B img226.png
+1
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img228.png
+1
+O dummy.png
+B img230.png
+1
+O dummy.png
+B img154.png
+1
+O dummy.png
+B img232.png
+1
+O dummy.png
+B img234.png
+1
+O dummy.png
+B img236.png
+1
+
+
+/// - End of animation

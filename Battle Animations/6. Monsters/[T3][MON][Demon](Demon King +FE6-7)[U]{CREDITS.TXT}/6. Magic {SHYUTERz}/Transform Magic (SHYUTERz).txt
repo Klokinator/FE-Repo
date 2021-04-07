@@ -1,0 +1,81 @@
+/// - Mode 1
+C03
+C07
+S0380
+1 p- Transform Magic (SHYUTERz)_000.png
+2 p- Transform Magic (SHYUTERz)_001.png
+2 p- Transform Magic (SHYUTERz)_002.png
+2 p- Transform Magic (SHYUTERz)_003.png
+2 p- Transform Magic (SHYUTERz)_004.png
+2 p- Transform Magic (SHYUTERz)_005.png
+2 p- Transform Magic (SHYUTERz)_006.png
+2 p- Transform Magic (SHYUTERz)_007.png
+2 p- Transform Magic (SHYUTERz)_008.png
+2 p- Transform Magic (SHYUTERz)_009.png
+2 p- Transform Magic (SHYUTERz)_010.png
+2 p- Transform Magic (SHYUTERz)_011.png
+2 p- Transform Magic (SHYUTERz)_012.png
+2 p- Transform Magic (SHYUTERz)_013.png
+2 p- Transform Magic (SHYUTERz)_014.png
+2 p- Transform Magic (SHYUTERz)_015.png
+3 p- Transform Magic (SHYUTERz)_016.png
+4 p- Transform Magic (SHYUTERz)_017.png
+4 p- Transform Magic (SHYUTERz)_018.png
+4 p- Transform Magic (SHYUTERz)_019.png
+6 p- Transform Magic (SHYUTERz)_020.png
+7 p- Transform Magic (SHYUTERz)_021.png
+7 p- Transform Magic (SHYUTERz)_022.png
+30 p- Transform Magic (SHYUTERz)_023.png
+25 p- Transform Magic (SHYUTERz)_023.png
+15 p- Transform Magic (SHYUTERz)_023.png
+1 p- Transform Magic (SHYUTERz)_023.png
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Transform Magic (SHYUTERz)_024.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Transform Magic (SHYUTERz)_024.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Transform Magic (SHYUTERz)_024.png
+C06
+C0D
+~~~
+/// - Mode 7
+1 p- Transform Magic (SHYUTERz)_024.png
+C01
+~~~
+/// - Mode 8
+1 p- Transform Magic (SHYUTERz)_024.png
+C01
+~~~
+/// - Mode 9
+1 p- Transform Magic (SHYUTERz)_024.png
+C01
+~~~
+/// - Mode 10
+1 p- Transform Magic (SHYUTERz)_024.png
+C01
+~~~
+/// - Mode 11
+1 p- Transform Magic (SHYUTERz)_024.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Transform Magic (SHYUTERz)_024.png
+C06
+C0D
+~~~
+/// - End of animation

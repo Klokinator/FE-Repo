@@ -1,0 +1,175 @@
+//Generated with Skill Animation Creator.
+
+ORG $?????? //free space in your rom
+
+#incbin skillanimtemplate.dmp
+POIN Frames
+POIN TSAList
+POIN GraphicsList
+POIN PalettesList
+WORD 0x3C4 //sound id
+
+Frames:    //SHORT image duration
+SHORT 0 2
+SHORT 1 2
+SHORT 2 2
+SHORT 3 2
+SHORT 4 2
+SHORT 5 2
+SHORT 6 2
+SHORT 7 2
+SHORT 8 3
+SHORT 9 2
+SHORT 10 2
+SHORT 11 2
+SHORT 12 2
+SHORT 13 2
+SHORT 14 2
+SHORT 0xFFFF
+ALIGN 4
+
+TSAList:
+POIN TSA_Creye1
+POIN TSA_Creye2
+POIN TSA_Creye3
+POIN TSA_Creye4
+POIN TSA_Creye5
+POIN TSA_Creye6
+POIN TSA_Creye7
+POIN TSA_Creye8
+POIN TSA_Creye9
+POIN TSA_Creye10
+POIN TSA_Creye11
+POIN TSA_Creye12
+POIN TSA_Creye13
+POIN TSA_Creye14
+POIN TSA_Creye15
+
+GraphicsList:
+POIN Graphics_Creye1
+POIN Graphics_Creye2
+POIN Graphics_Creye3
+POIN Graphics_Creye4
+POIN Graphics_Creye5
+POIN Graphics_Creye6
+POIN Graphics_Creye7
+POIN Graphics_Creye8
+POIN Graphics_Creye9
+POIN Graphics_Creye10
+POIN Graphics_Creye11
+POIN Graphics_Creye12
+POIN Graphics_Creye13
+POIN Graphics_Creye14
+POIN Graphics_Creye15
+
+PalettesList:
+POIN Pal_Creye1
+POIN Pal_Creye2
+POIN Pal_Creye3
+POIN Pal_Creye4
+POIN Pal_Creye5
+POIN Pal_Creye6
+POIN Pal_Creye7
+POIN Pal_Creye8
+POIN Pal_Creye9
+POIN Pal_Creye10
+POIN Pal_Creye11
+POIN Pal_Creye12
+POIN Pal_Creye13
+POIN Pal_Creye14
+POIN Pal_Creye15
+
+TSA_Creye1:
+#incbin "Creye1.map.bin"
+TSA_Creye2:
+#incbin "Creye2.map.bin"
+TSA_Creye3:
+#incbin "Creye3.map.bin"
+TSA_Creye4:
+#incbin "Creye4.map.bin"
+TSA_Creye5:
+#incbin "Creye5.map.bin"
+TSA_Creye6:
+#incbin "Creye6.map.bin"
+TSA_Creye7:
+#incbin "Creye7.map.bin"
+TSA_Creye8:
+#incbin "Creye8.map.bin"
+TSA_Creye9:
+#incbin "Creye9.map.bin"
+TSA_Creye10:
+#incbin "Creye10.map.bin"
+TSA_Creye11:
+#incbin "Creye11.map.bin"
+TSA_Creye12:
+#incbin "Creye12.map.bin"
+TSA_Creye13:
+#incbin "Creye13.map.bin"
+TSA_Creye14:
+#incbin "Creye14.map.bin"
+TSA_Creye15:
+#incbin "Creye15.map.bin"
+
+Graphics_Creye1:
+#incbin "Creye1.img.bin"
+Graphics_Creye2:
+#incbin "Creye2.img.bin"
+Graphics_Creye3:
+#incbin "Creye3.img.bin"
+Graphics_Creye4:
+#incbin "Creye4.img.bin"
+Graphics_Creye5:
+#incbin "Creye5.img.bin"
+Graphics_Creye6:
+#incbin "Creye6.img.bin"
+Graphics_Creye7:
+#incbin "Creye7.img.bin"
+Graphics_Creye8:
+#incbin "Creye8.img.bin"
+Graphics_Creye9:
+#incbin "Creye9.img.bin"
+Graphics_Creye10:
+#incbin "Creye10.img.bin"
+Graphics_Creye11:
+#incbin "Creye11.img.bin"
+Graphics_Creye12:
+#incbin "Creye12.img.bin"
+Graphics_Creye13:
+#incbin "Creye13.img.bin"
+Graphics_Creye14:
+#incbin "Creye14.img.bin"
+Graphics_Creye15:
+#incbin "Creye15.img.bin"
+
+Pal_Creye1:
+#incbin "Creye1.pal.bin"
+Pal_Creye2:
+#incbin "Creye2.pal.bin"
+Pal_Creye3:
+#incbin "Creye3.pal.bin"
+Pal_Creye4:
+#incbin "Creye4.pal.bin"
+Pal_Creye5:
+#incbin "Creye5.pal.bin"
+Pal_Creye6:
+#incbin "Creye6.pal.bin"
+Pal_Creye7:
+#incbin "Creye7.pal.bin"
+Pal_Creye8:
+#incbin "Creye8.pal.bin"
+Pal_Creye9:
+#incbin "Creye9.pal.bin"
+Pal_Creye10:
+#incbin "Creye10.pal.bin"
+Pal_Creye11:
+#incbin "Creye11.pal.bin"
+Pal_Creye12:
+#incbin "Creye12.pal.bin"
+Pal_Creye13:
+#incbin "Creye13.pal.bin"
+Pal_Creye14:
+#incbin "Creye14.pal.bin"
+Pal_Creye15:
+#incbin "Creye15.pal.bin"
+
+MESSAGE Data ends at CURRENTOFFSET

@@ -1,0 +1,109 @@
+/// - Mode 1
+1 p- Transform Back Ninian_000.png
+7 p- Transform Back Ninian_001.png
+9 p- Transform Back Ninian_002.png
+2 p- Transform Back Ninian_003.png
+2 p- Transform Back Ninian_004.png
+5 p- Transform Back Ninian_005.png
+5 p- Transform Back Ninian_006.png
+5 p- Transform Back Ninian_007.png
+4 p- Transform Back Ninian_008.png
+5 p- Transform Back Ninian_006.png
+5 p- Transform Back Ninian_007.png
+4 p- Transform Back Ninian_008.png
+4 p- Transform Back Ninian_009.png
+5 p- Transform Back Ninian_010.png
+6 p- Transform Back Ninian_011.png
+7 p- Transform Back Ninian_012.png
+8 p- Transform Back Ninian_013.png
+4 p- Transform Back Ninian_014.png
+4 p- Transform Back Ninian_015.png
+4 p- Transform Back Ninian_016.png
+4 p- Transform Back Ninian_017.png
+4 p- Transform Back Ninian_018.png
+4 p- Transform Back Ninian_019.png
+4 p- Transform Back Ninian_020.png
+C0E
+~~~
+/// - Mode 3
+C03
+C07
+3 p- Transform Back Ninian_013.png
+C04
+C08
+C1F
+C01
+3 p- Transform Back Ninian_013.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+5 p- Transform Back Ninian_013.png
+C05
+4 p- Transform Back Ninian_013.png
+C01
+4 p- Transform Back Ninian_013.png
+C06
+3 p- Transform Back Ninian_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+5 p- Transform Back Ninian_013.png
+C05
+4 p- Transform Back Ninian_013.png
+C01
+4 p- Transform Back Ninian_013.png
+C06
+3 p- Transform Back Ninian_013.png
+C0D
+~~~
+/// - Mode 7
+C02
+2 p- Transform Back Ninian_013.png
+C0E
+3 p- Transform Back Ninian_013.png
+C01
+2 p- Transform Back Ninian_013.png
+C06
+2 p- Transform Back Ninian_013.png
+C0D
+~~~
+/// - Mode 8
+C02
+2 p- Transform Back Ninian_013.png
+C0E
+3 p- Transform Back Ninian_013.png
+C01
+2 p- Transform Back Ninian_013.png
+C06
+2 p- Transform Back Ninian_013.png
+C0D
+~~~
+/// - Mode 9
+3 p- Transform Back Ninian_013.png
+C01
+~~~
+/// - Mode 10
+3 p- Transform Back Ninian_013.png
+C01
+~~~
+/// - Mode 11
+3 p- Transform Back Ninian_013.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+3 p- Transform Back Ninian_013.png
+C04
+C1F
+C01
+3 p- Transform Back Ninian_013.png
+C06
+C0D
+~~~
+/// - End of animation

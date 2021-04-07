@@ -1,0 +1,48 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+9 p- Revert_000.png
+4 p- Revert_001.png
+3 p- Revert_002.png
+3 p- Revert_002.png
+2 p- Revert_003.png
+2 p- Revert_004.png
+2 p- Revert_003.png
+3 p- Revert_005.png
+2 p- Revert_003.png
+3 p- Revert_002.png
+3 p- Revert_002.png
+3 p- Revert_006.png
+3 p- Revert_006.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+9 p- Revert_000.png
+~~~
+/// - Mode 5               #Ranged Animation 
+9 p- Revert_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+9 p- Revert_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+9 p- Revert_000.png
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+9 p- Revert_000.png
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+9 p- Revert_000.png
+~~~
+/// - Mode 10               #Standing motions
+9 p- Revert_000.png
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+9 p- Revert_000.png
+~~~
+/// - Mode 12               #Attack Missed Animation
+9 p- Revert_000.png
+~~~
+/// - End of animation

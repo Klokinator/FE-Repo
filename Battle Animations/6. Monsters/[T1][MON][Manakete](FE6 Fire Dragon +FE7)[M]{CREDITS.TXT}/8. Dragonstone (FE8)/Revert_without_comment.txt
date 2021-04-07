@@ -1,0 +1,104 @@
+/// - Mode 1
+3 p- Revert_without_comment_000.png
+3 p- Revert_without_comment_001.png
+C3E
+3 p- Revert_without_comment_002.png
+3 p- Revert_without_comment_003.png
+3 p- Revert_without_comment_004.png
+C3E
+3 p- Revert_without_comment_005.png
+3 p- Revert_without_comment_006.png
+3 p- Revert_without_comment_007.png
+3 p- Revert_without_comment_008.png
+C3E
+3 p- Revert_without_comment_009.png
+3 p- Revert_without_comment_010.png
+3 p- Revert_without_comment_011.png
+C3E
+3 p- Revert_without_comment_012.png
+3 p- Revert_without_comment_013.png
+3 p- Revert_without_comment_014.png
+C0E
+~~~
+/// - Mode 3
+C03
+C07
+3 p- Revert_without_comment_015.png
+C04
+C08
+C1F
+C01
+3 p- Revert_without_comment_016.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+5 p- Revert_without_comment_017.png
+C05
+4 p- Revert_without_comment_018.png
+C01
+4 p- Revert_without_comment_019.png
+C06
+3 p- Revert_without_comment_020.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+5 p- Revert_without_comment_021.png
+C05
+4 p- Revert_without_comment_022.png
+C01
+4 p- Revert_without_comment_023.png
+C06
+3 p- Revert_without_comment_024.png
+C0D
+~~~
+/// - Mode 7
+C02
+2 p- Revert_without_comment_025.png
+C0E
+3 p- Revert_without_comment_026.png
+C01
+2 p- Revert_without_comment_027.png
+C06
+2 p- Revert_without_comment_028.png
+C0D
+~~~
+/// - Mode 8
+C02
+2 p- Revert_without_comment_029.png
+C0E
+3 p- Revert_without_comment_030.png
+C01
+2 p- Revert_without_comment_031.png
+C06
+2 p- Revert_without_comment_032.png
+C0D
+~~~
+/// - Mode 9
+3 p- Revert_without_comment_033.png
+C01
+~~~
+/// - Mode 10
+3 p- Revert_without_comment_034.png
+C01
+~~~
+/// - Mode 11
+3 p- Revert_without_comment_035.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+3 p- Revert_without_comment_036.png
+C04
+C1F
+C01
+3 p- Revert_without_comment_037.png
+C06
+C0D
+~~~
+/// - End of animation

@@ -1,0 +1,105 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C00005C                               #mauthedoog scream SFE
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C100829                               #Background brightness and opacity XX
+C000146                               #Play dropped axe crashing onto ground SFE
+C000115                               #Slight vibration of screen
+O Spell_o_000.png
+B Spell_b_001.png
+2
+
+C000115                               #Slight vibration of screen
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C000146                               #Play dropped axe crashing onto ground SFE
+O Spell_o_003.png
+B Spell_b_004.png
+1
+
+O Spell_o_005.png
+B Spell_b_004.png
+1
+
+O Spell_o_006.png
+B Spell_b_007.png
+1
+
+O Spell_o_008.png
+B Spell_b_009.png
+1
+
+O Spell_o_008.png
+B Spell_b_010.png
+1
+
+O Spell_o_011.png
+B Spell_b_010.png
+1
+
+O Spell_o_012.png
+B Spell_b_010.png
+1
+
+O Spell_o_013.png
+B Spell_b_010.png
+1
+
+O Spell_o_000.png
+B Spell_b_010.png
+2
+
+C000051                               #Show brief white flash animation
+O Spell_o_000.png
+B Spell_b_014.png
+1
+
+C00001A                               #Required before 1F or miss termination branch
+C00001F                               #Play a hit tone (requires 1A just before)
+~                               #miss terminator
+C000020                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C000115                               #Slight vibration of screen
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+O Spell_o_000.png
+B Spell_b_014.png
+1
+
+C030E48                               #Sound 782 SE:World map move by ship 1
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+O Spell_o_000.png
+B Spell_b_016.png
+1
+
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+O Spell_o_000.png
+B Spell_b_017.png
+1
+
+O Spell_o_000.png
+B Spell_b_018.png
+1
+
+/// - End of animation

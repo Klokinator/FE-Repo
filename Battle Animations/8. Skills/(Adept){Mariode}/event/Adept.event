@@ -1,0 +1,103 @@
+//Generated with Skill Animation Creator.
+
+ORG $?????? //free space in your rom
+
+#incbin skillanimtemplate.dmp
+POIN Frames
+POIN TSAList
+POIN GraphicsList
+POIN PalettesList
+WORD 0x2BF //sound id
+
+Frames:    //SHORT image duration
+SHORT 0 2
+SHORT 1 2
+SHORT 2 2
+SHORT 3 2
+SHORT 4 2
+SHORT 3 2
+SHORT 4 2
+SHORT 3 2
+SHORT 4 2
+SHORT 2 2
+SHORT 1 2
+SHORT 0 2
+SHORT 0xFFFF
+ALIGN 4
+
+TSAList:
+POIN TSA_Adept1
+POIN TSA_Adept2
+POIN TSA_Adept3
+POIN TSA_Adept4
+POIN TSA_Adept5
+POIN TSA_Adept4
+POIN TSA_Adept5
+POIN TSA_Adept4
+POIN TSA_Adept5
+POIN TSA_Adept3
+POIN TSA_Adept2
+POIN TSA_Adept1
+
+GraphicsList:
+POIN Graphics_Adept1
+POIN Graphics_Adept2
+POIN Graphics_Adept3
+POIN Graphics_Adept4
+POIN Graphics_Adept5
+POIN Graphics_Adept4
+POIN Graphics_Adept5
+POIN Graphics_Adept4
+POIN Graphics_Adept5
+POIN Graphics_Adept3
+POIN Graphics_Adept2
+POIN Graphics_Adept1
+
+PalettesList:
+POIN Pal_Adept1
+POIN Pal_Adept2
+POIN Pal_Adept3
+POIN Pal_Adept4
+POIN Pal_Adept5
+POIN Pal_Adept4
+POIN Pal_Adept5
+POIN Pal_Adept4
+POIN Pal_Adept5
+POIN Pal_Adept3
+POIN Pal_Adept2
+POIN Pal_Adept1
+
+TSA_Adept1:
+#incbin "Adept1.map.bin"
+TSA_Adept2:
+#incbin "Adept2.map.bin"
+TSA_Adept3:
+#incbin "Adept3.map.bin"
+TSA_Adept4:
+#incbin "Adept4.map.bin"
+TSA_Adept5:
+#incbin "Adept5.map.bin"
+
+Graphics_Adept1:
+#incbin "Adept1.img.bin"
+Graphics_Adept2:
+#incbin "Adept2.img.bin"
+Graphics_Adept3:
+#incbin "Adept3.img.bin"
+Graphics_Adept4:
+#incbin "Adept4.img.bin"
+Graphics_Adept5:
+#incbin "Adept5.img.bin"
+
+Pal_Adept1:
+#incbin "Adept1.pal.bin"
+Pal_Adept2:
+#incbin "Adept2.pal.bin"
+Pal_Adept3:
+#incbin "Adept3.pal.bin"
+Pal_Adept4:
+#incbin "Adept4.pal.bin"
+Pal_Adept5:
+#incbin "Adept5.pal.bin"
+
+MESSAGE Data ends at CURRENTOFFSET

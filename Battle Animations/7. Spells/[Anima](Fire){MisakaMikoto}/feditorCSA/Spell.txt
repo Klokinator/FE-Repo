@@ -1,0 +1,46 @@
+#######################################################
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C100429                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_002.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_003.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_004.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_005.png
+1
+C40                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+O  p- Spell_o_000.png
+B  p- Spell_b_006.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_008.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_009.png
+1
+C1F                               #Play a hit tone (requires 1A just before)
+C1A                               #Required before 1F or miss termination branch
+O  p- Spell_o_000.png
+B  p- Spell_b_010.png
+1
+~                               #miss terminator
+/// - End of animation

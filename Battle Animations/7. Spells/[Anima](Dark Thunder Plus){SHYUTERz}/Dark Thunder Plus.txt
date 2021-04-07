@@ -1,0 +1,459 @@
+#######################################################
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C40                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+C101029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+1
+C101029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100E29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100C29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100729                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+CF448                               #Sound 244 SE:雷の最初の音 バチっ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_004.png
+3
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+CF448                               #Sound 244 SE:雷の最初の音 バチっ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_005.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_006.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C2A                               #戦闘中の背景表示 YY
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+10
+C03C448                               #Sound 964 SE:Mogall combat sounds 4 @C85_6C
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C101029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+16
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_007.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_008.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_009.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_010.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_010.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_011.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_012.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_013.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_014.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_008.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_008.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_007.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+C15                               #画面揺れる　小さい
+CF448                               #Sound 244 SE:雷の最初の音 バチっ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_015.png
+1
+C51                               #Show brief white flash animation
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_016.png
+4
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+8
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_017.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_018.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+CD248                               #Sound 210 SE:Hit (map) @C85_1A
+C14                               #画面揺れる　アルマーズ
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_019.png
+1
+C100929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_019.png
+1
+C0A0929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_019.png
+1
+C040929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_018.png
+2
+CD248                               #Sound 210 SE:Hit (map) @C85_1A
+C14                               #画面揺れる　アルマーズ
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_020.png
+1
+C100929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_020.png
+1
+C0A0929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_020.png
+1
+C040929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_007.png
+1
+C15                               #画面揺れる　小さい
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_021.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_022.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+3
+CD248                               #Sound 210 SE:Hit (map) @C85_1A
+C14                               #画面揺れる　アルマーズ
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_023.png
+1
+C101029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_024.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_023.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_024.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_024.png
+1
+C0C0029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_024.png
+1
+C060029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_024.png
+1
+C020029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+2
+CD248                               #Sound 210 SE:Hit (map) @C85_1A
+CF548                               #Sound 245 SE:Thunderstorm strike
+C14                               #画面揺れる　アルマーズ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_025.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_026.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_026.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C100B29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_012.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_008.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C14                               #画面揺れる　アルマーズ
+C1A                               #1Fまたはミス終端分岐の前に必要
+C1F                               #ヒット音を鳴らす(直前に1Aが必要)
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+CF548                               #Sound 245 SE:Thunderstorm strike
+C14                               #画面揺れる　アルマーズ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+CF548                               #Sound 245 SE:Thunderstorm strike
+C14                               #画面揺れる　アルマーズ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C14                               #画面揺れる　アルマーズ
+CF548                               #Sound 245 SE:Thunderstorm strike
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+2
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C0F0029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C0E0029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C0D0029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C0C0029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C0B0029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C0A0029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C090029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C080029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C070029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C060229                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C050429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C040629                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C030A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C020C29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C010E29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_027.png
+1
+C1029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_003.png
+1
+C03C248                               #Sound 962 SE:Mogall combat sounds 2 @C85_6A
+C10102A                               #戦闘中の背景表示 YY
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100329                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100629                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100C29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C100F29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_002.png
+1
+C101029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Dark Thunder Plus_o_000.png
+B  p- Dark Thunder Plus_b_001.png
+1
+~                               #miss terminator
+/// - End of animation

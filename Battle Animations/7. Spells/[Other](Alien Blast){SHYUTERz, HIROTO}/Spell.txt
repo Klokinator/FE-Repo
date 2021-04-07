@@ -1,0 +1,784 @@
+C000000
+C000000
+C000000
+C000000
+C000000
+C000000
+C000000
+C071029
+C013048
+C000153
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+C0D0E29
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+C100D29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C100B29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C013248
+O Spell_o_000.png
+B Spell_b_003.png
+2
+
+C100B29
+O Spell_o_000.png
+B Spell_b_004.png
+2
+
+C100B29
+O Spell_o_000.png
+B Spell_b_005.png
+2
+
+C100B29
+O Spell_o_000.png
+B Spell_b_006.png
+2
+
+C100B29
+O Spell_o_000.png
+B Spell_b_007.png
+2
+
+C013248
+O Spell_o_000.png
+B Spell_b_008.png
+2
+
+C100929
+O Spell_o_000.png
+B Spell_b_009.png
+2
+
+C100729
+O Spell_o_000.png
+B Spell_b_010.png
+2
+
+C100529
+O Spell_o_000.png
+B Spell_b_011.png
+2
+
+C100329
+O Spell_o_000.png
+B Spell_b_012.png
+2
+
+C100029
+O Spell_o_000.png
+B Spell_b_013.png
+2
+
+C00002A
+C000040
+O Spell_o_000.png
+B Spell_b_014.png
+2
+
+C100429
+O Spell_o_000.png
+B Spell_b_015.png
+2
+
+C0C0829
+O Spell_o_000.png
+B Spell_b_016.png
+2
+
+C080C29
+O Spell_o_000.png
+B Spell_b_017.png
+2
+
+C041029
+O Spell_o_000.png
+B Spell_b_018.png
+2
+
+C011029
+O Spell_o_000.png
+B Spell_b_019.png
+2
+
+C001029
+O Spell_o_000.png
+B Spell_b_020.png
+1
+
+O Spell_o_000.png
+B Spell_b_021.png
+1
+
+O Spell_o_000.png
+B Spell_b_022.png
+1
+
+C011029
+O Spell_o_000.png
+B Spell_b_023.png
+1
+
+C041029
+O Spell_o_024.png
+B Spell_b_025.png
+1
+
+C081029
+O Spell_o_026.png
+B Spell_b_027.png
+1
+
+C0C0F29
+O Spell_o_028.png
+B Spell_b_029.png
+1
+
+C100F29
+O Spell_o_030.png
+B Spell_b_031.png
+1
+
+C100E29
+O Spell_o_032.png
+B Spell_b_033.png
+1
+
+C013F48
+O Spell_o_034.png
+B Spell_b_035.png
+1
+
+O Spell_o_036.png
+B Spell_b_037.png
+1
+
+O Spell_o_038.png
+B Spell_b_039.png
+1
+
+O Spell_o_040.png
+B Spell_b_041.png
+1
+
+O Spell_o_042.png
+B Spell_b_043.png
+1
+
+O Spell_o_044.png
+B Spell_b_045.png
+1
+
+O Spell_o_046.png
+B Spell_b_047.png
+1
+
+C013D48
+O Spell_o_048.png
+B Spell_b_049.png
+1
+
+O Spell_o_050.png
+B Spell_b_051.png
+1
+
+O Spell_o_052.png
+B Spell_b_053.png
+1
+
+O Spell_o_054.png
+B Spell_b_055.png
+1
+
+O Spell_o_056.png
+B Spell_b_023.png
+1
+
+O Spell_o_057.png
+B Spell_b_025.png
+1
+
+O Spell_o_058.png
+B Spell_b_027.png
+1
+
+O Spell_o_059.png
+B Spell_b_029.png
+1
+
+O Spell_o_060.png
+B Spell_b_031.png
+1
+
+O Spell_o_061.png
+B Spell_b_033.png
+1
+
+O Spell_o_062.png
+B Spell_b_035.png
+1
+
+O Spell_o_063.png
+B Spell_b_037.png
+1
+
+O Spell_o_064.png
+B Spell_b_039.png
+1
+
+O Spell_o_065.png
+B Spell_b_041.png
+1
+
+O Spell_o_066.png
+B Spell_b_043.png
+1
+
+O Spell_o_067.png
+B Spell_b_045.png
+1
+
+O Spell_o_068.png
+B Spell_b_047.png
+1
+
+O Spell_o_069.png
+B Spell_b_049.png
+1
+
+O Spell_o_070.png
+B Spell_b_051.png
+1
+
+O Spell_o_071.png
+B Spell_b_053.png
+1
+
+O Spell_o_072.png
+B Spell_b_055.png
+1
+
+O Spell_o_073.png
+B Spell_b_023.png
+1
+
+O Spell_o_074.png
+B Spell_b_025.png
+1
+
+O Spell_o_075.png
+B Spell_b_027.png
+1
+
+O Spell_o_076.png
+B Spell_b_029.png
+1
+
+O Spell_o_077.png
+B Spell_b_031.png
+1
+
+O Spell_o_078.png
+B Spell_b_033.png
+1
+
+O Spell_o_079.png
+B Spell_b_035.png
+1
+
+O Spell_o_080.png
+B Spell_b_037.png
+1
+
+O Spell_o_081.png
+B Spell_b_039.png
+1
+
+O Spell_o_082.png
+B Spell_b_041.png
+1
+
+O Spell_o_083.png
+B Spell_b_043.png
+1
+
+O Spell_o_084.png
+B Spell_b_045.png
+1
+
+O Spell_o_085.png
+B Spell_b_047.png
+1
+
+O Spell_o_086.png
+B Spell_b_049.png
+1
+
+O Spell_o_087.png
+B Spell_b_051.png
+1
+
+O Spell_o_088.png
+B Spell_b_053.png
+1
+
+O Spell_o_089.png
+B Spell_b_055.png
+1
+
+O Spell_o_090.png
+B Spell_b_023.png
+1
+
+O Spell_o_091.png
+B Spell_b_025.png
+1
+
+O Spell_o_092.png
+B Spell_b_027.png
+1
+
+O Spell_o_093.png
+B Spell_b_029.png
+1
+
+O Spell_o_094.png
+B Spell_b_031.png
+1
+
+O Spell_o_095.png
+B Spell_b_033.png
+1
+
+O Spell_o_096.png
+B Spell_b_035.png
+1
+
+O Spell_o_097.png
+B Spell_b_037.png
+1
+
+O Spell_o_098.png
+B Spell_b_039.png
+1
+
+O Spell_o_099.png
+B Spell_b_041.png
+1
+
+O Spell_o_100.png
+B Spell_b_043.png
+1
+
+O Spell_o_101.png
+B Spell_b_045.png
+1
+
+O Spell_o_102.png
+B Spell_b_047.png
+1
+
+O Spell_o_103.png
+B Spell_b_049.png
+1
+
+O Spell_o_104.png
+B Spell_b_051.png
+1
+
+O Spell_o_105.png
+B Spell_b_053.png
+1
+
+O Spell_o_106.png
+B Spell_b_055.png
+1
+
+O Spell_o_107.png
+B Spell_b_023.png
+1
+
+O Spell_o_108.png
+B Spell_b_025.png
+1
+
+O Spell_o_109.png
+B Spell_b_027.png
+1
+
+C100C29
+O Spell_o_110.png
+B Spell_b_029.png
+1
+
+C100A29
+O Spell_o_111.png
+B Spell_b_031.png
+1
+
+C100929
+O Spell_o_112.png
+B Spell_b_033.png
+1
+
+C100729
+O Spell_o_113.png
+B Spell_b_035.png
+1
+
+C100529
+O Spell_o_114.png
+B Spell_b_037.png
+1
+
+C100329
+O Spell_o_115.png
+B Spell_b_039.png
+1
+
+C100129
+O Spell_o_116.png
+B Spell_b_041.png
+1
+
+C100029
+C02E248
+O Spell_o_000.png
+B Spell_b_043.png
+1
+
+C0C0029
+O Spell_o_000.png
+B Spell_b_045.png
+1
+
+C080029
+O Spell_o_000.png
+B Spell_b_047.png
+1
+
+C040029
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C000029
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C030029
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C060029
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C090029
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C0C0029
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C100029
+O Spell_o_000.png
+B Spell_b_117.png
+26
+
+C100629
+C03B348
+C00001A
+C00001F
+C000014
+O Spell_o_000.png
+B Spell_b_118.png
+1
+
+O Spell_o_000.png
+B Spell_b_119.png
+1
+
+O Spell_o_000.png
+B Spell_b_120.png
+1
+
+O Spell_o_000.png
+B Spell_b_117.png
+2
+
+O Spell_o_121.png
+B Spell_b_122.png
+1
+
+O Spell_o_123.png
+B Spell_b_124.png
+1
+
+C000014
+C0D0729
+O Spell_o_125.png
+B Spell_b_126.png
+1
+
+C0A0729
+O Spell_o_127.png
+B Spell_b_128.png
+1
+
+C070729
+O Spell_o_129.png
+B Spell_b_128.png
+1
+
+C000014
+C040729
+O Spell_o_130.png
+B Spell_b_131.png
+1
+
+O Spell_o_132.png
+B Spell_b_133.png
+1
+
+C070729
+O Spell_o_134.png
+B Spell_b_128.png
+1
+
+C000014
+C0A0729
+O Spell_o_135.png
+B Spell_b_128.png
+1
+
+C0D0729
+O Spell_o_136.png
+B Spell_b_137.png
+1
+
+C100729
+O Spell_o_000.png
+B Spell_b_138.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+O Spell_o_000.png
+B Spell_b_139.png
+1
+
+O Spell_o_000.png
+B Spell_b_140.png
+1
+
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C0D0729
+O Spell_o_000.png
+B Spell_b_141.png
+1
+
+C000014
+C0A0729
+O Spell_o_000.png
+B Spell_b_142.png
+1
+
+C070729
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C040729
+O Spell_o_000.png
+B Spell_b_143.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_144.png
+1
+
+C070729
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C0A0729
+O Spell_o_000.png
+B Spell_b_145.png
+1
+
+C000014
+C0D0729
+O Spell_o_000.png
+B Spell_b_146.png
+1
+
+C100729
+O Spell_o_000.png
+B Spell_b_128.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_126.png
+1
+
+O Spell_o_000.png
+B Spell_b_131.png
+1
+
+C0D0729
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C000014
+C0A0929
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C070B29
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C040D29
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C010D29
+C000014
+O Spell_o_000.png
+B Spell_b_128.png
+1
+
+C001029
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C030C29
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C060829
+C000014
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C090429
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C0C0229
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C100029
+O Spell_o_000.png
+B Spell_b_117.png
+12
+
+C10102A
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C0E0229
+O Spell_o_000.png
+B Spell_b_117.png
+2
+
+C000014
+C0C0429
+O Spell_o_000.png
+B Spell_b_117.png
+2
+
+C0A0629
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C080829
+O Spell_o_000.png
+B Spell_b_117.png
+2
+
+C000014
+C060A29
+O Spell_o_000.png
+B Spell_b_117.png
+2
+
+C040C29
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_117.png
+1
+
+C020E29
+O Spell_o_000.png
+B Spell_b_117.png
+2
+
+C000014
+C001029
+O Spell_o_000.png
+B Spell_b_117.png
+3
+
+C000014
+O Spell_o_000.png
+B Spell_b_117.png
+4
+
+C000014
+~
+C000053
+/// - End of animation

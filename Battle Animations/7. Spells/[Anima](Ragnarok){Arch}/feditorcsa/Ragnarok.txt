@@ -1,0 +1,235 @@
+/// - Ragnarok Animation
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C000040
+C00
+C00
+C00
+C00
+C00
+C00
+O  p- blank.png
+B  p- blankbg.png
+5
+C0A1029
+C011948
+O  p- blank.png
+B  p- Lightning/s01.png
+4
+O  p- blank.png
+B  p- Lightning/s02.png
+4
+O  p- blank.png
+B  p- blankbg.png
+4
+C031029
+O  p- blank.png
+B  p- Lightning/s03.png
+4
+C071029
+O  p- blank.png
+B  p- Lightning/s04.png
+4
+C0A1029
+O  p- blank.png
+B  p- Lightning/s05.png
+4
+O  p- blank.png
+B  p- Lightning/s06.png
+4
+C011948
+O  p- blank.png
+B  p- Lightning/s07.png
+4
+O  p- blank.png
+B  p- Lightning/s08.png
+4
+O  p- blank.png
+B  p- Lightning/s09.png
+4
+O  p- blank.png
+B  p- Lightning/s10.png
+4
+C02C848
+O  p- blank.png
+B  p- Lightning/s11.png
+4
+C071029
+O  p- blank.png
+B  p- Lightning/s12.png
+4
+O  p- blank.png
+B  p- Lightning/s13.png
+4
+C031029
+O  p- blank.png
+B  p- Lightning/s14.png
+4
+C021029
+O  p- blank.png
+B  p- Lightning/s15.png
+4
+O  p- blank.png
+B  p- blankbg.png
+3
+C0D1029
+C00AB48
+O  p- rocks (1).png
+B  p- s02.png
+5
+O  p- rocks (2).png
+B  p- s03.png
+5
+O  p- rocks (3).png
+B  p- s04.png
+5
+O  p- rocks (4).png
+B  p- s05.png
+5
+O  p- rocks (5).png
+B  p- s06.png
+5
+O  p- rocks (6).png
+B  p- s07.png
+5
+C00AB48
+O  p- rocks (7).png
+B  p- s08.png
+5
+O  p- rocks (8).png
+B  p- s09.png
+5
+O  p- rocks (8).png
+B  p- s10.png
+5
+O  p- rocks (10).png
+B  p- s11.png
+5
+O  p- rocks (21).png
+B  p- s22.png
+5
+O  p- rocks (22).png
+B  p- s23.png
+5
+O  p- rocks (23).png
+B  p- s24.png
+5
+O  p- rocks (24).png
+B  p- s25.png
+5
+O  p- rocks (25).png
+B  p- s26.png
+5
+C061029
+O  p- rocks (26).png
+B  p- s27.png
+5
+C031029
+O  p- rocks (27).png
+B  p- s28.png
+5
+C02CB48
+O  p- blank.png
+B  p- Fire/s01.png
+3
+C051029
+O  p- blank.png
+B  p- Fire/s02.png
+3
+O  p- blank.png
+B  p- Fire/s01.png
+3
+C081029
+O  p- blank.png
+B  p- Fire/s02.png
+3
+C0A1029
+O  p- blank.png
+B  p- Fire/s01.png
+3
+C0C1029
+O  p- blank.png
+B  p- Fire/s02.png
+3
+O  p- blank.png
+B  p- Fire/s01.png
+3
+O  p- blank.png
+B  p- Fire/s02.png
+3
+C091029
+O  p- blank.png
+B  p- Fire/s01.png
+3
+C061029
+O  p- blank.png
+B  p- Fire/s02.png
+3
+C031029
+O  p- blank.png
+B  p- Fire/s02.png
+3
+C00001A
+C1F
+~~~
+C51
+C021029
+C101015
+C012C48
+O  p- blank.PNG
+B  p- Aurora/s01.png
+5
+C051029
+O  p- blank.PNG
+B  p- Aurora/s02.png
+5
+C091029
+O  p- blank.PNG
+B  p- Aurora/s03.png
+5
+C0B1029
+O  p- blank.PNG
+B  p- Aurora/s04.png
+5
+O  p- blank.PNG
+B  p- Aurora/s05.png
+5
+O  p- blank.PNG
+B  p- Aurora/s06.png
+5
+O  p- blank.PNG
+B  p- Aurora/s07.png
+5
+O  p- blank.PNG
+B  p- Aurora/s08.png
+5
+O  p- blank.PNG
+B  p- Aurora/s09.png
+5
+O  p- blank.PNG
+B  p- Aurora/s10.png
+5
+C091029
+O  p- blank.PNG
+B  p- Aurora/s11.png
+5
+C051029
+O  p- blank.PNG
+B  p- Aurora/s12.png
+5
+C021029
+O  p- blank.PNG
+B  p- Aurora/s13.png
+5
+O  p- blank.PNG
+B  p- blankbg.png
+5
+C00012A
+/// - End Animation

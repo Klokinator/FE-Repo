@@ -1,0 +1,86 @@
+/// - Mode 1
+C03
+C07
+S0380
+2 p- Transform Monster (SHYUTERz)_000.png
+2 p- Transform Monster (SHYUTERz)_001.png
+2 p- Transform Monster (SHYUTERz)_002.png
+2 p- Transform Monster (SHYUTERz)_003.png
+2 p- Transform Monster (SHYUTERz)_004.png
+2 p- Transform Monster (SHYUTERz)_005.png
+2 p- Transform Monster (SHYUTERz)_006.png
+2 p- Transform Monster (SHYUTERz)_007.png
+2 p- Transform Monster (SHYUTERz)_008.png
+2 p- Transform Monster (SHYUTERz)_009.png
+2 p- Transform Monster (SHYUTERz)_010.png
+2 p- Transform Monster (SHYUTERz)_011.png
+2 p- Transform Monster (SHYUTERz)_012.png
+2 p- Transform Monster (SHYUTERz)_013.png
+2 p- Transform Monster (SHYUTERz)_014.png
+2 p- Transform Monster (SHYUTERz)_015.png
+2 p- Transform Monster (SHYUTERz)_016.png
+2 p- Transform Monster (SHYUTERz)_017.png
+4 p- Transform Monster (SHYUTERz)_018.png
+4 p- Transform Monster (SHYUTERz)_019.png
+4 p- Transform Monster (SHYUTERz)_020.png
+4 p- Transform Monster (SHYUTERz)_021.png
+4 p- Transform Monster (SHYUTERz)_022.png
+6 p- Transform Monster (SHYUTERz)_023.png
+6 p- Transform Monster (SHYUTERz)_024.png
+6 p- Transform Monster (SHYUTERz)_025.png
+7 p- Transform Monster (SHYUTERz)_026.png
+7 p- Transform Monster (SHYUTERz)_027.png
+28 p- Transform Monster (SHYUTERz)_028.png
+20 p- Transform Monster (SHYUTERz)_028.png
+15 p- Transform Monster (SHYUTERz)_028.png
+1 p- Transform Monster (SHYUTERz)_028.png
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Transform Monster (SHYUTERz)_029.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Transform Monster (SHYUTERz)_029.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Transform Monster (SHYUTERz)_029.png
+C06
+C0D
+~~~
+/// - Mode 7
+1 p- Transform Monster (SHYUTERz)_029.png
+C01
+~~~
+/// - Mode 8
+1 p- Transform Monster (SHYUTERz)_029.png
+C01
+~~~
+/// - Mode 9
+1 p- Transform Monster (SHYUTERz)_029.png
+C01
+~~~
+/// - Mode 10
+1 p- Transform Monster (SHYUTERz)_029.png
+C01
+~~~
+/// - Mode 11
+1 p- Transform Monster (SHYUTERz)_029.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Transform Monster (SHYUTERz)_029.png
+C06
+C0D
+~~~
+/// - End of animation

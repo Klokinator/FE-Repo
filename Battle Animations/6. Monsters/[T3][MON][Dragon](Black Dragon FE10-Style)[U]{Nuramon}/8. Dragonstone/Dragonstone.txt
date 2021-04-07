@@ -1,0 +1,180 @@
+#######################################################
+#
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+8 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+6 p- Dragonstone_002.png
+6 p- Dragonstone_003.png
+6 p- Dragonstone_004.png
+SDE                               #Sound 222 SE:Mamkute yowl
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_005.png
+C01                               #NOP
+6 p- Dragonstone_006.png
+6 p- Dragonstone_007.png
+8 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+8 p- Dragonstone_000.png
+6 p- Dragonstone_008.png
+SDE                               #Sound 222 SE:Mamkute yowl
+8 p- Dragonstone_009.png
+8 p- Dragonstone_010.png
+4 p- Dragonstone_011.png
+4 p- Dragonstone_012.png
+4 p- Dragonstone_013.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+4 p- Dragonstone_014.png
+4 p- Dragonstone_015.png
+4 p- Dragonstone_016.png
+4 p- Dragonstone_017.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+5 p- Dragonstone_018.png
+12 p- Dragonstone_019.png
+6 p- Dragonstone_020.png
+6 p- Dragonstone_021.png
+SDE                               #Sound 222 SE:Mamkute yowl
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_022.png
+C01                               #NOP
+6 p- Dragonstone_023.png
+6 p- Dragonstone_024.png
+8 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+8 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+6 p- Dragonstone_002.png
+6 p- Dragonstone_003.png
+6 p- Dragonstone_004.png
+SDE                               #Sound 222 SE:Mamkute yowl
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_005.png
+C01                               #NOP
+6 p- Dragonstone_006.png
+6 p- Dragonstone_007.png
+8 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+8 p- Dragonstone_000.png
+6 p- Dragonstone_008.png
+SDE                               #Sound 222 SE:Mamkute yowl
+8 p- Dragonstone_009.png
+8 p- Dragonstone_010.png
+4 p- Dragonstone_011.png
+4 p- Dragonstone_012.png
+4 p- Dragonstone_013.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+4 p- Dragonstone_014.png
+4 p- Dragonstone_015.png
+4 p- Dragonstone_016.png
+4 p- Dragonstone_017.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+5 p- Dragonstone_018.png
+12 p- Dragonstone_019.png
+6 p- Dragonstone_020.png
+6 p- Dragonstone_021.png
+SDE                               #Sound 222 SE:Mamkute yowl
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_022.png
+C01                               #NOP
+6 p- Dragonstone_023.png
+6 p- Dragonstone_024.png
+8 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Dragonstone
+C02                               #Start of dodge
+1 p- Dragonstone_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+6 p- Dragonstone_025.png
+6 p- Dragonstone_026.png
+C25                               #Play wing flap SFE
+8 p- Dragonstone_027.png
+8 p- Dragonstone_028.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+8 p- Dragonstone_027.png
+8 p- Dragonstone_028.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+8 p- Dragonstone_029.png
+5 p- Dragonstone_030.png
+5 p- Dragonstone_031.png
+3 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Dragonstone
+C02                               #Start of dodge
+1 p- Dragonstone_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+6 p- Dragonstone_025.png
+6 p- Dragonstone_026.png
+C25                               #Play wing flap SFE
+8 p- Dragonstone_027.png
+8 p- Dragonstone_028.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+8 p- Dragonstone_027.png
+8 p- Dragonstone_028.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+8 p- Dragonstone_029.png
+5 p- Dragonstone_030.png
+5 p- Dragonstone_031.png
+3 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Dragonstone Missed Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+8 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+6 p- Dragonstone_002.png
+6 p- Dragonstone_003.png
+6 p- Dragonstone_004.png
+SDE                               #Sound 222 SE:Mamkute yowl
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_005.png
+C01                               #NOP
+6 p- Dragonstone_006.png
+6 p- Dragonstone_007.png
+8 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

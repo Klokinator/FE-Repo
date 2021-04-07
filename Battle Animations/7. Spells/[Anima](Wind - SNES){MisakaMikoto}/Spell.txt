@@ -1,0 +1,61 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C100829                               #Background brightness and opacity XX
+C000153                               #screen stretching YY
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_003.png
+1
+
+O Spell_o_000.png
+B Spell_b_004.png
+1
+
+O Spell_o_000.png
+B Spell_b_005.png
+1
+
+O Spell_o_000.png
+B Spell_b_006.png
+1
+
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+O Spell_o_000.png
+B Spell_b_007.png
+1
+
+O Spell_o_000.png
+B Spell_b_008.png
+1
+
+C00001F                               #Play a hit tone (requires 1A just before)
+C00001A                               #Required before 1F or miss termination branch
+O Spell_o_000.png
+B Spell_b_009.png
+1
+
+O Spell_o_000.png
+B Spell_b_010.png
+1
+
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+~                               #miss terminator
+C000053                               #screen stretching YY
+/// - End of animation

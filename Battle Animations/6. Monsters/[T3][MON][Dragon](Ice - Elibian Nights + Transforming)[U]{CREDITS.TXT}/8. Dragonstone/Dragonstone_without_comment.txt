@@ -1,0 +1,212 @@
+/// - Mode 1
+C03
+C07
+3 p- Dragonstone_000.png
+4 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+16 p- Dragonstone_004.png
+SDE
+C05
+16 p- Dragonstone_005.png
+C01
+4 p- Dragonstone_006.png
+4 p- Dragonstone_007.png
+4 p- Dragonstone_000.png
+4 p- Dragonstone_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+3 p- Dragonstone_000.png
+4 p- Dragonstone_008.png
+4 p- Dragonstone_009.png
+4 p- Dragonstone_010.png
+4 p- Dragonstone_011.png
+4 p- Dragonstone_012.png
+C14
+C46
+4 p- Dragonstone_013.png
+4 p- Dragonstone_014.png
+4 p- Dragonstone_015.png
+4 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+30 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+30 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+20 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+15 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+10 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+8 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+8 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+8 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+4 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+4 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+SDE
+C05
+16 p- Dragonstone_005.png
+C01
+4 p- Dragonstone_006.png
+4 p- Dragonstone_007.png
+4 p- Dragonstone_000.png
+4 p- Dragonstone_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+3 p- Dragonstone_000.png
+4 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+16 p- Dragonstone_004.png
+SDE
+C05
+16 p- Dragonstone_005.png
+C01
+4 p- Dragonstone_006.png
+4 p- Dragonstone_007.png
+4 p- Dragonstone_000.png
+4 p- Dragonstone_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+3 p- Dragonstone_000.png
+4 p- Dragonstone_008.png
+4 p- Dragonstone_009.png
+4 p- Dragonstone_010.png
+4 p- Dragonstone_011.png
+4 p- Dragonstone_012.png
+C14
+C46
+4 p- Dragonstone_013.png
+4 p- Dragonstone_014.png
+4 p- Dragonstone_015.png
+4 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+30 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+30 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+20 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+15 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+10 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+8 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+8 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+8 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+4 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+4 p- Dragonstone_003.png
+4 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+SDE
+C05
+16 p- Dragonstone_005.png
+C01
+4 p- Dragonstone_006.png
+4 p- Dragonstone_007.png
+4 p- Dragonstone_000.png
+4 p- Dragonstone_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+3 p- Dragonstone_000.png
+C0E
+3 p- Dragonstone_016.png
+1 p- Dragonstone_017.png
+C01
+3 p- Dragonstone_016.png
+C0D
+~~~
+/// - Mode 8
+C02
+3 p- Dragonstone_000.png
+C0E
+3 p- Dragonstone_016.png
+1 p- Dragonstone_017.png
+C01
+3 p- Dragonstone_016.png
+C0D
+~~~
+/// - Mode 9
+3 p- Dragonstone_000.png
+C01
+~~~
+/// - Mode 10
+3 p- Dragonstone_000.png
+C01
+~~~
+/// - Mode 11
+3 p- Dragonstone_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+3 p- Dragonstone_000.png
+4 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+16 p- Dragonstone_004.png
+SDE
+C05
+16 p- Dragonstone_005.png
+C01
+4 p- Dragonstone_006.png
+4 p- Dragonstone_007.png
+4 p- Dragonstone_000.png
+4 p- Dragonstone_000.png
+C06
+C0D
+~~~
+/// - End of animation

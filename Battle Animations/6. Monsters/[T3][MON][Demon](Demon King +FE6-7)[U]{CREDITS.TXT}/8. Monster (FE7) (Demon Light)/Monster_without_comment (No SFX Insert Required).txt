@@ -1,0 +1,111 @@
+/// - Mode 1
+SDF
+1 p- Monster_without_comment_000.png
+C03
+C07
+8 p- Monster_without_comment_001.png
+C05
+C15
+1 p- Monster_without_comment_002.png
+C04
+C01
+1 p- Monster_without_comment_001.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+C28
+6 p- Monster_without_comment_000.png
+C39
+20 p- Monster_without_comment_000.png
+SDF
+12 p- Monster_without_comment_001.png
+C05
+3 p- Monster_without_comment_002.png
+C14
+1 p- Monster_without_comment_002.png
+C04
+C01
+1 p- Monster_without_comment_001.png
+C06
+C0D
+~~~
+/// - Mode 5
+10 p- Monster_without_comment_001.png
+SDF
+C03
+C07
+8 p- Monster_without_comment_002.png
+C05
+1 p- Monster_without_comment_002.png
+C15
+C01
+C06
+1 p- Monster_without_comment_001.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+C28
+C39
+20 p- Monster_without_comment_001.png
+SDF
+12 p- Monster_without_comment_002.png
+C05
+8 p- Monster_without_comment_002.png
+C14
+1 p- Monster_without_comment_002.png
+C04
+C01
+1 p- Monster_without_comment_001.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Monster_without_comment_001.png
+C0E
+C01
+C06
+1 p- Monster_without_comment_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Monster_without_comment_001.png
+C0E
+C01
+C06
+1 p- Monster_without_comment_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Monster_without_comment_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Monster_without_comment_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Monster_without_comment_000.png
+C01
+~~~
+/// - Mode 12
+SDF
+1 p- Monster_without_comment_001.png
+C03
+C07
+C05
+8 p- Monster_without_comment_002.png
+1 p- Monster_without_comment_002.png
+C04
+C01
+1 p- Monster_without_comment_001.png
+C06
+C0D
+~~~
+/// - End of animation

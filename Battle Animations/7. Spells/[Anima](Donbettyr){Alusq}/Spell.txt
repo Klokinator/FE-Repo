@@ -1,0 +1,222 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000000                               #NOP
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C000153                               #screen stretching YY
+C011D48                               #Sound 285 SE:Rumbling?
+O Spell_o_000.png
+B Spell_b_001.png
+12
+
+C041029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C081029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_003.png
+1
+
+C0A1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_004.png
+1
+
+C0C1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_005.png
+1
+
+C0E1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_005.png
+1
+
+C101029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_006.png
+1
+
+O Spell_o_000.png
+B Spell_b_007.png
+1
+
+O Spell_o_000.png
+B Spell_b_008.png
+1
+
+C02E048                               #Sound 736 SE:Weird rumbling
+O Spell_o_000.png
+B Spell_b_009.png
+1
+
+O Spell_o_000.png
+B Spell_b_010.png
+1
+
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+C100E29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_012.png
+1
+
+C100D29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_013.png
+1
+
+C02E048                               #Sound 736 SE:Weird rumbling
+C00001A                               #Required before 1F or miss termination branch
+C00001F                               #Play a hit tone (requires 1A just before)
+~                               #miss terminator
+C100C29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_014.png
+1
+
+C100D29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+C03B048                               #Sound 944 SE:Naglfar Hitting
+O Spell_o_000.png
+B Spell_b_016.png
+1
+
+O Spell_o_000.png
+B Spell_b_017.png
+1
+
+C100E29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_018.png
+1
+
+O Spell_o_000.png
+B Spell_b_019.png
+1
+
+O Spell_o_000.png
+B Spell_b_020.png
+1
+
+C100F29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_021.png
+1
+
+O Spell_o_000.png
+B Spell_b_022.png
+1
+
+O Spell_o_000.png
+B Spell_b_023.png
+1
+
+C101029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_024.png
+1
+
+C100F29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_025.png
+1
+
+O Spell_o_000.png
+B Spell_b_026.png
+1
+
+C100E29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_027.png
+1
+
+C100F29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_028.png
+1
+
+C101029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_029.png
+1
+
+O Spell_o_000.png
+B Spell_b_030.png
+1
+
+O Spell_o_000.png
+B Spell_b_031.png
+1
+
+O Spell_o_000.png
+B Spell_b_032.png
+1
+
+C0F1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_033.png
+1
+
+O Spell_o_000.png
+B Spell_b_034.png
+1
+
+C0E1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_035.png
+1
+
+C0D1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C0B1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_037.png
+1
+
+C0A1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C091029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_039.png
+1
+
+C081029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_040.png
+1
+
+C061029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_041.png
+1
+
+O Spell_o_000.png
+B Spell_b_001.png
+3
+
+C000053                               #screen stretching YY
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+~                               #terminator
+/// - End of animation

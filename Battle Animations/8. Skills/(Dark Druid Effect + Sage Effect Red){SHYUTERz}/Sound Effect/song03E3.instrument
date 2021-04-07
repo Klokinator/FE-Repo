@@ -1,0 +1,128 @@
+01	3C	00	00	02	00	00	00	00	00	0F	00	//00 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//01 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//02 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//03 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//04 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//05 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//06 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//07 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//08 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//09 Dummy
+00	3C	00	00	song03E30x0A.DirectSound.bin	FF	00	FF	00	//0A DirectSound
+00	3C	00	00	song03E30x0B.DirectSound.bin	FF	00	FF	00	//0B DirectSound
+00	3C	00	00	song03E30x0C.DirectSound.bin	FF	00	FF	00	//0C DirectSound
+00	3C	00	00	song03E30x0D.DirectSound.bin	FF	00	FF	00	//0D DirectSound
+00	3C	00	00	song03E30x0E.DirectSound.bin	FF	00	FF	00	//0E DirectSound
+00	3C	00	00	song03E30x0F.DirectSound.bin	FF	00	FF	00	//0F DirectSound
+00	3C	00	00	song03E30x10.DirectSound.bin	FF	00	FF	00	//10 DirectSound
+00	3C	00	00	song03E30x11.DirectSound.bin	FF	00	FF	00	//11 DirectSound
+00	3C	00	00	song03E30x12.DirectSound.bin	FF	00	FF	00	//12 DirectSound
+00	3C	00	00	song03E30x13.DirectSound.bin	FF	00	FF	00	//13 DirectSound
+00	3C	00	00	song03E30x14.DirectSound.bin	FF	00	FF	00	//14 DirectSound
+00	3C	00	00	song03E30x15.DirectSound.bin	FF	00	FF	00	//15 DirectSound
+00	3C	00	00	song03E30x16.DirectSound.bin	FF	00	FF	00	//16 DirectSound
+00	3C	00	00	song03E30x17.DirectSound.bin	FF	00	FF	00	//17 DirectSound
+00	3C	00	00	song03E30x18.DirectSound.bin	FF	00	FF	00	//18 DirectSound
+01	3C	00	00	02	00	00	00	00	00	0F	00	//19 Dummy
+00	3C	00	00	song03E30x1A.DirectSound.bin	FF	00	FF	00	//1A DirectSound
+08	3C	00	00	song03E30x1B.DirectSound.bin	FF	00	FF	00	//1B DirectSound Fixed Freq
+00	3C	00	00	song03E30x1C.DirectSound.bin	FF	00	FF	CC	//1C DirectSound
+02	3C	00	00	01	00	00	00	00	01	00	02	//1D SquareWave2
+00	3C	00	00	song03E30x1E.DirectSound.bin	FF	00	FF	00	//1E DirectSound
+01	3C	00	00	03	00	00	00	00	03	00	00	//1F SquareWave1
+00	3C	00	00	song03E30x20.DirectSound.bin	FF	00	FF	00	//20 DirectSound
+04	3C	00	00	00	00	00	00	00	02	00	00	//21 Noise
+00	3C	00	00	song03E30x22.DirectSound.bin	FF	00	FF	00	//22 DirectSound
+00	3C	00	00	song03E30x23.DirectSound.bin	FF	00	FF	00	//23 DirectSound
+00	3C	00	00	song03E30x24.DirectSound.bin	FF	00	FF	00	//24 DirectSound
+00	3C	00	00	song03E30x25.DirectSound.bin	FF	00	FF	00	//25 DirectSound
+00	3C	00	00	song03E30x26.DirectSound.bin	FF	00	FF	00	//26 DirectSound
+00	3C	00	00	song03E30x27.DirectSound.bin	FF	00	FF	00	//27 DirectSound
+08	3C	00	00	song03E30x28.DirectSound.bin	FF	00	FF	00	//28 DirectSound Fixed Freq
+08	3C	00	00	song03E30x29.DirectSound.bin	FF	00	FF	00	//29 DirectSound Fixed Freq
+08	3C	00	00	song03E30x2A.DirectSound.bin	FF	00	FF	00	//2A DirectSound Fixed Freq
+08	3C	00	00	song03E30x2B.DirectSound.bin	FF	00	FF	00	//2B DirectSound Fixed Freq
+08	3C	00	00	song03E30x2C.DirectSound.bin	FF	00	FF	00	//2C DirectSound Fixed Freq
+08	3C	00	00	song03E30x2D.DirectSound.bin	FF	00	FF	00	//2D DirectSound Fixed Freq
+08	3C	00	00	song03E30x2E.DirectSound.bin	FF	00	FF	00	//2E DirectSound Fixed Freq
+08	3C	00	00	song03E30x2F.DirectSound.bin	FF	00	FF	00	//2F DirectSound Fixed Freq
+08	3C	00	00	song03E30x30.DirectSound.bin	FF	00	FF	00	//30 DirectSound Fixed Freq
+04	3C	00	00	00	00	00	00	00	03	00	00	//31 Noise
+00	3C	00	00	song03E30x32.DirectSound.bin	FF	00	FF	00	//32 DirectSound
+00	3C	00	00	song03E30x33.DirectSound.bin	FF	00	FF	00	//33 DirectSound
+00	3C	00	00	song03E30x34.DirectSound.bin	FF	00	FF	59	//34 DirectSound
+00	3C	00	00	song03E30x35.DirectSound.bin	FF	00	FF	59	//35 DirectSound
+00	3C	00	00	song03E30x36.DirectSound.bin	FF	00	FF	00	//36 DirectSound
+00	3C	00	00	song03E30x37.DirectSound.bin	FF	00	FF	00	//37 DirectSound
+00	3C	00	00	song03E30x38.DirectSound.bin	FF	00	FF	00	//38 DirectSound
+00	3C	00	00	song03E30x39.DirectSound.bin	FF	00	FF	00	//39 DirectSound
+02	3C	00	00	00	00	00	00	00	01	00	00	//3A SquareWave2
+04	3C	00	00	00	00	00	00	01	00	00	02	//3B Noise
+04	3C	00	00	00	00	00	00	01	00	00	01	//3C Noise
+04	3C	00	00	00	00	00	00	00	00	00	01	//3D Noise
+00	3C	00	00	song03E30x3E.DirectSound.bin	FF	00	FF	00	//3E DirectSound
+00	3C	00	00	song03E30x3F.DirectSound.bin	FF	00	FF	E7	//3F DirectSound
+00	3C	00	00	song03E30x40.DirectSound.bin	1A	00	FF	D8	//40 DirectSound
+01	3C	00	00	02	00	00	00	07	07	00	07	//41 SquareWave1
+00	3C	00	00	song03E30x42.DirectSound.bin	0B	00	FF	CC	//42 DirectSound
+00	3C	00	00	song03E30x43.DirectSound.bin	0B	00	FF	CC	//43 DirectSound
+00	3C	00	00	song03E30x44.DirectSound.bin	FF	00	FF	00	//44 DirectSound
+00	3C	00	00	song03E30x45.DirectSound.bin	FF	00	FF	00	//45 DirectSound
+00	3C	00	00	song03E30x46.DirectSound.bin	FF	00	FF	00	//46 DirectSound
+04	3C	00	00	00	00	00	00	00	00	0F	00	//47 Noise
+00	3C	00	00	song03E30x48.DirectSound.bin	FF	00	FF	00	//48 DirectSound
+00	3C	00	00	song03E30x49.DirectSound.bin	FF	00	FF	00	//49 DirectSound
+00	3C	00	00	song03E30x4A.DirectSound.bin	FF	00	FF	00	//4A DirectSound
+00	3C	00	00	song03E30x4B.DirectSound.bin	FF	00	FF	00	//4B DirectSound
+00	3C	00	00	song03E30x4C.DirectSound.bin	FF	00	FF	CC	//4C DirectSound
+08	3C	00	00	song03E30x4D.DirectSound.bin	FF	00	FF	00	//4D DirectSound Fixed Freq
+00	3C	00	00	song03E30x4E.DirectSound.bin	FF	00	FF	00	//4E DirectSound
+08	3C	00	00	song03E30x4F.DirectSound.bin	FF	00	FF	CC	//4F DirectSound Fixed Freq
+08	3C	00	00	song03E30x50.DirectSound.bin	FF	00	FF	CC	//50 DirectSound Fixed Freq
+08	3C	00	00	song03E30x51.DirectSound.bin	FF	00	FF	CC	//51 DirectSound Fixed Freq
+08	3C	00	00	song03E30x52.DirectSound.bin	FF	00	FF	CC	//52 DirectSound Fixed Freq
+08	3C	00	00	song03E30x53.DirectSound.bin	FF	00	FF	A5	//53 Synth Drum
+01	3C	00	00	02	00	00	00	00	00	0F	00	//54 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//55 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//56 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//57 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//58 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//59 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//5A Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//5B Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//5C Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//5D Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//5E Dummy
+00	3C	00	AC	song03E30x5F.DirectSound.bin	FF	00	FF	A5	//5F DirectSound
+00	3C	00	D4	song03E30x60.DirectSound.bin	FF	00	FF	A5	//60 DirectSound
+08	3C	00	00	song03E30x61.DirectSound.bin	FF	E2	19	A5	//61 DirectSound Fixed Freq
+08	3C	00	B6	song03E30x62.DirectSound.bin	FF	00	FF	CC	//62 DirectSound Fixed Freq
+01	3C	00	00	02	00	00	00	00	00	0F	00	//63 Dummy
+08	3C	00	00	song03E30x64.DirectSound.bin	FF	95	A7	CC	//64 DirectSound Fixed Freq
+08	3C	00	00	song03E30x65.DirectSound.bin	FF	00	FF	CC	//65 DirectSound Fixed Freq
+01	3C	00	00	02	00	00	00	00	00	0F	00	//66 Dummy
+08	3C	00	00	song03E30x67.DirectSound.bin	FF	00	FF	CC	//67 DirectSound Fixed Freq
+08	3C	00	00	song03E30x68.DirectSound.bin	FF	00	FF	CC	//68 DirectSound Fixed Freq
+08	3C	00	00	song03E30x69.DirectSound.bin	FF	00	FF	CC	//69 DirectSound Fixed Freq
+08	3C	00	00	song03E30x6A.DirectSound.bin	FF	00	FF	CC	//6A DirectSound Fixed Freq
+08	3C	00	00	song03E30x6B.DirectSound.bin	FF	00	FF	CC	//6B DirectSound Fixed Freq
+01	3C	00	00	02	00	00	00	00	00	0F	00	//6C Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//6D Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//6E Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//6F Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//70 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//71 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//72 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//73 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//74 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//75 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//76 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//77 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//78 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//79 Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//7A Dummy
+01	3C	00	00	02	00	00	00	00	00	0F	00	//7B Dummy
+08	3C	00	00	song03E30x7C.DirectSound.bin	FF	F2	00	CC	//7C DirectSound Fixed Freq
+08	3C	00	00	song03E30x7D.DirectSound.bin	FF	00	FF	CC	//7D DirectSound Fixed Freq
+08	3C	00	00	song03E30x7E.DirectSound.bin	FF	00	FF	CC	//7E DirectSound Fixed Freq
+08	3C	00	00	song03E30x7F.DirectSound.bin	FF	00	FF	CC	//7F DirectSound Fixed Freq

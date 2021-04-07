@@ -1,0 +1,195 @@
+C000000
+C000000
+C000000
+C000000
+C000000
+C100029
+C000040
+C000000
+C000000
+C000000
+C000000
+C000000
+C000153
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+C013F48
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_003.png
+1
+
+O Spell_o_000.png
+B Spell_b_004.png
+1
+
+O Spell_o_000.png
+B Spell_b_005.png
+1
+
+O Spell_o_000.png
+B Spell_b_006.png
+1
+
+O Spell_o_000.png
+B Spell_b_007.png
+1
+
+C100929
+O Spell_o_000.png
+B Spell_b_008.png
+1
+
+O Spell_o_000.png
+B Spell_b_009.png
+1
+
+O Spell_o_000.png
+B Spell_b_010.png
+1
+
+C101029
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+O Spell_o_000.png
+B Spell_b_012.png
+1
+
+O Spell_o_000.png
+B Spell_b_013.png
+1
+
+O Spell_o_000.png
+B Spell_b_014.png
+1
+
+C100029
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+C100529
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+C100A29
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+C101029
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+C100029
+C02C348
+O Spell_o_000.png
+B Spell_b_016.png
+1
+
+O Spell_o_000.png
+B Spell_b_017.png
+1
+
+O Spell_o_000.png
+B Spell_b_018.png
+1
+
+C00001A
+C00001F
+~
+O Spell_o_000.png
+B Spell_b_019.png
+1
+
+O Spell_o_000.png
+B Spell_b_020.png
+1
+
+O Spell_o_000.png
+B Spell_b_021.png
+1
+
+O Spell_o_000.png
+B Spell_b_022.png
+1
+
+O Spell_o_000.png
+B Spell_b_023.png
+1
+
+O Spell_o_000.png
+B Spell_b_024.png
+1
+
+O Spell_o_000.png
+B Spell_b_025.png
+1
+
+O Spell_o_000.png
+B Spell_b_026.png
+1
+
+O Spell_o_000.png
+B Spell_b_027.png
+1
+
+O Spell_o_000.png
+B Spell_b_028.png
+1
+
+O Spell_o_000.png
+B Spell_b_029.png
+1
+
+O Spell_o_000.png
+B Spell_b_015.png
+2
+
+C100029
+O Spell_o_000.png
+B Spell_b_015.png
+2
+
+C100529
+O Spell_o_000.png
+B Spell_b_015.png
+2
+
+C100A29
+O Spell_o_000.png
+B Spell_b_015.png
+2
+
+C101029
+O Spell_o_000.png
+B Spell_b_015.png
+2
+
+O Spell_o_000.png
+B Spell_b_001.png
+2
+
+C000053
+/// - End of animation

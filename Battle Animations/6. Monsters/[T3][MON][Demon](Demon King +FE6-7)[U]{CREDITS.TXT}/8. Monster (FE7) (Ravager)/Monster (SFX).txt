@@ -1,0 +1,105 @@
+#######################################################
+#01 armm_sp1 Knight Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+S28                               #Sound 40 Into the Shadow of Triumph
+10 p- Monster_000.png
+C03                               #Start Monster animation; should be followed by 0x07
+C07                               #Start Monster animation; should be preceeded by 0x03
+10 p- Monster_000.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+C1A                               #Normal hit
+10 p- Monster_001.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C01                               #Play electrical charging SFE
+1 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+S28                               #Sound 40 Into the Shadow of Triumph
+C03                               #Start Monster animation; should be followed by 0x07
+C07                               #Start Monster animation; should be preceeded by 0x03
+C28                               #Play electrical charging SFE
+20 p- Monster_002.png
+C46                               #Play dropped axe crashing onto ground SFE
+C39                               #Pauses the Monsterer, makes them flash white and makes the screen flash white Essentially makes it look as though the Monsterer was hit, but without blue sparks
+20 p- Monster_003.png
+S28                               #Sound 40 Into the Shadow of Triumph
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+C15                               #Slight vibration of screen
+C08                               #Critical hit
+10 p- Monster_001.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C01                               #Play electrical charging SFE
+1 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+SDF                               #Sound 223 
+C03                               #Start Monster animation; should be followed by 0x07
+C07                               #Start Monster animation; should be preceeded by 0x03
+C05                               #Call spell associated with equipped weapon
+C15                               #Slight vibration of screen
+C01                               #Play electrical charging SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start Monster animation; should be followed by 0x07
+SDF                               #Sound 223 
+C03                               #Start Monster animation; should be followed by 0x07
+C07                               #Start Monster animation; should be preceeded by 0x03
+C05                               #Call spell associated with equipped weapon
+C15                               #Slight vibration of screen
+C01                               #Play electrical charging SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Monster
+C02                               #Start of dodge
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C01                               #Play electrical charging SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Monster
+C02                               #Start of dodge
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C01                               #Play electrical charging SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Monster_004.png
+C01                               #Play electrical charging SFE
+~~~
+/// - Mode 10               #standing motions?
+1 p- Monster_004.png
+C01                               #Play electrical charging SFE
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Monster_004.png
+C01                               #Play electrical charging SFE
+~~~
+/// - Mode 12               #Monster Missed Animation
+SDF                               #Sound 223 
+C03                               #Start Monster animation; should be followed by 0x07
+C07                               #Start Monster animation; should be preceeded by 0x03
+C05                               #Call spell associated with equipped weapon
+8 p- Monster_000.png
+1 p- Monster_001.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C01                               #Play electrical charging SFE
+1 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

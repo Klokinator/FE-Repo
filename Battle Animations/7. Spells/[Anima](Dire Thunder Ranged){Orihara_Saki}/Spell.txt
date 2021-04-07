@@ -1,0 +1,158 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C100829                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_003.png
+1
+
+C000114                               #Heavy vibration of screen
+O Spell_o_004.png
+B Spell_b_005.png
+1
+
+O Spell_o_006.png
+B Spell_b_007.png
+1
+
+C000151                               #Show brief white flash animation
+C00001A                               #Required before 1F or miss termination branch
+C00001F                               #Play a hit tone (requires 1A just before)
+C000020                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+~                               #miss terminator
+C00001F                               #Play a hit tone (requires 1A just before)
+O Spell_o_006.png
+B Spell_b_008.png
+1
+
+C000114                               #Heavy vibration of screen
+C011A48                               #Sound 282 SE:Bolting strike
+O Spell_o_006.png
+B Spell_b_009.png
+1
+
+C011A48                               #Sound 282 SE:Bolting strike
+O Spell_o_000.png
+B Spell_b_010.png
+1
+
+C011A48                               #Sound 282 SE:Bolting strike
+O Spell_o_004.png
+B Spell_b_005.png
+1
+
+C011A48                               #Sound 282 SE:Bolting strike
+O Spell_o_006.png
+B Spell_b_008.png
+1
+
+C000114                               #Heavy vibration of screen
+C011A48                               #Sound 282 SE:Bolting strike
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+C011A48                               #Sound 282 SE:Bolting strike
+C000114                               #Heavy vibration of screen
+O Spell_o_004.png
+B Spell_b_005.png
+1
+
+O Spell_o_012.png
+B Spell_b_009.png
+1
+
+O Spell_o_013.png
+B Spell_b_010.png
+1
+
+O Spell_o_014.png
+B Spell_b_009.png
+1
+
+C000114                               #Heavy vibration of screen
+O Spell_o_004.png
+B Spell_b_008.png
+1
+
+O Spell_o_015.png
+B Spell_b_007.png
+1
+
+C000115                               #Slight vibration of screen
+O Spell_o_016.png
+B Spell_b_011.png
+1
+
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+O Spell_o_012.png
+B Spell_b_010.png
+1
+
+O Spell_o_013.png
+B Spell_b_010.png
+1
+
+O Spell_o_014.png
+B Spell_b_010.png
+1
+
+O Spell_o_017.png
+B Spell_b_010.png
+1
+
+O Spell_o_015.png
+B Spell_b_010.png
+1
+
+O Spell_o_000.png
+B Spell_b_018.png
+1
+
+O Spell_o_019.png
+B Spell_b_018.png
+1
+
+O Spell_o_020.png
+B Spell_b_018.png
+1
+
+O Spell_o_000.png
+B Spell_b_018.png
+3
+
+O Spell_o_000.png
+B Spell_b_021.png
+8
+
+O Spell_o_000.png
+B Spell_b_022.png
+33
+
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+/// - End of animation

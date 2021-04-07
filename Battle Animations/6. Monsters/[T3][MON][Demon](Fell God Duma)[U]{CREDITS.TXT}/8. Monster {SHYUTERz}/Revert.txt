@@ -1,0 +1,65 @@
+/// - Mode 1
+C51
+1 p- Revert_000.png
+~~~
+/// - Mode 3
+C51
+1 p- Revert_000.png
+~~~
+/// - Mode 5
+C51
+1 p- Revert_000.png
+~~~
+/// - Mode 6
+C51
+1 p- Revert_000.png
+~~~
+/// - Mode 7
+C02
+C51
+C0E
+C51
+1 p- Revert_000.png
+C51
+C06
+C51
+C0D
+~~~
+/// - Mode 8
+C02
+C51
+C0E
+C51
+1 p- Revert_000.png
+C51
+C06
+C51
+C0D
+~~~
+/// - Mode 9
+C51
+1 p- Revert_000.png
+C01
+~~~
+/// - Mode 10
+C51
+1 p- Revert_000.png
+C01
+~~~
+/// - Mode 11
+C51
+1 p- Revert_000.png
+C01
+~~~
+/// - Mode 12
+C02
+C51
+C0E
+C51
+1 p- Revert_000.png
+C51
+C06
+C51
+C0D
+~~~
+/// - End of animation

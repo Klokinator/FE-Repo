@@ -1,0 +1,30 @@
+/// - Mode 1
+9 p- Revert_000.png
+4 p- Revert_001.png
+3 p- Revert_002.png
+3 p- Revert_003.png
+2 p- Revert_004.png
+2 p- Revert_005.png
+2 p- Revert_006.png
+3 p- Revert_007.png
+2 p- Revert_008.png
+~~~
+/// - Mode 3
+~~~
+/// - Mode 5
+~~~
+/// - Mode 6
+~~~
+/// - Mode 7
+~~~
+/// - Mode 8
+~~~
+/// - Mode 9
+~~~
+/// - Mode 10
+~~~
+/// - Mode 11
+~~~
+/// - Mode 12
+~~~
+/// - End of animation

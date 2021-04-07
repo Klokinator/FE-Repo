@@ -1,0 +1,42 @@
+/// - Mode 1
+1 p- Transform_without_comment_000.png
+6 p- Transform_without_comment_001.png
+6 p- Transform_without_comment_002.png
+C0E
+4 p- Transform_without_comment_003.png
+4 p- Transform_without_comment_004.png
+4 p- Transform_without_comment_005.png
+2 p- Transform_without_comment_006.png
+3 p- Transform_without_comment_007.png
+3 p- Transform_without_comment_008.png
+2 p- Transform_without_comment_009.png
+1 p- Transform_without_comment_010.png
+~~~
+/// - Mode 3
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 5
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 6
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 7
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 8
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 9
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 10
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 11
+4 p- Transform_without_comment_000.png
+~~~
+/// - Mode 12
+4 p- Transform_without_comment_000.png
+~~~
+/// - End of animation

@@ -1,0 +1,180 @@
+/// - Mode 1
+1 p- Transform FE6-esque_000.png
+C0E
+1 p- Transform FE6-esque_001.png
+1 p- Transform FE6-esque_002.png
+1 p- Transform FE6-esque_003.png
+1 p- Transform FE6-esque_004.png
+1 p- Transform FE6-esque_005.png
+1 p- Transform FE6-esque_006.png
+1 p- Transform FE6-esque_007.png
+1 p- Transform FE6-esque_008.png
+1 p- Transform FE6-esque_009.png
+1 p- Transform FE6-esque_010.png
+1 p- Transform FE6-esque_011.png
+1 p- Transform FE6-esque_012.png
+1 p- Transform FE6-esque_013.png
+SAE
+C14
+1 p- Transform FE6-esque_014.png
+2 p- Transform FE6-esque_015.png
+C14
+2 p- Transform FE6-esque_016.png
+2 p- Transform FE6-esque_017.png
+C14
+2 p- Transform FE6-esque_016.png
+2 p- Transform FE6-esque_017.png
+2 p- Transform FE6-esque_016.png
+2 p- Transform FE6-esque_018.png
+2 p- Transform FE6-esque_019.png
+2 p- Transform FE6-esque_020.png
+2 p- Transform FE6-esque_019.png
+2 p- Transform FE6-esque_020.png
+2 p- Transform FE6-esque_019.png
+2 p- Transform FE6-esque_018.png
+2 p- Transform FE6-esque_019.png
+1 p- Transform FE6-esque_018.png
+1 p- Transform FE6-esque_014.png
+1 p- Transform FE6-esque_018.png
+2 p- Transform FE6-esque_014.png
+7 p- Transform FE6-esque_014.png
+1 p- Transform FE6-esque_000.png
+7 p- Transform FE6-esque_014.png
+1 p- Transform FE6-esque_000.png
+1 p- Transform FE6-esque_014.png
+1 p- Transform FE6-esque_000.png
+1 p- Transform FE6-esque_014.png
+1 p- Transform FE6-esque_000.png
+S02BA
+1 p- Transform FE6-esque_014.png
+1 p- Transform FE6-esque_000.png
+1 p- Transform FE6-esque_014.png
+C51
+4 p- Transform FE6-esque_000.png
+1 p- Transform FE6-esque_021.png
+1 p- Transform FE6-esque_000.png
+1 p- Transform FE6-esque_021.png
+1 p- Transform FE6-esque_000.png
+1 p- Transform FE6-esque_021.png
+1 p- Transform FE6-esque_000.png
+1 p- Transform FE6-esque_021.png
+1 p- Transform FE6-esque_000.png
+4 p- Transform FE6-esque_021.png
+6 p- Transform FE6-esque_022.png
+5 p- Transform FE6-esque_023.png
+6 p- Transform FE6-esque_024.png
+5 p- Transform FE6-esque_025.png
+6 p- Transform FE6-esque_026.png
+5 p- Transform FE6-esque_027.png
+6 p- Transform FE6-esque_028.png
+5 p- Transform FE6-esque_029.png
+6 p- Transform FE6-esque_030.png
+5 p- Transform FE6-esque_031.png
+6 p- Transform FE6-esque_032.png
+5 p- Transform FE6-esque_033.png
+6 p- Transform FE6-esque_034.png
+5 p- Transform FE6-esque_035.png
+6 p- Transform FE6-esque_036.png
+5 p- Transform FE6-esque_037.png
+6 p- Transform FE6-esque_038.png
+5 p- Transform FE6-esque_039.png
+6 p- Transform FE6-esque_040.png
+5 p- Transform FE6-esque_041.png
+6 p- Transform FE6-esque_042.png
+5 p- Transform FE6-esque_043.png
+6 p- Transform FE6-esque_044.png
+6 p- Transform FE6-esque_045.png
+6 p- Transform FE6-esque_046.png
+7 p- Transform FE6-esque_047.png
+7 p- Transform FE6-esque_048.png
+7 p- Transform FE6-esque_049.png
+8 p- Transform FE6-esque_050.png
+8 p- Transform FE6-esque_051.png
+7 p- Transform FE6-esque_052.png
+1 p- Transform FE6-esque_053.png
+29 p- Transform FE6-esque_052.png
+37 p- Transform FE6-esque_052.png
+48 p- Transform FE6-esque_052.png
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Transform FE6-esque_000.png
+C04
+C08
+C1F
+C01
+1 p- Transform FE6-esque_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Transform FE6-esque_000.png
+C05
+1 p- Transform FE6-esque_000.png
+C01
+1 p- Transform FE6-esque_000.png
+C06
+1 p- Transform FE6-esque_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Transform FE6-esque_000.png
+C05
+1 p- Transform FE6-esque_000.png
+C01
+1 p- Transform FE6-esque_000.png
+C06
+1 p- Transform FE6-esque_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Transform FE6-esque_000.png
+C0E
+1 p- Transform FE6-esque_000.png
+C01
+1 p- Transform FE6-esque_000.png
+C06
+1 p- Transform FE6-esque_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Transform FE6-esque_000.png
+C0E
+1 p- Transform FE6-esque_000.png
+C01
+1 p- Transform FE6-esque_000.png
+C06
+1 p- Transform FE6-esque_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Transform FE6-esque_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Transform FE6-esque_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Transform FE6-esque_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Transform FE6-esque_000.png
+C04
+C1F
+C01
+1 p- Transform FE6-esque_000.png
+C06
+C0D
+~~~
+/// - End of animation

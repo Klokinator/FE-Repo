@@ -1,0 +1,19 @@
+O Spell_o_000.png
+B Spell_b_001.png
+1
+
+O Spell_o_002.png
+B Spell_b_001.png
+1
+
+O Spell_o_003.png
+B Spell_b_004.png
+1
+
+C000051
+C00001F
+C00001A
+~
+C000040
+C000014
+/// - End of animation

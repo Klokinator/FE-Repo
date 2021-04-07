@@ -1,0 +1,234 @@
+/// - Mode 1
+C0E
+1 p- Transform_000.png
+1 p- Transform_001.png
+1 p- Transform_000.png
+1 p- Transform_001.png
+1 p- Transform_000.png
+1 p- Transform_001.png
+1 p- Transform_000.png
+1 p- Transform_001.png
+1 p- Transform_000.png
+1 p- Transform_001.png
+1 p- Transform_000.png
+1 p- Transform_001.png
+1 p- Transform_000.png
+1 p- Transform_001.png
+S02E3
+C14
+1 p- Transform_002.png
+1 p- Transform_001.png
+1 p- Transform_003.png
+1 p- Transform_001.png
+1 p- Transform_004.png
+1 p- Transform_001.png
+1 p- Transform_005.png
+1 p- Transform_001.png
+1 p- Transform_006.png
+1 p- Transform_001.png
+C14
+1 p- Transform_007.png
+1 p- Transform_001.png
+1 p- Transform_008.png
+1 p- Transform_001.png
+1 p- Transform_009.png
+1 p- Transform_001.png
+1 p- Transform_010.png
+1 p- Transform_001.png
+1 p- Transform_011.png
+1 p- Transform_001.png
+C14
+1 p- Transform_012.png
+1 p- Transform_001.png
+1 p- Transform_013.png
+1 p- Transform_001.png
+1 p- Transform_014.png
+1 p- Transform_001.png
+1 p- Transform_015.png
+1 p- Transform_001.png
+1 p- Transform_016.png
+1 p- Transform_001.png
+C14
+1 p- Transform_017.png
+1 p- Transform_001.png
+1 p- Transform_018.png
+1 p- Transform_001.png
+1 p- Transform_019.png
+1 p- Transform_001.png
+1 p- Transform_020.png
+1 p- Transform_001.png
+1 p- Transform_021.png
+1 p- Transform_001.png
+C14
+1 p- Transform_022.png
+1 p- Transform_001.png
+1 p- Transform_023.png
+1 p- Transform_001.png
+1 p- Transform_022.png
+1 p- Transform_001.png
+1 p- Transform_021.png
+1 p- Transform_001.png
+1 p- Transform_020.png
+1 p- Transform_001.png
+C14
+1 p- Transform_019.png
+1 p- Transform_001.png
+1 p- Transform_018.png
+1 p- Transform_001.png
+1 p- Transform_017.png
+1 p- Transform_001.png
+1 p- Transform_016.png
+1 p- Transform_001.png
+1 p- Transform_015.png
+1 p- Transform_001.png
+C14
+1 p- Transform_014.png
+1 p- Transform_001.png
+1 p- Transform_013.png
+1 p- Transform_001.png
+1 p- Transform_012.png
+1 p- Transform_001.png
+1 p- Transform_011.png
+1 p- Transform_001.png
+1 p- Transform_010.png
+1 p- Transform_001.png
+C14
+1 p- Transform_009.png
+1 p- Transform_001.png
+1 p- Transform_008.png
+1 p- Transform_001.png
+1 p- Transform_007.png
+1 p- Transform_001.png
+1 p- Transform_006.png
+1 p- Transform_001.png
+1 p- Transform_005.png
+1 p- Transform_001.png
+C14
+1 p- Transform_004.png
+1 p- Transform_001.png
+1 p- Transform_003.png
+1 p- Transform_001.png
+1 p- Transform_002.png
+1 p- Transform_001.png
+1 p- Transform_002.png
+1 p- Transform_001.png
+1 p- Transform_003.png
+1 p- Transform_001.png
+C14
+1 p- Transform_004.png
+1 p- Transform_001.png
+1 p- Transform_005.png
+1 p- Transform_001.png
+1 p- Transform_006.png
+1 p- Transform_001.png
+1 p- Transform_007.png
+1 p- Transform_001.png
+1 p- Transform_008.png
+1 p- Transform_001.png
+C14
+1 p- Transform_009.png
+1 p- Transform_001.png
+1 p- Transform_010.png
+1 p- Transform_001.png
+1 p- Transform_011.png
+1 p- Transform_001.png
+1 p- Transform_012.png
+2 p- Transform_001.png
+C14
+10 p- Transform_001.png
+C14
+75 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+1 p- Transform_024.png
+1 p- Transform_001.png
+S03C0
+6 p- Transform_024.png
+5 p- Transform_025.png
+5 p- Transform_026.png
+5 p- Transform_027.png
+1 p- Transform_028.png
+11 p- Transform_028.png
+3 p- Transform_027.png
+4 p- Transform_026.png
+4 p- Transform_025.png
+8 p- Transform_024.png
+4 p- Transform_025.png
+4 p- Transform_026.png
+4 p- Transform_027.png
+13 p- Transform_028.png
+3 p- Transform_029.png
+33 p- Transform_030.png
+2 p- Transform_031.png
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Transform_001.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Transform_001.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Transform_001.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+C0E
+C51
+1 p- Transform_001.png
+C01
+C0D
+~~~
+/// - Mode 8
+C02
+C0E
+C51
+1 p- Transform_001.png
+C01
+C0D
+~~~
+/// - Mode 9
+1 p- Transform_001.png
+C01
+~~~
+/// - Mode 10
+1 p- Transform_001.png
+C01
+~~~
+/// - Mode 11
+1 p- Transform_001.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Transform_001.png
+C06
+C0D
+~~~
+/// - End of animation

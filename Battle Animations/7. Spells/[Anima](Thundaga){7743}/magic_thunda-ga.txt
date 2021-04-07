@@ -1,0 +1,113 @@
+//サンダガ
+C000040                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+C00F448                               #Sound 244 SE:雷の最初の音 バチっ
+O dummy.png
+B img0.png
+1
+O dummy.png
+B img1.png
+1
+O dummy.png
+B img2.png
+1
+C011A48                               #Sound 
+O dummy.png
+B img3.png
+1
+O dummy.png
+B img4.png
+1
+O dummy.png
+B img5.png
+1
+C011A48                               #Sound 
+O dummy.png
+B img6.png
+1
+O dummy.png
+B img7.png
+1
+C011A48                               #Sound 
+O dummy.png
+B img8.png
+1
+C00001A                               #1Fまたはミス終端分岐の前に必要
+~                                     #miss terminator
+C00001F                               #ヒット音を鳴らす(直前に1Aが必要)
+O dummy.png
+B img9.png
+1
+O dummy.png
+B img10.png
+1
+O dummy.png
+B img11.png
+2
+O dummy.png
+B img13.png
+2
+O dummy.png
+B img15.png
+2
+O dummy.png
+B img17.png
+2
+O dummy.png
+B img19.png
+1
+O dummy.png
+B img20.png
+1
+O dummy.png
+B img21.png
+1
+O dummy.png
+B img22.png
+1
+O dummy.png
+B img23.png
+1
+O dummy.png
+B img24.png
+1
+O dummy.png
+B img25.png
+1
+O dummy.png
+B img26.png
+1
+O dummy.png
+B img27.png
+1
+O dummy.png
+B img28.png
+1
+O dummy.png
+B img29.png
+1
+O dummy.png
+B img30.png
+1
+O dummy.png
+B img31.png
+1
+O dummy.png
+B img32.png
+1
+O dummy.png
+B img33.png
+1
+O dummy.png
+B img34.png
+1
+O dummy.png
+B img35.png
+1
+O dummy.png
+B img36.png
+1
+O dummy.png
+B img37.png
+1
+
+/// - End of animation

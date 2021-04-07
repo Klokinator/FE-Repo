@@ -1,0 +1,5 @@
+S03D1 #play sound SE:Activate Skill Animation
+3 Skill_g000.png
+3 Skill_g001.png
+3 Skill_g002.png
+3 Skill_g003.png

@@ -1,0 +1,475 @@
+//Generated with Skill Animation Creator.
+
+ORG $?????? //free space in your rom
+
+#incbin skillanimtemplate.dmp
+POIN Frames
+POIN TSAList
+POIN GraphicsList
+POIN PalettesList
+WORD 0x2F8 //sound id
+
+Frames:    //SHORT image duration
+SHORT 0 2
+SHORT 1 2
+SHORT 2 2
+SHORT 3 2
+SHORT 4 2
+SHORT 5 2
+SHORT 6 2
+SHORT 7 2
+SHORT 8 2
+SHORT 9 2
+SHORT 10 2
+SHORT 11 2
+SHORT 12 2
+SHORT 13 2
+SHORT 14 2
+SHORT 15 2
+SHORT 16 2
+SHORT 17 2
+SHORT 18 2
+SHORT 19 2
+SHORT 20 2
+SHORT 21 2
+SHORT 22 2
+SHORT 23 2
+SHORT 24 2
+SHORT 25 2
+SHORT 26 2
+SHORT 27 2
+SHORT 28 2
+SHORT 29 2
+SHORT 30 2
+SHORT 31 2
+SHORT 32 2
+SHORT 33 2
+SHORT 34 2
+SHORT 35 2
+SHORT 36 2
+SHORT 37 2
+SHORT 38 2
+SHORT 39 2
+SHORT 40 2
+SHORT 41 2
+SHORT 42 2
+SHORT 43 2
+SHORT 44 2
+SHORT 0xFFFF
+ALIGN 4
+
+TSAList:
+POIN TSA_Astra18
+POIN TSA_Astra17
+POIN TSA_Astra16
+POIN TSA_Astra15
+POIN TSA_Astra14
+POIN TSA_Astra13
+POIN TSA_Astra12
+POIN TSA_Astra11
+POIN TSA_Astra10
+POIN TSA_Astra28
+POIN TSA_Astra27
+POIN TSA_Astra26
+POIN TSA_Astra25
+POIN TSA_Astra24
+POIN TSA_Astra23
+POIN TSA_Astra22
+POIN TSA_Astra21
+POIN TSA_Astra20
+POIN TSA_Astra38
+POIN TSA_Astra37
+POIN TSA_Astra36
+POIN TSA_Astra35
+POIN TSA_Astra34
+POIN TSA_Astra33
+POIN TSA_Astra32
+POIN TSA_Astra31
+POIN TSA_Astra30
+POIN TSA_Astra48
+POIN TSA_Astra47
+POIN TSA_Astra46
+POIN TSA_Astra45
+POIN TSA_Astra44
+POIN TSA_Astra43
+POIN TSA_Astra42
+POIN TSA_Astra41
+POIN TSA_Astra40
+POIN TSA_Astra58
+POIN TSA_Astra57
+POIN TSA_Astra56
+POIN TSA_Astra55
+POIN TSA_Astra54
+POIN TSA_Astra53
+POIN TSA_Astra52
+POIN TSA_Astra51
+POIN TSA_Astra50
+
+GraphicsList:
+POIN Graphics_Astra18
+POIN Graphics_Astra17
+POIN Graphics_Astra16
+POIN Graphics_Astra15
+POIN Graphics_Astra14
+POIN Graphics_Astra13
+POIN Graphics_Astra12
+POIN Graphics_Astra11
+POIN Graphics_Astra10
+POIN Graphics_Astra28
+POIN Graphics_Astra27
+POIN Graphics_Astra26
+POIN Graphics_Astra25
+POIN Graphics_Astra24
+POIN Graphics_Astra23
+POIN Graphics_Astra22
+POIN Graphics_Astra21
+POIN Graphics_Astra20
+POIN Graphics_Astra38
+POIN Graphics_Astra37
+POIN Graphics_Astra36
+POIN Graphics_Astra35
+POIN Graphics_Astra34
+POIN Graphics_Astra33
+POIN Graphics_Astra32
+POIN Graphics_Astra31
+POIN Graphics_Astra30
+POIN Graphics_Astra48
+POIN Graphics_Astra47
+POIN Graphics_Astra46
+POIN Graphics_Astra45
+POIN Graphics_Astra44
+POIN Graphics_Astra43
+POIN Graphics_Astra42
+POIN Graphics_Astra41
+POIN Graphics_Astra40
+POIN Graphics_Astra58
+POIN Graphics_Astra57
+POIN Graphics_Astra56
+POIN Graphics_Astra55
+POIN Graphics_Astra54
+POIN Graphics_Astra53
+POIN Graphics_Astra52
+POIN Graphics_Astra51
+POIN Graphics_Astra50
+
+PalettesList:
+POIN Pal_Astra18
+POIN Pal_Astra17
+POIN Pal_Astra16
+POIN Pal_Astra15
+POIN Pal_Astra14
+POIN Pal_Astra13
+POIN Pal_Astra12
+POIN Pal_Astra11
+POIN Pal_Astra10
+POIN Pal_Astra28
+POIN Pal_Astra27
+POIN Pal_Astra26
+POIN Pal_Astra25
+POIN Pal_Astra24
+POIN Pal_Astra23
+POIN Pal_Astra22
+POIN Pal_Astra21
+POIN Pal_Astra20
+POIN Pal_Astra38
+POIN Pal_Astra37
+POIN Pal_Astra36
+POIN Pal_Astra35
+POIN Pal_Astra34
+POIN Pal_Astra33
+POIN Pal_Astra32
+POIN Pal_Astra31
+POIN Pal_Astra30
+POIN Pal_Astra48
+POIN Pal_Astra47
+POIN Pal_Astra46
+POIN Pal_Astra45
+POIN Pal_Astra44
+POIN Pal_Astra43
+POIN Pal_Astra42
+POIN Pal_Astra41
+POIN Pal_Astra40
+POIN Pal_Astra58
+POIN Pal_Astra57
+POIN Pal_Astra56
+POIN Pal_Astra55
+POIN Pal_Astra54
+POIN Pal_Astra53
+POIN Pal_Astra52
+POIN Pal_Astra51
+POIN Pal_Astra50
+
+TSA_Astra18:
+#incbin "Astra18.map.bin"
+TSA_Astra17:
+#incbin "Astra17.map.bin"
+TSA_Astra16:
+#incbin "Astra16.map.bin"
+TSA_Astra15:
+#incbin "Astra15.map.bin"
+TSA_Astra14:
+#incbin "Astra14.map.bin"
+TSA_Astra13:
+#incbin "Astra13.map.bin"
+TSA_Astra12:
+#incbin "Astra12.map.bin"
+TSA_Astra11:
+#incbin "Astra11.map.bin"
+TSA_Astra10:
+#incbin "Astra10.map.bin"
+TSA_Astra28:
+#incbin "Astra28.map.bin"
+TSA_Astra27:
+#incbin "Astra27.map.bin"
+TSA_Astra26:
+#incbin "Astra26.map.bin"
+TSA_Astra25:
+#incbin "Astra25.map.bin"
+TSA_Astra24:
+#incbin "Astra24.map.bin"
+TSA_Astra23:
+#incbin "Astra23.map.bin"
+TSA_Astra22:
+#incbin "Astra22.map.bin"
+TSA_Astra21:
+#incbin "Astra21.map.bin"
+TSA_Astra20:
+#incbin "Astra20.map.bin"
+TSA_Astra38:
+#incbin "Astra38.map.bin"
+TSA_Astra37:
+#incbin "Astra37.map.bin"
+TSA_Astra36:
+#incbin "Astra36.map.bin"
+TSA_Astra35:
+#incbin "Astra35.map.bin"
+TSA_Astra34:
+#incbin "Astra34.map.bin"
+TSA_Astra33:
+#incbin "Astra33.map.bin"
+TSA_Astra32:
+#incbin "Astra32.map.bin"
+TSA_Astra31:
+#incbin "Astra31.map.bin"
+TSA_Astra30:
+#incbin "Astra30.map.bin"
+TSA_Astra48:
+#incbin "Astra48.map.bin"
+TSA_Astra47:
+#incbin "Astra47.map.bin"
+TSA_Astra46:
+#incbin "Astra46.map.bin"
+TSA_Astra45:
+#incbin "Astra45.map.bin"
+TSA_Astra44:
+#incbin "Astra44.map.bin"
+TSA_Astra43:
+#incbin "Astra43.map.bin"
+TSA_Astra42:
+#incbin "Astra42.map.bin"
+TSA_Astra41:
+#incbin "Astra41.map.bin"
+TSA_Astra40:
+#incbin "Astra40.map.bin"
+TSA_Astra58:
+#incbin "Astra58.map.bin"
+TSA_Astra57:
+#incbin "Astra57.map.bin"
+TSA_Astra56:
+#incbin "Astra56.map.bin"
+TSA_Astra55:
+#incbin "Astra55.map.bin"
+TSA_Astra54:
+#incbin "Astra54.map.bin"
+TSA_Astra53:
+#incbin "Astra53.map.bin"
+TSA_Astra52:
+#incbin "Astra52.map.bin"
+TSA_Astra51:
+#incbin "Astra51.map.bin"
+TSA_Astra50:
+#incbin "Astra50.map.bin"
+
+Graphics_Astra18:
+#incbin "Astra18.img.bin"
+Graphics_Astra17:
+#incbin "Astra17.img.bin"
+Graphics_Astra16:
+#incbin "Astra16.img.bin"
+Graphics_Astra15:
+#incbin "Astra15.img.bin"
+Graphics_Astra14:
+#incbin "Astra14.img.bin"
+Graphics_Astra13:
+#incbin "Astra13.img.bin"
+Graphics_Astra12:
+#incbin "Astra12.img.bin"
+Graphics_Astra11:
+#incbin "Astra11.img.bin"
+Graphics_Astra10:
+#incbin "Astra10.img.bin"
+Graphics_Astra28:
+#incbin "Astra28.img.bin"
+Graphics_Astra27:
+#incbin "Astra27.img.bin"
+Graphics_Astra26:
+#incbin "Astra26.img.bin"
+Graphics_Astra25:
+#incbin "Astra25.img.bin"
+Graphics_Astra24:
+#incbin "Astra24.img.bin"
+Graphics_Astra23:
+#incbin "Astra23.img.bin"
+Graphics_Astra22:
+#incbin "Astra22.img.bin"
+Graphics_Astra21:
+#incbin "Astra21.img.bin"
+Graphics_Astra20:
+#incbin "Astra20.img.bin"
+Graphics_Astra38:
+#incbin "Astra38.img.bin"
+Graphics_Astra37:
+#incbin "Astra37.img.bin"
+Graphics_Astra36:
+#incbin "Astra36.img.bin"
+Graphics_Astra35:
+#incbin "Astra35.img.bin"
+Graphics_Astra34:
+#incbin "Astra34.img.bin"
+Graphics_Astra33:
+#incbin "Astra33.img.bin"
+Graphics_Astra32:
+#incbin "Astra32.img.bin"
+Graphics_Astra31:
+#incbin "Astra31.img.bin"
+Graphics_Astra30:
+#incbin "Astra30.img.bin"
+Graphics_Astra48:
+#incbin "Astra48.img.bin"
+Graphics_Astra47:
+#incbin "Astra47.img.bin"
+Graphics_Astra46:
+#incbin "Astra46.img.bin"
+Graphics_Astra45:
+#incbin "Astra45.img.bin"
+Graphics_Astra44:
+#incbin "Astra44.img.bin"
+Graphics_Astra43:
+#incbin "Astra43.img.bin"
+Graphics_Astra42:
+#incbin "Astra42.img.bin"
+Graphics_Astra41:
+#incbin "Astra41.img.bin"
+Graphics_Astra40:
+#incbin "Astra40.img.bin"
+Graphics_Astra58:
+#incbin "Astra58.img.bin"
+Graphics_Astra57:
+#incbin "Astra57.img.bin"
+Graphics_Astra56:
+#incbin "Astra56.img.bin"
+Graphics_Astra55:
+#incbin "Astra55.img.bin"
+Graphics_Astra54:
+#incbin "Astra54.img.bin"
+Graphics_Astra53:
+#incbin "Astra53.img.bin"
+Graphics_Astra52:
+#incbin "Astra52.img.bin"
+Graphics_Astra51:
+#incbin "Astra51.img.bin"
+Graphics_Astra50:
+#incbin "Astra50.img.bin"
+
+Pal_Astra18:
+#incbin "Astra18.pal.bin"
+Pal_Astra17:
+#incbin "Astra17.pal.bin"
+Pal_Astra16:
+#incbin "Astra16.pal.bin"
+Pal_Astra15:
+#incbin "Astra15.pal.bin"
+Pal_Astra14:
+#incbin "Astra14.pal.bin"
+Pal_Astra13:
+#incbin "Astra13.pal.bin"
+Pal_Astra12:
+#incbin "Astra12.pal.bin"
+Pal_Astra11:
+#incbin "Astra11.pal.bin"
+Pal_Astra10:
+#incbin "Astra10.pal.bin"
+Pal_Astra28:
+#incbin "Astra28.pal.bin"
+Pal_Astra27:
+#incbin "Astra27.pal.bin"
+Pal_Astra26:
+#incbin "Astra26.pal.bin"
+Pal_Astra25:
+#incbin "Astra25.pal.bin"
+Pal_Astra24:
+#incbin "Astra24.pal.bin"
+Pal_Astra23:
+#incbin "Astra23.pal.bin"
+Pal_Astra22:
+#incbin "Astra22.pal.bin"
+Pal_Astra21:
+#incbin "Astra21.pal.bin"
+Pal_Astra20:
+#incbin "Astra20.pal.bin"
+Pal_Astra38:
+#incbin "Astra38.pal.bin"
+Pal_Astra37:
+#incbin "Astra37.pal.bin"
+Pal_Astra36:
+#incbin "Astra36.pal.bin"
+Pal_Astra35:
+#incbin "Astra35.pal.bin"
+Pal_Astra34:
+#incbin "Astra34.pal.bin"
+Pal_Astra33:
+#incbin "Astra33.pal.bin"
+Pal_Astra32:
+#incbin "Astra32.pal.bin"
+Pal_Astra31:
+#incbin "Astra31.pal.bin"
+Pal_Astra30:
+#incbin "Astra30.pal.bin"
+Pal_Astra48:
+#incbin "Astra48.pal.bin"
+Pal_Astra47:
+#incbin "Astra47.pal.bin"
+Pal_Astra46:
+#incbin "Astra46.pal.bin"
+Pal_Astra45:
+#incbin "Astra45.pal.bin"
+Pal_Astra44:
+#incbin "Astra44.pal.bin"
+Pal_Astra43:
+#incbin "Astra43.pal.bin"
+Pal_Astra42:
+#incbin "Astra42.pal.bin"
+Pal_Astra41:
+#incbin "Astra41.pal.bin"
+Pal_Astra40:
+#incbin "Astra40.pal.bin"
+Pal_Astra58:
+#incbin "Astra58.pal.bin"
+Pal_Astra57:
+#incbin "Astra57.pal.bin"
+Pal_Astra56:
+#incbin "Astra56.pal.bin"
+Pal_Astra55:
+#incbin "Astra55.pal.bin"
+Pal_Astra54:
+#incbin "Astra54.pal.bin"
+Pal_Astra53:
+#incbin "Astra53.pal.bin"
+Pal_Astra52:
+#incbin "Astra52.pal.bin"
+Pal_Astra51:
+#incbin "Astra51.pal.bin"
+Pal_Astra50:
+#incbin "Astra50.pal.bin"
+
+MESSAGE Dara ends as CURRENTOFFSET

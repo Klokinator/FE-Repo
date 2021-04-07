@@ -1,0 +1,95 @@
+#######################################################
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C40                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C061029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+3
+C012048                               #Sound 288 SE:Lightning charging
+O  p- Spell_o_000.png
+B  p- Spell_b_002.png
+3
+O  p- Spell_o_000.png
+B  p- Spell_b_003.png
+3
+C081029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_004.png
+3
+O  p- Spell_o_000.png
+B  p- Spell_b_005.png
+3
+C012948                               #Sound 297 SE:Divine strike
+O  p- Spell_o_000.png
+B  p- Spell_b_006.png
+3
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+3
+O  p- Spell_o_000.png
+B  p- Spell_b_008.png
+3
+O  p- Spell_o_000.png
+B  p- Spell_b_009.png
+3
+C0A1029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_002.png
+3
+O  p- Spell_o_000.png
+B  p- Spell_b_003.png
+3
+C081029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_004.png
+3
+C0A1029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_005.png
+3
+C1A                               #Required before 1F or miss termination branch
+C1F                               #Play a hit tone (requires 1A just before)
+~                               #miss terminator
+C51                               #Show brief white flash animation
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+5
+C012948                               #Sound 297 SE:Divine strike
+O  p- Spell_o_000.png
+B  p- Spell_b_006.png
+3
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+3
+C081029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_008.png
+3
+C061029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_009.png
+3
+C031029                               #Background brightness and opacity XX
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+5
+C012A                               #Background display during battle  YY
+/// - End of animation

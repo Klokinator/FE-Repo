@@ -1,0 +1,124 @@
+/// - Mode 1
+1 p- Transform-flyin_000.png
+1 p- Transform-flyin_001.png
+2 p- Transform-flyin_002.png
+1 p- Transform-flyin_003.png
+1 p- Transform-flyin_004.png
+1 p- Transform-flyin_005.png
+1 p- Transform-flyin_006.png
+1 p- Transform-flyin_007.png
+1 p- Transform-flyin_008.png
+1 p- Transform-flyin_009.png
+1 p- Transform-flyin_010.png
+1 p- Transform-flyin_011.png
+SE6
+1 p- Transform-flyin_012.png
+1 p- Transform-flyin_013.png
+1 p- Transform-flyin_014.png
+1 p- Transform-flyin_015.png
+1 p- Transform-flyin_016.png
+1 p- Transform-flyin_017.png
+1 p- Transform-flyin_018.png
+1 p- Transform-flyin_019.png
+1 p- Transform-flyin_020.png
+1 p- Transform-flyin_021.png
+1 p- Transform-flyin_022.png
+1 p- Transform-flyin_023.png
+2 p- Transform-flyin_024.png
+2 p- Transform-flyin_025.png
+2 p- Transform-flyin_026.png
+2 p- Transform-flyin_027.png
+2 p- Transform-flyin_028.png
+2 p- Transform-flyin_029.png
+5 p- Transform-flyin_030.png
+3 p- Transform-flyin_031.png
+2 p- Transform-flyin_032.png
+2 p- Transform-flyin_033.png
+C51
+S02E0
+C14
+4 p- Transform-flyin_034.png
+1 p- Transform-flyin_035.png
+1 p- Transform-flyin_036.png
+1 p- Transform-flyin_037.png
+C14
+1 p- Transform-flyin_038.png
+1 p- Transform-flyin_039.png
+1 p- Transform-flyin_038.png
+1 p- Transform-flyin_037.png
+C14
+1 p- Transform-flyin_036.png
+1 p- Transform-flyin_037.png
+1 p- Transform-flyin_038.png
+1 p- Transform-flyin_037.png
+25 p- Transform-flyin_037.png
+20 p- Transform-flyin_037.png
+10 p- Transform-flyin_037.png
+~~~
+/// - Mode 3
+C03
+C07
+C05
+1 p- Transform-flyin_001.png
+C01
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+C05
+1 p- Transform-flyin_001.png
+C01
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+C05
+1 p- Transform-flyin_001.png
+C01
+C06
+C0D
+~~~
+/// - Mode 7
+C03
+C07
+C05
+1 p- Transform-flyin_001.png
+C01
+C06
+C0D
+~~~
+/// - Mode 8
+C03
+C07
+C05
+1 p- Transform-flyin_001.png
+C01
+C06
+C0D
+~~~
+/// - Mode 9
+1 p- Transform-flyin_001.png
+C01
+~~~
+/// - Mode 10
+1 p- Transform-flyin_001.png
+C01
+~~~
+/// - Mode 11
+1 p- Transform-flyin_001.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+C05
+1 p- Transform-flyin_001.png
+C01
+C06
+C0D
+~~~
+/// - End of animation

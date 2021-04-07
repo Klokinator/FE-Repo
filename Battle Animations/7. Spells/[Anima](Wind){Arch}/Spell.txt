@@ -1,0 +1,142 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C061029                               #Background brightness and opacity XX
+C000153                               #screen stretching YY
+O Spell_o_000.png
+B Spell_b_001.png
+3
+
+C011E48                               #Sound 286 SE:Ecksacks Wave [Empty Track]
+O Spell_o_000.png
+B Spell_b_002.png
+3
+
+C061029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_003.png
+3
+
+C081029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_004.png
+3
+
+C0A1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_005.png
+3
+
+O Spell_o_000.png
+B Spell_b_006.png
+3
+
+O Spell_o_000.png
+B Spell_b_007.png
+3
+
+O Spell_o_000.png
+B Spell_b_008.png
+3
+
+O Spell_o_000.png
+B Spell_b_009.png
+3
+
+C0C1029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_010.png
+3
+
+O Spell_o_000.png
+B Spell_b_011.png
+3
+
+O Spell_o_000.png
+B Spell_b_012.png
+3
+
+O Spell_o_000.png
+B Spell_b_013.png
+3
+
+O Spell_o_000.png
+B Spell_b_014.png
+3
+
+O Spell_o_000.png
+B Spell_b_015.png
+3
+
+O Spell_o_000.png
+B Spell_b_016.png
+3
+
+O Spell_o_000.png
+B Spell_b_017.png
+3
+
+O Spell_o_000.png
+B Spell_b_018.png
+2
+
+O Spell_o_000.png
+B Spell_b_019.png
+2
+
+C081029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_020.png
+2
+
+O Spell_o_000.png
+B Spell_b_021.png
+2
+
+C00001A                               #Required before 1F or miss termination branch
+C00001F                               #Play a hit tone (requires 1A just before)
+~                               #miss terminator
+C000051                               #Show brief white flash animation
+O Spell_o_000.png
+B Spell_b_001.png
+5
+
+C061029                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_022.png
+2
+
+C040A29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_023.png
+2
+
+C020A29                               #Background brightness and opacity XX
+O Spell_o_000.png
+B Spell_b_024.png
+2
+
+O Spell_o_000.png
+B Spell_b_001.png
+5
+
+C00012A                               #Background display during battle  YY
+C000053                               #screen stretching YY
+/// - End of animation

@@ -1,0 +1,37 @@
+#######################################################
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C100829                               #Background brightness and opacity XX
+C02BF48                               #Sound 703 SE:Excalibur forming
+O  p- magic_65 Exaccus_o_000.png
+B  p- magic_65 Exaccus_b_001.png
+1
+O  p- magic_65 Exaccus_o_000.png
+B  p- magic_65 Exaccus_b_002.png
+1
+O  p- magic_65 Exaccus_o_000.png
+B  p- magic_65 Exaccus_b_003.png
+1
+O  p- magic_65 Exaccus_o_000.png
+B  p- magic_65 Exaccus_b_004.png
+1
+O  p- magic_65 Exaccus_o_000.png
+B  p- magic_65 Exaccus_b_005.png
+1
+O  p- magic_65 Exaccus_o_000.png
+B  p- magic_65 Exaccus_b_006.png
+1
+O  p- magic_65 Exaccus_o_000.png
+B  p- magic_65 Exaccus_b_007.png
+1
+C1F                               #Play a hit tone (requires 1A just before)
+C1A                               #Required before 1F or miss termination branch
+~                               #miss terminator
+/// - End of animation

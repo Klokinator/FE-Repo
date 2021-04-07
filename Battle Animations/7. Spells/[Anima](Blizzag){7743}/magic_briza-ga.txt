@@ -1,0 +1,100 @@
+//ブリザガ
+C000040                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+O dummy.png
+B img0.png
+3
+C013148                               #Sound 
+O dummy.png
+B img3.png
+4
+O dummy.png
+B img7.png
+3
+O dummy.png
+B img10.png
+2
+O dummy.png
+B img12.png
+3
+O dummy.png
+B img15.png
+3
+O dummy.png
+B img18.png
+3
+O dummy.png
+B img21.png
+3
+O dummy.png
+B img24.png
+3
+O dummy.png
+B img27.png
+3
+O dummy.png
+B img30.png
+3
+O dummy.png
+B img33.png
+3
+O dummy.png
+B img36.png
+4
+O dummy.png
+B img40.png
+2
+O dummy.png
+B img42.png
+3
+O dummy.png
+B img45.png
+3
+O dummy.png
+B img48.png
+3
+O dummy.png
+B img51.png
+3
+O dummy.png
+B img54.png
+4
+O dummy.png
+B img58.png
+3
+O dummy.png
+B img61.png
+2
+O dummy.png
+B img63.png
+3
+O dummy.png
+B img66.png
+4
+O dummy.png
+B img70.png
+3
+C00001A                               #1Fまたはミス終端分岐の前に必要
+~                                     #miss terminator
+C011A48                               #Sound 
+O dummy.png
+B img73.png
+8
+C012348                               #Sound 
+C00001F                               #ヒット音を鳴らす(直前に1Aが必要)
+O dummy.png
+B img73.png
+10
+O dummy.png
+B img91.png
+2
+O dummy.png
+B img92.png
+1
+O dummy.png
+B img93.png
+1
+O dummy.png
+B img70.png
+2
+
+/// - End of animation

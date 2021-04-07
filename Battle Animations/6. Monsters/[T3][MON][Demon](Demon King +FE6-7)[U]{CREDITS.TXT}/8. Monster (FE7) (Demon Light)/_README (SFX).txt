@@ -1,0 +1,2 @@
+The SFX version requires the 0x37B Sound Effect from Fire Emblem The sacred Stones, which must be exported and inserted into the ROM.
+By default, this SFX is called with S28. Replace S28 with the location where Sacred Stones' 0x37B audio is inserted if it is inserted to a slot other than 0x28.

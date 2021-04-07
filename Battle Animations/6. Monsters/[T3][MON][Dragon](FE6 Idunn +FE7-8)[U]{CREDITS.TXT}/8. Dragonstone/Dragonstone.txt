@@ -1,0 +1,207 @@
+#######################################################
+#75 magdd_mg 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+1 p- Dragonstone_000.png
+3 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_005.png
+20 p- Dragonstone_006.png
+2 p- Dragonstone_007.png
+2 p- Dragonstone_008.png
+C05                               #Call spell associated with equipped weapon
+1 p- Dragonstone_009.png
+C01                               #NOP
+1 p- Dragonstone_010.png
+1 p- Dragonstone_011.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_012.png
+1 p- Dragonstone_013.png
+1 p- Dragonstone_014.png
+1 p- Dragonstone_015.png
+1 p- Dragonstone_016.png
+1 p- Dragonstone_017.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+1 p- Dragonstone_000.png
+3 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_005.png
+2 p- Dragonstone_006.png
+2 p- Dragonstone_018.png
+80 p- Dragonstone_006.png
+2 p- Dragonstone_007.png
+2 p- Dragonstone_008.png
+C05                               #Call spell associated with equipped weapon
+1 p- Dragonstone_009.png
+C01                               #NOP
+1 p- Dragonstone_010.png
+1 p- Dragonstone_011.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_012.png
+1 p- Dragonstone_013.png
+1 p- Dragonstone_014.png
+1 p- Dragonstone_015.png
+1 p- Dragonstone_016.png
+1 p- Dragonstone_017.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+1 p- Dragonstone_000.png
+3 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_005.png
+2 p- Dragonstone_006.png
+C42                               #Play long axe swinging SFE
+1 p- Dragonstone_019.png
+1 p- Dragonstone_020.png
+1 p- Dragonstone_021.png
+1 p- Dragonstone_022.png
+1 p- Dragonstone_023.png
+1 p- Dragonstone_024.png
+1 p- Dragonstone_025.png
+1 p- Dragonstone_026.png
+1 p- Dragonstone_027.png
+1 p- Dragonstone_028.png
+1 p- Dragonstone_029.png
+1 p- Dragonstone_030.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Dragonstone only.
+1 p- Dragonstone_031.png
+1 p- Dragonstone_030.png
+1 p- Dragonstone_029.png
+C2A                               #EMPTY 
+7 p- Dragonstone_032.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C1A                               #Normal hit
+1 p- Dragonstone_032.png
+C01                               #NOP
+3 p- Dragonstone_033.png
+2 p- Dragonstone_034.png
+2 p- Dragonstone_035.png
+2 p- Dragonstone_036.png
+2 p- Dragonstone_037.png
+2 p- Dragonstone_038.png
+2 p- Dragonstone_039.png
+2 p- Dragonstone_040.png
+2 p- Dragonstone_005.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Dragonstone_002.png
+3 p- Dragonstone_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+1 p- Dragonstone_000.png
+3 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_005.png
+2 p- Dragonstone_006.png
+C3A                               #Play dancer Dragonstone release SFE
+C29                               #EMPTY 
+2 p- Dragonstone_041.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Dragonstone only.
+2 p- Dragonstone_042.png
+2 p- Dragonstone_043.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C1A                               #Normal hit
+1 p- Dragonstone_044.png
+C01                               #NOP
+3 p- Dragonstone_043.png
+2 p- Dragonstone_045.png
+C3B                               #Play bard song SFE
+2 p- Dragonstone_006.png
+2 p- Dragonstone_005.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_046.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Dragonstone_002.png
+2 p- Dragonstone_001.png
+2 p- Dragonstone_047.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Dragonstone
+C02                               #Start of dodge
+1 p- Dragonstone_000.png
+1 p- Dragonstone_001.png
+1 p- Dragonstone_002.png
+1 p- Dragonstone_003.png
+1 p- Dragonstone_004.png
+C01                               #NOP
+1 p- Dragonstone_003.png
+1 p- Dragonstone_002.png
+1 p- Dragonstone_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Dragonstone
+C02                               #Start of dodge
+1 p- Dragonstone_000.png
+1 p- Dragonstone_001.png
+1 p- Dragonstone_002.png
+1 p- Dragonstone_003.png
+1 p- Dragonstone_004.png
+C01                               #NOP
+1 p- Dragonstone_003.png
+1 p- Dragonstone_002.png
+1 p- Dragonstone_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+2 p- Dragonstone_048.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+2 p- Dragonstone_048.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+2 p- Dragonstone_048.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Dragonstone Missed Animation
+C03                               #Start Dragonstone animation; should be followed by 0x07
+C07                               #Start Dragonstone animation; should be preceeded by 0x03
+1 p- Dragonstone_000.png
+3 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+2 p- Dragonstone_003.png
+2 p- Dragonstone_004.png
+2 p- Dragonstone_005.png
+20 p- Dragonstone_006.png
+2 p- Dragonstone_007.png
+2 p- Dragonstone_008.png
+C05                               #Call spell associated with equipped weapon
+1 p- Dragonstone_009.png
+C01                               #NOP
+1 p- Dragonstone_010.png
+1 p- Dragonstone_011.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_012.png
+1 p- Dragonstone_013.png
+1 p- Dragonstone_014.png
+1 p- Dragonstone_015.png
+1 p- Dragonstone_016.png
+1 p- Dragonstone_017.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

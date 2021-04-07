@@ -1,0 +1,3 @@
+Important Note: It's behavior in the miss command randomly choosing one of the effects on when you insert them in the rom. 
+
+You have to undo, reinsert and test to until you got the command that ends the miss command normally. The things that may happen in the miss command in this spell are random sfx, sound, effect, softlock, freeze, screen flickering around, Roy's fire, no music ect.

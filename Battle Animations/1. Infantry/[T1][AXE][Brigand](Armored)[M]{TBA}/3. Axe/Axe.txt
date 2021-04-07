@@ -1,0 +1,193 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Axe_000.png
+6 p- Axe_001.png
+C42                                     #Refresh long axe swinging SFE
+6 p- Axe_002.png
+C32                                     #Show medium sized dirt wave moving backward animation
+2 p- Axe_003.png
+2 p- Axe_003.png
+2 p- Axe_004.png
+2 p- Axe_005.png
+2 p- Axe_006.png
+2 p- Axe_007.png
+2 p- Axe_007.png
+2 p- Axe_008.png
+2 p- Axe_009.png
+2 p- Axe_010.png
+C41                                     #EMPTY FE7:086EB188
+6 p- Axe_011.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                                     #Normal hit
+C21                                     #Refresh hit SFE (sounds like Knight Lord with sword's hit)
+C1A                                     #Normal hit
+24 p- Axe_012.png
+2 p- Axe_013.png
+C01                                     #NOP
+3 p- Axe_014.png
+6 p- Axe_015.png
+3 p- Axe_016.png
+3 p- Axe_017.png
+3 p- Axe_018.png
+6 p- Axe_019.png
+6 p- Axe_020.png
+3 p- Axe_021.png
+6 p- Axe_022.png
+3 p- Axe_023.png
+C34                                     #Refresh heavy stepping SFE
+3 p- Axe_000.png
+3 p- Axe_024.png
+8 p- Axe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Axe_000.png
+C33                                     #Refresh battle cry SFE (REALLY stupid)
+3 p- Axe_025.png
+12 p- Axe_026.png
+32 p- Axe_025.png
+13 p- Axe_025.png
+6 p- Axe_001.png
+C42                                     #Refresh long axe swinging SFE
+6 p- Axe_002.png
+2 p- Axe_003.png
+2 p- Axe_003.png
+2 p- Axe_004.png
+2 p- Axe_005.png
+2 p- Axe_006.png
+2 p- Axe_007.png
+2 p- Axe_007.png
+2 p- Axe_008.png
+2 p- Axe_009.png
+2 p- Axe_010.png
+C41                                     #EMPTY FE7:086EB188
+6 p- Axe_011.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C08                                     #Critical hit
+C1F                                     #Refresh hit SFE (sounds like Eliwood with sword's hit)
+C15                                     #Slight vibration of screen
+24 p- Axe_012.png
+2 p- Axe_013.png
+C01                                     #NOP
+3 p- Axe_014.png
+6 p- Axe_015.png
+3 p- Axe_016.png
+3 p- Axe_017.png
+3 p- Axe_018.png
+6 p- Axe_019.png
+6 p- Axe_020.png
+3 p- Axe_021.png
+6 p- Axe_022.png
+3 p- Axe_023.png
+C34                                     #Refresh heavy stepping SFE
+3 p- Axe_000.png
+3 p- Axe_024.png
+8 p- Axe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Axe_000.png
+C05                                     #Call spell associated with equipped weapon
+C01                                     #NOP
+8 p- Axe_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+C06                                     #Begin opponent's turn after hit.next code 0D.
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Axe_000.png
+C05                                     #Call spell associated with equipped weapon
+C08                                     #Critical hit
+C01                                     #NOP
+8 p- Axe_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+C06                                     #Begin opponent's turn after hit.next code 0D.
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+4 p- Axe_000.png
+4 p- Axe_027.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+15 p- Axe_028.png
+4 p- Axe_027.png
+4 p- Axe_000.png
+C01                                     #NOP
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+4 p- Axe_000.png
+4 p- Axe_027.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+15 p- Axe_028.png
+4 p- Axe_027.png
+4 p- Axe_000.png
+C01                                     #NOP
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+16 p- Axe_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+16 p- Axe_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+16 p- Axe_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Axe_000.png
+6 p- Axe_001.png
+C42                                     #Refresh long axe swinging SFE
+6 p- Axe_002.png
+2 p- Axe_003.png
+2 p- Axe_003.png
+2 p- Axe_004.png
+2 p- Axe_005.png
+2 p- Axe_006.png
+2 p- Axe_007.png
+2 p- Axe_007.png
+2 p- Axe_008.png
+2 p- Axe_009.png
+2 p- Axe_010.png
+C41                                     #EMPTY FE7:086EB188
+6 p- Axe_011.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+24 p- Axe_029.png
+2 p- Axe_030.png
+C01                                     #NOP
+3 p- Axe_014.png
+6 p- Axe_015.png
+3 p- Axe_016.png
+3 p- Axe_017.png
+3 p- Axe_018.png
+6 p- Axe_019.png
+6 p- Axe_020.png
+3 p- Axe_021.png
+6 p- Axe_022.png
+3 p- Axe_023.png
+C34                                     #Refresh heavy stepping SFE
+3 p- Axe_000.png
+3 p- Axe_024.png
+8 p- Axe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

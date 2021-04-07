@@ -1,0 +1,185 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+6 p- Bow_000.png
+C2D                                     #? (Assassin critical) (Lethality activator that is dependent on other commands?)
+6 p- Bow_001.png
+6 p- Bow_002.png
+6 p- Bow_003.png
+6 p- Bow_004.png
+6 p- Bow_005.png
+4 p- Bow_006.png
+C38                                     #Play heavy spear spinning SFE
+4 p- Bow_007.png
+4 p- Bow_008.png
+C19                                     #Play bow pulling SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+10 p- Bow_011.png
+3 p- Bow_012.png
+C05                                     #Call spell associated with equipped weapon
+10 p- Bow_013.png
+C01                                     #NOP
+6 p- Bow_002.png
+6 p- Bow_001.png
+6 p- Bow_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+6 p- Bow_000.png
+6 p- Bow_001.png
+6 p- Bow_002.png
+6 p- Bow_003.png
+6 p- Bow_004.png
+6 p- Bow_005.png
+3 p- Bow_006.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Bow_007.png
+3 p- Bow_014.png
+3 p- Bow_015.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Bow_007.png
+3 p- Bow_014.png
+3 p- Bow_015.png
+3 p- Bow_008.png
+C19                                     #Play bow pulling SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+C05                                     #Call spell associated with equipped weapon
+10 p- Bow_013.png
+6 p- Bow_002.png
+6 p- Bow_001.png
+6 p- Bow_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+6 p- Bow_000.png
+C2D                                     #? (Assassin critical) (Lethality activator that is dependent on other commands?)
+6 p- Bow_001.png
+6 p- Bow_002.png
+6 p- Bow_003.png
+6 p- Bow_004.png
+6 p- Bow_005.png
+4 p- Bow_006.png
+C38                                     #Play heavy spear spinning SFE
+4 p- Bow_007.png
+4 p- Bow_008.png
+C19                                     #Play bow pulling SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+10 p- Bow_011.png
+3 p- Bow_012.png
+C05                                     #Call spell associated with equipped weapon
+10 p- Bow_013.png
+C01                                     #NOP
+6 p- Bow_002.png
+6 p- Bow_001.png
+6 p- Bow_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+6 p- Bow_000.png
+6 p- Bow_001.png
+6 p- Bow_002.png
+6 p- Bow_003.png
+6 p- Bow_004.png
+6 p- Bow_005.png
+3 p- Bow_006.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Bow_007.png
+3 p- Bow_014.png
+3 p- Bow_015.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Bow_007.png
+3 p- Bow_014.png
+3 p- Bow_015.png
+3 p- Bow_008.png
+C19                                     #Play bow pulling SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+C05                                     #Call spell associated with equipped weapon
+10 p- Bow_013.png
+6 p- Bow_002.png
+6 p- Bow_001.png
+6 p- Bow_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+2 p- Bow_000.png
+2 p- Bow_016.png
+5 p- Bow_017.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+C01                                     #NOP
+3 p- Bow_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+2 p- Bow_000.png
+2 p- Bow_016.png
+5 p- Bow_017.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+C01                                     #NOP
+3 p- Bow_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+6 p- Bow_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #Standing motions
+6 p- Bow_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+6 p- Bow_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+6 p- Bow_000.png
+6 p- Bow_001.png
+6 p- Bow_002.png
+6 p- Bow_003.png
+6 p- Bow_004.png
+6 p- Bow_005.png
+3 p- Bow_006.png
+3 p- Bow_007.png
+3 p- Bow_008.png
+C19                                     #Play bow pulling SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+C25                                     #Play wing flap SFE
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+10 p- Bow_013.png
+C01                                     #NOP
+6 p- Bow_002.png
+6 p- Bow_001.png
+6 p- Bow_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

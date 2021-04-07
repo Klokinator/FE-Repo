@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="22" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="1800481A" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/1800481A.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="22" height="20">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJx1lD0vhEEQx3efp5CoOCql5lqNO7QUWi+dijvJKRQSX4DjQiX4BOKtkDvBJ5DnkLgE54hGJ6LQiOgo/Ce7k5ub7BW/zM7s7v+Zmd19Ro0xCRgDS6ADjIM1kAdH4D4yphQbc2IdnfAXwCbYRnwH7MbOL4Aa1hSxbx6sg0WQBgWlVQErGOfAKvi0TqMX4zNwDi5i529Ebv4OGlWQozwRO7VNrbzXIb0nzDXAgXX5kMYD/C2wDM4j51Oc5jvBITRLxtXAeRWFFvEooHzqsF1Y8wObil2cfZp/hv2lPKBbhH9kw1oSyqfba6UClub7YF/gv4Jj63j0NdWFFvv6DIlL2+oT+8jzA/wp3a/I1cS67FMu1ONhaI/E7W3o+3yX6m16MIj1GX9uNM4GfD5b6mePsDV/Nrr+im3uHQAzXlP7vL/ftFqOy/qHfI0yr3b18tk2/FmyZV1dv84rQXwadkpRFt/YE+OK6sN41OxrVtg3rJuIXZ3S8tskW7WtvuxDQdT+IL5R87qU46SwB+odNKLwu6A3w7VzH7i334H7G3oDoRjda90Dvsuh+xt6A6EY6ep7Ks8yo3rULj8dD90H+Uayqkc6P+7Zu7q/5J/6dyjPjL9VVv3Vedb8f7eg4uTnlRaNr8C1v0ezWDMXubHOk+5tErv/Pu258fvIT0Reafi34u00FP+kpwKS
+  </data>
+ </layer>
+ <layer name="Left Room Door" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="2"/>
+   <property name="Y" value="11"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDBewjpGB4SITA8NaxoF2ySgYBQMPALF6AjE=
+  </data>
+ </layer>
+ <layer name="Left Room Left Chest" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="2"/>
+   <property name="Y" value="9"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU4AJMA+2AUTAKRgHZAAAOYAAD
+  </data>
+ </layer>
+ <layer name="Left Room Right Chest" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="4"/>
+   <property name="Y" value="9"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUEAJMA+2AUTAKRgHJAAAOUAAD
+  </data>
+ </layer>
+ <layer name="Right Room Door" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="16"/>
+   <property name="Y" value="10"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDBVgyczAEMxMfXNPM1LfzFEwCgYaAAAbPQFf
+  </data>
+ </layer>
+ <layer name="Right Room Left Chest" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="5"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="18"/>
+   <property name="Y" value="11"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjAIIYBpoB4yCUUBFAAAMgAAD
+  </data>
+ </layer>
+ <layer name="Right Room Right Chest" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="6"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="20"/>
+   <property name="Y" value="11"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjAJUwDTQDhgFo4AKAAAMcAAD
+  </data>
+ </layer>
+ <layer name="Wall" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="7"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="17"/>
+   <property name="Y" value="13"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhB0yZGRjWMlLfXDOguZbM1Dd3FNAfAADB4AFc
+  </data>
+ </layer>
+ <layer name="Throne Room Door" width="22" height="20" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="16"/>
+   <property name="Y" value="5"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIxGsY2RgEGRmYFjLSF1zLYFmmjFD6FEwCkbBKBhIAAA43AIj
+  </data>
+ </layer>
+</map>

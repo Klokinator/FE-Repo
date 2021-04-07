@@ -1,0 +1,30 @@
+Table is at @D77BC
+Gaphics start at @599734
+Palette starts at @599F34
+
+Warning:
+- When importing the Original template with GBAGE
+always always have the image be 4x16 (Show only the icons).
+If it is bigger, even if ported perfectly, the new graphics will bork the ROM.
+
+Graphic:
+Helmet @599734
+Shield @599934
+Dragon @599B34
+Eye @ 599D34
+
+Palette:
+Blue @599F34
+Red @599F54
+Green @599F74
+Purple @599F94
+
+Original generic portrait Table Info
+0x0 - Monster Blue
+0x1 - Dragon Red
+0x2 - Helmet Green
+0x3 - Helmet Red
+0x4 - Monster Red
+0x5 - Monster Green
+0x6 - Shield Red
+0x7 - Monster Blue

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="28" height="10" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="A700A8A9" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="Tilesets/FE7/A700A8A9.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="28" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxtkrtOw0AQRddekAtqXiXpkr8IhEjhBxCUpKBMxaNHyOQHAFGDgA8wImUagkRBQeigBIEo6HhUcEc7Vx42FEdje9f3zquaOveeOHej1PBegAulGp3HLOH8EmyAHlgEt+bsCfEZvIHTNES5X3Ehin5HPfm8pzoDE6+SoC9sgiOwFX23iE9hYk89mccYmFCvF7COsy74wvODeCahfvHaBstg1XyPoQ/71Y/6w5zOEBvq8wGG4N7o7oMVcKh+46af/ajvhdbAenKlMDldI86BO42PGpkn5y2+B0YvjzSpy/nZXtseSH118BPFTHVb6d9aaumoHmdVmPuZqSvTnkgPpL5P7eGsd64JdnzYm3lX5i61dI2ehTmI50Dvy//cXe5grrsyBf027jYQW0od5Pi2q7OVfF6j/uWag93Jtg+7N+PLXbAMta5j3KkYvzUf9ujElfPlP5zzNziPamauC/94TvrgJZqi3TR+/E/y5VyZH9+n/WjNv2yiom8=
+  </data>
+ </layer>
+</map>

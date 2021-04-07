@@ -1,0 +1,10 @@
+PUSH
+ORG 0xA03368
+#incbin "statscreen_comp.bin" //Status Screen, same size as original
+ORG 0xA06460
+#incbin "statscreen_pal.bin"  //palette, also same size
+ORG 0xA05F10
+#incbin "statscreen_tsa.bin"  //tsa, in place
+ORG 0xA064E0
+#incbin "glowy_gone.bin"      //removes glowy thing
+POP

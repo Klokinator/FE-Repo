@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="17" height="16" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="50005152" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="../../../Tilesets/FE8/50005152.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="17" height="16">
+  <data encoding="base64" compression="zlib">
+   eJyNk98uA0EUxsdMim3LjQtui6raPgVLgvAOTVMViYeg3XDhKbTrQbj0KgRJI3HnO5lvssdq1cUvO3/O982ZM2d7xpgOGIFbkJBHm481A7WeYTyyXi/aDDhnzIOKGdqf8yIp6FErfvd/xBa5tl7fAguSGzj/h+4DOb6DJ+fHZayVwDxYpJ/4dNxk/RvWP8GYyFjOr4Ptglcbe3vut9eY8z5zr1C3w/MbIOZ8E7EXIAb7BZ+uyfOPeW6JedzwbZsgYi53oD7hXhJb5TicHam9Bu+zDu3GlLokoWagz1x3VWzGM7IZ73MFTRUsg1PePfhNexPNAWJOwAv6o4XvEv2arGFlhp/oD8Ela7XlvM+r9fc/Asfck7epOd/D8pZn7Ok2PWrKP9Q/Mbku7IU+CP03YIyudco18U051/oy3z9mD4jXM1iZM+bL+l4J/4jcqaPm3UIf6n6MoF9F/JrzPtIPQ+q+AYlwVVM=
+  </data>
+ </layer>
+</map>

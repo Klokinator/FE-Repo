@@ -1,0 +1,56 @@
+#define DISABLE_TUTORIALS
+#include EAstdlib.event
+
+EventPointerTable(TileChangeID,TileChanges) //This will write the tile changes to the Event Reference Array.
+
+TileChanges:
+TileMap(0x0,10,0,3,1,UpperSnag)
+TileMap(0x1,2,3,1,1,RuinsVisited)
+TileMap(0x2,21,3,3,3,VillageDestroyed)
+TileMap(0x3,22,5,1,1,VillageSaved)
+TileMap(0x4,8,8,3,1,UpperMiddleSnag)
+TileMap(0x5,10,10,1,3,LowerMiddleSnag)
+TileMap(0x6,7,15,3,3,VillageDestroyed)
+TileMap(0x7,8,17,1,1,VillageSaved)
+TileMap(0x8,17,18,3,1,LowerSnag)
+TileMapEnd
+
+UpperSnag:
+SHORT 0x000C
+SHORT 0x0090
+SHORT 0x0194
+
+RuinsVisited:
+SHORT 0x0FE4
+
+VillageDestroyed:
+SHORT 0x0E1C
+SHORT 0x0E20
+SHORT 0x0E24
+SHORT 0x0E9C
+SHORT 0x0EA0
+SHORT 0x0EA4
+SHORT 0x0F1C
+SHORT 0x0F20
+SHORT 0x0F24
+
+VillageSaved:
+SHORT 0x0E28
+
+UpperMiddleSnag:
+SHORT 0x0110
+SHORT 0x0094
+SHORT 0x0114
+
+LowerMiddleSnag:
+SHORT 0x0028
+SHORT 0x0010
+SHORT 0x0024
+
+LowerSnag:
+SHORT 0x0110
+SHORT 0x0094
+SHORT 0x0114
+
+MESSAGE Tile changes end at offset currentOffset
+//The map for this chapter is at offset: ????????

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="25" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="1800191A" tilewidth="16" tileheight="16">
+  <image source="C:\Users\Patrick\Fire Emblem Hacking\Mapping\Tiled\Maps and Tilesets\Tilesets\FE8\1800191A.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="15" height="25">
+  <data encoding="base64" compression="zlib">
+   eJx9lD1OQzEMx5M8YCgCwYMTMCCVga2vtDOIuYUNNoo4CjNwAqQiIZVvBiSYkPgYSmn7KJyASkjAHfhbcRQ3enT4ybEdO44dJY6UikFTK1WB3AP74CCyOtm7RqkU/PCeKhMHsZfgClwPiZ1TVp5BnxaxPfAOPjg32R/Bk/axa+ybBA+w5Y3NQ74LY32n0BewXsK6BPrQ77WVFbYRE5yHznjmc8bZVgBFMIo8R+L8jrG+0hASZgR7y5GPXQQbnDeLJJBFEUvrNvLtQja0pwVeja/X7WlxDyqc7wV6HbwZC82gZ2yPC2LPOvfY9Zly/vIZXRGXitgix8p3UeWcJb5Dl89Ng9jkn1jXB5olzfdQ23WD7+XOpfm3uA8543vVEfMnysF8aM8YmGdJNX5qa3dzknNIRN5w/u5+SRDj4pxN5nU2F3uis8kZ3yc53zb3gWK3+B6h/NaDb5v0mthDsfJNSKiu2ciuZzhXT/jrevAdSlxd9C/QrPMZ93N5s2TMfZ4e4k+HyCnIzSjb72rs89/j7KSfsy8n6nd10L5lsAKOzWBfSV9lX1PklXXUoG+DL36XZYb0Hfa5vzKs+0ZZbpV/98Sd8j7qcSOj/j9RUrKa
+  </data>
+ </layer>
+</map>

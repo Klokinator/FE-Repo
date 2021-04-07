@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="24" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="6C006D6E" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/6C006D6E.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="24" height="17">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxtlL1rVEEUxWffFEHwP9BGUqSz96OJsRItVBJ3AwZ033amMKD7Cht9uxEi/gGp/NjNQoKirRoTIvi2UMFaiYqQLQRxe5PoOcy5vHGx+DFzZ+fdj3PvbOGce+SduwKmsL+KtQ5S0IXdB9OJczfBG3Aa9gf8drzi3DmsE+AZeKJ1CH5FNn3WQQu0wR2c5aDlw9kiuAG/M2CAfQXnP8Es/M/L/3PwHnyU72FkN5OQZwO8gr0BHvjgl7kz3wx3LoEU++9YJ7GeAk/l/95/8h7qnLkdTkKc37C3wRzY9KGuTNpwX4A8ikv/B8AYWBqpg/ZBH/KmRi/gY8uHGKwhU8yadMmlFe8ckXbWB7I2oj/tY5WQS0sa0x97Oe5CzpeVO/uSRj26rXqsD+Qd9m9BAfo+2LVKuM8aOooxJ502fRkzlzbMpZ2EPWuxPnD9gfvr0vePD/akchpoBk8q3578rYCqzhmno/kZ19w11AfG+qy+0Te/6+L+ShLu2XzY/Vw9Sd2/PW4oJvN8CDqKGftm7MeayUGkS1Pz15fGXcVhvFpSvjXTYFtzsBPNHe2Ovi+idVr5t1TzfXBWv1n8GfX0k3x9Ub5tV87dVx/21It19FSvfb8lXRfAGcUwTZal5S7u7IF9X9afaeYIddhJynlgTXy3XnvWsAomwHndyZVD7MP0q0u/deVfVa6msdVK//vSbx5cANc0Xz1pYP8f5oN5H5K2L6WXzYK9c6u1qh7bXK5Ko7vgIjjqgsbf5OOW/CxGPd/QmzkhX5ne/pTmZFn/v5yj62BMOq3Jx2vlOKs3MtBdmx/rd1/vxt5S6sqcmtG3C4qxJB9x/X3VWYz03Oa+p3f3F9X16Is=
+  </data>
+ </layer>
+ <layer name="Village Destroyed" width="24" height="17" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="4"/>
+   <property name="Y" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFh5gZGA4D8RFmBpqAR0BzHwPxExqZPwpGwSgYBaNgcAAAmnAFBQ==
+  </data>
+ </layer>
+ <layer name="Village Saved" width="24" height="17" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="5"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/UBwAO0fBKBgFo2AU0BcAAMnMACI=
+  </data>
+ </layer>
+</map>

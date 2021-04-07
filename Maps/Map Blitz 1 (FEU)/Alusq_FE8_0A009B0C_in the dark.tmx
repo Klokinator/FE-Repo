@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="15" height="16" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="0A009B0C" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="Tilesets/FE8/1800571A.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="15" height="16">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJyFUrENwjAQdJwGpWEHOuhBZAIGCYsQiiwCERJSdkC0kYCQDViAggH4w37xfgwUJ9vnP//fyXVqTEXYJ29k1piBCVGrOtS0tM6JywVO9vO9iQ3roAOmtJ8JxN7L/d3IuPpfWs0xclEzplkaPyPmggYc5jyImblGcgvveUV8QdjSvkwdsAe3/uKj8tqe1usPxHwgf/AXuj9bt3YCzOnsGxtq74SH0jInfZXeg9RuElfPPcBxbsixVx6klnvhvPRa7lOkoS/U6L8GH0Pfo1N5aQ86+6PoKbPqFGL/6kbnnfDAfWQGnc9Ba18ZRHq1ap5C/L9/yEQGnMMT4K+KOQ==
+  </data>
+ </layer>
+ <layer name="0Chest" width="15" height="16">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="12"/>
+   <property name="Y" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgagGmgHTAKRsEgBAAJ8AAD
+  </data>
+ </layer>
+ <layer name="1Topleftdoor" width="15" height="16">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="7"/>
+   <property name="Y" value="4"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFMGDKPNAuGAWjgDQAAJsdADk=
+  </data>
+ </layer>
+ <layer name="2Toprightdoor" width="15" height="16">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="12"/>
+   <property name="Y" value="4"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF+IApM/l6zSjQOwpGATEAAB8NAHI=
+  </data>
+ </layer>
+ <layer name="3Bottomdoor" width="15" height="16">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="4"/>
+   <property name="Y" value="12"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2D4gsuM5Ou1ZCZf7xkK7CUFAAA3AgHe
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="8" height="5" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="10001112" tilewidth="16" tileheight="16">
+  <image source="10001112.png" trans="ffffff"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="8" height="5">
+  <properties>
+   <property name="Main" value =""/>
+  </properties>
+  <data>
+  <tile gid="850"/>
+  <tile gid="851"/>
+  <tile gid="851"/>
+  <tile gid="851"/>
+  <tile gid="98"/>
+  <tile gid="851"/>
+  <tile gid="851"/>
+  <tile gid="852"/>
+  <tile gid="786"/>
+  <tile gid="787"/>
+  <tile gid="787"/>
+  <tile gid="391"/>
+  <tile gid="130"/>
+  <tile gid="392"/>
+  <tile gid="787"/>
+  <tile gid="389"/>
+  <tile gid="818"/>
+  <tile gid="819"/>
+  <tile gid="820"/>
+  <tile gid="820"/>
+  <tile gid="820"/>
+  <tile gid="820"/>
+  <tile gid="820"/>
+  <tile gid="819"/>
+  <tile gid="818"/>
+  <tile gid="820"/>
+  <tile gid="819"/>
+  <tile gid="820"/>
+  <tile gid="820"/>
+  <tile gid="820"/>
+  <tile gid="819"/>
+  <tile gid="820"/>
+  <tile gid="818"/>
+  <tile gid="658"/>
+  <tile gid="623"/>
+  <tile gid="753"/>
+  <tile gid="819"/>
+  <tile gid="820"/>
+  <tile gid="721"/>
+  <tile gid="623"/>
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="16" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="01000203" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/01000203.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="20" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxdlM1LVFEYxt9z7yLMYkhaBNVGitISColK3Kkw49jGRV/QqrmgCUEOVqs2ozcoEfNPcKbCRcH4TxQIga772FWQNf0F6vPwPpc5uPhxvt7znOd9z7m3bmZHwCSYAgPB7AvaFrifmC2hLaVm42jHwEfMXQE/EXccbT8oa7wOHiJmXpqvwF9wNLjGAuLOgNtgGXMZ1j6gvwL+a/8c+oOJa29o3wbiLoBpUANz2ktPzxH3FJQw91lzhcdd0MH8sbSr3eR+8B7MKKdFcB4xDbR35e8X+m3zuUyahdfe1LWvJu7nnXne44rdVt22wWucm6q/ae6ROS0pvhXVgGdwLz1dRMwAGEzd8ydwElrV4HV8lrhmWzXJpJtbV7sm/+yXsVYBk2l33xC0dhV/D3rnzPNeAzvg7SEfPKOeer1m0M6CR2DL3FemevJO7iS+n346qjH9xT643kbbF3niPfRA61+Uz4LuhLVpKYY58Q3FPrjeUN55lMtv3U9T3kb1ZnLVp6l1vn3Gr+kbKClX3i9znAiuFZ9zLfH1ReV+Qvlw/AcMB9fjN5BrD3Uz1b6ms1mLEfAV89fpU3HFuyreFHXfyONOdE+NQ+fzLl6Ab4j7Dk7rrTHuEtYvg6Go7h354DlVtC/5ZnQevdww19kL7vGm5umpCp0pcCv1d7qpupeDa1XM/werYNRc44d06G9f47PywDwqoVvvlvyxnk+kxf8Bv99TqlmhUXik7gPdHeu4gvHj4H5z5cm6HQAkC5lS
+  </data>
+ </layer>
+ <layer name="Left Village Destroyed" width="20" height="16" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="2"/>
+   <property name="Y" value="5"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxF0MDMwdAJxFzN1zFsBNGclEK+iknkngOacBOJTVDJvFIyCgQAAZssGDQ==
+  </data>
+ </layer>
+ <layer name="Snag" width="20" height="16" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="9"/>
+   <property name="Y" value="6"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIx24ArEaELsNtENGwSigMwAAEpIAsg==
+  </data>
+ </layer>
+ <layer name="Right Village Destroyed" width="20" height="16" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="16"/>
+   <property name="Y" value="6"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA36GBmYOgE4i5m6pi3AmjOSiBeRSXzTgDNOQnEp6hk3igYWQAAMD4GDQ==
+  </data>
+ </layer>
+ <layer name="Left Village Saved" width="20" height="16" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="3"/>
+   <property name="Y" value="7"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4A8oDjQDhgFo4BCAABgRAAi
+  </data>
+ </layer>
+ <layer name="Right Village Saved" width="20" height="16" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="17"/>
+   <property name="Y" value="8"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoA8WBdsAoGLIAAE68ACI=
+  </data>
+ </layer>
+</map>

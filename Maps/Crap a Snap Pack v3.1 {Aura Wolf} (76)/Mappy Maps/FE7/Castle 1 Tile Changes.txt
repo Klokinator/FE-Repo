@@ -1,0 +1,77 @@
+#define DISABLE_TUTORIALS
+#include EAstdlib.event
+
+EventPointerTable(TileChangeID,TileChanges) //This will write the tile changes to the Event Reference Array.
+
+TileChanges:
+TileMap(0x0,18,0,2,1,RightStairWall)
+TileMap(0x1,23,2,2,2,UpperRightDoor)
+TileMap(0x2,0,5,1,2,LeftWall)
+TileMap(0x3,20,5,2,2,ChestRoomWall)
+TileMap(0x4,2,6,2,3,LeftVerticalDoor)
+TileMap(0x5,20,7,1,1,OpenChest)
+TileMap(0x6,22,7,1,1,OpenChest)
+TileMap(0x7,24,7,1,1,OpenChest)
+TileMap(0x8,7,8,2,2,LeftHorizontalDoor)
+TileMap(0x9,21,9,3,2,ChestRoomDoor)
+TileMap(0xA,19,17,2,2,PillarRightDoor)
+TileMap(0xB,24,20,1,2,LowerRightDoor)
+TileMapEnd
+
+RightStairWall:
+SHORT 0x0CD4
+SHORT 0x0CD8
+
+UpperRightDoor:
+SHORT 0x06B4
+SHORT 0x0CD0
+SHORT 0x0CE4
+SHORT 0x0CD8
+
+LeftWall:
+SHORT 0x0CD8
+SHORT 0x0CD4
+
+ChestRoomWall:
+SHORT 0x0CD0
+SHORT 0x06B0
+SHORT 0x0B44
+SHORT 0x0C48
+
+LeftVerticalDoor:
+SHORT 0x07A8
+SHORT 0x0CDC
+SHORT 0x0CE0
+SHORT 0x0CD4
+SHORT 0x0728
+SHORT 0x0CD0
+
+OpenChest:
+SHORT 0x0004
+
+LeftHorizontalDoor:
+SHORT 0x0CD0
+SHORT 0x06B0
+SHORT 0x0CD4
+SHORT 0x0CE0
+
+ChestRoomDoor:
+SHORT 0x06B4
+SHORT 0x0CD0
+SHORT 0x06B0
+SHORT 0x0CE0
+SHORT 0x0CD4
+SHORT 0x0CE0
+
+PillarRightDoor:
+SHORT 0x0CD0
+SHORT 0x06B0
+SHORT 0x0D68
+SHORT 0x0CE4
+
+LowerRightDoor:
+SHORT 0x0CD0
+SHORT 0x0CD8
+
+MESSAGE Tile changes end at offset currentOffset
+//The map for this chapter is at offset: ????????

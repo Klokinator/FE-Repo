@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="19" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="42004344" tilewidth="16" tileheight="16">
+  <image source="../../Tilesets/FE8/42004344.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="19" height="20">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxVVL1uE0EY3L1r6M070EAuwUADXSJhCRThKwIPACJICB2K+OuhgMK2LB4BExyJ2E4BtBTBSZpTLEh4gShYVAgUKJnRN6tbF6Pd2/t+Zubbu1bqXAnUgK+Jc/NYN4ER0Aam3rkvwAT7ljAHDASeN4Gu6gx1FvLHyD0G9rzFtXTeAHKg7+25pdgCawbsKicXn0x9CvEcaT+vXs2oF5/XveW1FVeqR7zn+z+J9ZhITyPS3xcf1u0q93diXNj3s3OuIz/47rTOg85cvMlhW7zmVG+QVtpG2g+VnytnU5w62pP3svYhplCvrp9Fqbhu5Hup/s2oT6E69PtIsfUIK1Ht/cQ0F2nl7bpyyPFd5BO9Y69vyHmp9WJquAQc4PlXUnHtyeuG8vd8NeNd3QPWOExs3QGPN8C+s2dyC7nbulPB4yx4FHl9T/UuIHaKGqew1rydBV7BO9ab6j625V/PV/M5Rv4P4AXwE6jj3XlgVT3o4Zb0hG8k5rIg3qx7B/mLwFvgGnBdOtmDPj5WLc4hk+993ae25ttR/Svo/QToIfYh8MrZnvXPeZtF4DYRl7E0B47hv8C8Z1hvkwfvPbAknuQ8dhW3gbSUml1HWlmT39tzxN7Cehl4nRpWsL+K82VpDbzy6JsK/5SmwO/tA/AR+EQfxIs870ov+a2ls9wyec65DtPq/3UAHALfU9O4ATySh2elc8nNzjP8AwaqOZHuE+Av8A94j5j78j3opt5FeUa9W+Jy4m02dc2BXM/g/Q15Qw70qeFsFk9R56ZqkVdNd+MB9XjzmrNZkP//AaMuz6o=
+  </data>
+ </layer>
+ <layer name="Village Destroyed" width="19" height="20" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="0"/>
+   <property name="Y" value="16"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhCTYzMzBsAeKtzJSbdRloxhUgvkoFsz4DzfgCxF+pYBY1AQBqNweQ
+  </data>
+ </layer>
+ <layer name="Village Visited" width="19" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="1"/>
+   <property name="Y" value="18"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQG0wlXmgXYAJAF3NAJk=
+  </data>
+ </layer>
+</map>

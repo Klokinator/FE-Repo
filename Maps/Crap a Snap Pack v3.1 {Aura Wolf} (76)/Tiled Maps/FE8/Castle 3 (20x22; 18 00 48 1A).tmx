@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="22" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="1800481A" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/1800481A.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="20" height="22">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJyNVMtKHFEQvT29SHRn9AuycSUIkrS6M0YQBH9gVuoEJAnkI9RBsvIXgpMHEQfxD3R8wQhmHEPAXRZDXEk02WWTU9xT9rHTiywOdadO3TN1z71dWRrCTRLCE8QvlRDaXD8FsjT+7iB/LlxGXmvL1qNAD+td4B2wBTRFb5s553qib9yt7HHtZeyrIR4gt5RGuJ7/ds5qfd8EMElMyPlWUXvB/V3CfOjIb+dWUFulT95nJloWH7Je8RP4XZL/mMR95lOV+8+Qr6fx3OqX91TU0Lz7aehnj3YXtTT3xv3SnlRD87rHtdv0q1u578//nFf3uK6+L0cjyX3oCe9vqb/EizttqVcvm/RhWfb6Wyr6pn7/Krx/q5/C+hnQwnod8RD5oySuW8Lr+dwTfV/GWf0C1ovAgxDCZ+AH8MfuE/FNyPl96pk/ZX4bNxyijsVPwGugDcyB20R8H3Jdg3s0K77Y2n02rZdAE2gBH4A+cNeIB8AK83VgNcQexvlduZ59N5Np3t9bYBpoAMfAV9QMgTvF+jvwHFgi77NEvyv/boyz/jbY1xpwCf5bJWpes6c6e10TPb3zZiFn557l2UbweyyJeifUecEz10TP7nRc5kwms8ZqNni2GfZ6yR7PeScNeqKzU2eNz5hGkvtoPdqddujhFX2bDv/OEZ8HozJj9oTzNzPPfl4l+Vk32ddQGt/vYMm8v2C+W7nv4454VZe+fK49DjGeyOw3vYE0cgOF/9zh+zijl9rXI4lX1PsLscgBMA==
+  </data>
+ </layer>
+ <layer name="Left Wall" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="1"/>
+   <property name="Y" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgMGNmYDAH4lEwCkbBKBgFo2C4AAAa8wB0
+  </data>
+ </layer>
+ <layer name="Upper Left Door" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="6"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYKAPMGVmYFjLSCfLRsEoGAWjYBSMeAAA1D8A5w==
+  </data>
+ </layer>
+ <layer name="Upper Right Door" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="12"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBhYsI6RgcGUmYFhLeMAO2QUjIJRMApGwbACABcBAZY=
+  </data>
+ </layer>
+ <layer name="Right Wall" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="18"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBic4DUjA4MpM/XMswSaZUZF80bBKBgFo2AUDG4AAOoRAZo=
+  </data>
+ </layer>
+ <layer name="Lower Left Door" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="3"/>
+   <property name="Y" value="19"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMNKAKTMDw1pG6pknBDTvMhP1zKMGAABU+gHR
+  </data>
+ </layer>
+ <layer name="Lower Right Door" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="5"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="18"/>
+   <property name="Y" value="19"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAqIB68ZGRhMmalnnhXQLHMqmnca6j4A9NICoA==
+  </data>
+ </layer>
+ <layer name="Right Chest" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="6"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="16"/>
+   <property name="Y" value="20"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAroD5hobD4AB6AAAw==
+  </data>
+ </layer>
+ <layer name="Left Chest" width="20" height="22" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="7"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="3"/>
+   <property name="Y" value="21"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAoGF2CighkAB2gAAw==
+  </data>
+ </layer>
+</map>

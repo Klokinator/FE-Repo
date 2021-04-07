@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="9" height="5" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="FE7 - Fields - 1c1d1e1f" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="../MAPs/FE8/01000203.png" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="9" height="5">
+  <properties>
+   <property name="Anims1" value="5"/>
+   <property name="ChapterID" value="0"/>
+   <property name="Main" value=""/>
+   <property name="MapID" value="4"/>
+   <property name="ObjectType1" value="1"/>
+   <property name="PaletteID" value="0x38"/>
+   <property name="TileConfig" value="3"/>
+  </properties>
+  <data>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="558"/>
+   <tile gid="530"/>
+   <tile/>
+   <tile/>
+   <tile gid="743"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="656"/>
+   <tile gid="617"/>
+   <tile gid="529"/>
+   <tile/>
+   <tile gid="592"/>
+   <tile gid="546"/>
+   <tile gid="562"/>
+   <tile gid="744"/>
+   <tile gid="681"/>
+   <tile gid="582"/>
+   <tile gid="546"/>
+   <tile gid="466"/>
+   <tile gid="528"/>
+   <tile gid="584"/>
+   <tile gid="747"/>
+   <tile gid="616"/>
+   <tile gid="452"/>
+   <tile gid="715"/>
+   <tile gid="593"/>
+   <tile gid="749"/>
+   <tile gid="561"/>
+   <tile gid="782"/>
+   <tile gid="593"/>
+   <tile/>
+   <tile gid="560"/>
+   <tile gid="559"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="01004C03" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="../../../Tilesets/FE8/01004C03.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="20" height="20">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxNlDloVFEUhu+817ggk3FDFCzUQlOIS6Go3UQMWEkYo1FSOAkI2mgwDChazIKKWNhZucyCCWTAWLgWdiaaoCO4i2CloCZaaO13uP/j3eLnnHvePf/9zzKTjZ375pybAhORc1fB74xzY6Abfwm4hX8CO4vdhm2DHu4PgzzocL7CtyxcLzjvxf+OHQJz+LeVv1F8Cfc6kANF7j0i9zF4AmY5d3Oniv0FFuE3nX/3lbS1wdeA+7h4X4Mydz/C8wl8BguJzRHb6bzG+UDbMfKmpSf0E94DoO68xg645nxtVvta0JBfA4vhnlGNVltv4BvX1ijtsdVjPTQtFekaND/22rri9G4f+KkaE11/Mr4fFfWlLB2J1l3gjfM9NG1bYn8n4WwHvPMZr21YsxxSXcazwfm88+CtS+dekd9QL2vSkfAXtRtV1VYidhTsBjvAP+IrM+nehPNvBjqaet/60qP6Cny7AUZBS/yrsX/BXeWE8x+SRtOd47w09votZrrOgf7Iv1lW3Hi/gE3oWwCW2W6p3po0HFFNBzVP03E46F9NPbT4HuwKOH5gt2MnnecrieeCdNwET8W7RjVWVXeXemPaV4FDwXyNZz32bFCP5ZzReVD11VTfKbgm1YuW+l2XtT4PRL6GrN7MBnvaCr5XxXUv9vkNzSovvQXVYXostg/0gRGwOdA+qv1raVeTueY1z5ze6I/S3bTc02Bc73a0D9cjv7dhrCKtRZee7ftFOC+By9qvCXDSpX0qqXd17XNR+2i4T84D8DBOe3cHfwyMa8fKeq+g3U9mUw00JXW+w74HH+K0t1P40+B5nP5WSlHah7ru2dsVzcrOL/XNcvJ6w9575vzu9RLfn/GxAfUo+W3UXVqv8XaUY/99Lb4vJ29Gc/kPXBjGuA==
+  </data>
+ </layer>
+ <layer name="Right Ruin Destroyed" width="20" height="20" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="14"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgcYC8zA8M+IN7PTB3z7gLNuQfE96lk3igYBaNgFIwCVAAAJHsE5w==
+  </data>
+ </layer>
+ <layer name="Right Ruin Visited" width="20" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="15"/>
+   <property name="Y" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBi+4BfzQLtgFIyCUTAKhi8AAFpcAP4=
+  </data>
+ </layer>
+ <layer name="Top Snag" width="20" height="20" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="16"/>
+   <property name="Y" value="6"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA34KCyeRpUNo+HyuaNglEwCogHAOnAAD0=
+  </data>
+ </layer>
+ <layer name="Left Ruin Destroyed" width="20" height="20" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="2"/>
+   <property name="Y" value="8"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DgwV5mBoZ9QLyfmTrm3QWacw+I71PJvFEwCkYBJgAAV+UE5w==
+  </data>
+ </layer>
+ <layer name="Left Ruin Visited" width="20" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="3"/>
+   <property name="Y" value="9"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2B4gl/MA+2CUTAKhjcAAGA+AP4=
+  </data>
+ </layer>
+ <layer name="Bottom Snag" width="20" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="5"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="10"/>
+   <property name="Y" value="15"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILhAVyBWA2I3QbaISMEAAAB9wCy
+  </data>
+ </layer>
+</map>

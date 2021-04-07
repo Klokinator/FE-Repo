@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="7" height="10" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="01000203" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="01000203" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="7" height="10">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data>
+   <tile/>
+   <tile gid="749"/>
+   <tile gid="616"/>
+   <tile gid="426"/>
+   <tile gid="430"/>
+   <tile gid="466"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="560"/>
+   <tile gid="492"/>
+   <tile gid="461"/>
+   <tile gid="465"/>
+   <tile gid="594"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="496"/>
+   <tile gid="545"/>
+   <tile gid="466"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="496"/>
+   <tile gid="617"/>
+   <tile gid="529"/>
+   <tile/>
+   <tile/>
+   <tile gid="744"/>
+   <tile gid="592"/>
+   <tile gid="617"/>
+   <tile gid="430"/>
+   <tile gid="466"/>
+   <tile/>
+   <tile gid="592"/>
+   <tile gid="460"/>
+   <tile gid="615"/>
+   <tile gid="618"/>
+   <tile gid="465"/>
+   <tile gid="561"/>
+   <tile/>
+   <tile gid="496"/>
+   <tile gid="492"/>
+   <tile gid="583"/>
+   <tile gid="546"/>
+   <tile gid="466"/>
+   <tile/>
+   <tile/>
+   <tile gid="560"/>
+   <tile gid="588"/>
+   <tile gid="618"/>
+   <tile gid="619"/>
+   <tile gid="561"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="496"/>
+   <tile gid="546"/>
+   <tile gid="593"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="560"/>
+   <tile gid="559"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+  </data>
+ </layer>
+</map>

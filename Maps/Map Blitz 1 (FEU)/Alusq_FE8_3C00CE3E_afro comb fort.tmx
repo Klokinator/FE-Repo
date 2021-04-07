@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="25" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="3C00CE3E" tilewidth="16" tileheight="16">
+  <image source="Tilesets/FE8/3C00CE3E.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="16" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztlLtKA1EQhmfPQbx0ooW9laaxyYK+gaJg4xsISZHCdzCCVnkHs6uJorbpvYDaaGUdVkO0sRSt/Iczh52cTQQrGxc+5vb/Mwu5pESUgteIaNUQ1cAaaEeD6Nkb6jo5diWyn/tfYEG0mkXjZl53CU8CeshvwQm4AwmYg7ZkXNR5Itq2aHuq9v6yJVoGK0FkYuvuez2/xyT2nkY5L7LjwbgYq5xnF0o7hf494ixmM8IR6i3EJetirPJWlOsY9jLTNo98gz38XofIm3InlpnWan+GeCV1WWbX4CbosSYb4uf4LDOvRaBtyv2ZaEbd70aDWivfDb2z+8N9S8X7dSruHHXfKm1fav6O9YOd4f0k+v1971k37nN5DGbhfX1De97BGOonNZtAsmHy+2FPez5AA/kn4jxmHfn9dKROhvS0h/OS5JtUrPeD3kFQN1FXwA5ogXP1n3AGjkEVNMjtGxdtVd7Na1OV75Hbq3sVtV/7/p+/fb4BV+Gg3Q==
+  </data>
+ </layer>
+</map>

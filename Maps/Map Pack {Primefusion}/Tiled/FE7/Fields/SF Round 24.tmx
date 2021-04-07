@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="36" height="24" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="1C1D481F" tilewidth="16" tileheight="16">
+  <image source="C:\Users\Patrick\Fire Emblem Hacking\Mapping\Tiled\Maps and Tilesets\Tilesets\FE7\1C1D481F.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="36" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxlV01vVVUUPfdeExTaVPEbmdREC7XAawcOMA6sMRZei22Zkxgp9AsS6NTooDWC2mLLP5CqoPZhi3MnJtRYHrwqVIeaqIhAabVgTExci7127nmPwcr5PmfdvfdZZ9+VNIRvkhDqUG4AikAn0A68qnoX8DnmlIBe1CdDCFOorwcqaM8AJaAAbAWe1to/gR5gS4Z+oBloBdqAJ7DHZeBJ7PEf8APQl9ke5PIR2kMol1EeFA/u2xGN3ajhQ7wPvIz2g5nxKohHqzhyrANju4DdQA/Qjr4lrHsqMU53gPlgfHyP6/qWitr1wLeYvwXlgHjyjO+wroh6E3AV9SHxcbwU7DzuM66+fpwzAAxm1j4PfIV1P0Y2Ogc8IntzTgPmTgfjNyFOtNE05pRTs8s8cBztExGHN4Df07x9VfUuYB1wDJgAtmLN/cA6YC6y7wuRjaa0b594P4Ryo+qx3VrT/LuuAS1Ydzq1s1dkx42qn0G9TfMHxInYA2zH2DJtF8y2dyKf3QY2Rd/pnGLQ3p2q707MTy1a040zFxKLL9rxF8UduZXFb0icPgP2Ax9EseZnvAU8iv4rwTAR7uVEW+8FmoAejQ1jzSjKs7JDneKqOar7feQ9KCv2766VbZsT88Fian74C+3NiiHnFPvYeR0XlyZ9G/vGQu6Pg+IwqHNpo2eBRt3HL9C3EsXmhhrb8o4VMos7ctoU8fFzyasDOKT2iMrDIffPu6nd+58T0wDG+QH5qj0zG/XLVouMX/StB/oiLuRIHt3StNXEOLnfRqKY+1BnF1TOqFxJ8/P7a7SqLjO98fqCtLSsuKafFoEHMHZSvl6QjZ33TvlsLTr3aHQPxoQ/MP8acAtrxuSDWKtmXJtx1lngS+BmYtpFm/GswUjDL2mMPJoUZ4vy15rieVTx6z57L4qjir7H9+C9fwdnvgKMp6b7nFNGeRG4VKPR5Mw7NSZ/+ztAOxeju8i4f1P+apOO7ED7U/HaLj7+rbTvLHAkNZ2tS+zO9gINnIdyGbgVaRc11TWCfXOR5t8QD9poKjVN3SefMR6uSy+4boe4MBZn0bdX/pmM3grG5jbqInAaOEVtw/hPwFpqb1FFWs65DZHdXKtKird64HnM/1p8RnVfGYOryb2a6JpNmx/C+GGgMcvv8jbpyxD6Pg6mv3ff22Aa/DrmH02N03haHX8l3Xd/6xlDaZrbjnpCXxapoTWaRD6vYd7fKH8F7sP+p1LLE3zOEXEf17vQrbirzTn8Wy4C3+t+eTy7nlJn67NcD+N3x/mMSZ+Oqd4gu/n4J9jjQjAdZnwVtCfPj3MOfwtngX/1hjmf2H60Z1fEpbfGd65lpaiP94ffOI3+36gzqN/kWTh3RPHOeXHOwffU3/e3k+r3y3Mmt6HzYZz6uR5D3XoLVhWjHGMewfjlm/Cwcon5kOcwJ4K9hXsUY+cVW84ntg0xkuVr/Zudh3P0vKJF8eDay7HnUN8FHEgsn+AacvS8cUb71Sv3cR7/BMsv/C19THY6l1XnZDEvfyvORHlFkpp+UFfnI068154bs91UYzdyeFE8doqHYylYrvh4dK7zqKR53TXV84r6NI//UqRZvm4ys+/zvs7E4olcLqfGxTncDnmuepI8eXeTnMszWXV+yD6+W/RRo2zSUaOxtJG/cVzTk1XnWxeiOPHc1GOF/tmcmG14z6jRfZGvhrNqG/m7Ncw3WucXZS//HyrX2MhR0D5uG/dRzGVJXOcS0wdyIaf/AU2uidA=
+  </data>
+ </layer>
+</map>

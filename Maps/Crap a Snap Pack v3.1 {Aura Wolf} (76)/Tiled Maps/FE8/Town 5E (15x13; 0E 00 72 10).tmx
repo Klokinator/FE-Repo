@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="13" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="0E007210" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="../../../Tilesets/FE8/0E007210.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="15" height="13">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxtkktKA0EQhmtmkOADjFcQsohovIO6yqCH8IG7XMLHxoVzhUQHwQziFRIdhWQ25g4mMK70BH5F15AmZPFRj67u6uq/ByKyE4p8ByIT/MLi10hkjC1gxlqXuAcPsEV8RP6O2hXsM7k+ZJGLJ5Hbs4pfgwHxEN4i12cEfTFf+0ABua3F7IlZT2EX/09rxa3reUP8euB61ezuavVeh9hL1jehSXxguR/iF2/WPfp1DJ31idwt6/vQEbdHZ9zW2bE9SKz+xN4m82bV3k0933roWV0Y6H2tNvPes4EtAzeT3ueD2i+Zz6Ja5OJqUrPVvGoTcm3sOf0voMQ/xZ7ZO+p9QhjbuVWf9dDlb8hdUzuFNfiEK9OntL+QL9H93jQf2XlT4l/TKbY307eeyXLdfa20ttJD53nET0P3NxrhfE++oFcLNux/VJq/Q2796159sqDXseVanub6R9rwD1nnZ3g=
+  </data>
+ </layer>
+ <layer name="Top Red Destroyed" width="15" height="13" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="10"/>
+   <property name="Y" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOPGViYHgGxM+ZiNSABFiZGRjYgJidmXS9o4A+oGk0bhgAosIDWQ==
+  </data>
+ </layer>
+ <layer name="Top Red Visited" width="15" height="13" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="11"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYKAPUKSTPaNgFJALAFowACI=
+  </data>
+ </layer>
+ <layer name="Left Yellow Destroyed" width="15" height="13" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="7"/>
+   <property name="Y" value="7"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQxkoMjMwKAHxIybS9ToC9TkBMRMz9d01FAEAF2UBvA==
+  </data>
+ </layer>
+ <layer name="Left Yellow Visited" width="15" height="13" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="8"/>
+   <property name="Y" value="8"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIxm0Mg+0CwYPAACRaQCJ
+  </data>
+ </layer>
+ <layer name="Bottom Red Destroyed" width="15" height="13" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="1"/>
+   <property name="Y" value="9"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA3eMrEwPAMiJ8zka6XlZmBgQ2I2Zmp7y5aAACL7wLU
+  </data>
+ </layer>
+ <layer name="Bottom Red Visited" width="15" height="13" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="5"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="2"/>
+   <property name="Y" value="10"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B2QHGgHUACAAAZOAAi
+  </data>
+ </layer>
+</map>

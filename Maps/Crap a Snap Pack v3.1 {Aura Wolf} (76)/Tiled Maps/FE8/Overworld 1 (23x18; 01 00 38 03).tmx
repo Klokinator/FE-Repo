@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="23" height="18" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="01003803" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/01003803.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="23" height="18">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJx1U01PU1EUvO9dDX6gBmtN1LjQxK8m+LHFuHoYqyaIsnaFjSJGIWzcI64Miv/A2hpd2AR/g4karQSSgmsXuoHWDeDSGc/c9NLAYnLux5w5c859L3PODaXO7QFOAseBAtANlBPnRhFriDOIA965G8Ag0I+888oj9x0480Ad61vAe2AYnEHEj4nxyKkDRay/IK4As8A49g+h+QgY85ZXw9mfpO2hJ7Uz1t3u2/e/Ig7rd3urxT7oOQN/GmfPgRdACfs78r4MtJBzM7Wz1FtsSrMoz+RcUH3OKqfengB14CXuF5x5m3LW+3Ta7oNnXjPb7a0ufebSjdywpud9uN8J3QLwVJ7Jof+qIvXK8v7/PNKrSTPT3WtgUutP8txkDurMS6NfPWWK3POO9X6mpkH+nO7n1C/12D99jkD3LNAD3oS3muRyv98bpyQvFZ2z3jH6QPxAb4o7oHM9sfr0EfpgzVnpVaVF/5XUZlDWd3JFM2NuReuW+L3QXRanqLPQd0lzrSqP9U6j1hmgAPRi3yUvmeYwqT3f7Y10u4QhYAB4xe/SG49+t6n3IuJV4Jrmcze8EXAJPg8AezWHYd1PAKeAt8AD6YX3PQGdKWndQxwB7nvrhf6o2QnWCnXo6Zz0Hrt2HuvP6F1ySdvfgric+brO/kbrGJ+l2Qcc1Wy/ck6beOK3z/vL8t4ADuNsEXFpizpHEuPd1kxWtuA11dcz/V8Hpbsa8S5Ki3vmh/ulaAbk/Yi8rWuO3xB/6w3z2K8pP/BWO2ry/tAmM+isy7NdiX1DLWk0Io2gmY9qNKLcoBk8kNdZ97veclH5eWmuRXqhn3yyca6cWeCEnL6IQ+/8H/8BiFnEmg==
+  </data>
+ </layer>
+ <layer name="Village Destroyed" width="23" height="18" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="18"/>
+   <property name="Y" value="8"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUEAIdzAwMnUDcxUx9s1cAzVwJxKtoYPYJoJkngfgUDcweBaOAXAAAhYQGDQ==
+  </data>
+ </layer>
+ <layer name="Village Saved" width="23" height="18" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="19"/>
+   <property name="Y" value="10"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDGegONAOGAWjAA0AAFuMACI=
+  </data>
+ </layer>
+</map>

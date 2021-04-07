@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Bethroen" tilewidth="16" tileheight="16">
+  <image source="C:\Users\Patrick\Fire Emblem Hacking\Mapping\Tiled\Maps and Tilesets\Tilesets\FE8\6C006D6E.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxdlDlLQ0EUhedNijSKItiq2LiAIPZGUCHihokbWAhCwLWKGCPWoiniP7BRcENFS1ELG8XGQrHSxiYuGOJaaeG5zBne8IqPuczcOZwzM+8VQkq9gyg4BGeeUr+ggPoPYwbjHdhQSh1opRqBBvWgCFSDGEiDYW201rTZL/UDNE6pVwFawA9oV4Z9aopOB/hGbxzjAsgpX0cokAj1q+hNdDaoJ3v6sD4JbqH15Xh7RG+lk/PeM1pSn4ABertUvr/zkPEnOlkwCEa16UmACNYVKGe2QydbFnSzXuL4gr2v3C9aKTAH5kGz9vtcekA/qAExsOmsufUIdcWzaC5qUye4bnNlqDUFZgJr4nkZ9CqjMQQuUJc4OZ60yXGkjTfR2na0Ppy1MNh1PMq9NnC+n3e1h7Nv0kZXeg54j3aPnH9SG9/xwNmEOCapWcS7rwVv1M3LW6C2PQvxMEvf9t3I+Y+wb4t669C4xty4895F8xm0cW8UrIBVx1ea55/SzlsHddSIaqM9jbET7KAu037fFrOuBnJ2gVLOi+di5p3gtyO5Ze4KdR58eqYvmPeYbyXDnGFmyGk/byt9il43fd945j9gM104b8+9B8u1Z7y5Gh3a9209is4Yvz37vdr3M8tRzuMf33yKSw==
+  </data>
+ </layer>
+</map>

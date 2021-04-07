@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="17" height="26" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="1800191A" tilewidth="16" tileheight="16">
+  <image source="../../Tilesets/FE8/1800191A.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="17" height="26">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJx1VM1qlEEQnPmWgHhzAz5AnsCL37q+gMHkInjzuMFsDhEEXyBRJB71GSIJGFfiJYmedE1y8OD+qAvmau5CxHOqmSqmHXYPRX/dX3dNTffM1I0QWkANDKoQbjq/5WK1i98AHhR5svo3Lf8buBaB9zGEN4T5+zHl7RXr7zH3KuNWfw5/DXYF/ibQAbqMW91uoXeXuV9jipu12AugD/837GfYrSrFa/IdI+8UOInJ7xccFnuI73ngXpXsHdbaus+QcxhCuIvvJeA24gchc4xjyr9AfAQ8BoZAkzym40qV62UPHccF7LVGqn8J3Adeka/J/RuH1U1Csguwj4q9aN192CfWc/qjKusw7f9CsoI43nKWNi/paXJ+7zgXm93zRp67zfTIcXSIuaL3c5xfTa3f4Y8JcfbI0bY+A6vF+VxlvOX2ux2TTvNXuHZ5zmedf3GMqsxhfO0Zdf6+DHg+rGc98qh/6su0uvI+1a5nX2L+7rh5iEt15Qxa7It0t51fci1ylj3uVTMo++X3f4t84nrq6qxvA575Wffd71+6dmLuu+EP8Jdn5oR3e8Od72n6xKH1xaV7pvuuvZ/H3Ef7lsahW18cB+H/+25v1CY5padLjX5OQ3eey/v+qZHfKO1zixrFP+ZZMrvB+ol7fya8sx94/y3+kTHx23vyOibbZ90Rcyx/m2/aL2Cd/8+Kd8FzaP0F5kvDT3JIxxljS4VuWatZdn0xTT+m6Lges87y3bwE1cLcfw==
+  </data>
+ </layer>
+ <layer name="Top Chest" width="17" height="26" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="5"/>
+   <property name="Y" value="7"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwkwDbQDRsEoGAWjgM4AABDYAAM=
+  </data>
+ </layer>
+ <layer name="Bottom Chest" width="17" height="26" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="1"/>
+   <property name="Y" value="24"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApoA5gG2gFAAAAH8AAD
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="29" height="22" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="16007718" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE7/16007718.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="29" height="22">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJyNVb9PU1EUfu82Rm3i5qR/gCLEEJMWcdN2NE7wB0hFHAwxxv4BSu3kQkc36GsxEqp2dJTCgokWISSOJo0JBqWW0cHv5H4377zLqzh8Oe2595zv/HrnFoMgaAA3wyD4BlmAXIAsAl9NEOwBu8B56D9C1wTmgEvAI2AeeA6UaHMZuAfUg9hPFdigbpZ6uR8Bt8LYfh0YCS3fe/L+pD+xGQMqvFulryp14qNDjqbi3wR6vNdhrgXG1aCPA+Bixup/8axEP1XyFxlfg/oS/UT0EXkxFGhXoI+zyOUTclslesAd3pHfbXWWNfbM1cq3decVxhXRj8S1qu61gDHcHSVOAcvQ1UP7W5+NmKStcOwAX4ABsBYeP3cxjpokrqOWN4DJE6Rv9wN+u5AzgZUDxS9yC+dvWRPfXx6YoPyMuzn1X0vf7gzu9un/N7BNKTH0Faf0Nc2fk+ND9GlyJbQ8i8AUUWOeURhzSm91Pv4cpCHLu87G8Qqn5DUNPCbKJvbZImczSOYjseyk9EJLuZOjTT6T9Cl9fAc8Idq872ZvnjOk6yPnfRPXaJH1qakeOc68F6fuo66XxCI76zW/lXWvn1uM1dVomvUpq5lwnDrOrknOjc5N8Ao8D9XOS8tTenWNdWoTousOydPVxt3pMTfhaqkd94K7dULNg9jLjB3i/5EX+6Gav5xn01V3jrhLHpBD9tA5yNPc3S+NjdfNg94dPeVLfr+h/oqJZ8jP08XYDK3vPXLsEn+o0/3Ue0Vi3YDtZsreS+unq6vwfg9jDpH7yPUq30h5q3Q//f12kl7n6eq6zbrcDu28XMjYN9C9KQfsp9sdNfP/e+dfczsL3FeYM3a/d7gTxM7tjrI5vmf1N6/nVev9ud0H7gIzQAn4YOwOijjDYu92R9vEe0n7dL30+yhzPPBmW+qbxflTyGfAguKscCf49Urjcu+b/1358+pkiPMlyGWgDphMMk9/v/tck94+H0/po5wLv/9GLA15t/8Cx9tGNw==
+  </data>
+ </layer>
+ <layer name="Outside Door" width="29" height="22" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="8"/>
+   <property name="Y" value="4"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwnkAXEqne00Z2ZgMGOms6WjYBSMglEwCkbBKMAAAA4kAUc=
+  </data>
+ </layer>
+ <layer name="Left Chest" width="29" height="22" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="20"/>
+   <property name="Y" value="5"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwAaeBdsAoGAWjYBSMglEwTAEA8c8AQw==
+  </data>
+ </layer>
+ <layer name="Right Chest" width="29" height="22" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="24"/>
+   <property name="Y" value="6"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUoAOngXbAKBgFo2AUjIJRQAMAAM/HAEM=
+  </data>
+ </layer>
+ <layer name="Left Room Door" width="29" height="22" visible="0">
+  <properties>
+   <property name="Height" value="4"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="5"/>
+   <property name="X" value="21"/>
+   <property name="Y" value="17"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwUgFnEwMDOcZGRhWQzEXE+3t/Ay04zITgj7NSHs7QXZ8BNq1BEh/oqOdF5kg9l2ik52EAAAgHA73
+  </data>
+ </layer>
+</map>

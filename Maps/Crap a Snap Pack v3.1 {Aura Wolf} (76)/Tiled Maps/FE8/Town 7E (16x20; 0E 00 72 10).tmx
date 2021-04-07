@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="16" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="0E007210" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="../../../Tilesets/FE8/0E007210.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="16" height="20">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxdVN1KlFEU3ecbokjReoQEQ9RR6Q1yBMFo8hUmyatQ9A1S9MIIp95g1JkLxx5ixj8YNayL7hUm0bpIn6C12Ov4HbpY7LPP2f8/p1IwewvMAQ8zs8NgVjWzcaAPeA6smd8/SN7bwBT4D9BbAVaBLt5e4e4l6LR0h8HX8LYFbEvmHPfrwCTOneB3o5B7ClrK3G4x8duCXhvYLzjfFa6BOmT+mvMxtpq5nZkstx11mONNyH0RW5B/rPsj+rQ8xifKmz5IG8qb9yPMH/wn4CuwaW6DPn7hfKv4G6oXZQL4j7qnXEdx0++p6tWTxHUG+hN5L4J+Br4kPLGLcxPYU21vZI+xZ6wHY2Vthf/5DvROgNOC51dVzl31hvITwKQ5jfws0K+6MA/qsvebqtN9PyRPX+PAkuJ+F5xOJX16jxh6zXnq9iT+VsGXk7gjWpoT+qT+As7PQt636O9bEncFby8yt8deFKFXBcrAqHoQ4+fsDCZxvGHPQ96XY3O/Q6Sagdhb1uO35oBx3ALzePsOupz5fqRxs+eXoFeW97CkHIvqS9zRveD9fZ3EzbxZz6b2gbbjHA+rR3c4/zGfW+7pGGjZ3MeFuf8L+aokf0Oc4xrnEtgGBoLLzgI74Ovcj8x9cS74N3T1N3DfaLuFtzawr935obk/YF7AEfBItuNuDyrnjnY+2ipl+b4xT96vaQdpd0O7WteMNpIdXVee/wDTiZy+
+  </data>
+ </layer>
+ <layer name="Red House Destroyed" width="16" height="20" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="9"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYKA9eMrEwPAMiJ8zkaeflZmBgQ2I2Zmp665RMApGwcgGAPgdAtQ=
+  </data>
+ </layer>
+ <layer name="Red House Visited" width="16" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="10"/>
+   <property name="Y" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgaQHGgHTAKRsEoGHYAAJRYACI=
+  </data>
+ </layer>
+ <layer name="Chest" width="16" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="10"/>
+   <property name="Y" value="8"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4AwcBxoB4yCUUADAAC92ABC
+  </data>
+ </layer>
+ <layer name="Cell Door Opened" width="16" height="20" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="13"/>
+   <property name="Y" value="9"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4C+oIiJgcEAiAuZyNMvCNSnxwShR8EooAQAAJCdAXA=
+  </data>
+ </layer>
+ <layer name="Outer Door Opened" width="16" height="20" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="12"/>
+   <property name="Y" value="13"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0AsYMA20C0YBMgAAUx4AMw==
+  </data>
+ </layer>
+</map>

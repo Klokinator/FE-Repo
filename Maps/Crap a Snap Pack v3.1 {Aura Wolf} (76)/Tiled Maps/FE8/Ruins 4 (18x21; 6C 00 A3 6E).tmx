@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="18" height="21" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="6C00A36E" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="../../../Tilesets/FE8/6C00A36E.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="18" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxdVLtOG1EUvLu3QKC0EQoljb/ASEmHocwPQA2CL8gPRETENC6juCQokhUpVFAkLsENEjQkUmKlpELabWKMbUWZ0Z2je3Axuq9z5jzm7N6FEAbAW2BahDAEWtjvApvAd5wbMYRb4FJ2szKEP8A73H0FZrA5xv0n4ARYD+luQ3e/sa9htxiTD7kOcN/BehQT/2lMsXdlzz3XCvfdIvGs641+78VzrHvLk/ms4jxEfkvirRR7Ieac6fPN+ZCHcXhv+TDOvnABDLRfhl0b6zNxEr/K5EMO1r6pPvHto7iIWvnYuQfsuThvipRPXzqchGzL3Oj7gLcXZVorcd47TmKtzLH60oL+LenKvEzDv47PfEzDZpnPLenZl96mRWeuv7fiq2Oep6bOM2nZ1f1AeX2RDsbXUF6jIr1Zbw+wvlasoZvBHdV1hf2NarDZYj6PRX57kO570pJ997wLbm5M56W5Pq1g/Sme6/h0lk1PctvcmM7Ul/n8UE4T7W3mOLun4jly/RjJ7gNwBpzLf6wZYD4jN88d5d9weVfxaeyxYJpzHevd6j5UP9quj7Xe/pW5X23FNR1pw9qs7s/qSc/lQ9uX2L9y6KkPXkfW5us+Ux8eVTttt7DfdnheJv9as2u1TVzt3FNDm/t67hsimu47GhaZy/rl+zYp8rdSzfXCviPz6bq59pzep6+8fC8azmfq6r+J+f81dbNu/7n/mBDpJQ==
+  </data>
+ </layer>
+ <layer name="Top Wall" width="18" height="21" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="10"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYKAv4GJmYLjKTLk5E4BmNFNuzCgYBaNgFAx7AACHgQH8
+  </data>
+ </layer>
+ <layer name="Top Chest" width="18" height="21" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="17"/>
+   <property name="Y" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBh+gGmgHTAKRsEoGAWDCAAAEBAAAw==
+  </data>
+ </layer>
+ <layer name="Door" width="18" height="21" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="16"/>
+   <property name="Y" value="4"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtARczAwMG5gH2hWjYBSMgpEMAGlDAME=
+  </data>
+ </layer>
+ <layer name="Bottom Chest" width="18" height="21" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="12"/>
+   <property name="Y" value="12"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDBbANNAOGAXDEgAACpgAAw==
+  </data>
+ </layer>
+ <layer name="Bottom Wall" width="18" height="21" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="11"/>
+   <property name="Y" value="14"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjAJMoMPMwLAeiDmZKTNnGiMDw1UgLmekzJxtQP3XGCH0KCANAABJCgUY
+  </data>
+ </layer>
+</map>

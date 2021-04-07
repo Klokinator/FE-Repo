@@ -1,0 +1,45 @@
+#define DISABLE_TUTORIALS
+#include EAstdlib.event
+
+EventPointerTable(TileChangeID,TileChanges) //This will write the tile changes to the Event Reference Array.
+
+TileChanges:
+TileMap(0x0,8,4,2,2,OutsideDoor)
+TileMap(0x1,20,5,1,1,OpenChest)
+TileMap(0x2,24,6,1,1,OpenChest)
+TileMap(0x3,21,17,5,4,ClosedRoom)
+TileMapEnd
+
+OutsideDoor:
+SHORT 0x01B4
+SHORT 0x0210
+SHORT 0x0CD8
+SHORT 0x0CD4
+
+OpenChest:
+SHORT 0x0104
+
+ClosedRoom:
+SHORT 0x0820
+SHORT 0x0738
+SHORT 0x0730
+SHORT 0x0730
+SHORT 0x0824
+SHORT 0x0BC8
+SHORT 0x0B48
+SHORT 0x0BC8
+SHORT 0x0B48
+SHORT 0x0728
+SHORT 0x0728
+SHORT 0x0BC0
+SHORT 0x068C
+SHORT 0x0BC4
+SHORT 0x0728
+SHORT 0x0728
+SHORT 0x0B40
+SHORT 0x0BC4
+SHORT 0x0B40
+SHORT 0x0728
+
+MESSAGE Tile changes end at offset currentOffset
+//The map for this chapter is at offset: ????????

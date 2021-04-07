@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="24" height="19" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="0E007210" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/0E007210.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="24" height="19">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxtlL9PVEEQx/fty4VEE4XESmzU7hQx/gf+qNQAhZ0VikBxsdPEGE0ucKeJP4BCExuTO+QQ0MTExP4Oj9OTQs6GBBtMEIIWSquFn8nO5u07KT6Z93ZnZ2e/M7v9xphhyMI6RJExeWxPbEwfNPgfwl6DYdjmv8J8GUp8x9b5P2buK/+X4SRjvcoAc+esiysxr8Okxv4Cm4yPY79DUebwn8X/JczBUTiNT465P9jbcBeKcEdzfcPchMZcgVesWbYudh02lIrm0oAP8BFqjFXhEevW8DkInYzvhxG+m9DSuD6mjydaZBjrgL3WxTmLzVo3LmcZxOcU36us/6vxRZ991s35/Ooaa1u/tzRWZzC/xNiKcf9dkcs9j70Ho8p9jS+5y5zk5veQNRZ+sG4eJmBH4hm3t7AR5FRkfMDuHv8EFKK0v+h7PnJ557VHRO9v2NfGnWUeHRakRrHTrFe1WNX6en2GVLdNk2jT1H2agRbHGD/Df0HP0CTOJ6lV7NaJr9Qhp/3p449jn8NC0D/Sm29hNkq08Pv5M/5S/b1eW3pGid9t0/0/Frk71Qr60t+BPt2nw/4fa4/21I7W6Yj2/9ou/S9a96i2Gc0j7FV/Dh+rEORf1B4rmeR++f7vhy6tY1Z7KHwTBrFX4Gqc9Ep7v8oeLcaX9X0I+9/3zwOT6JwL3oS8xIWx2Gkh85/Vt8RYGabjpK/b6+vvXSM4r/iM8j9j0vUVLga9X8WvBotxul6HbBJf7taIrvU+U2K1hr4eovtP486ZsYku/q6H9ZL6XlIOqK23+RwnzuHIneGCdZrL+zjH/2+Tvus1k14r9b0BN+GW2rCmEu8FzEDFunOUoAzTNrljdc2rqHWVvpfaiv5P4Ck8UxvWVPzfy3pYsq6vq/IGw2LQO5m2eyK6SO6yh9TgXZTgc/e1e6hv0Lr2Y8Ek74B/q9s19bnLPt1aB9lHxv4B4j7xZw==
+  </data>
+ </layer>
+ <layer name="Upper Yellow Destroyed" width="24" height="19" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="9"/>
+   <property name="Y" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYCAMnjIxMDwD4udMRCgmA7AyMzCwATE7M23MHwWjYBSMglEwCkgFAKxmAtQ=
+  </data>
+ </layer>
+ <layer name="Upper Yellow Saved" width="24" height="19" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="10"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgcoJV5oF0wCkbBKBgFo2AUIAAAiAoAiQ==
+  </data>
+ </layer>
+ <layer name="Lower Yellow Destroyed" width="24" height="19" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="6"/>
+   <property name="Y" value="11"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALSwFMmBoZnQPyciTbmszIzMLABMTszbcwfBaOAGAAAJ0UC1A==
+  </data>
+ </layer>
+ <layer name="Lower Yellow Saved" width="24" height="19" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="7"/>
+   <property name="Y" value="12"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBB5qYB9oFo2CkAwBVwACG
+  </data>
+ </layer>
+ <layer name="Red Destroyed" width="24" height="19" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="4"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="13"/>
+   <property name="Y" value="12"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhA54yMTA8A+LnTLQxn5WZgYENiNmZaWP+KBg6AADI8wLU
+  </data>
+ </layer>
+ <layer name="Red Saved" width="24" height="19" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="5"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="14"/>
+   <property name="Y" value="13"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRgAwUB9oBo2BQAABKKAAi
+  </data>
+ </layer>
+</map>

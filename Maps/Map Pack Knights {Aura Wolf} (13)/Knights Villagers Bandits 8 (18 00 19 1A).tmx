@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="19" height="13" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="1800191A" tilewidth="16" tileheight="16">
+  <image source="../../Tilesets/FE8/1800191A.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="19" height="13">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJx1Uj0vREEUnY9I0LF+gWbbbd6y7wdstGolCa3EP1gRLb9BIcHGqlH5SrbgeUp0EiXWD3Am956471nFyZlz586Ze+9MOzo39M4VwblHxQfw/Y+eApaAc5y7AC6j6AE8FrA+8aILzTuDng5Vf6LE3gb4GedegNcoOsXbWK8CE9BXXnjN1PoQqjxCfBc8h5xlcCOKHmldObAOrCjnxov9kVO8G2W9qf5dzU91JT/LB/7vDAnG94BTYN/Eef4eegd85AV2XuyPd8wgbwC9lWZr4ikv0xqftP8yVOtif7zvOIhf2ptVXSC/pXPiffNO+M540aOPWBN8CH2N9S1w40U3zZxYR0Pvezdeb+rRAxbNO/Fs0p3anL6AvqmBXttePDpx/FuRh5qXay7nVpq3mwy/+ZzvOJ3OZvoP6G3/Jr14f6vWn9X04t5n7Y9yXlmtn3H1/QDq8Yra
+  </data>
+ </layer>
+ <layer name="Chest Room Door" width="19" height="13" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="6"/>
+   <property name="Y" value="6"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwxm8ZmRguMhEHbMuA825RCWzTlPRXaMAOwAAf7IFCA==
+  </data>
+ </layer>
+ <layer name="Chest" width="19" height="13" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="4"/>
+   <property name="Y" value="7"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA/YBpoB4wCsgAAB0wAAw==
+  </data>
+ </layer>
+ <layer name="Horizontal Wall" width="19" height="13" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="2"/>
+   <property name="Y" value="9"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BogXWMDAyCzAwM55koN8sKaI45EJ9mpNyswQYA3oEC2A==
+  </data>
+ </layer>
+ <layer name="Vertical Wall" width="19" height="13" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="2"/>
+   <property name="X" value="4"/>
+   <property name="Y" value="11"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUUBO8ZmRguMhEHbOsmBkYLpFpFgAquwLR
+  </data>
+ </layer>
+</map>

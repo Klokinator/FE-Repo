@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="3" height="4" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="01000203" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="01000203.png" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="3" height="4">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data>
+   <tile/>
+   <tile/>
+   <tile gid="743"/>
+   <tile/>
+   <tile gid="656"/>
+   <tile gid="617"/>
+   <tile gid="592"/>
+   <tile gid="617"/>
+   <tile gid="461"/>
+   <tile gid="496"/>
+   <tile gid="546"/>
+   <tile gid="493"/>
+  </data>
+ </layer>
+</map>

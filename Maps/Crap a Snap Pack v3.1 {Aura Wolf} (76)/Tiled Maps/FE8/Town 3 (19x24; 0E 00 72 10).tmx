@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="19" height="24" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="0E007210" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/0E007210.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="19" height="24">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJx1U0tPU0EYnZkbYoIGy7IWn0sNYNxq4nOlUfgBblATXRj/Q0V8gBFI3JloCgIKxR+gqxZbjHSDK5M20U2j6cJEtuDjHOZM7rTK4mRmznzfmTNn7i0ZY847Y85aYy5gfIT1OtDEugvrj9bPH4MrYD0DzDpf2w0UEnDALFBFzThwEfUOWMV8BPw14DqwC/UV8B/AlzAvAyvApM4roaYMrKiWdRnrPbAvD/4uMJr4+g3sLwDHnD9zTd7Z25TvXuCb8f1dEc91C5jH3jJQBl4Db+jFpHWhh/WXMF+SVnxv7k+BP2x9li+BOWAemJDWIuqWgGLiz2R+M8zKtd+b530CXwPOoe89MwOqzue5/SaoWwNqia8dlx4zX1Zm9Mgcgv+qsqnY9E2531JtRRwzD+eHd2kph/gOzSi/jObMgN/ERpRh8MAzv8vnnGm/Q8gjZHXf+Lt0A0eAo679Hai/yG9I325G/iryUDA+q/BmeemPieM3cSfxGAD2mH+/e6Iacb16W77xhEn9UL8oPKGmSd8pZBq++7iHb9uP+mlgMvLSAF8HLiftHhfU/wraP+WJefar5gqwnqRe2L+Jmi3+F66dn5bejyi/qUij5ryPnPNe2N8nbrODZ+0q5kXjc9ntUr6uevZu2dQP108xPhPXEH8bOI69HmAvMAh8TtJ9jqGvT/rkvuLcd+Jy8hm0BiI9atUjH6Ev6HPvC7i3Nr1r7GsE4wmMw9LKuTSL0Mf1dh/Wv4DfwB/ja+gvaOWt1+mJfDV26gP2AweAg8ChDl9Dume4I/dyO/Sdsr6OPacxP9OhxcxHrd8P2Z9U300h9F21PpMX1vdkd/AV3pH336e+QfnlflZcPuIfYH4LeCitYekMRdkHLXI35CNoMdcxjVm97f++ifgc9nHvHsbn0voLi3Tz+w==
+  </data>
+ </layer>
+ <layer name="Right House Destroyed" width="19" height="24" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="16"/>
+   <property name="Y" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzMENACAMw8CoFbD/kJQ1yA75+iR/LWVuSeNehSNbLW13On8BAJD4X24C1A==
+  </data>
+ </layer>
+ <layer name="Right House Saved" width="19" height="24" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="17"/>
+   <property name="Y" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBhcQHGgHTAKRsEoGAWjYBQAAQDfsAAi
+  </data>
+ </layer>
+ <layer name="Left House Destroyed" width="19" height="24" visible="0">
+  <properties>
+   <property name="Height" value="2"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="2"/>
+   <property name="Y" value="4"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF5ICnTAwMz4D4ORPlZrEyMzCwATE7M+VmjYJRMApGwSigDgAAotkC1A==
+  </data>
+ </layer>
+ <layer name="Left House Saved" width="19" height="24" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="3"/>
+   <property name="Y" value="5"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwEoDrQDRsEoGAWjYBSgAAC/uAAi
+  </data>
+ </layer>
+</map>

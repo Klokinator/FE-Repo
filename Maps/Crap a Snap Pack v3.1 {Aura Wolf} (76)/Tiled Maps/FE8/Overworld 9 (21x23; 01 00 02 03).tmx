@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="21" height="23" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="01000203" tilewidth="16" tileheight="16">
+  <image source="../../../Tilesets/FE8/01000203.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="21" height="23">
+  <data encoding="base64" compression="zlib">
+   eJxtVTtPlEEUnYfGaCSitlYaFEhUChMbuoVkeXREF2xXklU6iaAl7n6baNSIjdK6+21iIYn+A40JGh+I/wALLUTQf+C53nMzU1iczH4z93HunXNnB6NzQ8AwcNU5dxY4ADwCKkAPqOFsFpgD5rm/FZyrYw3Yu4XfS8AYvo/guwpMAJNAG3tTwA2gQT+xWxY/4Dbzit8YY2/DZo7xm07PGzi/BlyPanMXOAPMAOeAFvAEZ0+BNcYSX+F2ERgFakH5D0S1l9omvHMf6S8cF8lTckr+Erb3va6FS7WW+N3G2sHadZqvYH2/sB7ymus8axuIyaaT5ZX+SK0t5twPu9ch8VsPui85fgDVzG8zyyn2B3G2S4617H4kfxnTvf0BLgfuY+8nsANsAK+Ar065S5xTTiE1F+xpjMrH7mcXeftwfhM4ASwz9xbwknEk3yX2Tup4R/49ctpgXuEke18Q863XOoX3FdYodTzA/hrz1XgX0ttV8n/MPk15jSUxVsjxu1db4T9LXlbnEnvdIiepbQj2n7HuZX3qktMMbJ7hvIr1DrUlPsZr2uu35CtZq9iYPjou9VTyvQnay9NYT/J+6i71oEONyPdRnB2L6axHjhWeN7nXDNpLqf299YM96+c8b/IuC/K0HtQzXVu+b0E1+dun2o2/+I1wtlZ5n4PZ+yK5/80Se2jcC2pS4i1gbTBWx6W7Mi2Jb/6+fJI6o+ZqZnUYx+fAZFAtyV4gvz58H/eqF9Fi/r7IHA37pE2bwxWfOG571ZLMq8zDFnmIn8y6zPe4T3q84FU7Jfm9QIyHQTW0AxyOqZ8l50DupkG/dqa/IiZdjmfvZou9stiLjL3n03ttfW259F6X7J3pssc+mkaa1K311eLbbIk2FqPm6NLW9CDnC5nW56mRDvVZBu2haa8fmKbtSMatTt7zGeeSd1nJ+Obc9uHcR/0/u0ebnkv/N+2sDwXnoJvNo73tvf/MgPz3SFz5/6m69CbYeyw+H5y+QeZncawGq2mdb8dfvVvoTA==
+  </data>
+ </layer>
+ <layer name="Upper Village Destroyed" width="21" height="23" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="0"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="0"/>
+   <property name="Y" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzrYGZg6ATiLiCmFlgBNGslEK+iopkngGadBOJTVDRzFIyCUTAKRsEoGAwAAFlOBg0=
+  </data>
+ </layer>
+ <layer name="Upper Village Saved" width="21" height="23" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="1"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="1"/>
+   <property name="Y" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBg6QHGgHTAKRsEoGAWjYBTQAAAA6mwAIg==
+  </data>
+ </layer>
+ <layer name="Lower Village Destroyed" width="21" height="23" visible="0">
+  <properties>
+   <property name="Height" value="3"/>
+   <property name="ID" value="2"/>
+   <property name="Width" value="3"/>
+   <property name="X" value="7"/>
+   <property name="Y" value="13"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALagA5mBoZOIO5ipp6ZK4BmrQTiVVQ08wTQrJNAfIqKZo6CUUAKAADjOQYN
+  </data>
+ </layer>
+ <layer name="Lower Village Saved" width="21" height="23" visible="0">
+  <properties>
+   <property name="Height" value="1"/>
+   <property name="ID" value="3"/>
+   <property name="Width" value="1"/>
+   <property name="X" value="8"/>
+   <property name="Y" value="15"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRoDjQDhgFIxoAAFoMACI=
+  </data>
+ </layer>
+</map>

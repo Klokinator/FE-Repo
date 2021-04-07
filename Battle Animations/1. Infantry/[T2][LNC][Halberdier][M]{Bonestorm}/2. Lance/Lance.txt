@@ -1,0 +1,233 @@
+#######################################################
+#1B Sniper Bow
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Lance_000.png
+2 p- Lance_001.png
+C1B                                     #Refresh quick "heavy step" SFE
+2 p- Lance_002.png
+2 p- Lance_002.png
+2 p- Lance_003.png
+15 p- Lance_003.png
+4 p- Lance_004.png
+4 p- Lance_005.png
+C21                                     #Refresh hit SFE (sounds like Knight Lord with sword's hit)
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                                     #Normal hit
+2 p- Lance_006.png
+4 p- Lance_007.png
+6 p- Lance_008.png
+5 p- Lance_009.png
+4 p- Lance_010.png
+3 p- Lance_011.png
+2 p- Lance_012.png
+C01                                     #NOP
+2 p- Lance_013.png
+C22                                     #Refresh short sword swinging SFE
+2 p- Lance_014.png
+2 p- Lance_015.png
+3 p- Lance_016.png
+3 p- Lance_017.png
+3 p- Lance_018.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+3 p- Lance_019.png
+3 p- Lance_020.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Lance_021.png
+3 p- Lance_022.png
+C22                                     #Refresh short sword swinging SFE
+2 p- Lance_023.png
+2 p- Lance_024.png
+2 p- Lance_025.png
+15 p- Lance_026.png
+C38                                     #Refresh heavy spear spinning SFE
+2 p- Lance_027.png
+2 p- Lance_028.png
+2 p- Lance_029.png
+2 p- Lance_030.png
+C38                                     #Refresh heavy spear spinning SFE
+2 p- Lance_031.png
+2 p- Lance_032.png
+2 p- Lance_033.png
+2 p- Lance_034.png
+C38                                     #Refresh heavy spear spinning SFE
+3 p- Lance_035.png
+3 p- Lance_036.png
+3 p- Lance_037.png
+3 p- Lance_038.png
+C38                                     #Refresh heavy spear spinning SFE
+3 p- Lance_039.png
+3 p- Lance_040.png
+3 p- Lance_041.png
+3 p- Lance_042.png
+4 p- Lance_043.png
+4 p- Lance_044.png
+4 p- Lance_045.png
+4 p- Lance_042.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C21                                     #Refresh hit SFE (sounds like Knight Lord with sword's hit)
+C0C                                     #Critical hit
+2 p- Lance_006.png
+4 p- Lance_007.png
+6 p- Lance_008.png
+5 p- Lance_009.png
+4 p- Lance_010.png
+3 p- Lance_011.png
+2 p- Lance_012.png
+C01                                     #NOP
+2 p- Lance_013.png
+C22                                     #Refresh short sword swinging SFE
+2 p- Lance_014.png
+2 p- Lance_015.png
+3 p- Lance_016.png
+3 p- Lance_017.png
+3 p- Lance_018.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+3 p- Lance_019.png
+3 p- Lance_020.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Lance_046.png
+C22                                     #Refresh short sword swinging SFE
+2 p- Lance_047.png
+3 p- Lance_048.png
+4 p- Lance_049.png
+2 p- Lance_050.png
+C25                                     #Refresh wing flap SFE
+2 p- Lance_051.png
+C05                                     #Call spell associated with equipped weapon
+2 p- Lance_052.png
+2 p- Lance_053.png
+3 p- Lance_054.png
+3 p- Lance_055.png
+C01                                     #NOP
+3 p- Lance_050.png
+3 p- Lance_056.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+3 p- Lance_057.png
+C1B                                     #Refresh quick "heavy step" SFE
+2 p- Lance_047.png
+1 p- Lance_046.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Lance_046.png
+C38                                     #Refresh heavy spear spinning SFE
+2 p- Lance_058.png
+2 p- Lance_059.png
+2 p- Lance_060.png
+2 p- Lance_061.png
+C38                                     #Refresh heavy spear spinning SFE
+2 p- Lance_058.png
+2 p- Lance_059.png
+2 p- Lance_060.png
+2 p- Lance_061.png
+20 p- Lance_046.png
+C22                                     #Refresh short sword swinging SFE
+2 p- Lance_047.png
+3 p- Lance_048.png
+4 p- Lance_049.png
+2 p- Lance_050.png
+C25                                     #Refresh wing flap SFE
+2 p- Lance_051.png
+C05                                     #Call spell associated with equipped weapon
+2 p- Lance_052.png
+2 p- Lance_053.png
+3 p- Lance_054.png
+3 p- Lance_055.png
+C01                                     #NOP
+3 p- Lance_050.png
+3 p- Lance_056.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+3 p- Lance_057.png
+C1B                                     #Refresh quick "heavy step" SFE
+2 p- Lance_047.png
+1 p- Lance_046.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+1 p- Lance_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Lance_062.png
+2 p- Lance_063.png
+1 p- Lance_064.png
+C01                                     #NOP
+2 p- Lance_063.png
+2 p- Lance_062.png
+1 p- Lance_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+1 p- Lance_046.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Lance_065.png
+2 p- Lance_066.png
+1 p- Lance_067.png
+C01                                     #NOP
+2 p- Lance_066.png
+2 p- Lance_065.png
+1 p- Lance_046.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Lance_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+1 p- Lance_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Lance_046.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Lance_000.png
+2 p- Lance_001.png
+C1B                                     #Refresh quick "heavy step" SFE
+2 p- Lance_002.png
+2 p- Lance_002.png
+2 p- Lance_003.png
+15 p- Lance_003.png
+4 p- Lance_004.png
+4 p- Lance_005.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C23                                     #Refresh shorter sword swinging SFE
+2 p- Lance_068.png
+4 p- Lance_069.png
+6 p- Lance_070.png
+5 p- Lance_071.png
+4 p- Lance_072.png
+3 p- Lance_073.png
+2 p- Lance_074.png
+C01                                     #NOP
+2 p- Lance_075.png
+C22                                     #Refresh short sword swinging SFE
+2 p- Lance_014.png
+2 p- Lance_015.png
+3 p- Lance_016.png
+3 p- Lance_017.png
+3 p- Lance_018.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+3 p- Lance_019.png
+3 p- Lance_020.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

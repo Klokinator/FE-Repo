@@ -1,0 +1,242 @@
+#######################################################
+#01 magm_mg1 Mage Anima
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+4 p- Bow_000.png
+4 p- Bow_001.png
+4 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+3 p- Bow_006.png
+3 p- Bow_007.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_008.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_013.png
+3 p- Bow_014.png
+4 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_017.png
+2 p- Bow_018.png
+C19                               #Play bow pulling SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- Bow_019.png
+4 p- Bow_000.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+4 p- Bow_000.png
+S00                               #Sound 0 
+70 p- Bow_000.png
+4 p- Bow_001.png
+4 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_020.png
+4 p- Bow_021.png
+4 p- Bow_022.png
+4 p- Bow_023.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Bow_024.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Bow_025.png
+4 p- Bow_026.png
+3 p- Bow_006.png
+3 p- Bow_007.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_008.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_013.png
+3 p- Bow_014.png
+7 p- Bow_003.png
+3 p- Bow_027.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_028.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_029.png
+3 p- Bow_027.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_028.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_029.png
+4 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_030.png
+2 p- Bow_018.png
+C19                               #Play bow pulling SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- Bow_019.png
+4 p- Bow_031.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+4 p- Bow_000.png
+4 p- Bow_001.png
+4 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+3 p- Bow_006.png
+3 p- Bow_007.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_008.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_013.png
+3 p- Bow_014.png
+4 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_017.png
+2 p- Bow_018.png
+C19                               #Play bow pulling SFE
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_019.png
+4 p- Bow_000.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+4 p- Bow_000.png
+S00                               #Sound 0 
+70 p- Bow_000.png
+4 p- Bow_001.png
+4 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_020.png
+4 p- Bow_021.png
+4 p- Bow_022.png
+4 p- Bow_023.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Bow_024.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Bow_025.png
+4 p- Bow_026.png
+3 p- Bow_006.png
+3 p- Bow_007.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_008.png
+C4A                               #Play valkyrie's magic charging SFE
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_013.png
+3 p- Bow_014.png
+7 p- Bow_003.png
+3 p- Bow_027.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_028.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_029.png
+3 p- Bow_027.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_028.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Bow_029.png
+4 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_030.png
+2 p- Bow_018.png
+C19                               #Play bow pulling SFE
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_019.png
+4 p- Bow_031.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+4 p- Bow_000.png
+3 p- Bow_032.png
+15 p- Bow_033.png
+15 p- Bow_033.png
+3 p- Bow_032.png
+4 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C01                               #NOP
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+4 p- Bow_000.png
+3 p- Bow_032.png
+15 p- Bow_033.png
+15 p- Bow_033.png
+3 p- Bow_032.png
+4 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C01                               #NOP
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+16 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+16 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+16 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+4 p- Bow_000.png
+4 p- Bow_001.png
+4 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+4 p- Bow_006.png
+4 p- Bow_007.png
+4 p- Bow_008.png
+4 p- Bow_010.png
+4 p- Bow_011.png
+4 p- Bow_012.png
+4 p- Bow_013.png
+4 p- Bow_014.png
+4 p- Bow_015.png
+4 p- Bow_016.png
+4 p- Bow_017.png
+4 p- Bow_018.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+4 p- Bow_019.png
+4 p- Bow_031.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

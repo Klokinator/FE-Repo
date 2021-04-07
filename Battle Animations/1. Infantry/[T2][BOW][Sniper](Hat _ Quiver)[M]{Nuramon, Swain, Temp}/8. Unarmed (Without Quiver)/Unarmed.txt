@@ -1,0 +1,55 @@
+#######################################################
+#DC lorm_sp1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 5               #Ranged Animation 
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 6               #Ranged Critical Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+4 p- Unarmed_000.png
+~~~
+/// - End of animation

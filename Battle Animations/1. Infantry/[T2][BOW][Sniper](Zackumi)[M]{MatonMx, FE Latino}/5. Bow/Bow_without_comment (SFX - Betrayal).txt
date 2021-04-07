@@ -1,0 +1,237 @@
+/// - Mode 1
+C03
+C07
+4 p- Bow_without_comment_000.png
+4 p- Bow_without_comment_001.png
+4 p- Bow_without_comment_002.png
+4 p- Bow_without_comment_003.png
+4 p- Bow_without_comment_004.png
+4 p- Bow_without_comment_005.png
+3 p- Bow_without_comment_006.png
+3 p- Bow_without_comment_007.png
+C4A
+3 p- Bow_without_comment_008.png
+C4A
+3 p- Bow_without_comment_009.png
+3 p- Bow_without_comment_010.png
+3 p- Bow_without_comment_011.png
+3 p- Bow_without_comment_012.png
+3 p- Bow_without_comment_013.png
+3 p- Bow_without_comment_014.png
+4 p- Bow_without_comment_015.png
+2 p- Bow_without_comment_016.png
+2 p- Bow_without_comment_017.png
+2 p- Bow_without_comment_018.png
+C19
+C04
+C1A
+C1F
+4 p- Bow_without_comment_019.png
+4 p- Bow_without_comment_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+4 p- Bow_without_comment_000.png
+S00
+70 p- Bow_without_comment_000.png
+4 p- Bow_without_comment_001.png
+4 p- Bow_without_comment_002.png
+4 p- Bow_without_comment_003.png
+4 p- Bow_without_comment_020.png
+4 p- Bow_without_comment_021.png
+4 p- Bow_without_comment_022.png
+4 p- Bow_without_comment_023.png
+C4D
+4 p- Bow_without_comment_024.png
+C4D
+4 p- Bow_without_comment_025.png
+4 p- Bow_without_comment_026.png
+3 p- Bow_without_comment_006.png
+3 p- Bow_without_comment_007.png
+C4A
+3 p- Bow_without_comment_008.png
+C4A
+3 p- Bow_without_comment_009.png
+3 p- Bow_without_comment_010.png
+3 p- Bow_without_comment_011.png
+3 p- Bow_without_comment_012.png
+3 p- Bow_without_comment_013.png
+3 p- Bow_without_comment_014.png
+7 p- Bow_without_comment_003.png
+3 p- Bow_without_comment_027.png
+C3C
+3 p- Bow_without_comment_028.png
+C3C
+3 p- Bow_without_comment_029.png
+3 p- Bow_without_comment_027.png
+C3C
+3 p- Bow_without_comment_028.png
+C3C
+3 p- Bow_without_comment_029.png
+4 p- Bow_without_comment_015.png
+2 p- Bow_without_comment_016.png
+2 p- Bow_without_comment_030.png
+2 p- Bow_without_comment_018.png
+C19
+C04
+C08
+C1F
+4 p- Bow_without_comment_019.png
+4 p- Bow_without_comment_031.png
+C01
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+4 p- Bow_without_comment_000.png
+4 p- Bow_without_comment_001.png
+4 p- Bow_without_comment_002.png
+4 p- Bow_without_comment_003.png
+4 p- Bow_without_comment_004.png
+4 p- Bow_without_comment_005.png
+3 p- Bow_without_comment_006.png
+3 p- Bow_without_comment_007.png
+C4A
+3 p- Bow_without_comment_008.png
+C4A
+3 p- Bow_without_comment_009.png
+3 p- Bow_without_comment_010.png
+3 p- Bow_without_comment_011.png
+3 p- Bow_without_comment_012.png
+3 p- Bow_without_comment_013.png
+3 p- Bow_without_comment_014.png
+4 p- Bow_without_comment_015.png
+2 p- Bow_without_comment_016.png
+2 p- Bow_without_comment_017.png
+2 p- Bow_without_comment_018.png
+C19
+C05
+4 p- Bow_without_comment_019.png
+4 p- Bow_without_comment_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+4 p- Bow_without_comment_000.png
+S00
+70 p- Bow_without_comment_000.png
+4 p- Bow_without_comment_001.png
+4 p- Bow_without_comment_002.png
+4 p- Bow_without_comment_003.png
+4 p- Bow_without_comment_020.png
+4 p- Bow_without_comment_021.png
+4 p- Bow_without_comment_022.png
+4 p- Bow_without_comment_023.png
+C4D
+4 p- Bow_without_comment_024.png
+C4D
+4 p- Bow_without_comment_025.png
+4 p- Bow_without_comment_026.png
+3 p- Bow_without_comment_006.png
+3 p- Bow_without_comment_007.png
+C4A
+3 p- Bow_without_comment_008.png
+C4A
+3 p- Bow_without_comment_009.png
+3 p- Bow_without_comment_010.png
+3 p- Bow_without_comment_011.png
+3 p- Bow_without_comment_012.png
+3 p- Bow_without_comment_013.png
+3 p- Bow_without_comment_014.png
+7 p- Bow_without_comment_003.png
+3 p- Bow_without_comment_027.png
+C3C
+3 p- Bow_without_comment_028.png
+C3C
+3 p- Bow_without_comment_029.png
+3 p- Bow_without_comment_027.png
+C3C
+3 p- Bow_without_comment_028.png
+C3C
+3 p- Bow_without_comment_029.png
+4 p- Bow_without_comment_015.png
+2 p- Bow_without_comment_016.png
+2 p- Bow_without_comment_030.png
+2 p- Bow_without_comment_018.png
+C19
+C05
+4 p- Bow_without_comment_019.png
+4 p- Bow_without_comment_031.png
+C01
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+4 p- Bow_without_comment_000.png
+3 p- Bow_without_comment_032.png
+15 p- Bow_without_comment_033.png
+15 p- Bow_without_comment_033.png
+3 p- Bow_without_comment_032.png
+4 p- Bow_without_comment_000.png
+C0E
+C01
+C0D
+~~~
+/// - Mode 8
+C02
+4 p- Bow_without_comment_000.png
+3 p- Bow_without_comment_032.png
+15 p- Bow_without_comment_033.png
+15 p- Bow_without_comment_033.png
+3 p- Bow_without_comment_032.png
+4 p- Bow_without_comment_000.png
+C0E
+C01
+C0D
+~~~
+/// - Mode 9
+16 p- Bow_without_comment_000.png
+C01
+~~~
+/// - Mode 10
+16 p- Bow_without_comment_000.png
+C01
+~~~
+/// - Mode 11
+16 p- Bow_without_comment_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+4 p- Bow_without_comment_000.png
+4 p- Bow_without_comment_001.png
+4 p- Bow_without_comment_002.png
+4 p- Bow_without_comment_003.png
+4 p- Bow_without_comment_004.png
+4 p- Bow_without_comment_005.png
+4 p- Bow_without_comment_006.png
+4 p- Bow_without_comment_007.png
+4 p- Bow_without_comment_008.png
+4 p- Bow_without_comment_010.png
+4 p- Bow_without_comment_011.png
+4 p- Bow_without_comment_012.png
+4 p- Bow_without_comment_013.png
+4 p- Bow_without_comment_014.png
+4 p- Bow_without_comment_015.png
+4 p- Bow_without_comment_016.png
+4 p- Bow_without_comment_017.png
+4 p- Bow_without_comment_018.png
+C04
+4 p- Bow_without_comment_019.png
+4 p- Bow_without_comment_031.png
+C01
+C06
+C0D
+~~~
+/// - End of animation

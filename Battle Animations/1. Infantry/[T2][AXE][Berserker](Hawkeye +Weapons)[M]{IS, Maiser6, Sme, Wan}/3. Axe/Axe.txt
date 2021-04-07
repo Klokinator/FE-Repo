@@ -1,0 +1,164 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+3 p- Axe_001.png
+3 p- Axe_002.png
+4 p- Axe_003.png
+C42                               #Refresh long axe swinging SFE
+3 p- Axe_004.png
+4 p- Axe_005.png
+3 p- Axe_006.png
+5 p- Axe_007.png
+3 p- Axe_008.png
+3 p- Axe_009.png
+3 p- Axe_010.png
+22 p- Axe_011.png
+C41                               #EMPTY FE7:086EB188
+C1A                               #Normal hit
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C20                               #Refresh hit SFE (sounds like Knight Lord with Durandal's hit)
+2 p- Axe_012.png
+2 p- Axe_013.png
+2 p- Axe_014.png
+4 p- Axe_015.png
+4 p- Axe_016.png
+1 p- Axe_017.png
+C01                               #NOP
+C1B                               #Refresh quick "heavy step" SFE
+3 p- Axe_018.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Axe_019.png
+3 p- Axe_020.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+3 p- Axe_001.png
+7 p- Axe_021.png
+C42                               #Refresh long axe swinging SFE
+3 p- Axe_004.png
+4 p- Axe_005.png
+C41                               #EMPTY FE7:086EB188
+3 p- Axe_022.png
+8 p- Axe_023.png
+C38                               #Refresh heavy spear spinning SFE
+1 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+1 p- Axe_027.png
+C38                               #Refresh heavy spear spinning SFE
+1 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+1 p- Axe_027.png
+C38                               #Refresh heavy spear spinning SFE
+1 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+1 p- Axe_027.png
+2 p- Axe_028.png
+20 p- Axe_023.png
+3 p- Axe_028.png
+6 p- Axe_029.png
+C42                               #Refresh long axe swinging SFE
+1 p- Axe_030.png
+3 p- Axe_008.png
+3 p- Axe_009.png
+3 p- Axe_010.png
+22 p- Axe_011.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C41                               #EMPTY FE7:086EB188
+C0A                               #Critical hit
+C20                               #Refresh hit SFE (sounds like Knight Lord with Durandal's hit)
+2 p- Axe_012.png
+2 p- Axe_013.png
+2 p- Axe_014.png
+4 p- Axe_015.png
+4 p- Axe_016.png
+1 p- Axe_017.png
+C01                               #NOP
+3 p- Axe_018.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Axe_019.png
+3 p- Axe_020.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Axe_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Axe_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_031.png
+1 p- Axe_032.png
+C01                               #NOP
+3 p- Axe_031.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_031.png
+1 p- Axe_032.png
+C01                               #NOP
+3 p- Axe_031.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+3 p- Axe_001.png
+3 p- Axe_002.png
+4 p- Axe_003.png
+C42                               #Refresh long axe swinging SFE
+3 p- Axe_004.png
+4 p- Axe_005.png
+3 p- Axe_006.png
+5 p- Axe_007.png
+3 p- Axe_008.png
+3 p- Axe_009.png
+3 p- Axe_010.png
+22 p- Axe_011.png
+C41                               #EMPTY FE7:086EB188
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+2 p- Axe_012.png
+2 p- Axe_033.png
+2 p- Axe_034.png
+4 p- Axe_015.png
+4 p- Axe_016.png
+1 p- Axe_017.png
+C01                               #NOP
+C1B                               #Refresh quick "heavy step" SFE
+3 p- Axe_018.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Axe_019.png
+3 p- Axe_020.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

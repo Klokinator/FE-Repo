@@ -1,0 +1,239 @@
+/// - Mode 1
+C03
+C07
+5 p- Unarmed_000.png
+3 p- Unarmed_001.png
+3 p- Unarmed_002.png
+C49
+3 p- Unarmed_003.png
+3 p- Unarmed_004.png
+3 p- Unarmed_005.png
+3 p- Unarmed_006.png
+3 p- Unarmed_007.png
+3 p- Unarmed_008.png
+15 p- Unarmed_009.png
+3 p- Unarmed_010.png
+C05
+3 p- Unarmed_011.png
+L
+3 p- Unarmed_012.png
+3 p- Unarmed_013.png
+3 p- Unarmed_014.png
+C01
+3 p- Unarmed_015.png
+3 p- Unarmed_016.png
+C06
+3 p- Unarmed_001.png
+C0D
+~~~
+/// - Mode 3
+C07
+C03
+5 p- Unarmed_000.png
+3 p- Unarmed_001.png
+3 p- Unarmed_017.png
+3 p- Unarmed_018.png
+3 p- Unarmed_019.png
+C1B
+3 p- Unarmed_020.png
+3 p- Unarmed_021.png
+C7A
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_022.png
+3 p- Unarmed_025.png
+3 p- Unarmed_023.png
+3 p- Unarmed_025.png
+3 p- Unarmed_022.png
+3 p- Unarmed_025.png
+3 p- Unarmed_023.png
+3 p- Unarmed_025.png
+15 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_026.png
+3 p- Unarmed_022.png
+3 p- Unarmed_027.png
+3 p- Unarmed_028.png
+C1B
+3 p- Unarmed_029.png
+3 p- Unarmed_030.png
+C1B
+3 p- Unarmed_031.png
+3 p- Unarmed_032.png
+C05
+L
+3 p- Unarmed_012.png
+3 p- Unarmed_013.png
+3 p- Unarmed_014.png
+C01
+3 p- Unarmed_015.png
+3 p- Unarmed_016.png
+C06
+3 p- Unarmed_001.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+5 p- Unarmed_000.png
+3 p- Unarmed_001.png
+3 p- Unarmed_002.png
+C49
+3 p- Unarmed_003.png
+3 p- Unarmed_004.png
+3 p- Unarmed_005.png
+3 p- Unarmed_006.png
+3 p- Unarmed_007.png
+3 p- Unarmed_008.png
+15 p- Unarmed_009.png
+3 p- Unarmed_010.png
+C05
+3 p- Unarmed_011.png
+L
+3 p- Unarmed_012.png
+3 p- Unarmed_013.png
+3 p- Unarmed_014.png
+C01
+3 p- Unarmed_015.png
+3 p- Unarmed_016.png
+C06
+3 p- Unarmed_001.png
+C0D
+~~~
+/// - Mode 6
+C07
+C03
+5 p- Unarmed_000.png
+3 p- Unarmed_001.png
+3 p- Unarmed_017.png
+3 p- Unarmed_018.png
+3 p- Unarmed_019.png
+C1B
+3 p- Unarmed_020.png
+3 p- Unarmed_021.png
+C7A
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_022.png
+3 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_022.png
+3 p- Unarmed_025.png
+3 p- Unarmed_023.png
+3 p- Unarmed_025.png
+3 p- Unarmed_022.png
+3 p- Unarmed_025.png
+3 p- Unarmed_023.png
+3 p- Unarmed_025.png
+15 p- Unarmed_023.png
+3 p- Unarmed_024.png
+3 p- Unarmed_026.png
+3 p- Unarmed_022.png
+3 p- Unarmed_027.png
+3 p- Unarmed_028.png
+C1B
+3 p- Unarmed_029.png
+3 p- Unarmed_030.png
+C1B
+3 p- Unarmed_031.png
+3 p- Unarmed_032.png
+C05
+L
+3 p- Unarmed_012.png
+3 p- Unarmed_013.png
+3 p- Unarmed_014.png
+C01
+3 p- Unarmed_015.png
+3 p- Unarmed_016.png
+C06
+3 p- Unarmed_001.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Unarmed_000.png
+C0E
+3 p- Unarmed_033.png
+3 p- Unarmed_034.png
+3 p- Unarmed_035.png
+3 p- Unarmed_036.png
+C01
+3 p- Unarmed_037.png
+3 p- Unarmed_038.png
+3 p- Unarmed_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Unarmed_000.png
+C0E
+3 p- Unarmed_033.png
+3 p- Unarmed_034.png
+3 p- Unarmed_035.png
+3 p- Unarmed_036.png
+C01
+3 p- Unarmed_037.png
+3 p- Unarmed_038.png
+3 p- Unarmed_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Unarmed_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+5 p- Unarmed_000.png
+3 p- Unarmed_001.png
+3 p- Unarmed_002.png
+C49
+3 p- Unarmed_003.png
+3 p- Unarmed_004.png
+3 p- Unarmed_005.png
+3 p- Unarmed_006.png
+3 p- Unarmed_007.png
+3 p- Unarmed_008.png
+15 p- Unarmed_009.png
+3 p- Unarmed_010.png
+C05
+3 p- Unarmed_011.png
+L
+3 p- Unarmed_012.png
+3 p- Unarmed_013.png
+3 p- Unarmed_014.png
+C01
+3 p- Unarmed_015.png
+3 p- Unarmed_016.png
+C06
+3 p- Unarmed_001.png
+C0D
+~~~
+/// - End of animation

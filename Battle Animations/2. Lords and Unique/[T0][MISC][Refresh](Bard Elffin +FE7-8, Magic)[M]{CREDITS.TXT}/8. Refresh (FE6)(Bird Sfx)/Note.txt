@@ -1,0 +1,11 @@
+Note: To port the sound effect, you have to import from Binding Blade:
+
+It's base sound is placed at 1FA and 1FB, you can always decide to select another empty space to use the sound effect instead and edit those adresses in the animation.
+
+In Binding Blade:
+EE = Harp Sound
+ED = Bird Tweet
+
+In this animation
+1FA = Harp Sound
+1FB = Bird Tweet

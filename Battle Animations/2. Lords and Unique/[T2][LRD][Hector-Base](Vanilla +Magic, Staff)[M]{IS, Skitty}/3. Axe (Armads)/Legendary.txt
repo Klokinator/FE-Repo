@@ -1,0 +1,229 @@
+#######################################################
+#09 グレートロード アルマーズ
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Legendary_000.png
+2 p- Legendary_001.png
+3 p- Legendary_002.png
+3 p- Legendary_003.png
+4 p- Legendary_004.png
+C42                               #Play long axe swinging SFE
+3 p- Legendary_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+1 p- Legendary_006.png
+2 p- Legendary_007.png
+5 p- Legendary_008.png
+3 p- Legendary_009.png
+3 p- Legendary_010.png
+2 p- Legendary_011.png
+13 p- Legendary_012.png
+3 p- Legendary_013.png
+5 p- Legendary_014.png
+C41                               #EMPTY FE7:086EB188
+2 p- Legendary_015.png
+2 p- Legendary_016.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Legendary_017.png
+2 p- Legendary_018.png
+1 p- Legendary_019.png
+1 p- Legendary_020.png
+2 p- Legendary_021.png
+3 p- Legendary_022.png
+3 p- Legendary_023.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Legendary_024.png
+4 p- Legendary_025.png
+4 p- Legendary_026.png
+3 p- Legendary_027.png
+2 p- Legendary_028.png
+1 p- Legendary_029.png
+C01                               #NOP
+2 p- Legendary_030.png
+2 p- Legendary_031.png
+6 p- Legendary_032.png
+2 p- Legendary_033.png
+2 p- Legendary_034.png
+2 p- Legendary_035.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Legendary_036.png
+C34                               #Play heavy stepping SFE
+2 p- Legendary_036.png
+4 p- Legendary_037.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Legendary_000.png
+4 p- Legendary_038.png
+4 p- Legendary_039.png
+C41                               #EMPTY FE7:086EB188
+3 p- Legendary_040.png
+3 p- Legendary_041.png
+4 p- Legendary_042.png
+6 p- Legendary_040.png
+8 p- Legendary_041.png
+C41                               #EMPTY FE7:086EB188
+3 p- Legendary_042.png
+3 p- Legendary_040.png
+6 p- Legendary_041.png
+8 p- Legendary_042.png
+4 p- Legendary_043.png
+4 p- Legendary_044.png
+C42                               #Play long axe swinging SFE
+4 p- Legendary_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+3 p- Legendary_006.png
+3 p- Legendary_007.png
+3 p- Legendary_008.png
+3 p- Legendary_009.png
+3 p- Legendary_010.png
+3 p- Legendary_011.png
+10 p- Legendary_012.png
+3 p- Legendary_045.png
+C41                               #EMPTY FE7:086EB188
+8 p- Legendary_046.png
+3 p- Legendary_047.png
+3 p- Legendary_048.png
+3 p- Legendary_049.png
+3 p- Legendary_050.png
+C30                               #Show dirt kicking (as from dashing forward) animation
+3 p- Legendary_051.png
+3 p- Legendary_052.png
+3 p- Legendary_053.png
+3 p- Legendary_054.png
+3 p- Legendary_055.png
+3 p- Legendary_056.png
+3 p- Legendary_057.png
+3 p- Legendary_058.png
+3 p- Legendary_059.png
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C42                               #Play long axe swinging SFE
+3 p- Legendary_060.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C0A                               #Critical hit
+3 p- Legendary_025.png
+3 p- Legendary_026.png
+3 p- Legendary_027.png
+3 p- Legendary_028.png
+1 p- Legendary_029.png
+C01                               #NOP
+3 p- Legendary_061.png
+15 p- Legendary_062.png
+C41                               #EMPTY FE7:086EB188
+4 p- Legendary_063.png
+4 p- Legendary_064.png
+C41                               #EMPTY FE7:086EB188
+4 p- Legendary_065.png
+3 p- Legendary_066.png
+4 p- Legendary_067.png
+5 p- Legendary_068.png
+12 p- Legendary_004.png
+3 p- Legendary_003.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Legendary_002.png
+3 p- Legendary_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Legendary_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Legendary_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Legendary_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Legendary_069.png
+1 p- Legendary_070.png
+C01                               #NOP
+3 p- Legendary_069.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Legendary_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Legendary_069.png
+1 p- Legendary_070.png
+C01                               #NOP
+3 p- Legendary_069.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Legendary_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Legendary_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Legendary_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Legendary_000.png
+2 p- Legendary_001.png
+3 p- Legendary_002.png
+3 p- Legendary_003.png
+4 p- Legendary_004.png
+C42                               #Play long axe swinging SFE
+3 p- Legendary_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+1 p- Legendary_006.png
+2 p- Legendary_007.png
+5 p- Legendary_008.png
+3 p- Legendary_009.png
+3 p- Legendary_010.png
+2 p- Legendary_011.png
+13 p- Legendary_012.png
+3 p- Legendary_013.png
+5 p- Legendary_014.png
+C41                               #EMPTY FE7:086EB188
+2 p- Legendary_015.png
+2 p- Legendary_016.png
+1 p- Legendary_017.png
+2 p- Legendary_018.png
+1 p- Legendary_019.png
+1 p- Legendary_020.png
+2 p- Legendary_021.png
+3 p- Legendary_022.png
+3 p- Legendary_023.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Legendary_024.png
+4 p- Legendary_025.png
+4 p- Legendary_026.png
+3 p- Legendary_027.png
+2 p- Legendary_028.png
+1 p- Legendary_029.png
+C01                               #NOP
+2 p- Legendary_030.png
+2 p- Legendary_031.png
+6 p- Legendary_032.png
+2 p- Legendary_033.png
+2 p- Legendary_034.png
+2 p- Legendary_035.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Legendary_035.png
+C34                               #Play heavy stepping SFE
+2 p- Legendary_036.png
+4 p- Legendary_037.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

@@ -1,0 +1,64 @@
+#######################################################
+#
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 3               #Melee Critical Animation
+4 p- Unarmed_000.png
+C00                               #NOP
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Unarmed_000.png
+C00                               #NOP
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Unarmed_000.png
+C00                               #NOP
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+4 p- Unarmed_000.png
+5 p- Unarmed_001.png
+5 p- Unarmed_002.png
+5 p- Unarmed_003.png
+C01                               #NOP
+5 p- Unarmed_004.png
+5 p- Unarmed_005.png
+5 p- Unarmed_006.png
+C0D                               #End of dodge animation. preceeded by 0x06
+5 p- Unarmed_000.png
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+4 p- Unarmed_000.png
+5 p- Unarmed_000.png
+5 p- Unarmed_001.png
+5 p- Unarmed_002.png
+5 p- Unarmed_003.png
+C01                               #NOP
+5 p- Unarmed_004.png
+5 p- Unarmed_005.png
+5 p- Unarmed_006.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+4 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+4 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+4 p- Unarmed_000.png
+C00                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+4 p- Unarmed_000.png
+C00                               #NOP
+~~~
+/// - End of animation

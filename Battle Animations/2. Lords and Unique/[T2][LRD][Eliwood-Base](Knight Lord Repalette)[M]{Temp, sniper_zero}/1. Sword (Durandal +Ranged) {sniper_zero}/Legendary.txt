@@ -1,0 +1,336 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Legendary_000.png
+3 p- Legendary_001.png
+7 p- Legendary_002.png
+4 p- Legendary_003.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+6 p- Legendary_004.png
+6 p- Legendary_005.png
+2 p- Legendary_006.png
+2 p- Legendary_007.png
+3 p- Legendary_008.png
+2 p- Legendary_009.png
+2 p- Legendary_010.png
+9 p- Legendary_011.png
+2 p- Legendary_012.png
+2 p- Legendary_013.png
+2 p- Legendary_014.png
+8 p- Legendary_015.png
+C37                               #Play sword clicking SFE
+10 p- Legendary_016.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+5 p- Legendary_017.png
+3 p- Legendary_018.png
+1 p- Legendary_019.png
+1 p- Legendary_020.png
+2 p- Legendary_021.png
+2 p- Legendary_022.png
+1 p- Legendary_023.png
+1 p- Legendary_024.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Legendary_025.png
+6 p- Legendary_026.png
+4 p- Legendary_027.png
+5 p- Legendary_028.png
+5 p- Legendary_029.png
+3 p- Legendary_030.png
+1 p- Legendary_031.png
+C01                               #NOP
+4 p- Legendary_032.png
+C41                               #EMPTY
+1 p- Legendary_033.png
+1 p- Legendary_034.png
+1 p- Legendary_035.png
+1 p- Legendary_036.png
+C41                               #EMPTY
+1 p- Legendary_037.png
+1 p- Legendary_038.png
+1 p- Legendary_039.png
+1 p- Legendary_040.png
+C41                               #EMPTY
+1 p- Legendary_041.png
+1 p- Legendary_042.png
+1 p- Legendary_043.png
+1 p- Legendary_044.png
+C41                               #EMPTY
+1 p- Legendary_045.png
+1 p- Legendary_046.png
+1 p- Legendary_047.png
+1 p- Legendary_048.png
+1 p- Legendary_049.png
+2 p- Legendary_050.png
+2 p- Legendary_051.png
+1 p- Legendary_052.png
+8 p- Legendary_053.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Legendary_054.png
+1 p- Legendary_055.png
+4 p- Legendary_056.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Legendary_000.png
+3 p- Legendary_057.png
+C45                               #FE7:Play horse neighing SFE
+2 p- Legendary_058.png
+2 p- Legendary_059.png
+5 p- Legendary_060.png
+9 p- Legendary_061.png
+5 p- Legendary_062.png
+5 p- Legendary_060.png
+4 p- Legendary_062.png
+5 p- Legendary_061.png
+3 p- Legendary_062.png
+12 p- Legendary_060.png
+4 p- Legendary_057.png
+10 p- Legendary_000.png
+3 p- Legendary_001.png
+7 p- Legendary_002.png
+4 p- Legendary_003.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+6 p- Legendary_004.png
+6 p- Legendary_005.png
+2 p- Legendary_006.png
+2 p- Legendary_007.png
+3 p- Legendary_008.png
+2 p- Legendary_009.png
+2 p- Legendary_010.png
+9 p- Legendary_011.png
+2 p- Legendary_012.png
+2 p- Legendary_013.png
+2 p- Legendary_014.png
+8 p- Legendary_015.png
+C37                               #Play sword clicking SFE
+10 p- Legendary_016.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+5 p- Legendary_017.png
+C14                               #Heavy vibration of screen
+2 p- Legendary_063.png
+2 p- Legendary_064.png
+2 p- Legendary_065.png
+2 p- Legendary_066.png
+2 p- Legendary_067.png
+2 p- Legendary_068.png
+2 p- Legendary_069.png
+2 p- Legendary_070.png
+2 p- Legendary_071.png
+2 p- Legendary_072.png
+2 p- Legendary_073.png
+2 p- Legendary_074.png
+2 p- Legendary_075.png
+2 p- Legendary_076.png
+2 p- Legendary_077.png
+C14                               #Heavy vibration of screen
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- Legendary_078.png
+3 p- Legendary_079.png
+5 p- Legendary_080.png
+C14                               #Heavy vibration of screen
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- Legendary_081.png
+3 p- Legendary_082.png
+5 p- Legendary_083.png
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+2 p- Legendary_084.png
+1 p- Legendary_085.png
+1 p- Legendary_086.png
+1 p- Legendary_085.png
+C01                               #NOP
+2 p- Legendary_087.png
+2 p- Legendary_088.png
+2 p- Legendary_089.png
+2 p- Legendary_090.png
+2 p- Legendary_091.png
+2 p- Legendary_092.png
+2 p- Legendary_093.png
+2 p- Legendary_094.png
+C14                               #Heavy vibration of screen
+C34                               #Play heavy stepping SFE
+3 p- Legendary_095.png
+3 p- Legendary_096.png
+3 p- Legendary_097.png
+3 p- Legendary_098.png
+3 p- Legendary_099.png
+8 p- Legendary_053.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Legendary_054.png
+1 p- Legendary_055.png
+4 p- Legendary_056.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Legendary_000.png
+3 p- Legendary_001.png
+7 p- Legendary_002.png
+4 p- Legendary_003.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+6 p- Legendary_004.png
+6 p- Legendary_005.png
+2 p- Legendary_006.png
+2 p- Legendary_007.png
+3 p- Legendary_008.png
+2 p- Legendary_009.png
+2 p- Legendary_010.png
+9 p- Legendary_011.png
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+9 p- Legendary_011.png
+2 p- Legendary_010.png
+2 p- Legendary_009.png
+3 p- Legendary_008.png
+2 p- Legendary_007.png
+2 p- Legendary_006.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Legendary_005.png
+6 p- Legendary_004.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Legendary_000.png
+3 p- Legendary_001.png
+7 p- Legendary_002.png
+4 p- Legendary_003.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+6 p- Legendary_004.png
+6 p- Legendary_005.png
+2 p- Legendary_006.png
+2 p- Legendary_007.png
+3 p- Legendary_008.png
+2 p- Legendary_009.png
+2 p- Legendary_010.png
+9 p- Legendary_011.png
+2 p- Legendary_100.png
+2 p- Legendary_011.png
+2 p- Legendary_100.png
+2 p- Legendary_011.png
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+9 p- Legendary_011.png
+2 p- Legendary_010.png
+2 p- Legendary_009.png
+3 p- Legendary_008.png
+2 p- Legendary_007.png
+2 p- Legendary_006.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Legendary_005.png
+6 p- Legendary_004.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Legendary_000.png
+3 p- Legendary_101.png
+1 p- Legendary_102.png
+C01                               #NOP
+3 p- Legendary_101.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Legendary_000.png
+3 p- Legendary_101.png
+1 p- Legendary_102.png
+C01                               #NOP
+3 p- Legendary_101.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Legendary_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Legendary_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Legendary_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Legendary_000.png
+3 p- Legendary_001.png
+7 p- Legendary_002.png
+4 p- Legendary_003.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+6 p- Legendary_004.png
+6 p- Legendary_005.png
+2 p- Legendary_006.png
+2 p- Legendary_007.png
+3 p- Legendary_008.png
+2 p- Legendary_009.png
+2 p- Legendary_010.png
+9 p- Legendary_011.png
+2 p- Legendary_012.png
+2 p- Legendary_013.png
+2 p- Legendary_014.png
+8 p- Legendary_015.png
+C37                               #Play sword clicking SFE
+10 p- Legendary_016.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+5 p- Legendary_017.png
+3 p- Legendary_018.png
+1 p- Legendary_019.png
+1 p- Legendary_020.png
+2 p- Legendary_021.png
+2 p- Legendary_022.png
+1 p- Legendary_023.png
+1 p- Legendary_024.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+3 p- Legendary_103.png
+6 p- Legendary_104.png
+4 p- Legendary_105.png
+5 p- Legendary_106.png
+5 p- Legendary_107.png
+3 p- Legendary_108.png
+1 p- Legendary_109.png
+C01                               #NOP
+4 p- Legendary_032.png
+C41                               #EMPTY
+1 p- Legendary_033.png
+1 p- Legendary_034.png
+1 p- Legendary_035.png
+1 p- Legendary_036.png
+C41                               #EMPTY
+1 p- Legendary_037.png
+1 p- Legendary_038.png
+1 p- Legendary_039.png
+1 p- Legendary_040.png
+C41                               #EMPTY
+1 p- Legendary_041.png
+1 p- Legendary_042.png
+1 p- Legendary_043.png
+1 p- Legendary_044.png
+C41                               #EMPTY
+1 p- Legendary_045.png
+1 p- Legendary_046.png
+1 p- Legendary_047.png
+1 p- Legendary_048.png
+C41                               #EMPTY
+1 p- Legendary_049.png
+2 p- Legendary_050.png
+2 p- Legendary_051.png
+1 p- Legendary_052.png
+8 p- Legendary_053.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Legendary_054.png
+1 p- Legendary_055.png
+4 p- Legendary_056.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

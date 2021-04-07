@@ -1,0 +1,135 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+3 p- Axe_000.png
+3 p- Axe_001.png
+3 p- Axe_002.png
+3 p- Axe_003.png
+3 p- Axe_004.png
+3 p- Axe_005.png
+3 p- Axe_006.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                                     #Normal hit
+C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+8 p- Axe_007.png
+3 p- Axe_008.png
+3 p- Axe_005.png
+3 p- Axe_004.png
+3 p- Axe_003.png
+3 p- Axe_002.png
+3 p- Axe_001.png
+3 p- Axe_000.png
+3 p- Axe_009.png
+C01                                     #NOP
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+3 p- Axe_000.png
+15 p- Axe_001.png
+3 p- Axe_002.png
+3 p- Axe_003.png
+3 p- Axe_004.png
+3 p- Axe_005.png
+3 p- Axe_006.png
+C46                                     #Play dropped axe crashing onto ground SFE
+C14                                     #Heavy vibration of screen
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                                     #Normal hit
+C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+8 p- Axe_007.png
+3 p- Axe_006.png
+3 p- Axe_005.png
+3 p- Axe_004.png
+3 p- Axe_003.png
+3 p- Axe_002.png
+3 p- Axe_001.png
+3 p- Axe_000.png
+3 p- Axe_009.png
+C01                                     #NOP
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+3 p- Axe_009.png
+C05                                     #Call spell associated with equipped weapon
+3 p- Axe_009.png
+C01                                     #NOP
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+3 p- Axe_009.png
+C05                                     #Call spell associated with equipped weapon
+3 p- Axe_009.png
+C01                                     #NOP
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+5 p- Axe_010.png
+3 p- Axe_009.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+C01                                     #NOP
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+3 p- Axe_009.png
+5 p- Axe_010.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+5 p- Axe_010.png
+C01                                     #NOP
+9 p- Axe_010.png
+3 p- Axe_009.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+3 p- Axe_009.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #Standing motions
+3 p- Axe_009.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+3 p- Axe_009.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+3 p- Axe_000.png
+3 p- Axe_001.png
+3 p- Axe_002.png
+3 p- Axe_003.png
+3 p- Axe_004.png
+3 p- Axe_005.png
+3 p- Axe_006.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+8 p- Axe_007.png
+3 p- Axe_006.png
+3 p- Axe_005.png
+3 p- Axe_004.png
+3 p- Axe_003.png
+3 p- Axe_002.png
+3 p- Axe_001.png
+3 p- Axe_000.png
+3 p- Axe_009.png
+C01                                     #NOP
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

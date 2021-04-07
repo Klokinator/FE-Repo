@@ -1,0 +1,229 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Armads_000.png
+2 p- Armads_001.png
+3 p- Armads_002.png
+3 p- Armads_003.png
+4 p- Armads_004.png
+C42                               #Play long axe swinging SFE
+3 p- Armads_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+1 p- Armads_006.png
+2 p- Armads_007.png
+5 p- Armads_008.png
+3 p- Armads_009.png
+3 p- Armads_010.png
+2 p- Armads_011.png
+13 p- Armads_012.png
+3 p- Armads_013.png
+5 p- Armads_014.png
+C41                               #EMPTY FE7:086EB188
+2 p- Armads_015.png
+2 p- Armads_016.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Armads_017.png
+2 p- Armads_018.png
+1 p- Armads_019.png
+1 p- Armads_020.png
+2 p- Armads_021.png
+3 p- Armads_022.png
+3 p- Armads_023.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Armads_024.png
+4 p- Armads_025.png
+4 p- Armads_026.png
+3 p- Armads_027.png
+2 p- Armads_028.png
+1 p- Armads_029.png
+C01                               #NOP
+2 p- Armads_030.png
+2 p- Armads_031.png
+6 p- Armads_032.png
+2 p- Armads_033.png
+2 p- Armads_034.png
+2 p- Armads_035.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Armads_036.png
+C34                               #Play heavy stepping SFE
+2 p- Armads_036.png
+4 p- Armads_037.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Armads_000.png
+4 p- Armads_038.png
+4 p- Armads_039.png
+C41                               #EMPTY FE7:086EB188
+3 p- Armads_040.png
+3 p- Armads_041.png
+4 p- Armads_042.png
+6 p- Armads_040.png
+8 p- Armads_041.png
+C41                               #EMPTY FE7:086EB188
+3 p- Armads_042.png
+3 p- Armads_040.png
+6 p- Armads_041.png
+8 p- Armads_042.png
+4 p- Armads_043.png
+4 p- Armads_044.png
+C42                               #Play long axe swinging SFE
+4 p- Armads_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+3 p- Armads_006.png
+3 p- Armads_007.png
+3 p- Armads_008.png
+3 p- Armads_009.png
+3 p- Armads_010.png
+3 p- Armads_011.png
+10 p- Armads_012.png
+3 p- Armads_045.png
+C41                               #EMPTY FE7:086EB188
+8 p- Armads_046.png
+3 p- Armads_047.png
+3 p- Armads_048.png
+3 p- Armads_049.png
+3 p- Armads_050.png
+C30                               #Show dirt kicking (as from dashing forward) animation
+3 p- Armads_051.png
+3 p- Armads_052.png
+3 p- Armads_053.png
+3 p- Armads_054.png
+3 p- Armads_055.png
+3 p- Armads_056.png
+3 p- Armads_057.png
+3 p- Armads_058.png
+3 p- Armads_059.png
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C42                               #Play long axe swinging SFE
+3 p- Armads_060.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C0A                               #Critical hit
+3 p- Armads_025.png
+3 p- Armads_026.png
+3 p- Armads_027.png
+3 p- Armads_028.png
+1 p- Armads_029.png
+C01                               #NOP
+3 p- Armads_061.png
+15 p- Armads_062.png
+C41                               #EMPTY FE7:086EB188
+4 p- Armads_063.png
+4 p- Armads_064.png
+C41                               #EMPTY FE7:086EB188
+4 p- Armads_065.png
+3 p- Armads_066.png
+4 p- Armads_067.png
+5 p- Armads_068.png
+12 p- Armads_004.png
+3 p- Armads_003.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Armads_002.png
+3 p- Armads_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Armads_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Armads_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Armads_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Armads_069.png
+1 p- Armads_070.png
+C01                               #NOP
+3 p- Armads_069.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Armads_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Armads_069.png
+1 p- Armads_070.png
+C01                               #NOP
+3 p- Armads_069.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Armads_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Armads_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Armads_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Armads_000.png
+2 p- Armads_001.png
+3 p- Armads_002.png
+3 p- Armads_003.png
+4 p- Armads_004.png
+C42                               #Play long axe swinging SFE
+3 p- Armads_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+1 p- Armads_006.png
+2 p- Armads_007.png
+5 p- Armads_008.png
+3 p- Armads_009.png
+3 p- Armads_010.png
+2 p- Armads_011.png
+13 p- Armads_012.png
+3 p- Armads_013.png
+5 p- Armads_014.png
+C41                               #EMPTY FE7:086EB188
+2 p- Armads_015.png
+2 p- Armads_016.png
+1 p- Armads_017.png
+2 p- Armads_018.png
+1 p- Armads_019.png
+1 p- Armads_020.png
+2 p- Armads_021.png
+3 p- Armads_022.png
+3 p- Armads_023.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Armads_024.png
+4 p- Armads_025.png
+4 p- Armads_026.png
+3 p- Armads_027.png
+2 p- Armads_028.png
+1 p- Armads_029.png
+C01                               #NOP
+2 p- Armads_030.png
+2 p- Armads_031.png
+6 p- Armads_032.png
+2 p- Armads_033.png
+2 p- Armads_034.png
+2 p- Armads_035.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Armads_035.png
+C34                               #Play heavy stepping SFE
+2 p- Armads_036.png
+4 p- Armads_037.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

@@ -1,0 +1,188 @@
+/// - Mode 1
+C03
+C07
+1 p- Bow Frame Data_000.png
+3 p- Bow Frame Data_001.png
+4 p- Bow Frame Data_002.png
+2 p- Bow Frame Data_003.png
+4 p- Bow Frame Data_004.png
+2 p- Bow Frame Data_005.png
+3 p- Bow Frame Data_006.png
+3 p- Bow Frame Data_007.png
+4 p- Bow Frame Data_008.png
+7 p- Bow Frame Data_009.png
+C19
+3 p- Bow Frame Data_010.png
+15 p- Bow Frame Data_011.png
+2 p- Bow Frame Data_012.png
+C05
+4 p- Bow Frame Data_013.png
+1 p- Bow Frame Data_014.png
+C01
+C06
+3 p- Bow Frame Data_015.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Bow Frame Data_000.png
+3 p- Bow Frame Data_001.png
+4 p- Bow Frame Data_002.png
+2 p- Bow Frame Data_003.png
+4 p- Bow Frame Data_004.png
+C38
+2 p- Bow Frame Data_016.png
+2 p- Bow Frame Data_017.png
+2 p- Bow Frame Data_018.png
+2 p- Bow Frame Data_019.png
+C38
+2 p- Bow Frame Data_020.png
+2 p- Bow Frame Data_021.png
+2 p- Bow Frame Data_022.png
+2 p- Bow Frame Data_023.png
+C38
+2 p- Bow Frame Data_024.png
+2 p- Bow Frame Data_025.png
+2 p- Bow Frame Data_026.png
+2 p- Bow Frame Data_027.png
+2 p- Bow Frame Data_005.png
+3 p- Bow Frame Data_006.png
+3 p- Bow Frame Data_007.png
+4 p- Bow Frame Data_008.png
+7 p- Bow Frame Data_009.png
+C19
+3 p- Bow Frame Data_010.png
+12 p- Bow Frame Data_011.png
+2 p- Bow Frame Data_012.png
+C05
+4 p- Bow Frame Data_013.png
+1 p- Bow Frame Data_014.png
+C0D
+C06
+3 p- Bow Frame Data_015.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Bow Frame Data_000.png
+3 p- Bow Frame Data_001.png
+4 p- Bow Frame Data_002.png
+2 p- Bow Frame Data_003.png
+4 p- Bow Frame Data_004.png
+2 p- Bow Frame Data_005.png
+3 p- Bow Frame Data_006.png
+3 p- Bow Frame Data_007.png
+4 p- Bow Frame Data_008.png
+7 p- Bow Frame Data_009.png
+C19
+3 p- Bow Frame Data_010.png
+15 p- Bow Frame Data_011.png
+2 p- Bow Frame Data_012.png
+C05
+4 p- Bow Frame Data_013.png
+1 p- Bow Frame Data_014.png
+C01
+C06
+3 p- Bow Frame Data_015.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Bow Frame Data_000.png
+3 p- Bow Frame Data_001.png
+4 p- Bow Frame Data_002.png
+2 p- Bow Frame Data_003.png
+4 p- Bow Frame Data_004.png
+C38
+2 p- Bow Frame Data_016.png
+2 p- Bow Frame Data_017.png
+2 p- Bow Frame Data_018.png
+2 p- Bow Frame Data_019.png
+C38
+2 p- Bow Frame Data_020.png
+2 p- Bow Frame Data_021.png
+2 p- Bow Frame Data_022.png
+2 p- Bow Frame Data_023.png
+C38
+2 p- Bow Frame Data_024.png
+2 p- Bow Frame Data_025.png
+2 p- Bow Frame Data_026.png
+2 p- Bow Frame Data_027.png
+2 p- Bow Frame Data_005.png
+3 p- Bow Frame Data_006.png
+3 p- Bow Frame Data_007.png
+4 p- Bow Frame Data_008.png
+7 p- Bow Frame Data_009.png
+C19
+3 p- Bow Frame Data_010.png
+12 p- Bow Frame Data_011.png
+2 p- Bow Frame Data_012.png
+C05
+4 p- Bow Frame Data_013.png
+1 p- Bow Frame Data_014.png
+C01
+C06
+3 p- Bow Frame Data_015.png
+C0D
+~~~
+/// - Mode 7
+C18
+1 p- Bow Frame Data_000.png
+C0E
+3 p- Bow Frame Data_028.png
+1 p- Bow Frame Data_029.png
+C01
+3 p- Bow Frame Data_028.png
+C0D
+~~~
+/// - Mode 8
+C18
+1 p- Bow Frame Data_000.png
+C0E
+3 p- Bow Frame Data_028.png
+1 p- Bow Frame Data_029.png
+C01
+3 p- Bow Frame Data_028.png
+C0D
+~~~
+/// - Mode 9
+1 p- Bow Frame Data_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Bow Frame Data_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Bow Frame Data_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Bow Frame Data_000.png
+3 p- Bow Frame Data_001.png
+4 p- Bow Frame Data_002.png
+2 p- Bow Frame Data_003.png
+4 p- Bow Frame Data_004.png
+2 p- Bow Frame Data_005.png
+3 p- Bow Frame Data_006.png
+3 p- Bow Frame Data_007.png
+4 p- Bow Frame Data_008.png
+7 p- Bow Frame Data_009.png
+C19
+3 p- Bow Frame Data_010.png
+15 p- Bow Frame Data_011.png
+2 p- Bow Frame Data_012.png
+C05
+4 p- Bow Frame Data_013.png
+1 p- Bow Frame Data_014.png
+C01
+C06
+3 p- Bow Frame Data_015.png
+C0D
+~~~
+/// - End of animation

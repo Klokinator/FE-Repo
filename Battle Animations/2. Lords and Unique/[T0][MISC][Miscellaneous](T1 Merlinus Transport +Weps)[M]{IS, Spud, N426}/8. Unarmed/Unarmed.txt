@@ -1,0 +1,36 @@
+#######################################################
+#59 輸送隊 Item
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+4 p- Unarmed_000.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+4 p- Unarmed_000.png
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Unarmed_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Unarmed_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+4 p- Unarmed_000.png
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+4 p- Unarmed_000.png
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+4 p- Unarmed_000.png
+~~~
+/// - Mode 10               #standing motions?
+4 p- Unarmed_000.png
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+4 p- Unarmed_000.png
+~~~
+/// - Mode 12               #Attack Missed Animation
+4 p- Unarmed_000.png
+~~~
+/// - End of animation

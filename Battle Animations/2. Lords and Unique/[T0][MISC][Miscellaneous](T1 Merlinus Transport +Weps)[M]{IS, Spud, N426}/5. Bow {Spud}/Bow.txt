@@ -1,0 +1,212 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Bow_000.png
+12 p- Bow_001.png
+6 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+32 p- Bow_006.png
+18 p- Bow_006.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+2 p- Bow_007.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Bow_008.png
+C01                                     #NOP
+15 p- Bow_009.png
+4 p- Bow_010.png
+5 p- Bow_011.png
+4 p- Bow_012.png
+8 p- Bow_013.png
+15 p- Bow_014.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+8 p- Bow_006.png
+4 p- Bow_005.png
+4 p- Bow_004.png
+4 p- Bow_003.png
+4 p- Bow_002.png
+4 p- Bow_001.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+4 p- Bow_000.png
+8 p- Bow_015.png
+C45                                     #FE7:Play horse neighing SFE
+30 p- Bow_016.png
+8 p- Bow_015.png
+8 p- Bow_000.png
+12 p- Bow_001.png
+6 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+32 p- Bow_006.png
+18 p- Bow_006.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+2 p- Bow_007.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Bow_008.png
+C01                                     #NOP
+15 p- Bow_009.png
+4 p- Bow_010.png
+5 p- Bow_011.png
+4 p- Bow_012.png
+8 p- Bow_013.png
+15 p- Bow_014.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+8 p- Bow_006.png
+4 p- Bow_005.png
+4 p- Bow_004.png
+4 p- Bow_003.png
+4 p- Bow_002.png
+4 p- Bow_001.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Bow_000.png
+12 p- Bow_001.png
+6 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+32 p- Bow_006.png
+18 p- Bow_006.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+2 p- Bow_007.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Bow_008.png
+C01                                     #NOP
+15 p- Bow_009.png
+4 p- Bow_010.png
+5 p- Bow_011.png
+4 p- Bow_012.png
+8 p- Bow_013.png
+15 p- Bow_014.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+8 p- Bow_006.png
+4 p- Bow_005.png
+4 p- Bow_004.png
+4 p- Bow_003.png
+4 p- Bow_002.png
+4 p- Bow_001.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+4 p- Bow_000.png
+8 p- Bow_015.png
+C45                                     #FE7:Play horse neighing SFE
+30 p- Bow_016.png
+8 p- Bow_015.png
+8 p- Bow_000.png
+12 p- Bow_001.png
+6 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+32 p- Bow_006.png
+18 p- Bow_006.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+2 p- Bow_007.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Bow_008.png
+C01                                     #NOP
+15 p- Bow_009.png
+4 p- Bow_010.png
+5 p- Bow_011.png
+4 p- Bow_012.png
+8 p- Bow_013.png
+15 p- Bow_014.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+8 p- Bow_006.png
+4 p- Bow_005.png
+4 p- Bow_004.png
+4 p- Bow_003.png
+4 p- Bow_002.png
+4 p- Bow_001.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C18                                     #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- Bow_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Bow_017.png
+2 p- Bow_018.png
+1 p- Bow_019.png
+C01                                     #NOP
+2 p- Bow_018.png
+2 p- Bow_017.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C18                                     #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- Bow_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Bow_017.png
+2 p- Bow_018.png
+1 p- Bow_019.png
+C01                                     #NOP
+2 p- Bow_018.png
+2 p- Bow_017.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Bow_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+1 p- Bow_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Bow_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+8 p- Bow_000.png
+12 p- Bow_001.png
+6 p- Bow_002.png
+4 p- Bow_003.png
+4 p- Bow_004.png
+4 p- Bow_005.png
+32 p- Bow_006.png
+18 p- Bow_006.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+2 p- Bow_007.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Bow_008.png
+C01                                     #NOP
+15 p- Bow_009.png
+4 p- Bow_010.png
+5 p- Bow_011.png
+4 p- Bow_012.png
+8 p- Bow_013.png
+15 p- Bow_014.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+8 p- Bow_006.png
+4 p- Bow_005.png
+4 p- Bow_004.png
+4 p- Bow_003.png
+4 p- Bow_002.png
+4 p- Bow_001.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

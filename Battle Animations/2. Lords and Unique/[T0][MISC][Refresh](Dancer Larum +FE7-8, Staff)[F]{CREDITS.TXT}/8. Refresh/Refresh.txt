@@ -1,0 +1,140 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+C46                               #Refresh dropped axe crashing onto ground SFE
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+C45                               #FE7:Refresh horse neighing SFE
+5 p- Refresh_015.png
+C05                               #Call spell associated with equipped weapon
+1 p- Refresh_016.png
+C01                               #NOP
+5 p- Refresh_017.png
+5 p- Refresh_018.png
+3 p- Refresh_019.png
+6 p- Refresh_020.png
+10 p- Refresh_021.png
+40 p- Refresh_022.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+C46                               #Refresh dropped axe crashing onto ground SFE
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+C45                               #FE7:Refresh horse neighing SFE
+5 p- Refresh_015.png
+C05                               #Call spell associated with equipped weapon
+1 p- Refresh_016.png
+C01                               #NOP
+5 p- Refresh_017.png
+5 p- Refresh_018.png
+3 p- Refresh_019.png
+6 p- Refresh_020.png
+10 p- Refresh_021.png
+40 p- Refresh_022.png
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Refresh_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Refresh_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Refresh_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Refresh_023.png
+1 p- Refresh_024.png
+C01                               #NOP
+3 p- Refresh_023.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Refresh_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Refresh_023.png
+1 p- Refresh_024.png
+C01                               #NOP
+3 p- Refresh_023.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+C46                               #Refresh dropped axe crashing onto ground SFE
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+C45                               #FE7:Refresh horse neighing SFE
+5 p- Refresh_015.png
+C05                               #Call spell associated with equipped weapon
+1 p- Refresh_016.png
+C01                               #NOP
+5 p- Refresh_017.png
+5 p- Refresh_018.png
+3 p- Refresh_019.png
+6 p- Refresh_020.png
+10 p- Refresh_021.png
+40 p- Refresh_022.png
+~~~
+/// - End of animation

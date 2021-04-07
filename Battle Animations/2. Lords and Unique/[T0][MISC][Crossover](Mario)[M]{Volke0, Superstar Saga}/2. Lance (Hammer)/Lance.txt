@@ -1,0 +1,190 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+3 p- Lance_000.png
+3 p- Lance_001.png
+3 p- Lance_002.png
+3 p- Lance_003.png
+10 p- Lance_002.png
+3 p- Lance_004.png
+1 p- Lance_005.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Lance_006.png
+3 p- Lance_007.png
+15 p- Lance_008.png
+3 p- Lance_004.png
+3 p- Lance_009.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+3 p- Lance_010.png
+3 p- Lance_011.png
+3 p- Lance_012.png
+3 p- Lance_010.png
+3 p- Lance_011.png
+3 p- Lance_012.png
+3 p- Lance_010.png
+3 p- Lance_011.png
+3 p- Lance_012.png
+3 p- Lance_011.png
+3 p- Lance_013.png
+3 p- Lance_014.png
+3 p- Lance_015.png
+3 p- Lance_016.png
+3 p- Lance_015.png
+10 p- Lance_014.png
+3 p- Lance_017.png
+3 p- Lance_018.png
+3 p- Lance_019.png
+3 p- Lance_020.png
+20 p- Lance_019.png
+3 p- Lance_000.png
+3 p- Lance_001.png
+3 p- Lance_002.png
+3 p- Lance_003.png
+10 p- Lance_002.png
+3 p- Lance_004.png
+1 p- Lance_005.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Lance_006.png
+3 p- Lance_007.png
+15 p- Lance_008.png
+3 p- Lance_004.png
+3 p- Lance_009.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+3 p- Lance_009.png
+3 p- Lance_021.png
+3 p- Lance_022.png
+3 p- Lance_023.png
+3 p- Lance_024.png
+3 p- Lance_025.png
+3 p- Lance_026.png
+3 p- Lance_027.png
+1 p- Lance_028.png
+1 p- Lance_029.png
+C42                               #Play long axe swinging SFE
+C05                               #Call spell associated with equipped weapon
+10 p- Lance_030.png
+3 p- Lance_009.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+3 p- Lance_009.png
+3 p- Lance_010.png
+3 p- Lance_011.png
+3 p- Lance_012.png
+3 p- Lance_010.png
+3 p- Lance_011.png
+3 p- Lance_012.png
+3 p- Lance_010.png
+3 p- Lance_011.png
+3 p- Lance_012.png
+3 p- Lance_011.png
+3 p- Lance_013.png
+3 p- Lance_014.png
+3 p- Lance_015.png
+3 p- Lance_016.png
+3 p- Lance_015.png
+10 p- Lance_014.png
+3 p- Lance_017.png
+3 p- Lance_018.png
+3 p- Lance_019.png
+3 p- Lance_020.png
+20 p- Lance_019.png
+3 p- Lance_021.png
+3 p- Lance_022.png
+3 p- Lance_023.png
+3 p- Lance_024.png
+3 p- Lance_025.png
+3 p- Lance_026.png
+3 p- Lance_027.png
+1 p- Lance_028.png
+1 p- Lance_029.png
+C42                               #Play long axe swinging SFE
+C05                               #Call spell associated with equipped weapon
+10 p- Lance_030.png
+3 p- Lance_009.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+3 p- Lance_009.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Lance_031.png
+3 p- Lance_032.png
+3 p- Lance_033.png
+C01                               #NOP
+3 p- Lance_034.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+3 p- Lance_009.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Lance_031.png
+3 p- Lance_032.png
+3 p- Lance_033.png
+C01                               #NOP
+3 p- Lance_034.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+3 p- Lance_009.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+3 p- Lance_009.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+3 p- Lance_009.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+3 p- Lance_000.png
+3 p- Lance_001.png
+3 p- Lance_002.png
+3 p- Lance_003.png
+10 p- Lance_002.png
+3 p- Lance_004.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+1 p- Lance_005.png
+2 p- Lance_035.png
+20 p- Lance_036.png
+3 p- Lance_004.png
+3 p- Lance_009.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

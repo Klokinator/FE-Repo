@@ -1,0 +1,19 @@
+Palettes for Giorno animation by SurfingKyogre:
+
+5553FF7F9E631F4B7A221D2FFF4F361E117F887A44457F7E9B75155D924CA514
+- Vanilla, anime colors (pink suit, blue brooches and shoes)
+
+5553FF7F9E631F4B7A221D2FFF4F361E7E2D19006F0C917E8C750859844CA514
+- Based on manga colors (Blue suit, red brooches and shoes)
+
+5553FF7F9E631F4B7A221D2FFF4F361E892A071E4619AE354C29E818E71CA514
+- Based on anime epilogue colors (Black suit, green brooches and shoes)
+
+5553FF7F9E631F4B7A221D2FFF4F361E9453ED36A6199D23DA06350A6E05A514
+- Based on DIO's manga colors (Yellow, golden suit, green brooches and shoes)
+
+5553FF7F9E631F4B7A221D2FFF4F361ECE396B2D0821DD7B796F935A8B3DA514
+- Based on Bruno's anime colors (White suit, black brooches and shoes)
+
+5553FF7F9E631F4B7A224A29AD35E71C7726D3154D112B4FC646262E8121A514
+- Based on young Giorno's anime colors (Turquoise, green suit, brown brooches and shoes, black hair)

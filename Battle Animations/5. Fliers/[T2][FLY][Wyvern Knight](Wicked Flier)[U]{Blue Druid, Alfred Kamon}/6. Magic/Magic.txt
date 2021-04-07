@@ -1,0 +1,207 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Magic_000.png
+C25                                     #Play wing flap SFE
+6 p- Magic_001.png
+3 p- Magic_002.png
+7 p- Magic_003.png
+C05                                     #Call spell associated with equipped weapon
+2 p- Magic_004.png
+2 p- Magic_005.png
+3 p- Magic_006.png
+L                                       #LOOPSTART {
+3 p- Magic_007.png
+3 p- Magic_008.png
+3 p- Magic_009.png
+C01                                     #LOOPEND }  NOP
+2 p- Magic_005.png
+2 p- Magic_004.png
+C25                                     #Play wing flap SFE
+6 p- Magic_002.png
+3 p- Magic_001.png
+10 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Magic_000.png
+C25                                     #Play wing flap SFE
+2 p- Magic_010.png
+C41                                     #EMPTY FE7:086EB188
+15 p- Magic_011.png
+C28                                     #Play electrical charging SFE
+C39                                     #Pauses the attacker, makes them flash white and makes the screen flash white Essentially makes it look as though the attacker was hit, but without blue sparks
+C14                                     #Heavy vibration of screen
+3 p- Magic_012.png
+3 p- Magic_013.png
+3 p- Magic_014.png
+3 p- Magic_015.png
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_018.png
+2 p- Magic_019.png
+1 p- Magic_018.png
+1 p- Magic_019.png
+C22                                     #Play short sword swinging SFE
+3 p- Magic_020.png
+4 p- Magic_021.png
+C05                                     #Call spell associated with equipped weapon
+10 p- Magic_022.png
+2 p- Magic_023.png
+C25                                     #Play wing flap SFE
+2 p- Magic_024.png
+2 p- Magic_025.png
+2 p- Magic_026.png
+3 p- Magic_027.png
+10 p- Magic_028.png
+C01                                     #NOP
+C35                                     #Play longer wing flapping SFE
+2 p- Magic_029.png
+2 p- Magic_030.png
+2 p- Magic_031.png
+3 p- Magic_032.png
+C1B                                     #Play quick "heavy step" SFE
+C14                                     #Heavy vibration of screen
+10 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Magic_000.png
+C25                                     #Play wing flap SFE
+6 p- Magic_001.png
+3 p- Magic_002.png
+7 p- Magic_003.png
+C05                                     #Call spell associated with equipped weapon
+2 p- Magic_004.png
+2 p- Magic_005.png
+3 p- Magic_006.png
+L                                       #LOOPSTART {
+3 p- Magic_007.png
+3 p- Magic_008.png
+3 p- Magic_009.png
+C01                                     #LOOPEND }  NOP
+2 p- Magic_005.png
+2 p- Magic_004.png
+C25                                     #Play wing flap SFE
+6 p- Magic_002.png
+3 p- Magic_001.png
+10 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Magic_000.png
+C25                                     #Play wing flap SFE
+2 p- Magic_010.png
+C41                                     #EMPTY FE7:086EB188
+15 p- Magic_011.png
+C28                                     #Play electrical charging SFE
+C39                                     #Pauses the attacker, makes them flash white and makes the screen flash white Essentially makes it look as though the attacker was hit, but without blue sparks
+C14                                     #Heavy vibration of screen
+3 p- Magic_012.png
+3 p- Magic_013.png
+3 p- Magic_014.png
+3 p- Magic_015.png
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_018.png
+2 p- Magic_019.png
+1 p- Magic_018.png
+1 p- Magic_019.png
+C22                                     #Play short sword swinging SFE
+3 p- Magic_020.png
+4 p- Magic_021.png
+C05                                     #Call spell associated with equipped weapon
+10 p- Magic_022.png
+2 p- Magic_023.png
+C25                                     #Play wing flap SFE
+2 p- Magic_024.png
+2 p- Magic_025.png
+2 p- Magic_026.png
+3 p- Magic_027.png
+10 p- Magic_028.png
+C01                                     #NOP
+C35                                     #Play longer wing flapping SFE
+2 p- Magic_029.png
+2 p- Magic_030.png
+2 p- Magic_031.png
+3 p- Magic_032.png
+C1B                                     #Play quick "heavy step" SFE
+C14                                     #Heavy vibration of screen
+10 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+1 p- Magic_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_033.png
+1 p- Magic_034.png
+C01                                     #NOP
+3 p- Magic_033.png
+5 p- Magic_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+1 p- Magic_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_033.png
+1 p- Magic_034.png
+C01                                     #NOP
+3 p- Magic_033.png
+5 p- Magic_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Magic_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+1 p- Magic_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Magic_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Magic_000.png
+C25                                     #Play wing flap SFE
+3 p- Magic_001.png
+3 p- Magic_002.png
+5 p- Magic_003.png
+C05                                     #Call spell associated with equipped weapon
+2 p- Magic_004.png
+2 p- Magic_005.png
+L                                       #LOOPSTART {
+3 p- Magic_006.png
+2 p- Magic_007.png
+2 p- Magic_008.png
+2 p- Magic_009.png
+C01                                     #LOOPEND }  NOP
+2 p- Magic_005.png
+2 p- Magic_004.png
+3 p- Magic_002.png
+3 p- Magic_001.png
+10 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

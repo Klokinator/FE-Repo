@@ -1,0 +1,98 @@
+/// - Mode 1
+C03
+C07
+7 p- pekf_sp1_000.png
+6 p- pekf_sp1_001.png
+2 p- pekf_sp1_002.png
+2 p- pekf_sp1_003.png
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+C05
+C01
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+3 p- pekf_sp1_002.png
+6 p- pekf_sp1_001.png
+7 p- pekf_sp1_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+7 p- pekf_sp1_000.png
+6 p- pekf_sp1_001.png
+2 p- pekf_sp1_002.png
+2 p- pekf_sp1_003.png
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+C05
+C01
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+3 p- pekf_sp1_002.png
+6 p- pekf_sp1_001.png
+7 p- pekf_sp1_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+7 p- pekf_sp1_000.png
+6 p- pekf_sp1_001.png
+2 p- pekf_sp1_002.png
+2 p- pekf_sp1_003.png
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+C05
+C01
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+3 p- pekf_sp1_002.png
+6 p- pekf_sp1_001.png
+7 p- pekf_sp1_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+7 p- pekf_sp1_000.png
+6 p- pekf_sp1_001.png
+2 p- pekf_sp1_002.png
+2 p- pekf_sp1_003.png
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+C05
+C01
+5 p- pekf_sp1_004.png
+5 p- pekf_sp1_003.png
+3 p- pekf_sp1_002.png
+6 p- pekf_sp1_001.png
+7 p- pekf_sp1_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+3 p- pekf_sp1_000.png
+~~~
+/// - Mode 8
+3 p- pekf_sp1_000.png
+~~~
+/// - Mode 9
+3 p- pekf_sp1_000.png
+C01
+~~~
+/// - Mode 10
+3 p- pekf_sp1_000.png
+C01
+~~~
+/// - Mode 11
+3 p- pekf_sp1_000.png
+C01
+~~~
+/// - Mode 12
+3 p- pekf_sp1_000.png
+~~~
+/// - End of animation

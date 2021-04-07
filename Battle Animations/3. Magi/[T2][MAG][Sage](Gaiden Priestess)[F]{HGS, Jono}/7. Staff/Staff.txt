@@ -1,0 +1,97 @@
+/// - Mode 1
+C03
+C07
+1 p- WMagic_000.png
+4 p- WMagic_001.png
+C05
+1 p- WMagic_002.png
+C01
+C06
+4 p- WMagic_001.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- WMagic_000.png
+4 p- WMagic_001.png
+C05
+1 p- WMagic_002.png
+C01
+C06
+4 p- WMagic_001.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- WMagic_000.png
+4 p- WMagic_001.png
+C05
+1 p- WMagic_002.png
+C01
+C06
+4 p- WMagic_001.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- WMagic_000.png
+4 p- WMagic_001.png
+C05
+1 p- WMagic_002.png
+C01
+C06
+4 p- WMagic_001.png
+C0D
+~~~
+/// - Mode 7
+2 p- WMagic_000.png
+C02
+3 p- WMagic_003.png
+3 p- WMagic_004.png
+3 p- WMagic_005.png
+C01
+1 p- WMagic_000.png
+C06
+C0D
+2 p- WMagic_000.png
+~~~
+/// - Mode 8
+2 p- WMagic_000.png
+C02
+3 p- WMagic_003.png
+3 p- WMagic_004.png
+3 p- WMagic_005.png
+C01
+1 p- WMagic_000.png
+C06
+C0D
+2 p- WMagic_000.png
+~~~
+/// - Mode 9
+1 p- WMagic_000.png
+C01
+~~~
+/// - Mode 10
+1 p- WMagic_000.png
+C01
+~~~
+/// - Mode 11
+1 p- WMagic_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- WMagic_000.png
+4 p- WMagic_001.png
+C05
+1 p- WMagic_002.png
+C01
+C06
+4 p- WMagic_001.png
+C0D
+~~~
+/// - End of animation

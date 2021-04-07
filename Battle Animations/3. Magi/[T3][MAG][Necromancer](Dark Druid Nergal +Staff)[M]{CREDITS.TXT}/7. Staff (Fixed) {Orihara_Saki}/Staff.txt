@@ -1,0 +1,116 @@
+#######################################################
+#84 bisf_mg1 Evil Bishop Item
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+4 p- Staff_001.png
+20 p- Staff_002.png
+3 p- Staff_003.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+4 p- Staff_004.png
+1 p- Staff_005.png
+C01                               #LOOPEND }  NOP
+4 p- Staff_003.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+4 p- Staff_001.png
+6 p- Staff_002.png
+5 p- Staff_003.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+4 p- Staff_004.png
+1 p- Staff_005.png
+C01                               #LOOPEND }  NOP
+4 p- Staff_003.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+5 p- Staff_000.png
+2 p- Staff_001.png
+20 p- Staff_002.png
+3 p- Staff_003.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+3 p- Staff_004.png
+3 p- Staff_005.png
+C01                               #LOOPEND }  NOP
+4 p- Staff_003.png
+4 p- Staff_002.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+4 p- Staff_001.png
+6 p- Staff_002.png
+5 p- Staff_003.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+3 p- Staff_004.png
+3 p- Staff_005.png
+C01                               #LOOPEND }  NOP
+4 p- Staff_003.png
+4 p- Staff_002.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Staff_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Staff_006.png
+1 p- Staff_007.png
+C01                               #NOP
+3 p- Staff_006.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Staff_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Staff_006.png
+1 p- Staff_007.png
+C01                               #NOP
+3 p- Staff_006.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Staff_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Staff_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Staff_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+4 p- Staff_001.png
+6 p- Staff_002.png
+5 p- Staff_003.png
+4 p- Staff_004.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+1 p- Staff_005.png
+4 p- Staff_004.png
+C01                               #LOOPEND }  NOP
+4 p- Staff_003.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

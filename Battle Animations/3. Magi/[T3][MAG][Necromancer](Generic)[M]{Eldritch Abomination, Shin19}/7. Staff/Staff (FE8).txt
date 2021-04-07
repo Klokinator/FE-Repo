@@ -1,0 +1,336 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+8 p- Staff_001.png
+10 p- Staff_002.png
+C25                                     #Play wing flap SFE
+4 p- Staff_003.png
+3 p- Staff_004.png
+3 p- Staff_005.png
+4 p- Staff_006.png
+4 p- Staff_007.png
+4 p- Staff_008.png
+6 p- Staff_009.png
+30 p- Staff_010.png
+3 p- Staff_011.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+C25                                     #Play wing flap SFE
+2 p- Staff_012.png
+2 p- Staff_013.png
+3 p- Staff_014.png
+4 p- Staff_015.png
+6 p- Staff_016.png
+4 p- Staff_017.png
+4 p- Staff_018.png
+4 p- Staff_019.png
+4 p- Staff_020.png
+6 p- Staff_021.png
+40 p- Staff_022.png
+2 p- Staff_023.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Staff_024.png
+3 p- Staff_025.png
+C47                                     #Show cape flowing animation; VERY hardcoded
+2 p- Staff_026.png
+2 p- Staff_027.png
+2 p- Staff_028.png
+2 p- Staff_029.png
+C01                                     #NOP
+2 p- Staff_030.png
+6 p- Staff_031.png
+6 p- Staff_032.png
+4 p- Staff_033.png
+4 p- Staff_034.png
+4 p- Staff_035.png
+4 p- Staff_036.png
+4 p- Staff_037.png
+4 p- Staff_038.png
+4 p- Staff_039.png
+4 p- Staff_040.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+4 p- Staff_041.png
+1 p- Staff_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+8 p- Staff_001.png
+10 p- Staff_002.png
+C25                                     #Play wing flap SFE
+4 p- Staff_003.png
+3 p- Staff_004.png
+3 p- Staff_005.png
+4 p- Staff_006.png
+4 p- Staff_007.png
+4 p- Staff_008.png
+6 p- Staff_009.png
+30 p- Staff_010.png
+3 p- Staff_011.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+C25                                     #Play wing flap SFE
+2 p- Staff_012.png
+2 p- Staff_013.png
+3 p- Staff_014.png
+4 p- Staff_015.png
+6 p- Staff_016.png
+4 p- Staff_017.png
+4 p- Staff_018.png
+4 p- Staff_019.png
+4 p- Staff_020.png
+6 p- Staff_021.png
+40 p- Staff_022.png
+2 p- Staff_023.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Staff_024.png
+3 p- Staff_025.png
+C47                                     #Show cape flowing animation; VERY hardcoded
+2 p- Staff_026.png
+2 p- Staff_027.png
+2 p- Staff_028.png
+2 p- Staff_029.png
+C01                                     #NOP
+2 p- Staff_030.png
+6 p- Staff_031.png
+6 p- Staff_032.png
+4 p- Staff_033.png
+4 p- Staff_034.png
+4 p- Staff_035.png
+4 p- Staff_036.png
+4 p- Staff_037.png
+4 p- Staff_038.png
+4 p- Staff_039.png
+4 p- Staff_040.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+4 p- Staff_041.png
+1 p- Staff_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+8 p- Staff_001.png
+10 p- Staff_002.png
+C25                                     #Play wing flap SFE
+4 p- Staff_003.png
+3 p- Staff_004.png
+3 p- Staff_005.png
+4 p- Staff_006.png
+4 p- Staff_007.png
+4 p- Staff_008.png
+6 p- Staff_009.png
+30 p- Staff_010.png
+3 p- Staff_011.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+C25                                     #Play wing flap SFE
+2 p- Staff_012.png
+2 p- Staff_013.png
+3 p- Staff_014.png
+4 p- Staff_015.png
+6 p- Staff_016.png
+4 p- Staff_017.png
+4 p- Staff_018.png
+4 p- Staff_019.png
+4 p- Staff_020.png
+6 p- Staff_021.png
+40 p- Staff_022.png
+2 p- Staff_023.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Staff_024.png
+3 p- Staff_025.png
+C47                                     #Show cape flowing animation; VERY hardcoded
+2 p- Staff_026.png
+2 p- Staff_027.png
+2 p- Staff_028.png
+2 p- Staff_029.png
+C01                                     #NOP
+2 p- Staff_030.png
+6 p- Staff_031.png
+6 p- Staff_032.png
+4 p- Staff_033.png
+4 p- Staff_034.png
+4 p- Staff_035.png
+4 p- Staff_036.png
+4 p- Staff_037.png
+4 p- Staff_038.png
+4 p- Staff_039.png
+4 p- Staff_040.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+4 p- Staff_041.png
+1 p- Staff_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+8 p- Staff_001.png
+10 p- Staff_002.png
+C25                                     #Play wing flap SFE
+4 p- Staff_003.png
+3 p- Staff_004.png
+3 p- Staff_005.png
+4 p- Staff_006.png
+4 p- Staff_007.png
+4 p- Staff_008.png
+6 p- Staff_009.png
+30 p- Staff_010.png
+3 p- Staff_011.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+C25                                     #Play wing flap SFE
+2 p- Staff_012.png
+2 p- Staff_013.png
+3 p- Staff_014.png
+4 p- Staff_015.png
+6 p- Staff_016.png
+4 p- Staff_017.png
+4 p- Staff_018.png
+4 p- Staff_019.png
+4 p- Staff_020.png
+6 p- Staff_021.png
+40 p- Staff_022.png
+2 p- Staff_023.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Staff_024.png
+3 p- Staff_025.png
+C47                                     #Show cape flowing animation; VERY hardcoded
+2 p- Staff_026.png
+2 p- Staff_027.png
+2 p- Staff_028.png
+2 p- Staff_029.png
+C01                                     #NOP
+2 p- Staff_030.png
+6 p- Staff_031.png
+6 p- Staff_032.png
+4 p- Staff_033.png
+4 p- Staff_034.png
+4 p- Staff_035.png
+4 p- Staff_036.png
+4 p- Staff_037.png
+4 p- Staff_038.png
+4 p- Staff_039.png
+4 p- Staff_040.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+4 p- Staff_041.png
+1 p- Staff_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+1 p- Staff_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Staff_042.png
+2 p- Staff_043.png
+3 p- Staff_044.png
+3 p- Staff_045.png
+3 p- Staff_046.png
+4 p- Staff_047.png
+1 p- Staff_048.png
+C01                                     #NOP
+4 p- Staff_038.png
+4 p- Staff_039.png
+4 p- Staff_040.png
+4 p- Staff_041.png
+1 p- Staff_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+1 p- Staff_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Staff_042.png
+2 p- Staff_043.png
+3 p- Staff_044.png
+3 p- Staff_045.png
+3 p- Staff_046.png
+4 p- Staff_047.png
+1 p- Staff_048.png
+C01                                     #NOP
+4 p- Staff_038.png
+4 p- Staff_039.png
+4 p- Staff_040.png
+4 p- Staff_041.png
+1 p- Staff_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Staff_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+1 p- Staff_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Staff_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Staff_000.png
+8 p- Staff_001.png
+10 p- Staff_002.png
+C25                                     #Play wing flap SFE
+4 p- Staff_003.png
+3 p- Staff_004.png
+3 p- Staff_005.png
+4 p- Staff_006.png
+4 p- Staff_007.png
+4 p- Staff_008.png
+6 p- Staff_009.png
+30 p- Staff_010.png
+3 p- Staff_011.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+C25                                     #Play wing flap SFE
+2 p- Staff_012.png
+2 p- Staff_013.png
+3 p- Staff_014.png
+4 p- Staff_015.png
+6 p- Staff_016.png
+4 p- Staff_017.png
+4 p- Staff_018.png
+4 p- Staff_019.png
+4 p- Staff_020.png
+6 p- Staff_021.png
+40 p- Staff_022.png
+2 p- Staff_023.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Staff_024.png
+3 p- Staff_025.png
+C47                                     #Show cape flowing animation; VERY hardcoded
+2 p- Staff_026.png
+2 p- Staff_027.png
+2 p- Staff_028.png
+2 p- Staff_029.png
+C01                                     #NOP
+2 p- Staff_030.png
+6 p- Staff_031.png
+6 p- Staff_032.png
+4 p- Staff_033.png
+4 p- Staff_034.png
+4 p- Staff_035.png
+4 p- Staff_036.png
+4 p- Staff_037.png
+4 p- Staff_038.png
+4 p- Staff_039.png
+4 p- Staff_040.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+4 p- Staff_041.png
+1 p- Staff_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

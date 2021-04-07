@@ -1,0 +1,280 @@
+#######################################################
+#1A Archer Ballista
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C07                                     #Start attack animation; should be preceeded by 0x03
+C03                                     #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+4 p- Magic_001.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+8 p- Magic_002.png
+C1B                                     #Play quick "heavy step" SFE
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                                     #Play quick "heavy step" SFE
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                                     #Play quick "heavy step" SFE
+C05                                     #Call spell associated with equipped weapon
+L                                       #LOOPSTART {
+3 p- Magic_008.png
+3 p- Magic_009.png
+3 p- Magic_010.png
+3 p- Magic_011.png
+C01                                     #LOOPEND }  NOP
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+4 p- Magic_015.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_018.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_019.png
+3 p- Magic_020.png
+8 p- Magic_021.png
+6 p- Magic_022.png
+3 p- Magic_023.png
+3 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+6 p- Magic_023.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C07                                     #Start attack animation; should be preceeded by 0x03
+C03                                     #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+8 p- Magic_024.png
+C2F                                     #Show sage's critical magic rune drawing animation
+4 p- Magic_025.png
+8 p- Magic_026.png
+4 p- Magic_027.png
+3 p- Magic_023.png
+8 p- Magic_028.png
+4 p- Magic_029.png
+8 p- Magic_030.png
+4 p- Magic_031.png
+3 p- Magic_023.png
+8 p- Magic_032.png
+4 p- Magic_033.png
+8 p- Magic_034.png
+4 p- Magic_035.png
+10 p- Magic_036.png
+12 p- Magic_037.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+8 p- Magic_002.png
+C1B                                     #Play quick "heavy step" SFE
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                                     #Play quick "heavy step" SFE
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                                     #Play quick "heavy step" SFE
+C05                                     #Call spell associated with equipped weapon
+L                                       #LOOPSTART {
+3 p- Magic_008.png
+3 p- Magic_009.png
+3 p- Magic_010.png
+3 p- Magic_011.png
+C01                                     #LOOPEND }  NOP
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+4 p- Magic_015.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_018.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_019.png
+3 p- Magic_020.png
+8 p- Magic_021.png
+6 p- Magic_022.png
+3 p- Magic_023.png
+3 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+6 p- Magic_023.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C07                                     #Start attack animation; should be preceeded by 0x03
+C03                                     #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+4 p- Magic_001.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+8 p- Magic_002.png
+C1B                                     #Play quick "heavy step" SFE
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                                     #Play quick "heavy step" SFE
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                                     #Play quick "heavy step" SFE
+C05                                     #Call spell associated with equipped weapon
+L                                       #LOOPSTART {
+3 p- Magic_008.png
+3 p- Magic_009.png
+3 p- Magic_010.png
+3 p- Magic_011.png
+C01                                     #LOOPEND }  NOP
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+4 p- Magic_015.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_018.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_019.png
+3 p- Magic_020.png
+8 p- Magic_021.png
+6 p- Magic_022.png
+3 p- Magic_023.png
+3 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+6 p- Magic_023.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C07                                     #Start attack animation; should be preceeded by 0x03
+C03                                     #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+8 p- Magic_024.png
+C2F                                     #Show sage's critical magic rune drawing animation
+4 p- Magic_025.png
+8 p- Magic_026.png
+4 p- Magic_027.png
+3 p- Magic_023.png
+8 p- Magic_028.png
+4 p- Magic_029.png
+8 p- Magic_030.png
+4 p- Magic_031.png
+3 p- Magic_023.png
+8 p- Magic_032.png
+4 p- Magic_033.png
+8 p- Magic_034.png
+4 p- Magic_035.png
+10 p- Magic_036.png
+12 p- Magic_037.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+8 p- Magic_002.png
+C1B                                     #Play quick "heavy step" SFE
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                                     #Play quick "heavy step" SFE
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                                     #Play quick "heavy step" SFE
+C05                                     #Call spell associated with equipped weapon
+L                                       #LOOPSTART {
+3 p- Magic_008.png
+3 p- Magic_009.png
+3 p- Magic_010.png
+3 p- Magic_011.png
+C01                                     #LOOPEND }  NOP
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+4 p- Magic_015.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_018.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_019.png
+3 p- Magic_020.png
+8 p- Magic_021.png
+6 p- Magic_022.png
+3 p- Magic_023.png
+3 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+6 p- Magic_023.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+1 p- Magic_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_038.png
+1 p- Magic_039.png
+C01                                     #NOP
+3 p- Magic_038.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+1 p- Magic_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_038.png
+1 p- Magic_039.png
+C01                                     #NOP
+3 p- Magic_038.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+4 p- Magic_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+4 p- Magic_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+4 p- Magic_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C07                                     #Start attack animation; should be preceeded by 0x03
+C03                                     #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+4 p- Magic_001.png
+C2E                                     #Show sage's normal magic rune drawing animation
+C49                                     #Play sage's magic firing SFE
+8 p- Magic_002.png
+C1B                                     #Play quick "heavy step" SFE
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                                     #Play quick "heavy step" SFE
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                                     #Play quick "heavy step" SFE
+C05                                     #Call spell associated with equipped weapon
+L                                       #LOOPSTART {
+3 p- Magic_008.png
+3 p- Magic_009.png
+3 p- Magic_010.png
+3 p- Magic_011.png
+C01                                     #LOOPEND }  NOP
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+4 p- Magic_015.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_018.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Magic_019.png
+3 p- Magic_020.png
+8 p- Magic_021.png
+6 p- Magic_022.png
+3 p- Magic_023.png
+3 p- Magic_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+6 p- Magic_023.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

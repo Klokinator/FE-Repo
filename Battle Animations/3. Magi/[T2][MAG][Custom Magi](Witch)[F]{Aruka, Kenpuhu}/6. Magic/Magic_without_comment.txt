@@ -1,0 +1,259 @@
+/// - Mode 1
+~~~
+/// - Mode 3
+~~~
+/// - Mode 5
+C03
+C07
+4 p- Magic_000.png
+C6B
+4 p- Magic_001.png
+4 p- Magic_002.png
+4 p- Magic_003.png
+4 p- Magic_004.png
+5 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+C6B
+4 p- Magic_009.png
+4 p- Magic_010.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+7 p- Magic_015.png
+4 p- Magic_016.png
+4 p- Magic_017.png
+2 p- Magic_018.png
+2 p- Magic_019.png
+2 p- Magic_020.png
+C79
+2 p- Magic_021.png
+2 p- Magic_022.png
+2 p- Magic_023.png
+4 p- Magic_024.png
+4 p- Magic_025.png
+2 p- Magic_026.png
+2 p- Magic_027.png
+1 p- Magic_028.png
+1 p- Magic_029.png
+1 p- Magic_016.png
+1 p- Magic_030.png
+4 p- Magic_031.png
+C3C
+5 p- Magic_032.png
+4 p- Magic_033.png
+C05
+20 p- Magic_034.png
+C01
+5 p- Magic_035.png
+8 p- Magic_036.png
+4 p- Magic_037.png
+4 p- Magic_038.png
+4 p- Magic_039.png
+4 p- Magic_040.png
+4 p- Magic_041.png
+C6B
+4 p- Magic_042.png
+4 p- Magic_043.png
+20 p- Magic_044.png
+4 p- Magic_044.png
+4 p- Magic_045.png
+4 p- Magic_046.png
+4 p- Magic_047.png
+4 p- Magic_048.png
+4 p- Magic_049.png
+4 p- Magic_050.png
+4 p- Magic_051.png
+4 p- Magic_052.png
+4 p- Magic_053.png
+4 p- Magic_054.png
+4 p- Magic_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+4 p- Magic_000.png
+7 p- Magic_055.png
+7 p- Magic_056.png
+7 p- Magic_055.png
+7 p- Magic_056.png
+7 p- Magic_055.png
+7 p- Magic_056.png
+7 p- Magic_055.png
+7 p- Magic_056.png
+C6B
+4 p- Magic_001.png
+4 p- Magic_002.png
+4 p- Magic_003.png
+4 p- Magic_004.png
+5 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+C6B
+4 p- Magic_009.png
+4 p- Magic_010.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+7 p- Magic_015.png
+4 p- Magic_016.png
+4 p- Magic_017.png
+2 p- Magic_018.png
+2 p- Magic_019.png
+2 p- Magic_020.png
+C79
+2 p- Magic_021.png
+2 p- Magic_022.png
+2 p- Magic_023.png
+4 p- Magic_024.png
+4 p- Magic_025.png
+2 p- Magic_026.png
+2 p- Magic_027.png
+1 p- Magic_028.png
+1 p- Magic_029.png
+1 p- Magic_016.png
+1 p- Magic_030.png
+4 p- Magic_031.png
+C3C
+5 p- Magic_032.png
+4 p- Magic_033.png
+C05
+20 p- Magic_034.png
+C01
+5 p- Magic_035.png
+8 p- Magic_036.png
+4 p- Magic_037.png
+4 p- Magic_038.png
+4 p- Magic_039.png
+4 p- Magic_040.png
+4 p- Magic_041.png
+C6B
+4 p- Magic_042.png
+4 p- Magic_043.png
+20 p- Magic_044.png
+4 p- Magic_044.png
+4 p- Magic_045.png
+4 p- Magic_046.png
+4 p- Magic_047.png
+4 p- Magic_048.png
+4 p- Magic_049.png
+4 p- Magic_050.png
+4 p- Magic_051.png
+4 p- Magic_052.png
+4 p- Magic_053.png
+4 p- Magic_054.png
+4 p- Magic_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+5 p- Magic_000.png
+2 p- Magic_057.png
+4 p- Magic_058.png
+C0E
+C01
+6 p- Magic_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+5 p- Magic_000.png
+2 p- Magic_057.png
+4 p- Magic_058.png
+C0E
+C01
+6 p- Magic_000.png
+C0D
+~~~
+/// - Mode 9
+6 p- Magic_000.png
+C01
+~~~
+/// - Mode 10
+6 p- Magic_000.png
+C01
+~~~
+/// - Mode 11
+6 p- Magic_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+4 p- Magic_000.png
+C6B
+4 p- Magic_001.png
+4 p- Magic_002.png
+4 p- Magic_003.png
+4 p- Magic_004.png
+5 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+C6B
+4 p- Magic_009.png
+4 p- Magic_010.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+7 p- Magic_015.png
+4 p- Magic_016.png
+4 p- Magic_017.png
+2 p- Magic_018.png
+2 p- Magic_019.png
+2 p- Magic_020.png
+C79
+2 p- Magic_021.png
+2 p- Magic_022.png
+2 p- Magic_023.png
+4 p- Magic_024.png
+4 p- Magic_025.png
+2 p- Magic_026.png
+2 p- Magic_027.png
+1 p- Magic_028.png
+1 p- Magic_029.png
+1 p- Magic_016.png
+1 p- Magic_030.png
+4 p- Magic_031.png
+C3C
+5 p- Magic_032.png
+4 p- Magic_033.png
+C05
+C04
+20 p- Magic_034.png
+C01
+5 p- Magic_035.png
+8 p- Magic_036.png
+4 p- Magic_037.png
+4 p- Magic_038.png
+4 p- Magic_039.png
+4 p- Magic_040.png
+4 p- Magic_041.png
+C6B
+4 p- Magic_042.png
+4 p- Magic_043.png
+20 p- Magic_044.png
+4 p- Magic_044.png
+4 p- Magic_045.png
+4 p- Magic_046.png
+4 p- Magic_047.png
+4 p- Magic_048.png
+4 p- Magic_049.png
+4 p- Magic_050.png
+4 p- Magic_051.png
+4 p- Magic_052.png
+4 p- Magic_053.png
+4 p- Magic_054.png
+4 p- Magic_000.png
+C06
+C0D
+~~~
+/// - End of animation

@@ -1,0 +1,342 @@
+#######################################################
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C40                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+C100129                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_001.png
+2
+C02C448                               #Sound 708 SE:Luce flash
+O  p- Luce_o_000.png
+B  p- Luce_b_001.png
+3
+O  p- Luce_o_000.png
+B  p- Luce_b_002.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_003.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_004.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_005.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_006.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_007.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_008.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_009.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_010.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_011.png
+1
+C02C548                               #Sound 709 SE:Luce charging
+O  p- Luce_o_000.png
+B  p- Luce_b_012.png
+1
+C030D29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C030929                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C050629                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C070429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C0D0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C100429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C0D0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C0A0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C050429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C030429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C070429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C0A0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C100429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C0D0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C0A0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C070429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C050429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C030429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C070429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_014.png
+B  p- Luce_b_013.png
+1
+C0A0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C0D0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_014.png
+B  p- Luce_b_013.png
+1
+C100429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+O  p- Luce_o_014.png
+B  p- Luce_b_013.png
+1
+C0A0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+C050429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_014.png
+B  p- Luce_b_013.png
+1
+C010529                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_013.png
+1
+O  p- Luce_o_014.png
+B  p- Luce_b_001.png
+1
+C040629                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_001.png
+1
+C070529                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_014.png
+B  p- Luce_b_001.png
+1
+C0A0429                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_001.png
+1
+C0D0329                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_014.png
+B  p- Luce_b_001.png
+1
+C100229                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_001.png
+1
+C100029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- Luce_o_000.png
+B  p- Luce_b_001.png
+9
+C02C648                               #Sound 710 SE:Luce flowing
+C1A                               #1Fまたはミス終端分岐の前に必要
+C1F                               #ヒット音を鳴らす(直前に1Aが必要)
+O  p- Luce_o_000.png
+B  p- Luce_b_001.png
+1
+C100529                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C0D0729                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+C090A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+C060D29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_016.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_017.png
+1
+C021029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_015.png
+1
+O  p- Luce_o_000.png
+B  p- Luce_b_018.png
+2
+C14                               #画面揺れる　アルマーズ
+O  p- Luce_o_000.png
+B  p- Luce_b_018.png
+4
+O  p- Luce_o_000.png
+B  p- Luce_b_018.png
+7
+~                               #miss terminator
+/// - End of animation

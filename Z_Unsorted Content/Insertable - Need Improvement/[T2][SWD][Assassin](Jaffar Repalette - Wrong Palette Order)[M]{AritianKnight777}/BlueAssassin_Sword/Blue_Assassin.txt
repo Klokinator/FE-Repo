@@ -1,0 +1,306 @@
+#######################################################
+#8B asnm_sw1 Assassin Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+C55                               #Nothing?
+1 p- Blue_Assassin_000.png
+3 p- Blue_Assassin_001.png
+3 p- Blue_Assassin_002.png
+3 p- Blue_Assassin_003.png
+C36                               #Play sword unsheathing SFE
+3 p- Blue_Assassin_004.png
+1 p- Blue_Assassin_005.png
+1 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_005.png
+2 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_005.png
+8 p- Blue_Assassin_006.png
+C25                               #Play wing flap SFE
+1 p- Blue_Assassin_007.png
+2 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_007.png
+1 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_007.png
+1 p- Blue_Assassin_008.png
+1 p- Blue_Assassin_009.png
+C23                               #Play shorter sword swinging SFE
+3 p- Blue_Assassin_010.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C1A                               #Normal hit
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+2 p- Blue_Assassin_011.png
+3 p- Blue_Assassin_012.png
+1 p- Blue_Assassin_013.png
+2 p- Blue_Assassin_014.png
+2 p- Blue_Assassin_015.png
+7 p- Blue_Assassin_016.png
+C01                               #NOP
+9 p- Blue_Assassin_017.png
+C37                               #Play sword clicking SFE
+2 p- Blue_Assassin_018.png
+1 p- Blue_Assassin_019.png
+10 p- Blue_Assassin_020.png
+1 p- Blue_Assassin_021.png
+1 p- Blue_Assassin_022.png
+C34                               #Play heavy stepping SFE
+2 p- Blue_Assassin_023.png
+4 p- Blue_Assassin_024.png
+3 p- Blue_Assassin_025.png
+2 p- Blue_Assassin_026.png
+2 p- Blue_Assassin_027.png
+1 p- Blue_Assassin_028.png
+3 p- Blue_Assassin_029.png
+C25                               #Play wing flap SFE
+1 p- Blue_Assassin_030.png
+2 p- Blue_Assassin_031.png
+C34                               #Play heavy stepping SFE
+5 p- Blue_Assassin_032.png
+7 p- Blue_Assassin_033.png
+3 p- Blue_Assassin_034.png
+3 p- Blue_Assassin_035.png
+4 p- Blue_Assassin_036.png
+1 p- Blue_Assassin_037.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Blue_Assassin_037.png
+2 p- Blue_Assassin_038.png
+2 p- Blue_Assassin_039.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+C55                               #Nothing?
+1 p- Blue_Assassin_000.png
+C2D                               #? (Assassin critical) (Lethality activator that is dependent on other commands?)
+2 p- Blue_Assassin_040.png
+4 p- Blue_Assassin_041.png
+6 p- Blue_Assassin_042.png
+C36                               #Play sword unsheathing SFE
+3 p- Blue_Assassin_043.png
+2 p- Blue_Assassin_044.png
+C23                               #Play shorter sword swinging SFE
+3 p- Blue_Assassin_045.png
+8 p- Blue_Assassin_046.png
+4 p- Blue_Assassin_047.png
+C22                               #Play short sword swinging SFE
+2 p- Blue_Assassin_048.png
+2 p- Blue_Assassin_049.png
+2 p- Blue_Assassin_050.png
+2 p- Blue_Assassin_051.png
+3 p- Blue_Assassin_052.png
+C43                               #Play weapon stance SFE (Clicking noise)
+3 p- Blue_Assassin_053.png
+11 p- Blue_Assassin_054.png
+3 p- Blue_Assassin_055.png
+1 p- Blue_Assassin_005.png
+1 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_005.png
+2 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_005.png
+6 p- Blue_Assassin_006.png
+C25                               #Play wing flap SFE
+1 p- Blue_Assassin_056.png
+2 p- Blue_Assassin_057.png
+2 p- Blue_Assassin_056.png
+1 p- Blue_Assassin_057.png
+2 p- Blue_Assassin_056.png
+2 p- Blue_Assassin_057.png
+1 p- Blue_Assassin_058.png
+1 p- Blue_Assassin_059.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+2 p- Blue_Assassin_057.png
+1 p- Blue_Assassin_060.png
+1 p- Blue_Assassin_061.png
+1 p- Blue_Assassin_062.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+6 p- Blue_Assassin_063.png
+8 p- Blue_Assassin_064.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C08                               #Critical hit
+2 p- Blue_Assassin_065.png
+2 p- Blue_Assassin_066.png
+1 p- Blue_Assassin_067.png
+1 p- Blue_Assassin_057.png
+1 p- Blue_Assassin_068.png
+2 p- Blue_Assassin_057.png
+1 p- Blue_Assassin_069.png
+2 p- Blue_Assassin_057.png
+C01                               #NOP
+1 p- Blue_Assassin_020.png
+2 p- Blue_Assassin_057.png
+2 p- Blue_Assassin_020.png
+1 p- Blue_Assassin_057.png
+6 p- Blue_Assassin_020.png
+1 p- Blue_Assassin_021.png
+1 p- Blue_Assassin_022.png
+C34                               #Play heavy stepping SFE
+2 p- Blue_Assassin_023.png
+4 p- Blue_Assassin_024.png
+3 p- Blue_Assassin_025.png
+2 p- Blue_Assassin_026.png
+2 p- Blue_Assassin_027.png
+1 p- Blue_Assassin_028.png
+2 p- Blue_Assassin_029.png
+C25                               #Play wing flap SFE
+1 p- Blue_Assassin_030.png
+2 p- Blue_Assassin_031.png
+C34                               #Play heavy stepping SFE
+5 p- Blue_Assassin_032.png
+7 p- Blue_Assassin_033.png
+3 p- Blue_Assassin_034.png
+3 p- Blue_Assassin_035.png
+4 p- Blue_Assassin_036.png
+1 p- Blue_Assassin_037.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Blue_Assassin_037.png
+2 p- Blue_Assassin_038.png
+2 p- Blue_Assassin_039.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Blue_Assassin_000.png
+3 p- Blue_Assassin_070.png
+C36                               #Play sword unsheathing SFE
+2 p- Blue_Assassin_071.png
+C05                               #Call spell associated with equipped weapon
+1 p- Blue_Assassin_072.png
+1 p- Blue_Assassin_073.png
+C01                               #NOP
+2 p- Blue_Assassin_071.png
+C37                               #Play sword clicking SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- Blue_Assassin_074.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Blue_Assassin_000.png
+3 p- Blue_Assassin_070.png
+C36                               #Play sword unsheathing SFE
+2 p- Blue_Assassin_071.png
+C05                               #Call spell associated with equipped weapon
+1 p- Blue_Assassin_072.png
+2 p- Blue_Assassin_073.png
+2 p- Blue_Assassin_075.png
+2 p- Blue_Assassin_073.png
+3 p- Blue_Assassin_075.png
+2 p- Blue_Assassin_073.png
+3 p- Blue_Assassin_075.png
+1 p- Blue_Assassin_073.png
+1 p- Blue_Assassin_075.png
+3 p- Blue_Assassin_073.png
+2 p- Blue_Assassin_075.png
+1 p- Blue_Assassin_073.png
+C01                               #NOP
+2 p- Blue_Assassin_071.png
+C37                               #Play sword clicking SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- Blue_Assassin_074.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- Blue_Assassin_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Blue_Assassin_076.png
+1 p- Blue_Assassin_077.png
+C01                               #NOP
+3 p- Blue_Assassin_076.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- Blue_Assassin_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Blue_Assassin_076.png
+1 p- Blue_Assassin_077.png
+C01                               #NOP
+3 p- Blue_Assassin_076.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Blue_Assassin_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Blue_Assassin_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Blue_Assassin_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Blue_Assassin_000.png
+3 p- Blue_Assassin_001.png
+3 p- Blue_Assassin_002.png
+3 p- Blue_Assassin_003.png
+C36                               #Play sword unsheathing SFE
+3 p- Blue_Assassin_004.png
+1 p- Blue_Assassin_005.png
+1 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_005.png
+2 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_005.png
+8 p- Blue_Assassin_006.png
+C25                               #Play wing flap SFE
+1 p- Blue_Assassin_078.png
+2 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_078.png
+1 p- Blue_Assassin_006.png
+1 p- Blue_Assassin_078.png
+1 p- Blue_Assassin_007.png
+1 p- Blue_Assassin_008.png
+1 p- Blue_Assassin_009.png
+C23                               #Play shorter sword swinging SFE
+3 p- Blue_Assassin_010.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+2 p- Blue_Assassin_079.png
+2 p- Blue_Assassin_080.png
+1 p- Blue_Assassin_013.png
+2 p- Blue_Assassin_014.png
+2 p- Blue_Assassin_015.png
+7 p- Blue_Assassin_016.png
+C01                               #NOP
+9 p- Blue_Assassin_017.png
+C37                               #Play sword clicking SFE
+2 p- Blue_Assassin_018.png
+1 p- Blue_Assassin_019.png
+10 p- Blue_Assassin_020.png
+1 p- Blue_Assassin_021.png
+1 p- Blue_Assassin_022.png
+C34                               #Play heavy stepping SFE
+2 p- Blue_Assassin_023.png
+4 p- Blue_Assassin_024.png
+3 p- Blue_Assassin_025.png
+2 p- Blue_Assassin_026.png
+2 p- Blue_Assassin_027.png
+2 p- Blue_Assassin_028.png
+1 p- Blue_Assassin_029.png
+C25                               #Play wing flap SFE
+1 p- Blue_Assassin_030.png
+2 p- Blue_Assassin_031.png
+C34                               #Play heavy stepping SFE
+5 p- Blue_Assassin_032.png
+7 p- Blue_Assassin_033.png
+3 p- Blue_Assassin_034.png
+3 p- Blue_Assassin_035.png
+4 p- Blue_Assassin_036.png
+1 p- Blue_Assassin_037.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Blue_Assassin_037.png
+2 p- Blue_Assassin_038.png
+2 p- Blue_Assassin_039.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

@@ -1,0 +1,9 @@
+//wait	filename
+16	frontieranims.mapanime 1_000.png
+16	frontieranims.mapanime 1_001.png
+16	frontieranims.mapanime 1_002.png
+16	frontieranims.mapanime 1_003.png
+16	frontieranims.mapanime 1_004.png
+16	frontieranims.mapanime 1_005.png
+16	frontieranims.mapanime 1_006.png
+16	frontieranims.mapanime 1_007.png

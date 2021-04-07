@@ -1,0 +1,7 @@
+//wait	filename
+16	FF2 - Caves 07 - Leviathan 01.mapanime 1_000.png
+16	FF2 - Caves 07 - Leviathan 01.mapanime 1_001.png
+16	FF2 - Caves 07 - Leviathan 01.mapanime 1_002.png
+16	FF2 - Caves 07 - Leviathan 01.mapanime 1_003.png
+16	FF2 - Caves 07 - Leviathan 01.mapanime 1_004.png
+16	FF2 - Caves 07 - Leviathan 01.mapanime 1_005.png

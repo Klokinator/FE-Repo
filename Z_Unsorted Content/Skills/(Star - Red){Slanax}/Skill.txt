@@ -1,0 +1,5 @@
+D #is defender anim
+S00E7 #play sound SE:Brigand battle cry @C85_33
+5 Skill_g000.png
+10 Skill_g001.png
+15 Skill_g002.png

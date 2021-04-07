@@ -1,0 +1,407 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+25 p- Strike_000.png
+4 p- Strike_001.png
+4 p- Strike_002.png
+C25                               #Play wing flap SFE
+4 p- Strike_003.png
+5 p- Strike_004.png
+5 p- Strike_005.png
+10 p- Strike_006.png
+C35                               #Play longer wing flapping SFE
+4 p- Strike_007.png
+4 p- Strike_008.png
+10 p- Strike_009.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Strike_010.png
+4 p- Strike_011.png
+4 p- Strike_012.png
+4 p- Strike_013.png
+4 p- Strike_014.png
+4 p- Strike_015.png
+4 p- Strike_016.png
+4 p- Strike_017.png
+4 p- Strike_018.png
+4 p- Strike_019.png
+10 p- Strike_020.png
+C4C                               #FE7:Play Athos' magic casting SFE
+4 p- Strike_019.png
+4 p- Strike_018.png
+4 p- Strike_017.png
+4 p- Strike_016.png
+4 p- Strike_015.png
+4 p- Strike_014.png
+4 p- Strike_013.png
+4 p- Strike_012.png
+4 p- Strike_021.png
+4 p- Strike_022.png
+4 p- Strike_023.png
+4 p- Strike_024.png
+4 p- Strike_025.png
+25 p- Strike_024.png
+4 p- Strike_026.png
+4 p- Strike_027.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Strike_028.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- Strike_029.png
+4 p- Strike_030.png
+4 p- Strike_031.png
+C01                               #NOP
+4 p- Strike_032.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Strike_033.png
+4 p- Strike_034.png
+4 p- Strike_035.png
+4 p- Strike_027.png
+4 p- Strike_036.png
+25 p- Strike_024.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Strike_037.png
+4 p- Strike_021.png
+4 p- Strike_012.png
+4 p- Strike_013.png
+4 p- Strike_014.png
+4 p- Strike_015.png
+4 p- Strike_016.png
+4 p- Strike_017.png
+4 p- Strike_018.png
+4 p- Strike_019.png
+4 p- Strike_020.png
+C4C                               #FE7:Play Athos' magic casting SFE
+4 p- Strike_019.png
+4 p- Strike_018.png
+4 p- Strike_017.png
+4 p- Strike_016.png
+4 p- Strike_015.png
+4 p- Strike_014.png
+4 p- Strike_013.png
+4 p- Strike_012.png
+4 p- Strike_038.png
+4 p- Strike_039.png
+C25                               #Play wing flap SFE
+4 p- Strike_040.png
+4 p- Strike_041.png
+5 p- Strike_042.png
+C35                               #Play longer wing flapping SFE
+4 p- Strike_043.png
+4 p- Strike_004.png
+4 p- Strike_005.png
+4 p- Strike_006.png
+4 p- Strike_001.png
+25 p- Strike_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+25 p- Strike_000.png
+4 p- Strike_001.png
+4 p- Strike_002.png
+C25                               #Play wing flap SFE
+4 p- Strike_003.png
+5 p- Strike_004.png
+5 p- Strike_005.png
+10 p- Strike_006.png
+C35                               #Play longer wing flapping SFE
+4 p- Strike_007.png
+4 p- Strike_008.png
+10 p- Strike_009.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Strike_010.png
+4 p- Strike_011.png
+4 p- Strike_012.png
+4 p- Strike_013.png
+4 p- Strike_014.png
+4 p- Strike_015.png
+4 p- Strike_016.png
+4 p- Strike_017.png
+4 p- Strike_018.png
+4 p- Strike_019.png
+10 p- Strike_020.png
+C4C                               #FE7:Play Athos' magic casting SFE
+4 p- Strike_019.png
+4 p- Strike_018.png
+4 p- Strike_017.png
+4 p- Strike_016.png
+4 p- Strike_015.png
+4 p- Strike_014.png
+4 p- Strike_013.png
+4 p- Strike_012.png
+4 p- Strike_021.png
+4 p- Strike_022.png
+4 p- Strike_023.png
+4 p- Strike_024.png
+4 p- Strike_025.png
+25 p- Strike_024.png
+4 p- Strike_044.png
+4 p- Strike_027.png
+4 p- Strike_045.png
+C25                               #Play wing flap SFE
+4 p- Strike_046.png
+SDF                               #Sound 223 SE:Mamkute roar [Empty Track]
+4 p- Strike_047.png
+4 p- Strike_046.png
+4 p- Strike_047.png
+4 p- Strike_046.png
+4 p- Strike_047.png
+4 p- Strike_048.png
+25 p- Strike_049.png
+C25                               #Play wing flap SFE
+4 p- Strike_045.png
+10 p- Strike_027.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Strike_050.png
+C38                               #Play heavy spear spinning SFE
+4 p- Strike_051.png
+4 p- Strike_052.png
+4 p- Strike_053.png
+4 p- Strike_051.png
+4 p- Strike_052.png
+4 p- Strike_053.png
+4 p- Strike_051.png
+4 p- Strike_052.png
+4 p- Strike_053.png
+10 p- Strike_054.png
+C24                               #Play sword slashing air SFE
+4 p- Strike_055.png
+4 p- Strike_056.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- Strike_057.png
+4 p- Strike_058.png
+4 p- Strike_059.png
+C01                               #NOP
+25 p- Strike_059.png
+4 p- Strike_060.png
+C25                               #Play wing flap SFE
+4 p- Strike_061.png
+4 p- Strike_032.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Strike_033.png
+4 p- Strike_034.png
+4 p- Strike_035.png
+4 p- Strike_027.png
+4 p- Strike_036.png
+25 p- Strike_024.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Strike_037.png
+4 p- Strike_021.png
+4 p- Strike_012.png
+4 p- Strike_013.png
+4 p- Strike_014.png
+4 p- Strike_015.png
+4 p- Strike_016.png
+4 p- Strike_017.png
+4 p- Strike_018.png
+4 p- Strike_019.png
+4 p- Strike_020.png
+C4C                               #FE7:Play Athos' magic casting SFE
+4 p- Strike_019.png
+4 p- Strike_018.png
+4 p- Strike_017.png
+4 p- Strike_016.png
+4 p- Strike_015.png
+4 p- Strike_014.png
+4 p- Strike_013.png
+4 p- Strike_012.png
+4 p- Strike_038.png
+4 p- Strike_039.png
+C25                               #Play wing flap SFE
+4 p- Strike_040.png
+4 p- Strike_041.png
+5 p- Strike_042.png
+C35                               #Play longer wing flapping SFE
+4 p- Strike_043.png
+4 p- Strike_004.png
+4 p- Strike_005.png
+4 p- Strike_006.png
+4 p- Strike_001.png
+25 p- Strike_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+25 p- Strike_000.png
+4 p- Strike_001.png
+4 p- Strike_002.png
+C4C                               #FE7:Play Athos' magic casting SFE
+C05                               #Call spell associated with equipped weapon
+4 p- Strike_002.png
+C01                               #NOP
+4 p- Strike_002.png
+4 p- Strike_001.png
+25 p- Strike_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+25 p- Strike_000.png
+4 p- Strike_001.png
+4 p- Strike_002.png
+C25                               #Play wing flap SFE
+4 p- Strike_003.png
+5 p- Strike_004.png
+5 p- Strike_005.png
+10 p- Strike_006.png
+C35                               #Play longer wing flapping SFE
+4 p- Strike_007.png
+4 p- Strike_008.png
+10 p- Strike_009.png
+C25                               #Play wing flap SFE
+4 p- Strike_002.png
+C4C                               #FE7:Play Athos' magic casting SFE
+C05                               #Call spell associated with equipped weapon
+4 p- Strike_002.png
+C01                               #NOP
+4 p- Strike_002.png
+4 p- Strike_001.png
+25 p- Strike_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+4 p- Strike_003.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Strike_004.png
+C01                               #NOP
+3 p- Strike_003.png
+2 p- Strike_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+4 p- Strike_003.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Strike_004.png
+C01                               #NOP
+3 p- Strike_003.png
+2 p- Strike_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+3 p- Strike_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+3 p- Strike_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+3 p- Strike_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+25 p- Strike_000.png
+4 p- Strike_001.png
+4 p- Strike_002.png
+C25                               #Play wing flap SFE
+4 p- Strike_003.png
+5 p- Strike_004.png
+5 p- Strike_005.png
+10 p- Strike_006.png
+C35                               #Play longer wing flapping SFE
+4 p- Strike_007.png
+4 p- Strike_008.png
+10 p- Strike_009.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Strike_010.png
+4 p- Strike_011.png
+4 p- Strike_012.png
+4 p- Strike_013.png
+4 p- Strike_014.png
+4 p- Strike_015.png
+4 p- Strike_016.png
+4 p- Strike_017.png
+4 p- Strike_018.png
+4 p- Strike_019.png
+10 p- Strike_020.png
+C4C                               #FE7:Play Athos' magic casting SFE
+4 p- Strike_019.png
+4 p- Strike_018.png
+4 p- Strike_017.png
+4 p- Strike_016.png
+4 p- Strike_015.png
+4 p- Strike_014.png
+4 p- Strike_013.png
+4 p- Strike_012.png
+4 p- Strike_021.png
+4 p- Strike_022.png
+4 p- Strike_023.png
+4 p- Strike_024.png
+4 p- Strike_025.png
+25 p- Strike_024.png
+4 p- Strike_026.png
+4 p- Strike_027.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Strike_028.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+4 p- Strike_029.png
+4 p- Strike_030.png
+4 p- Strike_031.png
+C01                               #NOP
+4 p- Strike_032.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Strike_033.png
+4 p- Strike_034.png
+4 p- Strike_035.png
+4 p- Strike_027.png
+4 p- Strike_036.png
+25 p- Strike_024.png
+C4D                               #FE7:Play Athos' critical glint SFE
+4 p- Strike_037.png
+4 p- Strike_021.png
+4 p- Strike_012.png
+4 p- Strike_013.png
+4 p- Strike_014.png
+4 p- Strike_015.png
+4 p- Strike_016.png
+4 p- Strike_017.png
+4 p- Strike_018.png
+4 p- Strike_019.png
+4 p- Strike_020.png
+C4C                               #FE7:Play Athos' magic casting SFE
+4 p- Strike_019.png
+4 p- Strike_018.png
+4 p- Strike_017.png
+4 p- Strike_016.png
+4 p- Strike_015.png
+4 p- Strike_014.png
+4 p- Strike_013.png
+4 p- Strike_012.png
+4 p- Strike_038.png
+4 p- Strike_039.png
+C25                               #Play wing flap SFE
+4 p- Strike_040.png
+4 p- Strike_041.png
+5 p- Strike_042.png
+C35                               #Play longer wing flapping SFE
+4 p- Strike_043.png
+4 p- Strike_004.png
+4 p- Strike_005.png
+4 p- Strike_006.png
+4 p- Strike_001.png
+25 p- Strike_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

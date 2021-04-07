@@ -1,0 +1,187 @@
+/// - Mode 1
+
+C03 -
+
+C07 -
+
+3  p- At01.png
+
+/// - Attack Frames
+
+C04
+
+C1A
+
+C1F
+
+/// - Frames after hitting but before stopping to wait for HP depletion
+
+C01
+
+/// - RETURN TO BASE
+
+3  p- At01.png
+
+C06
+
+C0D
+
+~~~ -
+
+/// - Mode 3
+
+C03 -
+
+C07 -
+
+3  p- At01.png
+
+/// - Critical Frames
+
+C04
+
+C08
+
+C1F
+
+/// - Frames after hitting but before stopping to wait for HP depletion
+
+C01
+
+/// - RETURN TO BASE
+
+3  p- At01.png
+
+C06
+
+C0D
+
+~~~ - Mode 5
+
+C03 -
+
+C07 -
+
+5  p- At01.PNG
+
+C05
+
+4  p- At01.PNG
+
+C01
+
+4  p- At01.PNG
+
+C06
+
+3  p- At01.PNG
+
+C0D
+
+~~~ - Mode 6
+
+C03 -
+
+C07 -
+
+5  p- At01.PNG
+
+C05
+
+4  p- At01.PNG
+
+C01
+
+4  p- At01.PNG
+
+C06
+
+3  p- At01.PNG
+
+C0D
+
+~~~ - Mode 7
+
+C02
+
+2  p- At01.PNG
+
+C0E
+
+3  p- At01.PNG
+
+C01
+
+2  p- At01.PNG
+
+C06
+
+2  p- At01.PNG
+
+C0D
+
+~~~ - Mode 8
+
+C02
+
+2  p- At01.PNG
+
+C0E
+
+3  p- At01.PNG
+
+C01
+
+2  p- At01.PNG
+
+C06
+
+2  p- At01.PNG
+
+C0D
+
+~~~ - Mode 9
+
+3 p- At01.PNG
+
+C01 -
+
+~~~ - Mode 10
+
+3 p- At01.PNG
+
+C01 -
+
+~~~ - Mode 11
+
+3 p- At01.PNG
+
+C01 -
+
+~~~ - Mode 12
+
+C03 -
+
+C07 -
+
+3  p- At01.PNG
+
+/// - Attack-That-Will-Miss Frames
+
+C04
+
+C1F
+
+/// - Frames after hitting but before stopping to wait for HP depletion
+
+C01
+
+/// - RETURN TO BASE
+
+3  p- At01.PNG
+
+C06
+
+C0D
+
+~~~ - End Animation Data

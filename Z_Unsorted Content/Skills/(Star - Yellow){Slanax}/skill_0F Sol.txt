@@ -1,0 +1,4 @@
+S03D1 #play sound 
+5 skill_0F_Sol_g000.png
+10 skill_0F_Sol_g001.png
+15 skill_0F_Sol_g002.png

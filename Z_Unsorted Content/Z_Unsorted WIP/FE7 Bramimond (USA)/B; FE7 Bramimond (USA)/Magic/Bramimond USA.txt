@@ -1,0 +1,637 @@
+#######################################################
+#7B smnm_ro1 ドルイド ＢｒａｍＵＳＡ
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+4 p- Bramimond USA_000.png
+4 p- Bramimond USA_001.png
+S02E2                               #Sound 738 SE:Eclipse striking (shorter)
+15 p- Bramimond USA_002.png
+2 p- Bramimond USA_003.png
+1 p- Bramimond USA_004.png
+1 p- Bramimond USA_005.png
+1 p- Bramimond USA_006.png
+1 p- Bramimond USA_007.png
+1 p- Bramimond USA_008.png
+1 p- Bramimond USA_009.png
+1 p- Bramimond USA_010.png
+1 p- Bramimond USA_011.png
+1 p- Bramimond USA_012.png
+1 p- Bramimond USA_013.png
+1 p- Bramimond USA_014.png
+1 p- Bramimond USA_002.png
+1 p- Bramimond USA_014.png
+45 p- Bramimond USA_002.png
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+3 p- Bramimond USA_002.png
+3 p- Bramimond USA_015.png
+3 p- Bramimond USA_016.png
+C01                               #LOOPEND }  NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- Bramimond USA_015.png
+4 p- Bramimond USA_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+4 p- Bramimond USA_000.png
+4 p- Bramimond USA_001.png
+C49                               #賢者　魔法効果音
+2 p- Bramimond USA_017.png
+2 p- Bramimond USA_018.png
+2 p- Bramimond USA_019.png
+20 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_021.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_021.png
+25 p- Bramimond USA_001.png
+S02F8                               #Sound 760 SE:Sage critical conjuration @C85_2F
+3 p- Bramimond USA_022.png
+20 p- Bramimond USA_023.png
+3 p- Bramimond USA_024.png
+18 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_027.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_028.png
+1 p- Bramimond USA_029.png
+1 p- Bramimond USA_030.png
+1 p- Bramimond USA_031.png
+1 p- Bramimond USA_032.png
+1 p- Bramimond USA_033.png
+1 p- Bramimond USA_034.png
+1 p- Bramimond USA_035.png
+1 p- Bramimond USA_036.png
+1 p- Bramimond USA_037.png
+1 p- Bramimond USA_038.png
+19 p- Bramimond USA_039.png
+2 p- Bramimond USA_040.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_041.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_041.png
+30 p- Bramimond USA_001.png
+S02BD                               #Sound 701 SE:Luna symbol
+2 p- Bramimond USA_042.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_043.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_044.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_045.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_046.png
+1 p- Bramimond USA_001.png
+25 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+S0130                               #Sound 304 SE:Fenrir symbols
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_048.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_048.png
+1 p- Bramimond USA_047.png
+2 p- Bramimond USA_049.png
+2 p- Bramimond USA_050.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+S0131                               #Sound 305 SE:Fenrir rune
+2 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Bramimond USA_059.png
+2 p- Bramimond USA_057.png
+2 p- Bramimond USA_058.png
+C01                               #LOOPEND }  NOP
+1 p- Bramimond USA_002.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_015.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_016.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_002.png
+1 p- Bramimond USA_057.png
+2 p- Bramimond USA_002.png
+2 p- Bramimond USA_015.png
+2 p- Bramimond USA_016.png
+2 p- Bramimond USA_002.png
+2 p- Bramimond USA_015.png
+2 p- Bramimond USA_016.png
+2 p- Bramimond USA_002.png
+2 p- Bramimond USA_015.png
+2 p- Bramimond USA_016.png
+3 p- Bramimond USA_015.png
+4 p- Bramimond USA_002.png
+4 p- Bramimond USA_001.png
+4 p- Bramimond USA_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+4 p- Bramimond USA_000.png
+4 p- Bramimond USA_001.png
+S02E2                               #Sound 738 SE:Eclipse striking (shorter)
+15 p- Bramimond USA_002.png
+2 p- Bramimond USA_003.png
+1 p- Bramimond USA_004.png
+1 p- Bramimond USA_005.png
+1 p- Bramimond USA_006.png
+1 p- Bramimond USA_007.png
+1 p- Bramimond USA_008.png
+1 p- Bramimond USA_009.png
+1 p- Bramimond USA_010.png
+1 p- Bramimond USA_011.png
+1 p- Bramimond USA_012.png
+1 p- Bramimond USA_013.png
+1 p- Bramimond USA_014.png
+1 p- Bramimond USA_002.png
+1 p- Bramimond USA_014.png
+45 p- Bramimond USA_002.png
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+3 p- Bramimond USA_002.png
+3 p- Bramimond USA_015.png
+3 p- Bramimond USA_016.png
+C01                               #LOOPEND }  NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- Bramimond USA_015.png
+4 p- Bramimond USA_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+4 p- Bramimond USA_000.png
+4 p- Bramimond USA_001.png
+C49                               #賢者　魔法効果音
+2 p- Bramimond USA_017.png
+2 p- Bramimond USA_018.png
+2 p- Bramimond USA_019.png
+20 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_020.png
+2 p- Bramimond USA_001.png
+1 p- Bramimond USA_021.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_021.png
+25 p- Bramimond USA_001.png
+S02F8                               #Sound 760 SE:Sage critical conjuration @C85_2F
+3 p- Bramimond USA_022.png
+20 p- Bramimond USA_023.png
+3 p- Bramimond USA_024.png
+18 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_026.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_027.png
+1 p- Bramimond USA_025.png
+1 p- Bramimond USA_028.png
+1 p- Bramimond USA_029.png
+1 p- Bramimond USA_030.png
+1 p- Bramimond USA_031.png
+1 p- Bramimond USA_032.png
+1 p- Bramimond USA_033.png
+1 p- Bramimond USA_034.png
+1 p- Bramimond USA_035.png
+1 p- Bramimond USA_036.png
+1 p- Bramimond USA_037.png
+1 p- Bramimond USA_038.png
+19 p- Bramimond USA_039.png
+2 p- Bramimond USA_040.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_041.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_041.png
+30 p- Bramimond USA_001.png
+S02BD                               #Sound 701 SE:Luna symbol
+2 p- Bramimond USA_042.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_043.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_044.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_045.png
+1 p- Bramimond USA_001.png
+2 p- Bramimond USA_046.png
+1 p- Bramimond USA_001.png
+25 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+S0130                               #Sound 304 SE:Fenrir symbols
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_001.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_048.png
+1 p- Bramimond USA_047.png
+1 p- Bramimond USA_048.png
+1 p- Bramimond USA_047.png
+2 p- Bramimond USA_049.png
+2 p- Bramimond USA_050.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_051.png
+2 p- Bramimond USA_052.png
+2 p- Bramimond USA_053.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+2 p- Bramimond USA_056.png
+2 p- Bramimond USA_054.png
+2 p- Bramimond USA_055.png
+S0131                               #Sound 305 SE:Fenrir rune
+2 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_056.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_054.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_055.png
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Bramimond USA_059.png
+2 p- Bramimond USA_057.png
+2 p- Bramimond USA_058.png
+C01                               #LOOPEND }  NOP
+1 p- Bramimond USA_002.png
+1 p- Bramimond USA_057.png
+1 p- Bramimond USA_015.png
+1 p- Bramimond USA_058.png
+1 p- Bramimond USA_016.png
+1 p- Bramimond USA_059.png
+1 p- Bramimond USA_002.png
+1 p- Bramimond USA_057.png
+2 p- Bramimond USA_002.png
+2 p- Bramimond USA_015.png
+2 p- Bramimond USA_016.png
+2 p- Bramimond USA_002.png
+2 p- Bramimond USA_015.png
+2 p- Bramimond USA_016.png
+2 p- Bramimond USA_002.png
+2 p- Bramimond USA_015.png
+2 p- Bramimond USA_016.png
+3 p- Bramimond USA_015.png
+4 p- Bramimond USA_002.png
+4 p- Bramimond USA_001.png
+4 p- Bramimond USA_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Bramimond USA_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Bramimond USA_060.png
+1 p- Bramimond USA_061.png
+1 p- Bramimond USA_062.png
+1 p- Bramimond USA_061.png
+1 p- Bramimond USA_062.png
+C01                               #NOP
+2 p- Bramimond USA_061.png
+3 p- Bramimond USA_060.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Bramimond USA_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Bramimond USA_060.png
+1 p- Bramimond USA_061.png
+1 p- Bramimond USA_062.png
+1 p- Bramimond USA_061.png
+1 p- Bramimond USA_062.png
+C01                               #NOP
+2 p- Bramimond USA_061.png
+3 p- Bramimond USA_060.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+1 p- Bramimond USA_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+1 p- Bramimond USA_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+1 p- Bramimond USA_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+4 p- Bramimond USA_000.png
+4 p- Bramimond USA_001.png
+S02E2                               #Sound 738 SE:Eclipse striking (shorter)
+15 p- Bramimond USA_002.png
+2 p- Bramimond USA_003.png
+1 p- Bramimond USA_004.png
+1 p- Bramimond USA_005.png
+1 p- Bramimond USA_006.png
+1 p- Bramimond USA_007.png
+1 p- Bramimond USA_008.png
+1 p- Bramimond USA_009.png
+1 p- Bramimond USA_010.png
+1 p- Bramimond USA_011.png
+1 p- Bramimond USA_012.png
+1 p- Bramimond USA_013.png
+1 p- Bramimond USA_014.png
+1 p- Bramimond USA_002.png
+1 p- Bramimond USA_014.png
+45 p- Bramimond USA_002.png
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+3 p- Bramimond USA_002.png
+3 p- Bramimond USA_015.png
+3 p- Bramimond USA_016.png
+C01                               #LOOPEND }  NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- Bramimond USA_015.png
+4 p- Bramimond USA_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

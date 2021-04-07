@@ -1,0 +1,271 @@
+#######################################################
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C40                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C101029                               #Background brightness and opacity XX
+C012D48                               #Sound 301  [Empty Track]
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+9
+O  p- Spell_o_000.png
+B  p- Spell_b_002.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_003.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_004.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_003.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_004.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_004.png
+190
+O  p- Spell_o_000.png
+B  p- Spell_b_002.png
+2
+O  p- Spell_o_000.png
+B  p- Spell_b_005.png
+2
+O  p- Spell_o_000.png
+B  p- Spell_b_006.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+92
+C012E48                               #Sound 302  [Empty Track]
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+19
+O  p- Spell_o_000.png
+B  p- Spell_b_008.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_009.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_010.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_011.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_012.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_013.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_014.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_015.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_016.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_007.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_017.png
+1
+C15                               #Slight vibration of screen
+C1A                               #Required before 1F or miss termination branch
+C1F                               #Play a hit tone (requires 1A just before)
+O  p- Spell_o_000.png
+B  p- Spell_b_018.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+5
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+C012F48                               #Sound 303  [Empty Track]
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+C14                               #Heavy vibration of screen
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_019.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_020.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_021.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+6
+C14                               #Heavy vibration of screen
+~                               #miss terminator
+/// - End of animation

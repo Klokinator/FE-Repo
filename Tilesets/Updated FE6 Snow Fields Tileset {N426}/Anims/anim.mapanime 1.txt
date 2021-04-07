@@ -1,0 +1,17 @@
+//wait	filename
+28	anim.mapanime 1_000.png	4096
+28	anim.mapanime 1_001.png	4096
+28	anim.mapanime 1_002.png	4096
+28	anim.mapanime 1_003.png	4096
+28	anim.mapanime 1_004.png	4096
+28	anim.mapanime 1_005.png	4096
+28	anim.mapanime 1_006.png	4096
+28	anim.mapanime 1_007.png	4096
+28	anim.mapanime 1_008.png	4096
+28	anim.mapanime 1_009.png	4096
+28	anim.mapanime 1_010.png	4096
+28	anim.mapanime 1_011.png	4096
+28	anim.mapanime 1_012.png	4096
+28	anim.mapanime 1_013.png	4096
+28	anim.mapanime 1_014.png	4096
+28	anim.mapanime 1_015.png	4096

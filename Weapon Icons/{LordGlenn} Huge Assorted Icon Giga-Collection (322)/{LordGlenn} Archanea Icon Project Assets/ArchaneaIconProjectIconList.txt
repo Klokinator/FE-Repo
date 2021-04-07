@@ -1,0 +1,373 @@
+ *+===============================+*
+** Archanea Icon Project Icon List **
+ *+===============================+*
+
+Legend
+======
+
+- Icon Background Color dictates origin:
+Sky Blue = Awakening
+Green = Jugdral (Either FE4 or FE5)
+Pink = Archanea/Valentia (Either FE1/3/11/12 or FE2/15)
+Orange = New icon for an item found in-game that does not have any offical art or model
+Yellow = Entirely new item
+Purple = Icon for a standard item not found in Archanea/Valentia/Ylisse/Valm/Jugdral that has been incorporated
+Magenta = Outrealm Items, likely made for something else
+Red Outline = Icon needs fixed, is a WIP, is one I'm not happy with, or needs replaced.
+Red Bar = Separation between regular weapons/items and Outrealm items
+
+- Names or classes in parentheses indicate limitations on who can wield.
+An * after a name indicates a "soft-lock" in that those individuals can use the weapon from base weapon levels whereas other units must meet the requirements.
+Characters in [] are assumed to be able to use but are never in such a situation to do so.
+
+- If it uses a ">" in front of it, it is on the sheet.
+- If it uses a "-" in front of it, then there is only a placeholder square.
+
+- Multiple items have alternate versions; see notes in [] for details.
+
+- Other notes on items are listed in parentheses.
+
+Row 1 (Swords)
+-----
+> Bronze Sword
+> Slim Sword
+> Iron Sword
+> Poison Sword
+> Steel Sword
+> Silver Sword
+> Iron Blade
+> Steel Blade
+> Silver Blade
+
+> Amatsu (Myrmidon, Swordmaster)
+> Arch Sword (FE3 Master Sword)
+> Armorsmasher (FE3 Armorslayer, 3x Effectiveness)
+> Armorslayer (FE4 Armorslayer, 2x Effectiveness)
+> Barrier Blade
+> Beastslayer (Based on FE9 concept art of Laguzslayer)
+> Blessed Sword (Effective against Monsters, Restores HP at the start of each turn - Based on Fates' Blessed Lance)
+> Defender (Based on old FE TCG art of Safeguard, Gives a chance (% activation) to "Parry" a strike, trading a point of durability to cause an enemy melee attack to miss)
+> Devil Sword
+> Earth Sword (Nanna* [FE TCG])
+> Earth Sword (Nanna* [FE Cipher])
+> Flame Sword
+> Greatsword
+> Hero Sword
+> Killing Edge
+> Kingsword
+> Lady Sword (Females)
+> Lancereaver
+> Levin Sword
+> Light Sword (Leif*)
+> Longsword
+> Meisterschwert (FE5)
+> Paragon Sword
+> Prayer Sword
+> Pure Sword (Combination with Glass Sword)
+> Quick Sword
+> Rapier (Marth*, Feena*)
+> Runesword (Deals Light magic damage, Silences targets (Combination with Silence Sword), Range 1, produces a 2-tile Light-based anti-magic veil that seals magic; fusion of FE9's Runesword, FE4's Silence Sword, FEH's Barrier Blade)
+> Safeguard (FE Heroes design, regular +Def weapon)
+> Shamshir (Locked?)
+> Shortsword
+> Silver Rapier (Marth*, Feena*) (Effectively works like Awakening's Noble Rapier, but open to anyone)
+> Sleep Sword
+> Sonic Sword (Wind magic, Increased Critical, Low Might, +2 Speed, Range 1)
+> Trainer
+
+
+Row 2 (Swords continued)
+-----
+> Wind Sword
+> Wing Clipper
+> Wyrmslayer
+
+
+Row 3 (Special Swords, Outrealm Swords)
+-----
+> Balmung (Shanan, Larcei, Ulster, [Galzus], [Mareeta])
+> Balmunk (Shanam, knock-off Balmung)
+> Beloved Zofia (Celica) [Hook Ver.]
+> Beloved Zofia (Celica) [Hookless Ver.]
+> Beosword (Beowulf, Delmud, Felgus)
+> Blaggi Sword (Leif, Galzus, Mareeta, Nanna, Felgus, Delmud, Altena, Oifey, Seliph, Larcei, Ulster, [Raquesis], Ares, [Areone], Patty, [Sylvia], Leen, [Azel], Arthur, Teeny, Amid, Linda, Fee, [Other Children with Holy Blood that apply] [FE TCG])
+> Blaggi Sword [FE World/FE Cipher]
+> Broadsword (Ogma)
+> Archanean Falchion (Marth) (Based on Shadow Dragon's redesign to differentiate it from the Tyrfing)
+> Valentian Falchion (Alm)
+> Holy Sword (Olwen, Reinhardt)
+> Loptyr Sword (Raydrik)
+> Lustrous Sword (Sigurd, Seliph) (Based on the Silver Sword Arvis gives to Sigurd that is presumably passed down to Seliph; based on swords used by Sigurd in his Cipher artworks as well as Seliph's Blade from Awakening)
+> Mareeta's Sword (Mareeta [FE World])
+> Mareeta's Sword (Mareeta [FE Cipher])
+> Mercurius [FE TCG]
+> Mercurius [Shadows of Valentia]
+> Mystletainn (Eldigan, Ares)
+> Noble Rapier (Marth) (NOT the Awakening Noble Rapier; minor upgrade to default Rapier since that is usable by anyone. Inspired by Marth's sword in his Shadow Dragon official art)
+> Royal Sword (Alm)
+> Spirit Brand (Leif) (Based on Leif's sword in his various official arts and Leif's Blade from Awakening - +Charisma Skill, +Move Again/Galeforce (referencing Move and Lead Stars))
+> Spirit Brand (Leif) [Heroes Ver.] (Based on Heroes' Light Brand in-game model, could be used in place of regular Light Brand icon)
+> Tyrfing (Sigurd, Seliph)
+> Broken Sword
+-Outrealm Items-
+> Agrona (Treasured Sword of Bern; used by Narcian in Elibean Nights, "The Beginning")
+> Alondite
+> Amiti
+> Binding Blade [Ver. Normal]
+> Binding Blade [Ver. Aflame]
+> Caladbolg
+> Colichemarde (Eliwood's Rapier)
+> Colichemarde [Ver. Chroma] (Eliwood's Rapier, based on FE Cipher card B07-003HN)
+> Durandal [Ver. Normal]
+> Durandal [Ver. Aflame] (Big ups to BwdYeti for the assist on making this one look right.)
+> Eckesachs
+> Épée (Eirika's Rapier)
+> Ethelwald (Treasured Sword of House Caelin; used by Kent in Elibean Nights, "Caelin in Turmoil")
+> Ettard
+> Florete
+> Fólkvangr
+> Gurgurant
+> Lobera (Treasured Sword of House Pherae; formerly used by Elbert, used by Eliwood in Elibean Nights, "Lost Resolve")
+> Mani Katti
+
+
+Row 4 (Special Swords continued)
+-----
+> Ragnell
+> Regal Blade (FE7, based on Heroes artwork)
+> Regal Sword
+> Royal Fang (Roy's Rapier) (Which is not a "Rapier" in Cipher or Awakening)
+> Sieglinde (Based on Heroes artwork)
+> Sol Katti [Ver. Warriors/Cipher Normal]
+> Sol Katti [Ver. Warriors/Cipher Afterimage]
+
+
+Row 5 (Knives)
+-----
+
+
+Row 6 (Lances)
+-----
+> Bronze Lance
+> Slim Lance
+> Iron Lance
+> Steel Lance
+> Silver Lance
+> Iron Hasta
+> Steel Hasta
+> Silver Hasta
+> Flame Lance (Based on FE9 concept art)
+> Greatlance
+> Hero Lance (Finn*)
+> Javelin
+> Longlance
+> Pilum (Effective against Infantry)
+> Shortlance
+
+> Dragonpike (Dean?)
+> Gae Bolg (Altena)
+> Gradivus
+> Gungnir (Travant, Areone)
+> Wing Spear (Caeda - based on her Shadow Dragon/New Mystery of the Emblem official art)
+-Outrealm Items-
+> Cruentatus (Vaida's Uber Spear, based on her official art)
+> Fensalir
+> Maltet (3 variations, trying to get it to match sources)
+> Siegmund (based on Heroes artwork)
+
+
+Row 7 (Axes)
+-----
+> Bronze Axe
+> Iron Axe
+> (Iron) Poleaxe
+> Steel Poleaxe
+> Silver Poleaxe
+> Bolt Axe [Hybrid] (Based on FE9 concept art plus Awakening's concept art)
+> Short Axe (Based on FE9 concept art)
+
+> Hauteclere (Minerva*, Michalis*)
+> Helswath (Langobalt, Burian, Danan)
+> Pugi (Orsin)
+-Outrealm Items-
+> Armads [Ver. Normal]
+> Basiliskos (FE7, based on Heroes artwork)
+> Canis Beil (Based on the axe in Hector's FE6 official art)
+> Durga (Treasured Axe of Bern; used by Murdock in Elibean Nights, "The Beginning")
+> Nóatún
+
+
+Row 8 (Bows)
+-----
+> Bronze Bow
+> Iron Bow
+> Bright Bow (Based on FE9 concept art)
+> Cleave Bow
+> Greatbow (Extended Range - effectively a Steel/Silver Longbow hybrid)
+> Rune Bow (0 Might, uses user's Magic to generate an arrow that targets Resistance, Infinite Ammo)
+> Yumi (Andorei/Mounted archers-only; arrows laced with toxins that poison, put the foe to sleep, and so on)
+
+> Parthia 
+> Yewfelle (Briggid, Faval)
+-Outrealm Items-
+> Mulagir
+
+
+Row 9 (Crossbows)
+-----
+
+
+Row 10 (Ballistae)
+------
+> Stonehoist
+
+
+Row 11 (Staves)
+------
+> Heal
+> Mend
+> Recover
+> Fortify
+
+> Valkyrie (Claude, [Child])
+
+
+Row 12 (Fire Magic)
+------
+> Ember
+> Fire
+> Elfire
+- Arcfire
+- Bolganone
+- Burnout (Dying Flame)
+- Combust (Reece's Tome)
+> Meteor
+> Ragnarok
+> Valflame (Arvis, [Saias])
+-Outrealm Items-
+- Cymbeline
+> Forblaze
+- Ifrit (MAP attack, hits multiple targets - Based on Ifrid from TRS)
+- Rexflame
+- Starflare (Monster-effective, increases Defense - Based on Sunflame from TRS)
+
+
+Row 13 (Thunder Magic)
+------
+> Spark
+> Thunder
+- Elthunder
+- Arcthunder
+> Thoron
+- Bolting
+- Conduction (Speed Thunder; damages target and enemies within two spaces, but gives those adjacent enemies +4 Speed)
+- Megawatt (Superior Jolt)
+- Storm (Katarina* - Katarina's Bolt)
+> Dire Thunder (Olwen, Reinhardt)
+> Mjolnir (Reptor, Bloom, Ishtar)
+-Outrealm Items-
+- Discharge (MAP attack - Based on Evil Thunder from TRS)
+- Rexbolt
+
+
+Row 14 (Wind Magic)
+------
+> Wind
+> Elwind
+> Fimbulvetr (Blizzard (FE3))
+> Shaver
+
+> Excalibur (FE3) (Merric*, Wendell*?)
+> Excalibur (FE3) [FE Heroes ver.]
+> Forseti (Lewyn, Ced)
+> Grafcalibur (Asvel)
+-Outrealm Items-
+> Fimbulvetr (FE7) [FE Heroes ver.]
+> Gigascalibur / Giga Excalibur (FE7, based on Heroes artwork)
+> Väinämöinen (Treasured Ice Tome of Bern; used by Brunya in Elibean Nights, "The Beginning")
+> Valaskjálf
+
+
+Row 15 (Light Magic)
+------
+> Lightning
+> Divine
+> Purge
+> Sagittae (FE2 Arrow - Instead of "actual" arrows, a magical manifestation, similar to the arrows on Chapter 16x of FE6? - based on Heroes artwork)
+> Resire/Nosferatu
+
+> Aura (Jugdral - FE TCG]
+> Aura (Jugdral - Cipher, Deirdre SR)
+> Aura (Archanea - Miloah*, Linde*, Females)
+> Naga ([Deirdre], Julia) [FE TCG, FE Cipher]
+> Starlight [FE TCG]
+> Starlight [FE World]
+> Starlight [FE Cipher]
+-Outrealm Items-
+> Aureola [Ver. Normal]
+> Aureola [Ver. Aglow] (based on Cipher artwork)
+> Exordium (Spell crafted from another Realm (TRS); A flash of light that leaves the target powerless to counterattack. Based on Prelude from TRS.)
+
+
+Row 16 (Dark Magic)
+------
+> Jormungand
+> Worm (Swarm)
+> Fenrir
+> Hel
+
+> Grimoire (Etzel)
+> Imhullu [TCG] (Gharnef)
+> Imhullu [FE World w/ key lock] (Gharnef)
+> Imhullu [FE World] (Gharnef)
+> Loptyr (Julius)
+-Outrealm Items-
+> Apocalypse [Ver. Normal]
+> Élivágar (based on Heroes artwork)
+> Ereshkigal (based on Cipher artwork)
+
+
+Row 17 (Stones)
+------
+> Firestone
+> Icestone
+> Magestone
+> Wyvernstone
+> Divinestone
+> Earthstone
+
+
+Row 18 (Items)
+------
+> Vulnerary
+> Repair Kit
+
+
+Row 19 (Accessories (Rings, Shields, etc.))
+------
+> Circlet
+> Knight Ring
+> Fire Emblem
+> Shield of Seals
+-Outrealm Items-
+> Thief Glove (Used by those with sticky fingers; enables Stealing from non-Thief units)
+
+
+Row 20 (Accessories (Scrolls, Shards, Spheres))
+------
+> Baldur Scroll
+> Blaggi Scroll
+> Dain Scroll
+> Heim Scroll
+> Hezul Scroll
+> Neir Scroll
+> Noba Scroll
+> Odo Scroll
+> Sety Scroll
+> Tordo Scroll
+> Ulir Scroll
+> Vala Scroll
+> Starsphere
+> Geosphere
+> Lifesphere
+> Lightsphere

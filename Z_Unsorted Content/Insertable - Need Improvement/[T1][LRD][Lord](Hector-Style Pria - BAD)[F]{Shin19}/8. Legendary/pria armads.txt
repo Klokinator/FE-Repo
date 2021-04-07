@@ -1,0 +1,228 @@
+#######################################################
+#01 erlm_sw1 Lord Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+4 p- pria armads_000.png
+C28                               #Play electrical charging SFE
+8 p- pria armads_001.png
+4 p- pria armads_002.png
+C15                               #Slight vibration of screen
+4 p- pria armads_003.png
+8 p- pria armads_004.png
+8 p- pria armads_005.png
+8 p- pria armads_006.png
+C46                               #Play dropped axe crashing onto ground SFE
+6 p- pria armads_007.png
+C41                               #EMPTY
+4 p- pria armads_008.png
+6 p- pria armads_009.png
+6 p- pria armads_010.png
+16 p- pria armads_011.png
+4 p- pria armads_012.png
+4 p- pria armads_013.png
+4 p- pria armads_014.png
+4 p- pria armads_015.png
+4 p- pria armads_016.png
+4 p- pria armads_017.png
+6 p- pria armads_018.png
+C42                               #Play long axe swinging SFE
+5 p- pria armads_019.png
+C14                               #Heavy vibration of screen
+C51                               #Show brief white flash animation
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- pria armads_020.png
+4 p- pria armads_021.png
+4 p- pria armads_022.png
+C14                               #Heavy vibration of screen
+4 p- pria armads_023.png
+4 p- pria armads_024.png
+4 p- pria armads_025.png
+4 p- pria armads_026.png
+4 p- pria armads_027.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C41                               #EMPTY
+4 p- pria armads_028.png
+4 p- pria armads_029.png
+6 p- pria armads_030.png
+6 p- pria armads_006.png
+6 p- pria armads_005.png
+8 p- pria armads_031.png
+8 p- pria armads_001.png
+8 p- pria armads_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- pria armads_000.png
+C28                               #Play electrical charging SFE
+5 p- pria armads_001.png
+5 p- pria armads_002.png
+C15                               #Slight vibration of screen
+5 p- pria armads_003.png
+8 p- pria armads_004.png
+5 p- pria armads_005.png
+5 p- pria armads_006.png
+C46                               #Play dropped axe crashing onto ground SFE
+4 p- pria armads_007.png
+C41                               #EMPTY
+4 p- pria armads_008.png
+3 p- pria armads_009.png
+3 p- pria armads_010.png
+20 p- pria armads_011.png
+4 p- pria armads_012.png
+2 p- pria armads_013.png
+2 p- pria armads_014.png
+2 p- pria armads_015.png
+2 p- pria armads_016.png
+4 p- pria armads_017.png
+6 p- pria armads_018.png
+C42                               #Play long axe swinging SFE
+C51                               #Show brief white flash animation
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- pria armads_032.png
+3 p- pria armads_033.png
+3 p- pria armads_034.png
+C42                               #Play long axe swinging SFE
+C51                               #Show brief white flash animation
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- pria armads_035.png
+3 p- pria armads_036.png
+C42                               #Play long axe swinging SFE
+C51                               #Show brief white flash animation
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- pria armads_037.png
+C14                               #Heavy vibration of screen
+C51                               #Show brief white flash animation
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+2 p- pria armads_020.png
+2 p- pria armads_021.png
+2 p- pria armads_022.png
+C14                               #Heavy vibration of screen
+3 p- pria armads_023.png
+3 p- pria armads_024.png
+3 p- pria armads_025.png
+3 p- pria armads_026.png
+3 p- pria armads_027.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C41                               #EMPTY
+3 p- pria armads_028.png
+2 p- pria armads_029.png
+2 p- pria armads_030.png
+2 p- pria armads_006.png
+2 p- pria armads_005.png
+2 p- pria armads_004.png
+2 p- pria armads_031.png
+2 p- pria armads_001.png
+2 p- pria armads_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- pria armads_000.png
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- pria armads_000.png
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- pria armads_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- pria armads_038.png
+1 p- pria armads_039.png
+C01                               #NOP
+3 p- pria armads_038.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- pria armads_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- pria armads_038.png
+1 p- pria armads_039.png
+C01                               #NOP
+3 p- pria armads_038.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+3 p- pria armads_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+3 p- pria armads_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+3 p- pria armads_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- pria armads_000.png
+C28                               #Play electrical charging SFE
+5 p- pria armads_001.png
+5 p- pria armads_002.png
+C15                               #Slight vibration of screen
+5 p- pria armads_003.png
+8 p- pria armads_004.png
+5 p- pria armads_005.png
+5 p- pria armads_006.png
+C46                               #Play dropped axe crashing onto ground SFE
+4 p- pria armads_007.png
+C41                               #EMPTY
+4 p- pria armads_008.png
+3 p- pria armads_009.png
+3 p- pria armads_010.png
+20 p- pria armads_011.png
+4 p- pria armads_012.png
+2 p- pria armads_013.png
+2 p- pria armads_014.png
+2 p- pria armads_015.png
+2 p- pria armads_016.png
+4 p- pria armads_017.png
+6 p- pria armads_018.png
+C42                               #Play long axe swinging SFE
+5 p- pria armads_019.png
+C14                               #Heavy vibration of screen
+C51                               #Show brief white flash animation
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+2 p- pria armads_020.png
+2 p- pria armads_021.png
+2 p- pria armads_022.png
+C14                               #Heavy vibration of screen
+4 p- pria armads_040.png
+4 p- pria armads_041.png
+2 p- pria armads_029.png
+2 p- pria armads_030.png
+2 p- pria armads_006.png
+2 p- pria armads_005.png
+2 p- pria armads_004.png
+2 p- pria armads_031.png
+2 p- pria armads_001.png
+2 p- pria armads_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

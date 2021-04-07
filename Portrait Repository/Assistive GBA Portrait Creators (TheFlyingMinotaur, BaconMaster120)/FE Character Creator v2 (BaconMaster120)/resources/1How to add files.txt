@@ -1,0 +1,56 @@
+Any file of the proper format can be added to this folder to be used in the Character Creator.
+
+Token files must be 64x64 and end in "_Token.png"
+
+All others must be 96x96 and end in one of the following:
+"_Face.png", "_Hair.png", _"Hairb.png", "_Armor.png", "_Acc.png"*
+
+*Acc stands for accessories. It is implemented, but I only included two for test purposes.
+
+All files must conform to a certain color scheme in order to work properly.
+Each color has a red, green, and blue value. This program only looks at the RED values.
+Every red units correspond to a different body part/armor section.
+
+Divide the red value by 10, then use the following scales:
+
+For _Face and _Acc files:
+0 - outline color
+1 - eye and beard color (light) (Sorry, they're linked for now)
+2 - eye and beard color (base)
+3 - eye and beard color (dark)
+4 - skin color (light)
+5 - skin color (base)
+6 - skin color (dark)
+7 - skin color (darker)
+8 - skin color (darkest)
+9 - accessory color (light)
+10 - accessory color (base)
+11 - accessory color (dark)
+
+For _Armor and _Hair(b) files:
+0 - outline color
+1 - hair color (light)
+2 - hair color (base)
+3 - hair color (dark)
+4 - skin color (light)
+5 - skin color (base)
+6 - skin color (dark)
+7 - skin color (darker)
+8 - skin color (darkest)
+9 - metal color (light)
+10 - metal color (base)
+11 - metal color (dark)
+12 - trim color (light)
+13 - trim color (base)
+14 - trim color (dark)
+15 - cloth color (light)
+16 - cloth color (base)
+17 - cloth color (dark)
+18 - leather color (light)
+19 - leather color (base)
+20 - leather color (dark)
+
+In this newest version of the Character Creator, eye color has been separated from hair color.
+However, they share a red value with facial hair, and therefore can't be separated unless
+EVERY image is changed so that the eyes and facial hair have different red values.
+

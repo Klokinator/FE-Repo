@@ -1,0 +1,773 @@
+#######################################################
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C40                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C101029                               #Background brightness and opacity XX
+C010448                               #Sound 260  [Empty Track]
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_001.png
+13
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_002.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_003.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_003.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_003.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_004.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_005.png
+2
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_006.png
+3
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_007.png
+3
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_008.png
+4
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_009.png
+4
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_010.png
+4
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+97
+C010548                               #Sound 261  [Empty Track]
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+13
+O  p- Apocalypse_o_012.png
+B  p- Apocalypse_b_013.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_014.png
+B  p- Apocalypse_b_013.png
+1
+O  p- Apocalypse_o_015.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_016.png
+B  p- Apocalypse_b_017.png
+1
+O  p- Apocalypse_o_018.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_019.png
+B  p- Apocalypse_b_020.png
+1
+O  p- Apocalypse_o_021.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_022.png
+B  p- Apocalypse_b_023.png
+1
+O  p- Apocalypse_o_024.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_026.png
+B  p- Apocalypse_b_026.png
+1
+O  p- Apocalypse_o_027.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_029.png
+B  p- Apocalypse_b_029.png
+1
+O  p- Apocalypse_o_029.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_031.png
+B  p- Apocalypse_b_032.png
+1
+O  p- Apocalypse_o_031.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_034.png
+B  p- Apocalypse_b_034.png
+1
+O  p- Apocalypse_o_035.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_037.png
+B  p- Apocalypse_b_037.png
+1
+O  p- Apocalypse_o_038.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_040.png
+B  p- Apocalypse_b_040.png
+1
+O  p- Apocalypse_o_041.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_043.png
+B  p- Apocalypse_b_043.png
+1
+O  p- Apocalypse_o_044.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_045.png
+B  p- Apocalypse_b_046.png
+1
+O  p- Apocalypse_o_047.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_049.png
+B  p- Apocalypse_b_049.png
+1
+O  p- Apocalypse_o_050.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_052.png
+B  p- Apocalypse_b_052.png
+1
+O  p- Apocalypse_o_053.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_055.png
+B  p- Apocalypse_b_055.png
+1
+O  p- Apocalypse_o_056.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_058.png
+B  p- Apocalypse_b_058.png
+1
+O  p- Apocalypse_o_059.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_061.png
+B  p- Apocalypse_b_061.png
+1
+O  p- Apocalypse_o_062.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_063.png
+B  p- Apocalypse_b_064.png
+1
+O  p- Apocalypse_o_065.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_066.png
+B  p- Apocalypse_b_067.png
+1
+O  p- Apocalypse_o_068.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_069.png
+B  p- Apocalypse_b_070.png
+1
+O  p- Apocalypse_o_071.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_072.png
+B  p- Apocalypse_b_073.png
+1
+O  p- Apocalypse_o_074.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_075.png
+B  p- Apocalypse_b_076.png
+1
+O  p- Apocalypse_o_077.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_078.png
+B  p- Apocalypse_b_079.png
+1
+O  p- Apocalypse_o_080.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_081.png
+B  p- Apocalypse_b_082.png
+1
+O  p- Apocalypse_o_083.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_084.png
+B  p- Apocalypse_b_085.png
+1
+O  p- Apocalypse_o_086.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_087.png
+B  p- Apocalypse_b_029.png
+1
+O  p- Apocalypse_o_088.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_089.png
+B  p- Apocalypse_b_032.png
+1
+O  p- Apocalypse_o_090.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_091.png
+B  p- Apocalypse_b_034.png
+1
+O  p- Apocalypse_o_092.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_093.png
+B  p- Apocalypse_b_037.png
+1
+O  p- Apocalypse_o_094.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_095.png
+B  p- Apocalypse_b_040.png
+1
+O  p- Apocalypse_o_096.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_097.png
+B  p- Apocalypse_b_043.png
+1
+O  p- Apocalypse_o_098.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_099.png
+B  p- Apocalypse_b_046.png
+1
+O  p- Apocalypse_o_100.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_101.png
+B  p- Apocalypse_b_049.png
+1
+O  p- Apocalypse_o_102.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_103.png
+B  p- Apocalypse_b_052.png
+1
+O  p- Apocalypse_o_104.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_105.png
+B  p- Apocalypse_b_055.png
+1
+O  p- Apocalypse_o_106.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_107.png
+B  p- Apocalypse_b_058.png
+1
+O  p- Apocalypse_o_108.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_109.png
+B  p- Apocalypse_b_061.png
+1
+O  p- Apocalypse_o_110.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_111.png
+B  p- Apocalypse_b_064.png
+1
+O  p- Apocalypse_o_112.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_113.png
+B  p- Apocalypse_b_067.png
+1
+O  p- Apocalypse_o_114.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_115.png
+B  p- Apocalypse_b_070.png
+1
+O  p- Apocalypse_o_116.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_117.png
+B  p- Apocalypse_b_073.png
+1
+O  p- Apocalypse_o_118.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_119.png
+B  p- Apocalypse_b_076.png
+1
+O  p- Apocalypse_o_120.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_121.png
+B  p- Apocalypse_b_079.png
+1
+O  p- Apocalypse_o_122.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_123.png
+B  p- Apocalypse_b_082.png
+1
+O  p- Apocalypse_o_124.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_125.png
+B  p- Apocalypse_b_085.png
+1
+O  p- Apocalypse_o_126.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_127.png
+B  p- Apocalypse_b_029.png
+1
+O  p- Apocalypse_o_128.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_129.png
+B  p- Apocalypse_b_032.png
+1
+O  p- Apocalypse_o_130.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_131.png
+B  p- Apocalypse_b_034.png
+1
+O  p- Apocalypse_o_132.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_133.png
+B  p- Apocalypse_b_037.png
+1
+O  p- Apocalypse_o_134.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_135.png
+B  p- Apocalypse_b_040.png
+1
+O  p- Apocalypse_o_136.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_137.png
+B  p- Apocalypse_b_043.png
+1
+O  p- Apocalypse_o_138.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_046.png
+1
+O  p- Apocalypse_o_140.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_141.png
+B  p- Apocalypse_b_049.png
+1
+O  p- Apocalypse_o_142.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_143.png
+B  p- Apocalypse_b_052.png
+1
+O  p- Apocalypse_o_144.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_145.png
+B  p- Apocalypse_b_055.png
+1
+O  p- Apocalypse_o_146.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_147.png
+B  p- Apocalypse_b_058.png
+1
+O  p- Apocalypse_o_148.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_149.png
+B  p- Apocalypse_b_061.png
+1
+O  p- Apocalypse_o_150.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_151.png
+B  p- Apocalypse_b_064.png
+1
+O  p- Apocalypse_o_152.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_153.png
+B  p- Apocalypse_b_067.png
+1
+O  p- Apocalypse_o_154.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_155.png
+B  p- Apocalypse_b_070.png
+1
+O  p- Apocalypse_o_156.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_157.png
+B  p- Apocalypse_b_073.png
+1
+O  p- Apocalypse_o_158.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_159.png
+B  p- Apocalypse_b_076.png
+1
+O  p- Apocalypse_o_160.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_079.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_082.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_161.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_162.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_163.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_163.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_011.png
+3
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_010.png
+2
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_164.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_165.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_166.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_167.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_168.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_169.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_169.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_170.png
+2
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_171.png
+5
+C100829                               #Background brightness and opacity XX
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_170.png
+3
+C010648                               #Sound 262  [Empty Track]
+C14                               #Heavy vibration of screen
+C100929                               #Background brightness and opacity XX
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_172.png
+2
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_173.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_174.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_175.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_176.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_177.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_178.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_179.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_180.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_181.png
+1
+C1A                               #Required before 1F or miss termination branch
+C1F                               #Play a hit tone (requires 1A just before)
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_182.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_183.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_184.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_185.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_186.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_175.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_187.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_178.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_189.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_181.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_191.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_184.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_173.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_175.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_176.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_178.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_179.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_181.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_182.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_184.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_185.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_175.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_187.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_178.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_189.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_181.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_191.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_184.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_173.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_175.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_176.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_178.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_179.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_181.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_182.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_184.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_185.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_175.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_187.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_184.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_185.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_190.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_181.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_188.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_175.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_186.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_183.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_181.png
+1
+C14                               #Heavy vibration of screen
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_180.png
+1
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_177.png
+2
+O  p- Apocalypse_o_000.png
+B  p- Apocalypse_b_174.png
+2
+~                               #miss terminator
+/// - End of animation

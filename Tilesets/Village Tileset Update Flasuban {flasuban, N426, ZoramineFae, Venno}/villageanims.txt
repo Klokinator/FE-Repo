@@ -1,0 +1,9 @@
+//wait	filename
+16	villageanims000.bmp	4096
+16	villageanims001.bmp	4096
+16	villageanims002.bmp	4096
+16	villageanims003.bmp	4096
+16	villageanims004.bmp	4096
+16	villageanims005.bmp	4096
+16	villageanims006.bmp	4096
+16	villageanims007.bmp	4096

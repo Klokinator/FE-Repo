@@ -1,0 +1,9 @@
+//wait	filename
+11	castle_anims.mapanime 1_000.png
+11	castle_anims.mapanime 1_001.png
+11	castle_anims.mapanime 1_002.png
+11	castle_anims.mapanime 1_003.png
+11	castle_anims.mapanime 1_004.png
+11	castle_anims.mapanime 1_005.png
+11	castle_anims.mapanime 1_006.png
+11	castle_anims.mapanime 1_007.png

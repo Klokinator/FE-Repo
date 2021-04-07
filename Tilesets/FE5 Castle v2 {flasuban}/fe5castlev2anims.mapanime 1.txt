@@ -1,0 +1,9 @@
+//wait	filename
+16	fe5castlev2anims.mapanime 1_000.png	4096
+16	fe5castlev2anims.mapanime 1_001.png	4096
+16	fe5castlev2anims.mapanime 1_002.png	4096
+16	fe5castlev2anims.mapanime 1_003.png	4096
+16	fe5castlev2anims.mapanime 1_004.png	4096
+16	fe5castlev2anims.mapanime 1_005.png	4096
+16	fe5castlev2anims.mapanime 1_006.png	4096
+16	fe5castlev2anims.mapanime 1_007.png	4096

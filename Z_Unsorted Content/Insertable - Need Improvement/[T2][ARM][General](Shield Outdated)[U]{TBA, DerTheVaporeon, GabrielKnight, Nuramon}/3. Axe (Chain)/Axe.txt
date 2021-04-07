@@ -1,0 +1,427 @@
+#######################################################
+#1C Sniper Ballista
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+5 p- Axe_001.png
+5 p- Axe_002.png
+5 p- Axe_003.png
+7 p- Axe_004.png
+4 p- Axe_005.png
+C1B                               #Play quick "heavy step" SFE
+C14                               #Heavy vibration of screen
+4 p- Axe_006.png
+C2B                               #Play armored unit "leaping" SFE
+30 p- Axe_007.png
+8 p- Axe_008.png
+C24                               #Play sword slashing air SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Axe_009.png
+3 p- Axe_010.png
+C14                               #Heavy vibration of screen
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+1 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+6 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+6 p- Axe_015.png
+6 p- Axe_016.png
+20 p- Axe_017.png
+C23                               #Play shorter sword swinging SFE
+6 p- Axe_018.png
+4 p- Axe_019.png
+3 p- Axe_020.png
+3 p- Axe_021.png
+2 p- Axe_020.png
+2 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+6 p- Axe_022.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- Axe_023.png
+C2B                               #Play armored unit "leaping" SFE
+20 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #Heavy vibration of screen
+10 p- Axe_027.png
+C1B                               #Play quick "heavy step" SFE
+8 p- Axe_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_029.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+8 p- Axe_001.png
+C2B                               #Play armored unit "leaping" SFE
+16 p- Axe_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- Axe_030.png
+2 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+C38                               #Play heavy spear spinning SFE
+2 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+8 p- Axe_008.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C22                               #Play short sword swinging SFE
+3 p- Axe_009.png
+3 p- Axe_010.png
+C14                               #Heavy vibration of screen
+C0A                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+1 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+6 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+6 p- Axe_015.png
+6 p- Axe_016.png
+53 p- Axe_017.png
+C23                               #Play shorter sword swinging SFE
+6 p- Axe_018.png
+4 p- Axe_019.png
+3 p- Axe_020.png
+3 p- Axe_021.png
+2 p- Axe_020.png
+2 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+6 p- Axe_022.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- Axe_023.png
+C2B                               #Play armored unit "leaping" SFE
+36 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #Heavy vibration of screen
+10 p- Axe_027.png
+C1B                               #Play quick "heavy step" SFE
+8 p- Axe_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_029.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+5 p- Axe_001.png
+5 p- Axe_002.png
+5 p- Axe_003.png
+7 p- Axe_004.png
+4 p- Axe_005.png
+C1B                               #Play quick "heavy step" SFE
+C14                               #Heavy vibration of screen
+4 p- Axe_006.png
+C2B                               #Play armored unit "leaping" SFE
+30 p- Axe_007.png
+8 p- Axe_008.png
+C24                               #Play sword slashing air SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Axe_009.png
+3 p- Axe_010.png
+C14                               #Heavy vibration of screen
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+1 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+6 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+6 p- Axe_015.png
+6 p- Axe_016.png
+20 p- Axe_017.png
+C23                               #Play shorter sword swinging SFE
+6 p- Axe_018.png
+4 p- Axe_019.png
+3 p- Axe_020.png
+3 p- Axe_021.png
+2 p- Axe_020.png
+2 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+6 p- Axe_022.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- Axe_023.png
+C2B                               #Play armored unit "leaping" SFE
+20 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #Heavy vibration of screen
+10 p- Axe_027.png
+C1B                               #Play quick "heavy step" SFE
+8 p- Axe_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_029.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+8 p- Axe_001.png
+C2B                               #Play armored unit "leaping" SFE
+16 p- Axe_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- Axe_030.png
+2 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+C38                               #Play heavy spear spinning SFE
+2 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_044.png
+1 p- Axe_045.png
+8 p- Axe_008.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C22                               #Play short sword swinging SFE
+3 p- Axe_009.png
+3 p- Axe_010.png
+C14                               #Heavy vibration of screen
+C1A                               #Normal hit
+C0A                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+1 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+6 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+6 p- Axe_015.png
+6 p- Axe_016.png
+53 p- Axe_017.png
+C23                               #Play shorter sword swinging SFE
+6 p- Axe_018.png
+4 p- Axe_019.png
+3 p- Axe_020.png
+3 p- Axe_021.png
+2 p- Axe_020.png
+2 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+6 p- Axe_022.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- Axe_023.png
+C2B                               #Play armored unit "leaping" SFE
+36 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #Heavy vibration of screen
+10 p- Axe_027.png
+C1B                               #Play quick "heavy step" SFE
+8 p- Axe_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_029.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_046.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- Axe_047.png
+C01                               #NOP
+3 p- Axe_046.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_046.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- Axe_047.png
+C01                               #NOP
+3 p- Axe_046.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Axe_000.png
+5 p- Axe_001.png
+5 p- Axe_002.png
+5 p- Axe_003.png
+7 p- Axe_004.png
+4 p- Axe_005.png
+C1B                               #Play quick "heavy step" SFE
+C14                               #Heavy vibration of screen
+4 p- Axe_006.png
+C2B                               #Play armored unit "leaping" SFE
+20 p- Axe_007.png
+8 p- Axe_008.png
+C24                               #Play sword slashing air SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Axe_009.png
+2 p- Axe_048.png
+8 p- Axe_049.png
+C01                               #NOP
+3 p- Axe_050.png
+4 p- Axe_023.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+36 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #Heavy vibration of screen
+10 p- Axe_027.png
+C1B                               #Play quick "heavy step" SFE
+8 p- Axe_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_029.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

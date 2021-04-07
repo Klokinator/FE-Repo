@@ -1,0 +1,301 @@
+/// - Mode 1
+C03
+C07
+C55
+1 p- Blue_Assassin_without_comment_000.png
+3 p- Blue_Assassin_without_comment_001.png
+3 p- Blue_Assassin_without_comment_002.png
+3 p- Blue_Assassin_without_comment_003.png
+C36
+3 p- Blue_Assassin_without_comment_004.png
+1 p- Blue_Assassin_without_comment_005.png
+1 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_005.png
+2 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_005.png
+8 p- Blue_Assassin_without_comment_006.png
+C25
+1 p- Blue_Assassin_without_comment_007.png
+2 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_007.png
+1 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_007.png
+1 p- Blue_Assassin_without_comment_008.png
+1 p- Blue_Assassin_without_comment_009.png
+C23
+3 p- Blue_Assassin_without_comment_010.png
+C20
+C1A
+C04
+2 p- Blue_Assassin_without_comment_011.png
+3 p- Blue_Assassin_without_comment_012.png
+1 p- Blue_Assassin_without_comment_013.png
+2 p- Blue_Assassin_without_comment_014.png
+2 p- Blue_Assassin_without_comment_015.png
+7 p- Blue_Assassin_without_comment_016.png
+C01
+9 p- Blue_Assassin_without_comment_017.png
+C37
+2 p- Blue_Assassin_without_comment_018.png
+1 p- Blue_Assassin_without_comment_019.png
+10 p- Blue_Assassin_without_comment_020.png
+1 p- Blue_Assassin_without_comment_021.png
+1 p- Blue_Assassin_without_comment_022.png
+C34
+2 p- Blue_Assassin_without_comment_023.png
+4 p- Blue_Assassin_without_comment_024.png
+3 p- Blue_Assassin_without_comment_025.png
+2 p- Blue_Assassin_without_comment_026.png
+2 p- Blue_Assassin_without_comment_027.png
+1 p- Blue_Assassin_without_comment_028.png
+3 p- Blue_Assassin_without_comment_029.png
+C25
+1 p- Blue_Assassin_without_comment_030.png
+2 p- Blue_Assassin_without_comment_031.png
+C34
+5 p- Blue_Assassin_without_comment_032.png
+7 p- Blue_Assassin_without_comment_033.png
+3 p- Blue_Assassin_without_comment_034.png
+3 p- Blue_Assassin_without_comment_035.png
+4 p- Blue_Assassin_without_comment_036.png
+1 p- Blue_Assassin_without_comment_037.png
+C06
+2 p- Blue_Assassin_without_comment_037.png
+2 p- Blue_Assassin_without_comment_038.png
+2 p- Blue_Assassin_without_comment_039.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+C55
+1 p- Blue_Assassin_without_comment_000.png
+C2D
+2 p- Blue_Assassin_without_comment_040.png
+4 p- Blue_Assassin_without_comment_041.png
+6 p- Blue_Assassin_without_comment_042.png
+C36
+3 p- Blue_Assassin_without_comment_043.png
+2 p- Blue_Assassin_without_comment_044.png
+C23
+3 p- Blue_Assassin_without_comment_045.png
+8 p- Blue_Assassin_without_comment_046.png
+4 p- Blue_Assassin_without_comment_047.png
+C22
+2 p- Blue_Assassin_without_comment_048.png
+2 p- Blue_Assassin_without_comment_049.png
+2 p- Blue_Assassin_without_comment_050.png
+2 p- Blue_Assassin_without_comment_051.png
+3 p- Blue_Assassin_without_comment_052.png
+C43
+3 p- Blue_Assassin_without_comment_053.png
+11 p- Blue_Assassin_without_comment_054.png
+3 p- Blue_Assassin_without_comment_055.png
+1 p- Blue_Assassin_without_comment_005.png
+1 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_005.png
+2 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_005.png
+6 p- Blue_Assassin_without_comment_006.png
+C25
+1 p- Blue_Assassin_without_comment_056.png
+2 p- Blue_Assassin_without_comment_057.png
+2 p- Blue_Assassin_without_comment_056.png
+1 p- Blue_Assassin_without_comment_057.png
+2 p- Blue_Assassin_without_comment_056.png
+2 p- Blue_Assassin_without_comment_057.png
+1 p- Blue_Assassin_without_comment_058.png
+1 p- Blue_Assassin_without_comment_059.png
+C1F
+2 p- Blue_Assassin_without_comment_057.png
+1 p- Blue_Assassin_without_comment_060.png
+1 p- Blue_Assassin_without_comment_061.png
+1 p- Blue_Assassin_without_comment_062.png
+C1F
+6 p- Blue_Assassin_without_comment_063.png
+8 p- Blue_Assassin_without_comment_064.png
+C04
+C20
+C08
+2 p- Blue_Assassin_without_comment_065.png
+2 p- Blue_Assassin_without_comment_066.png
+1 p- Blue_Assassin_without_comment_067.png
+1 p- Blue_Assassin_without_comment_057.png
+1 p- Blue_Assassin_without_comment_068.png
+2 p- Blue_Assassin_without_comment_057.png
+1 p- Blue_Assassin_without_comment_069.png
+2 p- Blue_Assassin_without_comment_057.png
+C01
+1 p- Blue_Assassin_without_comment_020.png
+2 p- Blue_Assassin_without_comment_057.png
+2 p- Blue_Assassin_without_comment_020.png
+1 p- Blue_Assassin_without_comment_057.png
+6 p- Blue_Assassin_without_comment_020.png
+1 p- Blue_Assassin_without_comment_021.png
+1 p- Blue_Assassin_without_comment_022.png
+C34
+2 p- Blue_Assassin_without_comment_023.png
+4 p- Blue_Assassin_without_comment_024.png
+3 p- Blue_Assassin_without_comment_025.png
+2 p- Blue_Assassin_without_comment_026.png
+2 p- Blue_Assassin_without_comment_027.png
+1 p- Blue_Assassin_without_comment_028.png
+2 p- Blue_Assassin_without_comment_029.png
+C25
+1 p- Blue_Assassin_without_comment_030.png
+2 p- Blue_Assassin_without_comment_031.png
+C34
+5 p- Blue_Assassin_without_comment_032.png
+7 p- Blue_Assassin_without_comment_033.png
+3 p- Blue_Assassin_without_comment_034.png
+3 p- Blue_Assassin_without_comment_035.png
+4 p- Blue_Assassin_without_comment_036.png
+1 p- Blue_Assassin_without_comment_037.png
+C06
+2 p- Blue_Assassin_without_comment_037.png
+2 p- Blue_Assassin_without_comment_038.png
+2 p- Blue_Assassin_without_comment_039.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Blue_Assassin_without_comment_000.png
+3 p- Blue_Assassin_without_comment_070.png
+C36
+2 p- Blue_Assassin_without_comment_071.png
+C05
+1 p- Blue_Assassin_without_comment_072.png
+1 p- Blue_Assassin_without_comment_073.png
+C01
+2 p- Blue_Assassin_without_comment_071.png
+C37
+C06
+4 p- Blue_Assassin_without_comment_074.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Blue_Assassin_without_comment_000.png
+3 p- Blue_Assassin_without_comment_070.png
+C36
+2 p- Blue_Assassin_without_comment_071.png
+C05
+1 p- Blue_Assassin_without_comment_072.png
+2 p- Blue_Assassin_without_comment_073.png
+2 p- Blue_Assassin_without_comment_075.png
+2 p- Blue_Assassin_without_comment_073.png
+3 p- Blue_Assassin_without_comment_075.png
+2 p- Blue_Assassin_without_comment_073.png
+3 p- Blue_Assassin_without_comment_075.png
+1 p- Blue_Assassin_without_comment_073.png
+1 p- Blue_Assassin_without_comment_075.png
+3 p- Blue_Assassin_without_comment_073.png
+2 p- Blue_Assassin_without_comment_075.png
+1 p- Blue_Assassin_without_comment_073.png
+C01
+2 p- Blue_Assassin_without_comment_071.png
+C37
+C06
+4 p- Blue_Assassin_without_comment_074.png
+C0D
+~~~
+/// - Mode 7
+C18
+1 p- Blue_Assassin_without_comment_000.png
+C0E
+3 p- Blue_Assassin_without_comment_076.png
+1 p- Blue_Assassin_without_comment_077.png
+C01
+3 p- Blue_Assassin_without_comment_076.png
+C0D
+~~~
+/// - Mode 8
+C18
+1 p- Blue_Assassin_without_comment_000.png
+C0E
+3 p- Blue_Assassin_without_comment_076.png
+1 p- Blue_Assassin_without_comment_077.png
+C01
+3 p- Blue_Assassin_without_comment_076.png
+C0D
+~~~
+/// - Mode 9
+1 p- Blue_Assassin_without_comment_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Blue_Assassin_without_comment_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Blue_Assassin_without_comment_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Blue_Assassin_without_comment_000.png
+3 p- Blue_Assassin_without_comment_001.png
+3 p- Blue_Assassin_without_comment_002.png
+3 p- Blue_Assassin_without_comment_003.png
+C36
+3 p- Blue_Assassin_without_comment_004.png
+1 p- Blue_Assassin_without_comment_005.png
+1 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_005.png
+2 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_005.png
+8 p- Blue_Assassin_without_comment_006.png
+C25
+1 p- Blue_Assassin_without_comment_078.png
+2 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_078.png
+1 p- Blue_Assassin_without_comment_006.png
+1 p- Blue_Assassin_without_comment_078.png
+1 p- Blue_Assassin_without_comment_007.png
+1 p- Blue_Assassin_without_comment_008.png
+1 p- Blue_Assassin_without_comment_009.png
+C23
+3 p- Blue_Assassin_without_comment_010.png
+C04
+2 p- Blue_Assassin_without_comment_079.png
+2 p- Blue_Assassin_without_comment_080.png
+1 p- Blue_Assassin_without_comment_013.png
+2 p- Blue_Assassin_without_comment_014.png
+2 p- Blue_Assassin_without_comment_015.png
+7 p- Blue_Assassin_without_comment_016.png
+C01
+9 p- Blue_Assassin_without_comment_017.png
+C37
+2 p- Blue_Assassin_without_comment_018.png
+1 p- Blue_Assassin_without_comment_019.png
+10 p- Blue_Assassin_without_comment_020.png
+1 p- Blue_Assassin_without_comment_021.png
+1 p- Blue_Assassin_without_comment_022.png
+C34
+2 p- Blue_Assassin_without_comment_023.png
+4 p- Blue_Assassin_without_comment_024.png
+3 p- Blue_Assassin_without_comment_025.png
+2 p- Blue_Assassin_without_comment_026.png
+2 p- Blue_Assassin_without_comment_027.png
+2 p- Blue_Assassin_without_comment_028.png
+1 p- Blue_Assassin_without_comment_029.png
+C25
+1 p- Blue_Assassin_without_comment_030.png
+2 p- Blue_Assassin_without_comment_031.png
+C34
+5 p- Blue_Assassin_without_comment_032.png
+7 p- Blue_Assassin_without_comment_033.png
+3 p- Blue_Assassin_without_comment_034.png
+3 p- Blue_Assassin_without_comment_035.png
+4 p- Blue_Assassin_without_comment_036.png
+1 p- Blue_Assassin_without_comment_037.png
+C06
+2 p- Blue_Assassin_without_comment_037.png
+2 p- Blue_Assassin_without_comment_038.png
+2 p- Blue_Assassin_without_comment_039.png
+C0D
+~~~
+/// - End of animation

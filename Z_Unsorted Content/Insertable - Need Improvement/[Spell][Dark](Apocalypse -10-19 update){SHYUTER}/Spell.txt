@@ -1,0 +1,949 @@
+C000000
+C000000
+C000000
+C000000
+C000000
+C000000
+C000000
+C000040
+C010F29
+C010448
+C000153
+O Spell_o_000.png
+B Spell_b_001.png
+7
+
+O Spell_o_000.png
+B Spell_b_002.png
+2
+
+C020E29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C040D29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C060D29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C070D29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C090D29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C0B0D29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C0C0C29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C0D0C29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C0E0C29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C0F0C29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C100C29
+O Spell_o_000.png
+B Spell_b_002.png
+8
+
+O Spell_o_000.png
+B Spell_b_002.png
+30
+
+O Spell_o_000.png
+B Spell_b_002.png
+20
+
+O Spell_o_000.png
+B Spell_b_002.png
+30
+
+O Spell_o_000.png
+B Spell_b_002.png
+20
+
+C010548
+O Spell_o_000.png
+B Spell_b_002.png
+13
+
+O Spell_o_000.png
+B Spell_b_003.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_004.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_005.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_006.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_007.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_008.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_009.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_010.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B C:\Users\brady\Downloads\GBA FE SHYUTERz PATCH\自作アニメーション (Self-made animation)\Legendry Spell Animation\Apocalypse\Apocalypse\Spell__broken_bg17982796.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_012.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_013.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_014.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_016.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_017.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_018.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_019.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_020.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_021.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_022.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_023.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_024.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_025.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_026.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_027.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_028.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_029.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_006.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_007.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_008.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_009.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_010.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B C:\Users\brady\Downloads\GBA FE SHYUTERz PATCH\自作アニメーション (Self-made animation)\Legendry Spell Animation\Apocalypse\Apocalypse\Spell__broken_bg17984396.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_012.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_013.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_014.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_015.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_016.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_017.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_018.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_019.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_020.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_021.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_022.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_023.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_024.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_025.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_026.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_027.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_028.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_029.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_006.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_007.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_008.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_009.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_010.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_011.png
+1
+
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C100B29
+O Spell_o_000.png
+B C:\Users\brady\Downloads\GBA FE SHYUTERz PATCH\自作アニメーション (Self-made animation)\Legendry Spell Animation\Apocalypse\Apocalypse\Spell__broken_bg17986000.png
+1
+
+C100A29
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C100829
+O Spell_o_000.png
+B Spell_b_012.png
+1
+
+C100629
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+C100429
+O Spell_o_000.png
+B Spell_b_013.png
+1
+
+C100229
+O Spell_o_000.png
+B Spell_b_002.png
+1
+
+O Spell_o_000.png
+B Spell_b_030.png
+1
+
+O Spell_o_000.png
+B Spell_b_031.png
+1
+
+O Spell_o_000.png
+B Spell_b_032.png
+1
+
+O Spell_o_000.png
+B Spell_b_033.png
+1
+
+C020129
+O Spell_o_000.png
+B Spell_b_034.png
+1
+
+C060129
+O Spell_o_000.png
+B Spell_b_034.png
+1
+
+C0A0129
+O Spell_o_000.png
+B Spell_b_034.png
+2
+
+C0E0129
+O Spell_o_000.png
+B Spell_b_034.png
+2
+
+C100129
+O Spell_o_000.png
+B Spell_b_034.png
+27
+
+O Spell_o_000.png
+B Spell_b_034.png
+2
+
+C010648
+C000014
+C0C0129
+O Spell_o_000.png
+B Spell_b_034.png
+1
+
+C070129
+O Spell_o_000.png
+B Spell_b_034.png
+1
+
+C040329
+O Spell_o_000.png
+B Spell_b_034.png
+1
+
+C020529
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C040529
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C060529
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C080529
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C0A0529
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+C0C0429
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C0E0429
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C100429
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+C00001A
+C00001F
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_035.png
+3
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C000014
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C100629
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C0E0729
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C0C0829
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C0B0929
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_038.png
+1
+
+C0A0A29
+O Spell_o_000.png
+B Spell_b_035.png
+2
+
+C000014
+O Spell_o_000.png
+B Spell_b_036.png
+1
+
+C080A29
+O Spell_o_000.png
+B Spell_b_037.png
+2
+
+C000014
+C070B29
+O Spell_o_000.png
+B Spell_b_039.png
+1
+
+C000014
+C060C29
+O Spell_o_000.png
+B Spell_b_040.png
+1
+
+C050D29
+O Spell_o_000.png
+B Spell_b_041.png
+1
+
+C040E29
+O Spell_o_000.png
+B Spell_b_042.png
+1
+
+C030F29
+O Spell_o_000.png
+B Spell_b_043.png
+1
+
+O Spell_o_000.png
+B Spell_b_044.png
+1
+
+C021029
+O Spell_o_000.png
+B Spell_b_045.png
+1
+
+C011029
+O Spell_o_000.png
+B Spell_b_046.png
+2
+
+O Spell_o_000.png
+B Spell_b_047.png
+2
+
+~
+C000053
+/// - End of animation

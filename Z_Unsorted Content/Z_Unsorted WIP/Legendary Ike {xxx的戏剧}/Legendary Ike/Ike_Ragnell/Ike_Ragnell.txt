@@ -1,0 +1,266 @@
+﻿/// - Mode 1
+C03
+C07
+1 p- 0.png
+3 p- 1.png
+3 p- 2.png
+C42
+4 p- 3.png
+2 p- 4.png
+2 p- 5.png
+2 p- 6.png
+2 p- 7.png
+2 p- 8.png
+3 p- 9.png
+4 p- 10.png
+4 p- 11.png
+4 p- 12.png
+4 p- 13.png
+C42
+C1A
+C15
+4 p- 14.png
+3 p- 15.png
+C1F
+C04
+L01
+4 p- 16.png
+4 p- 17.png
+C01
+4 p- 18.png
+4 p- 19.png
+4 p- 20.png
+C15
+2 p- 21.png
+C25
+1 p- 22.png
+6 p- 23.png
+2 p- 24.png
+4 p- 25.png
+2 p- 26.png
+3 p- 27.png
+1 p- 28.png
+C34
+C15
+5 p- 29.png
+3 p- 30.png
+2 p- 31.png
+C06
+2 p- 32.png
+1 p- 0.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- 33.png
+C00E248
+3 p- 34.png
+3 p- 35.png
+6 p- 36.png
+6 p- 37.png
+C00F848
+6 p- 38.png
+6 p- 39.png
+6 p- 40.png
+6 p- 41.png
+6 p- 42.png
+6 p- 43.png
+6 p- 44.png
+6 p- 45.png
+C42
+2 p- 46.png
+4 p- 47.png
+4 p- 48.png
+4 p- 49.png
+4 p- 50.png
+4 p- 51.png
+4 p- 52.png
+4 p- 53.png
+4 p- 54.png
+4 p- 55.png
+C25
+4 p- 56.png
+2 p- 57.png
+2 p- 58.png
+6 p- 59.png
+3 p- 60.png
+C38
+3 p- 61.png
+3 p- 62.png
+3 p- 63.png
+C38
+3 p- 64.png
+3 p- 65.png
+3 p- 66.png
+C42
+C08
+C1F
+C14
+3 p- 67.png
+C04
+L01
+3 p- 68.png
+3 p- 69.png
+C01
+4 p- 70.png
+4 p- 71.png
+5 p- 72.png
+C15
+2 p- 73.png
+C25
+1 p- 74.png
+6 p- 75.png
+2 p- 76.png
+4 p- 77.png
+2 p- 78.png
+3 p- 79.png
+1 p- 80.png
+C34
+C15
+5 p- 81.png
+3 p- 82.png
+2 p- 83.png
+C06
+2 p- 84.png
+1 p- 0.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- 85.png
+C22
+2 p- 86.png
+30 p- 87.png
+C42
+2 p- 88.png
+4 p- 89.png
+4 p- 90.png
+C05
+L01
+4 p- 91.png
+4 p- 92.png
+C01
+2 p- 93.png
+C06
+1 p- 0.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- 94.png
+C00E248
+3 p- 95.png
+6 p- 96.png
+6 p- 97.png
+C00F848
+10 p- 98.png
+10 p- 99.png
+10 p- 100.png
+10 p- 101.png
+10 p- 102.png
+C42
+2 p- 103.png
+4 p- 104.png
+4 p- 105.png
+C05
+L01
+4 p- 106.png
+4 p- 107.png
+C01
+4 p- 108.png
+4 p- 109.png
+4 p- 110.png
+4 p- 111.png
+C06
+2 p- 112.png
+1 p- 0.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- 113.png
+C0E
+3 p- 114.png
+1 p- 115.png
+C01
+3 p- 114.png
+1 p- 116.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- 113.png
+C0E
+3 p- 114.png
+1 p- 115.png
+C01
+3 p- 114.png
+1 p- 116.png
+C0D
+~~~
+/// - Mode 9
+1 p- 0.png
+C01
+~~~
+/// - Mode 10
+1 p- 0.png
+C01
+~~~
+/// - Mode 11
+1 p- 0.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- 0.png
+3 p- 1.png
+3 p- 2.png
+C42
+4 p- 3.png
+2 p- 4.png
+2 p- 5.png
+2 p- 6.png
+2 p- 7.png
+2 p- 8.png
+3 p- 9.png
+4 p- 10.png
+4 p- 11.png
+4 p- 12.png
+4 p- 13.png
+C42
+C15
+4 p- 14.png
+3 p- 15.png
+C04
+L01
+4 p- 16.png
+4 p- 17.png
+C01
+4 p- 18.png
+4 p- 19.png
+4 p- 20.png
+C15
+2 p- 21.png
+C25
+1 p- 22.png
+6 p- 23.png
+2 p- 24.png
+4 p- 25.png
+2 p- 26.png
+3 p- 27.png
+1 p- 28.png
+C34
+C15
+5 p- 29.png
+3 p- 30.png
+2 p- 31.png
+C06
+2 p- 32.png
+1 p- 0.png
+C0D
+~~~
+/// - End of animation

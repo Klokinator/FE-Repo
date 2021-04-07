@@ -1,0 +1,263 @@
+#######################################################
+#1C Sniper Ballista
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+5 p- Lance_000.png
+5 p- Lance_001.png
+5 p- Lance_002.png
+5 p- Lance_003.png
+1 p- Lance_004.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+10 p- Lance_004.png
+5 p- Lance_005.png
+5 p- Lance_006.png
+5 p- Lance_007.png
+1 p- Lance_008.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+14 p- Lance_008.png
+5 p- Lance_009.png
+5 p- Lance_010.png
+13 p- Lance_011.png
+2 p- Lance_012.png
+1 p- Lance_013.png
+C22                                     #Play short sword swinging SFE
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                                     #Normal hit
+C20                                     #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C15                                     #Slight vibration of screen
+C2B                                     #Play armored unit "leaping" SFE
+11 p- Lance_014.png
+C01                                     #NOP
+5 p- Lance_015.png
+10 p- Lance_016.png
+C2B                                     #Play armored unit "leaping" SFE
+5 p- Lance_017.png
+5 p- Lance_018.png
+5 p- Lance_006.png
+5 p- Lance_005.png
+1 p- Lance_004.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+10 p- Lance_004.png
+5 p- Lance_003.png
+5 p- Lance_002.png
+5 p- Lance_001.png
+1 p- Lance_000.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+5 p- Lance_000.png
+5 p- Lance_001.png
+5 p- Lance_002.png
+5 p- Lance_003.png
+1 p- Lance_004.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+10 p- Lance_004.png
+5 p- Lance_005.png
+5 p- Lance_006.png
+5 p- Lance_007.png
+1 p- Lance_008.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+14 p- Lance_008.png
+5 p- Lance_009.png
+5 p- Lance_010.png
+3 p- Lance_019.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Lance_020.png
+4 p- Lance_021.png
+4 p- Lance_022.png
+3 p- Lance_019.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Lance_020.png
+4 p- Lance_021.png
+4 p- Lance_022.png
+13 p- Lance_011.png
+2 p- Lance_012.png
+1 p- Lance_013.png
+C22                                     #Play short sword swinging SFE
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C08                                     #Critical hit
+C20                                     #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C15                                     #Slight vibration of screen
+C2B                                     #Play armored unit "leaping" SFE
+11 p- Lance_014.png
+C01                                     #NOP
+5 p- Lance_015.png
+10 p- Lance_016.png
+C2B                                     #Play armored unit "leaping" SFE
+5 p- Lance_017.png
+5 p- Lance_018.png
+5 p- Lance_006.png
+5 p- Lance_005.png
+1 p- Lance_004.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+10 p- Lance_004.png
+5 p- Lance_003.png
+5 p- Lance_002.png
+5 p- Lance_001.png
+1 p- Lance_000.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+5 p- Lance_000.png
+4 p- Lance_023.png
+4 p- Lance_024.png
+C2B                                     #Play armored unit "leaping" SFE
+4 p- Lance_025.png
+8 p- Lance_026.png
+4 p- Lance_027.png
+4 p- Lance_028.png
+C05                                     #Call spell associated with equipped weapon
+1 p- Lance_029.png
+C2B                                     #Play armored unit "leaping" SFE
+C01                                     #NOP
+4 p- Lance_030.png
+3 p- Lance_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+5 p- Lance_000.png
+4 p- Lance_023.png
+4 p- Lance_024.png
+C2B                                     #Play armored unit "leaping" SFE
+4 p- Lance_025.png
+3 p- Lance_031.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Lance_032.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+3 p- Lance_031.png
+C38                                     #Play heavy spear spinning SFE
+3 p- Lance_032.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+8 p- Lance_026.png
+4 p- Lance_027.png
+4 p- Lance_028.png
+C05                                     #Call spell associated with equipped weapon
+1 p- Lance_029.png
+C2B                                     #Play armored unit "leaping" SFE
+C01                                     #NOP
+4 p- Lance_030.png
+3 p- Lance_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C18                                     #Use this instead of 02 to dodge toward the foreground instead of toward the background
+3 p- Lance_035.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Lance_036.png
+C2B                                     #Play armored unit "leaping" SFE
+8 p- Lance_036.png
+C01                                     #NOP
+5 p- Lance_036.png
+2 p- Lance_035.png
+C2B                                     #Play armored unit "leaping" SFE
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C18                                     #Use this instead of 02 to dodge toward the foreground instead of toward the background
+3 p- Lance_035.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Lance_036.png
+C2B                                     #Play armored unit "leaping" SFE
+8 p- Lance_036.png
+C01                                     #NOP
+5 p- Lance_036.png
+2 p- Lance_035.png
+C2B                                     #Play armored unit "leaping" SFE
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+3 p- Lance_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+3 p- Lance_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+3 p- Lance_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+5 p- Lance_000.png
+5 p- Lance_001.png
+5 p- Lance_002.png
+5 p- Lance_003.png
+1 p- Lance_004.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+10 p- Lance_004.png
+5 p- Lance_005.png
+5 p- Lance_006.png
+5 p- Lance_007.png
+1 p- Lance_008.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+14 p- Lance_008.png
+5 p- Lance_009.png
+5 p- Lance_010.png
+13 p- Lance_011.png
+2 p- Lance_012.png
+1 p- Lance_037.png
+C22                                     #Play short sword swinging SFE
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C15                                     #Slight vibration of screen
+C2B                                     #Play armored unit "leaping" SFE
+11 p- Lance_038.png
+C01                                     #NOP
+5 p- Lance_039.png
+10 p- Lance_016.png
+C2B                                     #Play armored unit "leaping" SFE
+5 p- Lance_017.png
+5 p- Lance_018.png
+5 p- Lance_006.png
+5 p- Lance_005.png
+1 p- Lance_004.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+10 p- Lance_004.png
+5 p- Lance_003.png
+5 p- Lance_002.png
+5 p- Lance_001.png
+1 p- Lance_000.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+C2B                                     #Play armored unit "leaping" SFE
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

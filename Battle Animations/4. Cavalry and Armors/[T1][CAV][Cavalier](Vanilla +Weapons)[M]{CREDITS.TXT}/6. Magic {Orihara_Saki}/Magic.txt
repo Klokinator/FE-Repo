@@ -1,0 +1,190 @@
+#######################################################
+#01 erlm_sw1 ロード Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+4 p- Magic_001.png
+2 p- Magic_002.png
+15 p- Magic_003.png
+2 p- Magic_004.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_005.png
+30 p- Magic_005.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_006.png
+3 p- Magic_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Magic_007.png
+1 p- Magic_007.png
+2 p- Magic_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Magic_007.png
+3 p- Magic_008.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+4 p- Magic_001.png
+C22                               #Play short sword swinging SFE
+2 p- Magic_009.png
+2 p- Magic_010.png
+C79                               #
+1 p- Magic_010.png
+2 p- Magic_011.png
+2 p- Magic_012.png
+2 p- Magic_012.png
+2 p- Magic_013.png
+2 p- Magic_014.png
+2 p- Magic_015.png
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_015.png
+2 p- Magic_014.png
+2 p- Magic_013.png
+2 p- Magic_012.png
+2 p- Magic_011.png
+2 p- Magic_010.png
+15 p- Magic_003.png
+2 p- Magic_004.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_005.png
+30 p- Magic_005.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_006.png
+3 p- Magic_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Magic_007.png
+1 p- Magic_007.png
+2 p- Magic_007.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+4 p- Magic_001.png
+2 p- Magic_002.png
+15 p- Magic_003.png
+2 p- Magic_004.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_005.png
+30 p- Magic_005.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_006.png
+3 p- Magic_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Magic_007.png
+1 p- Magic_007.png
+2 p- Magic_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Magic_007.png
+3 p- Magic_008.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; should be followed by 0x07
+1 p- Magic_000.png
+4 p- Magic_001.png
+C22                               #Play short sword swinging SFE
+2 p- Magic_009.png
+2 p- Magic_010.png
+C79                               #
+1 p- Magic_010.png
+2 p- Magic_011.png
+2 p- Magic_012.png
+2 p- Magic_012.png
+2 p- Magic_013.png
+2 p- Magic_014.png
+2 p- Magic_015.png
+3 p- Magic_016.png
+3 p- Magic_017.png
+2 p- Magic_015.png
+2 p- Magic_014.png
+2 p- Magic_013.png
+2 p- Magic_012.png
+2 p- Magic_011.png
+2 p- Magic_010.png
+15 p- Magic_003.png
+2 p- Magic_004.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_005.png
+30 p- Magic_005.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_006.png
+3 p- Magic_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Magic_007.png
+1 p- Magic_007.png
+2 p- Magic_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Magic_007.png
+3 p- Magic_008.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_018.png
+1 p- Magic_019.png
+C01                               #NOP
+3 p- Magic_018.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_018.png
+1 p- Magic_019.png
+C01                               #NOP
+3 p- Magic_018.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #standing motions?
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+1 p- Magic_000.png
+4 p- Magic_001.png
+2 p- Magic_002.png
+15 p- Magic_003.png
+2 p- Magic_004.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_005.png
+30 p- Magic_005.png
+C22                               #Play short sword swinging SFE
+3 p- Magic_006.png
+3 p- Magic_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Magic_007.png
+1 p- Magic_007.png
+2 p- Magic_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Magic_007.png
+3 p- Magic_008.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

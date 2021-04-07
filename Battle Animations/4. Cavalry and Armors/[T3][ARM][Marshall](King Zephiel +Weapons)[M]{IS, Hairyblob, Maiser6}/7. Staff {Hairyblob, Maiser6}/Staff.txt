@@ -1,0 +1,105 @@
+#######################################################
+#01 lorm_sp1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+6 p- Staff_000.png
+5 p- Staff_001.png
+C05                               #Call spell associated with equipped weapon
+5 p- Staff_002.png
+6 p- Staff_003.png
+C01                               #NOP
+5 p- Staff_004.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Staff_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+6 p- Staff_000.png
+5 p- Staff_001.png
+C05                               #Call spell associated with equipped weapon
+5 p- Staff_002.png
+6 p- Staff_003.png
+C01                               #NOP
+5 p- Staff_004.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Staff_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+6 p- Staff_000.png
+5 p- Staff_001.png
+C05                               #Call spell associated with equipped weapon
+5 p- Staff_002.png
+6 p- Staff_003.png
+C01                               #NOP
+5 p- Staff_004.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Staff_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+6 p- Staff_000.png
+5 p- Staff_001.png
+C05                               #Call spell associated with equipped weapon
+5 p- Staff_002.png
+6 p- Staff_003.png
+C01                               #NOP
+5 p- Staff_004.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Staff_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+3 p- Staff_000.png
+5 p- Staff_005.png
+7 p- Staff_006.png
+5 p- Staff_005.png
+1 p- Staff_000.png
+C01                               #NOP
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+3 p- Staff_000.png
+5 p- Staff_005.png
+7 p- Staff_006.png
+5 p- Staff_005.png
+1 p- Staff_000.png
+C01                               #NOP
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Staff_000.png
+~~~
+/// - Mode 10               #standing motions?
+1 p- Staff_000.png
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Staff_000.png
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+6 p- Staff_000.png
+5 p- Staff_001.png
+C05                               #Call spell associated with equipped weapon
+5 p- Staff_002.png
+6 p- Staff_003.png
+C01                               #NOP
+5 p- Staff_004.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Staff_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

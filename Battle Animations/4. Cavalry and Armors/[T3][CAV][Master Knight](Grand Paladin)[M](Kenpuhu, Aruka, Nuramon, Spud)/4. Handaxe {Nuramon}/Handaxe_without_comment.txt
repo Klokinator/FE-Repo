@@ -1,0 +1,259 @@
+/// - Mode 1
+C03
+C07
+1 p- Handaxe_000.png
+C1C
+4 p- Handaxe_001.png
+4 p- Handaxe_002.png
+C1C
+10 p- Handaxe_003.png
+4 p- Handaxe_004.png
+4 p- Handaxe_005.png
+4 p- Handaxe_006.png
+6 p- Handaxe_007.png
+8 p- Handaxe_008.png
+C41
+2 p- Handaxe_009.png
+3 p- Handaxe_010.png
+C05
+20 p- Handaxe_011.png
+C01
+2 p- Handaxe_012.png
+C41
+2 p- Handaxe_009.png
+4 p- Handaxe_008.png
+4 p- Handaxe_007.png
+4 p- Handaxe_006.png
+4 p- Handaxe_004.png
+3 p- Handaxe_013.png
+C1C
+4 p- Handaxe_014.png
+6 p- Handaxe_015.png
+5 p- Handaxe_016.png
+C1C
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+C1C
+5 p- Handaxe_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Handaxe_000.png
+C1C
+4 p- Handaxe_001.png
+4 p- Handaxe_002.png
+C1C
+10 p- Handaxe_003.png
+4 p- Handaxe_004.png
+4 p- Handaxe_005.png
+4 p- Handaxe_006.png
+C38
+2 p- Handaxe_019.png
+2 p- Handaxe_020.png
+2 p- Handaxe_021.png
+2 p- Handaxe_022.png
+C38
+2 p- Handaxe_019.png
+2 p- Handaxe_020.png
+2 p- Handaxe_021.png
+2 p- Handaxe_022.png
+2 p- Handaxe_023.png
+6 p- Handaxe_007.png
+8 p- Handaxe_008.png
+C41
+2 p- Handaxe_009.png
+3 p- Handaxe_010.png
+C05
+20 p- Handaxe_011.png
+C01
+2 p- Handaxe_012.png
+C41
+2 p- Handaxe_009.png
+4 p- Handaxe_008.png
+4 p- Handaxe_007.png
+4 p- Handaxe_006.png
+4 p- Handaxe_004.png
+3 p- Handaxe_013.png
+C1C
+4 p- Handaxe_014.png
+6 p- Handaxe_015.png
+5 p- Handaxe_016.png
+C1C
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+C1C
+5 p- Handaxe_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Handaxe_000.png
+C1C
+4 p- Handaxe_001.png
+4 p- Handaxe_002.png
+C1C
+10 p- Handaxe_003.png
+4 p- Handaxe_004.png
+4 p- Handaxe_005.png
+4 p- Handaxe_006.png
+6 p- Handaxe_007.png
+8 p- Handaxe_008.png
+C41
+2 p- Handaxe_009.png
+3 p- Handaxe_010.png
+C05
+20 p- Handaxe_011.png
+C01
+2 p- Handaxe_012.png
+C41
+2 p- Handaxe_009.png
+4 p- Handaxe_008.png
+4 p- Handaxe_007.png
+4 p- Handaxe_006.png
+4 p- Handaxe_004.png
+3 p- Handaxe_013.png
+C1C
+4 p- Handaxe_014.png
+6 p- Handaxe_015.png
+5 p- Handaxe_016.png
+C1C
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+C1C
+5 p- Handaxe_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Handaxe_000.png
+C1C
+4 p- Handaxe_001.png
+4 p- Handaxe_002.png
+C1C
+10 p- Handaxe_003.png
+4 p- Handaxe_004.png
+4 p- Handaxe_005.png
+4 p- Handaxe_006.png
+C38
+2 p- Handaxe_019.png
+2 p- Handaxe_020.png
+2 p- Handaxe_021.png
+2 p- Handaxe_022.png
+C38
+2 p- Handaxe_019.png
+2 p- Handaxe_020.png
+2 p- Handaxe_021.png
+2 p- Handaxe_022.png
+2 p- Handaxe_023.png
+6 p- Handaxe_007.png
+8 p- Handaxe_008.png
+C41
+2 p- Handaxe_009.png
+3 p- Handaxe_010.png
+C05
+20 p- Handaxe_011.png
+C01
+2 p- Handaxe_012.png
+C41
+2 p- Handaxe_009.png
+4 p- Handaxe_008.png
+4 p- Handaxe_007.png
+4 p- Handaxe_006.png
+4 p- Handaxe_004.png
+3 p- Handaxe_013.png
+C1C
+4 p- Handaxe_014.png
+6 p- Handaxe_015.png
+5 p- Handaxe_016.png
+C1C
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+C1C
+5 p- Handaxe_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Handaxe_000.png
+C0E
+1 p- Handaxe_024.png
+1 p- Handaxe_025.png
+3 p- Handaxe_026.png
+C01
+3 p- Handaxe_027.png
+3 p- Handaxe_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Handaxe_000.png
+C0E
+1 p- Handaxe_024.png
+1 p- Handaxe_025.png
+3 p- Handaxe_026.png
+C01
+3 p- Handaxe_027.png
+3 p- Handaxe_000.png
+C0D
+~~~
+/// - Mode 9
+3 p- Handaxe_000.png
+C01
+~~~
+/// - Mode 10
+3 p- Handaxe_000.png
+C01
+~~~
+/// - Mode 11
+2 p- Handaxe_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Handaxe_000.png
+C1C
+4 p- Handaxe_001.png
+4 p- Handaxe_002.png
+C1C
+10 p- Handaxe_003.png
+4 p- Handaxe_004.png
+4 p- Handaxe_005.png
+4 p- Handaxe_006.png
+6 p- Handaxe_007.png
+8 p- Handaxe_008.png
+C41
+2 p- Handaxe_009.png
+3 p- Handaxe_010.png
+C05
+20 p- Handaxe_011.png
+C01
+2 p- Handaxe_012.png
+C41
+2 p- Handaxe_009.png
+4 p- Handaxe_008.png
+4 p- Handaxe_007.png
+4 p- Handaxe_006.png
+4 p- Handaxe_004.png
+3 p- Handaxe_013.png
+C1C
+4 p- Handaxe_014.png
+6 p- Handaxe_015.png
+5 p- Handaxe_016.png
+C1C
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+C1C
+5 p- Handaxe_000.png
+C06
+C0D
+~~~
+/// - End of animation

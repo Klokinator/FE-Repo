@@ -1,0 +1,303 @@
+/// - Mode 1
+C03
+C07
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+20 p- Legendary_006.png
+10 p- Legendary_007.png
+C42
+2 p- Legendary_008.png
+C2B
+C15
+8 p- Legendary_009.png
+10 p- Legendary_010.png
+C42
+2 p- Legendary_011.png
+C2B
+C15
+3 p- Legendary_012.png
+3 p- Legendary_013.png
+3 p- Legendary_014.png
+C04
+C1A
+C14
+C1F
+5 p- Legendary_015.png
+C01
+C22
+C42
+2 p- Legendary_016.png
+C2B
+C15
+8 p- Legendary_017.png
+8 p- Legendary_018.png
+C2B
+C15
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15
+C1B
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+20 p- Legendary_006.png
+10 p- Legendary_007.png
+C2B
+2 p- Legendary_027.png
+C2B
+C15
+5 p- Legendary_028.png
+5 p- Legendary_029.png
+5 p- Legendary_030.png
+15 p- Legendary_031.png
+C43
+8 p- Legendary_032.png
+C42
+C2B
+5 p- Legendary_033.png
+C42
+5 p- Legendary_034.png
+5 p- Legendary_035.png
+5 p- Legendary_036.png
+5 p- Legendary_037.png
+5 p- Legendary_038.png
+C2B
+C42
+5 p- Legendary_039.png
+2 p- Legendary_040.png
+C2B
+C14
+C46
+3 p- Legendary_041.png
+C31
+3 p- Legendary_042.png
+3 p- Legendary_043.png
+C04
+C1A
+C1F
+3 p- Legendary_044.png
+C01
+C22
+C42
+2 p- Legendary_016.png
+C2B
+C15
+8 p- Legendary_017.png
+8 p- Legendary_018.png
+C2B
+C1B
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15
+C1B
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+4 p- Legendary_006.png
+C05
+4 p- Legendary_045.png
+C01
+4 p- Legendary_045.png
+C06
+4 p- Legendary_006.png
+5 p- Legendary_005.png
+5 p- Legendary_004.png
+5 p- Legendary_003.png
+5 p- Legendary_002.png
+5 p- Legendary_001.png
+C15
+C1B
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+4 p- Legendary_006.png
+C28
+4 p- Legendary_045.png
+7 p- Legendary_046.png
+7 p- Legendary_047.png
+7 p- Legendary_048.png
+7 p- Legendary_049.png
+10 p- Legendary_045.png
+C05
+4 p- Legendary_045.png
+C01
+4 p- Legendary_045.png
+C06
+4 p- Legendary_006.png
+5 p- Legendary_005.png
+5 p- Legendary_004.png
+5 p- Legendary_003.png
+5 p- Legendary_002.png
+5 p- Legendary_001.png
+C15
+C1B
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+10 p- Legendary_000.png
+C22
+C42
+2 p- Legendary_050.png
+C2B
+C15
+8 p- Legendary_018.png
+C01
+C2B
+C1B
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15
+C1B
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06
+C0D
+~~~
+/// - Mode 8
+C02
+10 p- Legendary_000.png
+C22
+C42
+2 p- Legendary_050.png
+C2B
+C15
+8 p- Legendary_018.png
+C01
+C2B
+C1B
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15
+C1B
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06
+C0D
+~~~
+/// - Mode 9
+2 p- Legendary_000.png
+C01
+~~~
+/// - Mode 10
+2 p- Legendary_000.png
+C01
+~~~
+/// - Mode 11
+2 p- Legendary_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+20 p- Legendary_006.png
+10 p- Legendary_007.png
+C42
+2 p- Legendary_008.png
+C2B
+C15
+8 p- Legendary_009.png
+8 p- Legendary_010.png
+C42
+2 p- Legendary_011.png
+C2B
+C15
+3 p- Legendary_012.png
+3 p- Legendary_013.png
+3 p- Legendary_014.png
+C42
+C04
+7 p- Legendary_015.png
+C01
+C22
+C42
+2 p- Legendary_016.png
+C2B
+C15
+8 p- Legendary_017.png
+8 p- Legendary_018.png
+C2B
+C1B
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15
+C1B
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06
+C0D
+~~~
+/// - End of animation

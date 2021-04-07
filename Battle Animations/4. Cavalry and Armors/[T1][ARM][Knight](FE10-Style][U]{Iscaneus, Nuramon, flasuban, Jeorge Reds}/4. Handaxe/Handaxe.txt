@@ -1,0 +1,280 @@
+#######################################################
+#
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+5 p- Handaxe_000.png
+4 p- Handaxe_001.png
+6 p- Handaxe_002.png
+6 p- Handaxe_003.png
+6 p- Handaxe_004.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+9 p- Handaxe_005.png
+4 p- Handaxe_006.png
+3 p- Handaxe_007.png
+3 p- Handaxe_008.png
+2 p- Handaxe_009.png
+2 p- Handaxe_010.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+C41                               #EMPTY
+2 p- Handaxe_011.png
+C05                               #Call spell associated with equipped weapon
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C41                               #EMPTY
+C43                               #Play weapon stance SFE (Clicking noise)
+C13                               #ranged attack - hand axe for Hector
+6 p- Handaxe_015.png
+6 p- Handaxe_016.png
+6 p- Handaxe_017.png
+6 p- Handaxe_018.png
+6 p- Handaxe_019.png
+6 p- Handaxe_020.png
+6 p- Handaxe_021.png
+6 p- Handaxe_022.png
+6 p- Handaxe_023.png
+1 p- Handaxe_000.png
+C01                               #NOP
+5 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+5 p- Handaxe_000.png
+4 p- Handaxe_001.png
+C41                               #EMPTY
+2 p- Handaxe_024.png
+2 p- Handaxe_025.png
+2 p- Handaxe_026.png
+C41                               #EMPTY
+2 p- Handaxe_027.png
+2 p- Handaxe_028.png
+2 p- Handaxe_029.png
+C41                               #EMPTY
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+2 p- Handaxe_030.png
+2 p- Handaxe_031.png
+2 p- Handaxe_032.png
+3 p- Handaxe_007.png
+3 p- Handaxe_008.png
+2 p- Handaxe_009.png
+2 p- Handaxe_010.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+C41                               #EMPTY
+2 p- Handaxe_011.png
+C05                               #Call spell associated with equipped weapon
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C41                               #EMPTY
+C43                               #Play weapon stance SFE (Clicking noise)
+C13                               #ranged attack - hand axe for Hector
+6 p- Handaxe_015.png
+6 p- Handaxe_016.png
+6 p- Handaxe_017.png
+6 p- Handaxe_018.png
+6 p- Handaxe_019.png
+6 p- Handaxe_020.png
+6 p- Handaxe_021.png
+6 p- Handaxe_022.png
+6 p- Handaxe_023.png
+1 p- Handaxe_000.png
+C01                               #NOP
+5 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+5 p- Handaxe_000.png
+4 p- Handaxe_001.png
+6 p- Handaxe_002.png
+6 p- Handaxe_003.png
+6 p- Handaxe_004.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+9 p- Handaxe_005.png
+4 p- Handaxe_006.png
+3 p- Handaxe_007.png
+3 p- Handaxe_008.png
+2 p- Handaxe_009.png
+2 p- Handaxe_010.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+C41                               #EMPTY
+2 p- Handaxe_011.png
+C05                               #Call spell associated with equipped weapon
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C41                               #EMPTY
+C43                               #Play weapon stance SFE (Clicking noise)
+C13                               #ranged attack - hand axe for Hector
+6 p- Handaxe_015.png
+6 p- Handaxe_016.png
+6 p- Handaxe_017.png
+6 p- Handaxe_018.png
+6 p- Handaxe_019.png
+6 p- Handaxe_020.png
+6 p- Handaxe_021.png
+6 p- Handaxe_022.png
+6 p- Handaxe_023.png
+1 p- Handaxe_000.png
+C01                               #NOP
+5 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+5 p- Handaxe_000.png
+4 p- Handaxe_001.png
+C41                               #EMPTY
+2 p- Handaxe_024.png
+2 p- Handaxe_025.png
+2 p- Handaxe_026.png
+C41                               #EMPTY
+2 p- Handaxe_027.png
+2 p- Handaxe_028.png
+2 p- Handaxe_029.png
+C41                               #EMPTY
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+2 p- Handaxe_030.png
+2 p- Handaxe_031.png
+2 p- Handaxe_032.png
+3 p- Handaxe_007.png
+3 p- Handaxe_008.png
+2 p- Handaxe_009.png
+2 p- Handaxe_010.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+C41                               #EMPTY
+2 p- Handaxe_011.png
+C05                               #Call spell associated with equipped weapon
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C41                               #EMPTY
+C43                               #Play weapon stance SFE (Clicking noise)
+C13                               #ranged attack - hand axe for Hector
+6 p- Handaxe_015.png
+6 p- Handaxe_016.png
+6 p- Handaxe_017.png
+6 p- Handaxe_018.png
+6 p- Handaxe_019.png
+6 p- Handaxe_020.png
+6 p- Handaxe_021.png
+6 p- Handaxe_022.png
+6 p- Handaxe_023.png
+1 p- Handaxe_000.png
+C01                               #NOP
+5 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+5 p- Handaxe_000.png
+2 p- Handaxe_033.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+2 p- Handaxe_034.png
+C01                               #NOP
+2 p- Handaxe_033.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+5 p- Handaxe_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+5 p- Handaxe_000.png
+2 p- Handaxe_033.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+2 p- Handaxe_034.png
+C01                               #NOP
+2 p- Handaxe_033.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+5 p- Handaxe_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+2 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+2 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+2 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; should be followed by 0x07
+C07                               #Start attack animation; should be preceeded by 0x03
+5 p- Handaxe_000.png
+4 p- Handaxe_001.png
+6 p- Handaxe_002.png
+6 p- Handaxe_003.png
+6 p- Handaxe_004.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+9 p- Handaxe_005.png
+4 p- Handaxe_006.png
+3 p- Handaxe_007.png
+3 p- Handaxe_008.png
+2 p- Handaxe_009.png
+2 p- Handaxe_010.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+C41                               #EMPTY
+2 p- Handaxe_011.png
+C05                               #Call spell associated with equipped weapon
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C41                               #EMPTY
+C43                               #Play weapon stance SFE (Clicking noise)
+C13                               #ranged attack - hand axe for Hector
+6 p- Handaxe_015.png
+6 p- Handaxe_016.png
+6 p- Handaxe_017.png
+6 p- Handaxe_018.png
+6 p- Handaxe_019.png
+6 p- Handaxe_020.png
+6 p- Handaxe_021.png
+6 p- Handaxe_022.png
+6 p- Handaxe_023.png
+1 p- Handaxe_000.png
+C01                               #NOP
+5 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

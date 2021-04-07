@@ -1,0 +1,308 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+20 p- Legendary_006.png
+10 p- Legendary_007.png
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_008.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_009.png
+10 p- Legendary_010.png
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_011.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+3 p- Legendary_012.png
+3 p- Legendary_013.png
+3 p- Legendary_014.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                                     #Normal hit
+C14                                     #Heavy vibration of screen
+C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+5 p- Legendary_015.png
+C01                                     #NOP
+C22                                     #Play short sword swinging SFE
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_016.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_017.png
+8 p- Legendary_018.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+20 p- Legendary_006.png
+10 p- Legendary_007.png
+C2B                                     #Play armored unit "leaping" SFE
+2 p- Legendary_027.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+5 p- Legendary_028.png
+5 p- Legendary_029.png
+5 p- Legendary_030.png
+15 p- Legendary_031.png
+C43                                     #Play weapon stance SFE (Clicking noise)
+8 p- Legendary_032.png
+C42                                     #Play long axe swinging SFE
+C2B                                     #Play armored unit "leaping" SFE
+5 p- Legendary_033.png
+C42                                     #Play long axe swinging SFE
+5 p- Legendary_034.png
+5 p- Legendary_035.png
+5 p- Legendary_036.png
+5 p- Legendary_037.png
+5 p- Legendary_038.png
+C2B                                     #Play armored unit "leaping" SFE
+C42                                     #Play long axe swinging SFE
+5 p- Legendary_039.png
+2 p- Legendary_040.png
+C2B                                     #Play armored unit "leaping" SFE
+C14                                     #Heavy vibration of screen
+C46                                     #Play dropped axe crashing onto ground SFE
+3 p- Legendary_041.png
+C31                                     #Show small dirt wave moving forward animation
+3 p- Legendary_042.png
+3 p- Legendary_043.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                                     #Normal hit
+C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Legendary_044.png
+C01                                     #NOP
+C22                                     #Play short sword swinging SFE
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_016.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_017.png
+8 p- Legendary_018.png
+C2B                                     #Play armored unit "leaping" SFE
+C1B                                     #Play quick "heavy step" SFE
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+4 p- Legendary_006.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Legendary_045.png
+C01                                     #NOP
+4 p- Legendary_045.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+4 p- Legendary_006.png
+5 p- Legendary_005.png
+5 p- Legendary_004.png
+5 p- Legendary_003.png
+5 p- Legendary_002.png
+5 p- Legendary_001.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+4 p- Legendary_006.png
+C28                                     #Play electrical charging SFE
+4 p- Legendary_045.png
+7 p- Legendary_046.png
+7 p- Legendary_047.png
+7 p- Legendary_048.png
+7 p- Legendary_049.png
+10 p- Legendary_045.png
+C05                                     #Call spell associated with equipped weapon
+4 p- Legendary_045.png
+C01                                     #NOP
+4 p- Legendary_045.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+4 p- Legendary_006.png
+5 p- Legendary_005.png
+5 p- Legendary_004.png
+5 p- Legendary_003.png
+5 p- Legendary_002.png
+5 p- Legendary_001.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+10 p- Legendary_000.png
+C22                                     #Play short sword swinging SFE
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_050.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_018.png
+C01                                     #NOP
+C2B                                     #Play armored unit "leaping" SFE
+C1B                                     #Play quick "heavy step" SFE
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+10 p- Legendary_000.png
+C22                                     #Play short sword swinging SFE
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_050.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_018.png
+C01                                     #NOP
+C2B                                     #Play armored unit "leaping" SFE
+C1B                                     #Play quick "heavy step" SFE
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+2 p- Legendary_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+2 p- Legendary_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+2 p- Legendary_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+10 p- Legendary_000.png
+5 p- Legendary_001.png
+5 p- Legendary_002.png
+5 p- Legendary_003.png
+5 p- Legendary_004.png
+5 p- Legendary_005.png
+20 p- Legendary_006.png
+10 p- Legendary_007.png
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_008.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_009.png
+8 p- Legendary_010.png
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_011.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+3 p- Legendary_012.png
+3 p- Legendary_013.png
+3 p- Legendary_014.png
+C42                                     #Play long axe swinging SFE
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+7 p- Legendary_015.png
+C01                                     #NOP
+C22                                     #Play short sword swinging SFE
+C42                                     #Play long axe swinging SFE
+2 p- Legendary_016.png
+C2B                                     #Play armored unit "leaping" SFE
+C15                                     #Slight vibration of screen
+8 p- Legendary_017.png
+8 p- Legendary_018.png
+C2B                                     #Play armored unit "leaping" SFE
+C1B                                     #Play quick "heavy step" SFE
+8 p- Legendary_019.png
+8 p- Legendary_020.png
+8 p- Legendary_021.png
+8 p- Legendary_022.png
+8 p- Legendary_023.png
+C15                                     #Slight vibration of screen
+C1B                                     #Play quick "heavy step" SFE
+10 p- Legendary_024.png
+10 p- Legendary_025.png
+10 p- Legendary_026.png
+10 p- Legendary_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

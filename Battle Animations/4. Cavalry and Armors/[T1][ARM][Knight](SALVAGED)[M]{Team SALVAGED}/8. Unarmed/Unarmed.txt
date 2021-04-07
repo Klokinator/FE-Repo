@@ -1,0 +1,76 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 3               #Melee Critical Animation
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 5               #Ranged Animation 
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 6               #Ranged Critical Animation
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 7               #Dodge Melee Attack
+5 p- Unarmed_000.png
+C02                               #Start of dodge
+2 p- Unarmed_001.png
+2 p- Unarmed_002.png
+4 p- Unarmed_003.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Unarmed_004.png
+2 p- Unarmed_005.png
+C01                               #NOP
+4 p- Unarmed_006.png
+4 p- Unarmed_007.png
+C1B                               #Play quick "heavy step" SFE
+6 p- Unarmed_008.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- Unarmed_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+5 p- Unarmed_000.png
+C02                               #Start of dodge
+2 p- Unarmed_001.png
+2 p- Unarmed_002.png
+4 p- Unarmed_003.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Unarmed_004.png
+2 p- Unarmed_005.png
+C01                               #NOP
+4 p- Unarmed_006.png
+4 p- Unarmed_007.png
+C1B                               #Play quick "heavy step" SFE
+6 p- Unarmed_008.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- Unarmed_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+2 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - End of animation

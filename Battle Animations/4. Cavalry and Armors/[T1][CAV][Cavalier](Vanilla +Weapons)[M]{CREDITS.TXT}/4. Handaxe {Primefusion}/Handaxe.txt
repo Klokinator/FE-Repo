@@ -1,0 +1,144 @@
+#######################################################
+#
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Handaxe_000.png
+4 p- Handaxe_001.png
+C22                                     #Play short sword swinging SFE
+12 p- Handaxe_002.png
+2 p- Handaxe_003.png
+2 p- Handaxe_004.png
+2 p- Handaxe_005.png
+C05                                     #Call spell associated with equipped weapon
+1 p- Handaxe_006.png
+C01                                     #NOP
+10 p- Handaxe_002.png
+3 p- Handaxe_001.png
+3 p- Handaxe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Handaxe_000.png
+4 p- Handaxe_001.png
+C22                                     #Play short sword swinging SFE
+12 p- Handaxe_002.png
+2 p- Handaxe_003.png
+2 p- Handaxe_004.png
+2 p- Handaxe_005.png
+C05                                     #Call spell associated with equipped weapon
+1 p- Handaxe_006.png
+C01                                     #NOP
+10 p- Handaxe_002.png
+3 p- Handaxe_001.png
+3 p- Handaxe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Handaxe_000.png
+2 p- Handaxe_003.png
+2 p- Handaxe_004.png
+18 p- Handaxe_005.png
+C22                                     #Play short sword swinging SFE
+2 p- Handaxe_006.png
+C05                                     #Call spell associated with equipped weapon
+2 p- Handaxe_007.png
+C13                                     #ranged attack - hand axe for Hector
+3 p- Handaxe_008.png
+3 p- Handaxe_009.png
+3 p- Handaxe_005.png
+C01                                     #NOP
+3 p- Handaxe_003.png
+3 p- Handaxe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Handaxe_000.png
+2 p- Handaxe_003.png
+2 p- Handaxe_004.png
+18 p- Handaxe_005.png
+2 p- Handaxe_010.png
+C38                                     #Play heavy spear spinning SFE
+2 p- Handaxe_011.png
+2 p- Handaxe_012.png
+20 p- Handaxe_005.png
+C22                                     #Play short sword swinging SFE
+2 p- Handaxe_006.png
+C05                                     #Call spell associated with equipped weapon
+2 p- Handaxe_007.png
+C13                                     #ranged attack - hand axe for Hector
+3 p- Handaxe_008.png
+3 p- Handaxe_009.png
+3 p- Handaxe_005.png
+C01                                     #NOP
+2 p- Handaxe_005.png
+3 p- Handaxe_003.png
+3 p- Handaxe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+C02                                     #Start of dodge
+1 p- Handaxe_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Handaxe_013.png
+1 p- Handaxe_014.png
+C01                                     #NOP
+1 p- Handaxe_013.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+C02                                     #Start of dodge
+1 p- Handaxe_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Handaxe_013.png
+1 p- Handaxe_014.png
+C01                                     #NOP
+3 p- Handaxe_013.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Handaxe_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+1 p- Handaxe_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Handaxe_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; should be followed by 0x07
+C07                                     #Start attack animation; should be preceeded by 0x03
+1 p- Handaxe_000.png
+4 p- Handaxe_001.png
+C22                                     #Play short sword swinging SFE
+12 p- Handaxe_002.png
+2 p- Handaxe_003.png
+2 p- Handaxe_004.png
+C05                                     #Call spell associated with equipped weapon
+28 p- Handaxe_004.png
+C23                                     #Play shorter sword swinging SFE
+2 p- Handaxe_005.png
+1 p- Handaxe_006.png
+C01                                     #NOP
+8 p- Handaxe_006.png
+3 p- Handaxe_002.png
+3 p- Handaxe_001.png
+3 p- Handaxe_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

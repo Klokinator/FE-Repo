@@ -1,1 +1,3 @@
 The Serenes Forest Spriting Competitions are not all free to use. This is one section of the repo where permission is far fuzzier. I am placing this inside the repo only for backup and archival purposes. Any mugs from these comps that have been confirmed as Free to Use will be in the other Portrait Repository folders.
+
+Visit this forum post for more information: https://feuniverse.us/t/the-community-art-preservation-project-for-years-cappy/11185

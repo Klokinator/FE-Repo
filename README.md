@@ -4,3 +4,5 @@ A public graphics repository for Fire Emblem portraits, battle animations, map s
 Want to download stuff from this repository? New to Github and don't know how it works? Visit this link to learn more:
 
 https://feuniverse.us/t/github-and-you-maximizing-your-usage-of-the-new-graphics-repository/11815
+
+JJ was here!

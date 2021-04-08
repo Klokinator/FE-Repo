@@ -1,12 +1,6 @@
 # Fire-Emblem-Graphics-Repository
 A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use.
 
-Useful Links:
+Want to download stuff from this repository? New to Github and don't know how it works? Visit this link to learn more:
 
-Downgit: https://minhaskamal.github.io/DownGit/#/home
-
-GitZip: https://gitzip.org/
-
-Enhanced Github: https://github.com/softvar/enhanced-github
-
-I will update this page later with relevant images, info, and links.
+https://feuniverse.us/t/github-and-you-maximizing-your-usage-of-the-new-graphics-repository/11815

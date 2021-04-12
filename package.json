@@ -1,0 +1,29 @@
+{
+  "name": "fire-emblem-graphics-repository",
+  "version": "1.0.0",
+  "description": "A repository for sharing fire emblem assets",
+  "main": "index.js",
+  "scripts": {
+    "battle-animations-readme": "node ./repo-tools/battle-animations/make-battle-animations-readme.js && git add .",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klokinator/Fire-Emblem-Graphics-Repository.git"
+  },
+  "keywords": [
+    "fire",
+    "emblem",
+    "fe",
+    "hacking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klokinator/Fire-Emblem-Graphics-Repository/issues"
+  },
+  "homepage": "https://github.com/Klokinator/Fire-Emblem-Graphics-Repository#readme",
+  "devDependencies": {
+    "husky": "^6.0.0"
+  }
+}

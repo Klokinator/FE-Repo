@@ -65,9 +65,9 @@
 | <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Berserker-Base\] \[M\] Vanilla Repal](./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal)
+## [\[Berserker-Base\] \[M\] Vanilla Repal by Blue Druid](./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid)
 
-<img src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Vanilla Repal standing" />
+<img src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Vanilla Repal by Blue Druid standing" />
 
 
 ### Weapons
@@ -75,7 +75,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Berserker-Base\] \[M\] Yetizerker Smoothed-Axe](./%5BBerserker-Base%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/%5BBerserker-Base%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe)
@@ -91,9 +91,9 @@
 | <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Red%20Variant)/Axe.gif" /> | <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Yetizerker%20Smoothed)/Axe.gif" /> |
 
 
-## [\[Berserker-Hawkeye\] \[F\] Hawkzerker](./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker)
+## [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6)
 
-<img src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [F] Hawkzerker standing" />
+<img src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [F] Hawkzerker by Maiser6 standing" />
 
 
 ### Weapons
@@ -101,12 +101,12 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Berserker-Hawkeye\] \[M\] Hawkzerker](./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker)
+## [\[Berserker-Hawkeye\] \[M\] Hawkzerker by TBA](./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA)
 
-<img src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [M] Hawkzerker standing" />
+<img src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [M] Hawkzerker by TBA standing" />
 
 
 ### Weapons
@@ -114,7 +114,7 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow](./%5BBerserker-Hawkeye%5D%20%5BM%5D%20No%20Ponytail%20+Bow/%5BBerserker-Hawkeye%5D%20%5BM%5D%20No%20Ponytail%20+Bow)

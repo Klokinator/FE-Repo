@@ -6,7 +6,7 @@
 
 Animation by Assassin Leila.
 
-Note: This animation is somewhat choppy and could use improvements.
+Note: This animation is somewhat choppy and could use improvements. It also needs an Unarmed animation.
 
 ## Weapons
 

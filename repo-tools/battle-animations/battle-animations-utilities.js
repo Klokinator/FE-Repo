@@ -111,7 +111,7 @@ const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth 
 `)
 
 	return (
-		`${getHeading(headingDepth)} [${catDir} Battle Animations](${encodeURI(`${currentDir}`)})
+		`${getHeading(headingDepth)} [${catDir} Battle Animations](${encodeURI('.' + `${currentDir}`)})
 
 ${animContents}
 `)

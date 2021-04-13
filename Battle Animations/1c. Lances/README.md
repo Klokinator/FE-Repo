@@ -1,4 +1,4 @@
-# [1c. Lances Battle Animations](./)
+# [1c. Lances Battle Animations](../)
 
 ## [\[T0\]\[LNC\]\[Recruit\]\(Alice Lord\)\[F\]{Yazuki}](../%5BT0%5D%5BLNC%5D%5BRecruit%5D(Alice%20Lord)%5BF%5D%7BYazuki%7D/%5BT0%5D%5BLNC%5D%5BRecruit%5D(Alice%20Lord)%5BF%5D%7BYazuki%7D)
 

@@ -1,4 +1,4 @@
-# [2. Lords and Unique Battle Animations](./)
+# [2. Lords and Unique Battle Animations](../)
 
 ## [\[T0\]\[MISC\]\[Crossover\]\(Fate - Euryale\)\[F\]{ZoramineFae}](../%5BT0%5D%5BMISC%5D%5BCrossover%5D(Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D/%5BT0%5D%5BMISC%5D%5BCrossover%5D(Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D)
 

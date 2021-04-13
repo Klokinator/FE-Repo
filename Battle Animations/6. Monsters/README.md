@@ -1,4 +1,4 @@
-# [6. Monsters Battle Animations](./)
+# [6. Monsters Battle Animations](../)
 
 ## [\[T0\]\[MON\]\[Undead\]\(Phantom\)\[U\]{TBA, Arch, Skitty, Temp}](../%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D)
 

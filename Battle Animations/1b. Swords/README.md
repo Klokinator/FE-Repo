@@ -1,4 +1,4 @@
-# [1b. Swords Battle Animations](./)
+# [1b. Swords Battle Animations](../)
 
 ## [\[Assassin-Base\] \[F\] Character - Leila](../%5BAssassin-Base%5D%20%5BF%5D%20Character%20-%20Leila/%5BAssassin-Base%5D%20%5BF%5D%20Character%20-%20Leila)
 

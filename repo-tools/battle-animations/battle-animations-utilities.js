@@ -77,7 +77,7 @@ ${anim.credits}
 	}
 
 	return (
-		`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI('.' + `${currentDir}${anim.name})`)}
+		`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${(currentDir == './') ? currentDir : currentDir + anim.name})`)}
 ${showPreviewBlock ? `
 <img src="${encodeURI(currentDir +anim.weapons[0].dir + '/' + anim.weapons[0].static)}" alt="${anim.name} standing" />
 `: ''}
@@ -102,7 +102,7 @@ ${weaponContents}
  * 
  * @returns {String}
  */
-const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth = 1) => {
+const makeCategoryReadmeText = (catAnims, catDir, currentDir='../', headingDepth = 1) => {
 
 	const animContents = catAnims.map(anim => {
 		return makeAnimReadmeText(anim, false, `${currentDir}${anim.name}/`, headingDepth + 1)

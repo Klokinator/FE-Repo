@@ -1,4 +1,4 @@
-# [1e. Customs Battle Animations](../)
+# [1e. Customs Battle Animations](./)
 
 ## [\[T1\]\[SWD\]\[Custom Sword\]\(Fencer Karina\)\[F\]](../%5BT1%5D%5BSWD%5D%5BCustom%20Sword%5D(Fencer%20Karina)%5BF%5D/%5BT1%5D%5BSWD%5D%5BCustom%20Sword%5D(Fencer%20Karina)%5BF%5D)
 

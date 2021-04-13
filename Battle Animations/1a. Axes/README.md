@@ -1,4 +1,4 @@
-# [1a. Axes Battle Animations](../)
+# [1a. Axes Battle Animations](./)
 
 ## [\[Berserker-Base\] \[F\] Armored](../%5BBerserker-Base%5D%20%5BF%5D%20Armored/%5BBerserker-Base%5D%20%5BF%5D%20Armored)
 

@@ -1,6 +1,6 @@
 # Battle Animations
 
-## [1a. Axes Battle Animations](../1a.%20Axes/)
+## [1a. Axes Battle Animations](./1a.%20Axes/)
 
 ### [\[Berserker-Base\] \[F\] Armored](../1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored/%5BBerserker-Base%5D%20%5BF%5D%20Armored)
 
@@ -900,7 +900,7 @@
 
 
 
-## [1b. Swords Battle Animations](../1b.%20Swords/)
+## [1b. Swords Battle Animations](./1b.%20Swords/)
 
 ### [\[Assassin-Base\] \[F\] Character - Leila](../1b.%20Swords/%5BAssassin-Base%5D%20%5BF%5D%20Character%20-%20Leila/%5BAssassin-Base%5D%20%5BF%5D%20Character%20-%20Leila)
 
@@ -2827,7 +2827,7 @@
 
 
 
-## [1c. Lances Battle Animations](../1c.%20Lances/)
+## [1c. Lances Battle Animations](./1c.%20Lances/)
 
 ### [\[T0\]\[LNC\]\[Recruit\]\(Alice Lord\)\[F\]{Yazuki}](../1c.%20Lances/%5BT0%5D%5BLNC%5D%5BRecruit%5D(Alice%20Lord)%5BF%5D%7BYazuki%7D/%5BT0%5D%5BLNC%5D%5BRecruit%5D(Alice%20Lord)%5BF%5D%7BYazuki%7D)
 
@@ -3155,7 +3155,7 @@
 
 
 
-## [1d. Bows Battle Animations](../1d.%20Bows/)
+## [1d. Bows Battle Animations](./1d.%20Bows/)
 
 ### [\[T0\]\[BOW\]\[Ballista\]\(Generic Ballista\)\[M\]{Spud, Ren_Ookami, Pushwall}](../1d.%20Bows/%5BT0%5D%5BBOW%5D%5BBallista%5D(Generic%20Ballista)%5BM%5D%7BSpud,%20Ren_Ookami,%20Pushwall%7D/%5BT0%5D%5BBOW%5D%5BBallista%5D(Generic%20Ballista)%5BM%5D%7BSpud,%20Ren_Ookami,%20Pushwall%7D)
 
@@ -4094,7 +4094,7 @@
 
 
 
-## [1e. Customs Battle Animations](../1e.%20Customs/)
+## [1e. Customs Battle Animations](./1e.%20Customs/)
 
 ### [\[T1\]\[SWD\]\[Custom Sword\]\(Fencer Karina\)\[F\]](../1e.%20Customs/%5BT1%5D%5BSWD%5D%5BCustom%20Sword%5D(Fencer%20Karina)%5BF%5D/%5BT1%5D%5BSWD%5D%5BCustom%20Sword%5D(Fencer%20Karina)%5BF%5D)
 
@@ -4136,7 +4136,7 @@
 
 
 
-## [2. Lords and Unique Battle Animations](../2.%20Lords%20and%20Unique/)
+## [2. Lords and Unique Battle Animations](./2.%20Lords%20and%20Unique/)
 
 ### [\[T0\]\[MISC\]\[Crossover\]\(Fate - Euryale\)\[F\]{ZoramineFae}](../2.%20Lords%20and%20Unique/%5BT0%5D%5BMISC%5D%5BCrossover%5D(Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D/%5BT0%5D%5BMISC%5D%5BCrossover%5D(Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D)
 
@@ -5491,7 +5491,7 @@
 
 
 
-## [3. Magi Battle Animations](../3.%20Magi/)
+## [3. Magi Battle Animations](./3.%20Magi/)
 
 ### [\[T0\]\[MAG\]\[Pupil\]\(Nino\)\[F\]\(Mikey Séregon\)](../3.%20Magi/%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon))
 
@@ -7964,7 +7964,7 @@
 
 
 
-## [4. Cavalry and Armors Battle Animations](../4.%20Cavalry%20and%20Armors/)
+## [4. Cavalry and Armors Battle Animations](./4.%20Cavalry%20and%20Armors/)
 
 ### [\[T1\]\[ARM\]\(Knight\]\(DS-Style Repalette\)\[U\]{MK404}](../4.%20Cavalry%20and%20Armors/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D)
 
@@ -9020,7 +9020,7 @@
 
 
 
-## [5. Fliers Battle Animations](../5.%20Fliers/)
+## [5. Fliers Battle Animations](./5.%20Fliers/)
 
 ### [\[T1\]\[FLY\]\[Pegasus Knight\]\(Armored Male\)\[M\]{Lisandra_Brave, Inkling, Genocike}](../5.%20Fliers/%5BT1%5D%5BFLY%5D%5BPegasus%20Knight%5D(Armored%20Male)%5BM%5D%7BLisandra_Brave,%20Inkling,%20Genocike%7D/%5BT1%5D%5BFLY%5D%5BPegasus%20Knight%5D(Armored%20Male)%5BM%5D%7BLisandra_Brave,%20Inkling,%20Genocike%7D)
 
@@ -9647,7 +9647,7 @@
 
 
 
-## [6. Monsters Battle Animations](../6.%20Monsters/)
+## [6. Monsters Battle Animations](./6.%20Monsters/)
 
 ### [\[T0\]\[MON\]\[Undead\]\(Phantom\)\[U\]{TBA, Arch, Skitty, Temp}](../6.%20Monsters/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D)
 

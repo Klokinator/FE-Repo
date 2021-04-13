@@ -1,4 +1,4 @@
-# [3. Magi Battle Animations](../)
+# [3. Magi Battle Animations](./)
 
 ## [\[T0\]\[MAG\]\[Pupil\]\(Nino\)\[F\]\(Mikey Séregon\)](../%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon))
 

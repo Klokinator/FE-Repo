@@ -4,9 +4,9 @@
 
 ## Credits
 
-Leo_Link, Nuramon, Spud
+Animation by Leo_Link, Nuramon, Spud.
 
-3. Axe (Vanilla Crit + Magic) {Sax-Marine}
+Axe (Vanilla Crit + Magic) by Sax-Marine.
 
 ## Weapons
 

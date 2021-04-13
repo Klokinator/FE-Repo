@@ -3,6 +3,7 @@
 ## Credit
 
 Original Warrior by IS. 
+
 Magic and Staff by Orihara_Saki.
 	
 ## Staff

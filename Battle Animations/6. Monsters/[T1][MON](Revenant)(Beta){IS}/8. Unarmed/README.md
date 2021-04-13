@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\(Revenant\)\(Beta\){IS}](../)
+# [\[T1\]\[MON\]\(Revenant\)\(Beta\){IS}]
 
 ## Credit
 

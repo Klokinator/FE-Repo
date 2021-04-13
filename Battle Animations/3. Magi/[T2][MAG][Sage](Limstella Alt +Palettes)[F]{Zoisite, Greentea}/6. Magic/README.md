@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Limstella Alt +Palettes\)\[F\]{Zoisite, Greentea}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Limstella Alt +Palettes\)\[F\]{Zoisite, Greentea}]
 
 ## Credit
 

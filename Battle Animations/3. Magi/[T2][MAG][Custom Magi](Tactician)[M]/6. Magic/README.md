@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Custom Magi\]\(Tactician\)\[M\]](../)
+# [\[T2\]\[MAG\]\[Custom Magi\]\(Tactician\)\[M\]]
 
 ## Credit
 

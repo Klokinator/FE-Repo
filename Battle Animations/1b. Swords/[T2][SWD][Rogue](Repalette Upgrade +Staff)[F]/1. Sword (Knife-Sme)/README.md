@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Repalette Upgrade +Staff\)\[F\]](../)
+# [\[T2\]\[SWD\]\[Rogue\]\(Repalette Upgrade +Staff\)\[F\]]
 
 ## Credit
 

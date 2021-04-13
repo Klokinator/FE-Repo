@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen\)\[M\]{eCut}](../)
+# [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen\)\[M\]{eCut}]
 
 ## Credit
 

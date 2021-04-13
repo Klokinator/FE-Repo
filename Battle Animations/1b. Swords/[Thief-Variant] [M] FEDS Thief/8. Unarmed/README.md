@@ -1,4 +1,4 @@
-# [\[Thief-Variant\] \[M\] FEDS Thief](../)
+# [\[Thief-Variant\] \[M\] FEDS Thief]
 
 ## Credit
 

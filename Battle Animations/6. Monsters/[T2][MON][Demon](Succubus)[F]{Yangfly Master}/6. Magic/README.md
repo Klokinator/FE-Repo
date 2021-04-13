@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Succubus\)\[F\]{Yangfly Master}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Succubus\)\[F\]{Yangfly Master}]
 
 ## Credit
 

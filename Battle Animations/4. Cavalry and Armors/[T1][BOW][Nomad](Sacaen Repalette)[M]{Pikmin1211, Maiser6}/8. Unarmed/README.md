@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6}](../)
+# [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6}]
 
 ## Credit
 

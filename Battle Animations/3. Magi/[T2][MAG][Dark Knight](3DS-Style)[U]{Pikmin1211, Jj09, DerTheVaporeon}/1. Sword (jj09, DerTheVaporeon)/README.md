@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Dark Knight\]\(3DS-Style\)\[U\]{Pikmin1211, Jj09, DerTheVaporeon}](../)
+# [\[T2\]\[MAG\]\[Dark Knight\]\(3DS-Style\)\[U\]{Pikmin1211, Jj09, DerTheVaporeon}]
 
 ## Credit
 

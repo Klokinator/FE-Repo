@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Hoodless +Bow](../)
+# [\[Assassin-Base\] \[M\] Hoodless +Bow]
 
 ## Credit
 

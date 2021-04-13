@@ -1,4 +1,4 @@
-# [\[Roy-Variant\] \[M\] Yangfly's Squire](../)
+# [\[Roy-Variant\] \[M\] Yangfly's Squire]
 
 ## Credit
 

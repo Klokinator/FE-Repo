@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Wolt Catapult Ballista Palette\)\[M\]](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Wolt Catapult Ballista Palette\)\[M\]]
 
 ## Credit
 

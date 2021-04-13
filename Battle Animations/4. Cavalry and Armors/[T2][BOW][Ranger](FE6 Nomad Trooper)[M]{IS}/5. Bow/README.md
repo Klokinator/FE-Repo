@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper\)\[M\]{IS}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper\)\[M\]{IS}]
 
 ## Credit
 

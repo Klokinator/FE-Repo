@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt Repalette\)\[M\]](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt Repalette\)\[M\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Vanilla +Weapons\)\[F\]{CREDITS}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Vanilla +Weapons\)\[F\]{CREDITS}]
 
 ## Credit
 

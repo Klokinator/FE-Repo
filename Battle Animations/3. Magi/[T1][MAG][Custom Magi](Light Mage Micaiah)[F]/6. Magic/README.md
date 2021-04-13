@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Light Mage Micaiah\)\[F\]](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Light Mage Micaiah\)\[F\]]
 
 ## Credit
 

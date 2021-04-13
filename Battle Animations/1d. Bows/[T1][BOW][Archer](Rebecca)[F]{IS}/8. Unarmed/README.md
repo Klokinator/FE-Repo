@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Rebecca\)\[F\]{IS}](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Rebecca\)\[F\]{IS}]
 
 ## Credit
 

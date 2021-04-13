@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt\)\[M\]{Greentea, DerTheVaporeon}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt\)\[M\]{Greentea, DerTheVaporeon}]
 
 ## Credit
 

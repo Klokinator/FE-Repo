@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}](../)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}]
 
 ## Credit
 

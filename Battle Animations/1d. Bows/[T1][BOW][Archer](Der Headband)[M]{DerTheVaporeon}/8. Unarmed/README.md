@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Der Headband\)\[M\]{DerTheVaporeon}](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Der Headband\)\[M\]{DerTheVaporeon}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T0\]\[MAG\]\[Pupil\]\[M\]{IS, Blazer, Citrus}](../)
+# [\[T0\]\[MAG\]\[Pupil\]\[M\]{IS, Blazer, Citrus}]
 
 ## Credit
 

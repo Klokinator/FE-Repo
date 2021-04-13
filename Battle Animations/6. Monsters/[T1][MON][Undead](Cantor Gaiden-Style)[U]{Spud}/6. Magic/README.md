@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Undead\]\(Cantor Gaiden-Style\)\[U\]{Spud}](../)
+# [\[T1\]\[MON\]\[Undead\]\(Cantor Gaiden-Style\)\[U\]{Spud}]
 
 ## Credit
 

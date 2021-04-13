@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Entombed +Ranged\)\[U\]{IS, Teraspark}](../)
+# [\[T2\]\[MON\]\[Undead\]\(Entombed +Ranged\)\[U\]{IS, Teraspark}]
 
 ## Credit
 

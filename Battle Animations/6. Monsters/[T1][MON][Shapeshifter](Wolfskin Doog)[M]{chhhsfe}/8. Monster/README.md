@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Shapeshifter\]\(Wolfskin Doog\)\[M\]{chhhsfe}](../)
+# [\[T1\]\[MON\]\[Shapeshifter\]\(Wolfskin Doog\)\[M\]{chhhsfe}]
 
 ## Credit
 

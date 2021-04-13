@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Tarantula Wizard\)\[U\]{Shtick}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Tarantula Wizard\)\[U\]{Shtick}]
 
 ## Credit
 

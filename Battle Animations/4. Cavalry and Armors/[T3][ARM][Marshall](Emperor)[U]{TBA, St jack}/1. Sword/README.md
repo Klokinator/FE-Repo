@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}](../)
+# [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}]
 
 ## Credit
 

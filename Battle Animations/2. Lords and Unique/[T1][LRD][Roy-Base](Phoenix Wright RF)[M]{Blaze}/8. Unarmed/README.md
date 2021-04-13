@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Roy-Base\]\(Phoenix Wright RF\)\[M\]{Blaze}](../)
+# [\[T1\]\[LRD\]\[Roy-Base\]\(Phoenix Wright RF\)\[M\]{Blaze}]
 
 ## Credit
 

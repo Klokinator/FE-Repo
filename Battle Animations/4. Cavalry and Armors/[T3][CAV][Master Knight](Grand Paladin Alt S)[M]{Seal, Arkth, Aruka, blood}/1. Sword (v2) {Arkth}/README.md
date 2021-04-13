@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}](../)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}]
 
 ## Credit
 

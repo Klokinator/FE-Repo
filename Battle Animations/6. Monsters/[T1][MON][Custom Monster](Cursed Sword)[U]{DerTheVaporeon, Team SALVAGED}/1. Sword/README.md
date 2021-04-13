@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Cursed Sword\)\[U\]{DerTheVaporeon, Team SALVAGED}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Cursed Sword\)\[U\]{DerTheVaporeon, Team SALVAGED}]
 
 ## Credit
 

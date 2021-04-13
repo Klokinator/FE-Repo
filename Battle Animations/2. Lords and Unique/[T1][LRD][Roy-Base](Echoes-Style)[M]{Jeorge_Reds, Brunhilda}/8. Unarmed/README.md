@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Roy-Base\]\(Echoes-Style\)\[M\]{Jeorge_Reds, Brunhilda}](../)
+# [\[T1\]\[LRD\]\[Roy-Base\]\(Echoes-Style\)\[M\]{Jeorge_Reds, Brunhilda}]
 
 ## Credit
 

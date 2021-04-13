@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Shapeshifter\]\(Wanderer - Blade\)\[M\]{chhhsfe, DerTheVaporeon}](../)
+# [\[T1\]\[MON\]\[Shapeshifter\]\(Wanderer - Blade\)\[M\]{chhhsfe, DerTheVaporeon}]
 
 ## Credit
 

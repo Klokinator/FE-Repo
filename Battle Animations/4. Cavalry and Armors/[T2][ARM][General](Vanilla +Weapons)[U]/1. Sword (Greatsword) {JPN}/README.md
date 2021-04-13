@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Vanilla +Weapons\)\[U\]](../)
+# [\[T2\]\[ARM\]\[General\]\(Vanilla +Weapons\)\[U\]]
 
 ## Credit
 

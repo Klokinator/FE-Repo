@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Demon\]\(Tarvos - Centaur\)\[F\]{Alfred Kamon, Starter, Pikmin1211}](../)
+# [\[T1\]\[MON\]\[Demon\]\(Tarvos - Centaur\)\[F\]{Alfred Kamon, Starter, Pikmin1211}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Repalette FEH-Style\)\[F\]{IS, Kermy, Jeorge_Reds}](../)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Repalette FEH-Style\)\[F\]{IS, Kermy, Jeorge_Reds}]
 
 ## Credit
 

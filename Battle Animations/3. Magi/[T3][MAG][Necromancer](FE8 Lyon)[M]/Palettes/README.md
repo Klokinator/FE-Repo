@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(FE8 Lyon\)\[M\]](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(FE8 Lyon\)\[M\]]
 
 ## Credit
 

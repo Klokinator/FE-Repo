@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Repalette\)\[M\]{Temp, sniper_zero}](../)
+# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Repalette\)\[M\]{Temp, sniper_zero}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Gaiden-Style\)\[M\]{Spud}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Gaiden-Style\)\[M\]{Spud}]
 
 ## Credit
 

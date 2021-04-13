@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Custom Flier\]\(Malig Knight Alt\)\[M\]{Shtick}](../)
+# [\[T2\]\[FLY\]\[Custom Flier\]\(Malig Knight Alt\)\[M\]{Shtick}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(Vanilla +Alt\)\[F\]{IS, seergiioo}](../)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(Vanilla +Alt\)\[F\]{IS, seergiioo}]
 
 ## Credit
 

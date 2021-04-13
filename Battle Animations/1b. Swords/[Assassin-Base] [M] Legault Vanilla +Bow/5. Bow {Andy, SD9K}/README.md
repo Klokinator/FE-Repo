@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](../)
+# [\[Assassin-Base\] \[M\] Legault Vanilla +Bow]
 
 ## Credit
 

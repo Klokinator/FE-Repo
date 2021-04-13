@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Female Updated Armor-Colored Shield\)\[F\]](../)
+# [\[Hero-Base\] \(Female Updated Armor-Colored Shield\)\[F\]]
 
 ## Credit
 

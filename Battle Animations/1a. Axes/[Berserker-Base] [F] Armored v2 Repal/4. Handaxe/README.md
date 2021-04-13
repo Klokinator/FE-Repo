@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[F\] Armored v2 Repal](../)
+# [\[Berserker-Base\] \[F\] Armored v2 Repal]
 
 ## Credit
 

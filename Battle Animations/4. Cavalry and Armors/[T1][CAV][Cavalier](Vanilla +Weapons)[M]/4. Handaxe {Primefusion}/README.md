@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]](../)
+# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Priest Buff Moulder Repalette\)\[M\]{Vilkalizer}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Priest Buff Moulder Repalette\)\[M\]{Vilkalizer}]
 
 ## Credit
 

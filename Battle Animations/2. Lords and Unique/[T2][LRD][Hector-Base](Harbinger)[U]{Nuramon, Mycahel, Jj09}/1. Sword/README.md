@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Harbinger\)\[U\]{Nuramon, Mycahel, Jj09}](../)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Harbinger\)\[U\]{Nuramon, Mycahel, Jj09}]
 
 ## Credit
 

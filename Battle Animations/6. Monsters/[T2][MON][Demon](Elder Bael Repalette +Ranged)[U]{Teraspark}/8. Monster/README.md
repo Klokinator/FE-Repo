@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Elder Bael Repalette +Ranged\)\[U\]{Teraspark}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Elder Bael Repalette +Ranged\)\[U\]{Teraspark}]
 
 ## Credit
 

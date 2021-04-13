@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Undead\]\(Revenant +Ranged, Goop\)\[U\]{IS, Teraspark, Sme}](../)
+# [\[T1\]\[MON\]\[Undead\]\(Revenant +Ranged, Goop\)\[U\]{IS, Teraspark, Sme}]
 
 ## Credit
 

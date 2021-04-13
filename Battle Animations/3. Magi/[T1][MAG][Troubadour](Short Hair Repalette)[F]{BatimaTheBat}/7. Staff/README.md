@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Short Hair Repalette\)\[F\]{BatimaTheBat}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Short Hair Repalette\)\[F\]{BatimaTheBat}]
 
 ## Credit
 

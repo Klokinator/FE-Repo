@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Magician\)\[M\]{Devisian_Nights, Pikmin1211}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Magician\)\[M\]{Devisian_Nights, Pikmin1211}]
 
 ## Credit
 

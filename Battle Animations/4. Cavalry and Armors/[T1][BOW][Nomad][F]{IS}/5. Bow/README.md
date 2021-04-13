@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Nomad\]\[F\]{IS}](../)
+# [\[T1\]\[BOW\]\[Nomad\]\[F\]{IS}]
 
 ## Credit
 

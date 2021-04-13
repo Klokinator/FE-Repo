@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Heath\)\[M\]{Greentea. Jey the Count\)](../)
+# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Heath\)\[M\]{Greentea. Jey the Count\)]
 
 ## Credit
 

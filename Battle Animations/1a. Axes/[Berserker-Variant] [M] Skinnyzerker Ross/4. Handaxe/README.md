@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Skinnyzerker Ross](../)
+# [\[Berserker-Variant\] \[M\] Skinnyzerker Ross]
 
 ## Credit
 

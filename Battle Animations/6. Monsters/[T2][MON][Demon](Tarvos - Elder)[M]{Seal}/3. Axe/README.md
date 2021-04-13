@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Tarvos - Elder\)\[M\]{Seal}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Tarvos - Elder\)\[M\]{Seal}]
 
 ## Credit
 

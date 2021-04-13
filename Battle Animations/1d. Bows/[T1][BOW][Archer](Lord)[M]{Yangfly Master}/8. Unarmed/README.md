@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Lord\)\[M\]{Yangfly Master}](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Lord\)\[M\]{Yangfly Master}]
 
 ## Credit
 

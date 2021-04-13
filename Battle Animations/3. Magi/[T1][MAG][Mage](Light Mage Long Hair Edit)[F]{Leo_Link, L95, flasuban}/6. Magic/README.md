@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Light Mage Long Hair Edit\)\[F\]{Leo_Link, L95, flasuban}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Light Mage Long Hair Edit\)\[F\]{Leo_Link, L95, flasuban}]
 
 ## Credit
 

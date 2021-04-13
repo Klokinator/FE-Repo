@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Noble\)\[F\]{Aruka, Kenpuhu, N426}](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Noble\)\[F\]{Aruka, Kenpuhu, N426}]
 
 ## Credit
 

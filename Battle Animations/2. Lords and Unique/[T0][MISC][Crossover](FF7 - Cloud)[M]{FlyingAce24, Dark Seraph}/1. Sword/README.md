@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(FF7 - Cloud\)\[M\]{FlyingAce24, Dark Seraph}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(FF7 - Cloud\)\[M\]{FlyingAce24, Dark Seraph}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(FE7 Hybrid Armor Coat\)\[M\]{Swain}](../)
+# [\[Hero-Base\] \(FE7 Hybrid Armor Coat\)\[M\]{Swain}]
 
 ## Credit
 

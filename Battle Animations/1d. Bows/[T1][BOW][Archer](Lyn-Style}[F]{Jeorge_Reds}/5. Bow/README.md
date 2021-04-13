@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Lyn-Style}\[F\]{Jeorge_Reds}](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Lyn-Style}\[F\]{Jeorge_Reds}]
 
 ## Credit
 

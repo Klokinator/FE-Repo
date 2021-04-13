@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(Fae to Myrrh Dragon\)\[F\]{Beansy, Teraspark}](../)
+# [\[T1\]\[MON\]\[Manakete\]\(Fae to Myrrh Dragon\)\[F\]{Beansy, Teraspark}]
 
 ## Credit
 

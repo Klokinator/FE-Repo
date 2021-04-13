@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Sword-locked\)\[M\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Sword-locked\)\[M\]{Aruka, Kenpuhu}]
 
 ## Credit
 

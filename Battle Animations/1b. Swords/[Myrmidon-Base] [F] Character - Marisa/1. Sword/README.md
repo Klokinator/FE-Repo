@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[F\] Character - Marisa](../)
+# [\[Myrmidon-Base\] \[F\] Character - Marisa]
 
 ## Credit
 

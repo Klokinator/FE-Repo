@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Dart-Style](../)
+# [\[Berserker-Variant\] \[M\] Dart-Style]
 
 ## Credit
 

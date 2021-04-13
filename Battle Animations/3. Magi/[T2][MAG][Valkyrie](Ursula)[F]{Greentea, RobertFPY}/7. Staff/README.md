@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(Ursula\)\[F\]{Greentea, RobertFPY}](../)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(Ursula\)\[F\]{Greentea, RobertFPY}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla +Weapons\)\[F\]](../)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla +Weapons\)\[F\]]
 
 ## Credit
 

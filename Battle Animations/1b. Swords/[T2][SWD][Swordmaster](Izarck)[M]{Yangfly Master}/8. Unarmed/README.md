@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Izarck\)\[M\]{Yangfly Master}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Izarck\)\[M\]{Yangfly Master}]
 
 ## Credit
 

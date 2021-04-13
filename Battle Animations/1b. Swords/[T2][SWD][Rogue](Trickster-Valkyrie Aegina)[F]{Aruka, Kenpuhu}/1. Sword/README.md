@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Trickster-Valkyrie Aegina\)\[F\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[SWD\]\[Rogue\]\(Trickster-Valkyrie Aegina\)\[F\]{Aruka, Kenpuhu}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[M\] Vanilla +Weapons](../)
+# [\[Journeyman-Base\] \[M\] Vanilla +Weapons]
 
 ## Credit
 

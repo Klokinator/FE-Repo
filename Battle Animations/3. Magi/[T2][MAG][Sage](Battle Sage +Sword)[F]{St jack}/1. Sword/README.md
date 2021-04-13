@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Battle Sage +Sword\)\[F\]{St jack}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Battle Sage +Sword\)\[F\]{St jack}]
 
 ## Credit
 

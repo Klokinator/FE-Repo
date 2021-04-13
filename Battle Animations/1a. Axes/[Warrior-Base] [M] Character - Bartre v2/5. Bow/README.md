@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Character - Bartre v2](../)
+# [\[Warrior-Base\] \[M\] Character - Bartre v2]
 
 ## Credit
 

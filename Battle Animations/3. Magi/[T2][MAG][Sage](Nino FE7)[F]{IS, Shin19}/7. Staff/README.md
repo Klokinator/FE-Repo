@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Nino FE7\)\[F\]{IS, Shin19}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Nino FE7\)\[F\]{IS, Shin19}]
 
 ## Credit
 

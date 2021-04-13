@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Vanilla +Weapons\)\[M\]](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(Vanilla +Weapons\)\[M\]]
 
 ## Credit
 

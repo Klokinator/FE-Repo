@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Mage Knight\]\(Short Hair\)\[F\]{BatimaTheBat}](../)
+# [\[T2\]\[MAG\]\[Mage Knight\]\(Short Hair\)\[F\]{BatimaTheBat}]
 
 ## Credit
 

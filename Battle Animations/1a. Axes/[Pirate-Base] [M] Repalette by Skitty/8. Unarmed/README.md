@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[M\] Repalette by Skitty](../)
+# [\[Pirate-Base\] \[M\] Repalette by Skitty]
 
 ## Credit
 

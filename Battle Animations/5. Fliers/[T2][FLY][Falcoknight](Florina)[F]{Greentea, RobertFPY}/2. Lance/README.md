@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Falcoknight\]\(Florina\)\[F\]{Greentea, RobertFPY}](../)
+# [\[T2\]\[FLY\]\[Falcoknight\]\(Florina\)\[F\]{Greentea, RobertFPY}]
 
 ## Credit
 

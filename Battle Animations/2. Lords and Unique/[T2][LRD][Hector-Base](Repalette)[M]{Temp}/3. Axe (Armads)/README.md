@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Repalette\)\[M\]{Temp}](../)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Repalette\)\[M\]{Temp}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Shield v2 +Cape\)\[U\]](../)
+# [\[T2\]\[ARM\]\[General\]\(Shield v2 +Cape\)\[U\]]
 
 ## Credit
 

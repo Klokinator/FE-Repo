@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Mimic Chest\)\[U\]{Seal, Sacred War}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Mimic Chest\)\[U\]{Seal, Sacred War}]
 
 ## Credit
 

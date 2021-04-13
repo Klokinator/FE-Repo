@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(Non-Religious\)\[F\]{DerTheVaporeon, Isaac, Pikmin1211}](../)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(Non-Religious\)\[F\]{DerTheVaporeon, Isaac, Pikmin1211}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Ephraim-Base\]\(Repalette\)\[M\]{Teraspark}](../)
+# [\[T2\]\[LRD\]\[Ephraim-Base\]\(Repalette\)\[M\]{Teraspark}]
 
 ## Credit
 

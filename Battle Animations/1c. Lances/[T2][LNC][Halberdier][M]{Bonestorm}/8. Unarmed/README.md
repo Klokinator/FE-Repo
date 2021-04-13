@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\[M\]{Bonestorm}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\[M\]{Bonestorm}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Jacket v2](../)
+# [\[Myrmidon-Base\] \[M\] Jacket v2]
 
 ## Credit
 

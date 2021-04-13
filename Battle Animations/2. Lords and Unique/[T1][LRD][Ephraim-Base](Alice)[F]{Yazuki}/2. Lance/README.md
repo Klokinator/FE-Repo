@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Alice\)\[F\]{Yazuki}](../)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Alice\)\[F\]{Yazuki}]
 
 ## Credit
 

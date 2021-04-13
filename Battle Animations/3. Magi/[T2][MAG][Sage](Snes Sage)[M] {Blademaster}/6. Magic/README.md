@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Snes Sage\)\[M\] {Blademaster}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Snes Sage\)\[M\] {Blademaster}]
 
 ## Credit
 

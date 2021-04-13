@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Mauthe Doog\]\(Gwyllgi Repalette +Ranged\)\[U\]{Teraspark}](../)
+# [\[T2\]\[MON\]\[Mauthe Doog\]\(Gwyllgi Repalette +Ranged\)\[U\]{Teraspark}]
 
 ## Credit
 

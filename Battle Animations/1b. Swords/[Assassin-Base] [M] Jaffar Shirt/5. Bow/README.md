@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar Shirt](../)
+# [\[Assassin-Base\] \[M\] Jaffar Shirt]
 
 ## Credit
 

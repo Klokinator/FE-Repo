@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Bald +staves\)\[M\]{L95, Devisio}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Bald +staves\)\[M\]{L95, Devisio}]
 
 ## Credit
 

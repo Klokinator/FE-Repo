@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Raven Updated Armor-Colored Shield\)\[M\]](../)
+# [\[Hero-Base\] \(Raven Updated Armor-Colored Shield\)\[M\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Custom Flier\]\(Nephilim\)\[F\]{Ayr}](../)
+# [\[T2\]\[FLY\]\[Custom Flier\]\(Nephilim\)\[F\]{Ayr}]
 
 ## Credit
 

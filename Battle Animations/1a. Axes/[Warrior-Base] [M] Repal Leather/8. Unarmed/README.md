@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Repal Leather](../)
+# [\[Warrior-Base\] \[M\] Repal Leather]
 
 ## Credit
 

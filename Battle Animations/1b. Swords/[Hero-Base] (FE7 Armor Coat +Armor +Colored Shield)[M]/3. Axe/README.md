@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(FE7 Armor Coat +Armor +Colored Shield\)\[M\]](../)
+# [\[Hero-Base\] \(FE7 Armor Coat +Armor +Colored Shield\)\[M\]]
 
 ## Credit
 

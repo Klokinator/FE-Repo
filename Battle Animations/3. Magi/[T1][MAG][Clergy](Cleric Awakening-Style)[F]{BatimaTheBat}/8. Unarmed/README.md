@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening-Style\)\[F\]{BatimaTheBat}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening-Style\)\[F\]{BatimaTheBat}]
 
 ## Credit
 

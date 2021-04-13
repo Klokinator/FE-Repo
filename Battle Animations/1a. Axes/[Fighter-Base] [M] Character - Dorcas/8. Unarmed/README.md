@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Character - Dorcas](../)
+# [\[Fighter-Base\] \[M\] Character - Dorcas]
 
 ## Credit
 

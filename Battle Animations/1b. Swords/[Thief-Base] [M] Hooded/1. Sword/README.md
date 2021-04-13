@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Hooded](../)
+# [\[Thief-Base\] \[M\] Hooded]
 
 ## Credit
 

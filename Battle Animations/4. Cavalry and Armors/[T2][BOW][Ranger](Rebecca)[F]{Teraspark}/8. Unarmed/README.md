@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}]
 
 ## Credit
 

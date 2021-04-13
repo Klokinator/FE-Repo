@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}](../)
+# [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}]
 
 ## Credit
 

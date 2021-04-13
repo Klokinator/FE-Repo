@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Bonewalker - Legion\)\[U\]{Seal,blood, Sax Marine}](../)
+# [\[T2\]\[MON\]\[Undead\]\(Bonewalker - Legion\)\[U\]{Seal,blood, Sax Marine}]
 
 ## Credit
 

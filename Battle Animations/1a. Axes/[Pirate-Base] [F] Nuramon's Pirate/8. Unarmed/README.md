@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[F\] Nuramon's Pirate](../)
+# [\[Pirate-Base\] \[F\] Nuramon's Pirate]
 
 ## Credit
 

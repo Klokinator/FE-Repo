@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Mauthe Doog\]\(Vampire Hound\)\[U\]{Watching Dog}](../)
+# [\[T2\]\[MON\]\[Mauthe Doog\]\(Vampire Hound\)\[U\]{Watching Dog}]
 
 ## Credit
 

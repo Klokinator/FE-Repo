@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Griffon Knight\]\(SoA Alt\)\[U\]{Ayr}](../)
+# [\[T2\]\[FLY\]\[Griffon Knight\]\(SoA Alt\)\[U\]{Ayr}]
 
 ## Credit
 

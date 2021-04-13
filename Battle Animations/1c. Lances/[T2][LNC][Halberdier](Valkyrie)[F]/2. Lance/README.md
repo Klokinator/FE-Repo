@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Valkyrie\)\[F\]](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Valkyrie\)\[F\]]
 
 ## Credit
 

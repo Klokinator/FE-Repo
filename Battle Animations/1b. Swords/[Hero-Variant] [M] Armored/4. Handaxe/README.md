@@ -1,4 +1,4 @@
-# [\[Hero-Variant\] \[M\] Armored](../)
+# [\[Hero-Variant\] \[M\] Armored]
 
 ## Credit
 

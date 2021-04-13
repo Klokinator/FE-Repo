@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Nomad-Style\)\[F\]{seergiioo}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Nomad-Style\)\[F\]{seergiioo}]
 
 ## Credit
 

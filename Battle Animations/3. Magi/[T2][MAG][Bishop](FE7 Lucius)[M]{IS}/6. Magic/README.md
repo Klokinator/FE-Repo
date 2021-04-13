@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(FE7 Lucius\)\[M\]{IS}](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(FE7 Lucius\)\[M\]{IS}]
 
 ## Credit
 

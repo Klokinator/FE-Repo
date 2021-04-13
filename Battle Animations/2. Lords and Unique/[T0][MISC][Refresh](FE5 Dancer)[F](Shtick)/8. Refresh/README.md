@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(FE5 Dancer\)\[F\]\(Shtick\)](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(FE5 Dancer\)\[F\]\(Shtick\)]
 
 ## Credit
 

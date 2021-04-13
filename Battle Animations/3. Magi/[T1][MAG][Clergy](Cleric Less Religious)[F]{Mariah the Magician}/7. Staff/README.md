@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Less Religious\)\[F\]{Mariah the Magician}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Less Religious\)\[F\]{Mariah the Magician}]
 
 ## Credit
 

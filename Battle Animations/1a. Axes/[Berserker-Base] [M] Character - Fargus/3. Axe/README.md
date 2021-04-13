@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[M\] Character - Fargus](../)
+# [\[Berserker-Base\] \[M\] Character - Fargus]
 
 ## Credit
 

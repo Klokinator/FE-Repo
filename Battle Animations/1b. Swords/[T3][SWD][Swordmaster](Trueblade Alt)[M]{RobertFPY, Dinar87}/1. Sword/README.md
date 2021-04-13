@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade Alt\)\[M\]{RobertFPY, Dinar87}](../)
+# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade Alt\)\[M\]{RobertFPY, Dinar87}]
 
 ## Credit
 

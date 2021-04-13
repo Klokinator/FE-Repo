@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Bard Nils\)\[F\]{Knabepicer}](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Bard Nils\)\[F\]{Knabepicer}]
 
 ## Credit
 

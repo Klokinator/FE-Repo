@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Rebecca Catapult Ballista Palette\)\[F\]](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Rebecca Catapult Ballista Palette\)\[F\]]
 
 ## Credit
 

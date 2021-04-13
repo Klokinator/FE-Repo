@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Marth Slash\)\[M\]{Caim Van Fang}](../)
+# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Marth Slash\)\[M\]{Caim Van Fang}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[M\] Vanilla +Magic](../)
+# [\[Berserker-Base\] \[M\] Vanilla +Magic]
 
 ## Credit
 

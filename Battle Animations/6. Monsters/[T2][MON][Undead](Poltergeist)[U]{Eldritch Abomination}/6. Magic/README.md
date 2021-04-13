@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Poltergeist\)\[U\]{Eldritch Abomination}](../)
+# [\[T2\]\[MON\]\[Undead\]\(Poltergeist\)\[U\]{Eldritch Abomination}]
 
 ## Credit
 

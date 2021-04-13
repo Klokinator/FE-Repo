@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\[M\]{SixThousandHulls, MakeFEGayer}](../)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\[M\]{SixThousandHulls, MakeFEGayer}]
 
 ## Credit
 

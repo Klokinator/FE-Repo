@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Fancy Bard\)\[M\]{MeatOfJustice}](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Fancy Bard\)\[M\]{MeatOfJustice}]
 
 ## Credit
 

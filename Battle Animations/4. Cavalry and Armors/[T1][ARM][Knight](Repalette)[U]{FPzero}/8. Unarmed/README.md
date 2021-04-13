@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\[Knight\]\(Repalette\)\[U\]{FPzero}](../)
+# [\[T1\]\[ARM\]\[Knight\]\(Repalette\)\[U\]{FPzero}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Artoria Pendragon Repalette\)\[F\]](../)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Artoria Pendragon Repalette\)\[F\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Vanilla +Dual-Sided\)\[M\]{IS, Andy}](../)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Vanilla +Dual-Sided\)\[M\]{IS, Andy}]
 
 ## Credit
 

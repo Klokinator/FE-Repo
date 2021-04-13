@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Improved\)\[M\]{Flasuban, DerTheVaporeon}](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Improved\)\[M\]{Flasuban, DerTheVaporeon}]
 
 ## Credit
 

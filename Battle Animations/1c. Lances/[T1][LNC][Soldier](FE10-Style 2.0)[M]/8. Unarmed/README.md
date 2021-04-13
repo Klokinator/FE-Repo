@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(FE10-Style 2.0\)\[M\]](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(FE10-Style 2.0\)\[M\]]
 
 ## Credit
 

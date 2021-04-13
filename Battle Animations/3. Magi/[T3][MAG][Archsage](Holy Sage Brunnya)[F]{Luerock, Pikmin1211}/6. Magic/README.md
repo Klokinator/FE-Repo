@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Archsage\]\(Holy Sage Brunnya\)\[F\]{Luerock, Pikmin1211}](../)
+# [\[T3\]\[MAG\]\[Archsage\]\(Holy Sage Brunnya\)\[F\]{Luerock, Pikmin1211}]
 
 ## Credit
 

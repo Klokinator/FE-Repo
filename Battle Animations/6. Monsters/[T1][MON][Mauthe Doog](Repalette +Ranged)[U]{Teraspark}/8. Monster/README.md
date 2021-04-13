@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Mauthe Doog\]\(Repalette +Ranged\)\[U\]{Teraspark}](../)
+# [\[T1\]\[MON\]\[Mauthe Doog\]\(Repalette +Ranged\)\[U\]{Teraspark}]
 
 ## Credit
 

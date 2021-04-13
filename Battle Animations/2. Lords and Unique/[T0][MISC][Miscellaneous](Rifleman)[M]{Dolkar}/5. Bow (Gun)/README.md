@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Miscellaneous\]\(Rifleman\)\[M\]{Dolkar}](../)
+# [\[T0\]\[MISC\]\[Miscellaneous\]\(Rifleman\)\[M\]{Dolkar}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[F\] Character - Fir](../)
+# [\[Myrmidon-Base\] \[F\] Character - Fir]
 
 ## Credit
 

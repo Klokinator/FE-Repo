@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat Repalette O\)\[M\]](../)
+# [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat Repalette O\)\[M\]]
 
 ## Credit
 

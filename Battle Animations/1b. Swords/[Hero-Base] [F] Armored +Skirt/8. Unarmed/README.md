@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Armored +Skirt](../)
+# [\[Hero-Base\] \[F\] Armored +Skirt]
 
 ## Credit
 

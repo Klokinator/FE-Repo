@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}](../)
+# [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}]
 
 ## Credit
 

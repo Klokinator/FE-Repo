@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[F\]{Jey the Count}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[F\]{Jey the Count}]
 
 ## Credit
 

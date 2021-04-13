@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(War Monk\)\[M\]](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(War Monk\)\[M\]]
 
 ## Credit
 

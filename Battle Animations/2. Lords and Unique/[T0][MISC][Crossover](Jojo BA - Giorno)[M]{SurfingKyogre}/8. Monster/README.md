@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Jojo BA - Giorno\)\[M\]{SurfingKyogre}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Jojo BA - Giorno\)\[M\]{SurfingKyogre}]
 
 ## Credit
 

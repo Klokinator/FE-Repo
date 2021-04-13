@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(FE6 +Staff\)\[F\]{IS, Shin19, Jeorge_Reds}](../)
+# [\[T1\]\[MAG\]\[Shaman\]\(FE6 +Staff\)\[F\]{IS, Shin19, Jeorge_Reds}]
 
 ## Credit
 

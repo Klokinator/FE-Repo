@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fire Dragon +FE7\)\[M\]](../)
+# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fire Dragon +FE7\)\[M\]]
 
 ## Credit
 

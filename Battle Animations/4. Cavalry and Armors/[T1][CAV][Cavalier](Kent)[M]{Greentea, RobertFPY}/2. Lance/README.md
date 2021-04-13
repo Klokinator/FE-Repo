@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(Kent\)\[M\]{Greentea, RobertFPY}](../)
+# [\[T1\]\[CAV\]\[Cavalier\]\(Kent\)\[M\]{Greentea, RobertFPY}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Character - Bartre v1 \(Helmet\)](../)
+# [\[Warrior-Base\] \[M\] Character - Bartre v1 \(Helmet\)]
 
 ## Credit
 

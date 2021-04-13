@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Custom Monster\]\(Salamander\)\[U\]{Memae}](../)
+# [\[T2\]\[MON\]\[Custom Monster\]\(Salamander\)\[U\]{Memae}]
 
 ## Credit
 

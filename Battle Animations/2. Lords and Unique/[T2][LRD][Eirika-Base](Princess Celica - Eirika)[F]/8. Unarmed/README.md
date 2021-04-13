@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Princess Celica - Eirika\)\[F\]](../)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Princess Celica - Eirika\)\[F\]]
 
 ## Credit
 

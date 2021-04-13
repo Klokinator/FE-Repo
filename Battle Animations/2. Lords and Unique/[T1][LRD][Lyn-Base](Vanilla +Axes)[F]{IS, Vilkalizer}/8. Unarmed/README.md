@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Lyn-Base\]\(Vanilla +Axes\)\[F\]{IS, Vilkalizer}](../)
+# [\[T1\]\[LRD\]\[Lyn-Base\]\(Vanilla +Axes\)\[F\]{IS, Vilkalizer}]
 
 ## Credit
 

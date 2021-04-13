@@ -1,4 +1,4 @@
-# [\[Mercenary-Case\] \[F\] Long-Haired Tunic](../)
+# [\[Mercenary-Case\] \[F\] Long-Haired Tunic]
 
 ## Credit
 

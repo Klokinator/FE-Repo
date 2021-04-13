@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Vanilla](../)
+# [\[Myrmidon-Base\] \[M\] Vanilla]
 
 ## Credit
 

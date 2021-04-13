@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED-Style\)\[F\]{Pikmin1211, Maiser6, team SALVAGED}](../)
+# [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED-Style\)\[F\]{Pikmin1211, Maiser6, team SALVAGED}]
 
 ## Credit
 

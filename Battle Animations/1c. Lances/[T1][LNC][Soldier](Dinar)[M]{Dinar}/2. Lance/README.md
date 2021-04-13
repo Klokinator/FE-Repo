@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Dinar\)\[M\]{Dinar}](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(Dinar\)\[M\]{Dinar}]
 
 ## Credit
 

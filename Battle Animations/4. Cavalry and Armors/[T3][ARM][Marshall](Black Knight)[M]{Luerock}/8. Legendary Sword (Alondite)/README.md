@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Black Knight\)\[M\]{Luerock}](../)
+# [\[T3\]\[ARM\]\[Marshall\]\(Black Knight\)\[M\]{Luerock}]
 
 ## Credit
 

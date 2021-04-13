@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Neimi\)\[F\]{Seal}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Neimi\)\[F\]{Seal}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Erk\)\[M\]{Greentea, DerTheVaporeon}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Erk\)\[M\]{Greentea, DerTheVaporeon}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Dark Knight\]\(Great Knight-Style\)\[U\]{Primefusion}](../)
+# [\[T2\]\[MAG\]\[Dark Knight\]\(Great Knight-Style\)\[U\]{Primefusion}]
 
 ## Credit
 

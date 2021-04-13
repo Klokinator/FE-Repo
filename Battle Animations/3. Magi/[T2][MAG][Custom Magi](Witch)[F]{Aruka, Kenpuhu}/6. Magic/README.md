@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Custom Magi\]\(Witch\)\[F\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[MAG\]\[Custom Magi\]\(Witch\)\[F\]{Aruka, Kenpuhu}]
 
 ## Credit
 

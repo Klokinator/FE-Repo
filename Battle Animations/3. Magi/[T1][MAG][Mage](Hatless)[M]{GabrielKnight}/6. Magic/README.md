@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Hatless\)\[M\]{GabrielKnight}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Hatless\)\[M\]{GabrielKnight}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Vanilla +Sword\)\[F\]{IS, MK404, MakeFEGayer}](../)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Vanilla +Sword\)\[F\]{IS, MK404, MakeFEGayer}]
 
 ## Credit
 

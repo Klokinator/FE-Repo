@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Helmetless +Axe\)\[U\]{St jack}](../)
+# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Helmetless +Axe\)\[U\]{St jack}]
 
 ## Credit
 

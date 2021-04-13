@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric - Egyptian\)\[F\]{Tarantino500, FahadRashid327}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric - Egyptian\)\[F\]{Tarantino500, FahadRashid327}]
 
 ## Credit
 

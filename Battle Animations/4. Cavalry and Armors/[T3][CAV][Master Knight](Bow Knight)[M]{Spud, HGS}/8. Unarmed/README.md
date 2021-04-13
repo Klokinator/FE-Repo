@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}](../)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}]
 
 ## Credit
 

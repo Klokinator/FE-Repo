@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Character - Guy +Bow](../)
+# [\[Myrmidon-Base\] \[M\] Character - Guy +Bow]
 
 ## Credit
 

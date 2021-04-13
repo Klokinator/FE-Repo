@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Facloknight\]\(Sky Knight\)\[F\]{Jey the Count}](../)
+# [\[T2\]\[FLY\]\[Facloknight\]\(Sky Knight\)\[F\]{Jey the Count}]
 
 ## Credit
 

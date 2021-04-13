@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Prince Julius\)\[M\]](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Prince Julius\)\[M\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Lyn-Base\]\(Short Hair\)\[F\]{Zoisite}](../)
+# [\[T1\]\[LRD\]\[Lyn-Base\]\(Short Hair\)\[F\]{Zoisite}]
 
 ## Credit
 

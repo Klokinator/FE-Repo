@@ -1,4 +1,4 @@
-# [\[Berserker-Hawkeye\] \[F\] Hawkzerker](../)
+# [\[Berserker-Hawkeye\] \[F\] Hawkzerker]
 
 ## Credit
 

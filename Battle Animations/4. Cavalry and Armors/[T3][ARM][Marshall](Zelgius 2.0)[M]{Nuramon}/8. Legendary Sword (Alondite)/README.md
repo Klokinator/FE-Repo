@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}](../)
+# [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}]
 
 ## Credit
 

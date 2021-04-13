@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Demon\]\(Gargoyle-Deathgoyle\)\[U\]{IS}](../)
+# [\[T1\]\[MON\]\[Demon\]\(Gargoyle-Deathgoyle\)\[U\]{IS}]
 
 ## Credit
 

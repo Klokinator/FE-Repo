@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(2.0\)\[F\]{Black Mage}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(2.0\)\[F\]{Black Mage}]
 
 ## Credit
 

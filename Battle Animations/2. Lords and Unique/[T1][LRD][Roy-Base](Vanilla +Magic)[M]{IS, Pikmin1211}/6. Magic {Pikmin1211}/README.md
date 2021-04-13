@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Roy-Base\]\(Vanilla +Magic\)\[M\]{IS, Pikmin1211}](../)
+# [\[T1\]\[LRD\]\[Roy-Base\]\(Vanilla +Magic\)\[M\]{IS, Pikmin1211}]
 
 ## Credit
 

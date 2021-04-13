@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Custom Sword\]\(Dread Fighter\)\[F\]{Nuramon}](../)
+# [\[T3\]\[SWD\]\[Custom Sword\]\(Dread Fighter\)\[F\]{Nuramon}]
 
 ## Credit
 

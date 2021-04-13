@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Dragoon\)\[U\]](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Dragoon\)\[U\]]
 
 ## Credit
 

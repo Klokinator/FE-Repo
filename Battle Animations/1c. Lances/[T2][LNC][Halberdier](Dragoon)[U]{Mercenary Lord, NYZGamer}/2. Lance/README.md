@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon\)\[U\]{Mercenary Lord, NYZGamer}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon\)\[U\]{Mercenary Lord, NYZGamer}]
 
 ## Credit
 

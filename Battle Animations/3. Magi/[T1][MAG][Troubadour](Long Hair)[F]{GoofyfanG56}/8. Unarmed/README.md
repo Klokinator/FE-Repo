@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair\)\[F\]{GoofyfanG56}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair\)\[F\]{GoofyfanG56}]
 
 ## Credit
 

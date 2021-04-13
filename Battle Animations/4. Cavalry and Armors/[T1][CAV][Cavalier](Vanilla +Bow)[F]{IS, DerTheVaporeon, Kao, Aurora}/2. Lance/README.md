@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}](../)
+# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}]
 
 ## Credit
 

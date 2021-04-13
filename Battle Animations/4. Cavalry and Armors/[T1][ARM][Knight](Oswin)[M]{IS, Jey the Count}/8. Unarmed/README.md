@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\[Knight\]\(Oswin\)\[M\]{IS, Jey the Count}](../)
+# [\[T1\]\[ARM\]\[Knight\]\(Oswin\)\[M\]{IS, Jey the Count}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Mauthe Doog\]\(Vanilla\)\[U\]{IS}](../)
+# [\[T1\]\[MON\]\[Mauthe Doog\]\(Vanilla\)\[U\]{IS}]
 
 ## Credit
 

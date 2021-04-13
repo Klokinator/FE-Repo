@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Ishtar\)\[F\]{L95, Brendor}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Ishtar\)\[F\]{L95, Brendor}]
 
 ## Credit
 

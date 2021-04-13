@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog Repal\)\[M\]{Smokeyguy77, ZoramineFae}](../)
+# [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog Repal\)\[M\]{Smokeyguy77, ZoramineFae}]
 
 ## Credit
 

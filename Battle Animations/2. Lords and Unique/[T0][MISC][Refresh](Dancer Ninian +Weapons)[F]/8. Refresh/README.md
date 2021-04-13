@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Ninian +Weapons\)\[F\]](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Ninian +Weapons\)\[F\]]
 
 ## Credit
 

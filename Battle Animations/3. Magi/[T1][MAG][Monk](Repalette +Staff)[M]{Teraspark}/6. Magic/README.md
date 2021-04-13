@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Monk\]\(Repalette +Staff\)\[M\]{Teraspark}](../)
+# [\[T1\]\[MAG\]\[Monk\]\(Repalette +Staff\)\[M\]{Teraspark}]
 
 ## Credit
 

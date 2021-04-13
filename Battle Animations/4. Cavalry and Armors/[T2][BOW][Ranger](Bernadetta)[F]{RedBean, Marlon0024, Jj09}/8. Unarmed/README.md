@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Bernadetta\)\[F\]{RedBean, Marlon0024, Jj09}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Bernadetta\)\[F\]{RedBean, Marlon0024, Jj09}]
 
 ## Credit
 

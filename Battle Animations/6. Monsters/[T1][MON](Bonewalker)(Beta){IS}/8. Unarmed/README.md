@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\(Bonewalker\)\(Beta\){IS}](../)
+# [\[T1\]\[MON\]\(Bonewalker\)\(Beta\){IS}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Berserker \(Sword Only\)](../)
+# [\[Berserker-Variant\] \[M\] Berserker \(Sword Only\)]
 
 ## Credit
 

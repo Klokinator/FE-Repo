@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Innesniper\)\[U\]{Vilkalizer}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Innesniper\)\[U\]{Vilkalizer}]
 
 ## Credit
 

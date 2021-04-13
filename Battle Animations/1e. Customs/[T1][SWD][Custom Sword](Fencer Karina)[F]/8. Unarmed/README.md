@@ -1,4 +1,4 @@
-# [\[T1\]\[SWD\]\[Custom Sword\]\(Fencer Karina\)\[F\]](../)
+# [\[T1\]\[SWD\]\[Custom Sword\]\(Fencer Karina\)\[F\]]
 
 ## Credit
 

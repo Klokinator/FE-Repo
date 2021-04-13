@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Limstella\)\[F\]{Greentea, Nuramon}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Limstella\)\[F\]{Greentea, Nuramon}]
 
 ## Credit
 

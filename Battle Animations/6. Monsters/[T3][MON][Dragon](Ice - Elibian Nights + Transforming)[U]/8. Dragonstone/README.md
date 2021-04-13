@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(Ice - Elibian Nights + Transforming\)\[U\]](../)
+# [\[T3\]\[MON\]\[Dragon\]\(Ice - Elibian Nights + Transforming\)\[U\]]
 
 ## Credit
 

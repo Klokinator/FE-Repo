@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\(Blade Lord-Style Kawaii Blader\)\[F\]{Yangfly Master}](../)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\(Blade Lord-Style Kawaii Blader\)\[F\]{Yangfly Master}]
 
 ## Credit
 

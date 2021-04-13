@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Winter Priest\)\[M\]{Devisian_Nights}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Winter Priest\)\[M\]{Devisian_Nights}]
 
 ## Credit
 

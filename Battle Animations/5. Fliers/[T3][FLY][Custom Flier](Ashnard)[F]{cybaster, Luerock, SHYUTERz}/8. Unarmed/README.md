@@ -1,4 +1,4 @@
-# [\[T3\]\[FLY\]\[Custom Flier\]\(Ashnard\)\[F\]{cybaster, Luerock, SHYUTERz}](../)
+# [\[T3\]\[FLY\]\[Custom Flier\]\(Ashnard\)\[F\]{cybaster, Luerock, SHYUTERz}]
 
 ## Credit
 

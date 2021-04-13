@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Ponytail\)\[F\]{Temp, Black Mage, Wan}](../)
+# [\[T2\]\[SWD\]\[Rogue\]\(Ponytail\)\[F\]{Temp, Black Mage, Wan}]
 
 ## Credit
 

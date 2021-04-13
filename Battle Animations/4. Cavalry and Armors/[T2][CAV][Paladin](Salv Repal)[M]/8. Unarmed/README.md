@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]](../)
+# [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]]
 
 ## Credit
 

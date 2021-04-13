@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Repalette\)\[M\]{Nuramon}](../)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Repalette\)\[M\]{Nuramon}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[M\] Yetizerker Smoothed-Axe](../)
+# [\[Berserker-Base\] \[M\] Yetizerker Smoothed-Axe]
 
 ## Credit
 

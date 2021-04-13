@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\(Blade Lord-Style Elena\)\[F\]{FE7if}](../)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\(Blade Lord-Style Elena\)\[F\]{FE7if}]
 
 ## Credit
 

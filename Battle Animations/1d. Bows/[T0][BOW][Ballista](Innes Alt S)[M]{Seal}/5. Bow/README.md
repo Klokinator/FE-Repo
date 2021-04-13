@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Innes Alt S\)\[M\]{Seal}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Innes Alt S\)\[M\]{Seal}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Fighter-Variant\] \[M\] FE9 Fighter](../)
+# [\[Fighter-Variant\] \[M\] FE9 Fighter]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}](../)
+# [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}]
 
 ## Credit
 

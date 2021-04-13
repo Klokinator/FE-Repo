@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade Alt Stache\)\[M\]](../)
+# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade Alt Stache\)\[M\]]
 
 ## Credit
 

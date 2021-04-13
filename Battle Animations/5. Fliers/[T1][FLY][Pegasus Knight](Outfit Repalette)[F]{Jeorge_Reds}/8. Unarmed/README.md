@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Outfit Repalette\)\[F\]{Jeorge_Reds}](../)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Outfit Repalette\)\[F\]{Jeorge_Reds}]
 
 ## Credit
 

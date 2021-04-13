@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Ponytail +Bow](../)
+# [\[Assassin-Base\] \[F\] Ponytail +Bow]
 
 ## Credit
 

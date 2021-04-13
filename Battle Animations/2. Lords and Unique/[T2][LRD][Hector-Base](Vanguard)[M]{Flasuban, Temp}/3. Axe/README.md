@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Vanguard\)\[M\]{Flasuban, Temp}](../)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Vanguard\)\[M\]{Flasuban, Temp}]
 
 ## Credit
 

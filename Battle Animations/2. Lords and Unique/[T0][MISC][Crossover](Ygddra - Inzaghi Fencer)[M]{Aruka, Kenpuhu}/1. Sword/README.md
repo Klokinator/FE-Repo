@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Ygddra - Inzaghi Fencer\)\[M\]{Aruka, Kenpuhu}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Ygddra - Inzaghi Fencer\)\[M\]{Aruka, Kenpuhu}]
 
 ## Credit
 

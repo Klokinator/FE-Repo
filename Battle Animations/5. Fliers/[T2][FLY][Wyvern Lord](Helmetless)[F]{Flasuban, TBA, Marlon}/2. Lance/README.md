@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Helmetless\)\[F\]{Flasuban, TBA, Marlon}](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Helmetless\)\[F\]{Flasuban, TBA, Marlon}]
 
 ## Credit
 

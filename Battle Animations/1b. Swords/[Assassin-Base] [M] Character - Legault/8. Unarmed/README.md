@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Character - Legault](../)
+# [\[Assassin-Base\] \[M\] Character - Legault]
 
 ## Credit
 

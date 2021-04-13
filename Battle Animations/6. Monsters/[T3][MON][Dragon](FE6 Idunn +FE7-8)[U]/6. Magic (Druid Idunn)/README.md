@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(FE6 Idunn +FE7-8\)\[U\]](../)
+# [\[T3\]\[MON\]\[Dragon\]\(FE6 Idunn +FE7-8\)\[U\]]
 
 ## Credit
 

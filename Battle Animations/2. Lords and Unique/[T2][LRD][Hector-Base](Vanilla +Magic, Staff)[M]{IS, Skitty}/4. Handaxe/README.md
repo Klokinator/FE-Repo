@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Vanilla +Magic, Staff\)\[M\]{IS, Skitty}](../)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Vanilla +Magic, Staff\)\[M\]{IS, Skitty}]
 
 ## Credit
 

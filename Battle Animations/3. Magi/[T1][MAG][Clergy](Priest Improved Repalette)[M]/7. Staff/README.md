@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Priest Improved Repalette\)\[M\]](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Priest Improved Repalette\)\[M\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Bard Nils +Staff, Dragonstone\)\[M\]](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Bard Nils +Staff, Dragonstone\)\[M\]]
 
 ## Credit
 

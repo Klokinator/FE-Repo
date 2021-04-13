@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\[F\]{St jack}](../)
+# [\[T3\]\[CAV\]\[Master Knight\]\[F\]{St jack}]
 
 ## Credit
 

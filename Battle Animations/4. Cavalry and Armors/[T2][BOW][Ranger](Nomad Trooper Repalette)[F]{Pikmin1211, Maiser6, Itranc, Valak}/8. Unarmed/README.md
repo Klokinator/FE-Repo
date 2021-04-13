@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Kirby - King Dedede\)\[M\]{Volke0}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Kirby - King Dedede\)\[M\]{Volke0}]
 
 ## Credit
 

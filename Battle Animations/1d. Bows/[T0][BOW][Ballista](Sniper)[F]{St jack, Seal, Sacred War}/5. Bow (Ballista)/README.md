@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Sniper\)\[F\]{St jack, Seal, Sacred War}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Sniper\)\[F\]{St jack, Seal, Sacred War}]
 
 ## Credit
 

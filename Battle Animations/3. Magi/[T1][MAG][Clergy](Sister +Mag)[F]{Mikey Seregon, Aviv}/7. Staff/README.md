@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Sister +Mag\)\[F\]{Mikey Seregon, Aviv}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Sister +Mag\)\[F\]{Mikey Seregon, Aviv}]
 
 ## Credit
 

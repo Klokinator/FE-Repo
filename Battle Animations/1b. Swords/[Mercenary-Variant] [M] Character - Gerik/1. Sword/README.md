@@ -1,4 +1,4 @@
-# [\[Mercenary-Variant\] \[M\] Character - Gerik](../)
+# [\[Mercenary-Variant\] \[M\] Character - Gerik]
 
 ## Credit
 

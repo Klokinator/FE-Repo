@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Summoner\]\[F\]{FEGirls}](../)
+# [\[T2\]\[MAG\]\[Summoner\]\[F\]{FEGirls}]
 
 ## Credit
 

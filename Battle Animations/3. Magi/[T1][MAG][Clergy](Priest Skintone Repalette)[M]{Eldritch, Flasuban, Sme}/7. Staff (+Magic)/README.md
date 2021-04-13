@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Priest Skintone Repalette\)\[M\]{Eldritch, Flasuban, Sme}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Priest Skintone Repalette\)\[M\]{Eldritch, Flasuban, Sme}]
 
 ## Credit
 

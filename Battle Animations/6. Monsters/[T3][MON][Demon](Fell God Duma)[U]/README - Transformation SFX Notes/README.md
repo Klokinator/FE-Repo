@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Demon\]\(Fell God Duma\)\[U\]](../)
+# [\[T3\]\[MON\]\[Demon\]\(Fell God Duma\)\[U\]]
 
 ## Credit
 

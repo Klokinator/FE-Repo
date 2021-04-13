@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}](../)
+# [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}]
 
 ## Credit
 

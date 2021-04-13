@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(FE7 Updated Shield\)\[M\]{IS, Pikmin1211}](../)
+# [\[Hero-Base\] \(FE7 Updated Shield\)\[M\]{IS, Pikmin1211}]
 
 ## Credit
 

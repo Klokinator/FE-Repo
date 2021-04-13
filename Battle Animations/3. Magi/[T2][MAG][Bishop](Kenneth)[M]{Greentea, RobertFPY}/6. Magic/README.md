@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(Kenneth\)\[M\]{Greentea, RobertFPY}](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(Kenneth\)\[M\]{Greentea, RobertFPY}]
 
 ## Credit
 

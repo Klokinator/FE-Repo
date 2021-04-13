@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}](../)
+# [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Gaiden Mage\)\[F\]](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Gaiden Mage\)\[F\]]
 
 ## Credit
 

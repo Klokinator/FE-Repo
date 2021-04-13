@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Yggdra - Yuril Artwaltz\)\[F\]{Aruka, Kenpuhu}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Yggdra - Yuril Artwaltz\)\[F\]{Aruka, Kenpuhu}]
 
 ## Credit
 

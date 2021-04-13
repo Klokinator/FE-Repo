@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Archsage\]\(Lilina\)\[F\]{Red Bean, Shin19}](../)
+# [\[T3\]\[MAG\]\[Archsage\]\(Lilina\)\[F\]{Red Bean, Shin19}]
 
 ## Credit
 

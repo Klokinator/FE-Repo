@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Miko\)\[F\]{Dolkar, Red Bean}](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Miko\)\[F\]{Dolkar, Red Bean}]
 
 ## Credit
 

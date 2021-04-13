@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(Draco Zombie +FE7\)\[U\]](../)
+# [\[T3\]\[MON\]\[Dragon\]\(Draco Zombie +FE7\)\[U\]]
 
 ## Credit
 

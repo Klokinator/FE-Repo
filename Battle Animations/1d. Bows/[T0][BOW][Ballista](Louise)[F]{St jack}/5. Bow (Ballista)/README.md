@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Louise\)\[F\]{St jack}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Louise\)\[F\]{St jack}]
 
 ## Credit
 

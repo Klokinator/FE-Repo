@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Spartan\)\[M\]{Vilkalizer, Pikmin1211}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Spartan\)\[M\]{Vilkalizer, Pikmin1211}]
 
 ## Credit
 

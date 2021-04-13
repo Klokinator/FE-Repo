@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Vanilla +Magic](../)
+# [\[Warrior-Base\] \[M\] Vanilla +Magic]
 
 ## Credit
 

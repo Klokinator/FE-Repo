@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Custom Flier\]\(Harrier Tethys\)\[F\]{Ayr, Marlon0024}](../)
+# [\[T2\]\[FLY\]\[Custom Flier\]\(Harrier Tethys\)\[F\]{Ayr, Marlon0024}]
 
 ## Credit
 

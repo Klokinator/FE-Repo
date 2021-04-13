@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Long-Haired\)\[F\]{Circleseverywhere}](../)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Long-Haired\)\[F\]{Circleseverywhere}]
 
 ## Credit
 

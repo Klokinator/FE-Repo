@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Fast\)\[F\]{Shtick, L95}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Fast\)\[F\]{Shtick, L95}]
 
 ## Credit
 

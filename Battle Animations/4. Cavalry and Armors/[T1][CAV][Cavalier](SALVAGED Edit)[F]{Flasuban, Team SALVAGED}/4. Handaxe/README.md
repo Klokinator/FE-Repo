@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED Edit\)\[F\]{Flasuban, Team SALVAGED}](../)
+# [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED Edit\)\[F\]{Flasuban, Team SALVAGED}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(FE7-Style Repalette +Weapons\)\[F\]](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(FE7-Style Repalette +Weapons\)\[F\]]
 
 ## Credit
 

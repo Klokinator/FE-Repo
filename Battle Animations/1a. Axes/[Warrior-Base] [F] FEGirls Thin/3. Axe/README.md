@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[F\] FEGirls Thin](../)
+# [\[Warrior-Base\] \[F\] FEGirls Thin]
 
 ## Credit
 

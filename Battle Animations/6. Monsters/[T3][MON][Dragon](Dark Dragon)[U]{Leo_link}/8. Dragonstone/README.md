@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(Dark Dragon\)\[U\]{Leo_link}](../)
+# [\[T3\]\[MON\]\[Dragon\]\(Dark Dragon\)\[U\]{Leo_link}]
 
 ## Credit
 

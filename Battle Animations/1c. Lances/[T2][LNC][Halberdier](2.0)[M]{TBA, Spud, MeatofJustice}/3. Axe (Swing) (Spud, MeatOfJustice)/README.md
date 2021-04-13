@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(2.0\)\[M\]{TBA, Spud, MeatofJustice}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(2.0\)\[M\]{TBA, Spud, MeatofJustice}]
 
 ## Credit
 

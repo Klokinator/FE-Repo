@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Ponytail\)\[F\]{Lisandra_Brave, Shin19}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Ponytail\)\[F\]{Lisandra_Brave, Shin19}]
 
 ## Credit
 

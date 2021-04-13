@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Improved - Repalette\)\[M\]](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Improved - Repalette\)\[M\]]
 
 ## Credit
 

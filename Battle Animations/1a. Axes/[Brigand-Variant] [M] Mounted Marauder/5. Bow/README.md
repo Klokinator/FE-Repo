@@ -1,4 +1,4 @@
-# [\[Brigand-Variant\] \[M\] Mounted Marauder](../)
+# [\[Brigand-Variant\] \[M\] Mounted Marauder]
 
 ## Credit
 

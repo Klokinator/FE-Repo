@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Rebecca _ Quiver\)\[F\]{Nuramon, Swain, Temp, Wan}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Rebecca _ Quiver\)\[F\]{Nuramon, Swain, Temp, Wan}]
 
 ## Credit
 

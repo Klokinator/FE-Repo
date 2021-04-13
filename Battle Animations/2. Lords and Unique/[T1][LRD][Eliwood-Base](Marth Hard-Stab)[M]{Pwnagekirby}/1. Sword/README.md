@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Marth Hard-Stab\)\[M\]{Pwnagekirby}](../)
+# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Marth Hard-Stab\)\[M\]{Pwnagekirby}]
 
 ## Credit
 

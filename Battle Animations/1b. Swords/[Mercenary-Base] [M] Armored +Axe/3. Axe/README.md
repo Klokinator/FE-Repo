@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Armored +Axe](../)
+# [\[Mercenary-Base\] \[M\] Armored +Axe]
 
 ## Credit
 

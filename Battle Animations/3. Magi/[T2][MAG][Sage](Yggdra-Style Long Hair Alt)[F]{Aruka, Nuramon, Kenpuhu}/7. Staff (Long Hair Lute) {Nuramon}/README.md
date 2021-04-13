@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Yggdra-Style Long Hair Alt\)\[F\]{Aruka, Nuramon, Kenpuhu}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Yggdra-Style Long Hair Alt\)\[F\]{Aruka, Nuramon, Kenpuhu}]
 
 ## Credit
 

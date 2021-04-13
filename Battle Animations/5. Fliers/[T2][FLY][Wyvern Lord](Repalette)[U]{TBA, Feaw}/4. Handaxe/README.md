@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Repalette\)\[U\]{TBA, Feaw}](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Repalette\)\[U\]{TBA, Feaw}]
 
 ## Credit
 

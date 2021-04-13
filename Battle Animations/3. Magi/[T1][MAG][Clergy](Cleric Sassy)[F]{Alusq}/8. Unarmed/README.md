@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Sassy\)\[F\]{Alusq}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Sassy\)\[F\]{Alusq}]
 
 ## Credit
 

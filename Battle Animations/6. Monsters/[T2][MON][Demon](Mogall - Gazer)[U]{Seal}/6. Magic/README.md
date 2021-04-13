@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Mogall - Gazer\)\[U\]{Seal}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Mogall - Gazer\)\[U\]{Seal}]
 
 ## Credit
 

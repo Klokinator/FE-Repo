@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Custom Lord\]\(Brave Hector Repal\)\[M\]{Nuramon, Sax-Marine}](../)
+# [\[T2\]\[LRD\]\[Custom Lord\]\(Brave Hector Repal\)\[M\]{Nuramon, Sax-Marine}]
 
 ## Credit
 

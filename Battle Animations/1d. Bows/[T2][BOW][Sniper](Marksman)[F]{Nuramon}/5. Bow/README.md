@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Marksman\)\[F\]{Nuramon}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Marksman\)\[F\]{Nuramon}]
 
 ## Credit
 

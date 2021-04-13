@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Fiora\)\[F\]{Greentea, RobertFPY, Jey the Count}](../)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Fiora\)\[F\]{Greentea, RobertFPY, Jey the Count}]
 
 ## Credit
 

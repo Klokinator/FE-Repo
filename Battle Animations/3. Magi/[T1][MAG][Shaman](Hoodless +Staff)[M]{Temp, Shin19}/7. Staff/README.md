@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(Hoodless +Staff\)\[M\]{Temp, Shin19}](../)
+# [\[T1\]\[MAG\]\[Shaman\]\(Hoodless +Staff\)\[M\]{Temp, Shin19}]
 
 ## Credit
 

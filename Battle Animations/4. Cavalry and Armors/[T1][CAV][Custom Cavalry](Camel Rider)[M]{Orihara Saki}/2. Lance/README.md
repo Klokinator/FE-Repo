@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Custom Cavalry\]\(Camel Rider\)\[M\]{Orihara Saki}](../)
+# [\[T1\]\[CAV\]\[Custom Cavalry\]\(Camel Rider\)\[M\]{Orihara Saki}]
 
 ## Credit
 

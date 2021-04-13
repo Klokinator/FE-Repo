@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Custom Deathgoyle\)\[U\]{Teraspark, L95}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Custom Deathgoyle\)\[U\]{Teraspark, L95}]
 
 ## Credit
 

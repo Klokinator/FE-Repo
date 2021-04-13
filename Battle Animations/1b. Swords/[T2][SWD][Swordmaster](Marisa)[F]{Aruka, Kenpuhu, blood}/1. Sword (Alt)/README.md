@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa\)\[F\]{Aruka, Kenpuhu, blood}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa\)\[F\]{Aruka, Kenpuhu, blood}]
 
 ## Credit
 

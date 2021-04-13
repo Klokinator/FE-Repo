@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Bow Fighter](../)
+# [\[Fighter-Base\] \[M\] Bow Fighter]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Joshua Alt Y\)\[M\]{Aruka, Kenpuhu, blood}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Joshua Alt Y\)\[M\]{Aruka, Kenpuhu, blood}]
 
 ## Credit
 

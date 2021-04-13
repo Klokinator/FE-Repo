@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Repalette +Weapons\)\[F\]](../)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Repalette +Weapons\)\[F\]]
 
 ## Credit
 

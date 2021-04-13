@@ -1,4 +1,4 @@
-# [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow](../)
+# [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow]
 
 ## Credit
 

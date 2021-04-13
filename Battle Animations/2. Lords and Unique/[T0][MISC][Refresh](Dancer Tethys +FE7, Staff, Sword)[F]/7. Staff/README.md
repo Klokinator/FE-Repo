@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Tethys +FE7, Staff, Sword\)\[F\]](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Tethys +FE7, Staff, Sword\)\[F\]]
 
 ## Credit
 

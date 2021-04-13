@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Linus\)\[M\]{DerTheVaporeon, Nuramon, Greentea}](../)
+# [\[Hero-Base\] \(Linus\)\[M\]{DerTheVaporeon, Nuramon, Greentea}]
 
 ## Credit
 

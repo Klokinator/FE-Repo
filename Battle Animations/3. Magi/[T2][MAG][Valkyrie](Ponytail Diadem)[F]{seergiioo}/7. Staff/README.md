@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(Ponytail Diadem\)\[F\]{seergiioo}](../)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(Ponytail Diadem\)\[F\]{seergiioo}]
 
 ## Credit
 

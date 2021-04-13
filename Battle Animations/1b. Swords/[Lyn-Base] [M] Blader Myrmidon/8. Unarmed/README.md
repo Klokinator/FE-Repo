@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[M\] Blader Myrmidon](../)
+# [\[Lyn-Base\] \[M\] Blader Myrmidon]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Assassin-Variant\] \[M\] Character - Colm](../)
+# [\[Assassin-Variant\] \[M\] Character - Colm]
 
 ## Credit
 

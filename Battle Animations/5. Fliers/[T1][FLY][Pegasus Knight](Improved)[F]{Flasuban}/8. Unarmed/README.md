@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Improved\)\[F\]{Flasuban}](../)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Improved\)\[F\]{Flasuban}]
 
 ## Credit
 

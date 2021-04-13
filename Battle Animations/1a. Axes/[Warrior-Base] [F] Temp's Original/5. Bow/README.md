@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[F\] Temp's Original](../)
+# [\[Warrior-Base\] \[F\] Temp's Original]
 
 ## Credit
 

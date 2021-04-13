@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Wil\)\[M\]{Greentea, qiuzf007}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Wil\)\[M\]{Greentea, qiuzf007}]
 
 ## Credit
 

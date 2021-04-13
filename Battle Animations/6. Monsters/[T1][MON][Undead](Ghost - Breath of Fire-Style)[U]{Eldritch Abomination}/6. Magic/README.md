@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Undead\]\(Ghost - Breath of Fire-Style\)\[U\]{Eldritch Abomination}](../)
+# [\[T1\]\[MON\]\[Undead\]\(Ghost - Breath of Fire-Style\)\[U\]{Eldritch Abomination}]
 
 ## Credit
 

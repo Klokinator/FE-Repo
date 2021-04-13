@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Mage Knight\]\(Holy Knight\)\[F\]{Teraspark, Jey the Count}](../)
+# [\[T2\]\[MAG\]\[Mage Knight\]\(Holy Knight\)\[F\]{Teraspark, Jey the Count}]
 
 ## Credit
 

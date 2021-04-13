@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(FE6 Lilina\)\[F\]{IS, Shin19, SHYUTERz}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(FE6 Lilina\)\[F\]{IS, Shin19, SHYUTERz}]
 
 ## Credit
 

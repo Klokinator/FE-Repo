@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[F\] FEGirls Boobzerker](../)
+# [\[Berserker-Base\] \[F\] FEGirls Boobzerker]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Oracle\)\[M\]{GabrielKnight, Flasuban, Jj09}](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Oracle\)\[M\]{GabrielKnight, Flasuban, Jj09}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Mage Knight\]\(Vanilla +Weapons\)\[F\]](../)
+# [\[T2\]\[MAG\]\[Mage Knight\]\(Vanilla +Weapons\)\[F\]]
 
 ## Credit
 

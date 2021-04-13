@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Mauthe Doog\]\(Cerberus\)\[U\]{Pikmin1211}](../)
+# [\[T3\]\[MON\]\[Mauthe Doog\]\(Cerberus\)\[U\]{Pikmin1211}]
 
 ## Credit
 

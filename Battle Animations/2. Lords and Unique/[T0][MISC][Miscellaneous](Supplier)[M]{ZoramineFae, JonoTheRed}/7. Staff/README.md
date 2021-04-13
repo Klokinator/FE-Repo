@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Miscellaneous\]\(Supplier\)\[M\]{ZoramineFae, JonoTheRed}](../)
+# [\[T0\]\[MISC\]\[Miscellaneous\]\(Supplier\)\[M\]{ZoramineFae, JonoTheRed}]
 
 ## Credit
 

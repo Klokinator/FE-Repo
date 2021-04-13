@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(FE7 Serra\)\[F\]{IS}](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(FE7 Serra\)\[F\]{IS}]
 
 ## Credit
 

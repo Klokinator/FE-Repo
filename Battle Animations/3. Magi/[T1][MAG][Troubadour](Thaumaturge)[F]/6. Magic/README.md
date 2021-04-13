@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Thaumaturge\)\[F\]](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Thaumaturge\)\[F\]]
 
 ## Credit
 

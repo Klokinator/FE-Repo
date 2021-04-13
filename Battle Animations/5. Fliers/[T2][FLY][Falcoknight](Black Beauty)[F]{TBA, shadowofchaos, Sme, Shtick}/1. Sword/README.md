@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Falcoknight\]\(Black Beauty\)\[F\]{TBA, shadowofchaos, Sme, Shtick}](../)
+# [\[T2\]\[FLY\]\[Falcoknight\]\(Black Beauty\)\[F\]{TBA, shadowofchaos, Sme, Shtick}]
 
 ## Credit
 

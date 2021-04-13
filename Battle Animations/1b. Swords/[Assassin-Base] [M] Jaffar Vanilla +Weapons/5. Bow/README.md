@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](../)
+# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons]
 
 ## Credit
 

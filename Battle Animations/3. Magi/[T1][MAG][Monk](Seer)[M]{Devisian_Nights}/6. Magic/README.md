@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Monk\]\(Seer\)\[M\]{Devisian_Nights}](../)
+# [\[T1\]\[MAG\]\[Monk\]\(Seer\)\[M\]{Devisian_Nights}]
 
 ## Credit
 

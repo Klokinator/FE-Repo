@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Short Hair\)\[M\]{Shtick}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Short Hair\)\[M\]{Shtick}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Leila Vanilla FE7](../)
+# [\[Thief-Base\] \[F\] Leila Vanilla FE7]
 
 ## Credit
 

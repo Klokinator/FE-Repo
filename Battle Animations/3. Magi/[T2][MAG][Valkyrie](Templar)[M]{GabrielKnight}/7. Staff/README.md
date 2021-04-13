@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(Templar\)\[M\]{GabrielKnight}](../)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(Templar\)\[M\]{GabrielKnight}]
 
 ## Credit
 

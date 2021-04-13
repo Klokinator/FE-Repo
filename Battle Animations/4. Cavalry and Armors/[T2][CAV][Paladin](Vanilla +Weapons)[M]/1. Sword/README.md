@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Weapons\)\[M\]](../)
+# [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Weapons\)\[M\]]
 
 ## Credit
 

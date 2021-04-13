@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\[M\]{IS, Jey the Count}](../)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\[M\]{IS, Jey the Count}]
 
 ## Credit
 

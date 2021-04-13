@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh +FE7, Magic\)\[F\]{IS, Circleseverywhere, Seal}](../)
+# [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh +FE7, Magic\)\[F\]{IS, Circleseverywhere, Seal}]
 
 ## Credit
 

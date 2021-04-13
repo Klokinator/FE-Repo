@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Yggdra Lute\)\[F\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Yggdra Lute\)\[F\]{Aruka, Kenpuhu}]
 
 ## Credit
 

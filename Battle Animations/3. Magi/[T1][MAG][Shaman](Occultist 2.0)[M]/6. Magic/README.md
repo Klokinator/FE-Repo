@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(Occultist 2.0\)\[M\]](../)
+# [\[T1\]\[MAG\]\[Shaman\]\(Occultist 2.0\)\[M\]]
 
 ## Credit
 

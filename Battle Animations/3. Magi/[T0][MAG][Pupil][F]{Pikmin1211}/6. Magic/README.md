@@ -1,4 +1,4 @@
-# [\[T0\]\[MAG\]\[Pupil\]\[F\]{Pikmin1211}](../)
+# [\[T0\]\[MAG\]\[Pupil\]\[F\]{Pikmin1211}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\[Knight\]\(SALVAGED Helmetless\)\[M\]{Team SALVAGED, BoneManSeth}](../)
+# [\[T1\]\[ARM\]\[Knight\]\(SALVAGED Helmetless\)\[M\]{Team SALVAGED, BoneManSeth}]
 
 ## Credit
 

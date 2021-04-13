@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(Myrrh to FE7 Fire Dragon\)\[F\]](../)
+# [\[T1\]\[MON\]\[Manakete\]\(Myrrh to FE7 Fire Dragon\)\[F\]]
 
 ## Credit
 

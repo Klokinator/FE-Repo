@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Isadora Doubleblade\)\[F\]{FE7if}](../)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Isadora Doubleblade\)\[F\]{FE7if}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Cath Repal by Eldritch](../)
+# [\[Thief-Base\] \[F\] Cath Repal by Eldritch]
 
 ## Credit
 

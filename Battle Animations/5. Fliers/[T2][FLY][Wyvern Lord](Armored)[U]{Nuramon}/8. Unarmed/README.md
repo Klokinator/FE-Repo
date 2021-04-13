@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Armored\)\[U\]{Nuramon}](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Armored\)\[U\]{Nuramon}]
 
 ## Credit
 

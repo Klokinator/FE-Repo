@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\]\[F\] Long-Haired](../)
+# [\[Myrmidon-Base\]\[F\] Long-Haired]
 
 ## Credit
 

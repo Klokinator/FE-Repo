@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Gaiden Priestess\)\[F\]{HGS, Jono}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Gaiden Priestess\)\[F\]{HGS, Jono}]
 
 ## Credit
 

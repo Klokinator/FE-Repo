@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Hat\)\[F\]{Retrogamer, 7743}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Hat\)\[F\]{Retrogamer, 7743}]
 
 ## Credit
 

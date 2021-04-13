@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[U\] Lizard Brigand Wildling](../)
+# [\[Brigand-Base\] \[U\] Lizard Brigand Wildling]
 
 ## Credit
 

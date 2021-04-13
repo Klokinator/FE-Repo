@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Pent Alt A\)\[M\]{Arkth}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Pent Alt A\)\[M\]{Arkth}]
 
 ## Credit
 

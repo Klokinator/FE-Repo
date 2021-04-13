@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Vanilla +Sword](../)
+# [\[Fighter-Base\] \[M\] Vanilla +Sword]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Louise Caped\)\[F\]{Greentea, RobertFPY}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Louise Caped\)\[F\]{Greentea, RobertFPY}]
 
 ## Credit
 

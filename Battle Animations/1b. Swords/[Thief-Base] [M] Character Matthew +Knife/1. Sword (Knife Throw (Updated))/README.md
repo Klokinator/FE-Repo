@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Character Matthew +Knife](../)
+# [\[Thief-Base\] \[M\] Character Matthew +Knife]
 
 ## Credit
 

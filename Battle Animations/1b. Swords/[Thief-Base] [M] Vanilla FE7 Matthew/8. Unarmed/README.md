@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Vanilla FE7 Matthew](../)
+# [\[Thief-Base\] \[M\] Vanilla FE7 Matthew]
 
 ## Credit
 

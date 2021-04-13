@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(FE10 - Stefan\)\[M\]{Solusaeternus, SHYUTERz}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(FE10 - Stefan\)\[M\]{Solusaeternus, SHYUTERz}]
 
 ## Credit
 

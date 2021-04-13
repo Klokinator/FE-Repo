@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Mage Lord\)\[M\]{Eldritch Abomination}](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Mage Lord\)\[M\]{Eldritch Abomination}]
 
 ## Credit
 

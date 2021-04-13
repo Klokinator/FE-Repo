@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Cath Vanilla FE6](../)
+# [\[Thief-Base\] \[F\] Cath Vanilla FE6]
 
 ## Credit
 

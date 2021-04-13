@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[F\] Temp's Repal Long Hair](../)
+# [\[Warrior-Base\] \[F\] Temp's Repal Long Hair]
 
 ## Credit
 

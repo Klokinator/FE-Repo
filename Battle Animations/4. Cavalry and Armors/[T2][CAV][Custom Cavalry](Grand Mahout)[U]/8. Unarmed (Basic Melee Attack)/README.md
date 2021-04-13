@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]](../)
+# [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]]
 
 ## Credit
 

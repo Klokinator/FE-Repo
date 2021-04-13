@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[F\] Vanilla-Style](../)
+# [\[Fighter-Base\] \[F\] Vanilla-Style]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[M\] Vanilla Repal](../)
+# [\[Berserker-Base\] \[M\] Vanilla Repal]
 
 ## Credit
 

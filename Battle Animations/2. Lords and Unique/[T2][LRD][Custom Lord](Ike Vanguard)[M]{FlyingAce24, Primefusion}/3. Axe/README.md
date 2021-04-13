@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Custom Lord\]\(Ike Vanguard\)\[M\]{FlyingAce24, Primefusion}](../)
+# [\[T2\]\[LRD\]\[Custom Lord\]\(Ike Vanguard\)\[M\]{FlyingAce24, Primefusion}]
 
 ## Credit
 

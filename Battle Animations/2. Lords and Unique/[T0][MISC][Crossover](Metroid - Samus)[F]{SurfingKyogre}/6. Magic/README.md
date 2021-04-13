@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Metroid - Samus\)\[F\]{SurfingKyogre}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Metroid - Samus\)\[F\]{SurfingKyogre}]
 
 ## Credit
 

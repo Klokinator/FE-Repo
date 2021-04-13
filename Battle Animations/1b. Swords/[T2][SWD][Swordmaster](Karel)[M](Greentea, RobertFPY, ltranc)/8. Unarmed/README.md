@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Karel\)\[M\]\(Greentea, RobertFPY, ltranc\)](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Karel\)\[M\]\(Greentea, RobertFPY, ltranc\)]
 
 ## Credit
 

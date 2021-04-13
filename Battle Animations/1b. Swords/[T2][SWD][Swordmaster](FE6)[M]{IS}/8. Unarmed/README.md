@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(FE6\)\[M\]{IS}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(FE6\)\[M\]{IS}]
 
 ## Credit
 

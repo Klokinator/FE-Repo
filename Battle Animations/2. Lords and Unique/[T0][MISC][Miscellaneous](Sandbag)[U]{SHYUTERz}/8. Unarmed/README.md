@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Miscellaneous\]\(Sandbag\)\[U\]{SHYUTERz}](../)
+# [\[T0\]\[MISC\]\[Miscellaneous\]\(Sandbag\)\[U\]{SHYUTERz}]
 
 ## Credit
 

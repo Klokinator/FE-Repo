@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Amelia\)\[F\]{Spud}](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(Amelia\)\[F\]{Spud}]
 
 ## Credit
 

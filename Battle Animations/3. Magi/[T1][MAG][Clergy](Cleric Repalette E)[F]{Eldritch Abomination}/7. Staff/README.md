@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Repalette E\)\[F\]{Eldritch Abomination}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Repalette E\)\[F\]{Eldritch Abomination}]
 
 ## Credit
 

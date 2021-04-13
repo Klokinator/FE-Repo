@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[M\] Cloth Helmet Brigand](../)
+# [\[Brigand-Base\] \[M\] Cloth Helmet Brigand]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Summoner\]\(Vanilla +Weapons, Fix\)\[M\]](../)
+# [\[T2\]\[MAG\]\[Summoner\]\(Vanilla +Weapons, Fix\)\[M\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)](../)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)]
 
 ## Credit
 

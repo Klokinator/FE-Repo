@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Dark Knight\]\(3DS Style Updated\)\[M\]](../)
+# [\[T2\]\[MAG\]\[Dark Knight\]\(3DS Style Updated\)\[M\]]
 
 ## Credit
 

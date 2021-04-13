@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Custom Flier\]\(Malig Knight-updated\)\[M\]](../)
+# [\[T2\]\[FLY\]\[Custom Flier\]\(Malig Knight-updated\)\[M\]]
 
 ## Credit
 

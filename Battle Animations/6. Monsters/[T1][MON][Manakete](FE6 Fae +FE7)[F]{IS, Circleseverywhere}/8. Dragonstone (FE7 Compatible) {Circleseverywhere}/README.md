@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fae +FE7\)\[F\]{IS, Circleseverywhere}](../)
+# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fae +FE7\)\[F\]{IS, Circleseverywhere}]
 
 ## Credit
 

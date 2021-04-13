@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Long-Hair\)\[F\]{Solum}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Long-Hair\)\[F\]{Solum}]
 
 ## Credit
 

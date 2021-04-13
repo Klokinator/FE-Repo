@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Vanilla FE6](../)
+# [\[Mercenary-Base\] \[M\] Vanilla FE6]
 
 ## Credit
 

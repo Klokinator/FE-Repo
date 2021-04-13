@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(Inquisitor\)\[M\]{Jey the Count}](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(Inquisitor\)\[M\]{Jey the Count}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Helmetless\)M\]Flasuban, eCut}](../)
+# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Helmetless\)M\]Flasuban, eCut}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Mercenary-Variant\] \[F\] SALVAGED Mercenary](../)
+# [\[Mercenary-Variant\] \[F\] SALVAGED Mercenary]
 
 ## Credit
 

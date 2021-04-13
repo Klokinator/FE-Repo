@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(FE7 Fire Dragon +FE8\)\[U\]](../)
+# [\[T3\]\[MON\]\[Dragon\]\(FE7 Fire Dragon +FE8\)\[U\]]
 
 ## Credit
 

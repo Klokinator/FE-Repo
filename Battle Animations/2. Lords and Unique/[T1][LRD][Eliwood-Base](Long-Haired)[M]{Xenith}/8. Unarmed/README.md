@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Long-Haired\)\[M\]{Xenith}](../)
+# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Long-Haired\)\[M\]{Xenith}]
 
 ## Credit
 

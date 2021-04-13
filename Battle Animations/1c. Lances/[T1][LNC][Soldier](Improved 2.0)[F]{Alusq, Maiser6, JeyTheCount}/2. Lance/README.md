@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Improved 2.0\)\[F\]{Alusq, Maiser6, JeyTheCount}](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(Improved 2.0\)\[F\]{Alusq, Maiser6, JeyTheCount}]
 
 ## Credit
 

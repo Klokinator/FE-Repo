@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Evergrim-Staff\)\[U\]{Almirage, EldritchAbomination}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Evergrim-Staff\)\[U\]{Almirage, EldritchAbomination}]
 
 ## Credit
 

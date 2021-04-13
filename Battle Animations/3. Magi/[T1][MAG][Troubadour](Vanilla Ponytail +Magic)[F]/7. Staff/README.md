@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla Ponytail +Magic\)\[F\]](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla Ponytail +Magic\)\[F\]]
 
 ## Credit
 

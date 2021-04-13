@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Custom Magi\]\(Witch Repalette\)\[F\]](../)
+# [\[T2\]\[MAG\]\[Custom Magi\]\(Witch Repalette\)\[F\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Priest Hood\)\[M\]{Eldritch Abomination}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Priest Hood\)\[M\]{Eldritch Abomination}]
 
 ## Credit
 

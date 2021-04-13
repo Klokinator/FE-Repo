@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(High Magus\)\[F\]\(MrNight, DerTheVaporeon\)](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(High Magus\)\[F\]\(MrNight, DerTheVaporeon\)]
 
 ## Credit
 

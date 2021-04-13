@@ -1,4 +1,4 @@
-# [\[Eirika-Variant\] \[F\] Beta Eirika](../)
+# [\[Eirika-Variant\] \[F\] Beta Eirika]
 
 ## Credit
 

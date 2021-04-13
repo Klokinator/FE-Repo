@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Neimi\)\[F\]{Feaw}](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Neimi\)\[F\]{Feaw}]
 
 ## Credit
 

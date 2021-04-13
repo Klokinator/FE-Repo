@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Angel\)\[F\]{GabrielKnight, Skitty}](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Angel\)\[F\]{GabrielKnight, Skitty}]
 
 ## Credit
 

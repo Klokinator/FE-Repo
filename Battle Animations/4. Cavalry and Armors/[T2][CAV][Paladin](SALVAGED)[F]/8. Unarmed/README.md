@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[F\]](../)
+# [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[F\]]
 
 ## Credit
 

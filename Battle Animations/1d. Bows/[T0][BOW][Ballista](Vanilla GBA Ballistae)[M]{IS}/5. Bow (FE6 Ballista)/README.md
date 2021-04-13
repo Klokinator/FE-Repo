@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Vanilla GBA Ballistae\)\[M\]{IS}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Vanilla GBA Ballistae\)\[M\]{IS}]
 
 ## Credit
 

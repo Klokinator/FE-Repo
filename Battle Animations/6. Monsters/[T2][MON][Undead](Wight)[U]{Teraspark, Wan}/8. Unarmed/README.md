@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Wight\)\[U\]{Teraspark, Wan}](../)
+# [\[T2\]\[MON\]\[Undead\]\(Wight\)\[U\]{Teraspark, Wan}]
 
 ## Credit
 

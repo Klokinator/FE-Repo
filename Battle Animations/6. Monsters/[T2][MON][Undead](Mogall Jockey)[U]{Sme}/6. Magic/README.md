@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Mogall Jockey\)\[U\]{Sme}](../)
+# [\[T2\]\[MON\]\[Undead\]\(Mogall Jockey\)\[U\]{Sme}]
 
 ## Credit
 

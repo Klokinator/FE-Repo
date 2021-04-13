@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Kishuna\)\[M\]{Spud, noonog}](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Kishuna\)\[M\]{Spud, noonog}]
 
 ## Credit
 

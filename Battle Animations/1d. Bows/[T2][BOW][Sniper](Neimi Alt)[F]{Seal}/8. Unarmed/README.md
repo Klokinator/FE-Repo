@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Neimi Alt\)\[F\]{Seal}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Neimi Alt\)\[F\]{Seal}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Ponytail Repalette\)\[F\]{Feaw}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Ponytail Repalette\)\[F\]{Feaw}]
 
 ## Credit
 

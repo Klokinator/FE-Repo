@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Innes\)\[M\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Innes\)\[M\]{Aruka, Kenpuhu}]
 
 ## Credit
 

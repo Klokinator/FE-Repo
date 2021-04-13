@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(Occultist\)\[M\]{Devisian_Nights, Pikmin1211}](../)
+# [\[T1\]\[MAG\]\[Shaman\]\(Occultist\)\[M\]{Devisian_Nights, Pikmin1211}]
 
 ## Credit
 

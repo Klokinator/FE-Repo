@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}](../)
+# [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Custom Lord\]\(Ephraim Infantry\)\[F\]](../)
+# [\[T2\]\[LRD\]\[Custom Lord\]\(Ephraim Infantry\)\[F\]]
 
 ## Credit
 

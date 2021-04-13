@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(Repalette\)\[M\]](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(Repalette\)\[M\]]
 
 ## Credit
 

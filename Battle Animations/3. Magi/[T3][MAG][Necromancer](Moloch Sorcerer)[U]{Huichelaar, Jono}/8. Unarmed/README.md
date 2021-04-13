@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Moloch Sorcerer\)\[U\]{Huichelaar, Jono}](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Moloch Sorcerer\)\[U\]{Huichelaar, Jono}]
 
 ## Credit
 

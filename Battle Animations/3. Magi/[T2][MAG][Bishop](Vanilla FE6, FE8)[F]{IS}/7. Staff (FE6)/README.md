@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(Vanilla FE6, FE8\)\[F\]{IS}](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(Vanilla FE6, FE8\)\[F\]{IS}]
 
 ## Credit
 

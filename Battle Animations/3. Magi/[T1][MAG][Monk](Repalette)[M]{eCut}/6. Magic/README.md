@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[M\]{eCut}](../)
+# [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[M\]{eCut}]
 
 ## Credit
 

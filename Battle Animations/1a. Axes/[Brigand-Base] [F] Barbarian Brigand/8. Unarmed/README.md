@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[F\] Barbarian Brigand](../)
+# [\[Brigand-Base\] \[F\] Barbarian Brigand]
 
 ## Credit
 

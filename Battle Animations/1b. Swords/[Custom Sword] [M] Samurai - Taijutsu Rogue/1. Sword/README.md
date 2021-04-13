@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Samurai - Taijutsu Rogue](../)
+# [\[Custom Sword\] \[M\] Samurai - Taijutsu Rogue]
 
 ## Credit
 

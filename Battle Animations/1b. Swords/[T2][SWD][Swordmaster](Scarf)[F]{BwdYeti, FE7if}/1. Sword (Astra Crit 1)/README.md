@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Scarf\)\[F\]{BwdYeti, FE7if}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Scarf\)\[F\]{BwdYeti, FE7if}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Roy-Base\]\(Redesign\)\[M\]{GabrielKnight, flasuban}](../)
+# [\[T1\]\[LRD\]\[Roy-Base\]\(Redesign\)\[M\]{GabrielKnight, flasuban}]
 
 ## Credit
 

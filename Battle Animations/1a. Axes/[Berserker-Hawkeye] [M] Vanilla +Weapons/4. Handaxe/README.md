@@ -1,4 +1,4 @@
-# [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons](../)
+# [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons]
 
 ## Credit
 

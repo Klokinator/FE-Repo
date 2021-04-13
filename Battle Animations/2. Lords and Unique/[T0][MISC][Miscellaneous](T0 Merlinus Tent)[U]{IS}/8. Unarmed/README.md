@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Miscellaneous\]\(T0 Merlinus Tent\)\[U\]{IS}](../)
+# [\[T0\]\[MISC\]\[Miscellaneous\]\(T0 Merlinus Tent\)\[U\]{IS}]
 
 ## Credit
 

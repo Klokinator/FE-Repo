@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Mauthe Doog\]\(SM Crit +Wings\)\[U\]{Watching Dog, Pikmin1211}](../)
+# [\[T1\]\[MON\]\[Mauthe Doog\]\(SM Crit +Wings\)\[U\]{Watching Dog, Pikmin1211}]
 
 ## Credit
 

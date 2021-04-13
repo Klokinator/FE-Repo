@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Repalette F +Staff\)\[M\]{Feaw}](../)
+# [\[T2\]\[SWD\]\[Rogue\]\(Repalette F +Staff\)\[M\]{Feaw}]
 
 ## Credit
 

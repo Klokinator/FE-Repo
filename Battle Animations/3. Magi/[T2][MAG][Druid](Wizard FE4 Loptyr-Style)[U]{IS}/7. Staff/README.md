@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Druid\]\(Wizard FE4 Loptyr-Style\)\[U\]{IS}](../)
+# [\[T2\]\[MAG\]\[Druid\]\(Wizard FE4 Loptyr-Style\)\[U\]{IS}]
 
 ## Credit
 

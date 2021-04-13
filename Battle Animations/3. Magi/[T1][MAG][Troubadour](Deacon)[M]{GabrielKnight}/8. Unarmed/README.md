@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Deacon\)\[M\]{GabrielKnight}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Deacon\)\[M\]{GabrielKnight}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Dark Mage\)\[M\]{Jj09, Pikmin1211}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Dark Mage\)\[M\]{Jj09, Pikmin1211}]
 
 ## Credit
 

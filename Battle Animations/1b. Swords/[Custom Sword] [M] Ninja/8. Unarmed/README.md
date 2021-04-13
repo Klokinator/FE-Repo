@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Ninja](../)
+# [\[Custom Sword\] \[M\] Ninja]
 
 ## Credit
 

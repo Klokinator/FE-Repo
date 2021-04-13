@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Alt A\)\[M\]{Yosh, Aruka, Kenpuhu}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Alt A\)\[M\]{Yosh, Aruka, Kenpuhu}]
 
 ## Credit
 

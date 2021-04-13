@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Ephraim-Base\]\(Vanilla +Weapons\)\[M\]](../)
+# [\[T2\]\[LRD\]\[Ephraim-Base\]\(Vanilla +Weapons\)\[M\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Shapeshifter\]\(Wolfssegner Gwyllgi\)\[M\]{chhhsfe}](../)
+# [\[T2\]\[MON\]\[Shapeshifter\]\(Wolfssegner Gwyllgi\)\[M\]{chhhsfe}]
 
 ## Credit
 

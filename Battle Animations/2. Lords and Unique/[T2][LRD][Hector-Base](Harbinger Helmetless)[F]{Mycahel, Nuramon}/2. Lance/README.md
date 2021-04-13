@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Harbinger Helmetless\)\[F\]{Mycahel, Nuramon}](../)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Harbinger Helmetless\)\[F\]{Mycahel, Nuramon}]
 
 ## Credit
 

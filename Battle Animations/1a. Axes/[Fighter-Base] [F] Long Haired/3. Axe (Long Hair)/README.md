@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[F\] Long Haired](../)
+# [\[Fighter-Base\] \[F\] Long Haired]
 
 ## Credit
 

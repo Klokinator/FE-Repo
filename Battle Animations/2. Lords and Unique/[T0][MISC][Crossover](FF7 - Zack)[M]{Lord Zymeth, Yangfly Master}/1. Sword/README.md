@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(FF7 - Zack\)\[M\]{Lord Zymeth, Yangfly Master}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(FF7 - Zack\)\[M\]{Lord Zymeth, Yangfly Master}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Hero-Variant\] \[F\] Character - Echidna Repal](../)
+# [\[Hero-Variant\] \[F\] Character - Echidna Repal]
 
 ## Credit
 

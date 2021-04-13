@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla Repalette\)\[F\]{IS, Sax Marine}](../)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla Repalette\)\[F\]{IS, Sax Marine}]
 
 ## Credit
 

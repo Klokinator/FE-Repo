@@ -1,4 +1,4 @@
-# [\[T2\[\[MON\]\[Demon\]\(Gargoyle - Strigoi\)\[U\]{Arkth}](../)
+# [\[T2\[\[MON\]\[Demon\]\(Gargoyle - Strigoi\)\[U\]{Arkth}]
 
 ## Credit
 

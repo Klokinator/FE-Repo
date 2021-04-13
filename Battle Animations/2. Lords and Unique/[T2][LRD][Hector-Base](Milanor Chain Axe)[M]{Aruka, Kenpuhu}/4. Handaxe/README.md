@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Milanor Chain Axe\)\[M\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Milanor Chain Axe\)\[M\]{Aruka, Kenpuhu}]
 
 ## Credit
 

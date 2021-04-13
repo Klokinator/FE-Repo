@@ -1,4 +1,4 @@
-# [\[Pirate-Variant\] \[M\] DS-Style No-Bandana](../)
+# [\[Pirate-Variant\] \[M\] DS-Style No-Bandana]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Rebecca\)\[F\]{Temp, Wan}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Rebecca\)\[F\]{Temp, Wan}]
 
 ## Credit
 

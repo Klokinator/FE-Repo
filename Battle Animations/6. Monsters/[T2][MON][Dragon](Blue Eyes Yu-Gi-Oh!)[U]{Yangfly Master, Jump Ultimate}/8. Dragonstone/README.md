@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Dragon\]\(Blue Eyes Yu-Gi-Oh!\)\[U\]{Yangfly Master, Jump Ultimate}](../)
+# [\[T2\]\[MON\]\[Dragon\]\(Blue Eyes Yu-Gi-Oh!\)\[U\]{Yangfly Master, Jump Ultimate}]
 
 ## Credit
 

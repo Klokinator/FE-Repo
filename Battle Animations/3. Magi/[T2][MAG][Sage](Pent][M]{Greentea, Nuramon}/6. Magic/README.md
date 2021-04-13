@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Pent\]\[M\]{Greentea, Nuramon}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Pent\]\[M\]{Greentea, Nuramon}]
 
 ## Credit
 

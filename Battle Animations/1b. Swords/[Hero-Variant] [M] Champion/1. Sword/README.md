@@ -1,4 +1,4 @@
-# [\[Hero-Variant\] \[M\] Champion](../)
+# [\[Hero-Variant\] \[M\] Champion]
 
 ## Credit
 

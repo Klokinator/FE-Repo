@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Wild Wyvern\)\[U\]{Mercenary Lord, FaerieFruit}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Wild Wyvern\)\[U\]{Mercenary Lord, FaerieFruit}]
 
 ## Credit
 

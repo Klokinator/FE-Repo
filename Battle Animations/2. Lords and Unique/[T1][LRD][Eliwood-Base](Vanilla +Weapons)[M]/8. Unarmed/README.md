@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Vanilla +Weapons\)\[M\]](../)
+# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Vanilla +Weapons\)\[M\]]
 
 ## Credit
 

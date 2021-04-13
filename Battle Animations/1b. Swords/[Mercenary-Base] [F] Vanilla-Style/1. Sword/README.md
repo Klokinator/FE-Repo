@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[F\] Vanilla-Style](../)
+# [\[Mercenary-Base\] \[F\] Vanilla-Style]
 
 ## Credit
 

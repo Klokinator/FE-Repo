@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]](../)
+# [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]]
 
 ## Credit
 

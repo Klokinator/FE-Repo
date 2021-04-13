@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Denitaro\)\[M\]{MatonMx, FE Latino}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Denitaro\)\[M\]{MatonMx, FE Latino}]
 
 ## Credit
 

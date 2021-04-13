@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Demon\]\(Demon King +FE6-7\)\[U\]](../)
+# [\[T3\]\[MON\]\[Demon\]\(Demon King +FE6-7\)\[U\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Guy Alt\)\[M\]{Eldritch Abomination}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Guy Alt\)\[M\]{Eldritch Abomination}]
 
 ## Credit
 

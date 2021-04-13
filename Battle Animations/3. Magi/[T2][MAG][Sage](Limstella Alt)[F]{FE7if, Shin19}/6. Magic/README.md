@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Limstella Alt\)\[F\]{FE7if, Shin19}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Limstella Alt\)\[F\]{FE7if, Shin19}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Fir\)\[F\]{RedBean, Jj09}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Fir\)\[F\]{RedBean, Jj09}]
 
 ## Credit
 

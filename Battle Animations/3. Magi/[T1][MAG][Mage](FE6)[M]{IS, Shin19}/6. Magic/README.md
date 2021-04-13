@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(FE6\)\[M\]{IS, Shin19}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(FE6\)\[M\]{IS, Shin19}]
 
 ## Credit
 

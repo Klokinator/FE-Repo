@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Vanilla +Weapons\)\[F\]{IS, Sephie, belle, St jack}](../)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Vanilla +Weapons\)\[F\]{IS, Sephie, belle, St jack}]
 
 ## Credit
 

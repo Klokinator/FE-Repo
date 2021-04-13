@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[M\] Vanilla Repal](../)
+# [\[Journeyman-Base\] \[M\] Vanilla Repal]
 
 ## Credit
 

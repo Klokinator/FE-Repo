@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow\)](../)
+# [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow\)]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}](../)
+# [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}]
 
 ## Credit
 

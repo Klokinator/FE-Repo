@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Long Hair\)\[F\]{Yangfly Master}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Long Hair\)\[F\]{Yangfly Master}]
 
 ## Credit
 

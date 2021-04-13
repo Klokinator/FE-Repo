@@ -1,4 +1,4 @@
-# [\[T0\]\[MON\]\[Undead\]\(Phantom\)\[U\]{TBA, Arch, Skitty, Temp}](../)
+# [\[T0\]\[MON\]\[Undead\]\(Phantom\)\[U\]{TBA, Arch, Skitty, Temp}]
 
 ## Credit
 

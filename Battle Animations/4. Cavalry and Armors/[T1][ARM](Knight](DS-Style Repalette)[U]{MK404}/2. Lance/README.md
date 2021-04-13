@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\(Knight\]\(DS-Style Repalette\)\[U\]{MK404}](../)
+# [\[T1\]\[ARM\]\(Knight\]\(DS-Style Repalette\)\[U\]{MK404}]
 
 ## Credit
 

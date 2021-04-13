@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon v2\)\[M\]](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon v2\)\[M\]]
 
 ## Credit
 

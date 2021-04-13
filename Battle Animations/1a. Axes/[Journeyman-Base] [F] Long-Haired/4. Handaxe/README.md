@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[F\] Long-Haired](../)
+# [\[Journeyman-Base\] \[F\] Long-Haired]
 
 ## Credit
 

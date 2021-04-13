@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Priest +Magic\)\[M\]{IS, Jeorge_Reds, Shtick}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Priest +Magic\)\[M\]{IS, Jeorge_Reds, Shtick}]
 
 ## Credit
 

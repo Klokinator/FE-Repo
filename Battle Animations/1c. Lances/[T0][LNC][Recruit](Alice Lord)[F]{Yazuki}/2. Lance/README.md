@@ -1,4 +1,4 @@
-# [\[T0\]\[LNC\]\[Recruit\]\(Alice Lord\)\[F\]{Yazuki}](../)
+# [\[T0\]\[LNC\]\[Recruit\]\(Alice Lord\)\[F\]{Yazuki}]
 
 ## Credit
 

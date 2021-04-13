@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Falcoknight\]\(Outfit Repalette +Weapons\)\[F\]](../)
+# [\[T2\]\[FLY\]\[Falcoknight\]\(Outfit Repalette +Weapons\)\[F\]]
 
 ## Credit
 

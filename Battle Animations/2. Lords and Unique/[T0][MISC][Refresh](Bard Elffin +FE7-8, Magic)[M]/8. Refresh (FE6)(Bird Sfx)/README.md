@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Bard Elffin +FE7-8, Magic\)\[M\]](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Bard Elffin +FE7-8, Magic\)\[M\]]
 
 ## Credit
 

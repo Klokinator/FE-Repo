@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Tactician Mark\)\[M\]{Marlon0024, Asael}](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Tactician Mark\)\[M\]{Marlon0024, Asael}]
 
 ## Credit
 

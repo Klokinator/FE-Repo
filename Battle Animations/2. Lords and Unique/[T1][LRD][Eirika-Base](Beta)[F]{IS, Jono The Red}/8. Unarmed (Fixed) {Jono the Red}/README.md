@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Beta\)\[F\]{IS, Jono The Red}](../)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Beta\)\[F\]{IS, Jono The Red}]
 
 ## Credit
 

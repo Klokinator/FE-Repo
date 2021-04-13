@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Dancer\)\[M\]{L95}](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Dancer\)\[M\]{L95}]
 
 ## Credit
 

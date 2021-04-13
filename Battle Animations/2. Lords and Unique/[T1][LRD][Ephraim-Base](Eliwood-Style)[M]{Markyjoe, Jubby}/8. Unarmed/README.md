@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Eliwood-Style\)\[M\]{Markyjoe, Jubby}](../)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Eliwood-Style\)\[M\]{Markyjoe, Jubby}]
 
 ## Credit
 

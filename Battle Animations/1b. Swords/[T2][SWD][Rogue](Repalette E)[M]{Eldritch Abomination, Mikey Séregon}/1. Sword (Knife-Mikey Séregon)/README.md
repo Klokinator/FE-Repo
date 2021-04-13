@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Repalette E\)\[M\]{Eldritch Abomination, Mikey Séregon}](../)
+# [\[T2\]\[SWD\]\[Rogue\]\(Repalette E\)\[M\]{Eldritch Abomination, Mikey Séregon}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Berserker-Hawkeye\] \[U\] Horsezerker \(Sword Only\)](../)
+# [\[Berserker-Hawkeye\] \[U\] Horsezerker \(Sword Only\)]
 
 ## Credit
 

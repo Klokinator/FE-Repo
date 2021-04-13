@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Vanilla FE6](../)
+# [\[Myrmidon-Base\] \[M\] Vanilla FE6]
 
 ## Credit
 

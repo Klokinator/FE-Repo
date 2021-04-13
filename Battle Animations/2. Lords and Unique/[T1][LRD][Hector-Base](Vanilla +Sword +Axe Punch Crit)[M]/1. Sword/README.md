@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Hector-Base\]\(Vanilla +Sword +Axe Punch Crit\)\[M\]](../)
+# [\[T1\]\[LRD\]\[Hector-Base\]\(Vanilla +Sword +Axe Punch Crit\)\[M\]]
 
 ## Credit
 

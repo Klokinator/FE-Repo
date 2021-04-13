@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Hector-Base\]\(Highlander Milia Repalette\)\[F\]{FE7if, serif}](../)
+# [\[T1\]\[LRD\]\[Hector-Base\]\(Highlander Milia Repalette\)\[F\]{FE7if, serif}]
 
 ## Credit
 

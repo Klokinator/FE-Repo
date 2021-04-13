@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Repalette\)\[F\]{Teraspark}](../)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Repalette\)\[F\]{Teraspark}]
 
 ## Credit
 

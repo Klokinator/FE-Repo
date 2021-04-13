@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[M\] Vanilla FE6](../)
+# [\[Hero-Base\] \[M\] Vanilla FE6]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[M\] Awakening-Style Myrmidon Alt](../)
+# [\[Lyn-Base\] \[M\] Awakening-Style Myrmidon Alt]
 
 ## Credit
 

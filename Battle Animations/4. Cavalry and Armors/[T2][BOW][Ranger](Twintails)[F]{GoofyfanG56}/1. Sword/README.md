@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}]
 
 ## Credit
 

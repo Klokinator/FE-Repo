@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(1.0\)\[M\]{TBA}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(1.0\)\[M\]{TBA}]
 
 ## Credit
 

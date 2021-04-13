@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}](../)
+# [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(FE10-Style\)\[M\]{Flasuban}](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(FE10-Style\)\[M\]{Flasuban}]
 
 ## Credit
 

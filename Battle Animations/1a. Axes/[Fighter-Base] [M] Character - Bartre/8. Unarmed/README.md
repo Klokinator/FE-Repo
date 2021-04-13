@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Character - Bartre](../)
+# [\[Fighter-Base\] \[M\] Character - Bartre]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Mage Knight\]\(Pony Tail\)\[F\]{Venno}](../)
+# [\[T2\]\[MAG\]\[Mage Knight\]\(Pony Tail\)\[F\]{Venno}]
 
 ## Credit
 

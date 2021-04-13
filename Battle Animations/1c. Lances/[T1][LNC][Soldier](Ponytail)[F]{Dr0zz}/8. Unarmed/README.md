@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Ponytail\)\[F\]{Dr0zz}](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(Ponytail\)\[F\]{Dr0zz}]
 
 ## Credit
 

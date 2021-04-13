@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Druid Nergal Repalette\)\[M\]{SHYUTERz}](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Druid Nergal Repalette\)\[M\]{SHYUTERz}]
 
 ## Credit
 

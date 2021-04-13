@@ -1,4 +1,4 @@
-# [\[T0\]\[LNC\]\[Recruit\]\(Repalette\)\[F\]{Spud}](../)
+# [\[T0\]\[LNC\]\[Recruit\]\(Repalette\)\[F\]{Spud}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Skitty's Repal](../)
+# [\[Mercenary-Base\] \[M\] Skitty's Repal]
 
 ## Credit
 

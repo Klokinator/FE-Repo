@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[F\] Skinny Merc](../)
+# [\[Mercenary-Base\] \[F\] Skinny Merc]
 
 ## Credit
 

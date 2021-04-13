@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Custom Sword\]\(Executioner\)\[U\]](../)
+# [\[T3\]\[SWD\]\[Custom Sword\]\(Executioner\)\[U\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Ephraim-Base\]\(Great Lord Eliwood\)\[M\]{Glenwing}](../)
+# [\[T2\]\[LRD\]\[Ephraim-Base\]\(Great Lord Eliwood\)\[M\]{Glenwing}]
 
 ## Credit
 

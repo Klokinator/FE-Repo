@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Guy\)\[M\]{IS}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Guy\)\[M\]{IS}]
 
 ## Credit
 

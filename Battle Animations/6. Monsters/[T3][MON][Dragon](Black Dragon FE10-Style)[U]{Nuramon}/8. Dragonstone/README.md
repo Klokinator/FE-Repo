@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(Black Dragon FE10-Style\)\[U\]{Nuramon}](../)
+# [\[T3\]\[MON\]\[Dragon\]\(Black Dragon FE10-Style\)\[U\]{Nuramon}]
 
 ## Credit
 

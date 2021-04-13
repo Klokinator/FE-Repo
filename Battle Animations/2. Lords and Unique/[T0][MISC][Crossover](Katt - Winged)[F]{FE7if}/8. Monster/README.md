@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Katt - Winged\)\[F\]{FE7if}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Katt - Winged\)\[F\]{FE7if}]
 
 ## Credit
 

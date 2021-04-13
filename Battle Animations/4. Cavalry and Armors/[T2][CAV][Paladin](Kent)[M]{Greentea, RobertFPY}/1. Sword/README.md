@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(Kent\)\[M\]{Greentea, RobertFPY}](../)
+# [\[T2\]\[CAV\]\[Paladin\]\(Kent\)\[M\]{Greentea, RobertFPY}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Roy\)\[M\]{SurfingKyogre}](../)
+# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Roy\)\[M\]{SurfingKyogre}]
 
 ## Credit
 

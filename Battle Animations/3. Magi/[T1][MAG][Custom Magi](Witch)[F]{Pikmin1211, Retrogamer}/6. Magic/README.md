@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Witch\)\[F\]{Pikmin1211, Retrogamer}](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Witch\)\[F\]{Pikmin1211, Retrogamer}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[F\] Slender Pirate](../)
+# [\[Pirate-Base\] \[F\] Slender Pirate]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Druid +Staff\)\[F\]](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Druid +Staff\)\[F\]]
 
 ## Credit
 

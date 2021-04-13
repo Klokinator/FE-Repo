@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Battle Sage +Sword +Staff\)\[M\]](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Battle Sage +Sword +Staff\)\[M\]]
 
 ## Credit
 

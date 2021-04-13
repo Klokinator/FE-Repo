@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(FF7 - Sephiroth\)\[M\]{Trooper, AKA, SHYUTERz}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(FF7 - Sephiroth\)\[M\]{Trooper, AKA, SHYUTERz}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[F\]{Eldritch Abomination}](../)
+# [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[F\]{Eldritch Abomination}]
 
 ## Credit
 

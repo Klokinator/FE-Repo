@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[M\] FE13-Style Brigand](../)
+# [\[Brigand-Base\] \[M\] FE13-Style Brigand]
 
 ## Credit
 

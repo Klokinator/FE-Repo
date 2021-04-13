@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Repalette +Weapons\)\[U\]](../)
+# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Repalette +Weapons\)\[U\]]
 
 ## Credit
 

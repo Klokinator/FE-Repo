@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Wolt Catapult\)\[M\]{Spud, Ren_Ookami}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Wolt Catapult\)\[M\]{Spud, Ren_Ookami}]
 
 ## Credit
 

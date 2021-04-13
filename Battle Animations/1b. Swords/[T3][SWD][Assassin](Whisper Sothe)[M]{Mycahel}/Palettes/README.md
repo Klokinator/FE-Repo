@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Assassin\]\(Whisper Sothe\)\[M\]{Mycahel}](../)
+# [\[T3\]\[SWD\]\[Assassin\]\(Whisper Sothe\)\[M\]{Mycahel}]
 
 ## Credit
 

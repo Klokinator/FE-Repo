@@ -1,4 +1,4 @@
-# [\[T0\]\[LNC\]\[Recruit\]\[M\]{Waleed}](../)
+# [\[T0\]\[LNC\]\[Recruit\]\[M\]{Waleed}]
 
 ## Credit
 

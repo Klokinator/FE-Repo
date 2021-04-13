@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Demon\]\(Tarvos-Maelduin\)\[M\]{IS}](../)
+# [\[T1\]\[MON\]\[Demon\]\(Tarvos-Maelduin\)\[M\]{IS}]
 
 ## Credit
 

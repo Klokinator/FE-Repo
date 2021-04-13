@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[M\] Repalette by Wan](../)
+# [\[Pirate-Base\] \[M\] Repalette by Wan]
 
 ## Credit
 

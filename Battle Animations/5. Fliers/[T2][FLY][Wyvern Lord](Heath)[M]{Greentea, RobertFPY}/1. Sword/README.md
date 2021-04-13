@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Heath\)\[M\]{Greentea, RobertFPY}](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Heath\)\[M\]{Greentea, RobertFPY}]
 
 ## Credit
 

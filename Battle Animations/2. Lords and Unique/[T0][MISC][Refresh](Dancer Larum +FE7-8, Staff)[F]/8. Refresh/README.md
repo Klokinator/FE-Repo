@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Larum +FE7-8, Staff\)\[F\]](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Larum +FE7-8, Staff\)\[F\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE8 Manakete Rider\)\[M\]{ZoramineFae}](../)
+# [\[T1\]\[MON\]\[Manakete\]\(FE8 Manakete Rider\)\[M\]{ZoramineFae}]
 
 ## Credit
 

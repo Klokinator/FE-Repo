@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Bard Elffin Magic\)\[F\]{GabrielKnight, Knabepicer}}](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Bard Elffin Magic\)\[F\]{GabrielKnight, Knabepicer}}]
 
 ## Credit
 

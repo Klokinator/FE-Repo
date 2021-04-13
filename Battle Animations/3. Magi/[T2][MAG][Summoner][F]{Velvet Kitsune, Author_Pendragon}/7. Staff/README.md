@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Summoner\]\[F\]{Velvet Kitsune, Author_Pendragon}](../)
+# [\[T2\]\[MAG\]\[Summoner\]\[F\]{Velvet Kitsune, Author_Pendragon}]
 
 ## Credit
 

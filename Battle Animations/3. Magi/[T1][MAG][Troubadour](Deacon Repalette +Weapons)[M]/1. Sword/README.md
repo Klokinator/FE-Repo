@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Deacon Repalette +Weapons\)\[M\]](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Deacon Repalette +Weapons\)\[M\]]
 
 ## Credit
 

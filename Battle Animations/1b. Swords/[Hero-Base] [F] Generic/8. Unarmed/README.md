@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Generic](../)
+# [\[Hero-Base\] \[F\] Generic]
 
 ## Credit
 

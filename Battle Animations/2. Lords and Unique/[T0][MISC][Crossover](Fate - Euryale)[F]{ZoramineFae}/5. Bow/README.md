@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Fate - Euryale\)\[F\]{ZoramineFae}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Fate - Euryale\)\[F\]{ZoramineFae}]
 
 ## Credit
 

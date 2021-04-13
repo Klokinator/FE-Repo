@@ -1,4 +1,4 @@
-# [\[T0\]\[MAG\]\[Pupil\]\(Skirt\)\[F\]{FEGirls}](../)
+# [\[T0\]\[MAG\]\[Pupil\]\(Skirt\)\[F\]{FEGirls}]
 
 ## Credit
 

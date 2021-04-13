@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla FE7 +Swords\)\[F\]{IS, TBA}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla FE7 +Swords\)\[F\]{IS, TBA}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Monk\]\(Vanilla\)\[M\]{IS}](../)
+# [\[T1\]\[MAG\]\[Monk\]\(Vanilla\)\[M\]{IS}]
 
 ## Credit
 

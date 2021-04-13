@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Generic Heath-Style\)\[M\]](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Generic Heath-Style\)\[M\]]
 
 ## Credit
 

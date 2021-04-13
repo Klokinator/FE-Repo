@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[F\] Mercenary-Myrmidon Fusion](../)
+# [\[Custom Sword\] \[F\] Mercenary-Myrmidon Fusion]
 
 ## Credit
 

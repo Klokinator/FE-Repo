@@ -1,4 +1,4 @@
-# [\[Hector Lord-Base\] \[M\] Gladiator Repal](../)
+# [\[Hector Lord-Base\] \[M\] Gladiator Repal]
 
 ## Credit
 

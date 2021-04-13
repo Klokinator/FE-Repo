@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Lucina Slash\)\[F\]](../)
+# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Lucina Slash\)\[F\]]
 
 ## Credit
 

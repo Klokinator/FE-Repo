@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat Repalette O\)\[M\]](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat Repalette O\)\[M\]]
 
 ## Credit
 

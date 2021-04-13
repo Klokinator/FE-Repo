@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Custom Magi\]\(Nino Pale Flower\)\[F\]](../)
+# [\[T2\]\[MAG\]\[Custom Magi\]\(Nino Pale Flower\)\[F\]]
 
 ## Credit
 

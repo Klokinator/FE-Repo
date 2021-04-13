@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Custom Cavalry\]\(Salamander Rider\)\[M\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[CAV\]\[Custom Cavalry\]\(Salamander Rider\)\[M\]{Aruka, Kenpuhu}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Prince Zephiel\)\[M\]{Link, Teraspark}](../)
+# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Prince Zephiel\)\[M\]{Link, Teraspark}]
 
 ## Credit
 

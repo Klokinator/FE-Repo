@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Archsage\]\(Athos\)\[M\]{IS, Blademaster, Shin19, SHYUTERz}](../)
+# [\[T3\]\[MAG\]\[Archsage\]\(Athos\)\[M\]{IS, Blademaster, Shin19, SHYUTERz}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Amelia\)\[F\]{Spud, TBA, Black Mage, Temp, Wan}](../)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Amelia\)\[F\]{Spud, TBA, Black Mage, Temp, Wan}]
 
 ## Credit
 

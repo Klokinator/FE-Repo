@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Hunter Improved\)\[F\]](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Hunter Improved\)\[F\]]
 
 ## Credit
 

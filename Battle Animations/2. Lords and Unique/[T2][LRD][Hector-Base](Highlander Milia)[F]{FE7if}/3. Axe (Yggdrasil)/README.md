@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Highlander Milia\)\[F\]{FE7if}](../)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Highlander Milia\)\[F\]{FE7if}]
 
 ## Credit
 

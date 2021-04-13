@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[M\] Vanilla +Pimpstick's Sword](../)
+# [\[Pirate-Base\] \[M\] Vanilla +Pimpstick's Sword]
 
 ## Credit
 

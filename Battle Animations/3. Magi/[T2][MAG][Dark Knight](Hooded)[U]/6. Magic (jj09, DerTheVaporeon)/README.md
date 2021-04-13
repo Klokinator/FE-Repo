@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Dark Knight\]\(Hooded\)\[U\]](../)
+# [\[T2\]\[MAG\]\[Dark Knight\]\(Hooded\)\[U\]]
 
 ## Credit
 

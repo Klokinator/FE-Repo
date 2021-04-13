@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Generic\)\[M\]{Eldritch Abomination, Shin19}](../)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Generic\)\[M\]{Eldritch Abomination, Shin19}]
 
 ## Credit
 

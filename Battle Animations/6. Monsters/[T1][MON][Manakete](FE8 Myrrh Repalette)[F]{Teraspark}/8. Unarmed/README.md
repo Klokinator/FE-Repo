@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh Repalette\)\[F\]{Teraspark}](../)
+# [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh Repalette\)\[F\]{Teraspark}]
 
 ## Credit
 

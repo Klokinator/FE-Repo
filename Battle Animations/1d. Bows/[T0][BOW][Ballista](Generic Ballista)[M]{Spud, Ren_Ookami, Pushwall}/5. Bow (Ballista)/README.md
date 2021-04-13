@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Generic Ballista\)\[M\]{Spud, Ren_Ookami, Pushwall}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Generic Ballista\)\[M\]{Spud, Ren_Ookami, Pushwall}]
 
 ## Credit
 

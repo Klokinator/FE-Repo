@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Lucius Hair\)\[M\]{Marlon0024}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Lucius Hair\)\[M\]{Marlon0024}]
 
 ## Credit
 

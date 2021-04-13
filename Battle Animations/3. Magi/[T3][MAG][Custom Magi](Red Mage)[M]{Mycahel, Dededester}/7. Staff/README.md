@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Custom Magi\]\(Red Mage\)\[M\]{Mycahel, Dededester}](../)
+# [\[T3\]\[MAG\]\[Custom Magi\]\(Red Mage\)\[M\]{Mycahel, Dededester}]
 
 ## Credit
 

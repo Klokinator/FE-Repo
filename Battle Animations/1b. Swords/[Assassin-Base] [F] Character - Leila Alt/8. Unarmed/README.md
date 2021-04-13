@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Character - Leila Alt](../)
+# [\[Assassin-Base\] \[F\] Character - Leila Alt]
 
 ## Credit
 

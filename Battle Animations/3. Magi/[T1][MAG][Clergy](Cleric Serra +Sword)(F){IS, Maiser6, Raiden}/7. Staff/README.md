@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Serra +Sword\)\(F\){IS, Maiser6, Raiden}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Serra +Sword\)\(F\){IS, Maiser6, Raiden}]
 
 ## Credit
 

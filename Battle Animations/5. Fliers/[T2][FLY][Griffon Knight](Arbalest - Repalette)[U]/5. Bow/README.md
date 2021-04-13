@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Griffon Knight\]\(Arbalest - Repalette\)\[U\]](../)
+# [\[T2\]\[FLY\]\[Griffon Knight\]\(Arbalest - Repalette\)\[U\]]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Tellius Rework](../)
+# [\[Warrior-Base\] \[M\] Tellius Rework]
 
 ## Credit
 

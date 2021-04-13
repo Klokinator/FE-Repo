@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Armored Male\)\[M\]{Lisandra_Brave, Inkling, Genocike}](../)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Armored Male\)\[M\]{Lisandra_Brave, Inkling, Genocike}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair Repalette\)\[F\]{Feaw}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair Repalette\)\[F\]{Feaw}]
 
 ## Credit
 

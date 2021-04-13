@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(Bandana\)\[M\]{Yangfly Master}](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(Bandana\)\[M\]{Yangfly Master}]
 
 ## Credit
 

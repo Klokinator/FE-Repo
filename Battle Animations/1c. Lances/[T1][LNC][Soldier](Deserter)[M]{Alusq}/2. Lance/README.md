@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Deserter\)\[M\]{Alusq}](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(Deserter\)\[M\]{Alusq}]
 
 ## Credit
 

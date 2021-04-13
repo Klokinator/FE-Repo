@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[F\] Fir-Head Pirate](../)
+# [\[Pirate-Base\] \[F\] Fir-Head Pirate]
 
 ## Credit
 

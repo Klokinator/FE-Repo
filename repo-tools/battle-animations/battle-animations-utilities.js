@@ -25,7 +25,7 @@ const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
  * @returns {String}
  */
 const makeWeaponReadmeText = (anim, weapon) => (
-	`# [${escapeParens(anim.name)}](../)
+	`# [${escapeParens(anim.name)}]
 
 ## Credit
 

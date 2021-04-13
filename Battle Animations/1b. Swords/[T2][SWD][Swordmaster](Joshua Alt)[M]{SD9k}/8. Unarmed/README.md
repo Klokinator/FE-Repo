@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Joshua Alt\)\[M\]{SD9k}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Joshua Alt\)\[M\]{SD9k}]
 
 ## Credit
 

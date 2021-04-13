@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Lilina\)\[F\]{Mikey Seregon}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Lilina\)\[F\]{Mikey Seregon}]
 
 ## Credit
 

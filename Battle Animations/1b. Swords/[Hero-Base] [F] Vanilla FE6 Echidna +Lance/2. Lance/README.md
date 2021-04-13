@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](../)
+# [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance]
 
 ## Credit
 

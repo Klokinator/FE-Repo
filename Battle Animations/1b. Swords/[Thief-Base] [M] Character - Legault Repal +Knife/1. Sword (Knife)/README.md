@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Character - Legault Repal +Knife](../)
+# [\[Thief-Base\] \[M\] Character - Legault Repal +Knife]
 
 ## Credit
 

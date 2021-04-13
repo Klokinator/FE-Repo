@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(Arcanist\)\[M\]{Devisian_Nights}](../)
+# [\[T1\]\[MAG\]\[Shaman\]\(Arcanist\)\[M\]{Devisian_Nights}]
 
 ## Credit
 

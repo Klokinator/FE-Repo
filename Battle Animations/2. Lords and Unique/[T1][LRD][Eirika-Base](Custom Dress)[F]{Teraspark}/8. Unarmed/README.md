@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Custom Dress\)\[F\]{Teraspark}](../)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Custom Dress\)\[F\]{Teraspark}]
 
 ## Credit
 

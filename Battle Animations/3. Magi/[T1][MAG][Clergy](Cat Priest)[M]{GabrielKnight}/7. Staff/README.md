@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cat Priest\)\[M\]{GabrielKnight}](../)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cat Priest\)\[M\]{GabrielKnight}]
 
 ## Credit
 

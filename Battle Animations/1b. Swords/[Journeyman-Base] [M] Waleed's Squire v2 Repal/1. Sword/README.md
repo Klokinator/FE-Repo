@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[M\] Waleed's Squire v2 Repal](../)
+# [\[Journeyman-Base\] \[M\] Waleed's Squire v2 Repal]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Priestess Celica\)\[F\]{Red Bean, Jeorge_Reds}](../)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Priestess Celica\)\[F\]{Red Bean, Jeorge_Reds}]
 
 ## Credit
 

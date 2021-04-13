@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Hunter\)\[F\]{Deranger, Jey the Count}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Hunter\)\[F\]{Deranger, Jey the Count}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Cyclops +Bow\)\[U\]{IS, Pie1055, Orihara_Saki}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Cyclops +Bow\)\[U\]{IS, Pie1055, Orihara_Saki}]
 
 ## Credit
 

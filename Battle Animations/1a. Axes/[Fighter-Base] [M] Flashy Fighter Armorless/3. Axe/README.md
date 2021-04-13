@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Flashy Fighter Armorless](../)
+# [\[Fighter-Base\] \[M\] Flashy Fighter Armorless]
 
 ## Credit
 

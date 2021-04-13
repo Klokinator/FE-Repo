@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Mermaid\)\[F\]{ZoramineFae, Dsnoon}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Mermaid\)\[F\]{ZoramineFae, Dsnoon}]
 
 ## Credit
 

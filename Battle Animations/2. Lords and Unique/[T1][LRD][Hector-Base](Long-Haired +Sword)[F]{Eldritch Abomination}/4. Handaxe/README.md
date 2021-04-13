@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Hector-Base\]\(Long-Haired +Sword\)\[F\]{Eldritch Abomination}](../)
+# [\[T1\]\[LRD\]\[Hector-Base\]\(Long-Haired +Sword\)\[F\]{Eldritch Abomination}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Custom Sword\]\(Trickster\)\[M\]{Leo_link}](../)
+# [\[T3\]\[SWD\]\[Custom Sword\]\(Trickster\)\[M\]{Leo_link}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Undead\]\(Skelemonk\)\[U\]{JonoTheRed}](../)
+# [\[T1\]\[MON\]\[Undead\]\(Skelemonk\)\[U\]{JonoTheRed}]
 
 ## Credit
 

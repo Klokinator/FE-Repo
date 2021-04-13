@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\[F\]{eCut, Skitty, Mikey Séregon}](../)
+# [\[T2\]\[SWD\]\[Rogue\]\[F\]{eCut, Skitty, Mikey Séregon}]
 
 ## Credit
 

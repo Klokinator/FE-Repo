@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Katt\)\[F\]{FE7if}](../)
+# [\[T2\]\[SWD\]\[Rogue\]\(Katt\)\[F\]{FE7if}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Wicked Flier\)\[U\]{Blue Druid, Alfred Kamon}](../)
+# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Wicked Flier\)\[U\]{Blue Druid, Alfred Kamon}]
 
 ## Credit
 

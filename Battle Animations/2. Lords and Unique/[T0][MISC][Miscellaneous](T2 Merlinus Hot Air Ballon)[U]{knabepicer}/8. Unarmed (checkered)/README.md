@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Miscellaneous\]\(T2 Merlinus Hot Air Ballon\)\[U\]{knabepicer}](../)
+# [\[T0\]\[MISC\]\[Miscellaneous\]\(T2 Merlinus Hot Air Ballon\)\[U\]{knabepicer}]
 
 ## Credit
 

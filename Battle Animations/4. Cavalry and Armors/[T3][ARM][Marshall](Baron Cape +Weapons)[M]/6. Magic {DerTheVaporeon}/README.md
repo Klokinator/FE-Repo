@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]](../)
+# [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]]
 
 ## Credit
 

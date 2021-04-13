@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Tiki with Swords and Magic\)\[F\]{Tykky.ryu}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Tiki with Swords and Magic\)\[F\]{Tykky.ryu}]
 
 ## Credit
 

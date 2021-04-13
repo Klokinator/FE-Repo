@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Sme's Catgirl](../)
+# [\[Thief-Base\] \[F\] Sme's Catgirl]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Fast, Repalette\)\[F\]{Shtick, L95, Rexacuse}](../)
+# [\[T2\]\[MAG\]\[Sage\]\(Fast, Repalette\)\[F\]{Shtick, L95, Rexacuse}]
 
 ## Credit
 

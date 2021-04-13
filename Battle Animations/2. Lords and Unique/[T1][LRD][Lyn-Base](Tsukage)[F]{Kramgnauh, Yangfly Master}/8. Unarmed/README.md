@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Lyn-Base\]\(Tsukage\)\[F\]{Kramgnauh, Yangfly Master}](../)
+# [\[T1\]\[LRD\]\[Lyn-Base\]\(Tsukage\)\[F\]{Kramgnauh, Yangfly Master}]
 
 ## Credit
 

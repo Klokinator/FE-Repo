@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Vaida\)\[F\]{Greentea, RobertFPY, Jey the Count}](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Vaida\)\[F\]{Greentea, RobertFPY, Jey the Count}]
 
 ## Credit
 

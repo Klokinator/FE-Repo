@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Custom Lord\]\(Brave Lyn\)\[F\]{Red Bean, Marlon0024}](../)
+# [\[T2\]\[LRD\]\[Custom Lord\]\(Brave Lyn\)\[F\]{Red Bean, Marlon0024}]
 
 ## Credit
 

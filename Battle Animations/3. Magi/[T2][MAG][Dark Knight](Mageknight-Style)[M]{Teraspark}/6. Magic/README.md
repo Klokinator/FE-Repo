@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Dark Knight\]\(Mageknight-Style\)\[M\]{Teraspark}](../)
+# [\[T2\]\[MAG\]\[Dark Knight\]\(Mageknight-Style\)\[M\]{Teraspark}]
 
 ## Credit
 

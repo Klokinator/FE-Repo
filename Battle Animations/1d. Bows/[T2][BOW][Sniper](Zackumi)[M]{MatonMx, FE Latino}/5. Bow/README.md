@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Zackumi\)\[M\]{MatonMx, FE Latino}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Zackumi\)\[M\]{MatonMx, FE Latino}]
 
 ## Credit
 

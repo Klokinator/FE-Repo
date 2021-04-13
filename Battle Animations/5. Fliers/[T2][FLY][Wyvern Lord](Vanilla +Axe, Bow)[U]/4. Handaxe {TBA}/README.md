@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Vanilla +Axe, Bow\)\[U\]](../)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Vanilla +Axe, Bow\)\[U\]]
 
 ## Credit
 

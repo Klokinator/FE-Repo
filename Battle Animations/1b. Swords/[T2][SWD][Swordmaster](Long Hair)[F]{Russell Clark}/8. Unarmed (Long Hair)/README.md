@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Long Hair\)\[F\]{Russell Clark}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Long Hair\)\[F\]{Russell Clark}]
 
 ## Credit
 

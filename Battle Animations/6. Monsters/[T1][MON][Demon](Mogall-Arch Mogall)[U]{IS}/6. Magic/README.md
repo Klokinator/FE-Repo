@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Demon\]\(Mogall-Arch Mogall\)\[U\]{IS}](../)
+# [\[T1\]\[MON\]\[Demon\]\(Mogall-Arch Mogall\)\[U\]{IS}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Druid\]\[F\]{IS}](../)
+# [\[T2\]\[MAG\]\[Druid\]\[F\]{IS}]
 
 ## Credit
 

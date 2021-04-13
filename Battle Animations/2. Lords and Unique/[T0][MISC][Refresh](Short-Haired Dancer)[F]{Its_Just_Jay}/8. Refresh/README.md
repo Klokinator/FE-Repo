@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Short-Haired Dancer\)\[F\]{Its_Just_Jay}](../)
+# [\[T0\]\[MISC\]\[Refresh\]\(Short-Haired Dancer\)\[F\]{Its_Just_Jay}]
 
 ## Credit
 

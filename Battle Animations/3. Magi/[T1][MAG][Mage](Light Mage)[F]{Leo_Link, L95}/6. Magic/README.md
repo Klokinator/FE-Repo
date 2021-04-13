@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Light Mage\)\[F\]{Leo_Link, L95}](../)
+# [\[T1\]\[MAG\]\[Mage\]\(Light Mage\)\[F\]{Leo_Link, L95}]
 
 ## Credit
 

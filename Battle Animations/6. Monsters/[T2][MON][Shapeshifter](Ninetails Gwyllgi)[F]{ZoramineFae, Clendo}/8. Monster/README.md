@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Shapeshifter\]\(Ninetails Gwyllgi\)\[F\]{ZoramineFae, Clendo}](../)
+# [\[T2\]\[MON\]\[Shapeshifter\]\(Ninetails Gwyllgi\)\[F\]{ZoramineFae, Clendo}]
 
 ## Credit
 

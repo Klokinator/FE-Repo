@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Character - Jaffar](../)
+# [\[Assassin-Base\] \[M\] Character - Jaffar]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Saint\]\(Matriarch\)\[F\]\(MrNight, DerTheVaporeon\)](../)
+# [\[T3\]\[MAG\]\[Saint\]\(Matriarch\)\[F\]\(MrNight, DerTheVaporeon\)]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Brave\)\[M\]{Redbean, Marlon0024}](../)
+# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Brave\)\[M\]{Redbean, Marlon0024}]
 
 ## Credit
 

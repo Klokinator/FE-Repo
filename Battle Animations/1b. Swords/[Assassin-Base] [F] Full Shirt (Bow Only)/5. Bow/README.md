@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Full Shirt \(Bow Only\)](../)
+# [\[Assassin-Base\] \[F\] Full Shirt \(Bow Only\)]
 
 ## Credit
 

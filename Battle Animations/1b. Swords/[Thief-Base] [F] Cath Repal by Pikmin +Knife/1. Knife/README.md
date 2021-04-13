@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Knife](../)
+# [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Knife]
 
 ## Credit
 

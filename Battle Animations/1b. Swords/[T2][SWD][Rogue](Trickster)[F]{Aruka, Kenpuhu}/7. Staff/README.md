@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Trickster\)\[F\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[SWD\]\[Rogue\]\(Trickster\)\[F\]{Aruka, Kenpuhu}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Eldritch's Repal](../)
+# [\[Mercenary-Base\] \[M\] Eldritch's Repal]
 
 ## Credit
 

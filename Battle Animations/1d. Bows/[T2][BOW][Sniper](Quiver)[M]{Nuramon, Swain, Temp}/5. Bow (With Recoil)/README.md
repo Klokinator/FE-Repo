@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Quiver\)\[M\]{Nuramon, Swain, Temp}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Quiver\)\[M\]{Nuramon, Swain, Temp}]
 
 ## Credit
 

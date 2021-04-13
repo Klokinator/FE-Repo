@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Oracle Repalette +Staff\)\[F\]](../)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Oracle Repalette +Staff\)\[F\]]
 
 ## Credit
 

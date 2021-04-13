@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](../)
+# [\[Brigand-Base\] \[M\] Vanilla +Magic Anims]
 
 ## Credit
 

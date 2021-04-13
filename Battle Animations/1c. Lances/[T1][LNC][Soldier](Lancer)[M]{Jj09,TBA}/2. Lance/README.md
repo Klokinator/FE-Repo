@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Lancer\)\[M\]{Jj09,TBA}](../)
+# [\[T1\]\[LNC\]\[Soldier\]\(Lancer\)\[M\]{Jj09,TBA}]
 
 ## Credit
 

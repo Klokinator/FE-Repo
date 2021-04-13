@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Custom Magi\]\(Brammimond\)\[U\]{SHYUTERz, Dinar}](../)
+# [\[T3\]\[MAG\]\[Custom Magi\]\(Brammimond\)\[U\]{SHYUTERz, Dinar}]
 
 ## Credit
 

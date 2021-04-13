@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Custom Lord\]\(Ike Ranger\)\[M\]](../)
+# [\[T1\]\[LRD\]\[Custom Lord\]\(Ike Ranger\)\[M\]]
 
 ## Credit
 

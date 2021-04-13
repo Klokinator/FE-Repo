@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(War Cleric\)\[F\]](../)
+# [\[T2\]\[MAG\]\[Bishop\]\(War Cleric\)\[F\]]
 
 ## Credit
 

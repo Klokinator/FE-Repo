@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(Nomad-Style\)\[F\]{seergiioo}](../)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(Nomad-Style\)\[F\]{seergiioo}]
 
 ## Credit
 

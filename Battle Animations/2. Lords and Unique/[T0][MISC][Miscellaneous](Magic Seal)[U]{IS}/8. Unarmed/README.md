@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Miscellaneous\]\(Magic Seal\)\[U\]{IS}](../)
+# [\[T0\]\[MISC\]\[Miscellaneous\]\(Magic Seal\)\[U\]{IS}]
 
 ## Credit
 

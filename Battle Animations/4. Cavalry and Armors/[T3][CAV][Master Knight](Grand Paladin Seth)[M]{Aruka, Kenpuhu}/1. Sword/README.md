@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Seth\)\[M\]{Aruka, Kenpuhu}](../)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Seth\)\[M\]{Aruka, Kenpuhu}]
 
 ## Credit
 

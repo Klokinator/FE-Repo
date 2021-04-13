@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[F\] Armored](../)
+# [\[Berserker-Base\] \[F\] Armored]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Vanilla FE7 Coat\)\[M\]{IS}](../)
+# [\[Hero-Base\] \(Vanilla FE7 Coat\)\[M\]{IS}]
 
 ## Credit
 

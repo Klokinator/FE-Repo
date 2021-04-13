@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Succubus\){SkidMarc25}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Succubus\){SkidMarc25}]
 
 ## Credit
 

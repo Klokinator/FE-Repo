@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Magical Tomes\)\(U\){N426}](../)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Magical Tomes\)\(U\){N426}]
 
 ## Credit
 

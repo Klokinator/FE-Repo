@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[F\] Sme's Catgirl Repalette +Staff](../)
+# [\[Rogue-Base\] \[F\] Sme's Catgirl Repalette +Staff]
 
 ## Credit
 

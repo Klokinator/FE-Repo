@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Druid\]\(Hoodless\)\[M\]{IS, Jey the Count}](../)
+# [\[T2\]\[MAG\]\[Druid\]\(Hoodless\)\[M\]{IS, Jey the Count}]
 
 ## Credit
 

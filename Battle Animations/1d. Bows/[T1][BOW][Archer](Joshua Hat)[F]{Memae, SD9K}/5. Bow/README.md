@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Joshua Hat\)\[F\]{Memae, SD9K}](../)
+# [\[T1\]\[BOW\]\[Archer\]\(Joshua Hat\)\[F\]{Memae, SD9K}]
 
 ## Credit
 

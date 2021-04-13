@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Miscellaneous\]\(Chicken\)\[U\]{EldritchAbomination}](../)
+# [\[T0\]\[MISC\]\[Miscellaneous\]\(Chicken\)\[U\]{EldritchAbomination}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Baron +Weapons\)\[U\]{TBA, St jack, Flasuban, Sax-Marine}](../)
+# [\[T3\]\[ARM\]\[Marshall\]\(Baron +Weapons\)\[U\]{TBA, St jack, Flasuban, Sax-Marine}]
 
 ## Credit
 

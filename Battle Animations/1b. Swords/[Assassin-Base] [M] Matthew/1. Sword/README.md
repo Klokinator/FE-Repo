@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Matthew](../)
+# [\[Assassin-Base\] \[M\] Matthew]
 
 ## Credit
 

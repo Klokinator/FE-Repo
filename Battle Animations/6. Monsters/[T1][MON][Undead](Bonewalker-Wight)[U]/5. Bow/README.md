@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Undead\]\(Bonewalker-Wight\)\[U\]](../)
+# [\[T1\]\[MON\]\[Undead\]\(Bonewalker-Wight\)\[U\]]
 
 ## Credit
 

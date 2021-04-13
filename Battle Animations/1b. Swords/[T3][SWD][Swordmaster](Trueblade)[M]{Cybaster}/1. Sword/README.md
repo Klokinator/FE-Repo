@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade\)\[M\]{Cybaster}](../)
+# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade\)\[M\]{Cybaster}]
 
 ## Credit
 

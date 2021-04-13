@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker](../)
+# [\[Berserker-Variant\] \[M\] Dozlazerker]
 
 ## Credit
 

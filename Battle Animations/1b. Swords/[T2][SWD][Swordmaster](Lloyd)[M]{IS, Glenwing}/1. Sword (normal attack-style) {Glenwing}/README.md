@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd\)\[M\]{IS, Glenwing}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd\)\[M\]{IS, Glenwing}]
 
 ## Credit
 

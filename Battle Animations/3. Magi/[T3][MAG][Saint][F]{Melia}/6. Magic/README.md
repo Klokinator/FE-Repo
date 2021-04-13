@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Saint\]\[F\]{Melia}](../)
+# [\[T3\]\[MAG\]\[Saint\]\[F\]{Melia}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Lich\)\[U\]{SkidMarc25}](../)
+# [\[T2\]\[MON\]\[Undead\]\(Lich\)\[U\]{SkidMarc25}]
 
 ## Credit
 

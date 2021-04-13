@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Monk\]\(Lucius-Style\)\[F\]{Marlon0024}](../)
+# [\[T1\]\[MAG\]\[Monk\]\(Lucius-Style\)\[F\]{Marlon0024}]
 
 ## Credit
 

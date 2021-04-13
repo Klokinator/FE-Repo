@@ -1,4 +1,4 @@
-# [\[Hero-Variant\] \[M\] Character - Caellach](../)
+# [\[Hero-Variant\] \[M\] Character - Caellach]
 
 ## Credit
 

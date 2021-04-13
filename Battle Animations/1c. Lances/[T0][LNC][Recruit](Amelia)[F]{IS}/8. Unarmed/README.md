@@ -1,4 +1,4 @@
-# [\[T0\]\[LNC\]\[Recruit\]\(Amelia\)\[F\]{IS}](../)
+# [\[T0\]\[LNC\]\[Recruit\]\(Amelia\)\[F\]{IS}]
 
 ## Credit
 

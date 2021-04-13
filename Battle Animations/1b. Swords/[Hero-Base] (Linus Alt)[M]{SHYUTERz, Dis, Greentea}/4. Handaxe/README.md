@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Linus Alt\)\[M\]{SHYUTERz, Dis, Greentea}](../)
+# [\[Hero-Base\] \(Linus Alt\)\[M\]{SHYUTERz, Dis, Greentea}]
 
 ## Credit
 

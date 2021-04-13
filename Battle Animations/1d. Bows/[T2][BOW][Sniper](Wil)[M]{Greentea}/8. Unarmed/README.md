@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Wil\)\[M\]{Greentea}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Wil\)\[M\]{Greentea}]
 
 ## Credit
 

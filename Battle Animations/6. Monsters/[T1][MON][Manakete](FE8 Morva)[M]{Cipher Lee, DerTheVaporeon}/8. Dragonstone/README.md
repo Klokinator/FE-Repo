@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE8 Morva\)\[M\]{Cipher Lee, DerTheVaporeon}](../)
+# [\[T1\]\[MON\]\[Manakete\]\(FE8 Morva\)\[M\]{Cipher Lee, DerTheVaporeon}]
 
 ## Credit
 

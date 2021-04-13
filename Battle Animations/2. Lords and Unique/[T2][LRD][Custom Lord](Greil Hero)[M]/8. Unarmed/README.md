@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Custom Lord\]\(Greil Hero\)\[M\]](../)
+# [\[T2\]\[LRD\]\[Custom Lord\]\(Greil Hero\)\[M\]]
 
 ## Credit
 

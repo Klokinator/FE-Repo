@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Fate - Nobunaga\)\[M\]{ZoramineFae, Wan}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Fate - Nobunaga\)\[M\]{ZoramineFae, Wan}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Griffon Knight\]\[U\]{Blue Druid}](../)
+# [\[T2\]\[FLY\]\[Griffon Knight\]\[U\]{Blue Druid}]
 
 ## Credit
 

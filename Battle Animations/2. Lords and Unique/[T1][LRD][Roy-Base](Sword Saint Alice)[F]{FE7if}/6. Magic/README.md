@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Roy-Base\]\(Sword Saint Alice\)\[F\]{FE7if}](../)
+# [\[T1\]\[LRD\]\[Roy-Base\]\(Sword Saint Alice\)\[F\]{FE7if}]
 
 ## Credit
 

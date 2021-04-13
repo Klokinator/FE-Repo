@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Louise\)\[F\]{Greentea, RobertFPY}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Louise\)\[F\]{Greentea, RobertFPY}]
 
 ## Credit
 

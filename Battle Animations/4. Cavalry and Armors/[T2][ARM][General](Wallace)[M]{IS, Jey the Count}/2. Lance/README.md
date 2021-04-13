@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Wallace\)\[M\]{IS, Jey the Count}](../)
+# [\[T2\]\[ARM\]\[General\]\(Wallace\)\[M\]{IS, Jey the Count}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Vanilla\)\[F\]{IS}](../)
+# [\[T2\]\[BOW\]\[Ranger\]\(Vanilla\)\[F\]{IS}]
 
 ## Credit
 

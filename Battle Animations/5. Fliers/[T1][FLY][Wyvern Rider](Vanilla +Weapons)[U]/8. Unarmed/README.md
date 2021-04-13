@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Vanilla +Weapons\)\[U\]](../)
+# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Vanilla +Weapons\)\[U\]]
 
 ## Credit
 

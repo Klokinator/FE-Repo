@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Ephraim-Style Flail Knight\)\[M\]](../)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Ephraim-Style Flail Knight\)\[M\]]
 
 ## Credit
 

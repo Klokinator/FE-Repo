@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[M\] Armored Brigand](../)
+# [\[Brigand-Base\] \[M\] Armored Brigand]
 
 ## Credit
 

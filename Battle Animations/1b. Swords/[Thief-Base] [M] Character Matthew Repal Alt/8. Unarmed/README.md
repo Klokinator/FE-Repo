@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Character Matthew Repal Alt](../)
+# [\[Thief-Base\] \[M\] Character Matthew Repal Alt]
 
 ## Credit
 

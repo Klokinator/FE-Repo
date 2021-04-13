@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Rebecca\)\[F\]{Greentea, RobertFPY}](../)
+# [\[T0\]\[BOW\]\[Ballista\]\(Rebecca\)\[F\]{Greentea, RobertFPY}]
 
 ## Credit
 

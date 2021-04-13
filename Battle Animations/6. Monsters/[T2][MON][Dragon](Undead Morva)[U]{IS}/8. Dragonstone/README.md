@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Dragon\]\(Undead Morva\)\[U\]{IS}](../)
+# [\[T2\]\[MON\]\[Dragon\]\(Undead Morva\)\[U\]{IS}]
 
 ## Credit
 

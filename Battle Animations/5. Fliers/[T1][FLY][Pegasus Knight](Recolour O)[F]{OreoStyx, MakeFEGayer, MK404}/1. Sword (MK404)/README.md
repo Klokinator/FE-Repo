@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Recolour O\)\[F\]{OreoStyx, MakeFEGayer, MK404}](../)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Recolour O\)\[F\]{OreoStyx, MakeFEGayer, MK404}]
 
 ## Credit
 

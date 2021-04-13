@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Sniper\]\(Adventurer\)\[M\]{ZoramineFae}](../)
+# [\[T2\]\[SWD\]\[Sniper\]\(Adventurer\)\[M\]{ZoramineFae}]
 
 ## Credit
 

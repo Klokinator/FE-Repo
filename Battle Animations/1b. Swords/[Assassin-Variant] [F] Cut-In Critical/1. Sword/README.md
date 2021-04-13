@@ -1,4 +1,4 @@
-# [\[Assassin-Variant\] \[F\] Cut-In Critical](../)
+# [\[Assassin-Variant\] \[F\] Cut-In Critical]
 
 ## Credit
 

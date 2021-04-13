@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog\)\[F\]{ZoramineFae, Clendo}](../)
+# [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog\)\[F\]{ZoramineFae, Clendo}]
 
 ## Credit
 

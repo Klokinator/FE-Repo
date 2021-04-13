@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa Alt RB\)\[F\]{Red Bean, Marlon0024}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa Alt RB\)\[F\]{Red Bean, Marlon0024}]
 
 ## Credit
 

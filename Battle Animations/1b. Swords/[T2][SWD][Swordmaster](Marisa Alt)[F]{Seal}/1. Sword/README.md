@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa Alt\)\[F\]{Seal}](../)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa Alt\)\[F\]{Seal}]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Elder Bael\)\[U\]{IS}](../)
+# [\[T2\]\[MON\]\[Demon\]\(Elder Bael\)\[U\]{IS}]
 
 ## Credit
 

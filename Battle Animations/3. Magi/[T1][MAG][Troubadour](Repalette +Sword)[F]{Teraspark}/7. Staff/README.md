@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Repalette +Sword\)\[F\]{Teraspark}](../)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Repalette +Sword\)\[F\]{Teraspark}]
 
 ## Credit
 

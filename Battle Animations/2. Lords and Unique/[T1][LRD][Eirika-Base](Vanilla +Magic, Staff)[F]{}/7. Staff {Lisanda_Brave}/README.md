@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Vanilla +Magic, Staff\)\[F\]{}](../)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Vanilla +Magic, Staff\)\[F\]{}]
 
 ## Credit
 

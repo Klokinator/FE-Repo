@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(Poised\)\[F\]{Markyjoe, Feaw}](../)
+# [\[T1\]\[MAG\]\[Shaman\]\(Poised\)\[F\]{Markyjoe, Feaw}]
 
 ## Credit
 

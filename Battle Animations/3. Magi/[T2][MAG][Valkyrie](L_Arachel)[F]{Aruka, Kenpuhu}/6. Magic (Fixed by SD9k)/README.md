@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(L_Arachel\)\[F\]{Aruka, Kenpuhu}](../)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(L_Arachel\)\[F\]{Aruka, Kenpuhu}]
 
 ## Credit
 

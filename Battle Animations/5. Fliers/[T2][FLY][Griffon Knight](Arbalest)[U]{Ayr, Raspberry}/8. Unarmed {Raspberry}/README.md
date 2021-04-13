@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Griffon Knight\]\(Arbalest\)\[U\]{Ayr, Raspberry}](../)
+# [\[T2\]\[FLY\]\[Griffon Knight\]\(Arbalest\)\[U\]{Ayr, Raspberry}]
 
 ## Credit
 

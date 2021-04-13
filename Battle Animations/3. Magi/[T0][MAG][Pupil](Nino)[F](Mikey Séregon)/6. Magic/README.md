@@ -1,4 +1,4 @@
-# [\[T0\]\[MAG\]\[Pupil\]\(Nino\)\[F\]\(Mikey Séregon\)](../)
+# [\[T0\]\[MAG\]\[Pupil\]\(Nino\)\[F\]\(Mikey Séregon\)]
 
 ## Credit
 

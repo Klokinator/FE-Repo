@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Crossover\]\(Mario\)\[M\]{Volke0, Superstar Saga}](../)
+# [\[T0\]\[MISC\]\[Crossover\]\(Mario\)\[M\]{Volke0, Superstar Saga}]
 
 ## Credit
 

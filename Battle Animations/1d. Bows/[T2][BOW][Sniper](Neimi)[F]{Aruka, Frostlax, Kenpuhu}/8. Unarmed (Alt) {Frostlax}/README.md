@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Neimi\)\[F\]{Aruka, Frostlax, Kenpuhu}](../)
+# [\[T2\]\[BOW\]\[Sniper\]\(Neimi\)\[F\]{Aruka, Frostlax, Kenpuhu}]
 
 ## Credit
 

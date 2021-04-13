@@ -1,0 +1,12 @@
+# [\[Hero-Base\] \[M\] FE7 Updated Shield]
+
+## Credit
+
+Original animation by IS.
+Updates by Pikmin1211.
+	
+## Axe
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Axe still](./Axe_000.png) | ![Axe animation](./Axe.gif) |

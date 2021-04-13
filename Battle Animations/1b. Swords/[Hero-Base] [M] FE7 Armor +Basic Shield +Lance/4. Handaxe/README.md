@@ -1,0 +1,13 @@
+# [\[Hero-Base\] \[M\] FE7 Armor +Basic Shield +Lance]
+
+## Credit
+
+Vanilla animation by IS.
+
+Lance by Pushwall.
+	
+## Handaxe
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Handaxe still](./Handaxe_000.png) | ![Handaxe animation](./Handaxe.gif) |

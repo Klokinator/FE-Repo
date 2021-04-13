@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker by Aruka]
+# [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka]
 
 ## Credit
 

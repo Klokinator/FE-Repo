@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker Vanilla-Style by Der]
+# [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der]
 
 ## Credit
 

@@ -4,7 +4,9 @@
 
 ## Credits
 
-{FEGirls}
+Originally made for the FEGirls hack.
+
+Note that Black Mage's female fighters are generally considered much better to use than this animation.
 
 ## Weapons
 

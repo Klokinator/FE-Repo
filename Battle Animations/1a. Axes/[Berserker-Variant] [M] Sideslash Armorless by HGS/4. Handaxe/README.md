@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker Armorless by HGS]
+# [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS]
 
 ## Credit
 

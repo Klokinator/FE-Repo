@@ -9,6 +9,6 @@ Made by {Mycahel}
 ## Weapons
 
 
-|Sword |Sword |Palettes |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword%20(Knife%20Crit)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Magic%20Crit)/Sword.gif" /> | <img alt="Palettes animation" src="./Palettes/Palettes.gif" /> |
+|Sword |Sword |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1.%20Sword%20(Knife%20Crit)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Magic%20Crit)/Sword.gif" /> |

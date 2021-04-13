@@ -169,22 +169,9 @@
 | <img alt="Sword animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dart%20by%20Greentea/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dart%20by%20Greentea/3.%20Axe/Axe.gif" /> | <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dart%20by%20Greentea/3.%20Axe%20(Smoothed%20Axe)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dart%20by%20Greentea/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dart%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Berserker-Variant\] \[M\] Dozlazerker Armorless by HGS](./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Armorless%20by%20HGS/%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Armorless%20by%20HGS)
+## [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS)
 
-<img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Armorless%20by%20HGS/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Dozlazerker Armorless by HGS standing" />
-
-
-### Weapons
-
-
-|Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Armorless%20by%20HGS/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Armorless%20by%20HGS/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Armorless%20by%20HGS/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Berserker-Variant\] \[M\] Dozlazerker by Aruka](./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20by%20Aruka/%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20by%20Aruka)
-
-<img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20by%20Aruka/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Dozlazerker by Aruka standing" />
+<img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Armorless by HGS standing" />
 
 
 ### Weapons
@@ -192,12 +179,12 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20by%20Aruka/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20by%20Aruka/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Berserker-Variant\] \[M\] Dozlazerker Vanilla-Style by Der](./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Vanilla-Style%20by%20Der/%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Vanilla-Style%20by%20Der)
+## [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka)
 
-<img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Vanilla-Style%20by%20Der/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Dozlazerker Vanilla-Style by Der standing" />
+<img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Dozla by Aruka standing" />
 
 
 ### Weapons
@@ -205,7 +192,20 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Vanilla-Style%20by%20Der/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Vanilla-Style%20by%20Der/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Vanilla-Style%20by%20Der/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der)
+
+<img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Vanilla-Style by Der standing" />
+
+
+### Weapons
+
+
+|Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Berserker-Variant\] \[M\] Skinnyzerker Ross](./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross/%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross)
@@ -600,7 +600,7 @@
 
 ## [\[Journeyman-Base\] \[M\] Vanilla Repal by SamirPlayz](./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz)
 
-<img src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/3.%20Axe/Axe_000.png" alt="[Journeyman-Base] [M] Vanilla Repal by SamirPlayz standing" />
+<img src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/3.%20Axe%20(+Magic)/Axe_000.png" alt="[Journeyman-Base] [M] Vanilla Repal by SamirPlayz standing" />
 
 
 ### Weapons
@@ -608,7 +608,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/3.%20Axe%20(+Magic)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Pirate-Base\] \[F\] Fir-Head by Waleed](./%5BPirate-Base%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/%5BPirate-Base%5D%20%5BF%5D%20Fir-Head%20by%20Waleed)
@@ -710,9 +710,9 @@
 ### Weapons
 
 
-|Axe |Handaxe |Unarmed |Palettes |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20by%20Der/Palettes/Palettes.gif" /> |
+|Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Axe animation" src="./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Pirate-Variant\] \[M\] DS-Style No-Bandana by Der](./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/%5BPirate-Variant%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der)

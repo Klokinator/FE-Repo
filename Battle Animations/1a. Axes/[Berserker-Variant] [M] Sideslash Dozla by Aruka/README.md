@@ -1,6 +1,6 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker by Aruka](./)
+# [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka](./)
 
-<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Dozlazerker by Aruka standing" />
+<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Dozla by Aruka standing" />
 
 ## Credits
 

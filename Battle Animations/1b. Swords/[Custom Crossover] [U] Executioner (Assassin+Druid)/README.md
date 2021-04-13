@@ -17,6 +17,6 @@ Everything else was made by me, Huichelaar.
 ## Weapons
 
 
-|Sword |Magic |Unarmed |Palettes |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./Palettes/Palettes.gif" /> |
+|Sword |Magic |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |

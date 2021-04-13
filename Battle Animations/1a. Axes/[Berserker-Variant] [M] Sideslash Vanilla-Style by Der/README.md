@@ -1,6 +1,6 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker Vanilla-Style by Der](./)
+# [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der](./)
 
-<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Dozlazerker Vanilla-Style by Der standing" />
+<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Vanilla-Style by Der standing" />
 
 ## Credits
 

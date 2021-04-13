@@ -1,6 +1,6 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker Armorless by HGS](./)
+# [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS](./)
 
-<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Dozlazerker Armorless by HGS standing" />
+<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Armorless by HGS standing" />
 
 ## Credits
 

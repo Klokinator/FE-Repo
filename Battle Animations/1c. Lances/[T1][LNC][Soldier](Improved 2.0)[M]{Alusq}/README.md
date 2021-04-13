@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Improved 2.0\)\[M\]{Alusq}](../%5BT1%5D%5BLNC%5D%5BSoldier%5D(Improved%202.0)%5BM%5D%7BAlusq%7D)
+# [\[T1\]\[LNC\]\[Soldier\]\(Improved 2.0\)\[M\]{Alusq}](./)
 
 <img src="./1.%20Sword%20%7BJeyTheCount%7D/Sword_000.png" alt="[T1][LNC][Soldier](Improved 2.0)[M]{Alusq} standing" />
 

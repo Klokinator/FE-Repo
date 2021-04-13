@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[M\] Vanilla +Pimpstick's Sword](../%5BPirate-Base%5D%20%5BM%5D%20Vanilla%20+Pimpstick's%20Sword)
+# [\[Pirate-Base\] \[M\] Vanilla +Pimpstick's Sword](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Pirate-Base] [M] Vanilla +Pimpstick's Sword standing" />
 

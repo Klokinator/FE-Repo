@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Female Updated Hair-Colored Shield\)\[F\]](../%5BHero-Base%5D%20(Female%20Updated%20Hair-Colored%20Shield)%5BF%5D)
+# [\[Hero-Base\] \(Female Updated Hair-Colored Shield\)\[F\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (Female Updated Hair-Colored Shield)[F] standing" />
 

@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Matthew](../%5BAssassin-Base%5D%20%5BM%5D%20Matthew)
+# [\[Assassin-Base\] \[M\] Matthew](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Matthew standing" />
 

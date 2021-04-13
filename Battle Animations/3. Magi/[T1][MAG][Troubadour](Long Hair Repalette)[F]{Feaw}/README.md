@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair Repalette\)\[F\]{Feaw}](../%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair%20Repalette)%5BF%5D%7BFeaw%7D)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair Repalette\)\[F\]{Feaw}](./)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Troubadour](Long Hair Repalette)[F]{Feaw} standing" />
 

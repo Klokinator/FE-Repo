@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Mauthe Doog\]\(Vanilla\)\[U\]{IS}](../%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D)
+# [\[T1\]\[MON\]\[Mauthe Doog\]\(Vanilla\)\[U\]{IS}](./)
 
 <img src="./8.%20Monster/Monster_000.png" alt="[T1][MON][Mauthe Doog](Vanilla)[U]{IS} standing" />
 

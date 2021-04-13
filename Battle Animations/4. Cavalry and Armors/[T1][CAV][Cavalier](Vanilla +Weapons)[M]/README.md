@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D)
+# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Weapons)[M] standing" />
 

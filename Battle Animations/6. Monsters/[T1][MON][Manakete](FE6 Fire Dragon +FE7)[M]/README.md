@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fire Dragon +FE7\)\[M\]](../%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D)
+# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fire Dragon +FE7\)\[M\]](./)
 
 <img src="./8.%20Dragonstone%20(FE7)/Dragonstone_000.png" alt="[T1][MON][Manakete](FE6 Fire Dragon +FE7)[M] standing" />
 

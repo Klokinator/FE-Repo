@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Armored +Short Hair](../%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair)
+# [\[Hero-Base\] \[F\] Armored +Short Hair](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Armored +Short Hair standing" />
 

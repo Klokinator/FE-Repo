@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[F\] Nuramon's Villager](../%5BCustom%20Sword%5D%20%5BF%5D%20Nuramon's%20Villager)
+# [\[Custom Sword\] \[F\] Nuramon's Villager](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Nuramon's Villager standing" />
 

@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Ninja](../%5BCustom%20Sword%5D%20%5BM%5D%20Ninja)
+# [\[Custom Sword\] \[M\] Ninja](./)
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Custom Sword] [M] Ninja standing" />
 

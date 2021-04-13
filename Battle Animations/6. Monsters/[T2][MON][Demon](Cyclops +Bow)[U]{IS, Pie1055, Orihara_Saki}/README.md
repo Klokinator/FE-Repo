@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Cyclops +Bow\)\[U\]{IS, Pie1055, Orihara_Saki}](../%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D)
+# [\[T2\]\[MON\]\[Demon\]\(Cyclops +Bow\)\[U\]{IS, Pie1055, Orihara_Saki}](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T2][MON][Demon](Cyclops +Bow)[U]{IS, Pie1055, Orihara_Saki} standing" />
 

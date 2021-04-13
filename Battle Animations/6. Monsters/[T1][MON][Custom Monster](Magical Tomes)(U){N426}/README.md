@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Magical Tomes\)\(U\){N426}](../%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Magical Tomes\)\(U\){N426}](./)
 
 <img src="./6.%20Magic%20(Dark)/Magic_000.png" alt="[T1][MON][Custom Monster](Magical Tomes)(U){N426} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Vanilla +Weapons\)\[M\]](../%5BT1%5D%5BLNC%5D%5BSoldier%5D(Vanilla%20+Weapons)%5BM%5D)
+# [\[T1\]\[LNC\]\[Soldier\]\(Vanilla +Weapons\)\[M\]](./)
 
 <img src="./1.%20Sword%20(Arthur%20Pendragon)/Sword_000.png" alt="[T1][LNC][Soldier](Vanilla +Weapons)[M] standing" />
 

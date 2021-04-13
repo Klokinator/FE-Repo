@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Griffon Knight\]\(Arbalest - Repalette\)\[U\]](../%5BT2%5D%5BFLY%5D%5BGriffon%20Knight%5D(Arbalest%20-%20Repalette)%5BU%5D)
+# [\[T2\]\[FLY\]\[Griffon Knight\]\(Arbalest - Repalette\)\[U\]](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T2][FLY][Griffon Knight](Arbalest - Repalette)[U] standing" />
 

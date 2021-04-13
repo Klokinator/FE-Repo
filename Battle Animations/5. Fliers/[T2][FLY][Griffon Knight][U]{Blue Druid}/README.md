@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Griffon Knight\]\[U\]{Blue Druid}](../%5BT2%5D%5BFLY%5D%5BGriffon%20Knight%5D%5BU%5D%7BBlue%20Druid%7D)
+# [\[T2\]\[FLY\]\[Griffon Knight\]\[U\]{Blue Druid}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][FLY][Griffon Knight][U]{Blue Druid} standing" />
 

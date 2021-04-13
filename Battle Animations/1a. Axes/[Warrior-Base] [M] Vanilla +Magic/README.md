@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Vanilla +Magic](../%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20+Magic)
+# [\[Warrior-Base\] \[M\] Vanilla +Magic](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Base] [M] Vanilla +Magic standing" />
 

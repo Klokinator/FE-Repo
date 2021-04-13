@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Custom Lord\]\(Ephraim Infantry\)\[F\]](../%5BT2%5D%5BLRD%5D%5BCustom%20Lord%5D(Ephraim%20Infantry)%5BF%5D)
+# [\[T2\]\[LRD\]\[Custom Lord\]\(Ephraim Infantry\)\[F\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Custom Lord](Ephraim Infantry)[F] standing" />
 

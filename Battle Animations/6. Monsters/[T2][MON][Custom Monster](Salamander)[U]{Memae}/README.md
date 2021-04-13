@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Custom Monster\]\(Salamander\)\[U\]{Memae}](../%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D)
+# [\[T2\]\[MON\]\[Custom Monster\]\(Salamander\)\[U\]{Memae}](./)
 
 <img src="./6.%20Magic%20(Cannon)/Magic_000.png" alt="[T2][MON][Custom Monster](Salamander)[U]{Memae} standing" />
 

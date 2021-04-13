@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Archsage\]\(Athos\)\[M\]{IS, Blademaster, Shin19, SHYUTERz}](../%5BT3%5D%5BMAG%5D%5BArchsage%5D(Athos)%5BM%5D%7BIS,%20Blademaster,%20Shin19,%20SHYUTERz%7D)
+# [\[T3\]\[MAG\]\[Archsage\]\(Athos\)\[M\]{IS, Blademaster, Shin19, SHYUTERz}](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T3][MAG][Archsage](Athos)[M]{IS, Blademaster, Shin19, SHYUTERz} standing" />
 

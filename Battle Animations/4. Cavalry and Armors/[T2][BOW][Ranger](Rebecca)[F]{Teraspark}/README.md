@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D)
+# [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Rebecca)[F]{Teraspark} standing" />
 

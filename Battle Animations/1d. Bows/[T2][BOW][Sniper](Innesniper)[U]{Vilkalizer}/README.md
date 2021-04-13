@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Innesniper\)\[U\]{Vilkalizer}](../%5BT2%5D%5BBOW%5D%5BSniper%5D(Innesniper)%5BU%5D%7BVilkalizer%7D)
+# [\[T2\]\[BOW\]\[Sniper\]\(Innesniper\)\[U\]{Vilkalizer}](./)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T2][BOW][Sniper](Innesniper)[U]{Vilkalizer} standing" />
 

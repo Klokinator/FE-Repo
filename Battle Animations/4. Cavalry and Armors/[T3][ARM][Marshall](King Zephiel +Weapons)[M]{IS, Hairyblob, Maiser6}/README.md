@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(King Zephiel +Weapons\)\[M\]{IS, Hairyblob, Maiser6}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D)
+# [\[T3\]\[ARM\]\[Marshall\]\(King Zephiel +Weapons\)\[M\]{IS, Hairyblob, Maiser6}](./)
 
 <img src="./1.%20Sword%20%7BHairyblob,%20Maiser6%7D/Sword_000.png" alt="[T3][ARM][Marshall](King Zephiel +Weapons)[M]{IS, Hairyblob, Maiser6} standing" />
 

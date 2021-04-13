@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\[F\]{eCut, Skitty, Mikey Séregon}](../%5BT2%5D%5BSWD%5D%5BRogue%5D%5BF%5D%7BeCut,%20Skitty,%20Mikey%20S%C3%A9regon%7D)
+# [\[T2\]\[SWD\]\[Rogue\]\[F\]{eCut, Skitty, Mikey Séregon}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][SWD][Rogue][F]{eCut, Skitty, Mikey Séregon} standing" />
 

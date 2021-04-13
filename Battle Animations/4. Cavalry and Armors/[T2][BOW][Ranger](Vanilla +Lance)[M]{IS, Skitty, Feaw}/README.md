@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Vanilla +Lance\)\[M\]{IS, Skitty, Feaw}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D)
+# [\[T2\]\[BOW\]\[Ranger\]\(Vanilla +Lance\)\[M\]{IS, Skitty, Feaw}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Vanilla +Lance)[M]{IS, Skitty, Feaw} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D)
+# [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron Cape +Weapons)[M] standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[M\]{Jey the Count}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D)
+# [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[M\]{Jey the Count}](./)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T2][BOW][Ranger](Bowmaster)[M]{Jey the Count} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D)
+# [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Bow)[F]{IS, DerTheVaporeon, Kao, Aurora} standing" />
 

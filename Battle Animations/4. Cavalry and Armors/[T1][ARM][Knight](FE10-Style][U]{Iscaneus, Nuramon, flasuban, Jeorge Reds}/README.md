@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}](../%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D)
+# [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](FE10-Style][U]{Iscaneus, Nuramon, flasuban, Jeorge Reds} standing" />
 

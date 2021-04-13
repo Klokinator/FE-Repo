@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh Repalette\)\[F\]{Teraspark}](../%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D)
+# [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh Repalette\)\[F\]{Teraspark}](./)
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE8 Myrrh Repalette)[F]{Teraspark} standing" />
 

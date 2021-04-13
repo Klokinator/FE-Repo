@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Heath\)\[M\]{Greentea, RobertFPY}](../%5BT2%5D%5BFLY%5D%5BWyvern%20Lord%5D(Heath)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Heath\)\[M\]{Greentea, RobertFPY}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][FLY][Wyvern Lord](Heath)[M]{Greentea, RobertFPY} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt Repalette\)\[M\]](../%5BT2%5D%5BSWD%5D%5BSwordmaster%5D(Lloyd%20Alt%20Repalette)%5BM%5D)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt Repalette\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][SWD][Swordmaster](Lloyd Alt Repalette)[M] standing" />
 

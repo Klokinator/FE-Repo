@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Spartan\)\[M\]{Vilkalizer, Pikmin1211}](../%5BT2%5D%5BLNC%5D%5BHalberdier%5D(Spartan)%5BM%5D%7BVilkalizer,%20Pikmin1211%7D)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Spartan\)\[M\]{Vilkalizer, Pikmin1211}](./)
 
 <img src="./1.%20Sword%20%7BVilkalizer%7D/Sword_000.png" alt="[T2][LNC][Halberdier](Spartan)[M]{Vilkalizer, Pikmin1211} standing" />
 

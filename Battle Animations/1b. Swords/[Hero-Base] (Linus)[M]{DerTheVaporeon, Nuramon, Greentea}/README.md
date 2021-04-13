@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Linus\)\[M\]{DerTheVaporeon, Nuramon, Greentea}](../%5BHero-Base%5D%20(Linus)%5BM%5D%7BDerTheVaporeon,%20Nuramon,%20Greentea%7D)
+# [\[Hero-Base\] \(Linus\)\[M\]{DerTheVaporeon, Nuramon, Greentea}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (Linus)[M]{DerTheVaporeon, Nuramon, Greentea} standing" />
 

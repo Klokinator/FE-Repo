@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Wight\)\[U\]{Teraspark, Wan}](../%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D)
+# [\[T2\]\[MON\]\[Undead\]\(Wight\)\[U\]{Teraspark, Wan}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][MON][Undead](Wight)[U]{Teraspark, Wan} standing" />
 

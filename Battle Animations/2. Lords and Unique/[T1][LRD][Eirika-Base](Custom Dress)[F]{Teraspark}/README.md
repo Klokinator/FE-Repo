@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Custom Dress\)\[F\]{Teraspark}](../%5BT1%5D%5BLRD%5D%5BEirika-Base%5D(Custom%20Dress)%5BF%5D%7BTeraspark%7D)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Custom Dress\)\[F\]{Teraspark}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Eirika-Base](Custom Dress)[F]{Teraspark} standing" />
 

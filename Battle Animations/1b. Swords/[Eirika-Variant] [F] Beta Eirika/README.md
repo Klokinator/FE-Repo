@@ -1,4 +1,4 @@
-# [\[Eirika-Variant\] \[F\] Beta Eirika](../%5BEirika-Variant%5D%20%5BF%5D%20Beta%20Eirika)
+# [\[Eirika-Variant\] \[F\] Beta Eirika](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Variant] [F] Beta Eirika standing" />
 

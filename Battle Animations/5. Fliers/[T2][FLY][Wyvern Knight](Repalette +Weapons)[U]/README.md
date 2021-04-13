@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Repalette +Weapons\)\[U\]](../%5BT2%5D%5BFLY%5D%5BWyvern%20Knight%5D(Repalette%20+Weapons)%5BU%5D)
+# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Repalette +Weapons\)\[U\]](./)
 
 <img src="./1.%20Sword%20(Lord_Tweed)/Sword_000.png" alt="[T2][FLY][Wyvern Knight](Repalette +Weapons)[U] standing" />
 

@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Skitty's Repal](../%5BMercenary-Base%5D%20%5BM%5D%20Skitty's%20Repal)
+# [\[Mercenary-Base\] \[M\] Skitty's Repal](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Skitty's Repal standing" />
 

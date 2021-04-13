@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Leila Vanilla FE7](../%5BThief-Base%5D%20%5BF%5D%20Leila%20Vanilla%20FE7)
+# [\[Thief-Base\] \[F\] Leila Vanilla FE7](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [F] Leila Vanilla FE7 standing" />
 

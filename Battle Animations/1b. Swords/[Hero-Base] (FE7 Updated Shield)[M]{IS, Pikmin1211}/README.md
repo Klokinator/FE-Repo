@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(FE7 Updated Shield\)\[M\]{IS, Pikmin1211}](../%5BHero-Base%5D%20(FE7%20Updated%20Shield)%5BM%5D%7BIS,%20Pikmin1211%7D)
+# [\[Hero-Base\] \(FE7 Updated Shield\)\[M\]{IS, Pikmin1211}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (FE7 Updated Shield)[M]{IS, Pikmin1211} standing" />
 

@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Character - Dorcas](../%5BFighter-Base%5D%20%5BM%5D%20Character%20-%20Dorcas)
+# [\[Fighter-Base\] \[M\] Character - Dorcas](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Character - Dorcas standing" />
 

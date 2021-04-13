@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud))
+# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)](./)
 
 <img src="./1.%20Sword%20%7BKenpuhu,%20Aruka%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin)[M](Kenpuhu, Aruka, Nuramon, Spud) standing" />
 

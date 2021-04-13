@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Neimi\)\[F\]{Aruka, Frostlax, Kenpuhu}](../%5BT2%5D%5BBOW%5D%5BSniper%5D(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D)
+# [\[T2\]\[BOW\]\[Sniper\]\(Neimi\)\[F\]{Aruka, Frostlax, Kenpuhu}](./)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T2][BOW][Sniper](Neimi)[F]{Aruka, Frostlax, Kenpuhu} standing" />
 

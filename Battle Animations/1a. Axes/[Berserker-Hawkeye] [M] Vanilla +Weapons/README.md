@@ -1,4 +1,4 @@
-# [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons](../%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons)
+# [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [M] Vanilla +Weapons standing" />
 

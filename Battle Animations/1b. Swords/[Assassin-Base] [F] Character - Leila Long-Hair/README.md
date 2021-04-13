@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Character - Leila Long-Hair](../%5BAssassin-Base%5D%20%5BF%5D%20Character%20-%20Leila%20Long-Hair)
+# [\[Assassin-Base\] \[F\] Character - Leila Long-Hair](./)
 
 <img src="./1.%20Sword%20(Long%20Hair)/Sword_000.png" alt="[Assassin-Base] [F] Character - Leila Long-Hair standing" />
 

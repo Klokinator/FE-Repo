@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Lyn-Base\]\(Tsukage\)\[F\]{Kramgnauh, Yangfly Master}](../%5BT1%5D%5BLRD%5D%5BLyn-Base%5D(Tsukage)%5BF%5D%7BKramgnauh,%20Yangfly%20Master%7D)
+# [\[T1\]\[LRD\]\[Lyn-Base\]\(Tsukage\)\[F\]{Kramgnauh, Yangfly Master}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Lyn-Base](Tsukage)[F]{Kramgnauh, Yangfly Master} standing" />
 

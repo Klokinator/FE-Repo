@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Undead\]\(Bonewalker - Legion\)\[U\]{Seal,blood, Sax Marine}](../%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D)
+# [\[T2\]\[MON\]\[Undead\]\(Bonewalker - Legion\)\[U\]{Seal,blood, Sax Marine}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][MON][Undead](Bonewalker - Legion)[U]{Seal,blood, Sax Marine} standing" />
 

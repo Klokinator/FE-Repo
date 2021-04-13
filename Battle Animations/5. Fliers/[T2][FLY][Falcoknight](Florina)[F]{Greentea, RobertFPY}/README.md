@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Falcoknight\]\(Florina\)\[F\]{Greentea, RobertFPY}](../%5BT2%5D%5BFLY%5D%5BFalcoknight%5D(Florina)%5BF%5D%7BGreentea,%20RobertFPY%7D)
+# [\[T2\]\[FLY\]\[Falcoknight\]\(Florina\)\[F\]{Greentea, RobertFPY}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][FLY][Falcoknight](Florina)[F]{Greentea, RobertFPY} standing" />
 

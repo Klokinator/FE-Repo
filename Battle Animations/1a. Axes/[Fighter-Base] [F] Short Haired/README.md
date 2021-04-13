@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[F\] Short Haired](../%5BFighter-Base%5D%20%5BF%5D%20Short%20Haired)
+# [\[Fighter-Base\] \[F\] Short Haired](./)
 
 <img src="./3.%20Axe%20(Short%20Hair)/Axe_000.png" alt="[Fighter-Base] [F] Short Haired standing" />
 

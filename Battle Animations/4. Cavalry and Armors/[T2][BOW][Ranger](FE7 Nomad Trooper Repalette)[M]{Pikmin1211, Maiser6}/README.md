@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+# [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE7 Nomad Trooper Repalette)[M]{Pikmin1211, Maiser6} standing" />
 

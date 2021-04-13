@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[F\] Long-Haired](../%5BJourneyman-Base%5D%20%5BF%5D%20Long-Haired)
+# [\[Journeyman-Base\] \[F\] Long-Haired](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Journeyman-Base] [F] Long-Haired standing" />
 

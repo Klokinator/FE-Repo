@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Roy-Base\]\(Sword Saint Alice\)\[F\]{FE7if}](../%5BT1%5D%5BLRD%5D%5BRoy-Base%5D(Sword%20Saint%20Alice)%5BF%5D%7BFE7if%7D)
+# [\[T1\]\[LRD\]\[Roy-Base\]\(Sword Saint Alice\)\[F\]{FE7if}](./)
 
 <img src="./1.%20Sword%20(Airgetlam%20-%20Fixed%20-%20Sans%20Luceid)/Sword_000.png" alt="[T1][LRD][Roy-Base](Sword Saint Alice)[F]{FE7if} standing" />
 

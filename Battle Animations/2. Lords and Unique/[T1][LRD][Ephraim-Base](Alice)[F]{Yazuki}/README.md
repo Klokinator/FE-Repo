@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Alice\)\[F\]{Yazuki}](../%5BT1%5D%5BLRD%5D%5BEphraim-Base%5D(Alice)%5BF%5D%7BYazuki%7D)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Alice\)\[F\]{Yazuki}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][LRD][Ephraim-Base](Alice)[F]{Yazuki} standing" />
 

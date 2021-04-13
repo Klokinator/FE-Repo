@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Flashy Fighter Armored](../%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Fighter%20Armored)
+# [\[Fighter-Base\] \[M\] Flashy Fighter Armored](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Flashy Fighter Armored standing" />
 

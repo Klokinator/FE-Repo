@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Ninian +Weapons\)\[F\]](../%5BT0%5D%5BMISC%5D%5BRefresh%5D(Dancer%20Ninian%20+Weapons)%5BF%5D)
+# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Ninian +Weapons\)\[F\]](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T0][MISC][Refresh](Dancer Ninian +Weapons)[F] standing" />
 

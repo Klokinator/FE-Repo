@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Character - Legault Repal +Knife](../%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Legault%20Repal%20+Knife)
+# [\[Thief-Base\] \[M\] Character - Legault Repal +Knife](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Character - Legault Repal +Knife standing" />
 

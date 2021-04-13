@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D)
+# [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Repalette)[U]{Skitty} standing" />
 

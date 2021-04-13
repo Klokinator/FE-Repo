@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Druid +Staff\)\[F\]](../%5BT3%5D%5BMAG%5D%5BNecromancer%5D(Dark%20Druid%20+Staff)%5BF%5D)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Dark Druid +Staff\)\[F\]](./)
 
 <img src="./6.%20Magic%20(FE7)/Magic_000.png" alt="[T3][MAG][Necromancer](Dark Druid +Staff)[F] standing" />
 

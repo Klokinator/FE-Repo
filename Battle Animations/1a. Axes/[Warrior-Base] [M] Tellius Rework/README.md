@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Tellius Rework](../%5BWarrior-Base%5D%20%5BM%5D%20Tellius%20Rework)
+# [\[Warrior-Base\] \[M\] Tellius Rework](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Base] [M] Tellius Rework standing" />
 

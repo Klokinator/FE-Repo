@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Custom Magi\]\(Tactician Mark\)\[M\]{Marlon0024, Asael}](../%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BM%5D%7BMarlon0024,%20Asael%7D)
+# [\[T1\]\[MAG\]\[Custom Magi\]\(Tactician Mark\)\[M\]{Marlon0024, Asael}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][MAG][Custom Magi](Tactician Mark)[M]{Marlon0024, Asael} standing" />
 

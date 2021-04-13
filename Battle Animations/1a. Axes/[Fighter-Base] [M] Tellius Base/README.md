@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Tellius Base](../%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base)
+# [\[Fighter-Base\] \[M\] Tellius Base](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius Base standing" />
 

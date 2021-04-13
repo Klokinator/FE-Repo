@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[M\] Armored Brigand](../%5BBrigand-Base%5D%20%5BM%5D%20Armored%20Brigand)
+# [\[Brigand-Base\] \[M\] Armored Brigand](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Base] [M] Armored Brigand standing" />
 

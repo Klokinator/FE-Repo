@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D)
+# [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Zelgius 2.0)[M]{Nuramon} standing" />
 

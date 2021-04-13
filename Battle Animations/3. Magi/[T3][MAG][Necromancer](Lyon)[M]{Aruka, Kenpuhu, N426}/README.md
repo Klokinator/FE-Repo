@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Lyon\)\[M\]{Aruka, Kenpuhu, N426}](../%5BT3%5D%5BMAG%5D%5BNecromancer%5D(Lyon)%5BM%5D%7BAruka,%20Kenpuhu,%20N426%7D)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Lyon\)\[M\]{Aruka, Kenpuhu, N426}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][MAG][Necromancer](Lyon)[M]{Aruka, Kenpuhu, N426} standing" />
 

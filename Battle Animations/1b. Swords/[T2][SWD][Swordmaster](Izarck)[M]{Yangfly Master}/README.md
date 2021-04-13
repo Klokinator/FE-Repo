@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Izarck\)\[M\]{Yangfly Master}](../%5BT2%5D%5BSWD%5D%5BSwordmaster%5D(Izarck)%5BM%5D%7BYangfly%20Master%7D)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Izarck\)\[M\]{Yangfly Master}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][SWD][Swordmaster](Izarck)[M]{Yangfly Master} standing" />
 

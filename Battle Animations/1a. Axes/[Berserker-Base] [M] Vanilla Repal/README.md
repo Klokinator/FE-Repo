@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[M\] Vanilla Repal](../%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal)
+# [\[Berserker-Base\] \[M\] Vanilla Repal](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Vanilla Repal standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}](../%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D)
+# [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}](./)
 
 <img src="./1.%20Sword%20%7BTBA%7D/Sword_000.png" alt="[T1][ARM][Knight](Vanilla +Weapons)[U]{IS, TBA, Orihara_Saki, vilk} standing" />
 

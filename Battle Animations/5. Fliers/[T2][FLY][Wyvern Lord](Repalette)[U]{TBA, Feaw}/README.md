@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Repalette\)\[U\]{TBA, Feaw}](../%5BT2%5D%5BFLY%5D%5BWyvern%20Lord%5D(Repalette)%5BU%5D%7BTBA,%20Feaw%7D)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Repalette\)\[U\]{TBA, Feaw}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T2][FLY][Wyvern Lord](Repalette)[U]{TBA, Feaw} standing" />
 

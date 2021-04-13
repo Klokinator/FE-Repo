@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Vanilla Repack +Weapons\)\[M\]](../%5BT1%5D%5BLRD%5D%5BEphraim-Base%5D(Vanilla%20Repack%20+Weapons)%5BM%5D)
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Vanilla Repack +Weapons\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Ephraim-Base](Vanilla Repack +Weapons)[M] standing" />
 

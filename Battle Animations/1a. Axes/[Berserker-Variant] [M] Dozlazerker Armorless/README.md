@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Dozlazerker Armorless](../%5BBerserker-Variant%5D%20%5BM%5D%20Dozlazerker%20Armorless)
+# [\[Berserker-Variant\] \[M\] Dozlazerker Armorless](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Dozlazerker Armorless standing" />
 

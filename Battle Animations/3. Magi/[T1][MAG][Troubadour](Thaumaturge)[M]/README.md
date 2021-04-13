@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Thaumaturge\)\[M\]](../%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BM%5D)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Thaumaturge\)\[M\]](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T1][MAG][Troubadour](Thaumaturge)[M] standing" />
 

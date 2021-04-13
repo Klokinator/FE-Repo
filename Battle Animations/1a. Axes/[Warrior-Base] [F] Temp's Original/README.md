@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[F\] Temp's Original](../%5BWarrior-Base%5D%20%5BF%5D%20Temp's%20Original)
+# [\[Warrior-Base\] \[F\] Temp's Original](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Base] [F] Temp's Original standing" />
 

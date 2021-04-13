@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[F\] FEGirls Boobzerker](../%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker)
+# [\[Berserker-Base\] \[F\] FEGirls Boobzerker](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls Boobzerker standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening Lissa\)\[F\]{BatimaTheBat}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening%20Lissa)%5BF%5D%7BBatimaTheBat%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening Lissa\)\[F\]{BatimaTheBat}](./)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Awakening Lissa)[F]{BatimaTheBat} standing" />
 

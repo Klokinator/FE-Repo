@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Vanilla +Magic, Staff\)\[F\]{}](../%5BT1%5D%5BLRD%5D%5BEirika-Base%5D(Vanilla%20+Magic,%20Staff)%5BF%5D%7B%7D)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Vanilla +Magic, Staff\)\[F\]{}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Eirika-Base](Vanilla +Magic, Staff)[F]{} standing" />
 

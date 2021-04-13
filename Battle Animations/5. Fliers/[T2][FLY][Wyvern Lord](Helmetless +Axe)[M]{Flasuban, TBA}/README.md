@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Helmetless +Axe\)\[M\]{Flasuban, TBA}](../%5BT2%5D%5BFLY%5D%5BWyvern%20Lord%5D(Helmetless%20+Axe)%5BM%5D%7BFlasuban,%20TBA%7D)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Helmetless +Axe\)\[M\]{Flasuban, TBA}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][FLY][Wyvern Lord](Helmetless +Axe)[M]{Flasuban, TBA} standing" />
 

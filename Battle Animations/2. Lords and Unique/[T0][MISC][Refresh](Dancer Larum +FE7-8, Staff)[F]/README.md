@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Larum +FE7-8, Staff\)\[F\]](../%5BT0%5D%5BMISC%5D%5BRefresh%5D(Dancer%20Larum%20+FE7-8,%20Staff)%5BF%5D)
+# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Larum +FE7-8, Staff\)\[F\]](./)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T0][MISC][Refresh](Dancer Larum +FE7-8, Staff)[F] standing" />
 

@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[F\] Mercenary-Myrmidon Fusion](../%5BCustom%20Sword%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion)
+# [\[Custom Sword\] \[F\] Mercenary-Myrmidon Fusion](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Mercenary-Myrmidon Fusion standing" />
 

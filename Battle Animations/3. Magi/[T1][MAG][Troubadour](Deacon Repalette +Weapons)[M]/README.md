@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Deacon Repalette +Weapons\)\[M\]](../%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Deacon Repalette +Weapons\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][MAG][Troubadour](Deacon Repalette +Weapons)[M] standing" />
 

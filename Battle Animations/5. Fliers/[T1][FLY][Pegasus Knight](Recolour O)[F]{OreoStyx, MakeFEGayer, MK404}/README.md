@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Recolour O\)\[F\]{OreoStyx, MakeFEGayer, MK404}](../%5BT1%5D%5BFLY%5D%5BPegasus%20Knight%5D(Recolour%20O)%5BF%5D%7BOreoStyx,%20MakeFEGayer,%20MK404%7D)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Recolour O\)\[F\]{OreoStyx, MakeFEGayer, MK404}](./)
 
 <img src="./1.%20Sword%20(MK404)/Sword_000.png" alt="[T1][FLY][Pegasus Knight](Recolour O)[F]{OreoStyx, MakeFEGayer, MK404} standing" />
 

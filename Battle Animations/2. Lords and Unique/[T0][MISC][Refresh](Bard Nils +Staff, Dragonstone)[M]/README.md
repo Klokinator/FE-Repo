@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Bard Nils +Staff, Dragonstone\)\[M\]](../%5BT0%5D%5BMISC%5D%5BRefresh%5D(Bard%20Nils%20+Staff,%20Dragonstone)%5BM%5D)
+# [\[T0\]\[MISC\]\[Refresh\]\(Bard Nils +Staff, Dragonstone\)\[M\]](./)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T0][MISC][Refresh](Bard Nils +Staff, Dragonstone)[M] standing" />
 

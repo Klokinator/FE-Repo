@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]](../%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D)
+# [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](King - Generic)[M] standing" />
 

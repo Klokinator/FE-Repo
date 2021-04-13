@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Repalette Upgrade +Staff\)\[M\]](../%5BT2%5D%5BSWD%5D%5BRogue%5D(Repalette%20Upgrade%20+Staff)%5BM%5D)
+# [\[T2\]\[SWD\]\[Rogue\]\(Repalette Upgrade +Staff\)\[M\]](./)
 
 <img src="./1.%20Knife/Knife_000.png" alt="[T2][SWD][Rogue](Repalette Upgrade +Staff)[M] standing" />
 

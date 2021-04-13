@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon v2\)\[M\]](../%5BT2%5D%5BLNC%5D%5BHalberdier%5D(Dragoon%20v2)%5BM%5D)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon v2\)\[M\]](./)
 
 <img src="./2.%20Lance%20(Maiser6)/Lance_000.png" alt="[T2][LNC][Halberdier](Dragoon v2)[M] standing" />
 

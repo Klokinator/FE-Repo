@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Demon\]\(Tarvos - Centaur\)\[F\]{Alfred Kamon, Starter, Pikmin1211}](../%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D)
+# [\[T1\]\[MON\]\[Demon\]\(Tarvos - Centaur\)\[F\]{Alfred Kamon, Starter, Pikmin1211}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][MON][Demon](Tarvos - Centaur)[F]{Alfred Kamon, Starter, Pikmin1211} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Deserter\)\[M\]{Alusq}](../%5BT1%5D%5BLNC%5D%5BSoldier%5D(Deserter)%5BM%5D%7BAlusq%7D)
+# [\[T1\]\[LNC\]\[Soldier\]\(Deserter\)\[M\]{Alusq}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][LNC][Soldier](Deserter)[M]{Alusq} standing" />
 

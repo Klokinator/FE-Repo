@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Custom Lord\]\(Greil Hero\)\[M\]](../%5BT2%5D%5BLRD%5D%5BCustom%20Lord%5D(Greil%20Hero)%5BM%5D)
+# [\[T2\]\[LRD\]\[Custom Lord\]\(Greil Hero\)\[M\]](./)
 
 <img src="./1.%20Sword%20(Alondite)/Sword_000.png" alt="[T2][LRD][Custom Lord](Greil Hero)[M] standing" />
 

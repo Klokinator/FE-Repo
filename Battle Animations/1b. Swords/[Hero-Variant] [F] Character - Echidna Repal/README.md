@@ -1,4 +1,4 @@
-# [\[Hero-Variant\] \[F\] Character - Echidna Repal](../%5BHero-Variant%5D%20%5BF%5D%20Character%20-%20Echidna%20Repal)
+# [\[Hero-Variant\] \[F\] Character - Echidna Repal](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [F] Character - Echidna Repal standing" />
 

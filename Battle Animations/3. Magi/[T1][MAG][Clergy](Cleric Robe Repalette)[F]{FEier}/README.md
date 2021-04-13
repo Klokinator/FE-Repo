@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Robe Repalette\)\[F\]{FEier}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Robe%20Repalette)%5BF%5D%7BFEier%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Robe Repalette\)\[F\]{FEier}](./)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Robe Repalette)[F]{FEier} standing" />
 

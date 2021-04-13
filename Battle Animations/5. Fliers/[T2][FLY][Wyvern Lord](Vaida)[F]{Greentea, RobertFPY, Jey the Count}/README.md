@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Vaida\)\[F\]{Greentea, RobertFPY, Jey the Count}](../%5BT2%5D%5BFLY%5D%5BWyvern%20Lord%5D(Vaida)%5BF%5D%7BGreentea,%20RobertFPY,%20Jey%20the%20Count%7D)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Vaida\)\[F\]{Greentea, RobertFPY, Jey the Count}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][FLY][Wyvern Lord](Vaida)[F]{Greentea, RobertFPY, Jey the Count} standing" />
 

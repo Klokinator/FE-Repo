@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[M\] Yetizerker Smoothed-Axe](../%5BBerserker-Base%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe)
+# [\[Berserker-Base\] \[M\] Yetizerker Smoothed-Axe](./)
 
 <img src="./3.%20Axe%20(Red%20Variant)/Axe_000.png" alt="[Berserker-Base] [M] Yetizerker Smoothed-Axe standing" />
 

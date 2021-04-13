@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Druid\]\[F\]{IS}](../%5BT2%5D%5BMAG%5D%5BDruid%5D%5BF%5D%7BIS%7D)
+# [\[T2\]\[MAG\]\[Druid\]\[F\]{IS}](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2][MAG][Druid][F]{IS} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Vanilla +Magic, Staff\)\[M\]{IS, Skitty}](../%5BT2%5D%5BLRD%5D%5BHector-Base%5D(Vanilla%20+Magic,%20Staff)%5BM%5D%7BIS,%20Skitty%7D)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Vanilla +Magic, Staff\)\[M\]{IS, Skitty}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Hector-Base](Vanilla +Magic, Staff)[M]{IS, Skitty} standing" />
 

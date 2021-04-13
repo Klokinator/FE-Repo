@@ -1,4 +1,4 @@
-# [\[T1\]\[SWD\]\[Custom Sword\]\(Sword Brigand\)\[M\]](../%5BT1%5D%5BSWD%5D%5BCustom%20Sword%5D(Sword%20Brigand)%5BM%5D)
+# [\[T1\]\[SWD\]\[Custom Sword\]\(Sword Brigand\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][SWD][Custom Sword](Sword Brigand)[M] standing" />
 

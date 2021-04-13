@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Custom Magi\]\(Tactician\)\[M\]](../%5BT2%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician)%5BM%5D)
+# [\[T2\]\[MAG\]\[Custom Magi\]\(Tactician\)\[M\]](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2][MAG][Custom Magi](Tactician)[M] standing" />
 

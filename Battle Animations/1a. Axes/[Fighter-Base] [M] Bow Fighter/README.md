@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Bow Fighter](../%5BFighter-Base%5D%20%5BM%5D%20Bow%20Fighter)
+# [\[Fighter-Base\] \[M\] Bow Fighter](./)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Fighter-Base] [M] Bow Fighter standing" />
 

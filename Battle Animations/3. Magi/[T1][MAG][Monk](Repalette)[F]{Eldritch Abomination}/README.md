@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[F\]{Eldritch Abomination}](../%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BF%5D%7BEldritch%20Abomination%7D)
+# [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[F\]{Eldritch Abomination}](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Repalette)[F]{Eldritch Abomination} standing" />
 

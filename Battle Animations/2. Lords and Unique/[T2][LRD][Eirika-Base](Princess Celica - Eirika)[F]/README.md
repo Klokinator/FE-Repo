@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Princess Celica - Eirika\)\[F\]](../%5BT2%5D%5BLRD%5D%5BEirika-Base%5D(Princess%20Celica%20-%20Eirika)%5BF%5D)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Princess Celica - Eirika\)\[F\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Eirika-Base](Princess Celica - Eirika)[F] standing" />
 

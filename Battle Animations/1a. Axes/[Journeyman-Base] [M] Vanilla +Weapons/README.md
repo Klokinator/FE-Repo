@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[M\] Vanilla +Weapons](../%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20+Weapons)
+# [\[Journeyman-Base\] \[M\] Vanilla +Weapons](./)
 
 <img src="./1.%20Sword%20%7BWaleed%7D/Sword_000.png" alt="[Journeyman-Base] [M] Vanilla +Weapons standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Vanilla +Weapons\)\[F\]{CREDITS}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Vanilla +Weapons\)\[F\]{CREDITS}](./)
 
 <img src="./1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[T1][MAG][Clergy](Cleric Vanilla +Weapons)[F]{CREDITS} standing" />
 

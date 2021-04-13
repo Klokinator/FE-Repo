@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Heath\)\[M\]{Greentea. Jey the Count\)](../%5BT1%5D%5BFLY%5D%5BWyvern%20Rider%5D(Heath)%5BM%5D%7BGreentea.%20Jey%20the%20Count))
+# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Heath\)\[M\]{Greentea. Jey the Count\)](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][FLY][Wyvern Rider](Heath)[M]{Greentea. Jey the Count) standing" />
 

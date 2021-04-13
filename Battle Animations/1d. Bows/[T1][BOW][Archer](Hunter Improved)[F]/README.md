@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Hunter Improved\)\[F\]](../%5BT1%5D%5BBOW%5D%5BArcher%5D(Hunter%20Improved)%5BF%5D)
+# [\[T1\]\[BOW\]\[Archer\]\(Hunter Improved\)\[F\]](./)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T1][BOW][Archer](Hunter Improved)[F] standing" />
 

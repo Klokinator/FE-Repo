@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Harbinger\)\[U\]{Nuramon, Mycahel, Jj09}](../%5BT2%5D%5BLRD%5D%5BHector-Base%5D(Harbinger)%5BU%5D%7BNuramon,%20Mycahel,%20Jj09%7D)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Harbinger\)\[U\]{Nuramon, Mycahel, Jj09}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Hector-Base](Harbinger)[U]{Nuramon, Mycahel, Jj09} standing" />
 

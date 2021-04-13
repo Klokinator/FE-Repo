@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Repalette +Sword\)\[F\]{Teraspark}](../%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Repalette%20+Sword)%5BF%5D%7BTeraspark%7D)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Repalette +Sword\)\[F\]{Teraspark}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][MAG][Troubadour](Repalette +Sword)[F]{Teraspark} standing" />
 

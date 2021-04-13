@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](../%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow)
+# [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Legault Vanilla +Bow standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Priest Hood\)\[M\]{Eldritch Abomination}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Hood)%5BM%5D%7BEldritch%20Abomination%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Priest Hood\)\[M\]{Eldritch Abomination}](./)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Hood)[M]{Eldritch Abomination} standing" />
 

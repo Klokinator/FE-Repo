@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED 2.0\)\[M\]{Team SALVAGED}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D)
+# [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED 2.0\)\[M\]{Team SALVAGED}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED 2.0)[M]{Team SALVAGED} standing" />
 

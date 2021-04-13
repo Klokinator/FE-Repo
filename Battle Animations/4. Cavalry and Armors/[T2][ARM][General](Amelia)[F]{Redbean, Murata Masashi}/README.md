@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D)
+# [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Amelia)[F]{Redbean, Murata Masashi} standing" />
 

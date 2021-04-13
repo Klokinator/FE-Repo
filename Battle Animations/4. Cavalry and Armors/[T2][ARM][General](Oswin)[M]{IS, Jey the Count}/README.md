@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Oswin\)\[M\]{IS, Jey the Count}](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+# [\[T2\]\[ARM\]\[General\]\(Oswin\)\[M\]{IS, Jey the Count}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T2][ARM][General](Oswin)[M]{IS, Jey the Count} standing" />
 

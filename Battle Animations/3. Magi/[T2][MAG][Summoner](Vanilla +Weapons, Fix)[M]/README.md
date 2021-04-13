@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Summoner\]\(Vanilla +Weapons, Fix\)\[M\]](../%5BT2%5D%5BMAG%5D%5BSummoner%5D(Vanilla%20+Weapons,%20Fix)%5BM%5D)
+# [\[T2\]\[MAG\]\[Summoner\]\(Vanilla +Weapons, Fix\)\[M\]](./)
 
 <img src="./3.%20Axe%20%7BSpud,%20TBA%7D/Axe_000.png" alt="[T2][MAG][Summoner](Vanilla +Weapons, Fix)[M] standing" />
 

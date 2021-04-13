@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(FE10-Style\)\[M\]{Flasuban}](../%5BT1%5D%5BLNC%5D%5BSoldier%5D(FE10-Style)%5BM%5D%7BFlasuban%7D)
+# [\[T1\]\[LNC\]\[Soldier\]\(FE10-Style\)\[M\]{Flasuban}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][LNC][Soldier](FE10-Style)[M]{Flasuban} standing" />
 

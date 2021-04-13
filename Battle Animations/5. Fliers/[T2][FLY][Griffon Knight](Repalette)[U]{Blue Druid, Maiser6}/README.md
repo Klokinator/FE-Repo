@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Griffon Knight\]\(Repalette\)\[U\]{Blue Druid, Maiser6}](../%5BT2%5D%5BFLY%5D%5BGriffon%20Knight%5D(Repalette)%5BU%5D%7BBlue%20Druid,%20Maiser6%7D)
+# [\[T2\]\[FLY\]\[Griffon Knight\]\(Repalette\)\[U\]{Blue Druid, Maiser6}](./)
 
 <img src="./1.%20Sword%20(Possibly%20borked)/Sword_000.png" alt="[T2][FLY][Griffon Knight](Repalette)[U]{Blue Druid, Maiser6} standing" />
 

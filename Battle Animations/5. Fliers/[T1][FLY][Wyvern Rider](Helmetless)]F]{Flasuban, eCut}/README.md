@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Helmetless\)\]F\]{Flasuban, eCut}](../%5BT1%5D%5BFLY%5D%5BWyvern%20Rider%5D(Helmetless)%5DF%5D%7BFlasuban,%20eCut%7D)
+# [\[T1\]\[FLY\]\[Wyvern Rider\]\(Helmetless\)\]F\]{Flasuban, eCut}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][FLY][Wyvern Rider](Helmetless)]F]{Flasuban, eCut} standing" />
 

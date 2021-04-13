@@ -1,4 +1,4 @@
-# [\[Thief-Variant\] \[M\] FEDS Thief](../%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief)
+# [\[Thief-Variant\] \[M\] FEDS Thief](./)
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Thief-Variant] [M] FEDS Thief standing" />
 

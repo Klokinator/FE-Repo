@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(Draco Zombie +FE7\)\[U\]](../%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D)
+# [\[T3\]\[MON\]\[Dragon\]\(Draco Zombie +FE7\)\[U\]](./)
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Draco Zombie +FE7)[U] standing" />
 

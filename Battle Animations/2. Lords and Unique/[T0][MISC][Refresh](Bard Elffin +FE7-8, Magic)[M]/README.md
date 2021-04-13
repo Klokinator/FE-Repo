@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Bard Elffin +FE7-8, Magic\)\[M\]](../%5BT0%5D%5BMISC%5D%5BRefresh%5D(Bard%20Elffin%20+FE7-8,%20Magic)%5BM%5D)
+# [\[T0\]\[MISC\]\[Refresh\]\(Bard Elffin +FE7-8, Magic\)\[M\]](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T0][MISC][Refresh](Bard Elffin +FE7-8, Magic)[M] standing" />
 

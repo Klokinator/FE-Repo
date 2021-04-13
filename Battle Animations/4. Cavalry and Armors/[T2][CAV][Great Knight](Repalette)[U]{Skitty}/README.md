@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}](../%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D)
+# [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Repalette)[U]{Skitty} standing" />
 

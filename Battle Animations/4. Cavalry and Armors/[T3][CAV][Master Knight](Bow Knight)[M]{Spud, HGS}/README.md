@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}](./)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T3][CAV][Master Knight](Bow Knight)[M]{Spud, HGS} standing" />
 

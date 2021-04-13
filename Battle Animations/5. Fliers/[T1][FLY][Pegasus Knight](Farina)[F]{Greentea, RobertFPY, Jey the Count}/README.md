@@ -1,4 +1,4 @@
-# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Farina\)\[F\]{Greentea, RobertFPY, Jey the Count}](../%5BT1%5D%5BFLY%5D%5BPegasus%20Knight%5D(Farina)%5BF%5D%7BGreentea,%20RobertFPY,%20Jey%20the%20Count%7D)
+# [\[T1\]\[FLY\]\[Pegasus Knight\]\(Farina\)\[F\]{Greentea, RobertFPY, Jey the Count}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][FLY][Pegasus Knight](Farina)[F]{Greentea, RobertFPY, Jey the Count} standing" />
 

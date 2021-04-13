@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(FE8\)\[F\]{IS, Shin19}](../%5BT1%5D%5BMAG%5D%5BShaman%5D(FE8)%5BF%5D%7BIS,%20Shin19%7D)
+# [\[T1\]\[MAG\]\[Shaman\]\(FE8\)\[F\]{IS, Shin19}](./)
 
 <img src="./6.%20Magic%20(FE8)/Magic_000.png" alt="[T1][MAG][Shaman](FE8)[F]{IS, Shin19} standing" />
 

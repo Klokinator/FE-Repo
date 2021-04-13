@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Cath Repal by Eldritch](../%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch)
+# [\[Thief-Base\] \[F\] Cath Repal by Eldritch](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [F] Cath Repal by Eldritch standing" />
 

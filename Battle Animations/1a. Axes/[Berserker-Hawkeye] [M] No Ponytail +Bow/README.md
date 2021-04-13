@@ -1,4 +1,4 @@
-# [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow](../%5BBerserker-Hawkeye%5D%20%5BM%5D%20No%20Ponytail%20+Bow)
+# [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Hawkeye] [M] No Ponytail +Bow standing" />
 

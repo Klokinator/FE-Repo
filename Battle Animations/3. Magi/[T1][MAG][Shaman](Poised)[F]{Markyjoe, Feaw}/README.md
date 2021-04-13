@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Shaman\]\(Poised\)\[F\]{Markyjoe, Feaw}](../%5BT1%5D%5BMAG%5D%5BShaman%5D(Poised)%5BF%5D%7BMarkyjoe,%20Feaw%7D)
+# [\[T1\]\[MAG\]\[Shaman\]\(Poised\)\[F\]{Markyjoe, Feaw}](./)
 
 <img src="./6.%20Magic%20(FE7)%20%7BMarkyjoe,%20Feaw%7D/Magic_000.png" alt="[T1][MAG][Shaman](Poised)[F]{Markyjoe, Feaw} standing" />
 

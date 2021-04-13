@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Necromancer\]\(Moloch Sorcerer\)\[U\]{Huichelaar, Jono}](../%5BT3%5D%5BMAG%5D%5BNecromancer%5D(Moloch%20Sorcerer)%5BU%5D%7BHuichelaar,%20Jono%7D)
+# [\[T3\]\[MAG\]\[Necromancer\]\(Moloch Sorcerer\)\[U\]{Huichelaar, Jono}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T3][MAG][Necromancer](Moloch Sorcerer)[U]{Huichelaar, Jono} standing" />
 

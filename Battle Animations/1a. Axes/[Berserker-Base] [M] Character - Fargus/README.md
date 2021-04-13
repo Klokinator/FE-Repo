@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[M\] Character - Fargus](../%5BBerserker-Base%5D%20%5BM%5D%20Character%20-%20Fargus)
+# [\[Berserker-Base\] \[M\] Character - Fargus](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Character - Fargus standing" />
 

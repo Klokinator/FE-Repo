@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6}](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
+# [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6}](./)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Sacaen Repalette)[F]{Pikmin1211, Maiser6} standing" />
 

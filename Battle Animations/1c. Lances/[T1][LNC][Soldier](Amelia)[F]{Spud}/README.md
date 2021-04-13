@@ -1,4 +1,4 @@
-# [\[T1\]\[LNC\]\[Soldier\]\(Amelia\)\[F\]{Spud}](../%5BT1%5D%5BLNC%5D%5BSoldier%5D(Amelia)%5BF%5D%7BSpud%7D)
+# [\[T1\]\[LNC\]\[Soldier\]\(Amelia\)\[F\]{Spud}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][LNC][Soldier](Amelia)[F]{Spud} standing" />
 

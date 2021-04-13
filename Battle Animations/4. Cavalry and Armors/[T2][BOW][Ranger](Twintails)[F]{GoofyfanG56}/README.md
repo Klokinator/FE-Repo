@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D)
+# [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Twintails)[F]{GoofyfanG56} standing" />
 

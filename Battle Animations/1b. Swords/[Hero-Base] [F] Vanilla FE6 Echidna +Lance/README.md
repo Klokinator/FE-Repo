@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](../%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance)
+# [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Vanilla FE6 Echidna +Lance standing" />
 

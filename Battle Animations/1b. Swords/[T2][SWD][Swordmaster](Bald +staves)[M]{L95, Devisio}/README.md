@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Bald +staves\)\[M\]{L95, Devisio}](../%5BT2%5D%5BSWD%5D%5BSwordmaster%5D(Bald%20+staves)%5BM%5D%7BL95,%20Devisio%7D)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Bald +staves\)\[M\]{L95, Devisio}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][SWD][Swordmaster](Bald +staves)[M]{L95, Devisio} standing" />
 

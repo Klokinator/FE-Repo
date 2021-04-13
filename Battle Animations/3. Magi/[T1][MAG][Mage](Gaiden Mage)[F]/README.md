@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Mage\]\(Gaiden Mage\)\[F\]](../%5BT1%5D%5BMAG%5D%5BMage%5D(Gaiden%20Mage)%5BF%5D)
+# [\[T1\]\[MAG\]\[Mage\]\(Gaiden Mage\)\[F\]](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Gaiden Mage)[F] standing" />
 

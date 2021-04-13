@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Summoner\]\[F\]{FEGirls}](../%5BT2%5D%5BMAG%5D%5BSummoner%5D%5BF%5D%7BFEGirls%7D)
+# [\[T2\]\[MAG\]\[Summoner\]\[F\]{FEGirls}](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2][MAG][Summoner][F]{FEGirls} standing" />
 

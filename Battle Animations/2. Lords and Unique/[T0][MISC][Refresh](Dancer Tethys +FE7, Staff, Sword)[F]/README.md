@@ -1,4 +1,4 @@
-# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Tethys +FE7, Staff, Sword\)\[F\]](../%5BT0%5D%5BMISC%5D%5BRefresh%5D(Dancer%20Tethys%20+FE7,%20Staff,%20Sword)%5BF%5D)
+# [\[T0\]\[MISC\]\[Refresh\]\(Dancer Tethys +FE7, Staff, Sword\)\[F\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T0][MISC][Refresh](Dancer Tethys +FE7, Staff, Sword)[F] standing" />
 

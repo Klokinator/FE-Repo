@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D)
+# [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight][M]{St jack, Mycahel} standing" />
 

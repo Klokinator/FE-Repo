@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon\)\[U\]{Mercenary Lord, NYZGamer}](../%5BT2%5D%5BLNC%5D%5BHalberdier%5D(Dragoon)%5BU%5D%7BMercenary%20Lord,%20NYZGamer%7D)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Dragoon\)\[U\]{Mercenary Lord, NYZGamer}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T2][LNC][Halberdier](Dragoon)[U]{Mercenary Lord, NYZGamer} standing" />
 

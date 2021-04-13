@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Vanilla +Weapons\)\[F\]{IS, Sephie, belle, St jack}](../%5BT2%5D%5BLRD%5D%5BEirika-Base%5D(Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Vanilla +Weapons\)\[F\]{IS, Sephie, belle, St jack}](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Eirika-Base](Vanilla +Weapons)[F]{IS, Sephie, belle, St jack} standing" />
 

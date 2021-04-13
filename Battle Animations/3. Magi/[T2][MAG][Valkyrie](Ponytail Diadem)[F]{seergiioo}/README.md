@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Valkyrie\]\(Ponytail Diadem\)\[F\]{seergiioo}](../%5BT2%5D%5BMAG%5D%5BValkyrie%5D(Ponytail%20Diadem)%5BF%5D%7Bseergiioo%7D)
+# [\[T2\]\[MAG\]\[Valkyrie\]\(Ponytail Diadem\)\[F\]{seergiioo}](./)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2][MAG][Valkyrie](Ponytail Diadem)[F]{seergiioo} standing" />
 

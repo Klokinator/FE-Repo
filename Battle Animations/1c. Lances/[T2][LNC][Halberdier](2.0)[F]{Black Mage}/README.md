@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(2.0\)\[F\]{Black Mage}](../%5BT2%5D%5BLNC%5D%5BHalberdier%5D(2.0)%5BF%5D%7BBlack%20Mage%7D)
+# [\[T2\]\[LNC\]\[Halberdier\]\(2.0\)\[F\]{Black Mage}](./)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T2][LNC][Halberdier](2.0)[F]{Black Mage} standing" />
 

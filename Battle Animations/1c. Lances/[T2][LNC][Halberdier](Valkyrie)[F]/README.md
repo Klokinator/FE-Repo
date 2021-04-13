@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\(Valkyrie\)\[F\]](../%5BT2%5D%5BLNC%5D%5BHalberdier%5D(Valkyrie)%5BF%5D)
+# [\[T2\]\[LNC\]\[Halberdier\]\(Valkyrie\)\[F\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LNC][Halberdier](Valkyrie)[F] standing" />
 

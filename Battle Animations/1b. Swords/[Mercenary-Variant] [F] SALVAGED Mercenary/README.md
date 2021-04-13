@@ -1,4 +1,4 @@
-# [\[Mercenary-Variant\] \[F\] SALVAGED Mercenary](../%5BMercenary-Variant%5D%20%5BF%5D%20SALVAGED%20Mercenary)
+# [\[Mercenary-Variant\] \[F\] SALVAGED Mercenary](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [F] SALVAGED Mercenary standing" />
 

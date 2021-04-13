@@ -1,4 +1,4 @@
-# [\[T0\]\[BOW\]\[Ballista\]\(Wolt\)\[M\]{St jack}](../%5BT0%5D%5BBOW%5D%5BBallista%5D(Wolt)%5BM%5D%7BSt%20jack%7D)
+# [\[T0\]\[BOW\]\[Ballista\]\(Wolt\)\[M\]{St jack}](./)
 
 <img src="./5.%20Bow%20(Ballista)/Bow_000.png" alt="[T0][BOW][Ballista](Wolt)[M]{St jack} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Hector-Base\]\(Vanilla +Sword +Axe Punch Crit\)\[M\]](../%5BT1%5D%5BLRD%5D%5BHector-Base%5D(Vanilla%20+Sword%20+Axe%20Punch%20Crit)%5BM%5D)
+# [\[T1\]\[LRD\]\[Hector-Base\]\(Vanilla +Sword +Axe Punch Crit\)\[M\]](./)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Hector-Base](Vanilla +Sword +Axe Punch Crit)[M] standing" />
 

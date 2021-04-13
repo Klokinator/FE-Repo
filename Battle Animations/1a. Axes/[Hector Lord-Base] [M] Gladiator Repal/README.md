@@ -1,4 +1,4 @@
-# [\[Hector Lord-Base\] \[M\] Gladiator Repal](../%5BHector%20Lord-Base%5D%20%5BM%5D%20Gladiator%20Repal)
+# [\[Hector Lord-Base\] \[M\] Gladiator Repal](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Hector Lord-Base] [M] Gladiator Repal standing" />
 

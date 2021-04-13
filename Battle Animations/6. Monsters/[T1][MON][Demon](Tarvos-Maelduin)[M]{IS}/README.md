@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Demon\]\(Tarvos-Maelduin\)\[M\]{IS}](../%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D)
+# [\[T1\]\[MON\]\[Demon\]\(Tarvos-Maelduin\)\[M\]{IS}](./)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T1][MON][Demon](Tarvos-Maelduin)[M]{IS} standing" />
 

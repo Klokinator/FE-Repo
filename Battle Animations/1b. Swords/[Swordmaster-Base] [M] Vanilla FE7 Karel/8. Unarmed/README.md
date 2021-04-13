@@ -2,7 +2,7 @@
 
 ## Credit
 
-
+Vanilla animation by IS.
 	
 ## Unarmed
 

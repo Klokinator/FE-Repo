@@ -5,7 +5,9 @@
 ## Credits
 
 Vanilla Mercenary by IS. (Sword, Unarmed)
+
 Greatsword by SD9K.
+
 Axe and Handaxe by PrincessKilvas.
 
 ## Weapons

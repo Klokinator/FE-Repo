@@ -4,7 +4,7 @@
 
 Made by Aruka, Kenpuhu.
 
-Missing an unarmed animation.
+Note that this animation is very choppy and could use community improvement. It's also missing an unarmed animation.
 	
 ## Sword
 

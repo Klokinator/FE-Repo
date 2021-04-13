@@ -1292,22 +1292,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BEirika-Variant%5D%20%5BF%5D%20Beta%20Eirika/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BEirika-Variant%5D%20%5BF%5D%20Beta%20Eirika/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Base\] \[F\] Armored +Pants by Nuramon](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon)
+### [\[Hero-Base\] \[F\] Generic +Basic Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Basic%20Shield/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Basic%20Shield)
 
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Armored +Pants by Nuramon standing" />
-
-
-#### Weapons
-
-
-|Sword |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Hero-Base\] \[F\] Armored +Short Hair by Nuramon](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon)
-
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Armored +Short Hair by Nuramon standing" />
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Basic%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic +Basic Shield standing" />
 
 
 #### Weapons
@@ -1315,25 +1302,12 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Basic%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Basic%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Basic%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Basic%20Shield/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Base\] \[F\] Armored +Skirt by Nuramon](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon)
+### [\[Hero-Base\] \[F\] Generic +Blue Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Blue%20Shield/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Blue%20Shield)
 
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Armored +Skirt by Nuramon standing" />
-
-
-#### Weapons
-
-
-|Sword |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Hero-Base\] \[F\] Generic -Basic Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Basic%20Shield/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Basic%20Shield)
-
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Basic%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic -Basic Shield standing" />
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Blue%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic +Blue Shield standing" />
 
 
 #### Weapons
@@ -1341,25 +1315,12 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Basic%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Basic%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Basic%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Basic%20Shield/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Blue%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Blue%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Blue%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Blue%20Shield/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Base\] \[F\] Generic -Blue Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Blue%20Shield/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Blue%20Shield)
+### [\[Hero-Base\] \[F\] Generic +Brown Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Brown%20Shield/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Brown%20Shield)
 
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Blue%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic -Blue Shield standing" />
-
-
-#### Weapons
-
-
-|Sword |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Blue%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Blue%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Blue%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Blue%20Shield/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Hero-Base\] \[F\] Generic -Brown Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Brown%20Shield/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Brown%20Shield)
-
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Brown%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic -Brown Shield standing" />
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Brown%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic +Brown Shield standing" />
 
 
 #### Weapons
@@ -1367,7 +1328,7 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Brown%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Brown%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Brown%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20-Brown%20Shield/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Brown%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Brown%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Brown%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Generic%20+Brown%20Shield/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance)
@@ -1383,9 +1344,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Base\] \[M\] FE7 Armor +Basic Shield +Lance](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance)
+### [\[Hero-Base\] \[M\] FE7 Armor +Basic Shield \(Vanilla\) +Lance](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance)
 
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] FE7 Armor +Basic Shield +Lance standing" />
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] FE7 Armor +Basic Shield (Vanilla) +Lance standing" />
 
 
 #### Weapons
@@ -1393,7 +1354,7 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20+Lance/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Basic%20Shield%20(Vanilla)%20+Lance/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Hero-Base\] \[M\] FE7 Armor +Blue Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Blue%20Shield/%5BHero-Base%5D%20%5BM%5D%20FE7%20Armor%20+Blue%20Shield)
@@ -1461,22 +1422,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Coat%20+Brown%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Coat%20+Brown%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Coat%20+Brown%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20FE7%20Coat%20+Brown%20Shield/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Base\] \[M\] Raven Armor Coat -Blue Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Blue%20Shield/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Blue%20Shield)
+### [\[Hero-Base\] \[M\] Raven Armor Coat +Basic Shield \(Vanilla\)](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Basic%20Shield%20(Vanilla)/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Basic%20Shield%20(Vanilla))
 
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Blue%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Raven Armor Coat -Blue Shield standing" />
-
-
-#### Weapons
-
-
-|Sword |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Blue%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Blue%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Blue%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Blue%20Shield/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Hero-Base\] \[M\] Raven Armor Coat -Brown Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Brown%20Shield/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Brown%20Shield)
-
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Brown%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Raven Armor Coat -Brown Shield standing" />
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Basic%20Shield%20(Vanilla)/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Raven Armor Coat +Basic Shield (Vanilla) standing" />
 
 
 #### Weapons
@@ -1484,25 +1432,12 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Brown%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Brown%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Brown%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20-Brown%20Shield/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Basic%20Shield%20(Vanilla)/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Basic%20Shield%20(Vanilla)/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Basic%20Shield%20(Vanilla)/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Basic%20Shield%20(Vanilla)/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Base\] \[M\] Vanilla FE6 -Basic Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20-Basic%20Shield/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20-Basic%20Shield)
+### [\[Hero-Base\] \[M\] Raven Armor Coat +Blue Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Blue%20Shield/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Blue%20Shield)
 
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20-Basic%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Vanilla FE6 -Basic Shield standing" />
-
-
-#### Weapons
-
-
-|Sword |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20-Basic%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20-Basic%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20-Basic%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20-Basic%20Shield/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Hero-Base\] \[M\] Vanilla FE7 Armor Coat -Basic Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Armor%20Coat%20-Basic%20Shield/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Armor%20Coat%20-Basic%20Shield)
-
-<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Armor%20Coat%20-Basic%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Vanilla FE7 Armor Coat -Basic Shield standing" />
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Blue%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Raven Armor Coat +Blue Shield standing" />
 
 
 #### Weapons
@@ -1510,7 +1445,72 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Armor%20Coat%20-Basic%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Armor%20Coat%20-Basic%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Armor%20Coat%20-Basic%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Armor%20Coat%20-Basic%20Shield/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Blue%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Blue%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Blue%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Blue%20Shield/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Hero-Base\] \[M\] Raven Armor Coat +Brown Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Brown%20Shield/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Brown%20Shield)
+
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Brown%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Raven Armor Coat +Brown Shield standing" />
+
+
+#### Weapons
+
+
+|Sword |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Brown%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Brown%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Brown%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Raven%20Armor%20Coat%20+Brown%20Shield/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Hero-Base\] \[M\] Vanilla FE6 +Basic Shield](./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Basic%20Shield/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Basic%20Shield)
+
+<img src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Basic%20Shield/1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Vanilla FE6 +Basic Shield standing" />
+
+
+#### Weapons
+
+
+|Sword |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Basic%20Shield/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Basic%20Shield/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Basic%20Shield/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Basic%20Shield/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Hero-Variant\] \[F\] Armored +Pants by Nuramon](./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon)
+
+<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [F] Armored +Pants by Nuramon standing" />
+
+
+#### Weapons
+
+
+|Sword |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Hero-Variant\] \[F\] Armored +Short Hair by Nuramon](./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon)
+
+<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [F] Armored +Short Hair by Nuramon standing" />
+
+
+#### Weapons
+
+
+|Sword |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Short%20Hair%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Hero-Variant\] \[F\] Armored +Skirt by Nuramon](./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon)
+
+<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [F] Armored +Skirt by Nuramon standing" />
+
+
+#### Weapons
+
+
+|Sword |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Skirt%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Hero-Variant\] \[F\] Echidna by Redbean](./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean/%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean)
@@ -1539,9 +1539,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean%20-%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean%20-%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean%20-%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean%20-%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Variant\] \[M\] Armored](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored/%5BHero-Variant%5D%20%5BM%5D%20Armored)
+### [\[Hero-Variant\] \[M\] Armored by Nuramon](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon)
 
-<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Armored standing" />
+<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Armored by Nuramon standing" />
 
 
 #### Weapons
@@ -1549,12 +1549,12 @@
 
 |Sword |Axe |Handaxe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored/4.%20Handaxe/Handaxe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored/4.%20Handaxe%20(Spin)/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe%20(Spin)/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Hero-Variant\] \[M\] Armored Gerik](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik)
+### [\[Hero-Variant\] \[M\] Armored Gerik by Nuramon](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon)
 
-<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Armored Gerik standing" />
+<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Armored Gerik by Nuramon standing" />
 
 
 #### Weapons
@@ -1562,7 +1562,7 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Hero-Variant\] \[M\] Caellach by Aruka](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka)
@@ -1578,9 +1578,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/3.%20Axe/Axe.gif" /> |
 
 
-### [\[Hero-Variant\] \[M\] Champion](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Champion/%5BHero-Variant%5D%20%5BM%5D%20Champion)
+### [\[Hero-Variant\] \[M\] Champion by Aruka](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka/%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka)
 
-<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Champion/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Champion standing" />
+<img src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Champion by Aruka standing" />
 
 
 #### Weapons
@@ -1588,7 +1588,7 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Champion/1.%20Sword/Sword.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka/1.%20Sword/Sword.gif" /> |
 
 
 ### [\[Hero-Variant\] \[M\] Linus Heavy-Sword by Greentea](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea)
@@ -1599,9 +1599,9 @@
 #### Weapons
 
 
-|Sword |Axe |Handaxe |Legendary |Legendary |Unarmed |Palettes |
-|  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/4.%20Handaxe/Handaxe.gif" /> | <img alt="Legendary animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/8.%20Legendary%20(Basilikos)/Legendary.gif" /> | <img alt="Legendary animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/8.%20Legendary%20(Durandal)/Legendary.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/Palettes/Palettes.gif" /> |
+|Sword |Sword |Axe |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/1.%20Sword%20(Durandal)/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/3.%20Axe/Axe.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/3.%20Axe%20(Basilikos)/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Hero-Variant\] \[M\] Linus Swift-Sword by Greentea](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Swift-Sword%20by%20Greentea/%5BHero-Variant%5D%20%5BM%5D%20Linus%20Swift-Sword%20by%20Greentea)
@@ -1708,22 +1708,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BLyn-Variant%5D%20%5BM%5D%20Izarck%20by%20Yangfly/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BLyn-Variant%5D%20%5BM%5D%20Izarck%20by%20Yangfly/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Mercenary-Base\] \[F\] Skinny Merc](./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc)
+### [\[Mercenary-Base\] \[F\] Skinny Merc by Russel Clark](./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark)
 
-<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [F] Skinny Merc standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Mercenary-Base\] \[F\] Vanilla-Style](./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style)
-
-<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [F] Vanilla-Style standing" />
+<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [F] Skinny Merc by Russel Clark standing" />
 
 
 #### Weapons
@@ -1731,12 +1718,25 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Mercenary-Base\] \[M\] Armored +Axe](./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe)
+### [\[Mercenary-Base\] \[F\] Vanilla-Style by TBA](./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style%20by%20TBA/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style%20by%20TBA)
 
-<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Armored +Axe standing" />
+<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [F] Vanilla-Style by TBA standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style%20by%20TBA/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style%20by%20TBA/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Mercenary-Base\] \[M\] Armored +Axe by Alusq](./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq)
+
+<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Armored +Axe by Alusq standing" />
 
 
 #### Weapons
@@ -1744,25 +1744,12 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Mercenary-Base\] \[M\] Eldritch's Repal](./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Eldritch's%20Repal/%5BMercenary-Base%5D%20%5BM%5D%20Eldritch's%20Repal)
+### [\[Mercenary-Base\] \[M\] Repal by Eldritch](./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch)
 
-<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Eldritch's%20Repal/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Eldritch's Repal standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Eldritch's%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Eldritch's%20Repal/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Mercenary-Base\] \[M\] Skitty's Repal](./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Skitty's%20Repal/%5BMercenary-Base%5D%20%5BM%5D%20Skitty's%20Repal)
-
-<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Skitty's%20Repal/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Skitty's Repal standing" />
+<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Repal by Eldritch standing" />
 
 
 #### Weapons
@@ -1770,7 +1757,20 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Skitty's%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Skitty's%20Repal/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Mercenary-Base\] \[M\] Repal by Skitty](./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty)
+
+<img src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Repal by Skitty standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Mercenary-Base\] \[M\] Vanilla FE6](./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6)
@@ -1799,9 +1799,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword%20(Greatsword)/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Mercenary-Case\] \[F\] Long-Haired Tunic](./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic)
+### [\[Mercenary-Case\] \[F\] Long-Haired Tunic by Serragirl](./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl)
 
-<img src="./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic/1.%20Sword/Sword_000.png" alt="[Mercenary-Case] [F] Long-Haired Tunic standing" />
+<img src="./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl/1.%20Sword/Sword_000.png" alt="[Mercenary-Case] [F] Long-Haired Tunic by Serragirl standing" />
 
 
 #### Weapons
@@ -1809,7 +1809,7 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMercenary-Case%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Mercenary-Variant\] \[F\] Mercenary by SALVAGED](./1b.%20Swords/%5BMercenary-Variant%5D%20%5BF%5D%20Mercenary%20by%20SALVAGED/%5BMercenary-Variant%5D%20%5BF%5D%20Mercenary%20by%20SALVAGED)
@@ -2020,9 +2020,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Non-FE\] \[F\] Valkyrie Aegina \(Yggdra\)](./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20(Yggdra)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20(Yggdra))
+### [\[Non-FE\] \[F\] Valkyrie Aegina by Aruka \(Yggdra\)](./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra))
 
-<img src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20(Yggdra)/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Valkyrie Aegina (Yggdra) standing" />
+<img src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Valkyrie Aegina by Aruka (Yggdra) standing" />
 
 
 #### Weapons
@@ -2030,7 +2030,20 @@
 
 |Sword |Staff |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20(Yggdra)/7.%20Staff/Staff.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Non-FE\] \[F\] Valkyrie Generic by Aruka \(Yggdra\)](./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra))
+
+<img src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Valkyrie Generic by Aruka (Yggdra) standing" />
+
+
+#### Weapons
+
+
+|Sword |Staff |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/7.%20Staff/Staff.gif" /> |
 
 
 ### [\[Rogue-Base\] \[F\] FE7if Katt](./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20FE7if%20Katt/%5BRogue-Base%5D%20%5BF%5D%20FE7if%20Katt)
@@ -2072,6 +2085,19 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Ponytail%20by%20Temp/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Ponytail%20by%20Temp/8.%20Unarmed/Unarmed.gif" /> |
 
 
+### [\[Rogue-Base\] \[F\] Repal +Staff \(Community Effort\)](./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort))
+
+<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Repal +Staff (Community Effort) standing" />
+
+
+#### Weapons
+
+
+|Sword |Sword |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ### [\[Rogue-Base\] \[F\] Repal +Staff by Feaw](./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw)
 
 <img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Repal +Staff by Feaw standing" />
@@ -2085,22 +2111,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Rogue-Base\] \[F\] Repalette Upgrade +Staff](./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repalette%20Upgrade%20+Staff/%5BRogue-Base%5D%20%5BF%5D%20Repalette%20Upgrade%20+Staff)
+### [\[Rogue-Base\] \[F\] Repal +Staff Catgirl \(Community Effort\)](./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort))
 
-<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repalette%20Upgrade%20+Staff/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Repalette Upgrade +Staff standing" />
-
-
-#### Weapons
-
-
-|Sword |Sword |Staff |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repalette%20Upgrade%20+Staff/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repalette%20Upgrade%20+Staff/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repalette%20Upgrade%20+Staff/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repalette%20Upgrade%20+Staff/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Rogue-Base\] \[F\] Sme's Catgirl Repalette +Staff](./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff/%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff)
-
-<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Sme's Catgirl Repalette +Staff standing" />
+<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Repal +Staff Catgirl (Community Effort) standing" />
 
 
 #### Weapons
@@ -2108,25 +2121,12 @@
 
 |Sword |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Rogue-Base\] \[F\] Trickster by Aruka](./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Trickster%20by%20Aruka/%5BRogue-Base%5D%20%5BF%5D%20Trickster%20by%20Aruka)
+### [\[Rogue-Base\] \[M\] Repal +Staff \(Community Effort\)](./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort))
 
-<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Trickster%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Trickster by Aruka standing" />
-
-
-#### Weapons
-
-
-|Sword |Staff |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Trickster%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BF%5D%20Trickster%20by%20Aruka/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Rogue-Base\] \[M\] Repalette Upgrade +Staff](./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repalette%20Upgrade%20+Staff/%5BRogue-Base%5D%20%5BM%5D%20Repalette%20Upgrade%20+Staff)
-
-<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repalette%20Upgrade%20+Staff/1.%20Knife/Knife_000.png" alt="[Rogue-Base] [M] Repalette Upgrade +Staff standing" />
+<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Knife/Knife_000.png" alt="[Rogue-Base] [M] Repal +Staff (Community Effort) standing" />
 
 
 #### Weapons
@@ -2134,7 +2134,20 @@
 
 |Knife |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Knife animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repalette%20Upgrade%20+Staff/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repalette%20Upgrade%20+Staff/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repalette%20Upgrade%20+Staff/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repalette%20Upgrade%20+Staff/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Knife animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Rogue-Base\] \[M\] Repal by Eldritch](./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch)
+
+<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [M] Repal by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Sword |Sword |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Rogue-Base\] \[M\] Trickster by Leo_Link](./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/%5BRogue-Base%5D%20%5BM%5D%20Trickster%20by%20Leo_Link)
@@ -2163,22 +2176,9 @@
 | <img alt="Knife animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Rogue-Base\] \[U\] Repal by Eldritch](./1b.%20Swords/%5BRogue-Base%5D%20%5BU%5D%20Repal%20by%20Eldritch/%5BRogue-Base%5D%20%5BU%5D%20Repal%20by%20Eldritch)
+### [\[Roy-Variant\] \[M\] Squire by Yangfly](./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Squire%20by%20Yangfly/%5BRoy-Variant%5D%20%5BM%5D%20Squire%20by%20Yangfly)
 
-<img src="./1b.%20Swords/%5BRogue-Base%5D%20%5BU%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Rogue-Base] [U] Repal by Eldritch standing" />
-
-
-#### Weapons
-
-
-|Sword |Sword |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BU%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BU%5D%20Repal%20by%20Eldritch/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRogue-Base%5D%20%5BU%5D%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Roy-Variant\] \[M\] Yangfly's Squire](./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Yangfly's%20Squire/%5BRoy-Variant%5D%20%5BM%5D%20Yangfly's%20Squire)
-
-<img src="./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Yangfly's%20Squire/1.%20Sword/Sword_000.png" alt="[Roy-Variant] [M] Yangfly's Squire standing" />
+<img src="./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Squire%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Roy-Variant] [M] Squire by Yangfly standing" />
 
 
 #### Weapons
@@ -2186,7 +2186,7 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Yangfly's%20Squire/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Yangfly's%20Squire/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Squire%20by%20Yangfly/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BRoy-Variant%5D%20%5BM%5D%20Squire%20by%20Yangfly/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Sniper-Base\] \[F\] Adventurer by ZoramineFae](./1b.%20Swords/%5BSniper-Base%5D%20%5BF%5D%20Adventurer%20by%20ZoramineFae/%5BSniper-Base%5D%20%5BF%5D%20Adventurer%20by%20ZoramineFae)
@@ -2213,19 +2213,6 @@
 |Bow |Staff |
 |  :---: | :---: |
 | <img alt="Bow animation" src="./1b.%20Swords/%5BSniper-Base%5D%20%5BM%5D%20Adventurer%20by%20ZoramineFae/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BSniper-Base%5D%20%5BM%5D%20Adventurer%20by%20ZoramineFae/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Swordmaster-Base\] \[F\] Fir by Redbean](./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BF%5D%20Fir%20by%20Redbean/%5BSwordmaster-Base%5D%20%5BF%5D%20Fir%20by%20Redbean)
-
-<img src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [F] Fir by Redbean standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BF%5D%20Fir%20by%20Redbean/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Swordmaster-Base\] \[F\] Karla by Greentea](./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BF%5D%20Karla%20by%20Greentea/%5BSwordmaster-Base%5D%20%5BF%5D%20Karla%20by%20Greentea)
@@ -2332,19 +2319,6 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Bald%20+Staves/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Bald%20+Staves/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Bald%20+Staves/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Swordmaster-Base\] \[M\] FE10-Style by TBA](./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20FE10-Style%20by%20TBA/%5BSwordmaster-Base%5D%20%5BM%5D%20FE10-Style%20by%20TBA)
-
-<img src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] FE10-Style by TBA standing" />
-
-
-#### Weapons
-
-
-|Sword |Sword |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword%20(Alt%20Crit)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20FE10-Style%20by%20TBA/8.%20Unarmed/Unarmed.gif" /> |
-
-
 ### [\[Swordmaster-Base\] \[M\] Guy by Eldritch](./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Guy%20by%20Eldritch/%5BSwordmaster-Base%5D%20%5BM%5D%20Guy%20by%20Eldritch)
 
 <img src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Guy%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Guy by Eldritch standing" />
@@ -2382,32 +2356,6 @@
 |Sword |Unarmed |
 |  :---: | :---: |
 | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Swordmaster-Base\] \[M\] Karel by Greentea](./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Karel%20by%20Greentea/%5BSwordmaster-Base%5D%20%5BM%5D%20Karel%20by%20Greentea)
-
-<img src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Karel%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Karel by Greentea standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Karel%20by%20Greentea/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Karel%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Swordmaster-Base\] \[M\] Trueblade by Dinar87](./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/%5BSwordmaster-Base%5D%20%5BM%5D%20Trueblade%20by%20Dinar87)
-
-<img src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Trueblade by Dinar87 standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Swordmaster-Base\] \[M\] Vanilla FE6](./1b.%20Swords/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6)
@@ -2488,6 +2436,19 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%201)/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%202)/Sword.gif" /> |
 
 
+### [\[Swordmaster-Variant\] \[F\] Fir by Redbean](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean)
+
+<img src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [F] Fir by Redbean standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ### [\[Swordmaster-Variant\] \[F\] Marisa by Aruka](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka)
 
 <img src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [F] Marisa by Aruka standing" />
@@ -2512,6 +2473,19 @@
 |Sword |
 |  :---: |
 | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA)
+
+<img src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] FE10-Style by TBA standing" />
+
+
+#### Weapons
+
+
+|Sword |Sword |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword%20(Alt%20Crit)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Swordmaster-Variant\] \[M\] Joshua by Aruka](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka/%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka)
@@ -2548,9 +2522,22 @@
 #### Weapons
 
 
-|Sword |Sword |Sword |Sword |Unarmed |Palettes |
-|  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Shaky%20Critical)/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Frenzy%20Critical)/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Frenzy%20Shaky%20Critical)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/Palettes/Palettes.gif" /> |
+|Sword |Sword |Sword |Sword |Unarmed |
+|  :---: | :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Shaky%20Critical)/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Frenzy%20Critical)/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Frenzy%20Shaky%20Critical)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Swordmaster-Variant\] \[M\] Stefan by Greentea](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea)
+
+<img src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Stefan by Greentea standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Swordmaster-Variant\] \[M\] Stefan by Solusaeternus](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus/%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus)
@@ -2579,17 +2566,30 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword/Sword.gif" /> |
 
 
-### [\[Swordmaster-Variant\] \[M\] Trueblade by Greentea](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Greentea/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Greentea)
+### [\[Swordmaster-Variant\] \[M\] Trueblade by Dinar87](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87)
 
-<img src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Trueblade by Greentea standing" />
+<img src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Trueblade by Dinar87 standing" />
 
 
 #### Weapons
 
 
-|Sword |Palettes |
+|Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Greentea/1.%20Sword/Sword.gif" /> | <img alt="Palettes animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Greentea/Palettes/Palettes.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Swordmaster-Variant\] \[M\] Trueblade by Mycahel](./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel)
+
+<img src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Trueblade by Mycahel standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/1.%20Sword/Sword.gif" /> |
 
 
 ### [\[Thief-Base\] \[F\] Cath Repal by Eldritch](./1b.%20Swords/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch)
@@ -2696,9 +2696,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Thief-Base\] \[M\] Character - Jaffar](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Jaffar/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Jaffar)
+### [\[Thief-Base\] \[M\] Hooded by Solum](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded%20by%20Solum/%5BThief-Base%5D%20%5BM%5D%20Hooded%20by%20Solum)
 
-<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Jaffar/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Character - Jaffar standing" />
+<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded%20by%20Solum/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Hooded by Solum standing" />
 
 
 #### Weapons
@@ -2706,12 +2706,25 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Jaffar/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Jaffar/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded%20by%20Solum/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded%20by%20Solum/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Thief-Base\] \[M\] Character - Legault Repal +Knife](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Legault%20Repal%20+Knife/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Legault%20Repal%20+Knife)
+### [\[Thief-Base\] \[M\] Jaffar by JonoTheRed](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Jaffar%20by%20JonoTheRed/%5BThief-Base%5D%20%5BM%5D%20Jaffar%20by%20JonoTheRed)
 
-<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Legault%20Repal%20+Knife/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Character - Legault Repal +Knife standing" />
+<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Jaffar%20by%20JonoTheRed/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Jaffar by JonoTheRed standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Jaffar%20by%20JonoTheRed/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Jaffar%20by%20JonoTheRed/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Thief-Base\] \[M\] Legault Repal by GabrielKnight +Knife](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Legault%20Repal%20by%20GabrielKnight%20+Knife/%5BThief-Base%5D%20%5BM%5D%20Legault%20Repal%20by%20GabrielKnight%20+Knife)
+
+<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Legault%20Repal%20by%20GabrielKnight%20+Knife/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Legault Repal by GabrielKnight +Knife standing" />
 
 
 #### Weapons
@@ -2719,12 +2732,12 @@
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Legault%20Repal%20+Knife/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Legault%20Repal%20+Knife/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Legault%20Repal%20+Knife/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Legault%20Repal%20by%20GabrielKnight%20+Knife/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Legault%20Repal%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Legault%20Repal%20by%20GabrielKnight%20+Knife/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Thief-Base\] \[M\] Character Matthew +Knife](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20+Knife/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20+Knife)
+### [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife)
 
-<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20+Knife/1.%20Sword%20(Knife%20Throw%20(Updated))/Sword_000.png" alt="[Thief-Base] [M] Character Matthew +Knife standing" />
+<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife%20Throw%20(Updated))/Sword_000.png" alt="[Thief-Base] [M] Matthew by GabrielKnight +Knife standing" />
 
 
 #### Weapons
@@ -2732,12 +2745,25 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20+Knife/1.%20Sword%20(Knife%20Throw%20(Updated))/Sword.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife%20Throw%20(Updated))/Sword.gif" /> |
 
 
-### [\[Thief-Base\] \[M\] Character Matthew Repal +Knife](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife)
+### [\[Thief-Base\] \[M\] Matthew Repal by Eldritch](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch)
 
-<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife/1.%20Knife/Knife_000.png" alt="[Thief-Base] [M] Character Matthew Repal +Knife standing" />
+<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Matthew Repal by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Thief-Base\] \[M\] Matthew Repal by Pikmin +Knife](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife)
+
+<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/1.%20Knife/Knife_000.png" alt="[Thief-Base] [M] Matthew Repal by Pikmin +Knife standing" />
 
 
 #### Weapons
@@ -2745,33 +2771,7 @@
 
 |Knife |Sword |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Knife animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Thief-Base\] \[M\] Character Matthew Repal Alt](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20Alt/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20Alt)
-
-<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20Alt/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Character Matthew Repal Alt standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20Alt/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20Alt/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Thief-Base\] \[M\] Hooded](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded/%5BThief-Base%5D%20%5BM%5D%20Hooded)
-
-<img src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded/1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Hooded standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Hooded/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Knife animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Thief-Base\] \[M\] Vanilla FE7 Legault](./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault/%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault)
@@ -2800,9 +2800,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Matthew/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Matthew/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Thief-Variant\] \[M\] FEDS Thief](./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief)
+### [\[Thief-Variant\] \[M\] FEDS Thief by DerTheVaporeon](./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon)
 
-<img src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief/1.%20Knife/Knife_000.png" alt="[Thief-Variant] [M] FEDS Thief standing" />
+<img src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Knife/Knife_000.png" alt="[Thief-Variant] [M] FEDS Thief by DerTheVaporeon standing" />
 
 
 #### Weapons
@@ -2810,7 +2810,7 @@
 
 |Knife |Sword |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Knife animation" src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Knife animation" src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/8.%20Unarmed/Unarmed.gif" /> |
 
 
 

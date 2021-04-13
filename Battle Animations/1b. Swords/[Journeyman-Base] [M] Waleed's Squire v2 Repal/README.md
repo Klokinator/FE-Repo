@@ -6,7 +6,7 @@
 
 Made by Waleed.
 
-Missing an Unarmed animation.
+Note that despite being an improved repalette, this folder is missing an Unarmed animation.
 
 ## Weapons
 

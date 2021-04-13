@@ -4,7 +4,9 @@
 
 ## Credits
 
+Original sprite by Iscaneus.
 
+Animated by Leo_Link.
 
 ## Weapons
 

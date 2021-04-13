@@ -4,7 +4,7 @@
 
 ## Credits
 
-
+Vanilla animation by IS.
 
 ## Weapons
 

@@ -5,6 +5,7 @@
 ## Credits
 
 Base animation by IS.
+
 Bow by N426.
 
 ## Weapons

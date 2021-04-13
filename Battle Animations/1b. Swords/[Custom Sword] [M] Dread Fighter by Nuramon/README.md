@@ -4,7 +4,7 @@
 
 ## Credits
 
-
+Made by Nuramon.
 
 ## Weapons
 

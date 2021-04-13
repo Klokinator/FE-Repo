@@ -3,6 +3,7 @@
 ## Credit
 
 Base animation by IS.
+
 Bow by N426.
 	
 ## Bow

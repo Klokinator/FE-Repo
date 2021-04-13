@@ -4,7 +4,9 @@
 
 ## Credits
 
-{Aruka, Kenpuhu}
+Animation by Aruka, Kenpuhu.
+
+Note that this animation is very choppy and could use community improvement.
 
 ## Weapons
 

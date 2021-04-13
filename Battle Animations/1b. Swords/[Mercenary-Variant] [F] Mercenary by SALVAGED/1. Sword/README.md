@@ -2,7 +2,8 @@
 
 ## Credit
 
-Male base made by Team SALVAGED. 
+Male base made by Team SALVAGED.
+
 Female variant by Jey the Count.
 	
 ## Sword

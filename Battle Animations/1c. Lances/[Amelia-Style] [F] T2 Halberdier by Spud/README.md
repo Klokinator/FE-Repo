@@ -1,6 +1,6 @@
-# [\[Amelia-Style\] \[F\] T2 Amelia by Spud](./)
+# [\[Amelia-Style\] \[F\] T2 Halberdier by Spud](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T2 Amelia by Spud standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T2 Halberdier by Spud standing" />
 
 ## Credits
 

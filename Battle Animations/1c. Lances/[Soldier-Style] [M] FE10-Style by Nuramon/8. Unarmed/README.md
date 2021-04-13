@@ -1,4 +1,4 @@
-# [\[Soldier-Variant\] \[M\] FE10-Style by Nuramon]
+# [\[Soldier-Style\] \[M\] FE10-Style by Nuramon]
 
 ## Credit
 

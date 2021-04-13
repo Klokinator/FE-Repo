@@ -1,4 +1,4 @@
-# [\[Amelia-Style\] \[F\] T0 Repal by Spud]
+# [\[Amelia-Style\] \[F\] T0 Recruit Repal by Spud]
 
 ## Credit
 

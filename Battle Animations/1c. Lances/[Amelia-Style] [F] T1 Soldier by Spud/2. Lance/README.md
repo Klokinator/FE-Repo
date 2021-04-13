@@ -1,4 +1,4 @@
-# [\[Amelia-Style\] \[F\] T1 Soldier Amelia by Spud]
+# [\[Amelia-Style\] \[F\] T1 Soldier by Spud]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Amelia-Style\] \[F\] T0 Repal by Spud](./)
+# [\[Amelia-Style\] \[F\] T0 Recruit Repal by Spud](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T0 Repal by Spud standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T0 Recruit Repal by Spud standing" />
 
 ## Credits
 

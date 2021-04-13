@@ -1,21 +1,8 @@
 # [1c. Lances Battle Animations](./)
 
-## [\[Amelia-Style\] \[F\] T0 Repal by Spud](./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Repal%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Repal%20by%20Spud)
+## [\[Amelia-Style\] \[F\] T0 Recruit Repal by Spud](./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
 
-<img src="./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Repal%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T0 Repal by Spud standing" />
-
-
-### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Repal%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Repal%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Amelia-Style\] \[F\] T1 Soldier Amelia by Spud](./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20Amelia%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20Amelia%20by%20Spud)
-
-<img src="./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20Amelia%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T1 Soldier Amelia by Spud standing" />
+<img src="./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T0 Recruit Repal by Spud standing" />
 
 
 ### Weapons
@@ -23,12 +10,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20Amelia%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20Amelia%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Amelia-Style\] \[F\] T2 Amelia by Spud](./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Amelia%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T2%20Amelia%20by%20Spud)
+## [\[Amelia-Style\] \[F\] T1 Soldier by Spud](./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud)
 
-<img src="./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Amelia%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T2 Amelia by Spud standing" />
+<img src="./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T1 Soldier by Spud standing" />
 
 
 ### Weapons
@@ -36,7 +23,20 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Amelia%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Amelia%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Amelia-Style\] \[F\] T2 Halberdier by Spud](./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud)
+
+<img src="./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T2 Halberdier by Spud standing" />
+
+
+### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Custom Lance\] \[F\] Halberdier by Black Mage](./%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage)
@@ -286,6 +286,19 @@
 | <img alt="Sword animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Soldier-Style\] \[M\] FE10-Style by Nuramon](./%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon)
+
+<img src="./%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance_000.png" alt="[Soldier-Style] [M] FE10-Style by Nuramon standing" />
+
+
+### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Soldier-Variant\] \[F\] Lightweight Lancer by Alusq](./%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq)
 
 <img src="./%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance_000.png" alt="[Soldier-Variant] [F] Lightweight Lancer by Alusq standing" />
@@ -297,19 +310,6 @@
 |Lance |Unarmed |
 |  :---: | :---: |
 | <img alt="Lance animation" src="./%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Soldier-Variant\] \[M\] FE10-Style by Nuramon](./%5BSoldier-Variant%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/%5BSoldier-Variant%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon)
-
-<img src="./%5BSoldier-Variant%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance_000.png" alt="[Soldier-Variant] [M] FE10-Style by Nuramon standing" />
-
-
-### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Soldier-Variant\] \[M\] Lightweight Lancer by Alusq](./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq)

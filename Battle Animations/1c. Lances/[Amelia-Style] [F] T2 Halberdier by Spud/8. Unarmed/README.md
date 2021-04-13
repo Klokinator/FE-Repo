@@ -1,4 +1,4 @@
-# [\[Amelia-Style\] \[F\] T2 Amelia by Spud]
+# [\[Amelia-Style\] \[F\] T2 Halberdier by Spud]
 
 ## Credit
 

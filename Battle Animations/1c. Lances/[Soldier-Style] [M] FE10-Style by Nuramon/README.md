@@ -1,6 +1,6 @@
-# [\[Soldier-Variant\] \[M\] FE10-Style by Nuramon](./)
+# [\[Soldier-Style\] \[M\] FE10-Style by Nuramon](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Soldier-Variant] [M] FE10-Style by Nuramon standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Soldier-Style] [M] FE10-Style by Nuramon standing" />
 
 ## Credits
 

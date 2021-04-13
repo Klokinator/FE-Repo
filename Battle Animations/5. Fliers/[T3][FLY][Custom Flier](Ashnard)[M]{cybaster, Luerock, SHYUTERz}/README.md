@@ -1,4 +1,4 @@
-# [\[T3\]\[FLY\]\[Custom Flier\]\(Ashnard\)\[M\]{cybaster, Luerock, SHYUTERz}](./%5BT3%5D%5BFLY%5D%5BCustom%20Flier%5D(Ashnard)%5BM%5D%7Bcybaster,%20Luerock,%20SHYUTERz%7D)
+# [\[T3\]\[FLY\]\[Custom Flier\]\(Ashnard\)\[M\]{cybaster, Luerock, SHYUTERz}](../%5BT3%5D%5BFLY%5D%5BCustom%20Flier%5D(Ashnard)%5BM%5D%7Bcybaster,%20Luerock,%20SHYUTERz%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][FLY][Custom Flier](Ashnard)[M]{cybaster, Luerock, SHYUTERz} standing" />
 

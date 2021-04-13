@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow\)](./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow))
+# [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow\)](../%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow))
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Vanilla FE6 Ponytail +Bow) standing" />
 

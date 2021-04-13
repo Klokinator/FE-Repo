@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\[M\]{IS, Jey the Count}](./%5BT2%5D%5BLRD%5D%5BLyn-Base%5D%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\[M\]{IS, Jey the Count}](../%5BT2%5D%5BLRD%5D%5BLyn-Base%5D%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Lyn-Base][M]{IS, Jey the Count} standing" />
 

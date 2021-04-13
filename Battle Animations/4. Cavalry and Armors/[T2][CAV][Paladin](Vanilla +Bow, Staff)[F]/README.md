@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Bow, Staff\)\[F\]](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D)
+# [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Bow, Staff\)\[F\]](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Vanilla +Bow, Staff)[F] standing" />
 

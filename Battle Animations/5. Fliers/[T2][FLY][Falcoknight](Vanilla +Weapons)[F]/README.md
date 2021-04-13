@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Falcoknight\]\(Vanilla +Weapons\)\[F\]](./%5BT2%5D%5BFLY%5D%5BFalcoknight%5D(Vanilla%20+Weapons)%5BF%5D)
+# [\[T2\]\[FLY\]\[Falcoknight\]\(Vanilla +Weapons\)\[F\]](../%5BT2%5D%5BFLY%5D%5BFalcoknight%5D(Vanilla%20+Weapons)%5BF%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][FLY][Falcoknight](Vanilla +Weapons)[F] standing" />
 

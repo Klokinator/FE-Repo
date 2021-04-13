@@ -1,4 +1,4 @@
-# [\[Brigand-Variant\] \[M\] Mounted Marauder](./%5BBrigand-Variant%5D%20%5BM%5D%20Mounted%20Marauder)
+# [\[Brigand-Variant\] \[M\] Mounted Marauder](../%5BBrigand-Variant%5D%20%5BM%5D%20Mounted%20Marauder)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Variant] [M] Mounted Marauder standing" />
 

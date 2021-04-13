@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Joshua Hat\)\[F\]{Memae, SD9K}](./%5BT1%5D%5BBOW%5D%5BArcher%5D(Joshua%20Hat)%5BF%5D%7BMemae,%20SD9K%7D)
+# [\[T1\]\[BOW\]\[Archer\]\(Joshua Hat\)\[F\]{Memae, SD9K}](../%5BT1%5D%5BBOW%5D%5BArcher%5D(Joshua%20Hat)%5BF%5D%7BMemae,%20SD9K%7D)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T1][BOW][Archer](Joshua Hat)[F]{Memae, SD9K} standing" />
 

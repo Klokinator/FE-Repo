@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D)
+# [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Salv Repal)[M] standing" />
 

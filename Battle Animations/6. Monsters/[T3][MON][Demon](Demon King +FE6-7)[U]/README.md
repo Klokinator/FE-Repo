@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Demon\]\(Demon King +FE6-7\)\[U\]](./%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D)
+# [\[T3\]\[MON\]\[Demon\]\(Demon King +FE6-7\)\[U\]](../%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D)
 
 <img src="./6.%20Magic%20%7BSHYUTERz%7D/Magic_000.png" alt="[T3][MON][Demon](Demon King +FE6-7)[U] standing" />
 

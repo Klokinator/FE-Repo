@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Dart-Style](./%5BBerserker-Variant%5D%20%5BM%5D%20Dart-Style)
+# [\[Berserker-Variant\] \[M\] Dart-Style](../%5BBerserker-Variant%5D%20%5BM%5D%20Dart-Style)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Berserker-Variant] [M] Dart-Style standing" />
 

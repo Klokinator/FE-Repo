@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Demon\]\(Gargoyle-Deathgoyle\)\[U\]{IS}](./%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D)
+# [\[T1\]\[MON\]\[Demon\]\(Gargoyle-Deathgoyle\)\[U\]{IS}](../%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T1][MON][Demon](Gargoyle-Deathgoyle)[U]{IS} standing" />
 

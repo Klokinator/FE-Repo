@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Vanilla +Staff\)\[M\]{IS, Ukulele, SD9k, Orihara_Saki}](./%5BT2%5D%5BSWD%5D%5BRogue%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Ukulele,%20SD9k,%20Orihara_Saki%7D)
+# [\[T2\]\[SWD\]\[Rogue\]\(Vanilla +Staff\)\[M\]{IS, Ukulele, SD9k, Orihara_Saki}](../%5BT2%5D%5BSWD%5D%5BRogue%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Ukulele,%20SD9k,%20Orihara_Saki%7D)
 
 <img src="./1.%20Knife%20%7BOrihara_Saki%7D/Knife_000.png" alt="[T2][SWD][Rogue](Vanilla +Staff)[M]{IS, Ukulele, SD9k, Orihara_Saki} standing" />
 

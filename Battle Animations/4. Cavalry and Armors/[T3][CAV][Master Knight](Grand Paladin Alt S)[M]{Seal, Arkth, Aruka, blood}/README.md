@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D)
 
 <img src="./1.%20Sword%20(Magic%20Crit%20Flash)%20%7Bblood%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin Alt S)[M]{Seal, Arkth, Aruka, blood} standing" />
 

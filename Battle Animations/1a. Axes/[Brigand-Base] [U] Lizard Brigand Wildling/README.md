@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[U\] Lizard Brigand Wildling](./%5BBrigand-Base%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling)
+# [\[Brigand-Base\] \[U\] Lizard Brigand Wildling](../%5BBrigand-Base%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Base] [U] Lizard Brigand Wildling standing" />
 

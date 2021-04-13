@@ -1,4 +1,4 @@
-# [\[T3\]\[MAG\]\[Archsage\]\(Lilina\)\[F\]{Red Bean, Shin19}](./%5BT3%5D%5BMAG%5D%5BArchsage%5D(Lilina)%5BF%5D%7BRed%20Bean,%20Shin19%7D)
+# [\[T3\]\[MAG\]\[Archsage\]\(Lilina\)\[F\]{Red Bean, Shin19}](../%5BT3%5D%5BMAG%5D%5BArchsage%5D(Lilina)%5BF%5D%7BRed%20Bean,%20Shin19%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][MAG][Archsage](Lilina)[F]{Red Bean, Shin19} standing" />
 

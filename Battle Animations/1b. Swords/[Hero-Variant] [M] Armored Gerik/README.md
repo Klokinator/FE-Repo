@@ -1,4 +1,4 @@
-# [\[Hero-Variant\] \[M\] Armored Gerik](./%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik)
+# [\[Hero-Variant\] \[M\] Armored Gerik](../%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Armored Gerik standing" />
 

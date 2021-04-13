@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[F\] Vanilla-Style](./%5BFighter-Base%5D%20%5BF%5D%20Vanilla-Style)
+# [\[Fighter-Base\] \[F\] Vanilla-Style](../%5BFighter-Base%5D%20%5BF%5D%20Vanilla-Style)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Base] [F] Vanilla-Style standing" />
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Custom Sword\]\(Dread Fighter\)\[M\]{Nuramon}](./%5BT3%5D%5BSWD%5D%5BCustom%20Sword%5D(Dread%20Fighter)%5BM%5D%7BNuramon%7D)
+# [\[T3\]\[SWD\]\[Custom Sword\]\(Dread Fighter\)\[M\]{Nuramon}](../%5BT3%5D%5BSWD%5D%5BCustom%20Sword%5D(Dread%20Fighter)%5BM%5D%7BNuramon%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][SWD][Custom Sword](Dread Fighter)[M]{Nuramon} standing" />
 

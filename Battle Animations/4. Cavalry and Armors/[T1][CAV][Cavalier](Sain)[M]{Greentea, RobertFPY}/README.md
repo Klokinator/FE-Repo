@@ -1,4 +1,4 @@
-# [\[T1\]\[CAV\]\[Cavalier\]\(Sain\)\[M\]{Greentea, RobertFPY}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+# [\[T1\]\[CAV\]\[Cavalier\]\(Sain\)\[M\]{Greentea, RobertFPY}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Sain)[M]{Greentea, RobertFPY} standing" />
 

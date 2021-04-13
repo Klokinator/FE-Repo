@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa\)\[F\]{Aruka, Kenpuhu, blood}](./%5BT2%5D%5BSWD%5D%5BSwordmaster%5D(Marisa)%5BF%5D%7BAruka,%20Kenpuhu,%20blood%7D)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Marisa\)\[F\]{Aruka, Kenpuhu, blood}](../%5BT2%5D%5BSWD%5D%5BSwordmaster%5D(Marisa)%5BF%5D%7BAruka,%20Kenpuhu,%20blood%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][SWD][Swordmaster](Marisa)[F]{Aruka, Kenpuhu, blood} standing" />
 

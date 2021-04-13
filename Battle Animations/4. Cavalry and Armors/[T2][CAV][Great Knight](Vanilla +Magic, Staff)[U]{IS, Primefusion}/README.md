@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}](./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D)
+# [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}](../%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Vanilla +Magic, Staff)[U]{IS, Primefusion} standing" />
 

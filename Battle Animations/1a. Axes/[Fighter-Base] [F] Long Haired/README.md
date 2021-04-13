@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[F\] Long Haired](./%5BFighter-Base%5D%20%5BF%5D%20Long%20Haired)
+# [\[Fighter-Base\] \[F\] Long Haired](../%5BFighter-Base%5D%20%5BF%5D%20Long%20Haired)
 
 <img src="./3.%20Axe%20(Long%20Hair)/Axe_000.png" alt="[Fighter-Base] [F] Long Haired standing" />
 

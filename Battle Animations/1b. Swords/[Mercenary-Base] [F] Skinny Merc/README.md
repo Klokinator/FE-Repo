@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[F\] Skinny Merc](./%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc)
+# [\[Mercenary-Base\] \[F\] Skinny Merc](../%5BMercenary-Base%5D%20%5BF%5D%20Skinny%20Merc)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [F] Skinny Merc standing" />
 

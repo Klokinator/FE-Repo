@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Generic](./%5BHero-Base%5D%20%5BF%5D%20Generic)
+# [\[Hero-Base\] \[F\] Generic](../%5BHero-Base%5D%20%5BF%5D%20Generic)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic standing" />
 

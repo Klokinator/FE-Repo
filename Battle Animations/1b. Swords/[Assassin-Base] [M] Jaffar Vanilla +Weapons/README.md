@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons)
+# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](../%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Jaffar Vanilla +Weapons standing" />
 

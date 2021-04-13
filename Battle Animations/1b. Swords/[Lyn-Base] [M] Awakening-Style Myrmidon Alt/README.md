@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[M\] Awakening-Style Myrmidon Alt](./%5BLyn-Base%5D%20%5BM%5D%20Awakening-Style%20Myrmidon%20Alt)
+# [\[Lyn-Base\] \[M\] Awakening-Style Myrmidon Alt](../%5BLyn-Base%5D%20%5BM%5D%20Awakening-Style%20Myrmidon%20Alt)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [M] Awakening-Style Myrmidon Alt standing" />
 

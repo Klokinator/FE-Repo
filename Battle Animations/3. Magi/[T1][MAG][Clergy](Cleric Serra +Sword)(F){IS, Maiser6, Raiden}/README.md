@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Serra +Sword\)\(F\){IS, Maiser6, Raiden}](./%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Serra +Sword\)\(F\){IS, Maiser6, Raiden}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D)
 
 <img src="./1.%20Sword%20(Heartseeker)%20%7BMaiser6,%20Raiden%7D/Sword_000.png" alt="[T1][MAG][Clergy](Cleric Serra +Sword)(F){IS, Maiser6, Raiden} standing" />
 

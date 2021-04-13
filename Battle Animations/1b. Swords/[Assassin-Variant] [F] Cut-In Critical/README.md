@@ -1,4 +1,4 @@
-# [\[Assassin-Variant\] \[F\] Cut-In Critical](./%5BAssassin-Variant%5D%20%5BF%5D%20Cut-In%20Critical)
+# [\[Assassin-Variant\] \[F\] Cut-In Critical](../%5BAssassin-Variant%5D%20%5BF%5D%20Cut-In%20Critical)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Variant] [F] Cut-In Critical standing" />
 

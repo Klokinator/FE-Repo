@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[F\] Sme's Catgirl Repalette +Staff](./%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff)
+# [\[Rogue-Base\] \[F\] Sme's Catgirl Repalette +Staff](../%5BRogue-Base%5D%20%5BF%5D%20Sme's%20Catgirl%20Repalette%20+Staff)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Sme's Catgirl Repalette +Staff standing" />
 

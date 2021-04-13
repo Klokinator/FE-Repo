@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Skinnyzerker Ross](./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross)
+# [\[Berserker-Variant\] \[M\] Skinnyzerker Ross](../%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Skinnyzerker Ross standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Roy-Base\]\(Vanilla +Magic\)\[M\]{IS, Pikmin1211}](./%5BT1%5D%5BLRD%5D%5BRoy-Base%5D(Vanilla%20+Magic)%5BM%5D%7BIS,%20Pikmin1211%7D)
+# [\[T1\]\[LRD\]\[Roy-Base\]\(Vanilla +Magic\)\[M\]{IS, Pikmin1211}](../%5BT1%5D%5BLRD%5D%5BRoy-Base%5D(Vanilla%20+Magic)%5BM%5D%7BIS,%20Pikmin1211%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Roy-Base](Vanilla +Magic)[M]{IS, Pikmin1211} standing" />
 

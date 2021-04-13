@@ -1,4 +1,4 @@
-# [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D)
+# [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight](Gold Knight)[U]{Nuramon} standing" />
 

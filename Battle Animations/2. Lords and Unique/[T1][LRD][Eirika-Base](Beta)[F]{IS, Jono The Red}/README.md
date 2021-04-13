@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eirika-Base\]\(Beta\)\[F\]{IS, Jono The Red}](./%5BT1%5D%5BLRD%5D%5BEirika-Base%5D(Beta)%5BF%5D%7BIS,%20Jono%20The%20Red%7D)
+# [\[T1\]\[LRD\]\[Eirika-Base\]\(Beta\)\[F\]{IS, Jono The Red}](../%5BT1%5D%5BLRD%5D%5BEirika-Base%5D(Beta)%5BF%5D%7BIS,%20Jono%20The%20Red%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Eirika-Base](Beta)[F]{IS, Jono The Red} standing" />
 

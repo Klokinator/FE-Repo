@@ -1,4 +1,4 @@
-# [\[Berserker-Base\] \[F\] Armored v2 Repal](./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20v2%20Repal)
+# [\[Berserker-Base\] \[F\] Armored v2 Repal](../%5BBerserker-Base%5D%20%5BF%5D%20Armored%20v2%20Repal)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] Armored v2 Repal standing" />
 

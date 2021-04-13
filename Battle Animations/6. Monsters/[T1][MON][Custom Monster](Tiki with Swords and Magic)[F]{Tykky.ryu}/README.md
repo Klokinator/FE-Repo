@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Custom Monster\]\(Tiki with Swords and Magic\)\[F\]{Tykky.ryu}](./%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D)
+# [\[T1\]\[MON\]\[Custom Monster\]\(Tiki with Swords and Magic\)\[F\]{Tykky.ryu}](../%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D)
 
 <img src="./1.%20Sword%20(Flashy%20crit)/Sword_000.png" alt="[T1][MON][Custom Monster](Tiki with Swords and Magic)[F]{Tykky.ryu} standing" />
 

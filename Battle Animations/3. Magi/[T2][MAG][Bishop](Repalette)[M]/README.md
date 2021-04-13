@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Bishop\]\(Repalette\)\[M\]](./%5BT2%5D%5BMAG%5D%5BBishop%5D(Repalette)%5BM%5D)
+# [\[T2\]\[MAG\]\[Bishop\]\(Repalette\)\[M\]](../%5BT2%5D%5BMAG%5D%5BBishop%5D(Repalette)%5BM%5D)
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2][MAG][Bishop](Repalette)[M] standing" />
 

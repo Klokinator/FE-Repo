@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]](./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D)
+# [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]](../%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][CAV][Custom Cavalry](Grand Mahout)[U] standing" />
 

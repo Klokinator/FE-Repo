@@ -1,4 +1,4 @@
-# [\[T2\]\[LNC\]\[Halberdier\]\[M\]{Bonestorm}](./%5BT2%5D%5BLNC%5D%5BHalberdier%5D%5BM%5D%7BBonestorm%7D)
+# [\[T2\]\[LNC\]\[Halberdier\]\[M\]{Bonestorm}](../%5BT2%5D%5BLNC%5D%5BHalberdier%5D%5BM%5D%7BBonestorm%7D)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T2][LNC][Halberdier][M]{Bonestorm} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Undead\]\(Bonewalker-Wight\)\[U\]](./%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D)
+# [\[T1\]\[MON\]\[Undead\]\(Bonewalker-Wight\)\[U\]](../%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][MON][Undead](Bonewalker-Wight)[U] standing" />
 

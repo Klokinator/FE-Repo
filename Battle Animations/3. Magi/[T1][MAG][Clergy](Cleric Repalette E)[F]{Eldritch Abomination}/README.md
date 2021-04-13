@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Repalette E\)\[F\]{Eldritch Abomination}](./%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20E)%5BF%5D%7BEldritch%20Abomination%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Repalette E\)\[F\]{Eldritch Abomination}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20E)%5BF%5D%7BEldritch%20Abomination%7D)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Repalette E)[F]{Eldritch Abomination} standing" />
 

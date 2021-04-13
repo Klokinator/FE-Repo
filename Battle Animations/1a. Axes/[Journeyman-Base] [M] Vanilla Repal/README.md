@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[M\] Vanilla Repal](./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal)
+# [\[Journeyman-Base\] \[M\] Vanilla Repal](../%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Journeyman-Base] [M] Vanilla Repal standing" />
 

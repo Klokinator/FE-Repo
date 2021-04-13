@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Character - Jaffar](./%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Jaffar)
+# [\[Thief-Base\] \[M\] Character - Jaffar](../%5BThief-Base%5D%20%5BM%5D%20Character%20-%20Jaffar)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Character - Jaffar standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Armored\)\[U\]{Nuramon}](./%5BT2%5D%5BFLY%5D%5BWyvern%20Lord%5D(Armored)%5BU%5D%7BNuramon%7D)
+# [\[T2\]\[FLY\]\[Wyvern Lord\]\(Armored\)\[U\]{Nuramon}](../%5BT2%5D%5BFLY%5D%5BWyvern%20Lord%5D(Armored)%5BU%5D%7BNuramon%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][FLY][Wyvern Lord](Armored)[U]{Nuramon} standing" />
 

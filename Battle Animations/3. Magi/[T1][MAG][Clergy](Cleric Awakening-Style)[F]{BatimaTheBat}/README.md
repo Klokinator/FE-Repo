@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening-Style\)\[F\]{BatimaTheBat}](./%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening-Style)%5BF%5D%7BBatimaTheBat%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening-Style\)\[F\]{BatimaTheBat}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening-Style)%5BF%5D%7BBatimaTheBat%7D)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Awakening-Style)[F]{BatimaTheBat} standing" />
 

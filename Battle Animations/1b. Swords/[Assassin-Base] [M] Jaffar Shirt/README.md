@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar Shirt](./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Shirt)
+# [\[Assassin-Base\] \[M\] Jaffar Shirt](../%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Shirt)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Jaffar Shirt standing" />
 

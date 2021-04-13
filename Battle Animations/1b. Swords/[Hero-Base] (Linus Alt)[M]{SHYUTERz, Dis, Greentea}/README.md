@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Linus Alt\)\[M\]{SHYUTERz, Dis, Greentea}](./%5BHero-Base%5D%20(Linus%20Alt)%5BM%5D%7BSHYUTERz,%20Dis,%20Greentea%7D)
+# [\[Hero-Base\] \(Linus Alt\)\[M\]{SHYUTERz, Dis, Greentea}](../%5BHero-Base%5D%20(Linus%20Alt)%5BM%5D%7BSHYUTERz,%20Dis,%20Greentea%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (Linus Alt)[M]{SHYUTERz, Dis, Greentea} standing" />
 

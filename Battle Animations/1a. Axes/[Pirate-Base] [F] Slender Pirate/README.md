@@ -1,4 +1,4 @@
-# [\[Pirate-Base\] \[F\] Slender Pirate](./%5BPirate-Base%5D%20%5BF%5D%20Slender%20Pirate)
+# [\[Pirate-Base\] \[F\] Slender Pirate](../%5BPirate-Base%5D%20%5BF%5D%20Slender%20Pirate)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Pirate-Base] [F] Slender Pirate standing" />
 

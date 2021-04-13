@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[F\] FEGirls Thin](./%5BWarrior-Base%5D%20%5BF%5D%20FEGirls%20Thin)
+# [\[Warrior-Base\] \[F\] FEGirls Thin](../%5BWarrior-Base%5D%20%5BF%5D%20FEGirls%20Thin)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Base] [F] FEGirls Thin standing" />
 

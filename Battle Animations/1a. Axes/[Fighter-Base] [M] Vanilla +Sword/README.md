@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Vanilla +Sword](./%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword)
+# [\[Fighter-Base\] \[M\] Vanilla +Sword](../%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword)
 
 <img src="./1.%20Sword%20(Hector)%20(Vilkalizer)/Sword_000.png" alt="[Fighter-Base] [M] Vanilla +Sword standing" />
 

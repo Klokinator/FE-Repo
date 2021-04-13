@@ -1,4 +1,4 @@
-# [\[Hero-Variant\] \[M\] Character - Caellach](./%5BHero-Variant%5D%20%5BM%5D%20Character%20-%20Caellach)
+# [\[Hero-Variant\] \[M\] Character - Caellach](../%5BHero-Variant%5D%20%5BM%5D%20Character%20-%20Caellach)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Character - Caellach standing" />
 

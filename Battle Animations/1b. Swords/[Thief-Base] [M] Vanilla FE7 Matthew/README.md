@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Vanilla FE7 Matthew](./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Matthew)
+# [\[Thief-Base\] \[M\] Vanilla FE7 Matthew](../%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Matthew)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Vanilla FE7 Matthew standing" />
 

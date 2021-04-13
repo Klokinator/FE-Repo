@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[F\] Vanilla-Style](./%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style)
+# [\[Mercenary-Base\] \[F\] Vanilla-Style](../%5BMercenary-Base%5D%20%5BF%5D%20Vanilla-Style)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [F] Vanilla-Style standing" />
 

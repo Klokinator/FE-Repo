@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Character Matthew Repal +Knife](./%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife)
+# [\[Thief-Base\] \[M\] Character Matthew Repal +Knife](../%5BThief-Base%5D%20%5BM%5D%20Character%20Matthew%20Repal%20+Knife)
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Thief-Base] [M] Character Matthew Repal +Knife standing" />
 

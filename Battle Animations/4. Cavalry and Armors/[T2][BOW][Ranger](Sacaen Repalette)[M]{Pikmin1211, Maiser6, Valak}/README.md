@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, Valak}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D)
+# [\[T2\]\[BOW\]\[Ranger\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, Valak}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D)
 
 <img src="./3.%20Axe%20%7BValak%7D/Axe_000.png" alt="[T2][BOW][Ranger](Sacaen Repalette)[M]{Pikmin1211, Maiser6, Valak} standing" />
 

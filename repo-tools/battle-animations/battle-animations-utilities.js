@@ -102,7 +102,7 @@ ${weaponContents}
  * 
  * @returns {String}
  */
-const makeCategoryReadmeText = (catAnims, catDir, currentDir='../', headingDepth = 1) => {
+const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth = 1) => {
 
 	const animContents = catAnims.map(anim => {
 		return makeAnimReadmeText(anim, false, `${currentDir}${anim.name}/`, headingDepth + 1)

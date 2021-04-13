@@ -2,7 +2,7 @@
 
 ## Credit
 
-{DerTheVaporeon}
+Made by DerTheVaporeon.
 	
 ## Unarmed
 

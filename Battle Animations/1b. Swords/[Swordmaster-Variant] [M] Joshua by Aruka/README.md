@@ -5,6 +5,7 @@
 ## Credits
 
 Animation by Aruka, Kenpuhu.
+
 Unarmed by Blood.
 
 ## Weapons

@@ -4,7 +4,7 @@
 
 ## Credits
 
-{DerTheVaporeon}
+Made by DerTheVaporeon.
 
 ## Weapons
 

@@ -3,7 +3,9 @@
 ## Credit
 
 Original animations by IS.
+
 Sword by Pimpstick.
+
 Sword scripting by Maiser6.
 	
 ## Handaxe

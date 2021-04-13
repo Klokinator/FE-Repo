@@ -3,6 +3,7 @@
 ## Credit
 
 Original Warrior by IS.
+
 Repalette by helmfried.
 	
 ## Bow

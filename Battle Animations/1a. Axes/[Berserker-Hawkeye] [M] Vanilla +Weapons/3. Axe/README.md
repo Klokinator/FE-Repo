@@ -3,7 +3,9 @@
 ## Credit
 
 Original Hawkeye by IS. (Axe/Handaxe/Unarmed)
+
 Sword by Maiser6.
+
 Magic Axe by Wan, scripted by Sme.
 	
 ## Axe

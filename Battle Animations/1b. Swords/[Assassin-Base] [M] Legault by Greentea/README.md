@@ -5,6 +5,7 @@
 ## Credits
 
 Animation by Greentea.
+
 Scripting by Nuramon.
 
 ## Weapons

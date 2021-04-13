@@ -3,6 +3,7 @@
 ## Credit
 
 Animation by Aruka, Kenpuhu.
+
 Unarmed by Blood.
 	
 ## Sword

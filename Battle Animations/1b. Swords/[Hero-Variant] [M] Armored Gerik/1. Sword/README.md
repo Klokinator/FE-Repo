@@ -2,7 +2,7 @@
 
 ## Credit
 
-Nuramon
+Made by Nuramon.
 	
 ## Sword
 

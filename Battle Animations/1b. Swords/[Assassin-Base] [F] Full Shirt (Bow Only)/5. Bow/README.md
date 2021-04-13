@@ -3,6 +3,7 @@
 ## Credit
 
 Animation by beccarte, WarPath, Keks_Krebs, SD9K.
+
 Unarmed by WarPath.
 	
 ## Bow

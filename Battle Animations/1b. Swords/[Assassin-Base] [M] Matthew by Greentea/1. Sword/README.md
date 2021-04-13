@@ -3,6 +3,7 @@
 ## Credit
 
 Animation by Greentea.
+
 Scripting by Pikmin1211.
 	
 ## Sword

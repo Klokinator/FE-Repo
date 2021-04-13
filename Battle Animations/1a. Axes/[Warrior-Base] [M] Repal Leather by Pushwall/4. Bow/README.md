@@ -3,7 +3,9 @@
 ## Credit
 
 Original Warrior by IS.
+
 Repalette by Pushwall. 
+
 Alternate Axe by a3d3.
 	
 ## Bow

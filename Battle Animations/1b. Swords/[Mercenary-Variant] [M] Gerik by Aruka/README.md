@@ -5,6 +5,7 @@
 ## Credits
 
 Made by Aruka, Kenpuhu.
+
 Missing an unarmed animation.
 
 ## Weapons

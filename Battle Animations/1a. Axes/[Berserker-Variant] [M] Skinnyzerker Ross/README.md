@@ -5,8 +5,11 @@
 ## Credits
 
 Base Berserker by IS.
+
 Skinnyzerker variant by Zomaxiee.
+
 Scripting by Maiser6.
+
 Ross Variant by Waleed.
 
 ## Weapons

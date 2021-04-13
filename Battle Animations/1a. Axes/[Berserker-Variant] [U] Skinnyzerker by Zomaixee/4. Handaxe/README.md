@@ -3,7 +3,9 @@
 ## Credit
 
 Base Berserker by IS.
+
 Skinnyzerker variant by Zomaxiee.
+
 Scripting by Maiser6.
 	
 ## Handaxe

@@ -5,6 +5,7 @@
 ## Credits
 
 Original Berserker by IS.
+
 Repalette by Blue Druid.
 
 ## Weapons

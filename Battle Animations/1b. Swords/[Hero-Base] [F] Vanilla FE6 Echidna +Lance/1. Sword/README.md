@@ -3,6 +3,7 @@
 ## Credit
 
 Animation by IS.
+
 Lance by Pushwall.
 	
 ## Sword

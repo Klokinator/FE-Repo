@@ -3,6 +3,7 @@
 ## Credit
 
 Original Tarvos/Maelduin by IS.
+
 Mounted Brigand Variant by Spud.
 	
 ## Axe

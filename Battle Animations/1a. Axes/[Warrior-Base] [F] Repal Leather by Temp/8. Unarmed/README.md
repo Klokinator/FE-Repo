@@ -3,7 +3,9 @@
 ## Credit
 
 Base Warrior by IS.
+
 Female variant by Temp.
+
 Repalette by Pushwall.
 	
 ## Unarmed

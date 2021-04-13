@@ -5,11 +5,17 @@
 ## Credits
 
 Design by Pikmin1211
+
 Knife animation by DerTheVaporeon
+
 Sword animation by DerTheVaporeon
+
 Unarmed animation by DerTheVaporeon
+
 Palettes by DerTheVaporeon and Pikmin1211
+
 Map Sprites by DerTheVaporeon
+
 Class Card by DerTheVaporeon
 
 ## Weapons

@@ -3,6 +3,7 @@
 ## Credit
 
 Original Berserker by IS.
+
 Magic and Staff animations by Orihara_Saki.
 	
 ## Magic

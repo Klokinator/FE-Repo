@@ -3,6 +3,7 @@
 ## Credit
 
 Made by Aruka, Kenpuhu.
+
 Missing an unarmed animation.
 	
 ## Sword

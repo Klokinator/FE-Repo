@@ -5,7 +5,9 @@
 ## Credits
 
 Base Warrior by IS.
+
 Female variant by Temp.
+
 Repalette by helmfried.
 
 ## Weapons

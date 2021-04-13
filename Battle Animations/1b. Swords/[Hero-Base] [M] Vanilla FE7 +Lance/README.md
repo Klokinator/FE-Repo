@@ -5,6 +5,7 @@
 ## Credits
 
 Vanilla animation by IS.
+
 Lance by Pushwall.
 
 ## Weapons

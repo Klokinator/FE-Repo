@@ -5,6 +5,7 @@
 ## Credits
 
 Animation by IS.
+
 Lance by Pushwall.
 
 ## Weapons

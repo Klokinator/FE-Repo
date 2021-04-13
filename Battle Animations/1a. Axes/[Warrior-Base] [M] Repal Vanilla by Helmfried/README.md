@@ -5,6 +5,7 @@
 ## Credits
 
 Original Warrior by IS.
+
 Repalette by helmfried.
 
 ## Weapons

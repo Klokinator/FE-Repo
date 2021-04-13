@@ -5,6 +5,7 @@
 ## Credits
 
 Repalette by Eldritch Abomination.
+
 Knife by Mikey Séregon.
 
 ## Weapons

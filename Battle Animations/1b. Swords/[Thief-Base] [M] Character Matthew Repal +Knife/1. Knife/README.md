@@ -3,6 +3,7 @@
 ## Credit
 
 Knife animation by Skitty, GabrielKnight.
+
 Repalette by Pikmin1211, Maiser6.
 	
 ## Knife

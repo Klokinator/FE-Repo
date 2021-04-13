@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Rogue\]\(Trickster\)\[F\]{Aruka, Kenpuhu}](./%5BT2%5D%5BSWD%5D%5BRogue%5D(Trickster)%5BF%5D%7BAruka,%20Kenpuhu%7D)
+# [\[T2\]\[SWD\]\[Rogue\]\(Trickster\)\[F\]{Aruka, Kenpuhu}](../%5BT2%5D%5BSWD%5D%5BRogue%5D(Trickster)%5BF%5D%7BAruka,%20Kenpuhu%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][SWD][Rogue](Trickster)[F]{Aruka, Kenpuhu} standing" />
 

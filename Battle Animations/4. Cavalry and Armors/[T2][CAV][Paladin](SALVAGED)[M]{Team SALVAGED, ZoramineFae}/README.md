@@ -1,4 +1,4 @@
-# [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D)
+# [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED)[M]{Team SALVAGED, ZoramineFae} standing" />
 

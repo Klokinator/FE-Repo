@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Raven Updated Armor-Colored Shield\)\[M\]](./%5BHero-Base%5D%20(Raven%20Updated%20Armor-Colored%20Shield)%5BM%5D)
+# [\[Hero-Base\] \(Raven Updated Armor-Colored Shield\)\[M\]](../%5BHero-Base%5D%20(Raven%20Updated%20Armor-Colored%20Shield)%5BM%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (Raven Updated Armor-Colored Shield)[M] standing" />
 

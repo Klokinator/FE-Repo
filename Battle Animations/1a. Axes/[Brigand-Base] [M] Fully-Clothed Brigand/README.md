@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[M\] Fully-Clothed Brigand](./%5BBrigand-Base%5D%20%5BM%5D%20Fully-Clothed%20Brigand)
+# [\[Brigand-Base\] \[M\] Fully-Clothed Brigand](../%5BBrigand-Base%5D%20%5BM%5D%20Fully-Clothed%20Brigand)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Base] [M] Fully-Clothed Brigand standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Custom Flier\]\(Malig Knight-updated\)\[M\]](./%5BT2%5D%5BFLY%5D%5BCustom%20Flier%5D(Malig%20Knight-updated)%5BM%5D)
+# [\[T2\]\[FLY\]\[Custom Flier\]\(Malig Knight-updated\)\[M\]](../%5BT2%5D%5BFLY%5D%5BCustom%20Flier%5D(Malig%20Knight-updated)%5BM%5D)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T2][FLY][Custom Flier](Malig Knight-updated)[M] standing" />
 

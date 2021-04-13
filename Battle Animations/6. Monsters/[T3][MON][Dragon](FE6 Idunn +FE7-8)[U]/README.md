@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(FE6 Idunn +FE7-8\)\[U\]](./%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D)
+# [\[T3\]\[MON\]\[Dragon\]\(FE6 Idunn +FE7-8\)\[U\]](../%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D)
 
 <img src="./6.%20Magic%20(Druid%20Idunn)/Magic_000.png" alt="[T3][MON][Dragon](FE6 Idunn +FE7-8)[U] standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[ARM\]\[General\]\(Shield v2\)\[U\]](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D)
+# [\[T2\]\[ARM\]\[General\]\(Shield v2\)\[U\]](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Shield v2)[U] standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt\)\[M\]{Greentea, DerTheVaporeon}](./%5BT2%5D%5BSWD%5D%5BSwordmaster%5D(Lloyd%20Alt)%5BM%5D%7BGreentea,%20DerTheVaporeon%7D)
+# [\[T2\]\[SWD\]\[Swordmaster\]\(Lloyd Alt\)\[M\]{Greentea, DerTheVaporeon}](../%5BT2%5D%5BSWD%5D%5BSwordmaster%5D(Lloyd%20Alt)%5BM%5D%7BGreentea,%20DerTheVaporeon%7D)
 
 <img src="./1.%20Sword%20(Backslash%201)/Sword_000.png" alt="[T2][SWD][Swordmaster](Lloyd Alt)[M]{Greentea, DerTheVaporeon} standing" />
 

@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Full Shirt \(Bow Only\)](./%5BAssassin-Base%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only))
+# [\[Assassin-Base\] \[F\] Full Shirt \(Bow Only\)](../%5BAssassin-Base%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only))
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Assassin-Base] [F] Full Shirt (Bow Only) standing" />
 

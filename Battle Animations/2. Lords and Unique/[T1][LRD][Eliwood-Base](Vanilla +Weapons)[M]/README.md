@@ -1,4 +1,4 @@
-# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Vanilla +Weapons\)\[M\]](./%5BT1%5D%5BLRD%5D%5BEliwood-Base%5D(Vanilla%20+Weapons)%5BM%5D)
+# [\[T1\]\[LRD\]\[Eliwood-Base\]\(Vanilla +Weapons\)\[M\]](../%5BT1%5D%5BLRD%5D%5BEliwood-Base%5D(Vanilla%20+Weapons)%5BM%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T1][LRD][Eliwood-Base](Vanilla +Weapons)[M] standing" />
 

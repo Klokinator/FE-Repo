@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(FE7 Hybrid Armor Coat\)\[M\]{Swain}](./%5BHero-Base%5D%20(FE7%20Hybrid%20Armor%20Coat)%5BM%5D%7BSwain%7D)
+# [\[Hero-Base\] \(FE7 Hybrid Armor Coat\)\[M\]{Swain}](../%5BHero-Base%5D%20(FE7%20Hybrid%20Armor%20Coat)%5BM%5D%7BSwain%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (FE7 Hybrid Armor Coat)[M]{Swain} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla Ponytail +Magic\)\[F\]](./%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D)
+# [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla Ponytail +Magic\)\[F\]](../%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D)
 
 <img src="./6.%20Magic%20(Staff)%20%7Bseergiioo%7D/Magic_000.png" alt="[T1][MAG][Troubadour](Vanilla Ponytail +Magic)[F] standing" />
 

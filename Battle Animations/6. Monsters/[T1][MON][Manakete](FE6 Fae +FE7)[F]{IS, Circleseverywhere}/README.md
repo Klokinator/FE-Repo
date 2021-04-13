@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fae +FE7\)\[F\]{IS, Circleseverywhere}](./%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D)
+# [\[T1\]\[MON\]\[Manakete\]\(FE6 Fae +FE7\)\[F\]{IS, Circleseverywhere}](../%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D)
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE6 Fae +FE7)[F]{IS, Circleseverywhere} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[SWD\]\[Sniper\]\(Adventurer\)\[F\]{ZoramineFae}](./%5BT2%5D%5BSWD%5D%5BSniper%5D(Adventurer)%5BF%5D%7BZoramineFae%7D)
+# [\[T2\]\[SWD\]\[Sniper\]\(Adventurer\)\[F\]{ZoramineFae}](../%5BT2%5D%5BSWD%5D%5BSniper%5D(Adventurer)%5BF%5D%7BZoramineFae%7D)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T2][SWD][Sniper](Adventurer)[F]{ZoramineFae} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Custom Sword\]\(Trickster\)\[M\]{Leo_link}](./%5BT3%5D%5BSWD%5D%5BCustom%20Sword%5D(Trickster)%5BM%5D%7BLeo_link%7D)
+# [\[T3\]\[SWD\]\[Custom Sword\]\(Trickster\)\[M\]{Leo_link}](../%5BT3%5D%5BSWD%5D%5BCustom%20Sword%5D(Trickster)%5BM%5D%7BLeo_link%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][SWD][Custom Sword](Trickster)[M]{Leo_link} standing" />
 

@@ -1,4 +1,4 @@
-# [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims)
+# [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](../%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Base] [M] Vanilla +Magic Anims standing" />
 

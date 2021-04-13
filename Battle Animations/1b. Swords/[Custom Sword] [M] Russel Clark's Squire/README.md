@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Russel Clark's Squire](./%5BCustom%20Sword%5D%20%5BM%5D%20Russel%20Clark's%20Squire)
+# [\[Custom Sword\] \[M\] Russel Clark's Squire](../%5BCustom%20Sword%5D%20%5BM%5D%20Russel%20Clark's%20Squire)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [M] Russel Clark's Squire standing" />
 

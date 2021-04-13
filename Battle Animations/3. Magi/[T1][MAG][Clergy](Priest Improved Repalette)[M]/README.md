@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Priest Improved Repalette\)\[M\]](./%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Improved%20Repalette)%5BM%5D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Priest Improved Repalette\)\[M\]](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Improved%20Repalette)%5BM%5D)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Improved Repalette)[M] standing" />
 

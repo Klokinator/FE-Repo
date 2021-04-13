@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Mage Knight\]\(Vanilla +Weapons\)\[M\]](./%5BT2%5D%5BMAG%5D%5BMage%20Knight%5D(Vanilla%20+Weapons)%5BM%5D)
+# [\[T2\]\[MAG\]\[Mage Knight\]\(Vanilla +Weapons\)\[M\]](../%5BT2%5D%5BMAG%5D%5BMage%20Knight%5D(Vanilla%20+Weapons)%5BM%5D)
 
 <img src="./1.%20Sword%20(Rapidslash-crit)/Sword_000.png" alt="[T2][MAG][Mage Knight](Vanilla +Weapons)[M] standing" />
 

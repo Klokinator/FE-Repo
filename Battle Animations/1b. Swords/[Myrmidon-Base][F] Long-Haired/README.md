@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\]\[F\] Long-Haired](./%5BMyrmidon-Base%5D%5BF%5D%20Long-Haired)
+# [\[Myrmidon-Base\]\[F\] Long-Haired](../%5BMyrmidon-Base%5D%5BF%5D%20Long-Haired)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base][F] Long-Haired standing" />
 

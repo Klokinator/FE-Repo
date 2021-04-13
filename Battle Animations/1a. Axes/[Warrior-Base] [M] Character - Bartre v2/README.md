@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Character - Bartre v2](./%5BWarrior-Base%5D%20%5BM%5D%20Character%20-%20Bartre%20v2)
+# [\[Warrior-Base\] \[M\] Character - Bartre v2](../%5BWarrior-Base%5D%20%5BM%5D%20Character%20-%20Bartre%20v2)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Base] [M] Character - Bartre v2 standing" />
 

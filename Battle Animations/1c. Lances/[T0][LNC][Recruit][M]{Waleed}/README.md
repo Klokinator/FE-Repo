@@ -1,4 +1,4 @@
-# [\[T0\]\[LNC\]\[Recruit\]\[M\]{Waleed}](./%5BT0%5D%5BLNC%5D%5BRecruit%5D%5BM%5D%7BWaleed%7D)
+# [\[T0\]\[LNC\]\[Recruit\]\[M\]{Waleed}](../%5BT0%5D%5BLNC%5D%5BRecruit%5D%5BM%5D%7BWaleed%7D)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T0][LNC][Recruit][M]{Waleed} standing" />
 

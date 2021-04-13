@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Character - Guy +Bow](./%5BMyrmidon-Base%5D%20%5BM%5D%20Character%20-%20Guy%20+Bow)
+# [\[Myrmidon-Base\] \[M\] Character - Guy +Bow](../%5BMyrmidon-Base%5D%20%5BM%5D%20Character%20-%20Guy%20+Bow)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Character - Guy +Bow standing" />
 

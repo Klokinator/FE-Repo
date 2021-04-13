@@ -1,4 +1,4 @@
-# [\[T3\]\[MON\]\[Dragon\]\(FE7 Fire Dragon +FE8\)\[U\]](./%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D)
+# [\[T3\]\[MON\]\[Dragon\]\(FE7 Fire Dragon +FE8\)\[U\]](../%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D)
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](FE7 Fire Dragon +FE8)[U] standing" />
 

@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D)
+# [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper Repalette)[F]{Pikmin1211, Maiser6, Itranc, Valak} standing" />
 

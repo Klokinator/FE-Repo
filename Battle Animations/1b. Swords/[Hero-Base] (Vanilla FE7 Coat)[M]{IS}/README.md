@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(Vanilla FE7 Coat\)\[M\]{IS}](./%5BHero-Base%5D%20(Vanilla%20FE7%20Coat)%5BM%5D%7BIS%7D)
+# [\[Hero-Base\] \(Vanilla FE7 Coat\)\[M\]{IS}](../%5BHero-Base%5D%20(Vanilla%20FE7%20Coat)%5BM%5D%7BIS%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (Vanilla FE7 Coat)[M]{IS} standing" />
 

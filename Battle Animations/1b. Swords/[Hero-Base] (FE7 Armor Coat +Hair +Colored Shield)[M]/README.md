@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \(FE7 Armor Coat +Hair +Colored Shield\)\[M\]](./%5BHero-Base%5D%20(FE7%20Armor%20Coat%20+Hair%20+Colored%20Shield)%5BM%5D)
+# [\[Hero-Base\] \(FE7 Armor Coat +Hair +Colored Shield\)\[M\]](../%5BHero-Base%5D%20(FE7%20Armor%20Coat%20+Hair%20+Colored%20Shield)%5BM%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] (FE7 Armor Coat +Hair +Colored Shield)[M] standing" />
 

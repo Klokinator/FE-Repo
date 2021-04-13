@@ -1,6 +1,6 @@
 # [4. Cavalry and Armors Battle Animations](./)
 
-## [\[T1\]\[ARM\]\(Knight\]\(DS-Style Repalette\)\[U\]{MK404}](./%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D)
+## [\[T1\]\[ARM\]\(Knight\]\(DS-Style Repalette\)\[U\]{MK404}](../%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D)
 
 <img src="./%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM](Knight](DS-Style Repalette)[U]{MK404} standing" />
 
@@ -13,7 +13,7 @@
 | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/2.%20Lance/Lance.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]\(DS-Style\)\[U\]{MK404}](./%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D)
+## [\[T1\]\[ARM\]\[Knight\]\(DS-Style\)\[U\]{MK404}](../%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](DS-Style)[U]{MK404} standing" />
 
@@ -26,7 +26,7 @@
 | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}](./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D)
+## [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}](../%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](FE10-Style][U]{Iscaneus, Nuramon, flasuban, Jeorge Reds} standing" />
 
@@ -39,7 +39,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword%20(Broadsword)/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow%20(No%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow%20(Recoil)/Bow.gif" /> | <img alt="Magic animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/6.%20Magic%20%7Bflasuban%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]\(Oswin\)\[M\]{IS, Jey the Count}](./%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+## [\[T1\]\[ARM\]\[Knight\]\(Oswin\)\[M\]{IS, Jey the Count}](../%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](Oswin)[M]{IS, Jey the Count} standing" />
 
@@ -52,7 +52,7 @@
 | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]\(Repalette\)\[U\]{FPzero}](./%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D)
+## [\[T1\]\[ARM\]\[Knight\]\(Repalette\)\[U\]{FPzero}](../%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](Repalette)[U]{FPzero} standing" />
 
@@ -65,7 +65,7 @@
 | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]\(SALVAGED Helmetless\)\[M\]{Team SALVAGED, BoneManSeth}](./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D)
+## [\[T1\]\[ARM\]\[Knight\]\(SALVAGED Helmetless\)\[M\]{Team SALVAGED, BoneManSeth}](../%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](SALVAGED Helmetless)[M]{Team SALVAGED, BoneManSeth} standing" />
 
@@ -78,7 +78,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/5.%20Bow%20(shield%20on%20back)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="team animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/team%20palettes/team.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]\(SALVAGED\)\[M\]{Team SALVAGED}](./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
+## [\[T1\]\[ARM\]\[Knight\]\(SALVAGED\)\[M\]{Team SALVAGED}](../%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](SALVAGED)[M]{Team SALVAGED} standing" />
 
@@ -91,7 +91,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow%20(shield%20on%20back)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="team animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/team%20palettes/team.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}](./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D)
+## [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}](../%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/1.%20Sword%20%7BTBA%7D/Sword_000.png" alt="[T1][ARM][Knight](Vanilla +Weapons)[U]{IS, TBA, Orihara_Saki, vilk} standing" />
 
@@ -104,7 +104,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/1.%20Sword%20%7BTBA%7D/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/2.%20Lance%20(Updated,%20vilk)/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/3.%20Axe%20%7BTBA%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/4.%20Handaxe%20%7BTBA%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/5.%20Bow%20%7BTBA%7D/Bow.gif" /> | <img alt="Magic animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/6.%20Magic%20%7BOrihara_Saki,%20TBA%7D/Magic.gif" /> | <img alt="Staff animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/7.%20Staff%20%7Bknabepicer%7D/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/8.%20Unarmed%20(Breastplate-less)%20%7BTBA%7D/Unarmed.gif" /> |
 
 
-## [\[T1\]\[ARM\]\[Knight\]{Wallace}\[M\]{IS, Jey the Count}](./%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+## [\[T1\]\[ARM\]\[Knight\]{Wallace}\[M\]{IS, Jey the Count}](../%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
 <img src="./%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight]{Wallace}[M]{IS, Jey the Count} standing" />
 
@@ -117,7 +117,7 @@
 | <img alt="Lance animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat Repalette O\)\[M\]](./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D)
+## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat Repalette O\)\[M\]](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen +Hat Repalette O)[M] standing" />
 
@@ -130,7 +130,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat\)\[M\]{Pikmin1211, Maiser6, eCut}](./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat\)\[M\]{Pikmin1211, Maiser6, eCut}](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen +Hat)[M]{Pikmin1211, Maiser6, eCut} standing" />
 
@@ -143,7 +143,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6, eCut}](./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6, eCut}](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen Repalette)[F]{Pikmin1211, Maiser6, eCut} standing" />
 
@@ -156,7 +156,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, eCut}](./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, eCut}](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen Repalette)[M]{Pikmin1211, Maiser6, eCut} standing" />
 
@@ -169,7 +169,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen\)\[M\]{eCut}](./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen\)\[M\]{eCut}](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen)[M]{eCut} standing" />
 
@@ -182,7 +182,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6}](./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6}](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Sacaen Repalette)[F]{Pikmin1211, Maiser6} standing" />
 
@@ -195,7 +195,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6}](./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6}](../%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Sacaen Repalette)[M]{Pikmin1211, Maiser6} standing" />
 
@@ -208,7 +208,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\[F\]{IS}](./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\[F\]{IS}](../%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad][F]{IS} standing" />
 
@@ -221,7 +221,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[BOW\]\[Nomad\]\[M\]{IS}](./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D)
+## [\[T1\]\[BOW\]\[Nomad\]\[M\]{IS}](../%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D)
 
 <img src="./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad][M]{IS} standing" />
 
@@ -234,7 +234,7 @@
 | <img alt="Bow animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(Kent\)\[M\]{Greentea, RobertFPY}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(Kent\)\[M\]{Greentea, RobertFPY}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Kent)[M]{Greentea, RobertFPY} standing" />
 
@@ -247,7 +247,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(Sain\)\[M\]{Greentea, RobertFPY}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(Sain\)\[M\]{Greentea, RobertFPY}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Sain)[M]{Greentea, RobertFPY} standing" />
 
@@ -260,7 +260,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED 2.0\)\[M\]{Team SALVAGED}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED 2.0\)\[M\]{Team SALVAGED}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED 2.0)[M]{Team SALVAGED} standing" />
 
@@ -273,7 +273,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED Edit\)\[F\]{Flasuban, Team SALVAGED}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED Edit\)\[F\]{Flasuban, Team SALVAGED}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED Edit)[F]{Flasuban, Team SALVAGED} standing" />
 
@@ -286,7 +286,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED\)\[M\]{Team SALVAGED}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED\)\[M\]{Team SALVAGED}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED)[M]{Team SALVAGED} standing" />
 
@@ -299,7 +299,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED-Style\)\[F\]{Pikmin1211, Maiser6, team SALVAGED}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED-Style\)\[F\]{Pikmin1211, Maiser6, team SALVAGED}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/1.%20Sword%20(Maiser6)/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED-Style)[F]{Pikmin1211, Maiser6, team SALVAGED} standing" />
 
@@ -312,7 +312,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/1.%20Sword%20(Maiser6)/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/2.%20Lance%20(Maiser6)/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/3.%20Axe%20(Maiser6)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/4.%20Handaxe%20(Maiser6)/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/8.%20Unarmed%20(Maiser6)/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Bow)[F]{IS, DerTheVaporeon, Kao, Aurora} standing" />
 
@@ -325,7 +325,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/5.%20Bow%20%7BDerTheVaporeon,%20Kao,%20Aurora%7D/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]](./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D)
+## [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]](../%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Weapons)[M] standing" />
 
@@ -338,7 +338,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe%20%7BPrimefusion%7D/Axe.gif" /> | <img alt="Axe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe%20%7BSkitty%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe%20%7BPrimefusion%7D/Handaxe.gif" /> | <img alt="Handaxe animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe%20%7BSkitty%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/6.%20Magic%20%7BOrihara_Saki%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T1\]\[CAV\]\[Custom Cavalry\]\(Camel Rider\)\[M\]{Orihara Saki}](./%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D)
+## [\[T1\]\[CAV\]\[Custom Cavalry\]\(Camel Rider\)\[M\]{Orihara Saki}](../%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D)
 
 <img src="./%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Custom Cavalry](Camel Rider)[M]{Orihara Saki} standing" />
 
@@ -351,7 +351,7 @@
 | <img alt="Sword animation" src="./%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D)
+## [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D)
 
 <img src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Amelia)[F]{Redbean, Murata Masashi} standing" />
 
@@ -364,7 +364,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[ARM\]\[General\]\(Oswin\)\[M\]{IS, Jey the Count}](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+## [\[T2\]\[ARM\]\[General\]\(Oswin\)\[M\]{IS, Jey the Count}](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
 <img src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T2][ARM][General](Oswin)[M]{IS, Jey the Count} standing" />
 
@@ -377,7 +377,7 @@
 | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D)
+## [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D)
 
 <img src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Repalette)[U]{Skitty} standing" />
 
@@ -390,7 +390,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[ARM\]\[General\]\(Shield v2 +Cape\)\[U\]](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D)
+## [\[T2\]\[ARM\]\[General\]\(Shield v2 +Cape\)\[U\]](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D)
 
 <img src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Shield v2 +Cape)[U] standing" />
 
@@ -403,7 +403,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[ARM\]\[General\]\(Shield v2\)\[U\]](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D)
+## [\[T2\]\[ARM\]\[General\]\(Shield v2\)\[U\]](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D)
 
 <img src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Shield v2)[U] standing" />
 
@@ -416,7 +416,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/2.%20Lance%20(Chainless)%20%7BPushwall%7D/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[ARM\]\[General\]\(Vanilla +Weapons\)\[U\]](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D)
+## [\[T2\]\[ARM\]\[General\]\(Vanilla +Weapons\)\[U\]](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D)
 
 <img src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Vanilla +Weapons)[U] standing" />
 
@@ -429,7 +429,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword%20(Greatsword)%20%7BJPN%7D/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/2.%20Lance%20(No%20Chain)/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/3.%20Axe%20(Swing)%20%7BTBA%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/5.%20Bow%20(Cannon)%20%7BGabrielKnight%7D/Bow.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/5.%20Bow%20%7BTBA%7D/Bow.gif" /> | <img alt="Magic animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[ARM\]\[General\]\(Wallace\)\[M\]{IS, Jey the Count}](./%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+## [\[T2\]\[ARM\]\[General\]\(Wallace\)\[M\]{IS, Jey the Count}](../%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
 <img src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T2][ARM][General](Wallace)[M]{IS, Jey the Count} standing" />
 
@@ -442,7 +442,7 @@
 | <img alt="Lance animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(+Hat Repalette O\)\[M\]{Orihara_Saki, Pikmin1211, Maiser6}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(+Hat Repalette O\)\[M\]{Orihara_Saki, Pikmin1211, Maiser6}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](+Hat Repalette O)[M]{Orihara_Saki, Pikmin1211, Maiser6} standing" />
 
@@ -455,7 +455,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Bernadetta\)\[F\]{RedBean, Marlon0024, Jj09}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Bernadetta\)\[F\]{RedBean, Marlon0024, Jj09}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/2.%20Lance/Lance_000.png" alt="[T2][BOW][Ranger](Bernadetta)[F]{RedBean, Marlon0024, Jj09} standing" />
 
@@ -468,7 +468,7 @@
 | <img alt="Lance animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/5.%20Bow%20(Jj09)/Bow.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/5.%20Bow%20(Marlon0024)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[F\]{Jey the Count}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[F\]{Jey the Count}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow_000.png" alt="[T2][BOW][Ranger](Bowmaster)[F]{Jey the Count} standing" />
 
@@ -481,7 +481,7 @@
 | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[M\]{Jey the Count}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[M\]{Jey the Count}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow_000.png" alt="[T2][BOW][Ranger](Bowmaster)[M]{Jey the Count} standing" />
 
@@ -494,7 +494,7 @@
 | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper +Fix\)\[F\]{IS, ltranc, Valak}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper +Fix\)\[F\]{IS, ltranc, Valak}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper +Fix)[F]{IS, ltranc, Valak} standing" />
 
@@ -507,7 +507,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper Repalette)[M]{Pikmin1211, Maiser6} standing" />
 
@@ -520,7 +520,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper\)\[M\]{IS}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper\)\[M\]{IS}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper)[M]{IS} standing" />
 
@@ -533,7 +533,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper +Fix\)\[M\]{IS}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper +Fix\)\[M\]{IS}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE7 Nomad Trooper +Fix)[M]{IS} standing" />
 
@@ -546,7 +546,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE7 Nomad Trooper Repalette)[M]{Pikmin1211, Maiser6} standing" />
 
@@ -559,7 +559,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat Repalette O\)\[M\]](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat Repalette O\)\[M\]](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper +Hat Repalette O)[M] standing" />
 
@@ -572,7 +572,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat\)\[M\]{Pikmin1211, Maiser6}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat\)\[M\]{Pikmin1211, Maiser6}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper +Hat)[M]{Pikmin1211, Maiser6} standing" />
 
@@ -585,7 +585,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Non-Sacaen\)\[F\]{Pikmin1211, Maiser6}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Non-Sacaen\)\[F\]{Pikmin1211, Maiser6}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper Non-Sacaen)[F]{Pikmin1211, Maiser6} standing" />
 
@@ -598,7 +598,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper Repalette)[F]{Pikmin1211, Maiser6, Itranc, Valak} standing" />
 
@@ -611,7 +611,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/3.%20Axe%20(ltranc,%20Valak)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/4.%20Handaxe%20(ltranc,%20Valak)/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Rebecca)[F]{Teraspark} standing" />
 
@@ -624,7 +624,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, Valak}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, Valak}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/3.%20Axe%20%7BValak%7D/Axe_000.png" alt="[T2][BOW][Ranger](Sacaen Repalette)[M]{Pikmin1211, Maiser6, Valak} standing" />
 
@@ -637,7 +637,7 @@
 | <img alt="Axe animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/3.%20Axe%20%7BValak%7D/Axe.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Sword-locked\)\[M\]{Aruka, Kenpuhu}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Sword-locked\)\[M\]{Aruka, Kenpuhu}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Sword-locked)[M]{Aruka, Kenpuhu} standing" />
 
@@ -650,7 +650,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Twintails)[F]{GoofyfanG56} standing" />
 
@@ -663,7 +663,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Vanilla +Lance\)\[M\]{IS, Skitty, Feaw}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Vanilla +Lance\)\[M\]{IS, Skitty, Feaw}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Vanilla +Lance)[M]{IS, Skitty, Feaw} standing" />
 
@@ -676,7 +676,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/2.%20Lance%20%7BSkitty,%20Feaw%7D/Lance.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Vanilla\)\[F\]{IS}](./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D)
+## [\[T2\]\[BOW\]\[Ranger\]\(Vanilla\)\[F\]{IS}](../%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D)
 
 <img src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Vanilla)[F]{IS} standing" />
 
@@ -689,7 +689,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]](./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D)
+## [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]](../%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Custom Cavalry](Grand Mahout)[U] standing" />
 
@@ -702,7 +702,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/5.%20Bow%20(Tusk%20Attack)/Bow.gif" /> | <img alt="Monster animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Blade%20Tusk%20-%20Trunk%20Swing)/Monster.gif" /> | <img alt="Monster animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Blade%20Tusk%20Focused%20Attack)/Monster.gif" /> | <img alt="Monster animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Bladed%20Tusk%20Crit)/Monster.gif" /> | <img alt="Monster animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Trunk%20Swing)/Monster.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Unarmed%20(Basic%20Melee%20Attack)/Unarmed.gif" /> | <img alt="Sound animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/Sound%20Effects/Sound.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Custom Cavalry\]\(Salamander Rider\)\[M\]{Aruka, Kenpuhu}](./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D)
+## [\[T2\]\[CAV\]\[Custom Cavalry\]\(Salamander Rider\)\[M\]{Aruka, Kenpuhu}](../%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Custom Cavalry](Salamander Rider)[M]{Aruka, Kenpuhu} standing" />
 
@@ -715,7 +715,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}](./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D)
+## [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}](../%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Repalette)[U]{Skitty} standing" />
 
@@ -728,7 +728,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}](./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D)
+## [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}](../%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Vanilla +Magic, Staff)[U]{IS, Primefusion} standing" />
 
@@ -741,7 +741,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/6.%20Magic%20%7BPrimefusion%7D/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/7.%20Staff%20%7BPrimefusion%7D/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(Kent\)\[M\]{Greentea, RobertFPY}](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+## [\[T2\]\[CAV\]\[Paladin\]\(Kent\)\[M\]{Greentea, RobertFPY}](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Kent)[M]{Greentea, RobertFPY} standing" />
 
@@ -754,7 +754,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(Sain\)\[M\]{Greentea, RobertFPY}](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+## [\[T2\]\[CAV\]\[Paladin\]\(Sain\)\[M\]{Greentea, RobertFPY}](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Sain)[M]{Greentea, RobertFPY} standing" />
 
@@ -767,7 +767,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D)
+## [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Salv Repal)[M] standing" />
 
@@ -780,7 +780,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/Palettes/Palettes.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED Alt F\)\[F\]](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D)
+## [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED Alt F\)\[F\]](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED Alt F)[F] standing" />
 
@@ -793,7 +793,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[F\]](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D)
+## [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[F\]](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20(RJ_Exists)/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED)[F] standing" />
 
@@ -806,7 +806,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20(RJ_Exists)/Sword.gif" /> | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20%7BLevin64%7D/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/3.%20Axe%20%7BLevin64%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/4.%20Handaxe%20%7BLevin64%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/5.%20Bow%20(RJ_Exists,%20Obsidian_Daddy)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D)
+## [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED)[M]{Team SALVAGED, ZoramineFae} standing" />
 
@@ -819,7 +819,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/5.%20Bow%20%7BObsidian%20Daddy%7D/Bow.gif" /> | <img alt="Magic animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/6.%20Magic%20%7BZoramineFae%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Bow, Staff\)\[F\]](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D)
+## [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Bow, Staff\)\[F\]](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Vanilla +Bow, Staff)[F] standing" />
 
@@ -832,7 +832,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Weapons\)\[M\]](./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D)
+## [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Weapons\)\[M\]](../%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D)
 
 <img src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Vanilla +Weapons)[M] standing" />
 
@@ -845,7 +845,7 @@
 | <img alt="Sword animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(Baron +Weapons\)\[U\]{TBA, St jack, Flasuban, Sax-Marine}](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D)
+## [\[T3\]\[ARM\]\[Marshall\]\(Baron +Weapons\)\[U\]{TBA, St jack, Flasuban, Sax-Marine}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron +Weapons)[U]{TBA, St jack, Flasuban, Sax-Marine} standing" />
 
@@ -858,7 +858,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/7.%20Staff%20(Visible)%20%7BFlasuban%7D/Staff.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D)
+## [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron Cape +Weapons)[M] standing" />
 
@@ -871,7 +871,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/8.%20Unarmed%20(No%20Shield)/Unarmed.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons, No Clicks\)\[M\]](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D)
+## [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons, No Clicks\)\[M\]](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron Cape +Weapons, No Clicks)[M] standing" />
 
@@ -884,7 +884,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/6.%20Magic%20(DerTheVaporeon)/Magic.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(Black Knight\)\[M\]{Luerock}](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D)
+## [\[T3\]\[ARM\]\[Marshall\]\(Black Knight\)\[M\]{Luerock}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary_000.png" alt="[T3][ARM][Marshall](Black Knight)[M]{Luerock} standing" />
 
@@ -897,7 +897,7 @@
 | <img alt="Legendary animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D)
+## [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Emperor)[U]{TBA, St jack} standing" />
 
@@ -910,7 +910,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/7.%20Staff/Staff.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]](./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D)
+## [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]](../%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](King - Generic)[M] standing" />
 
@@ -923,7 +923,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/6.%20Magic%20(With%20Sword)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/Palettes/Palettes.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(King Zephiel +Weapons\)\[M\]{IS, Hairyblob, Maiser6}](./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D)
+## [\[T3\]\[ARM\]\[Marshall\]\(King Zephiel +Weapons\)\[M\]{IS, Hairyblob, Maiser6}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/1.%20Sword%20%7BHairyblob,%20Maiser6%7D/Sword_000.png" alt="[T3][ARM][Marshall](King Zephiel +Weapons)[M]{IS, Hairyblob, Maiser6} standing" />
 
@@ -936,7 +936,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/1.%20Sword%20%7BHairyblob,%20Maiser6%7D/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/2.%20Lance%20%7BHairyblob,%20Maiser6%7D/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/3.%20Axe%20%7BHairyblob,%20Maiser6%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/4.%20Handaxe%20%7BHairyblob,%20Maiser6%7D/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/6.%20Magic%20%7BHairyblob,%20Maiser6%7D/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/7.%20Staff%20%7BHairyblob,%20Maiser6%7D/Staff.gif" /> | <img alt="Legendary animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/8.%20Legendary%20Sword%20(Eckesachs)/Legendary.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D)
+## [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Zelgius 2.0)[M]{Nuramon} standing" />
 
@@ -949,7 +949,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/2.%20Lance/Lance.gif" /> | <img alt="Legendary animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3\]\[ARM\]\[Marshall\]\(Zelgius\)\[M\]{Luerock, Nuramon}](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D)
+## [\[T3\]\[ARM\]\[Marshall\]\(Zelgius\)\[M\]{Luerock, Nuramon}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D)
 
 <img src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Zelgius)[M]{Luerock, Nuramon} standing" />
 
@@ -962,7 +962,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Legendary animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D)
+## [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D)
 
 <img src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/5.%20Bow/Bow_000.png" alt="[T3][CAV][Master Knight](Bow Knight)[M]{Spud, HGS} standing" />
 
@@ -975,7 +975,7 @@
 | <img alt="Bow animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D)
+## [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D)
 
 <img src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight](Gold Knight)[U]{Nuramon} standing" />
 
@@ -988,7 +988,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D)
+## [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D)
 
 <img src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(Magic%20Crit%20Flash)%20%7Bblood%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin Alt S)[M]{Seal, Arkth, Aruka, blood} standing" />
 
@@ -1001,7 +1001,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(Magic%20Crit%20Flash)%20%7Bblood%7D/Sword.gif" /> | <img alt="Sword animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(v1)%20%7BSeal%7D/Sword.gif" /> | <img alt="Sword animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(v2)%20%7BArkth%7D/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/2.%20Lance%20%7BSeal%7D/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Seth\)\[M\]{Aruka, Kenpuhu}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D)
+## [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Seth\)\[M\]{Aruka, Kenpuhu}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D)
 
 <img src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin Seth)[M]{Aruka, Kenpuhu} standing" />
 
@@ -1014,7 +1014,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/2.%20Lance/Lance.gif" /> |
 
 
-## [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud))
+## [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud))
 
 <img src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/1.%20Sword%20%7BKenpuhu,%20Aruka%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin)[M](Kenpuhu, Aruka, Nuramon, Spud) standing" />
 
@@ -1027,7 +1027,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/1.%20Sword%20%7BKenpuhu,%20Aruka%7D/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/2.%20Lance%20%7BKenpuhu,%20Aruka%7D/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/3.%20Axe%20%7BNuramon%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/4.%20Handaxe%20%7BNuramon%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/5.%20Bow%20%7BNuramon%7D/Bow.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/6.%20Magic%20(Kenpuhu,%20Aruka,%20Spud)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/8.%20Unarmed%20%7BKenpuhu,%20Aruka%7D/Unarmed.gif" /> |
 
 
-## [\[T3\]\[CAV\]\[Master Knight\]\[F\]{St jack}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D)
+## [\[T3\]\[CAV\]\[Master Knight\]\[F\]{St jack}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D)
 
 <img src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight][F]{St jack} standing" />
 
@@ -1040,7 +1040,7 @@
 | <img alt="Sword animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/7.%20Staff/Staff.gif" /> |
 
 
-## [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}](./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D)
+## [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}](../%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D)
 
 <img src="./%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight][M]{St jack, Mycahel} standing" />
 

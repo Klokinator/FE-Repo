@@ -1,4 +1,4 @@
-# [\[Fighter-Variant\] \[F\] FE9 Fighter](./%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Fighter)
+# [\[Fighter-Variant\] \[F\] FE9 Fighter](../%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Fighter)
 
 <img src="./3.%20Axe%20(Maiser6)/Axe_000.png" alt="[Fighter-Variant] [F] FE9 Fighter standing" />
 

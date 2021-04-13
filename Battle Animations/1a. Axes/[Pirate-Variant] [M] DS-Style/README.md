@@ -1,4 +1,4 @@
-# [\[Pirate-Variant\] \[M\] DS-Style](./%5BPirate-Variant%5D%20%5BM%5D%20DS-Style)
+# [\[Pirate-Variant\] \[M\] DS-Style](../%5BPirate-Variant%5D%20%5BM%5D%20DS-Style)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Pirate-Variant] [M] DS-Style standing" />
 

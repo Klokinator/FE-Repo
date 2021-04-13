@@ -1,4 +1,4 @@
-# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Helmetless +Axe\)\[U\]{St jack}](./%5BT2%5D%5BFLY%5D%5BWyvern%20Knight%5D(Helmetless%20+Axe)%5BU%5D%7BSt%20jack%7D)
+# [\[T2\]\[FLY\]\[Wyvern Knight\]\(Helmetless +Axe\)\[U\]{St jack}](../%5BT2%5D%5BFLY%5D%5BWyvern%20Knight%5D(Helmetless%20+Axe)%5BU%5D%7BSt%20jack%7D)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T2][FLY][Wyvern Knight](Helmetless +Axe)[U]{St jack} standing" />
 

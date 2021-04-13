@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[F\] Temp's Repal Long Hair](./%5BWarrior-Base%5D%20%5BF%5D%20Temp's%20Repal%20Long%20Hair)
+# [\[Warrior-Base\] \[F\] Temp's Repal Long Hair](../%5BWarrior-Base%5D%20%5BF%5D%20Temp's%20Repal%20Long%20Hair)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Base] [F] Temp's Repal Long Hair standing" />
 

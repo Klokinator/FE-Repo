@@ -1,4 +1,4 @@
-# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade Alt Stache\)\[M\]](./%5BT3%5D%5BSWD%5D%5BSwordmaster%5D(Trueblade%20Alt%20Stache)%5BM%5D)
+# [\[T3\]\[SWD\]\[Swordmaster\]\(Trueblade Alt Stache\)\[M\]](../%5BT3%5D%5BSWD%5D%5BSwordmaster%5D(Trueblade%20Alt%20Stache)%5BM%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][SWD][Swordmaster](Trueblade Alt Stache)[M] standing" />
 

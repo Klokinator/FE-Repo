@@ -1,4 +1,4 @@
-# [\[T2\]\[MON\]\[Demon\]\(Tarvos - Elder\)\[M\]{Seal}](./%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D)
+# [\[T2\]\[MON\]\[Demon\]\(Tarvos - Elder\)\[M\]{Seal}](../%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T2][MON][Demon](Tarvos - Elder)[M]{Seal} standing" />
 

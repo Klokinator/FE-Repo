@@ -1,4 +1,4 @@
-# [\[T1\]\[MON\]\(Revenant\)\(Beta\){IS}](./%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D)
+# [\[T1\]\[MON\]\(Revenant\)\(Beta\){IS}](../%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D)
 
 <img src="./8.%20Monster/Monster_000.png" alt="[T1][MON](Revenant)(Beta){IS} standing" />
 

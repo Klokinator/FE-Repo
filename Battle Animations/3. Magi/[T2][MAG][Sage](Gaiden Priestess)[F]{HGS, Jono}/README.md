@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Sage\]\(Gaiden Priestess\)\[F\]{HGS, Jono}](./%5BT2%5D%5BMAG%5D%5BSage%5D(Gaiden%20Priestess)%5BF%5D%7BHGS,%20Jono%7D)
+# [\[T2\]\[MAG\]\[Sage\]\(Gaiden Priestess\)\[F\]{HGS, Jono}](../%5BT2%5D%5BMAG%5D%5BSage%5D(Gaiden%20Priestess)%5BF%5D%7BHGS,%20Jono%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][MAG][Sage](Gaiden Priestess)[F]{HGS, Jono} standing" />
 

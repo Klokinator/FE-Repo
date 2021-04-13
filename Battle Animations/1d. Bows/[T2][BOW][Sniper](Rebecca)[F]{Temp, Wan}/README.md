@@ -1,4 +1,4 @@
-# [\[T2\]\[BOW\]\[Sniper\]\(Rebecca\)\[F\]{Temp, Wan}](./%5BT2%5D%5BBOW%5D%5BSniper%5D(Rebecca)%5BF%5D%7BTemp,%20Wan%7D)
+# [\[T2\]\[BOW\]\[Sniper\]\(Rebecca\)\[F\]{Temp, Wan}](../%5BT2%5D%5BBOW%5D%5BSniper%5D(Rebecca)%5BF%5D%7BTemp,%20Wan%7D)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T2][BOW][Sniper](Rebecca)[F]{Temp, Wan} standing" />
 

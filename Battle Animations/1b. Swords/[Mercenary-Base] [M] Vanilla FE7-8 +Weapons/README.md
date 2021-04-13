@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons)
+# [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](../%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Vanilla FE7-8 +Weapons standing" />
 

@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Armored +Axe](./%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe)
+# [\[Mercenary-Base\] \[M\] Armored +Axe](../%5BMercenary-Base%5D%20%5BM%5D%20Armored%20+Axe)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Armored +Axe standing" />
 

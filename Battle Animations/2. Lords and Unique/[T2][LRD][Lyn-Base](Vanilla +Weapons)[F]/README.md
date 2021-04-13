@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla +Weapons\)\[F\]](./%5BT2%5D%5BLRD%5D%5BLyn-Base%5D(Vanilla%20+Weapons)%5BF%5D)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla +Weapons\)\[F\]](../%5BT2%5D%5BLRD%5D%5BLyn-Base%5D(Vanilla%20+Weapons)%5BF%5D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Lyn-Base](Vanilla +Weapons)[F] standing" />
 

@@ -1,4 +1,4 @@
-# [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}](./%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D)
+# [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}](../%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Emperor)[U]{TBA, St jack} standing" />
 

@@ -1,4 +1,4 @@
-# [\[T1\]\[BOW\]\[Archer\]\(Rebecca\)\[F\]{IS}](./%5BT1%5D%5BBOW%5D%5BArcher%5D(Rebecca)%5BF%5D%7BIS%7D)
+# [\[T1\]\[BOW\]\[Archer\]\(Rebecca\)\[F\]{IS}](../%5BT1%5D%5BBOW%5D%5BArcher%5D(Rebecca)%5BF%5D%7BIS%7D)
 
 <img src="./5.%20Bow/Bow_000.png" alt="[T1][BOW][Archer](Rebecca)[F]{IS} standing" />
 

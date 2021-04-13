@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Repalette\)\[F\]{Teraspark}](./%5BT2%5D%5BLRD%5D%5BEirika-Base%5D(Repalette)%5BF%5D%7BTeraspark%7D)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Repalette\)\[F\]{Teraspark}](../%5BT2%5D%5BLRD%5D%5BEirika-Base%5D(Repalette)%5BF%5D%7BTeraspark%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Eirika-Base](Repalette)[F]{Teraspark} standing" />
 

@@ -1,4 +1,4 @@
-# [\[Assassin-Variant\] \[M\] Character - Colm](./%5BAssassin-Variant%5D%20%5BM%5D%20Character%20-%20Colm)
+# [\[Assassin-Variant\] \[M\] Character - Colm](../%5BAssassin-Variant%5D%20%5BM%5D%20Character%20-%20Colm)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Variant] [M] Character - Colm standing" />
 

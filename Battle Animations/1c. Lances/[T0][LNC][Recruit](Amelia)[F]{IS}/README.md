@@ -1,4 +1,4 @@
-# [\[T0\]\[LNC\]\[Recruit\]\(Amelia\)\[F\]{IS}](./%5BT0%5D%5BLNC%5D%5BRecruit%5D(Amelia)%5BF%5D%7BIS%7D)
+# [\[T0\]\[LNC\]\[Recruit\]\(Amelia\)\[F\]{IS}](../%5BT0%5D%5BLNC%5D%5BRecruit%5D(Amelia)%5BF%5D%7BIS%7D)
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T0][LNC][Recruit](Amelia)[F]{IS} standing" />
 

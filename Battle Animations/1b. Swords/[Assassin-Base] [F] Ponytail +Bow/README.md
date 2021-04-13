@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Ponytail +Bow](./%5BAssassin-Base%5D%20%5BF%5D%20Ponytail%20+Bow)
+# [\[Assassin-Base\] \[F\] Ponytail +Bow](../%5BAssassin-Base%5D%20%5BF%5D%20Ponytail%20+Bow)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [F] Ponytail +Bow standing" />
 

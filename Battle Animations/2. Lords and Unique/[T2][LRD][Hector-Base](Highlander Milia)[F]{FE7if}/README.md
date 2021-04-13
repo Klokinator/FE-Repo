@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Hector-Base\]\(Highlander Milia\)\[F\]{FE7if}](./%5BT2%5D%5BLRD%5D%5BHector-Base%5D(Highlander%20Milia)%5BF%5D%7BFE7if%7D)
+# [\[T2\]\[LRD\]\[Hector-Base\]\(Highlander Milia\)\[F\]{FE7if}](../%5BT2%5D%5BLRD%5D%5BHector-Base%5D(Highlander%20Milia)%5BF%5D%7BFE7if%7D)
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T2][LRD][Hector-Base](Highlander Milia)[F]{FE7if} standing" />
 

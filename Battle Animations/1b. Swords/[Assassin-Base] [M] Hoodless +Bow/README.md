@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Hoodless +Bow](./%5BAssassin-Base%5D%20%5BM%5D%20Hoodless%20+Bow)
+# [\[Assassin-Base\] \[M\] Hoodless +Bow](../%5BAssassin-Base%5D%20%5BM%5D%20Hoodless%20+Bow)
 
 <img src="./1.%20Sword%20(Fixed)/Sword_000.png" alt="[Assassin-Base] [M] Hoodless +Bow standing" />
 

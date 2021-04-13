@@ -1,4 +1,4 @@
-# [\[T2\]\[MAG\]\[Dark Knight\]\(3DS-Style\)\[U\]{Pikmin1211, Jj09, DerTheVaporeon}](./%5BT2%5D%5BMAG%5D%5BDark%20Knight%5D(3DS-Style)%5BU%5D%7BPikmin1211,%20Jj09,%20DerTheVaporeon%7D)
+# [\[T2\]\[MAG\]\[Dark Knight\]\(3DS-Style\)\[U\]{Pikmin1211, Jj09, DerTheVaporeon}](../%5BT2%5D%5BMAG%5D%5BDark%20Knight%5D(3DS-Style)%5BU%5D%7BPikmin1211,%20Jj09,%20DerTheVaporeon%7D)
 
 <img src="./1.%20Sword%20(jj09,%20DerTheVaporeon)/Sword_000.png" alt="[T2][MAG][Dark Knight](3DS-Style)[U]{Pikmin1211, Jj09, DerTheVaporeon} standing" />
 

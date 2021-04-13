@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Black Pants](./%5BMyrmidon-Base%5D%20%5BM%5D%20Black%20Pants)
+# [\[Myrmidon-Base\] \[M\] Black Pants](../%5BMyrmidon-Base%5D%20%5BM%5D%20Black%20Pants)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Black Pants standing" />
 

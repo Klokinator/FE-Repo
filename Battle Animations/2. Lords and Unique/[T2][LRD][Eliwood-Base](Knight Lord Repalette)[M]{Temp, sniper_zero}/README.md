@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Repalette\)\[M\]{Temp, sniper_zero}](./%5BT2%5D%5BLRD%5D%5BEliwood-Base%5D(Knight%20Lord%20Repalette)%5BM%5D%7BTemp,%20sniper_zero%7D)
+# [\[T2\]\[LRD\]\[Eliwood-Base\]\(Knight Lord Repalette\)\[M\]{Temp, sniper_zero}](../%5BT2%5D%5BLRD%5D%5BEliwood-Base%5D(Knight%20Lord%20Repalette)%5BM%5D%7BTemp,%20sniper_zero%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Eliwood-Base](Knight Lord Repalette)[M]{Temp, sniper_zero} standing" />
 

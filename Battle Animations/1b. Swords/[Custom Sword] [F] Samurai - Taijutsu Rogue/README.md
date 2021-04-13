@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[F\] Samurai - Taijutsu Rogue](./%5BCustom%20Sword%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue)
+# [\[Custom Sword\] \[F\] Samurai - Taijutsu Rogue](../%5BCustom%20Sword%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Samurai - Taijutsu Rogue standing" />
 

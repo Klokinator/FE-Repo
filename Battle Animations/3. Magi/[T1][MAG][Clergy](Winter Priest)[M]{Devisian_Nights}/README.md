@@ -1,4 +1,4 @@
-# [\[T1\]\[MAG\]\[Clergy\]\(Winter Priest\)\[M\]{Devisian_Nights}](./%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D)
+# [\[T1\]\[MAG\]\[Clergy\]\(Winter Priest\)\[M\]{Devisian_Nights}](../%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D)
 
 <img src="./7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Winter Priest)[M]{Devisian_Nights} standing" />
 

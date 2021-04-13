@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla Repalette\)\[F\]{IS, Sax Marine}](./%5BT2%5D%5BLRD%5D%5BLyn-Base%5D(Vanilla%20Repalette)%5BF%5D%7BIS,%20Sax%20Marine%7D)
+# [\[T2\]\[LRD\]\[Lyn-Base\]\(Vanilla Repalette\)\[F\]{IS, Sax Marine}](../%5BT2%5D%5BLRD%5D%5BLyn-Base%5D(Vanilla%20Repalette)%5BF%5D%7BIS,%20Sax%20Marine%7D)
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2][LRD][Lyn-Base](Vanilla Repalette)[F]{IS, Sax Marine} standing" />
 

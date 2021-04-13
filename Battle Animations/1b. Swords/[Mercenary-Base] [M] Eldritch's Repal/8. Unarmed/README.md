@@ -1,0 +1,12 @@
+# [\[Mercenary-Base\] \[M\] Eldritch's Repal](../)
+
+## Credit
+
+Original animation by IS.
+Repalette by Eldritch Abomination.
+	
+## Unarmed
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Unarmed still](./Unarmed_000.png) | ![Unarmed animation](./Unarmed.gif) |

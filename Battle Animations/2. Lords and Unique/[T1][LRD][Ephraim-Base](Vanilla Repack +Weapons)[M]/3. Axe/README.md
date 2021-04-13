@@ -1,0 +1,13 @@
+# [\[T1\]\[LRD\]\[Ephraim-Base\]\(Vanilla Repack +Weapons\)\[M\]](../)
+
+## Credit
+
+DerTheVaporeon, Pikmin1211, ZoramineFae
+
+7. Staff {ZoramineFae}
+	
+## Axe
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Axe still](./Axe_000.png) | ![Axe animation](./Axe.gif) |

@@ -1812,9 +1812,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Leo_Link's%20Alt/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Leo_Link's%20Alt/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow\)](./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow)/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow))
+### [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow)
 
-<img src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow)/1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Vanilla FE6 Ponytail +Bow) standing" />
+<img src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Vanilla FE6 Ponytail +Bow standing" />
 
 
 #### Weapons
@@ -1822,7 +1822,7 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow)/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow)/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow)/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Myrmidon-Base\] \[M\] Black Pants](./1b.%20Swords/%5BMyrmidon-Base%5D%20%5BM%5D%20Black%20Pants/%5BMyrmidon-Base%5D%20%5BM%5D%20Black%20Pants)

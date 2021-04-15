@@ -671,9 +671,9 @@
 ### Weapons
 
 
-|Sword |Axe |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/3.%20Axe/Axe.gif" /> |
+|Sword |Axe |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/3.%20Axe/Axe.gif" /> | <img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Hero-Variant\] \[M\] Champion by Aruka](./%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka/%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka)

@@ -1,21 +1,5 @@
 # Battle Animations
 
-## [1. Infantry Battle Animations](./1.%20Infantry/)
-
-### [\[T2\]\[SWD\]\[Hero\]\(Champion\)\[M\]{Waleed, Aruka, Kenpuhu}](./1.%20Infantry/%5BT2%5D%5BSWD%5D%5BHero%5D(Champion)%5BM%5D%7BWaleed,%20Aruka,%20Kenpuhu%7D/%5BT2%5D%5BSWD%5D%5BHero%5D(Champion)%5BM%5D%7BWaleed,%20Aruka,%20Kenpuhu%7D)
-
-<img src="./1.%20Infantry/%5BT2%5D%5BSWD%5D%5BHero%5D(Champion)%5BM%5D%7BWaleed,%20Aruka,%20Kenpuhu%7D/8.%20Unarmed/Unarmed_000.png" alt="[T2][SWD][Hero](Champion)[M]{Waleed, Aruka, Kenpuhu} standing" />
-
-
-#### Weapons
-
-
-|Unarmed |
-|  :---: |
-| <img alt="Unarmed animation" src="./1.%20Infantry/%5BT2%5D%5BSWD%5D%5BHero%5D(Champion)%5BM%5D%7BWaleed,%20Aruka,%20Kenpuhu%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-
 ## [1a. Axes Battle Animations](./1a.%20Axes/)
 
 ### [\[Berserker-Base\] \[F\] Armored by eCut](./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut)
@@ -1589,9 +1573,9 @@
 #### Weapons
 
 
-|Sword |Axe |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/3.%20Axe/Axe.gif" /> |
+|Sword |Axe |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/3.%20Axe/Axe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Hero-Variant\] \[M\] Champion by Aruka](./1b.%20Swords/%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka/%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka)

@@ -457,9 +457,9 @@
 | <img alt="Axe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Fighter-Base\] \[M\] Tellius-Style by Pushwall](./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall)
+### [\[Fighter-Base\] \[M\] Tellius-Style Clothing by Leo_Link](./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link)
 
-<img src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius-Style by Pushwall standing" />
+<img src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius-Style Clothing by Leo_Link standing" />
 
 
 #### Weapons
@@ -467,7 +467,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Fighter-Base\] \[M\] Vanilla +Sword](./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword)
@@ -483,9 +483,9 @@
 | <img alt="Sword animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/1.%20Sword%20(Hector)%20(Vilkalizer)/Sword.gif" /> | <img alt="Sword animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/1.%20Sword%20(Vilkalizer)/Sword.gif" /> | <img alt="Axe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Fighter-Crossover\] \[M\] Bow Fighter by Leo_Link](./1a.%20Axes/%5BFighter-Crossover%5D%20%5BM%5D%20Bow%20Fighter%20by%20Leo_Link/%5BFighter-Crossover%5D%20%5BM%5D%20Bow%20Fighter%20by%20Leo_Link)
+### [\[Fighter-Crossover\] \[M\] Tellius-Style Bow-Only](./1a.%20Axes/%5BFighter-Crossover%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/%5BFighter-Crossover%5D%20%5BM%5D%20Tellius-Style%20Bow-Only)
 
-<img src="./1a.%20Axes/%5BFighter-Crossover%5D%20%5BM%5D%20Bow%20Fighter%20by%20Leo_Link/5.%20Bow/Bow_000.png" alt="[Fighter-Crossover] [M] Bow Fighter by Leo_Link standing" />
+<img src="./1a.%20Axes/%5BFighter-Crossover%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/5.%20Bow/Bow_000.png" alt="[Fighter-Crossover] [M] Tellius-Style Bow-Only standing" />
 
 
 #### Weapons
@@ -493,7 +493,7 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1a.%20Axes/%5BFighter-Crossover%5D%20%5BM%5D%20Bow%20Fighter%20by%20Leo_Link/5.%20Bow/Bow.gif" /> |
+| <img alt="Bow animation" src="./1a.%20Axes/%5BFighter-Crossover%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/5.%20Bow/Bow.gif" /> |
 
 
 ### [\[Fighter-Variant\] \[F\] FE9 Variant by Pikmin](./1a.%20Axes/%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin/%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin)

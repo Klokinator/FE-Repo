@@ -1,4 +1,4 @@
-# [2c. Refreshers, Misc (WIP) Battle Animations](./)
+# [2c. Refreshers, Misc (50% Done) Battle Animations](./)
 
 ## [\[Misc-Supplier\] \[F\] Supplier by JonoTheRed](./%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed)
 

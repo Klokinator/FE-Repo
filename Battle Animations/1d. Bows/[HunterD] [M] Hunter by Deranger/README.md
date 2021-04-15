@@ -1,6 +1,6 @@
-# [\[Archer-Variant\] \[M\] Hunter by Deranger](./)
+# [\[HunterD\] \[M\] Hunter by Deranger](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Hunter by Deranger standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[HunterD] [M] Hunter by Deranger standing" />
 
 ## Credits
 

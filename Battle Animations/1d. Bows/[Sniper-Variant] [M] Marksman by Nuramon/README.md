@@ -1,10 +1,10 @@
-# [\[Archer-Variant\] \[M\] Hunter by MeatOfJustice](./)
+# [\[Sniper-Variant\] \[M\] Marksman by Nuramon](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Hunter by MeatOfJustice standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [M] Marksman by Nuramon standing" />
 
 ## Credits
 
-Leo_link, Spud, MeatOfJustice
+Made by Nuramon.
 
 ## Weapons
 

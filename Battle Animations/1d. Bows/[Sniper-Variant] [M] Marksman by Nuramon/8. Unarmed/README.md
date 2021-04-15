@@ -1,4 +1,4 @@
-# [\[Sniper\] \[M\] Marksman by Nuramon]
+# [\[Sniper-Variant\] \[M\] Marksman by Nuramon]
 
 ## Credit
 

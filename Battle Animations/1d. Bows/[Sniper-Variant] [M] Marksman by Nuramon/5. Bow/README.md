@@ -1,8 +1,8 @@
-# [\[Archer-Variant\] \[F\] Hunter by MeatOfJustice]
+# [\[Sniper-Variant\] \[M\] Marksman by Nuramon]
 
 ## Credit
 
-Leo_link, Spud, MeatOfJustice
+Made by Nuramon.
 	
 ## Bow
 

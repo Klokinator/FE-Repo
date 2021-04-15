@@ -1,4 +1,4 @@
-# [\[Archer-Variant\] \[M\] Hunter by Deranger]
+# [\[HunterD\] \[M\] Hunter by Deranger]
 
 ## Credit
 

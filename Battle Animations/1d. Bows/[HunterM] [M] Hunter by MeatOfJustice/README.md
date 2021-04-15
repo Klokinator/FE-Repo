@@ -1,10 +1,10 @@
-# [\[Sniper\] \[M\] Marksman by Nuramon](./)
+# [\[HunterM\] \[M\] Hunter by MeatOfJustice](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [M] Marksman by Nuramon standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[HunterM] [M] Hunter by MeatOfJustice standing" />
 
 ## Credits
 
-Made by Nuramon.
+Leo_link, Spud, MeatOfJustice
 
 ## Weapons
 

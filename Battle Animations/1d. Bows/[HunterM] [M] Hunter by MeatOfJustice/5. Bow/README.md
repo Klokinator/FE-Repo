@@ -1,8 +1,8 @@
-# [\[Sniper\] \[M\] Marksman by Nuramon]
+# [\[HunterM\] \[M\] Hunter by MeatOfJustice]
 
 ## Credit
 
-Made by Nuramon.
+Leo_link, Spud, MeatOfJustice
 	
 ## Bow
 

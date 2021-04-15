@@ -1,4 +1,4 @@
-# [\[Archer-Variant\] \[F\] Hunter by MeatOfJustice]
+# [\[HunterM\] \[F\] Hunter by MeatOfJustice]
 
 ## Credit
 

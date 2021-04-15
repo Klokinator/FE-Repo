@@ -13,32 +13,6 @@
 | <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Archer-Variant\] \[F\] Hunter by Deranger](./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger)
-
-<img src="./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Hunter by Deranger standing" />
-
-
-### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Archer-Variant\] \[F\] Hunter by MeatOfJustice](./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice)
-
-<img src="./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Hunter by MeatOfJustice standing" />
-
-
-### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
-
-
 ## [\[Archer-Variant\] \[M\] Der's Improved](./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved)
 
 <img src="./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Der's Improved standing" />
@@ -63,32 +37,6 @@
 |Bow |Unarmed |
 |  :---: | :---: |
 | <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Archer-Variant\] \[M\] Hunter by Deranger](./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger)
-
-<img src="./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Hunter by Deranger standing" />
-
-
-### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Archer-Variant\] \[M\] Hunter by MeatOfJustice](./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice)
-
-<img src="./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Hunter by MeatOfJustice standing" />
-
-
-### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Archer\] \[F\] Der's Forrest-Like](./%5BArcher%5D%20%5BF%5D%20Der's%20Forrest-Like/%5BArcher%5D%20%5BF%5D%20Der's%20Forrest-Like)
@@ -663,6 +611,58 @@
 | <img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal/5.%20Bow/Bow.gif" /> |
 
 
+## [\[HunterD\] \[F\] Hunter by Deranger](./%5BHunterD%5D%20%5BF%5D%20Hunter%20by%20Deranger/%5BHunterD%5D%20%5BF%5D%20Hunter%20by%20Deranger)
+
+<img src="./%5BHunterD%5D%20%5BF%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow_000.png" alt="[HunterD] [F] Hunter by Deranger standing" />
+
+
+### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./%5BHunterD%5D%20%5BF%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BHunterD%5D%20%5BF%5D%20Hunter%20by%20Deranger/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[HunterD\] \[M\] Hunter by Deranger](./%5BHunterD%5D%20%5BM%5D%20Hunter%20by%20Deranger/%5BHunterD%5D%20%5BM%5D%20Hunter%20by%20Deranger)
+
+<img src="./%5BHunterD%5D%20%5BM%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow_000.png" alt="[HunterD] [M] Hunter by Deranger standing" />
+
+
+### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./%5BHunterD%5D%20%5BM%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BHunterD%5D%20%5BM%5D%20Hunter%20by%20Deranger/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[HunterM\] \[F\] Hunter by MeatOfJustice](./%5BHunterM%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/%5BHunterM%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice)
+
+<img src="./%5BHunterM%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow_000.png" alt="[HunterM] [F] Hunter by MeatOfJustice standing" />
+
+
+### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./%5BHunterM%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BHunterM%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[HunterM\] \[M\] Hunter by MeatOfJustice](./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice)
+
+<img src="./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow_000.png" alt="[HunterM] [M] Hunter by MeatOfJustice standing" />
+
+
+### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Sniper-Variant\] \[F\] Marksman by Nuramon](./%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon)
 
 <img src="./%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [F] Marksman by Nuramon standing" />
@@ -674,6 +674,19 @@
 |Bow |Unarmed |
 |  :---: | :---: |
 | <img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Sniper-Variant\] \[M\] Marksman by Nuramon](./%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon/%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon)
+
+<img src="./%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [M] Marksman by Nuramon standing" />
+
+
+### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Sniper-Variant\] \[M\] Zackumi](./%5BSniper-Variant%5D%20%5BM%5D%20Zackumi/%5BSniper-Variant%5D%20%5BM%5D%20Zackumi)
@@ -856,19 +869,6 @@
 |Bow |Unarmed |
 |  :---: | :---: |
 | <img alt="Bow animation" src="./%5BSniper%5D%20%5BM%5D%20Innes%20by%20Vilkalizer/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper%5D%20%5BM%5D%20Innes%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Sniper\] \[M\] Marksman by Nuramon](./%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon)
-
-<img src="./%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Marksman by Nuramon standing" />
-
-
-### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Sniper\] \[M\] Quiver by Nuramon](./%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon)

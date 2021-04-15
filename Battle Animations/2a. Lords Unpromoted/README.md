@@ -143,32 +143,6 @@
 | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Long-Haired%20by%20Xenith/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Long-Haired%20by%20Xenith/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Eliwood-Base\] \[M\] Marth Hard-Stab by PwnageKirby](./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby)
-
-<img src="./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Marth Hard-Stab by PwnageKirby standing" />
-
-
-### Weapons
-
-
-|Sword |Sword |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/1.%20Sword%20(Alt)/Sword.gif" /> |
-
-
-## [\[Eliwood-Base\] \[M\] Marth Thrust-Stab by Blaze](./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze)
-
-<img src="./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Marth Thrust-Stab by Blaze standing" />
-
-
-### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/8.%20Unarmed/Unarmed.gif" /> |
-
-
 ## [\[Eliwood-Base\] \[M\] Prince Zephiel by Teraspark](./%5BEliwood-Base%5D%20%5BM%5D%20Prince%20Zephiel%20by%20Teraspark/%5BEliwood-Base%5D%20%5BM%5D%20Prince%20Zephiel%20by%20Teraspark)
 
 <img src="./%5BEliwood-Base%5D%20%5BM%5D%20Prince%20Zephiel%20by%20Teraspark/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Prince Zephiel by Teraspark standing" />
@@ -234,6 +208,32 @@
 | <img alt="Sword animation" src="./%5BEliwood-Slash%5D%20%5BM%5D%20Marth%20Slash%20by%20Caim%20Van%20Fang/1.%20Sword/Sword.gif" /> |
 
 
+## [\[Eliwood-Variant\] \[M\] Marth Hard-Stab by PwnageKirby](./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby)
+
+<img src="./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [M] Marth Hard-Stab by PwnageKirby standing" />
+
+
+### Weapons
+
+
+|Sword |Sword |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Hard-Stab%20by%20PwnageKirby/1.%20Sword%20(Alt)/Sword.gif" /> |
+
+
+## [\[Eliwood-Variant\] \[M\] Marth Thrust-Stab by Blaze](./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze)
+
+<img src="./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [M] Marth Thrust-Stab by Blaze standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BEliwood-Variant%5D%20%5BM%5D%20Marth%20Thrust-Stab%20by%20Blaze/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Ephraim-Base\] \[F\] Alice by Yazuki](./%5BEphraim-Base%5D%20%5BF%5D%20Alice%20by%20Yazuki/%5BEphraim-Base%5D%20%5BF%5D%20Alice%20by%20Yazuki)
 
 <img src="./%5BEphraim-Base%5D%20%5BF%5D%20Alice%20by%20Yazuki/2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [F] Alice by Yazuki standing" />
@@ -258,19 +258,6 @@
 |Lance |
 |  :---: |
 | <img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Long-Haired%20by%20Circleseverywhere/2.%20Lance/Lance.gif" /> |
-
-
-## [\[Ephraim-Base\] \[F\] Vanilla Repack +Weapons](./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons)
-
-<img src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword_000.png" alt="[Ephraim-Base] [F] Vanilla Repack +Weapons standing" />
-
-
-### Weapons
-
-
-|Sword |Sword |Lance |Axe |Handaxe |Bow |Bow |Staff |Unarmed |
-|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif" /> | <img alt="Staff animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Base%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Ephraim-Base\] \[M\] Eliwood-Style by Markyjoe](./%5BEphraim-Base%5D%20%5BM%5D%20Eliwood-Style%20by%20Markyjoe/%5BEphraim-Base%5D%20%5BM%5D%20Eliwood-Style%20by%20Markyjoe)
@@ -351,9 +338,22 @@
 | <img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20+Dual-Sided%20by%20Andy/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20+Dual-Sided%20by%20Andy/2.%20Lance%20(Dual)/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20+Dual-Sided%20by%20Andy/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Ephraim-Base\] \[M\] Vanilla Repack +Weapons](./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons)
+## [\[Ephraim-Variant\] \[F\] Vanilla Repack +Weapons](./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons)
 
-<img src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword_000.png" alt="[Ephraim-Base] [M] Vanilla Repack +Weapons standing" />
+<img src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [F] Vanilla Repack +Weapons standing" />
+
+
+### Weapons
+
+
+|Sword |Sword |Lance |Axe |Handaxe |Bow |Bow |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif" /> | <img alt="Staff animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Ephraim-Variant\] \[M\] Vanilla Repack +Weapons](./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons)
+
+<img src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [M] Vanilla Repack +Weapons standing" />
 
 
 ### Weapons
@@ -361,7 +361,7 @@
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Bow |Staff |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif" /> | <img alt="Staff animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/Palettes/Palettes.gif" /> |
+| <img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif" /> | <img alt="Staff animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20Vanilla%20Repack%20+Weapons/Palettes/Palettes.gif" /> |
 
 
 ## [\[Hector-Base\] \[F\] FE7if Milia](./%5BHector-Base%5D%20%5BF%5D%20FE7if%20Milia/%5BHector-Base%5D%20%5BF%5D%20FE7if%20Milia)
@@ -494,9 +494,9 @@
 | <img alt="Sword animation" src="./%5BRoy-Base%5D%20%5BM%5D%20Echoes-Style%20by%20Jeorge_Reds/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BRoy-Base%5D%20%5BM%5D%20Echoes-Style%20by%20Jeorge_Reds/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Roy-Base\] \[M\] Phoenix Wright by Blaze](./%5BRoy-Base%5D%20%5BM%5D%20Phoenix%20Wright%20by%20Blaze/%5BRoy-Base%5D%20%5BM%5D%20Phoenix%20Wright%20by%20Blaze)
+## [\[Roy-Base\] \[M\] Redesign by Blaze](./%5BRoy-Base%5D%20%5BM%5D%20Redesign%20by%20Blaze/%5BRoy-Base%5D%20%5BM%5D%20Redesign%20by%20Blaze)
 
-<img src="./%5BRoy-Base%5D%20%5BM%5D%20Phoenix%20Wright%20by%20Blaze/1.%20Sword/Sword_000.png" alt="[Roy-Base] [M] Phoenix Wright by Blaze standing" />
+<img src="./%5BRoy-Base%5D%20%5BM%5D%20Redesign%20by%20Blaze/1.%20Sword/Sword_000.png" alt="[Roy-Base] [M] Redesign by Blaze standing" />
 
 
 ### Weapons
@@ -504,7 +504,7 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./%5BRoy-Base%5D%20%5BM%5D%20Phoenix%20Wright%20by%20Blaze/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BRoy-Base%5D%20%5BM%5D%20Phoenix%20Wright%20by%20Blaze/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BRoy-Base%5D%20%5BM%5D%20Redesign%20by%20Blaze/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BRoy-Base%5D%20%5BM%5D%20Redesign%20by%20Blaze/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Roy-Base\] \[M\] Redesign by GabrielKnight](./%5BRoy-Base%5D%20%5BM%5D%20Redesign%20by%20GabrielKnight/%5BRoy-Base%5D%20%5BM%5D%20Redesign%20by%20GabrielKnight)

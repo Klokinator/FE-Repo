@@ -1,0 +1,483 @@
+/// - Mode 1
+C03
+C07
+1 p- Sword (CSAFix)_000.png
+4 p- Sword (CSAFix)_001.png
+3 p- Sword (CSAFix)_002.png
+C36
+2 p- Sword (CSAFix)_003.png
+2 p- Sword (CSAFix)_004.png
+7 p- Sword (CSAFix)_005.png
+2 p- Sword (CSAFix)_006.png
+2 p- Sword (CSAFix)_007.png
+2 p- Sword (CSAFix)_008.png
+2 p- Sword (CSAFix)_009.png
+2 p- Sword (CSAFix)_010.png
+2 p- Sword (CSAFix)_011.png
+1 p- Sword (CSAFix)_012.png
+1 p- Sword (CSAFix)_013.png
+1 p- Sword (CSAFix)_014.png
+1 p- Sword (CSAFix)_015.png
+1 p- Sword (CSAFix)_016.png
+1 p- Sword (CSAFix)_017.png
+1 p- Sword (CSAFix)_018.png
+2 p- Sword (CSAFix)_019.png
+3 p- Sword (CSAFix)_020.png
+6 p- Sword (CSAFix)_021.png
+1 p- Sword (CSAFix)_022.png
+1 p- Sword (CSAFix)_023.png
+1 p- Sword (CSAFix)_024.png
+2 p- Sword (CSAFix)_025.png
+1 p- Sword (CSAFix)_026.png
+1 p- Sword (CSAFix)_027.png
+C23
+2 p- Sword (CSAFix)_028.png
+12 p- Sword (CSAFix)_029.png
+4 p- Sword (CSAFix)_030.png
+3 p- Sword (CSAFix)_031.png
+C04
+2 p- Sword (CSAFix)_032.png
+C1A
+C22
+C1F
+2 p- Sword (CSAFix)_033.png
+1 p- Sword (CSAFix)_034.png
+C01
+3 p- Sword (CSAFix)_035.png
+3 p- Sword (CSAFix)_036.png
+3 p- Sword (CSAFix)_037.png
+2 p- Sword (CSAFix)_038.png
+2 p- Sword (CSAFix)_039.png
+2 p- Sword (CSAFix)_040.png
+2 p- Sword (CSAFix)_041.png
+4 p- Sword (CSAFix)_042.png
+2 p- Sword (CSAFix)_043.png
+2 p- Sword (CSAFix)_044.png
+2 p- Sword (CSAFix)_045.png
+2 p- Sword (CSAFix)_046.png
+2 p- Sword (CSAFix)_047.png
+2 p- Sword (CSAFix)_048.png
+10 p- Sword (CSAFix)_049.png
+2 p- Sword (CSAFix)_050.png
+C37
+3 p- Sword (CSAFix)_051.png
+3 p- Sword (CSAFix)_052.png
+8 p- Sword (CSAFix)_053.png
+4 p- Sword (CSAFix)_054.png
+3 p- Sword (CSAFix)_055.png
+3 p- Sword (CSAFix)_056.png
+3 p- Sword (CSAFix)_057.png
+3 p- Sword (CSAFix)_058.png
+3 p- Sword (CSAFix)_059.png
+3 p- Sword (CSAFix)_060.png
+4 p- Sword (CSAFix)_061.png
+4 p- Sword (CSAFix)_062.png
+8 p- Sword (CSAFix)_063.png
+2 p- Sword (CSAFix)_064.png
+1 p- Sword (CSAFix)_065.png
+1 p- Sword (CSAFix)_066.png
+2 p- Sword (CSAFix)_067.png
+3 p- Sword (CSAFix)_068.png
+2 p- Sword (CSAFix)_069.png
+2 p- Sword (CSAFix)_070.png
+1 p- Sword (CSAFix)_071.png
+1 p- Sword (CSAFix)_072.png
+2 p- Sword (CSAFix)_073.png
+C25
+3 p- Sword (CSAFix)_074.png
+1 p- Sword (CSAFix)_075.png
+1 p- Sword (CSAFix)_076.png
+2 p- Sword (CSAFix)_077.png
+C34
+2 p- Sword (CSAFix)_078.png
+8 p- Sword (CSAFix)_079.png
+4 p- Sword (CSAFix)_080.png
+C06
+3 p- Sword (CSAFix)_081.png
+3 p- Sword (CSAFix)_082.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Sword (CSAFix)_000.png
+4 p- Sword (CSAFix)_001.png
+3 p- Sword (CSAFix)_002.png
+C36
+2 p- Sword (CSAFix)_003.png
+2 p- Sword (CSAFix)_004.png
+7 p- Sword (CSAFix)_005.png
+2 p- Sword (CSAFix)_006.png
+2 p- Sword (CSAFix)_007.png
+2 p- Sword (CSAFix)_008.png
+2 p- Sword (CSAFix)_009.png
+2 p- Sword (CSAFix)_010.png
+2 p- Sword (CSAFix)_011.png
+1 p- Sword (CSAFix)_012.png
+1 p- Sword (CSAFix)_013.png
+1 p- Sword (CSAFix)_014.png
+1 p- Sword (CSAFix)_015.png
+1 p- Sword (CSAFix)_016.png
+1 p- Sword (CSAFix)_017.png
+1 p- Sword (CSAFix)_018.png
+2 p- Sword (CSAFix)_019.png
+3 p- Sword (CSAFix)_020.png
+C2C
+C3E
+4 p- Sword (CSAFix)_083.png
+3 p- Sword (CSAFix)_084.png
+4 p- Sword (CSAFix)_085.png
+3 p- Sword (CSAFix)_086.png
+2 p- Sword (CSAFix)_087.png
+2 p- Sword (CSAFix)_088.png
+1 p- Sword (CSAFix)_089.png
+C23
+2 p- Sword (CSAFix)_028.png
+13 p- Sword (CSAFix)_029.png
+4 p- Sword (CSAFix)_030.png
+3 p- Sword (CSAFix)_031.png
+C04
+2 p- Sword (CSAFix)_032.png
+C1F
+C08
+2 p- Sword (CSAFix)_033.png
+1 p- Sword (CSAFix)_034.png
+C01
+3 p- Sword (CSAFix)_035.png
+3 p- Sword (CSAFix)_036.png
+3 p- Sword (CSAFix)_037.png
+2 p- Sword (CSAFix)_038.png
+2 p- Sword (CSAFix)_039.png
+2 p- Sword (CSAFix)_040.png
+2 p- Sword (CSAFix)_041.png
+4 p- Sword (CSAFix)_042.png
+2 p- Sword (CSAFix)_043.png
+2 p- Sword (CSAFix)_044.png
+2 p- Sword (CSAFix)_045.png
+2 p- Sword (CSAFix)_046.png
+2 p- Sword (CSAFix)_047.png
+2 p- Sword (CSAFix)_048.png
+10 p- Sword (CSAFix)_049.png
+2 p- Sword (CSAFix)_050.png
+C37
+3 p- Sword (CSAFix)_051.png
+3 p- Sword (CSAFix)_052.png
+8 p- Sword (CSAFix)_053.png
+4 p- Sword (CSAFix)_054.png
+3 p- Sword (CSAFix)_055.png
+3 p- Sword (CSAFix)_056.png
+3 p- Sword (CSAFix)_057.png
+3 p- Sword (CSAFix)_058.png
+3 p- Sword (CSAFix)_059.png
+3 p- Sword (CSAFix)_060.png
+4 p- Sword (CSAFix)_061.png
+4 p- Sword (CSAFix)_062.png
+8 p- Sword (CSAFix)_063.png
+2 p- Sword (CSAFix)_064.png
+1 p- Sword (CSAFix)_065.png
+1 p- Sword (CSAFix)_066.png
+2 p- Sword (CSAFix)_067.png
+3 p- Sword (CSAFix)_068.png
+2 p- Sword (CSAFix)_069.png
+2 p- Sword (CSAFix)_070.png
+1 p- Sword (CSAFix)_071.png
+1 p- Sword (CSAFix)_072.png
+2 p- Sword (CSAFix)_073.png
+C25
+3 p- Sword (CSAFix)_074.png
+1 p- Sword (CSAFix)_075.png
+1 p- Sword (CSAFix)_076.png
+2 p- Sword (CSAFix)_077.png
+C34
+2 p- Sword (CSAFix)_078.png
+8 p- Sword (CSAFix)_079.png
+4 p- Sword (CSAFix)_080.png
+C06
+3 p- Sword (CSAFix)_081.png
+3 p- Sword (CSAFix)_082.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Sword (CSAFix)_000.png
+4 p- Sword (CSAFix)_001.png
+3 p- Sword (CSAFix)_002.png
+C36
+2 p- Sword (CSAFix)_003.png
+2 p- Sword (CSAFix)_004.png
+7 p- Sword (CSAFix)_005.png
+2 p- Sword (CSAFix)_006.png
+2 p- Sword (CSAFix)_007.png
+2 p- Sword (CSAFix)_008.png
+2 p- Sword (CSAFix)_009.png
+2 p- Sword (CSAFix)_010.png
+2 p- Sword (CSAFix)_011.png
+1 p- Sword (CSAFix)_012.png
+1 p- Sword (CSAFix)_013.png
+1 p- Sword (CSAFix)_014.png
+1 p- Sword (CSAFix)_015.png
+1 p- Sword (CSAFix)_016.png
+1 p- Sword (CSAFix)_017.png
+1 p- Sword (CSAFix)_018.png
+2 p- Sword (CSAFix)_019.png
+3 p- Sword (CSAFix)_020.png
+1 p- Sword (CSAFix)_021.png
+C2C
+C3E
+3 p- Sword (CSAFix)_083.png
+C3E
+C2C
+2 p- Sword (CSAFix)_083.png
+3 p- Sword (CSAFix)_084.png
+4 p- Sword (CSAFix)_085.png
+3 p- Sword (CSAFix)_083.png
+4 p- Sword (CSAFix)_084.png
+3 p- Sword (CSAFix)_085.png
+3 p- Sword (CSAFix)_083.png
+4 p- Sword (CSAFix)_084.png
+3 p- Sword (CSAFix)_085.png
+4 p- Sword (CSAFix)_083.png
+4 p- Sword (CSAFix)_084.png
+4 p- Sword (CSAFix)_085.png
+1 p- Sword (CSAFix)_086.png
+2 p- Sword (CSAFix)_087.png
+1 p- Sword (CSAFix)_090.png
+2 p- Sword (CSAFix)_091.png
+1 p- Sword (CSAFix)_088.png
+2 p- Sword (CSAFix)_089.png
+2 p- Sword (CSAFix)_028.png
+11 p- Sword (CSAFix)_029.png
+4 p- Sword (CSAFix)_030.png
+3 p- Sword (CSAFix)_031.png
+2 p- Sword (CSAFix)_092.png
+2 p- Sword (CSAFix)_093.png
+4 p- Sword (CSAFix)_094.png
+C05
+1 p- Sword (CSAFix)_094.png
+C01
+3 p- Sword (CSAFix)_095.png
+3 p- Sword (CSAFix)_096.png
+3 p- Sword (CSAFix)_097.png
+2 p- Sword (CSAFix)_098.png
+2 p- Sword (CSAFix)_099.png
+2 p- Sword (CSAFix)_100.png
+C37
+2 p- Sword (CSAFix)_101.png
+2 p- Sword (CSAFix)_102.png
+C25
+3 p- Sword (CSAFix)_103.png
+3 p- Sword (CSAFix)_104.png
+9 p- Sword (CSAFix)_105.png
+C06
+3 p- Sword (CSAFix)_081.png
+3 p- Sword (CSAFix)_082.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Sword (CSAFix)_000.png
+4 p- Sword (CSAFix)_001.png
+3 p- Sword (CSAFix)_002.png
+C36
+2 p- Sword (CSAFix)_003.png
+2 p- Sword (CSAFix)_004.png
+7 p- Sword (CSAFix)_005.png
+2 p- Sword (CSAFix)_006.png
+2 p- Sword (CSAFix)_007.png
+2 p- Sword (CSAFix)_008.png
+2 p- Sword (CSAFix)_009.png
+2 p- Sword (CSAFix)_010.png
+2 p- Sword (CSAFix)_011.png
+1 p- Sword (CSAFix)_012.png
+1 p- Sword (CSAFix)_013.png
+1 p- Sword (CSAFix)_014.png
+1 p- Sword (CSAFix)_015.png
+1 p- Sword (CSAFix)_016.png
+1 p- Sword (CSAFix)_017.png
+1 p- Sword (CSAFix)_018.png
+2 p- Sword (CSAFix)_019.png
+3 p- Sword (CSAFix)_020.png
+1 p- Sword (CSAFix)_021.png
+C2C
+C3E
+3 p- Sword (CSAFix)_083.png
+C3E
+C2C
+2 p- Sword (CSAFix)_083.png
+3 p- Sword (CSAFix)_084.png
+4 p- Sword (CSAFix)_085.png
+4 p- Sword (CSAFix)_083.png
+4 p- Sword (CSAFix)_084.png
+3 p- Sword (CSAFix)_085.png
+3 p- Sword (CSAFix)_083.png
+4 p- Sword (CSAFix)_084.png
+3 p- Sword (CSAFix)_085.png
+4 p- Sword (CSAFix)_083.png
+4 p- Sword (CSAFix)_084.png
+3 p- Sword (CSAFix)_085.png
+1 p- Sword (CSAFix)_086.png
+2 p- Sword (CSAFix)_087.png
+1 p- Sword (CSAFix)_090.png
+2 p- Sword (CSAFix)_091.png
+1 p- Sword (CSAFix)_088.png
+2 p- Sword (CSAFix)_089.png
+2 p- Sword (CSAFix)_028.png
+11 p- Sword (CSAFix)_029.png
+4 p- Sword (CSAFix)_030.png
+3 p- Sword (CSAFix)_031.png
+2 p- Sword (CSAFix)_092.png
+2 p- Sword (CSAFix)_093.png
+4 p- Sword (CSAFix)_094.png
+C05
+1 p- Sword (CSAFix)_094.png
+C01
+3 p- Sword (CSAFix)_095.png
+3 p- Sword (CSAFix)_096.png
+3 p- Sword (CSAFix)_097.png
+2 p- Sword (CSAFix)_098.png
+2 p- Sword (CSAFix)_099.png
+2 p- Sword (CSAFix)_100.png
+C37
+2 p- Sword (CSAFix)_101.png
+2 p- Sword (CSAFix)_102.png
+C25
+3 p- Sword (CSAFix)_103.png
+3 p- Sword (CSAFix)_104.png
+9 p- Sword (CSAFix)_105.png
+C06
+3 p- Sword (CSAFix)_081.png
+3 p- Sword (CSAFix)_082.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Sword (CSAFix)_000.png
+C0E
+3 p- Sword (CSAFix)_106.png
+3 p- Sword (CSAFix)_107.png
+C01
+3 p- Sword (CSAFix)_106.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Sword (CSAFix)_000.png
+C0E
+3 p- Sword (CSAFix)_106.png
+3 p- Sword (CSAFix)_107.png
+C01
+3 p- Sword (CSAFix)_106.png
+C0D
+~~~
+/// - Mode 9
+1 p- Sword (CSAFix)_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Sword (CSAFix)_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Sword (CSAFix)_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Sword (CSAFix)_000.png
+4 p- Sword (CSAFix)_001.png
+3 p- Sword (CSAFix)_002.png
+C36
+2 p- Sword (CSAFix)_003.png
+2 p- Sword (CSAFix)_004.png
+7 p- Sword (CSAFix)_005.png
+2 p- Sword (CSAFix)_006.png
+2 p- Sword (CSAFix)_007.png
+2 p- Sword (CSAFix)_008.png
+2 p- Sword (CSAFix)_009.png
+2 p- Sword (CSAFix)_010.png
+2 p- Sword (CSAFix)_011.png
+1 p- Sword (CSAFix)_012.png
+1 p- Sword (CSAFix)_013.png
+1 p- Sword (CSAFix)_014.png
+1 p- Sword (CSAFix)_015.png
+1 p- Sword (CSAFix)_016.png
+1 p- Sword (CSAFix)_017.png
+1 p- Sword (CSAFix)_018.png
+2 p- Sword (CSAFix)_019.png
+3 p- Sword (CSAFix)_020.png
+6 p- Sword (CSAFix)_021.png
+1 p- Sword (CSAFix)_022.png
+1 p- Sword (CSAFix)_023.png
+1 p- Sword (CSAFix)_024.png
+2 p- Sword (CSAFix)_025.png
+1 p- Sword (CSAFix)_026.png
+1 p- Sword (CSAFix)_027.png
+C23
+2 p- Sword (CSAFix)_028.png
+12 p- Sword (CSAFix)_029.png
+4 p- Sword (CSAFix)_030.png
+3 p- Sword (CSAFix)_031.png
+C04
+C22
+2 p- Sword (CSAFix)_032.png
+2 p- Sword (CSAFix)_108.png
+1 p- Sword (CSAFix)_109.png
+C01
+3 p- Sword (CSAFix)_110.png
+3 p- Sword (CSAFix)_111.png
+3 p- Sword (CSAFix)_112.png
+2 p- Sword (CSAFix)_113.png
+2 p- Sword (CSAFix)_114.png
+2 p- Sword (CSAFix)_115.png
+2 p- Sword (CSAFix)_041.png
+4 p- Sword (CSAFix)_042.png
+2 p- Sword (CSAFix)_043.png
+2 p- Sword (CSAFix)_044.png
+2 p- Sword (CSAFix)_045.png
+2 p- Sword (CSAFix)_046.png
+2 p- Sword (CSAFix)_047.png
+2 p- Sword (CSAFix)_048.png
+10 p- Sword (CSAFix)_049.png
+2 p- Sword (CSAFix)_050.png
+C37
+3 p- Sword (CSAFix)_051.png
+3 p- Sword (CSAFix)_052.png
+8 p- Sword (CSAFix)_053.png
+4 p- Sword (CSAFix)_054.png
+3 p- Sword (CSAFix)_055.png
+3 p- Sword (CSAFix)_056.png
+3 p- Sword (CSAFix)_057.png
+3 p- Sword (CSAFix)_058.png
+3 p- Sword (CSAFix)_059.png
+3 p- Sword (CSAFix)_060.png
+4 p- Sword (CSAFix)_061.png
+4 p- Sword (CSAFix)_062.png
+8 p- Sword (CSAFix)_063.png
+2 p- Sword (CSAFix)_064.png
+1 p- Sword (CSAFix)_065.png
+1 p- Sword (CSAFix)_066.png
+2 p- Sword (CSAFix)_067.png
+3 p- Sword (CSAFix)_068.png
+2 p- Sword (CSAFix)_069.png
+2 p- Sword (CSAFix)_070.png
+1 p- Sword (CSAFix)_071.png
+1 p- Sword (CSAFix)_072.png
+2 p- Sword (CSAFix)_073.png
+C25
+3 p- Sword (CSAFix)_074.png
+1 p- Sword (CSAFix)_075.png
+1 p- Sword (CSAFix)_076.png
+2 p- Sword (CSAFix)_077.png
+C34
+2 p- Sword (CSAFix)_078.png
+8 p- Sword (CSAFix)_079.png
+4 p- Sword (CSAFix)_080.png
+C06
+3 p- Sword (CSAFix)_081.png
+3 p- Sword (CSAFix)_082.png
+C0D
+~~~
+/// - End of animation

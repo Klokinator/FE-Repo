@@ -6,7 +6,10 @@
 
 Animation by Waleed, Aruka, Kenpuhu.
 
+Unarmed animation by Sax-Marine.
+
 Note that this animation is very choppy and could use community improvement.
+
 
 ## Weapons
 

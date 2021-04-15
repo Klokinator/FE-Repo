@@ -26,9 +26,9 @@
 | <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Berserker-Base\] \[F\] FEGirls-Style](./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style)
+## [\[Berserker-Base\] \[F\] FEGirls Baeserker](./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker)
 
-<img src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls-Style standing" />
+<img src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls Baeserker standing" />
 
 
 ### Weapons
@@ -36,7 +36,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Berserker-Base\] \[M\] Fargus by Greentea](./%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea/%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea)

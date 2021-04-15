@@ -44,9 +44,9 @@
 | <img alt="Axe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Berserker-Base\] \[F\] FEGirls-Style](./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style)
+### [\[Berserker-Base\] \[F\] FEGirls Baeserker](./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker)
 
-<img src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls-Style standing" />
+<img src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls Baeserker standing" />
 
 
 #### Weapons
@@ -54,7 +54,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Baeserker/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Berserker-Base\] \[M\] Fargus by Greentea](./1a.%20Axes/%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea/%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea)
@@ -3160,22 +3160,9 @@
 
 ## [1d. Bows Battle Animations](./1d.%20Bows/)
 
-### [\[Archer\] \[F\] \(Der Forrest-Like\)\[F\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Forrest-Like)%5BF%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Der%20Forrest-Like)%5BF%5D%7BDerTheVaporeon%7D)
+### [\[Archer-Variant\] \[F\] Der's Improved](./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Forrest-Like)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Der Forrest-Like)[F]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Forrest-Like)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Forrest-Like)%5BF%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(Der Headband\)\[F\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Headband)%5BF%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Der%20Headband)%5BF%5D%7BDerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Headband)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Der Headband)[F]{DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Der's Improved standing" />
 
 
 #### Weapons
@@ -3183,25 +3170,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Headband)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Headband)%5BF%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[F\] \(Der Long Hair\)\[F\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Long%20Hair)%5BF%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Der%20Long%20Hair)%5BF%5D%7BDerTheVaporeon%7D)
+### [\[Archer-Variant\] \[F\] Hunter by Deranger](./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Long%20Hair)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Der Long Hair)[F]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Long%20Hair)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Long%20Hair)%5BF%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(Der Ponytail\)\[F\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Ponytail)%5BF%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Der%20Ponytail)%5BF%5D%7BDerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Ponytail)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Der Ponytail)[F]{DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Hunter by Deranger standing" />
 
 
 #### Weapons
@@ -3209,25 +3183,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Ponytail)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Ponytail)%5BF%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20Deranger/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[F\] \(Der Rebecca\)\[F\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Rebecca)%5BF%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Der%20Rebecca)%5BF%5D%7BDerTheVaporeon%7D)
+### [\[Archer-Variant\] \[F\] Hunter by MeatOfJustice](./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Rebecca)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Der Rebecca)[F]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Rebecca)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Rebecca)%5BF%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(Der Short Hair\)\[F\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Short%20Hair)%5BF%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Der%20Short%20Hair)%5BF%5D%7BDerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Short%20Hair)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Der Short Hair)[F]{DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Hunter by MeatOfJustice standing" />
 
 
 #### Weapons
@@ -3235,25 +3196,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Short%20Hair)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Short%20Hair)%5BF%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[F\] \(Der Twintails\)\[F\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Twintails)%5BF%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Der%20Twintails)%5BF%5D%7BDerTheVaporeon%7D)
+### [\[Archer-Variant\] \[M\] Der's Improved](./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Twintails)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Der Twintails)[F]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Twintails)%5BF%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Der%20Twintails)%5BF%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(FE6 Alt\)\[F\]{IS}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6%20Alt)%5BF%5D%7BIS%7D/%5BArcher%5D%20%5BF%5D%20(FE6%20Alt)%5BF%5D%7BIS%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6%20Alt)%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (FE6 Alt)[F]{IS} standing" />
+<img src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Der's Improved standing" />
 
 
 #### Weapons
@@ -3261,25 +3209,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6%20Alt)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6%20Alt)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[F\] \(FE6\)\[F\]{IS}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/%5BArcher%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D)
+### [\[Archer-Variant\] \[M\] Der's Improved Repal](./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (FE6)[F]{IS} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(Hunter Improved\)\[F\]](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Hunter%20Improved)%5BF%5D/%5BArcher%5D%20%5BF%5D%20(Hunter%20Improved)%5BF%5D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Hunter%20Improved)%5BF%5D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Hunter Improved)[F] standing" />
+<img src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Der's Improved Repal standing" />
 
 
 #### Weapons
@@ -3287,25 +3222,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Hunter%20Improved)%5BF%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Hunter%20Improved)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[F\] \(Improved - Repalette\)\[F\]](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved%20-%20Repalette)%5BF%5D/%5BArcher%5D%20%5BF%5D%20(Improved%20-%20Repalette)%5BF%5D)
+### [\[Archer-Variant\] \[M\] Hunter by Deranger](./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved%20-%20Repalette)%5BF%5D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Improved - Repalette)[F] standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved%20-%20Repalette)%5BF%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved%20-%20Repalette)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(Improved\)\[F\]{Flasuban, DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved)%5BF%5D%7BFlasuban,%20DerTheVaporeon%7D/%5BArcher%5D%20%5BF%5D%20(Improved)%5BF%5D%7BFlasuban,%20DerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved)%5BF%5D%7BFlasuban,%20DerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Improved)[F]{Flasuban, DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Hunter by Deranger standing" />
 
 
 #### Weapons
@@ -3313,25 +3235,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved)%5BF%5D%7BFlasuban,%20DerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Improved)%5BF%5D%7BFlasuban,%20DerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20Deranger/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[F\] \(Joshua Hat\)\[F\]{Memae, SD9K}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Joshua%20Hat)%5BF%5D%7BMemae,%20SD9K%7D/%5BArcher%5D%20%5BF%5D%20(Joshua%20Hat)%5BF%5D%7BMemae,%20SD9K%7D)
+### [\[Archer-Variant\] \[M\] Hunter by MeatOfJustice](./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Joshua%20Hat)%5BF%5D%7BMemae,%20SD9K%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Joshua Hat)[F]{Memae, SD9K} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Joshua%20Hat)%5BF%5D%7BMemae,%20SD9K%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Joshua%20Hat)%5BF%5D%7BMemae,%20SD9K%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(Lyn-Style}\[F\]{Jeorge_Reds}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Lyn-Style%7D%5BF%5D%7BJeorge_Reds%7D/%5BArcher%5D%20%5BF%5D%20(Lyn-Style%7D%5BF%5D%7BJeorge_Reds%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Lyn-Style%7D%5BF%5D%7BJeorge_Reds%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Lyn-Style}[F]{Jeorge_Reds} standing" />
+<img src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Hunter by MeatOfJustice standing" />
 
 
 #### Weapons
@@ -3339,25 +3248,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Lyn-Style%7D%5BF%5D%7BJeorge_Reds%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Lyn-Style%7D%5BF%5D%7BJeorge_Reds%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher-Variant%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[F\] \(Neimi\)\[F\]{Feaw}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BFeaw%7D/%5BArcher%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BFeaw%7D)
+### [\[Archer\] \[F\] Der's Forrest-Like](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Forrest-Like/%5BArcher%5D%20%5BF%5D%20Der's%20Forrest-Like)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BFeaw%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Neimi)[F]{Feaw} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BFeaw%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BFeaw%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[F\] \(Rebecca\)\[F\]{IS}](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BIS%7D/%5BArcher%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BIS%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Archer] [F] (Rebecca)[F]{IS} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Forrest-Like/5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Forrest-Like standing" />
 
 
 #### Weapons
@@ -3365,25 +3261,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Forrest-Like/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Forrest-Like/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(Der Bandana A\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20A)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20A)%5BM%5D%7BDerTheVaporeon%7D)
+### [\[Archer\] \[F\] Der's Headband](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Headband/%5BArcher%5D%20%5BF%5D%20Der's%20Headband)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20A)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Bandana A)[M]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20A)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20A)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[M\] \(Der Bandana B\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20B)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20B)%5BM%5D%7BDerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20B)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Bandana B)[M]{DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Headband/5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Headband standing" />
 
 
 #### Weapons
@@ -3391,25 +3274,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20B)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20B)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Headband/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Headband/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(Der Bandana C\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20C)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20C)%5BM%5D%7BDerTheVaporeon%7D)
+### [\[Archer\] \[F\] Der's Long Hair](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Long%20Hair/%5BArcher%5D%20%5BF%5D%20Der's%20Long%20Hair)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20C)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Bandana C)[M]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20C)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Bandana%20C)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[M\] \(Der Headband\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Headband)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Headband)%5BM%5D%7BDerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Headband)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Headband)[M]{DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Long%20Hair/5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Long Hair standing" />
 
 
 #### Weapons
@@ -3417,25 +3287,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Headband)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Headband)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Long%20Hair/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Long%20Hair/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(Der Normal Hair\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Normal%20Hair)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Normal%20Hair)%5BM%5D%7BDerTheVaporeon%7D)
+### [\[Archer\] \[F\] Der's Ponytail](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Ponytail/%5BArcher%5D%20%5BF%5D%20Der's%20Ponytail)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Normal%20Hair)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Normal Hair)[M]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Normal%20Hair)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Normal%20Hair)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[M\] \(Der Ponytail\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Ponytail)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Ponytail)%5BM%5D%7BDerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Ponytail)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Ponytail)[M]{DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Ponytail/5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Ponytail standing" />
 
 
 #### Weapons
@@ -3443,25 +3300,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Ponytail)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Ponytail)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Ponytail/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Ponytail/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(Der Wil\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wil)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Wil)%5BM%5D%7BDerTheVaporeon%7D)
+### [\[Archer\] \[F\] Der's Rebecca](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Rebecca/%5BArcher%5D%20%5BF%5D%20Der's%20Rebecca)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wil)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Wil)[M]{DerTheVaporeon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wil)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wil)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[M\] \(Der Wolt\)\[M\]{DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wolt)%5BM%5D%7BDerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Der%20Wolt)%5BM%5D%7BDerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wolt)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Der Wolt)[M]{DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Rebecca/5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Rebecca standing" />
 
 
 #### Weapons
@@ -3469,25 +3313,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wolt)%5BM%5D%7BDerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Der%20Wolt)%5BM%5D%7BDerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Rebecca/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Rebecca/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(FE5\)\[M\]{Pushwall}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE5)%5BM%5D%7BPushwall%7D/%5BArcher%5D%20%5BM%5D%20(FE5)%5BM%5D%7BPushwall%7D)
+### [\[Archer\] \[F\] Der's Short Hair](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Short%20Hair/%5BArcher%5D%20%5BF%5D%20Der's%20Short%20Hair)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE5)%5BM%5D%7BPushwall%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (FE5)[M]{Pushwall} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE5)%5BM%5D%7BPushwall%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE5)%5BM%5D%7BPushwall%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[M\] \(FE6\)\[M\]{IS}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/%5BArcher%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (FE6)[M]{IS} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Short%20Hair/5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Short Hair standing" />
 
 
 #### Weapons
@@ -3495,25 +3326,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Short%20Hair/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Short%20Hair/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(FE7\)\[M\]{IS}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/%5BArcher%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D)
+### [\[Archer\] \[F\] Der's Twintails](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Twintails/%5BArcher%5D%20%5BF%5D%20Der's%20Twintails)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (FE7)[M]{IS} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[M\] \(Hunter Improved\)\[M\]](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Hunter%20Improved)%5BM%5D/%5BArcher%5D%20%5BM%5D%20(Hunter%20Improved)%5BM%5D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Hunter%20Improved)%5BM%5D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Hunter Improved)[M] standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Twintails/5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Twintails standing" />
 
 
 #### Weapons
@@ -3521,25 +3339,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Hunter%20Improved)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Hunter%20Improved)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Twintails/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Der's%20Twintails/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(Improved - Repalette\)\[M\]](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved%20-%20Repalette)%5BM%5D/%5BArcher%5D%20%5BM%5D%20(Improved%20-%20Repalette)%5BM%5D)
+### [\[Archer\] \[F\] Joshua Hat](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/%5BArcher%5D%20%5BF%5D%20Joshua%20Hat)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved%20-%20Repalette)%5BM%5D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Improved - Repalette)[M] standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved%20-%20Repalette)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved%20-%20Repalette)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Archer\] \[M\] \(Improved\)\[M\]{Flasuban, DerTheVaporeon}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved)%5BM%5D%7BFlasuban,%20DerTheVaporeon%7D/%5BArcher%5D%20%5BM%5D%20(Improved)%5BM%5D%7BFlasuban,%20DerTheVaporeon%7D)
-
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved)%5BM%5D%7BFlasuban,%20DerTheVaporeon%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Improved)[M]{Flasuban, DerTheVaporeon} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/5.%20Bow/Bow_000.png" alt="[Archer] [F] Joshua Hat standing" />
 
 
 #### Weapons
@@ -3547,12 +3352,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved)%5BM%5D%7BFlasuban,%20DerTheVaporeon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Improved)%5BM%5D%7BFlasuban,%20DerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Archer\] \[M\] \(Lord\)\[M\]{Yangfly Master}](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Lord)%5BM%5D%7BYangfly%20Master%7D/%5BArcher%5D%20%5BM%5D%20(Lord)%5BM%5D%7BYangfly%20Master%7D)
+### [\[Archer\] \[F\] Lynbecca by Jeorge_Reds](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds/%5BArcher%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds)
 
-<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Lord)%5BM%5D%7BYangfly%20Master%7D/5.%20Bow/Bow_000.png" alt="[Archer] [M] (Lord)[M]{Yangfly Master} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds/5.%20Bow/Bow_000.png" alt="[Archer] [F] Lynbecca by Jeorge_Reds standing" />
 
 
 #### Weapons
@@ -3560,12 +3365,233 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Lord)%5BM%5D%7BYangfly%20Master%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20(Lord)%5BM%5D%7BYangfly%20Master%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Ballista\] \[F\] \(Long Hair\)\[F\]{St jack}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Long%20Hair)%5BF%5D%7BSt%20jack%7D/%5BBallista%5D%20%5BF%5D%20(Long%20Hair)%5BF%5D%7BSt%20jack%7D)
+### [\[Archer\] \[F\] Neimi by Feaw](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Neimi%20by%20Feaw/%5BArcher%5D%20%5BF%5D%20Neimi%20by%20Feaw)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Long%20Hair)%5BF%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] (Long Hair)[F]{St jack} standing" />
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Neimi%20by%20Feaw/5.%20Bow/Bow_000.png" alt="[Archer] [F] Neimi by Feaw standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Neimi%20by%20Feaw/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Neimi%20by%20Feaw/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[F\] Repal by Der](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Repal%20by%20Der/%5BArcher%5D%20%5BF%5D%20Repal%20by%20Der)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Repal%20by%20Der/5.%20Bow/Bow_000.png" alt="[Archer] [F] Repal by Der standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Repal%20by%20Der/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Repal%20by%20Der/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[F\] Vanilla FE6 Alt1](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt1/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt1)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt1/5.%20Bow/Bow_000.png" alt="[Archer] [F] Vanilla FE6 Alt1 standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt1/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt1/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[F\] Vanilla FE6 Alt2](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt2/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt2)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt2/5.%20Bow/Bow_000.png" alt="[Archer] [F] Vanilla FE6 Alt2 standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt2/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE6%20Alt2/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[F\] Vanilla FE7 Rebecca](./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca/5.%20Bow/Bow_000.png" alt="[Archer] [F] Vanilla FE7 Rebecca standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Caped Variant by Yangfly](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly/%5BArcher%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly/5.%20Bow/Bow_000.png" alt="[Archer] [M] Caped Variant by Yangfly standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Bandana A](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20A/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20A)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20A/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Bandana A standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20A/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20A/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Bandana B](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20B/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20B)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20B/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Bandana B standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20B/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20B/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Bandana C](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20C/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20C)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20C/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Bandana C standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20C/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Bandana%20C/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Headband](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Headband/%5BArcher%5D%20%5BM%5D%20Der's%20Headband)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Headband/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Headband standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Headband/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Headband/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Normal Hair](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Normal%20Hair/%5BArcher%5D%20%5BM%5D%20Der's%20Normal%20Hair)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Normal%20Hair/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Normal Hair standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Normal%20Hair/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Normal%20Hair/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Ponytail](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Ponytail/%5BArcher%5D%20%5BM%5D%20Der's%20Ponytail)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Ponytail/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Ponytail standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Ponytail/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Ponytail/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Wil](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wil/%5BArcher%5D%20%5BM%5D%20Der's%20Wil)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wil/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Wil standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wil/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wil/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Der's Wolt](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wolt/%5BArcher%5D%20%5BM%5D%20Der's%20Wolt)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wolt/5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Wolt standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wolt/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Der's%20Wolt/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] FE5-Style by Pushwall](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20FE5-Style%20by%20Pushwall/%5BArcher%5D%20%5BM%5D%20FE5-Style%20by%20Pushwall)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20FE5-Style%20by%20Pushwall/5.%20Bow/Bow_000.png" alt="[Archer] [M] FE5-Style by Pushwall standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20FE5-Style%20by%20Pushwall/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20FE5-Style%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Vanilla FE6](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE6/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE6)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE6/5.%20Bow/Bow_000.png" alt="[Archer] [M] Vanilla FE6 standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE6/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer\] \[M\] Vanilla FE7](./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE7/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE7)
+
+<img src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE7/5.%20Bow/Bow_000.png" alt="[Archer] [M] Vanilla FE7 standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE7/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BArcher%5D%20%5BM%5D%20Vanilla%20FE7/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Ballista\] \[F\] Long Hair by St Jack](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack)
+
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Long Hair by St Jack standing" />
 
 
 #### Weapons
@@ -3573,25 +3599,12 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Long%20Hair)%5BF%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif" /> |
 
 
-### [\[Ballista\] \[F\] \(Louise Caped\)\[F\]{Greentea, RobertFPY}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Louise%20Caped)%5BF%5D%7BGreentea,%20RobertFPY%7D/%5BBallista%5D%20%5BF%5D%20(Louise%20Caped)%5BF%5D%7BGreentea,%20RobertFPY%7D)
+### [\[Ballista\] \[F\] Louise by St Jack](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Louise%20Caped)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] (Louise Caped)[F]{Greentea, RobertFPY} standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Louise%20Caped)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
-
-
-### [\[Ballista\] \[F\] \(Louise\)\[F\]{St jack}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Louise)%5BF%5D%7BSt%20jack%7D/%5BBallista%5D%20%5BF%5D%20(Louise)%5BF%5D%7BSt%20jack%7D)
-
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Louise)%5BF%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] (Louise)[F]{St jack} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Louise by St Jack standing" />
 
 
 #### Weapons
@@ -3599,25 +3612,12 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Louise)%5BF%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif" /> |
 
 
-### [\[Ballista\] \[F\] \(Neimi\)\[F\]{Seal}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BSeal%7D/%5BBallista%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BSeal%7D)
+### [\[Ballista\] \[F\] Louise Caped by Greentea](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BSeal%7D/5.%20Bow/Bow_000.png" alt="[Ballista] [F] (Neimi)[F]{Seal} standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BSeal%7D/5.%20Bow/Bow.gif" /> |
-
-
-### [\[Ballista\] \[F\] \(Rebecca Catapult Ballista Palette\)\[F\]](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult%20Ballista%20Palette)%5BF%5D/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult%20Ballista%20Palette)%5BF%5D)
-
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult%20Ballista%20Palette)%5BF%5D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] (Rebecca Catapult Ballista Palette)[F] standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Louise Caped by Greentea standing" />
 
 
 #### Weapons
@@ -3625,25 +3625,12 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult%20Ballista%20Palette)%5BF%5D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif" /> |
 
 
-### [\[Ballista\] \[F\] \(Rebecca Catapult\)\[F\]{Spud, Ren_Ookami}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult)%5BF%5D%7BSpud,%20Ren_Ookami%7D/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult)%5BF%5D%7BSpud,%20Ren_Ookami%7D)
+### [\[Ballista\] \[F\] Neimi by Seal](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult)%5BF%5D%7BSpud,%20Ren_Ookami%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] (Rebecca Catapult)[F]{Spud, Ren_Ookami} standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca%20Catapult)%5BF%5D%7BSpud,%20Ren_Ookami%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
-
-
-### [\[Ballista\] \[F\] \(Rebecca\)\[F\]{Greentea, RobertFPY}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D)
-
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow/Bow_000.png" alt="[Ballista] [F] (Rebecca)[F]{Greentea, RobertFPY} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/5.%20Bow/Bow_000.png" alt="[Ballista] [F] Neimi by Seal standing" />
 
 
 #### Weapons
@@ -3651,25 +3638,12 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/5.%20Bow/Bow.gif" /> |
 
 
-### [\[Ballista\] \[F\] \(Rebecca\)\[F\]{St jack}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BSt%20jack%7D/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BSt%20jack%7D)
+### [\[Ballista\] \[F\] Rebecca by Greentea](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] (Rebecca)[F]{St jack} standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
-
-
-### [\[Ballista\] \[F\] \(Sniper\)\[F\]{St jack, Seal, Sacred War}](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Sniper)%5BF%5D%7BSt%20jack,%20Seal,%20Sacred%20War%7D/%5BBallista%5D%20%5BF%5D%20(Sniper)%5BF%5D%7BSt%20jack,%20Seal,%20Sacred%20War%7D)
-
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Sniper)%5BF%5D%7BSt%20jack,%20Seal,%20Sacred%20War%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] (Sniper)[F]{St jack, Seal, Sacred War} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea/5.%20Bow/Bow_000.png" alt="[Ballista] [F] Rebecca by Greentea standing" />
 
 
 #### Weapons
@@ -3677,12 +3651,64 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20(Sniper)%5BF%5D%7BSt%20jack,%20Seal,%20Sacred%20War%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea/5.%20Bow/Bow.gif" /> |
 
 
-### [\[Ballista\] \[M\] \(Generic Ballista\)\[M\]{Spud, Ren_Ookami, Pushwall}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Generic%20Ballista)%5BM%5D%7BSpud,%20Ren_Ookami,%20Pushwall%7D/%5BBallista%5D%20%5BM%5D%20(Generic%20Ballista)%5BM%5D%7BSpud,%20Ren_Ookami,%20Pushwall%7D)
+### [\[Ballista\] \[F\] Rebecca by St Jack](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Generic%20Ballista)%5BM%5D%7BSpud,%20Ren_Ookami,%20Pushwall%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] (Generic Ballista)[M]{Spud, Ren_Ookami, Pushwall} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Rebecca by St Jack standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif" /> |
+
+
+### [\[Ballista\] \[F\] Rebecca Catapult](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult)
+
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Rebecca Catapult standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow.gif" /> |
+
+
+### [\[Ballista\] \[F\] Rebecca Catapult Repal](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal)
+
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Rebecca Catapult Repal standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow.gif" /> |
+
+
+### [\[Ballista\] \[F\] Sniper by St Jack](./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack)
+
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Sniper by St Jack standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif" /> |
+
+
+### [\[Ballista\] \[M\] Generic Ballista by Spud](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud)
+
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Generic Ballista by Spud standing" />
 
 
 #### Weapons
@@ -3690,25 +3716,12 @@
 
 |Bow |Bow |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Generic%20Ballista)%5BM%5D%7BSpud,%20Ren_Ookami,%20Pushwall%7D/5.%20Bow%20(Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Generic%20Ballista)%5BM%5D%7BSpud,%20Ren_Ookami,%20Pushwall%7D/5.%20Bow%20(Catapult)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/5.%20Bow%20(Catapult)/Bow.gif" /> |
 
 
-### [\[Ballista\] \[M\] \(Innes Alt S\)\[M\]{Seal}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D/%5BBallista%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D)
+### [\[Ballista\] \[M\] Innes Alt by Seal](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal/%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D/5.%20Bow/Bow_000.png" alt="[Ballista] [M] (Innes Alt S)[M]{Seal} standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D/5.%20Bow/Bow.gif" /> |
-
-
-### [\[Ballista\] \[M\] \(Sniper\)\[M\]{Seal, Sacred War}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Sniper)%5BM%5D%7BSeal,%20Sacred%20War%7D/%5BBallista%5D%20%5BM%5D%20(Sniper)%5BM%5D%7BSeal,%20Sacred%20War%7D)
-
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Sniper)%5BM%5D%7BSeal,%20Sacred%20War%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] (Sniper)[M]{Seal, Sacred War} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal/5.%20Bow/Bow_000.png" alt="[Ballista] [M] Innes Alt by Seal standing" />
 
 
 #### Weapons
@@ -3716,12 +3729,25 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Sniper)%5BM%5D%7BSeal,%20Sacred%20War%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal/5.%20Bow/Bow.gif" /> |
 
 
-### [\[Ballista\] \[M\] \(Vanilla GBA Ballistae\)\[M\]{IS}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Vanilla%20GBA%20Ballistae)%5BM%5D%7BIS%7D/%5BBallista%5D%20%5BM%5D%20(Vanilla%20GBA%20Ballistae)%5BM%5D%7BIS%7D)
+### [\[Ballista\] \[M\] Sniper by Seal](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal/%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Vanilla%20GBA%20Ballistae)%5BM%5D%7BIS%7D/5.%20Bow%20(FE6%20Ballista)/Bow_000.png" alt="[Ballista] [M] (Vanilla GBA Ballistae)[M]{IS} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Sniper by Seal standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal/5.%20Bow%20(Ballista)/Bow.gif" /> |
+
+
+### [\[Ballista\] \[M\] Vanilla GBA Ballistae](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae)
+
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE6%20Ballista)/Bow_000.png" alt="[Ballista] [M] Vanilla GBA Ballistae standing" />
 
 
 #### Weapons
@@ -3729,25 +3755,12 @@
 
 |Bow |Bow |Bow |
 |  :---: | :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Vanilla%20GBA%20Ballistae)%5BM%5D%7BIS%7D/5.%20Bow%20(FE6%20Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Vanilla%20GBA%20Ballistae)%5BM%5D%7BIS%7D/5.%20Bow%20(FE7%20Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Vanilla%20GBA%20Ballistae)%5BM%5D%7BIS%7D/5.%20Bow%20(FE8%20Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE6%20Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE7%20Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE8%20Ballista)/Bow.gif" /> |
 
 
-### [\[Ballista\] \[M\] \(Wil\)\[M\]{Greentea, qiuzf007}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea,%20qiuzf007%7D/%5BBallista%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea,%20qiuzf007%7D)
+### [\[Ballista\] \[M\] Wil by Greentea](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea/%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea,%20qiuzf007%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] (Wil)[M]{Greentea, qiuzf007} standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea,%20qiuzf007%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
-
-
-### [\[Ballista\] \[M\] \(Wolt Armored\)\[M\]{St jack}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Armored)%5BM%5D%7BSt%20jack%7D/%5BBallista%5D%20%5BM%5D%20(Wolt%20Armored)%5BM%5D%7BSt%20jack%7D)
-
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Armored)%5BM%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] (Wolt Armored)[M]{St jack} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Wil by Greentea standing" />
 
 
 #### Weapons
@@ -3755,25 +3768,12 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Armored)%5BM%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif" /> |
 
 
-### [\[Ballista\] \[M\] \(Wolt Catapult Ballista Palette\)\[M\]](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult%20Ballista%20Palette)%5BM%5D/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult%20Ballista%20Palette)%5BM%5D)
+### [\[Ballista\] \[M\] Wolt Armored by St Jack](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult%20Ballista%20Palette)%5BM%5D/5.%20Bow/Bow_000.png" alt="[Ballista] [M] (Wolt Catapult Ballista Palette)[M] standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult%20Ballista%20Palette)%5BM%5D/5.%20Bow/Bow.gif" /> |
-
-
-### [\[Ballista\] \[M\] \(Wolt Catapult\)\[M\]{Spud, Ren_Ookami}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult)%5BM%5D%7BSpud,%20Ren_Ookami%7D/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult)%5BM%5D%7BSpud,%20Ren_Ookami%7D)
-
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult)%5BM%5D%7BSpud,%20Ren_Ookami%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] (Wolt Catapult)[M]{Spud, Ren_Ookami} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Wolt Armored by St Jack standing" />
 
 
 #### Weapons
@@ -3781,12 +3781,12 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt%20Catapult)%5BM%5D%7BSpud,%20Ren_Ookami%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif" /> |
 
 
-### [\[Ballista\] \[M\] \(Wolt\)\[M\]{St jack}](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt)%5BM%5D%7BSt%20jack%7D/%5BBallista%5D%20%5BM%5D%20(Wolt)%5BM%5D%7BSt%20jack%7D)
+### [\[Ballista\] \[M\] Wolt by St Jack](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack)
 
-<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt)%5BM%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] (Wolt)[M]{St jack} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Wolt by St Jack standing" />
 
 
 #### Weapons
@@ -3794,12 +3794,38 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20(Wolt)%5BM%5D%7BSt%20jack%7D/5.%20Bow%20(Ballista)/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif" /> |
 
 
-### [\[Sniper\] \[F\] \(FE6\)\[F\]{IS}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/%5BSniper%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D)
+### [\[Ballista\] \[M\] Wolt Catapult](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (FE6)[F]{IS} standing" />
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Wolt Catapult standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/5.%20Bow%20(Ballista)/Bow.gif" /> |
+
+
+### [\[Ballista\] \[M\] Wolt Catapult Repal](./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal)
+
+<img src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal/5.%20Bow/Bow_000.png" alt="[Ballista] [M] Wolt Catapult Repal standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal/5.%20Bow/Bow.gif" /> |
+
+
+### [\[Sniper-Variant\] \[F\] Marksman by Nuramon](./1d.%20Bows/%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon)
+
+<img src="./1d.%20Bows/%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [F] Marksman by Nuramon standing" />
 
 
 #### Weapons
@@ -3807,12 +3833,25 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE6)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[F\] \(FE7\)\[F\]{IS}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE7)%5BF%5D%7BIS%7D/%5BSniper%5D%20%5BF%5D%20(FE7)%5BF%5D%7BIS%7D)
+### [\[Sniper-Variant\] \[M\] Zackumi](./1d.%20Bows/%5BSniper-Variant%5D%20%5BM%5D%20Zackumi/%5BSniper-Variant%5D%20%5BM%5D%20Zackumi)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE7)%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (FE7)[F]{IS} standing" />
+<img src="./1d.%20Bows/%5BSniper-Variant%5D%20%5BM%5D%20Zackumi/5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [M] Zackumi standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper-Variant%5D%20%5BM%5D%20Zackumi/5.%20Bow/Bow.gif" /> |
+
+
+### [\[Sniper\] \[F\] Louise by Greentea](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Louise%20by%20Greentea/%5BSniper%5D%20%5BF%5D%20Louise%20by%20Greentea)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Louise%20by%20Greentea/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Louise by Greentea standing" />
 
 
 #### Weapons
@@ -3820,64 +3859,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE7)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(FE7)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Louise%20by%20Greentea/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Louise%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[F\] \(Hunter\)\[F\]{Deranger, Jey the Count}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Hunter)%5BF%5D%7BDeranger,%20Jey%20the%20Count%7D/%5BSniper%5D%20%5BF%5D%20(Hunter)%5BF%5D%7BDeranger,%20Jey%20the%20Count%7D)
+### [\[Sniper\] \[F\] Neimi by Aruka](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Hunter)%5BF%5D%7BDeranger,%20Jey%20the%20Count%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (Hunter)[F]{Deranger, Jey the Count} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Hunter)%5BF%5D%7BDeranger,%20Jey%20the%20Count%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Hunter)%5BF%5D%7BDeranger,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[F\] \(Louise\)\[F\]{Greentea, RobertFPY}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Louise)%5BF%5D%7BGreentea,%20RobertFPY%7D/%5BSniper%5D%20%5BF%5D%20(Louise)%5BF%5D%7BGreentea,%20RobertFPY%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Louise)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (Louise)[F]{Greentea, RobertFPY} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Louise)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Louise)%5BF%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[F\] \(Marksman\)\[F\]{Nuramon}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Marksman)%5BF%5D%7BNuramon%7D/%5BSniper%5D%20%5BF%5D%20(Marksman)%5BF%5D%7BNuramon%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Marksman)%5BF%5D%7BNuramon%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (Marksman)[F]{Nuramon} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Marksman)%5BF%5D%7BNuramon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Marksman)%5BF%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[F\] \(Neimi Alt\)\[F\]{Seal}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi%20Alt)%5BF%5D%7BSeal%7D/%5BSniper%5D%20%5BF%5D%20(Neimi%20Alt)%5BF%5D%7BSeal%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi%20Alt)%5BF%5D%7BSeal%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (Neimi Alt)[F]{Seal} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi%20Alt)%5BF%5D%7BSeal%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi%20Alt)%5BF%5D%7BSeal%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[F\] \(Neimi\)\[F\]{Aruka, Frostlax, Kenpuhu}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D/%5BSniper%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (Neimi)[F]{Aruka, Frostlax, Kenpuhu} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Neimi by Aruka standing" />
 
 
 #### Weapons
@@ -3885,12 +3872,25 @@
 
 |Bow |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D/5.%20Bow%20(Alt%20Crit)%20%7BFrostlax%7D/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Neimi)%5BF%5D%7BAruka,%20Frostlax,%20Kenpuhu%7D/8.%20Unarmed%20(Alt)%20%7BFrostlax%7D/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow%20(Alt%20Crit)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed%20(Alt)/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[F\] \(Quiver\)\[F\]{Nuramon, Swain, Temp}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp%7D/%5BSniper%5D%20%5BF%5D%20(Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp%7D)
+### [\[Sniper\] \[F\] Neimi by Seal](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Seal/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Seal)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [F] (Quiver)[F]{Nuramon, Swain, Temp} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Seal/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Neimi by Seal standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Seal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Seal/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[F\] Quiver by Nuramon](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Quiver%20by%20Nuramon/%5BSniper%5D%20%5BF%5D%20Quiver%20by%20Nuramon)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [F] Quiver by Nuramon standing" />
 
 
 #### Weapons
@@ -3898,77 +3898,12 @@
 
 |Bow |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp%7D/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp%7D/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[F\] \(Rebecca _ Quiver\)\[F\]{Nuramon, Swain, Temp, Wan}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca%20_%20Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp,%20Wan%7D/%5BSniper%5D%20%5BF%5D%20(Rebecca%20_%20Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp,%20Wan%7D)
+### [\[Sniper\] \[F\] Rebecca +Quiver by Nuramon](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/%5BSniper%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca%20_%20Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp,%20Wan%7D/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [F] (Rebecca _ Quiver)[F]{Nuramon, Swain, Temp, Wan} standing" />
-
-
-#### Weapons
-
-
-|Bow |Bow |Unarmed |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca%20_%20Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp,%20Wan%7D/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca%20_%20Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp,%20Wan%7D/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca%20_%20Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp,%20Wan%7D/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca%20_%20Quiver)%5BF%5D%7BNuramon,%20Swain,%20Temp,%20Wan%7D/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[F\] \(Rebecca\)\[F\]{Greentea, RobertFPY}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (Rebecca)[F]{Greentea, RobertFPY} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[F\] \(Rebecca\)\[F\]{Temp, Wan}](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BTemp,%20Wan%7D/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BTemp,%20Wan%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BTemp,%20Wan%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [F] (Rebecca)[F]{Temp, Wan} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BTemp,%20Wan%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20(Rebecca)%5BF%5D%7BTemp,%20Wan%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[M\] \(FE6\)\[M\]{IS}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/%5BSniper%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (FE6)[M]{IS} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE6)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[M\] \(FE7\)\[M\]{IS}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/%5BSniper%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (FE7)[M]{IS} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(FE7)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[M\] \(Hat _ Quiver\)\[M\]{Nuramon, Swain, Temp}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat%20_%20Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/%5BSniper%5D%20%5BM%5D%20(Hat%20_%20Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat%20_%20Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [M] (Hat _ Quiver)[M]{Nuramon, Swain, Temp} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [F] Rebecca +Quiver by Nuramon standing" />
 
 
 #### Weapons
@@ -3976,25 +3911,12 @@
 
 |Bow |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat%20_%20Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat%20_%20Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat%20_%20Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat%20_%20Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[M\] \(Hat\)\[M\]{IS}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat)%5BM%5D%7BIS%7D/%5BSniper%5D%20%5BM%5D%20(Hat)%5BM%5D%7BIS%7D)
+### [\[Sniper\] \[F\] Rebecca by Greentea](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Greentea/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Greentea)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat)%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Hat)[M]{IS} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hat)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[M\] \(Hunter\)\[M\]{Deranger}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hunter)%5BM%5D%7BDeranger%7D/%5BSniper%5D%20%5BM%5D%20(Hunter)%5BM%5D%7BDeranger%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hunter)%5BM%5D%7BDeranger%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Hunter)[M]{Deranger} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Greentea/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Rebecca by Greentea standing" />
 
 
 #### Weapons
@@ -4002,12 +3924,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hunter)%5BM%5D%7BDeranger%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Hunter)%5BM%5D%7BDeranger%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Greentea/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[M\] \(Innes Alt S\)\[M\]{Seal}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D/%5BSniper%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D)
+### [\[Sniper\] \[F\] Rebecca by Temp](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Temp/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Temp)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Innes Alt S)[M]{Seal} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Temp/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Rebecca by Temp standing" />
 
 
 #### Weapons
@@ -4015,12 +3937,51 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innes%20Alt%20S)%5BM%5D%7BSeal%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Temp/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Rebecca%20by%20Temp/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[M\] \(Innes\)\[M\]{Aruka, Kenpuhu}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innes)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BSniper%5D%20%5BM%5D%20(Innes)%5BM%5D%7BAruka,%20Kenpuhu%7D)
+### [\[Sniper\] \[F\] Vanilla FE6](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE6/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE6)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innes)%5BM%5D%7BAruka,%20Kenpuhu%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Innes)[M]{Aruka, Kenpuhu} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE6/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Vanilla FE6 standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE6/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[F\] Vanilla FE7](./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE7/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE7)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE7/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Vanilla FE7 standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE7/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BF%5D%20Vanilla%20FE7/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[M\] Hat +Quiver by Nuramon](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/%5BSniper%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [M] Hat +Quiver by Nuramon standing" />
+
+
+#### Weapons
+
+
+|Bow |Bow |Unarmed |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[M\] Innes by Aruka](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Aruka/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Aruka)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Aruka/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Innes by Aruka standing" />
 
 
 #### Weapons
@@ -4028,25 +3989,12 @@
 
 |Bow |
 |  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innes)%5BM%5D%7BAruka,%20Kenpuhu%7D/5.%20Bow/Bow.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Aruka/5.%20Bow/Bow.gif" /> |
 
 
-### [\[Sniper\] \[M\] \(Innesniper\)\[U\]{Vilkalizer}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innesniper)%5BU%5D%7BVilkalizer%7D/%5BSniper%5D%20%5BM%5D%20(Innesniper)%5BU%5D%7BVilkalizer%7D)
+### [\[Sniper\] \[M\] Innes by Seal](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Seal/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Seal)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innesniper)%5BU%5D%7BVilkalizer%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Innesniper)[U]{Vilkalizer} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innesniper)%5BU%5D%7BVilkalizer%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Innesniper)%5BU%5D%7BVilkalizer%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sniper\] \[M\] \(Marksman\)\[M\]{Nuramon}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Marksman)%5BM%5D%7BNuramon%7D/%5BSniper%5D%20%5BM%5D%20(Marksman)%5BM%5D%7BNuramon%7D)
-
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Marksman)%5BM%5D%7BNuramon%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Marksman)[M]{Nuramon} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Seal/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Innes by Seal standing" />
 
 
 #### Weapons
@@ -4054,12 +4002,38 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Marksman)%5BM%5D%7BNuramon%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Marksman)%5BM%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Seal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Seal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[M\] \(Quiver\)\[M\]{Nuramon, Swain, Temp}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/%5BSniper%5D%20%5BM%5D%20(Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D)
+### [\[Sniper\] \[M\] Innes by Vilkalizer](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Vilkalizer/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Vilkalizer)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [M] (Quiver)[M]{Nuramon, Swain, Temp} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Vilkalizer/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Innes by Vilkalizer standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Vilkalizer/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Innes%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[M\] Marksman by Nuramon](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Marksman by Nuramon standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Marksman%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[M\] Quiver by Nuramon](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [M] Quiver by Nuramon standing" />
 
 
 #### Weapons
@@ -4067,12 +4041,12 @@
 
 |Bow |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Quiver)%5BM%5D%7BNuramon,%20Swain,%20Temp%7D/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[M\] \(Wil\)\[M\]{Greentea}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea%7D/%5BSniper%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea%7D)
+### [\[Sniper\] \[M\] Vanilla FE6](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE6/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE6)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Wil)[M]{Greentea} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE6/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Vanilla FE6 standing" />
 
 
 #### Weapons
@@ -4080,20 +4054,46 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Wil)%5BM%5D%7BGreentea%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE6/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Sniper\] \[M\] \(Zackumi\)\[M\]{MatonMx, FE Latino}](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Zackumi)%5BM%5D%7BMatonMx,%20FE%20Latino%7D/%5BSniper%5D%20%5BM%5D%20(Zackumi)%5BM%5D%7BMatonMx,%20FE%20Latino%7D)
+### [\[Sniper\] \[M\] Vanilla FE7](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE7/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE7)
 
-<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Zackumi)%5BM%5D%7BMatonMx,%20FE%20Latino%7D/5.%20Bow/Bow_000.png" alt="[Sniper] [M] (Zackumi)[M]{MatonMx, FE Latino} standing" />
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE7/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Vanilla FE7 standing" />
 
 
 #### Weapons
 
 
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20(Zackumi)%5BM%5D%7BMatonMx,%20FE%20Latino%7D/5.%20Bow/Bow.gif" /> |
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE7/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20FE7/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[M\] Vanilla With Hat](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20With%20Hat/%5BSniper%5D%20%5BM%5D%20Vanilla%20With%20Hat)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20With%20Hat/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Vanilla With Hat standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20With%20Hat/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Vanilla%20With%20Hat/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sniper\] \[M\] Wil by Greentea](./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Wil%20by%20Greentea/%5BSniper%5D%20%5BM%5D%20Wil%20by%20Greentea)
+
+<img src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Wil%20by%20Greentea/5.%20Bow/Bow_000.png" alt="[Sniper] [M] Wil by Greentea standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Wil%20by%20Greentea/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./1d.%20Bows/%5BSniper%5D%20%5BM%5D%20Wil%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
 
 
 

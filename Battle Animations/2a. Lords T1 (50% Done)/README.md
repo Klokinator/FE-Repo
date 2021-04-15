@@ -468,6 +468,19 @@
 | <img alt="Sword animation" src="./%5BLyn-Base%5D%20%5BF%5D%20Vanilla%20+Axes%20by%20Vilkalizer/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BLyn-Base%5D%20%5BF%5D%20Vanilla%20+Axes%20by%20Vilkalizer/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BLyn-Base%5D%20%5BF%5D%20Vanilla%20+Axes%20by%20Vilkalizer/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BLyn-Base%5D%20%5BF%5D%20Vanilla%20+Axes%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Lyn-Base\] \[F\] Variant by Jey the Count](./%5BLyn-Base%5D%20%5BF%5D%20Variant%20by%20Jey%20the%20Count/%5BLyn-Base%5D%20%5BF%5D%20Variant%20by%20Jey%20the%20Count)
+
+<img src="./%5BLyn-Base%5D%20%5BF%5D%20Variant%20by%20Jey%20the%20Count/1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] Variant by Jey the Count standing" />
+
+
+### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BLyn-Base%5D%20%5BF%5D%20Variant%20by%20Jey%20the%20Count/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BLyn-Base%5D%20%5BF%5D%20Variant%20by%20Jey%20the%20Count/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BLyn-Base%5D%20%5BF%5D%20Variant%20by%20Jey%20the%20Count/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Roy-Base\] \[F\] FE7if Alice](./%5BRoy-Base%5D%20%5BF%5D%20FE7if%20Alice/%5BRoy-Base%5D%20%5BF%5D%20FE7if%20Alice)
 
 <img src="./%5BRoy-Base%5D%20%5BF%5D%20FE7if%20Alice/1.%20Sword%20(Airgetlam%20-%20Fixed%20-%20Sans%20Luceid)/Sword_000.png" alt="[Roy-Base] [F] FE7if Alice standing" />

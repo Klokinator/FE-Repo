@@ -1,0 +1,292 @@
+/// - Mode 1
+C03
+C07
+1 p- Sword (FE8)_000.png
+8 p- Sword (FE8)_001.png
+C43
+3 p- Sword (FE8)_002.png
+3 p- Sword (FE8)_003.png
+4 p- Sword (FE8)_004.png
+5 p- Sword (FE8)_005.png
+C42
+3 p- Sword (FE8)_006.png
+3 p- Sword (FE8)_007.png
+4 p- Sword (FE8)_008.png
+4 p- Sword (FE8)_009.png
+4 p- Sword (FE8)_010.png
+15 p- Sword (FE8)_011.png
+C04
+C24
+3 p- Sword (FE8)_012.png
+C32
+3 p- Sword (FE8)_013.png
+C1A
+C1F
+2 p- Sword (FE8)_014.png
+2 p- Sword (FE8)_015.png
+4 p- Sword (FE8)_016.png
+4 p- Sword (FE8)_017.png
+1 p- Sword (FE8)_018.png
+C01
+2 p- Sword (FE8)_019.png
+2 p- Sword (FE8)_020.png
+9 p- Sword (FE8)_021.png
+C25
+2 p- Sword (FE8)_022.png
+2 p- Sword (FE8)_023.png
+2 p- Sword (FE8)_024.png
+2 p- Sword (FE8)_025.png
+C3C
+2 p- Sword (FE8)_026.png
+2 p- Sword (FE8)_027.png
+2 p- Sword (FE8)_028.png
+2 p- Sword (FE8)_029.png
+2 p- Sword (FE8)_030.png
+C34
+4 p- Sword (FE8)_031.png
+4 p- Sword (FE8)_032.png
+4 p- Sword (FE8)_033.png
+C06
+1 p- Sword (FE8)_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Sword (FE8)_000.png
+8 p- Sword (FE8)_001.png
+C43
+3 p- Sword (FE8)_002.png
+3 p- Sword (FE8)_003.png
+4 p- Sword (FE8)_004.png
+5 p- Sword (FE8)_005.png
+2 p- Sword (FE8)_034.png
+2 p- Sword (FE8)_035.png
+2 p- Sword (FE8)_036.png
+C44
+2 p- Sword (FE8)_037.png
+2 p- Sword (FE8)_038.png
+2 p- Sword (FE8)_039.png
+2 p- Sword (FE8)_040.png
+4 p- Sword (FE8)_041.png
+5 p- Sword (FE8)_042.png
+6 p- Sword (FE8)_043.png
+5 p- Sword (FE8)_042.png
+4 p- Sword (FE8)_041.png
+15 p- Sword (FE8)_044.png
+3 p- Sword (FE8)_045.png
+3 p- Sword (FE8)_046.png
+3 p- Sword (FE8)_047.png
+C42
+2 p- Sword (FE8)_048.png
+2 p- Sword (FE8)_049.png
+2 p- Sword (FE8)_050.png
+2 p- Sword (FE8)_051.png
+2 p- Sword (FE8)_052.png
+C22
+2 p- Sword (FE8)_053.png
+2 p- Sword (FE8)_054.png
+2 p- Sword (FE8)_055.png
+2 p- Sword (FE8)_056.png
+2 p- Sword (FE8)_057.png
+C22
+2 p- Sword (FE8)_058.png
+2 p- Sword (FE8)_059.png
+2 p- Sword (FE8)_060.png
+2 p- Sword (FE8)_061.png
+2 p- Sword (FE8)_062.png
+2 p- Sword (FE8)_063.png
+C25
+2 p- Sword (FE8)_064.png
+C43
+2 p- Sword (FE8)_065.png
+C79
+2 p- Sword (FE8)_066.png
+2 p- Sword (FE8)_067.png
+2 p- Sword (FE8)_068.png
+2 p- Sword (FE8)_069.png
+2 p- Sword (FE8)_070.png
+2 p- Sword (FE8)_071.png
+2 p- Sword (FE8)_072.png
+2 p- Sword (FE8)_073.png
+2 p- Sword (FE8)_074.png
+2 p- Sword (FE8)_075.png
+2 p- Sword (FE8)_076.png
+2 p- Sword (FE8)_077.png
+13 p- Sword (FE8)_078.png
+C04
+3 p- Sword (FE8)_079.png
+3 p- Sword (FE8)_080.png
+3 p- Sword (FE8)_081.png
+3 p- Sword (FE8)_082.png
+3 p- Sword (FE8)_083.png
+C14
+C21
+C51
+3 p- Sword (FE8)_084.png
+3 p- Sword (FE8)_085.png
+3 p- Sword (FE8)_086.png
+3 p- Sword (FE8)_087.png
+15 p- Sword (FE8)_088.png
+3 p- Sword (FE8)_089.png
+C22
+3 p- Sword (FE8)_090.png
+2 p- Sword (FE8)_091.png
+2 p- Sword (FE8)_092.png
+C42
+2 p- Sword (FE8)_093.png
+2 p- Sword (FE8)_094.png
+2 p- Sword (FE8)_095.png
+2 p- Sword (FE8)_096.png
+2 p- Sword (FE8)_097.png
+C08
+C1F
+2 p- Sword (FE8)_098.png
+2 p- Sword (FE8)_099.png
+2 p- Sword (FE8)_100.png
+1 p- Sword (FE8)_101.png
+C01
+2 p- Sword (FE8)_102.png
+2 p- Sword (FE8)_024.png
+2 p- Sword (FE8)_025.png
+C3C
+2 p- Sword (FE8)_026.png
+2 p- Sword (FE8)_027.png
+2 p- Sword (FE8)_028.png
+2 p- Sword (FE8)_029.png
+2 p- Sword (FE8)_030.png
+C34
+4 p- Sword (FE8)_031.png
+4 p- Sword (FE8)_032.png
+4 p- Sword (FE8)_033.png
+C06
+1 p- Sword (FE8)_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Sword (FE8)_000.png
+3 p- Sword (FE8)_001.png
+C43
+3 p- Sword (FE8)_002.png
+3 p- Sword (FE8)_003.png
+C05
+1 p- Sword (FE8)_004.png
+C01
+3 p- Sword (FE8)_003.png
+3 p- Sword (FE8)_002.png
+3 p- Sword (FE8)_001.png
+C06
+3 p- Sword (FE8)_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Sword (FE8)_000.png
+3 p- Sword (FE8)_001.png
+C43
+3 p- Sword (FE8)_002.png
+3 p- Sword (FE8)_003.png
+32 p- Sword (FE8)_004.png
+3 p- Sword (FE8)_103.png
+3 p- Sword (FE8)_104.png
+3 p- Sword (FE8)_103.png
+3 p- Sword (FE8)_104.png
+3 p- Sword (FE8)_103.png
+3 p- Sword (FE8)_104.png
+3 p- Sword (FE8)_103.png
+3 p- Sword (FE8)_104.png
+C05
+1 p- Sword (FE8)_004.png
+C01
+3 p- Sword (FE8)_003.png
+3 p- Sword (FE8)_002.png
+3 p- Sword (FE8)_001.png
+C06
+3 p- Sword (FE8)_000.png
+C0D
+~~~
+/// - Mode 7
+C18
+1 p- Sword (FE8)_000.png
+C0E
+3 p- Sword (FE8)_105.png
+1 p- Sword (FE8)_106.png
+C01
+3 p- Sword (FE8)_105.png
+C0D
+~~~
+/// - Mode 8
+C18
+1 p- Sword (FE8)_000.png
+C0E
+3 p- Sword (FE8)_105.png
+1 p- Sword (FE8)_106.png
+C01
+3 p- Sword (FE8)_105.png
+C0D
+~~~
+/// - Mode 9
+1 p- Sword (FE8)_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Sword (FE8)_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Sword (FE8)_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Sword (FE8)_000.png
+8 p- Sword (FE8)_001.png
+C43
+3 p- Sword (FE8)_002.png
+3 p- Sword (FE8)_003.png
+4 p- Sword (FE8)_004.png
+5 p- Sword (FE8)_005.png
+C42
+3 p- Sword (FE8)_006.png
+3 p- Sword (FE8)_007.png
+4 p- Sword (FE8)_008.png
+4 p- Sword (FE8)_009.png
+4 p- Sword (FE8)_010.png
+15 p- Sword (FE8)_011.png
+C04
+C24
+3 p- Sword (FE8)_012.png
+3 p- Sword (FE8)_107.png
+2 p- Sword (FE8)_108.png
+1 p- Sword (FE8)_015.png
+C01
+4 p- Sword (FE8)_016.png
+4 p- Sword (FE8)_017.png
+12 p- Sword (FE8)_018.png
+2 p- Sword (FE8)_019.png
+2 p- Sword (FE8)_020.png
+9 p- Sword (FE8)_021.png
+C25
+2 p- Sword (FE8)_022.png
+2 p- Sword (FE8)_023.png
+2 p- Sword (FE8)_024.png
+2 p- Sword (FE8)_025.png
+C3C
+2 p- Sword (FE8)_026.png
+2 p- Sword (FE8)_027.png
+2 p- Sword (FE8)_028.png
+2 p- Sword (FE8)_029.png
+2 p- Sword (FE8)_030.png
+C34
+4 p- Sword (FE8)_031.png
+4 p- Sword (FE8)_032.png
+4 p- Sword (FE8)_033.png
+C06
+1 p- Sword (FE8)_000.png
+C0D
+~~~
+/// - End of animation

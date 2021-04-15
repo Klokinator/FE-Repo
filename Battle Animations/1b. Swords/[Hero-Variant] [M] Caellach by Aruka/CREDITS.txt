@@ -1,3 +1,4 @@
-Animation by Aruka, Kenpuhu.
+Animation by Aruka, Kenpuhu. 
+Added Unarmed animation by Sax- Marine, and fixed an error with the Axe animation.
 
 Note that this animation is very choppy and could use community improvement.

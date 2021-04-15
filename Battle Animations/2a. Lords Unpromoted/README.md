@@ -91,19 +91,6 @@
 | <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Magic,%20Staff/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Magic,%20Staff/1.%20Sword%20(Backflip)/Sword.gif" /> | <img alt="Magic animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Magic,%20Staff/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Magic,%20Staff/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Magic,%20Staff/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Eirika-Variant\] \[F\] Celica-Style by EA](./%5BEirika-Variant%5D%20%5BF%5D%20Celica-Style%20by%20EA/%5BEirika-Variant%5D%20%5BF%5D%20Celica-Style%20by%20EA)
-
-<img src="./%5BEirika-Variant%5D%20%5BF%5D%20Celica-Style%20by%20EA/1.%20Sword/Sword_000.png" alt="[Eirika-Variant] [F] Celica-Style by EA standing" />
-
-
-### Weapons
-
-
-|Sword |Magic |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Celica-Style%20by%20EA/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Celica-Style%20by%20EA/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Celica-Style%20by%20EA/8.%20Unarmed/Unarmed.gif" /> |
-
-
 ## [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean)
 
 <img src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/1.%20Sword%20(T1)/Sword_000.png" alt="[Eirika-Variant] [F] Priestess Celica T1 by RedBean standing" />
@@ -127,7 +114,20 @@
 
 |Sword |Sword |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Basic)/Sword.gif" /> | <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%20Physical%20Crit)/Sword.gif" /> | <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%20Spell%20Crit)/Sword.gif" /> | <img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/6.%20Magic%20(T2)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/8.%20Unarmed%20(T2)/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Basic)/Sword.gif" /> | <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%201)/Sword.gif" /> | <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%202)/Sword.gif" /> | <img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/6.%20Magic%20(T2)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/8.%20Unarmed%20(T2)/Unarmed.gif" /> |
+
+
+## [\[Eirika-Variant\] \[F\] Priestess Celica T2-Style by EA](./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2-Style%20by%20EA/%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2-Style%20by%20EA)
+
+<img src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2-Style%20by%20EA/1.%20Sword/Sword_000.png" alt="[Eirika-Variant] [F] Priestess Celica T2-Style by EA standing" />
+
+
+### Weapons
+
+
+|Sword |Magic |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2-Style%20by%20EA/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2-Style%20by%20EA/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2-Style%20by%20EA/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Eliwood-Base\] \[M\] Long-Haired by Xenith](./%5BEliwood-Base%5D%20%5BM%5D%20Long-Haired%20by%20Xenith/%5BEliwood-Base%5D%20%5BM%5D%20Long-Haired%20by%20Xenith)

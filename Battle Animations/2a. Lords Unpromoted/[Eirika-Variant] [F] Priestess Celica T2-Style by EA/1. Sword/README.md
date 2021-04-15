@@ -1,4 +1,4 @@
-# [\[Eirika-Variant\] \[F\] Celica-Style by EA]
+# [\[Eirika-Variant\] \[F\] Priestess Celica T2-Style by EA]
 
 ## Credit
 

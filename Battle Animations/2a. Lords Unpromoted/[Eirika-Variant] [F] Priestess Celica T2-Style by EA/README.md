@@ -1,6 +1,6 @@
-# [\[Eirika-Variant\] \[F\] Celica-Style by EA](./)
+# [\[Eirika-Variant\] \[F\] Priestess Celica T2-Style by EA](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Variant] [F] Celica-Style by EA standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Variant] [F] Priestess Celica T2-Style by EA standing" />
 
 ## Credits
 

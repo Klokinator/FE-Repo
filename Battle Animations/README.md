@@ -7775,11 +7775,11 @@
 
 
 
-## [4. Cavalry and Armors (WIP) Battle Animations](./4.%20Cavalry%20and%20Armors%20(WIP)/)
+## [4a. T1 Cavs and Armors (WIP) Battle Animations](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/)
 
-### [\[T1\]\[ARM\]\(Knight\]\(DS-Style Repalette\)\[U\]{MK404}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D)
+### [\[T1\]\[ARM\]\(Knight\]\(DS-Style Repalette\)\[U\]{MK404}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM](Knight](DS-Style Repalette)[U]{MK404} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM](Knight](DS-Style Repalette)[U]{MK404} standing" />
 
 
 #### Weapons
@@ -7787,12 +7787,12 @@
 
 |Lance |
 |  :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/2.%20Lance/Lance.gif" /> |
+| <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D(Knight%5D(DS-Style%20Repalette)%5BU%5D%7BMK404%7D/2.%20Lance/Lance.gif" /> |
 
 
-### [\[T1\]\[ARM\]\[Knight\]\(DS-Style\)\[U\]{MK404}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D)
+### [\[T1\]\[ARM\]\[Knight\]\(DS-Style\)\[U\]{MK404}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](DS-Style)[U]{MK404} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](DS-Style)[U]{MK404} standing" />
 
 
 #### Weapons
@@ -7800,12 +7800,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(DS-Style)%5BU%5D%7BMK404%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D)
+### [\[T1\]\[ARM\]\[Knight\]\(FE10-Style\]\[U\]{Iscaneus, Nuramon, flasuban, Jeorge Reds}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](FE10-Style][U]{Iscaneus, Nuramon, flasuban, Jeorge Reds} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](FE10-Style][U]{Iscaneus, Nuramon, flasuban, Jeorge Reds} standing" />
 
 
 #### Weapons
@@ -7813,25 +7813,12 @@
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Bow |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword%20(Broadsword)/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow%20(No%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow%20(Recoil)/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/6.%20Magic%20%7Bflasuban%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/1.%20Sword%20(Broadsword)/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow%20(No%20Recoil)/Bow.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/5.%20Bow%20(Recoil)/Bow.gif" /> | <img alt="Magic animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/6.%20Magic%20%7Bflasuban%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(FE10-Style%5D%5BU%5D%7BIscaneus,%20Nuramon,%20flasuban,%20Jeorge%20Reds%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[ARM\]\[Knight\]\(Oswin\)\[M\]{IS, Jey the Count}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+### [\[T1\]\[ARM\]\[Knight\]\(Oswin\)\[M\]{IS, Jey the Count}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](Oswin)[M]{IS, Jey the Count} standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[ARM\]\[Knight\]\(Repalette\)\[U\]{FPzero}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](Repalette)[U]{FPzero} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](Oswin)[M]{IS, Jey the Count} standing" />
 
 
 #### Weapons
@@ -7839,12 +7826,25 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[ARM\]\[Knight\]\(SALVAGED Helmetless\)\[M\]{Team SALVAGED, BoneManSeth}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D)
+### [\[T1\]\[ARM\]\[Knight\]\(Repalette\)\[U\]{FPzero}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](SALVAGED Helmetless)[M]{Team SALVAGED, BoneManSeth} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight](Repalette)[U]{FPzero} standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Repalette)%5BU%5D%7BFPzero%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T1\]\[ARM\]\[Knight\]\(SALVAGED Helmetless\)\[M\]{Team SALVAGED, BoneManSeth}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D)
+
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](SALVAGED Helmetless)[M]{Team SALVAGED, BoneManSeth} standing" />
 
 
 #### Weapons
@@ -7852,12 +7852,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Bow |Unarmed |team |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/5.%20Bow%20(shield%20on%20back)/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="team animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/team%20palettes/team.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/5.%20Bow%20(shield%20on%20back)/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="team animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED%20Helmetless)%5BM%5D%7BTeam%20SALVAGED,%20BoneManSeth%7D/team%20palettes/team.gif" /> |
 
 
-### [\[T1\]\[ARM\]\[Knight\]\(SALVAGED\)\[M\]{Team SALVAGED}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
+### [\[T1\]\[ARM\]\[Knight\]\(SALVAGED\)\[M\]{Team SALVAGED}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](SALVAGED)[M]{Team SALVAGED} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][ARM][Knight](SALVAGED)[M]{Team SALVAGED} standing" />
 
 
 #### Weapons
@@ -7865,12 +7865,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Bow |Unarmed |team |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow%20(shield%20on%20back)/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="team animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/team%20palettes/team.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow%20(shield%20on%20back)/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="team animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/team%20palettes/team.gif" /> |
 
 
-### [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D)
+### [\[T1\]\[ARM\]\[Knight\]\(Vanilla +Weapons\)\[U\]{IS, TBA, Orihara_Saki, vilk}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/1.%20Sword%20%7BTBA%7D/Sword_000.png" alt="[T1][ARM][Knight](Vanilla +Weapons)[U]{IS, TBA, Orihara_Saki, vilk} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/1.%20Sword%20%7BTBA%7D/Sword_000.png" alt="[T1][ARM][Knight](Vanilla +Weapons)[U]{IS, TBA, Orihara_Saki, vilk} standing" />
 
 
 #### Weapons
@@ -7878,12 +7878,12 @@
 
 |Sword |Lance |Lance |Axe |Handaxe |Bow |Magic |Staff |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/1.%20Sword%20%7BTBA%7D/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/2.%20Lance%20(Updated,%20vilk)/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/3.%20Axe%20%7BTBA%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/4.%20Handaxe%20%7BTBA%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/5.%20Bow%20%7BTBA%7D/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/6.%20Magic%20%7BOrihara_Saki,%20TBA%7D/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/7.%20Staff%20%7Bknabepicer%7D/Staff.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/8.%20Unarmed%20(Breastplate-less)%20%7BTBA%7D/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/1.%20Sword%20%7BTBA%7D/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/2.%20Lance%20(Updated,%20vilk)/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/3.%20Axe%20%7BTBA%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/4.%20Handaxe%20%7BTBA%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/5.%20Bow%20%7BTBA%7D/Bow.gif" /> | <img alt="Magic animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/6.%20Magic%20%7BOrihara_Saki,%20TBA%7D/Magic.gif" /> | <img alt="Staff animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/7.%20Staff%20%7Bknabepicer%7D/Staff.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D(Vanilla%20+Weapons)%5BU%5D%7BIS,%20TBA,%20Orihara_Saki,%20vilk%7D/8.%20Unarmed%20(Breastplate-less)%20%7BTBA%7D/Unarmed.gif" /> |
 
 
-### [\[T1\]\[ARM\]\[Knight\]{Wallace}\[M\]{IS, Jey the Count}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+### [\[T1\]\[ARM\]\[Knight\]{Wallace}\[M\]{IS, Jey the Count}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight]{Wallace}[M]{IS, Jey the Count} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T1][ARM][Knight]{Wallace}[M]{IS, Jey the Count} standing" />
 
 
 #### Weapons
@@ -7891,25 +7891,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BARM%5D%5BKnight%5D%7BWallace%7D%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat Repalette O\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D)
+### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat Repalette O\)\[M\]](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen +Hat Repalette O)[M] standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat\)\[M\]{Pikmin1211, Maiser6, eCut}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen +Hat)[M]{Pikmin1211, Maiser6, eCut} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen +Hat Repalette O)[M] standing" />
 
 
 #### Weapons
@@ -7917,25 +7904,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat%20Repalette%20O)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6, eCut}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
+### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen +Hat\)\[M\]{Pikmin1211, Maiser6, eCut}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen Repalette)[F]{Pikmin1211, Maiser6, eCut} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, eCut}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen Repalette)[M]{Pikmin1211, Maiser6, eCut} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen +Hat)[M]{Pikmin1211, Maiser6, eCut} standing" />
 
 
 #### Weapons
@@ -7943,25 +7917,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen\)\[M\]{eCut}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D)
+### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6, eCut}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen)[M]{eCut} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Sacaen Repalette)[F]{Pikmin1211, Maiser6} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen Repalette)[F]{Pikmin1211, Maiser6, eCut} standing" />
 
 
 #### Weapons
@@ -7969,25 +7930,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, eCut}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Sacaen Repalette)[M]{Pikmin1211, Maiser6} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[BOW\]\[Nomad\]\[F\]{IS}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad][F]{IS} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen Repalette)[M]{Pikmin1211, Maiser6, eCut} standing" />
 
 
 #### Weapons
@@ -7995,12 +7943,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20eCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[BOW\]\[Nomad\]\[M\]{IS}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D)
+### [\[T1\]\[BOW\]\[Nomad\]\(Non-Sacaen\)\[M\]{eCut}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad][M]{IS} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Non-Sacaen)[M]{eCut} standing" />
 
 
 #### Weapons
@@ -8008,12 +7956,64 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Non-Sacaen)%5BM%5D%7BeCut%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Cavalier\]\(Kent\)\[M\]{Greentea, RobertFPY}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+### [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[F\]{Pikmin1211, Maiser6}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Kent)[M]{Greentea, RobertFPY} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Sacaen Repalette)[F]{Pikmin1211, Maiser6} standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T1\]\[BOW\]\[Nomad\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad](Sacaen Repalette)[M]{Pikmin1211, Maiser6} standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T1\]\[BOW\]\[Nomad\]\[F\]{IS}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D)
+
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad][F]{IS} standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T1\]\[BOW\]\[Nomad\]\[M\]{IS}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D)
+
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/5.%20Bow/Bow_000.png" alt="[T1][BOW][Nomad][M]{IS} standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BBOW%5D%5BNomad%5D%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T1\]\[CAV\]\[Cavalier\]\(Kent\)\[M\]{Greentea, RobertFPY}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Kent)[M]{Greentea, RobertFPY} standing" />
 
 
 #### Weapons
@@ -8021,12 +8021,12 @@
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Cavalier\]\(Sain\)\[M\]{Greentea, RobertFPY}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+### [\[T1\]\[CAV\]\[Cavalier\]\(Sain\)\[M\]{Greentea, RobertFPY}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Sain)[M]{Greentea, RobertFPY} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Sain)[M]{Greentea, RobertFPY} standing" />
 
 
 #### Weapons
@@ -8034,12 +8034,12 @@
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED 2.0\)\[M\]{Team SALVAGED}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D)
+### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED 2.0\)\[M\]{Team SALVAGED}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED 2.0)[M]{Team SALVAGED} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED 2.0)[M]{Team SALVAGED} standing" />
 
 
 #### Weapons
@@ -8047,25 +8047,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%202.0)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED Edit\)\[F\]{Flasuban, Team SALVAGED}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D)
+### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED Edit\)\[F\]{Flasuban, Team SALVAGED}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED Edit)[F]{Flasuban, Team SALVAGED} standing" />
-
-
-#### Weapons
-
-
-|Sword |Lance |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED\)\[M\]{Team SALVAGED}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED)[M]{Team SALVAGED} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED Edit)[F]{Flasuban, Team SALVAGED} standing" />
 
 
 #### Weapons
@@ -8073,12 +8060,12 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED%20Edit)%5BF%5D%7BFlasuban,%20Team%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED-Style\)\[F\]{Pikmin1211, Maiser6, team SALVAGED}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D)
+### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED\)\[M\]{Team SALVAGED}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/1.%20Sword%20(Maiser6)/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED-Style)[F]{Pikmin1211, Maiser6, team SALVAGED} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED)[M]{Team SALVAGED} standing" />
 
 
 #### Weapons
@@ -8086,12 +8073,25 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/1.%20Sword%20(Maiser6)/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/2.%20Lance%20(Maiser6)/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/3.%20Axe%20(Maiser6)/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/4.%20Handaxe%20(Maiser6)/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/8.%20Unarmed%20(Maiser6)/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D)
+### [\[T1\]\[CAV\]\[Cavalier\]\(SALVAGED-Style\)\[F\]{Pikmin1211, Maiser6, team SALVAGED}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Bow)[F]{IS, DerTheVaporeon, Kao, Aurora} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/1.%20Sword%20(Maiser6)/Sword_000.png" alt="[T1][CAV][Cavalier](SALVAGED-Style)[F]{Pikmin1211, Maiser6, team SALVAGED} standing" />
+
+
+#### Weapons
+
+
+|Sword |Lance |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/1.%20Sword%20(Maiser6)/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/2.%20Lance%20(Maiser6)/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/3.%20Axe%20(Maiser6)/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/4.%20Handaxe%20(Maiser6)/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(SALVAGED-Style)%5BF%5D%7BPikmin1211,%20Maiser6,%20team%20SALVAGED%7D/8.%20Unarmed%20(Maiser6)/Unarmed.gif" /> |
+
+
+### [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Bow\)\[F\]{IS, DerTheVaporeon, Kao, Aurora}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D)
+
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Bow)[F]{IS, DerTheVaporeon, Kao, Aurora} standing" />
 
 
 #### Weapons
@@ -8099,12 +8099,12 @@
 
 |Sword |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/5.%20Bow%20%7BDerTheVaporeon,%20Kao,%20Aurora%7D/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/5.%20Bow%20%7BDerTheVaporeon,%20Kao,%20Aurora%7D/Bow.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Bow)%5BF%5D%7BIS,%20DerTheVaporeon,%20Kao,%20Aurora%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D)
+### [\[T1\]\[CAV\]\[Cavalier\]\(Vanilla +Weapons\)\[M\]](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Weapons)[M] standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Cavalier](Vanilla +Weapons)[M] standing" />
 
 
 #### Weapons
@@ -8112,12 +8112,12 @@
 
 |Sword |Lance |Axe |Axe |Handaxe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe%20%7BPrimefusion%7D/Axe.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe%20%7BSkitty%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe%20%7BPrimefusion%7D/Handaxe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe%20%7BSkitty%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/6.%20Magic%20%7BOrihara_Saki%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe%20%7BPrimefusion%7D/Axe.gif" /> | <img alt="Axe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe%20%7BSkitty%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe%20%7BPrimefusion%7D/Handaxe.gif" /> | <img alt="Handaxe animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe%20%7BSkitty%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/6.%20Magic%20%7BOrihara_Saki%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCavalier%5D(Vanilla%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[CAV\]\[Custom Cavalry\]\(Camel Rider\)\[M\]{Orihara Saki}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D)
+### [\[T1\]\[CAV\]\[Custom Cavalry\]\(Camel Rider\)\[M\]{Orihara Saki}](./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Custom Cavalry](Camel Rider)[M]{Orihara Saki} standing" />
+<img src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/1.%20Sword/Sword_000.png" alt="[T1][CAV][Custom Cavalry](Camel Rider)[M]{Orihara Saki} standing" />
 
 
 #### Weapons
@@ -8125,12 +8125,15 @@
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./4a.%20T1%20Cavs%20and%20Armors%20(WIP)/%5BT1%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Camel%20Rider)%5BM%5D%7BOrihara%20Saki%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Amelia)[F]{Redbean, Murata Masashi} standing" />
+## [4b. T2 Cavs and Armors (WIP) Battle Animations](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/)
+
+### [\[T2\]\[ARM\]\[General\]\(Amelia\)\[F\]{Redbean, Murata Masashi}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D)
+
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Amelia)[F]{Redbean, Murata Masashi} standing" />
 
 
 #### Weapons
@@ -8138,12 +8141,12 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Amelia)%5BF%5D%7BRedbean,%20Murata%20Masashi%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[ARM\]\[General\]\(Oswin\)\[M\]{IS, Jey the Count}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+### [\[T2\]\[ARM\]\[General\]\(Oswin\)\[M\]{IS, Jey the Count}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T2][ARM][General](Oswin)[M]{IS, Jey the Count} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T2][ARM][General](Oswin)[M]{IS, Jey the Count} standing" />
 
 
 #### Weapons
@@ -8151,12 +8154,12 @@
 
 |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Oswin)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D)
+### [\[T2\]\[ARM\]\[General\]\(Repalette\)\[U\]{Skitty}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Repalette)[U]{Skitty} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Repalette)[U]{Skitty} standing" />
 
 
 #### Weapons
@@ -8164,12 +8167,12 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Repalette)%5BU%5D%7BSkitty%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[ARM\]\[General\]\(Shield v2 +Cape\)\[U\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D)
+### [\[T2\]\[ARM\]\[General\]\(Shield v2 +Cape\)\[U\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Shield v2 +Cape)[U] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Shield v2 +Cape)[U] standing" />
 
 
 #### Weapons
@@ -8177,12 +8180,12 @@
 
 |Sword |Sword |Lance |Axe |Axe |Handaxe |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2%20+Cape)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[ARM\]\[General\]\(Shield v2\)\[U\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D)
+### [\[T2\]\[ARM\]\[General\]\(Shield v2\)\[U\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Shield v2)[U] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Shield v2)[U] standing" />
 
 
 #### Weapons
@@ -8190,12 +8193,12 @@
 
 |Sword |Sword |Lance |Lance |Axe |Axe |Handaxe |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/2.%20Lance%20(Chainless)%20%7BPushwall%7D/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/2.%20Lance%20(Chainless)%20%7BPushwall%7D/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Shield%20v2)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[ARM\]\[General\]\(Vanilla +Weapons\)\[U\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D)
+### [\[T2\]\[ARM\]\[General\]\(Vanilla +Weapons\)\[U\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Vanilla +Weapons)[U] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][ARM][General](Vanilla +Weapons)[U] standing" />
 
 
 #### Weapons
@@ -8203,12 +8206,12 @@
 
 |Sword |Sword |Lance |Lance |Axe |Axe |Handaxe |Bow |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword%20(Greatsword)%20%7BJPN%7D/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/2.%20Lance%20(No%20Chain)/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/3.%20Axe%20(Swing)%20%7BTBA%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/5.%20Bow%20(Cannon)%20%7BGabrielKnight%7D/Bow.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/5.%20Bow%20%7BTBA%7D/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/1.%20Sword%20(Greatsword)%20%7BJPN%7D/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/2.%20Lance%20(No%20Chain)/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/3.%20Axe%20(Swing)%20%7BTBA%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/5.%20Bow%20(Cannon)%20%7BGabrielKnight%7D/Bow.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/5.%20Bow%20%7BTBA%7D/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Vanilla%20+Weapons)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[ARM\]\[General\]\(Wallace\)\[M\]{IS, Jey the Count}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
+### [\[T2\]\[ARM\]\[General\]\(Wallace\)\[M\]{IS, Jey the Count}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T2][ARM][General](Wallace)[M]{IS, Jey the Count} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance_000.png" alt="[T2][ARM][General](Wallace)[M]{IS, Jey the Count} standing" />
 
 
 #### Weapons
@@ -8216,12 +8219,12 @@
 
 |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BARM%5D%5BGeneral%5D(Wallace)%5BM%5D%7BIS,%20Jey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(+Hat Repalette O\)\[M\]{Orihara_Saki, Pikmin1211, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(+Hat Repalette O\)\[M\]{Orihara_Saki, Pikmin1211, Maiser6}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](+Hat Repalette O)[M]{Orihara_Saki, Pikmin1211, Maiser6} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](+Hat Repalette O)[M]{Orihara_Saki, Pikmin1211, Maiser6} standing" />
 
 
 #### Weapons
@@ -8229,12 +8232,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(+Hat%20Repalette%20O)%5BM%5D%7BOrihara_Saki,%20Pikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Bernadetta\)\[F\]{RedBean, Marlon0024, Jj09}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Bernadetta\)\[F\]{RedBean, Marlon0024, Jj09}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/2.%20Lance/Lance_000.png" alt="[T2][BOW][Ranger](Bernadetta)[F]{RedBean, Marlon0024, Jj09} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/2.%20Lance/Lance_000.png" alt="[T2][BOW][Ranger](Bernadetta)[F]{RedBean, Marlon0024, Jj09} standing" />
 
 
 #### Weapons
@@ -8242,25 +8245,12 @@
 
 |Lance |Bow |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/5.%20Bow%20(Jj09)/Bow.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/5.%20Bow%20(Marlon0024)/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/5.%20Bow%20(Jj09)/Bow.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/5.%20Bow%20(Marlon0024)/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bernadetta)%5BF%5D%7BRedBean,%20Marlon0024,%20Jj09%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[F\]{Jey the Count}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[F\]{Jey the Count}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow_000.png" alt="[T2][BOW][Ranger](Bowmaster)[F]{Jey the Count} standing" />
-
-
-#### Weapons
-
-
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[M\]{Jey the Count}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow_000.png" alt="[T2][BOW][Ranger](Bowmaster)[M]{Jey the Count} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow_000.png" alt="[T2][BOW][Ranger](Bowmaster)[F]{Jey the Count} standing" />
 
 
 #### Weapons
@@ -8268,12 +8258,25 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BF%5D%7BJey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper +Fix\)\[F\]{IS, ltranc, Valak}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Bowmaster\)\[M\]{Jey the Count}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper +Fix)[F]{IS, ltranc, Valak} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow_000.png" alt="[T2][BOW][Ranger](Bowmaster)[M]{Jey the Count} standing" />
+
+
+#### Weapons
+
+
+|Bow |Unarmed |
+|  :---: | :---: |
+| <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Bowmaster)%5BM%5D%7BJey%20the%20Count%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper +Fix\)\[F\]{IS, ltranc, Valak}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D)
+
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper +Fix)[F]{IS, ltranc, Valak} standing" />
 
 
 #### Weapons
@@ -8281,25 +8284,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20+Fix)%5BF%5D%7BIS,%20ltranc,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper Repalette)[M]{Pikmin1211, Maiser6} standing" />
-
-
-#### Weapons
-
-
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper\)\[M\]{IS}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper)[M]{IS} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper Repalette)[M]{Pikmin1211, Maiser6} standing" />
 
 
 #### Weapons
@@ -8307,25 +8297,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper +Fix\)\[M\]{IS}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(FE6 Nomad Trooper\)\[M\]{IS}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE7 Nomad Trooper +Fix)[M]{IS} standing" />
-
-
-#### Weapons
-
-
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE7 Nomad Trooper Repalette)[M]{Pikmin1211, Maiser6} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE6 Nomad Trooper)[M]{IS} standing" />
 
 
 #### Weapons
@@ -8333,25 +8310,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE6%20Nomad%20Trooper)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat Repalette O\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D)
+### [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper +Fix\)\[M\]{IS}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper +Hat Repalette O)[M] standing" />
-
-
-#### Weapons
-
-
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat\)\[M\]{Pikmin1211, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper +Hat)[M]{Pikmin1211, Maiser6} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE7 Nomad Trooper +Fix)[M]{IS} standing" />
 
 
 #### Weapons
@@ -8359,12 +8323,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20+Fix)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Non-Sacaen\)\[F\]{Pikmin1211, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(FE7 Nomad Trooper Repalette\)\[M\]{Pikmin1211, Maiser6}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper Non-Sacaen)[F]{Pikmin1211, Maiser6} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](FE7 Nomad Trooper Repalette)[M]{Pikmin1211, Maiser6} standing" />
 
 
 #### Weapons
@@ -8372,12 +8336,51 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(FE7%20Nomad%20Trooper%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat Repalette O\)\[M\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper Repalette)[F]{Pikmin1211, Maiser6, Itranc, Valak} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper +Hat Repalette O)[M] standing" />
+
+
+#### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat%20Repalette%20O)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper +Hat\)\[M\]{Pikmin1211, Maiser6}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D)
+
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper +Hat)[M]{Pikmin1211, Maiser6} standing" />
+
+
+#### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20+Hat)%5BM%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Non-Sacaen\)\[F\]{Pikmin1211, Maiser6}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D)
+
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper Non-Sacaen)[F]{Pikmin1211, Maiser6} standing" />
+
+
+#### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Non-Sacaen)%5BF%5D%7BPikmin1211,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T2\]\[BOW\]\[Ranger\]\(Nomad Trooper Repalette\)\[F\]{Pikmin1211, Maiser6, Itranc, Valak}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D)
+
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Nomad Trooper Repalette)[F]{Pikmin1211, Maiser6, Itranc, Valak} standing" />
 
 
 #### Weapons
@@ -8385,12 +8388,12 @@
 
 |Sword |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/3.%20Axe%20(ltranc,%20Valak)/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/4.%20Handaxe%20(ltranc,%20Valak)/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/3.%20Axe%20(ltranc,%20Valak)/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/4.%20Handaxe%20(ltranc,%20Valak)/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Nomad%20Trooper%20Repalette)%5BF%5D%7BPikmin1211,%20Maiser6,%20Itranc,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Rebecca\)\[F\]{Teraspark}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Rebecca)[F]{Teraspark} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Rebecca)[F]{Teraspark} standing" />
 
 
 #### Weapons
@@ -8398,12 +8401,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Rebecca)%5BF%5D%7BTeraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, Valak}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Sacaen Repalette\)\[M\]{Pikmin1211, Maiser6, Valak}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/3.%20Axe%20%7BValak%7D/Axe_000.png" alt="[T2][BOW][Ranger](Sacaen Repalette)[M]{Pikmin1211, Maiser6, Valak} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/3.%20Axe%20%7BValak%7D/Axe_000.png" alt="[T2][BOW][Ranger](Sacaen Repalette)[M]{Pikmin1211, Maiser6, Valak} standing" />
 
 
 #### Weapons
@@ -8411,12 +8414,12 @@
 
 |Axe |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/3.%20Axe%20%7BValak%7D/Axe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/3.%20Axe%20%7BValak%7D/Axe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sacaen%20Repalette)%5BM%5D%7BPikmin1211,%20Maiser6,%20Valak%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Sword-locked\)\[M\]{Aruka, Kenpuhu}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Sword-locked\)\[M\]{Aruka, Kenpuhu}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Sword-locked)[M]{Aruka, Kenpuhu} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Sword-locked)[M]{Aruka, Kenpuhu} standing" />
 
 
 #### Weapons
@@ -8424,12 +8427,12 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Sword-locked)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Twintails\)\[F\]{GoofyfanG56}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Twintails)[F]{GoofyfanG56} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Twintails)[F]{GoofyfanG56} standing" />
 
 
 #### Weapons
@@ -8437,25 +8440,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Twintails)%5BF%5D%7BGoofyfanG56%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[BOW\]\[Ranger\]\(Vanilla +Lance\)\[M\]{IS, Skitty, Feaw}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Vanilla +Lance\)\[M\]{IS, Skitty, Feaw}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Vanilla +Lance)[M]{IS, Skitty, Feaw} standing" />
-
-
-#### Weapons
-
-
-|Sword |Lance |Bow |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/2.%20Lance%20%7BSkitty,%20Feaw%7D/Lance.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T2\]\[BOW\]\[Ranger\]\(Vanilla\)\[F\]{IS}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Vanilla)[F]{IS} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Vanilla +Lance)[M]{IS, Skitty, Feaw} standing" />
 
 
 #### Weapons
@@ -8463,12 +8453,25 @@
 
 |Sword |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/2.%20Lance%20%7BSkitty,%20Feaw%7D/Lance.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla%20+Lance)%5BM%5D%7BIS,%20Skitty,%20Feaw%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D)
+### [\[T2\]\[BOW\]\[Ranger\]\(Vanilla\)\[F\]{IS}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Custom Cavalry](Grand Mahout)[U] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T2][BOW][Ranger](Vanilla)[F]{IS} standing" />
+
+
+#### Weapons
+
+
+|Sword |Lance |Bow |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BBOW%5D%5BRanger%5D(Vanilla)%5BF%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T2\]\[CAV\]\[Custom Cavalry\]\(Grand Mahout\)\[U\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D)
+
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Custom Cavalry](Grand Mahout)[U] standing" />
 
 
 #### Weapons
@@ -8476,12 +8479,12 @@
 
 |Sword |Lance |Bow |Bow |Monster |Monster |Monster |Monster |Unarmed |Unarmed |Sound |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/5.%20Bow%20(Tusk%20Attack)/Bow.gif" /> | <img alt="Monster animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Blade%20Tusk%20-%20Trunk%20Swing)/Monster.gif" /> | <img alt="Monster animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Blade%20Tusk%20Focused%20Attack)/Monster.gif" /> | <img alt="Monster animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Bladed%20Tusk%20Crit)/Monster.gif" /> | <img alt="Monster animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Trunk%20Swing)/Monster.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Unarmed%20(Basic%20Melee%20Attack)/Unarmed.gif" /> | <img alt="Sound animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/Sound%20Effects/Sound.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/5.%20Bow%20(Tusk%20Attack)/Bow.gif" /> | <img alt="Monster animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Blade%20Tusk%20-%20Trunk%20Swing)/Monster.gif" /> | <img alt="Monster animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Blade%20Tusk%20Focused%20Attack)/Monster.gif" /> | <img alt="Monster animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Bladed%20Tusk%20Crit)/Monster.gif" /> | <img alt="Monster animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Monster%20(Trunk%20Swing)/Monster.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/8.%20Unarmed%20(Basic%20Melee%20Attack)/Unarmed.gif" /> | <img alt="Sound animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Grand%20Mahout)%5BU%5D/Sound%20Effects/Sound.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Custom Cavalry\]\(Salamander Rider\)\[M\]{Aruka, Kenpuhu}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D)
+### [\[T2\]\[CAV\]\[Custom Cavalry\]\(Salamander Rider\)\[M\]{Aruka, Kenpuhu}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Custom Cavalry](Salamander Rider)[M]{Aruka, Kenpuhu} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Custom Cavalry](Salamander Rider)[M]{Aruka, Kenpuhu} standing" />
 
 
 #### Weapons
@@ -8489,12 +8492,12 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BCustom%20Cavalry%5D(Salamander%20Rider)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D)
+### [\[T2\]\[CAV\]\[Great Knight\]\(Repalette\)\[U\]{Skitty}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Repalette)[U]{Skitty} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Repalette)[U]{Skitty} standing" />
 
 
 #### Weapons
@@ -8502,12 +8505,12 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Repalette)%5BU%5D%7BSkitty%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D)
+### [\[T2\]\[CAV\]\[Great Knight\]\(Vanilla +Magic, Staff\)\[U\]{IS, Primefusion}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Vanilla +Magic, Staff)[U]{IS, Primefusion} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Great Knight](Vanilla +Magic, Staff)[U]{IS, Primefusion} standing" />
 
 
 #### Weapons
@@ -8515,25 +8518,12 @@
 
 |Sword |Lance |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/6.%20Magic%20%7BPrimefusion%7D/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/7.%20Staff%20%7BPrimefusion%7D/Staff.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/6.%20Magic%20%7BPrimefusion%7D/Magic.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/7.%20Staff%20%7BPrimefusion%7D/Staff.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BGreat%20Knight%5D(Vanilla%20+Magic,%20Staff)%5BU%5D%7BIS,%20Primefusion%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Paladin\]\(Kent\)\[M\]{Greentea, RobertFPY}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
+### [\[T2\]\[CAV\]\[Paladin\]\(Kent\)\[M\]{Greentea, RobertFPY}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Kent)[M]{Greentea, RobertFPY} standing" />
-
-
-#### Weapons
-
-
-|Sword |Lance |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T2\]\[CAV\]\[Paladin\]\(Sain\)\[M\]{Greentea, RobertFPY}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
-
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Sain)[M]{Greentea, RobertFPY} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Kent)[M]{Greentea, RobertFPY} standing" />
 
 
 #### Weapons
@@ -8541,12 +8531,25 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Kent)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D)
+### [\[T2\]\[CAV\]\[Paladin\]\(Sain\)\[M\]{Greentea, RobertFPY}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Salv Repal)[M] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Sain)[M]{Greentea, RobertFPY} standing" />
+
+
+#### Weapons
+
+
+|Sword |Lance |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Sain)%5BM%5D%7BGreentea,%20RobertFPY%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T2\]\[CAV\]\[Paladin\]\(Salv Repal\)\[M\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D)
+
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Salv Repal)[M] standing" />
 
 
 #### Weapons
@@ -8554,12 +8557,12 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/Palettes/Palettes.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Salv%20Repal)%5BM%5D/Palettes/Palettes.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED Alt F\)\[F\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D)
+### [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED Alt F\)\[F\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED Alt F)[F] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED Alt F)[F] standing" />
 
 
 #### Weapons
@@ -8567,12 +8570,12 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED%20Alt%20F)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[F\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D)
+### [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[F\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20(RJ_Exists)/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED)[F] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20(RJ_Exists)/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED)[F] standing" />
 
 
 #### Weapons
@@ -8580,12 +8583,12 @@
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20(RJ_Exists)/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20%7BLevin64%7D/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/3.%20Axe%20%7BLevin64%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/4.%20Handaxe%20%7BLevin64%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/5.%20Bow%20(RJ_Exists,%20Obsidian_Daddy)/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20(RJ_Exists)/Sword.gif" /> | <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/1.%20Sword%20%7BLevin64%7D/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/3.%20Axe%20%7BLevin64%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/4.%20Handaxe%20%7BLevin64%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/5.%20Bow%20(RJ_Exists,%20Obsidian_Daddy)/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D)
+### [\[T2\]\[CAV\]\[Paladin\]\(SALVAGED\)\[M\]{Team SALVAGED, ZoramineFae}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED)[M]{Team SALVAGED, ZoramineFae} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](SALVAGED)[M]{Team SALVAGED, ZoramineFae} standing" />
 
 
 #### Weapons
@@ -8593,12 +8596,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/5.%20Bow%20%7BObsidian%20Daddy%7D/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/6.%20Magic%20%7BZoramineFae%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/5.%20Bow%20%7BObsidian%20Daddy%7D/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/6.%20Magic%20%7BZoramineFae%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(SALVAGED)%5BM%5D%7BTeam%20SALVAGED,%20ZoramineFae%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Bow, Staff\)\[F\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D)
+### [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Bow, Staff\)\[F\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Vanilla +Bow, Staff)[F] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Vanilla +Bow, Staff)[F] standing" />
 
 
 #### Weapons
@@ -8606,12 +8609,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Bow,%20Staff)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Weapons\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D)
+### [\[T2\]\[CAV\]\[Paladin\]\(Vanilla +Weapons\)\[M\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Vanilla +Weapons)[M] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T2][CAV][Paladin](Vanilla +Weapons)[M] standing" />
 
 
 #### Weapons
@@ -8619,12 +8622,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT2%5D%5BCAV%5D%5BPaladin%5D(Vanilla%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(Baron +Weapons\)\[U\]{TBA, St jack, Flasuban, Sax-Marine}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D)
+### [\[T3\]\[ARM\]\[Marshall\]\(Baron +Weapons\)\[U\]{TBA, St jack, Flasuban, Sax-Marine}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron +Weapons)[U]{TBA, St jack, Flasuban, Sax-Marine} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron +Weapons)[U]{TBA, St jack, Flasuban, Sax-Marine} standing" />
 
 
 #### Weapons
@@ -8632,12 +8635,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/7.%20Staff%20(Visible)%20%7BFlasuban%7D/Staff.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20+Weapons)%5BU%5D%7BTBA,%20St%20jack,%20Flasuban,%20Sax-Marine%7D/7.%20Staff%20(Visible)%20%7BFlasuban%7D/Staff.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D)
+### [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons\)\[M\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron Cape +Weapons)[M] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron Cape +Weapons)[M] standing" />
 
 
 #### Weapons
@@ -8645,12 +8648,12 @@
 
 |Sword |Sword |Lance |Axe |Axe |Handaxe |Bow |Magic |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/8.%20Unarmed%20(No%20Shield)/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/1.%20Sword%20(Magic%20Flash)/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons)%5BM%5D/8.%20Unarmed%20(No%20Shield)/Unarmed.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons, No Clicks\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D)
+### [\[T3\]\[ARM\]\[Marshall\]\(Baron Cape +Weapons, No Clicks\)\[M\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron Cape +Weapons, No Clicks)[M] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Baron Cape +Weapons, No Clicks)[M] standing" />
 
 
 #### Weapons
@@ -8658,12 +8661,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/6.%20Magic%20(DerTheVaporeon)/Magic.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Baron%20Cape%20+Weapons,%20No%20Clicks)%5BM%5D/6.%20Magic%20(DerTheVaporeon)/Magic.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(Black Knight\)\[M\]{Luerock}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D)
+### [\[T3\]\[ARM\]\[Marshall\]\(Black Knight\)\[M\]{Luerock}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary_000.png" alt="[T3][ARM][Marshall](Black Knight)[M]{Luerock} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary_000.png" alt="[T3][ARM][Marshall](Black Knight)[M]{Luerock} standing" />
 
 
 #### Weapons
@@ -8671,12 +8674,12 @@
 
 |Legendary |
 |  :---: |
-| <img alt="Legendary animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> |
+| <img alt="Legendary animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Black%20Knight)%5BM%5D%7BLuerock%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D)
+### [\[T3\]\[ARM\]\[Marshall\]\(Emperor\)\[U\]{TBA, St jack}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Emperor)[U]{TBA, St jack} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Emperor)[U]{TBA, St jack} standing" />
 
 
 #### Weapons
@@ -8684,12 +8687,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/7.%20Staff/Staff.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Emperor)%5BU%5D%7BTBA,%20St%20jack%7D/7.%20Staff/Staff.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D)
+### [\[T3\]\[ARM\]\[Marshall\]\(King - Generic\)\[M\]](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](King - Generic)[M] standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](King - Generic)[M] standing" />
 
 
 #### Weapons
@@ -8697,12 +8700,12 @@
 
 |Sword |Lance |Axe |Handaxe |Magic |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/6.%20Magic%20(With%20Sword)/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/Palettes/Palettes.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/6.%20Magic%20(With%20Sword)/Magic.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20-%20Generic)%5BM%5D/Palettes/Palettes.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(King Zephiel +Weapons\)\[M\]{IS, Hairyblob, Maiser6}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D)
+### [\[T3\]\[ARM\]\[Marshall\]\(King Zephiel +Weapons\)\[M\]{IS, Hairyblob, Maiser6}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/1.%20Sword%20%7BHairyblob,%20Maiser6%7D/Sword_000.png" alt="[T3][ARM][Marshall](King Zephiel +Weapons)[M]{IS, Hairyblob, Maiser6} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/1.%20Sword%20%7BHairyblob,%20Maiser6%7D/Sword_000.png" alt="[T3][ARM][Marshall](King Zephiel +Weapons)[M]{IS, Hairyblob, Maiser6} standing" />
 
 
 #### Weapons
@@ -8710,12 +8713,12 @@
 
 |Sword |Lance |Axe |Handaxe |Magic |Staff |Legendary |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/1.%20Sword%20%7BHairyblob,%20Maiser6%7D/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/2.%20Lance%20%7BHairyblob,%20Maiser6%7D/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/3.%20Axe%20%7BHairyblob,%20Maiser6%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/4.%20Handaxe%20%7BHairyblob,%20Maiser6%7D/Handaxe.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/6.%20Magic%20%7BHairyblob,%20Maiser6%7D/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/7.%20Staff%20%7BHairyblob,%20Maiser6%7D/Staff.gif" /> | <img alt="Legendary animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/8.%20Legendary%20Sword%20(Eckesachs)/Legendary.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/1.%20Sword%20%7BHairyblob,%20Maiser6%7D/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/2.%20Lance%20%7BHairyblob,%20Maiser6%7D/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/3.%20Axe%20%7BHairyblob,%20Maiser6%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/4.%20Handaxe%20%7BHairyblob,%20Maiser6%7D/Handaxe.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/6.%20Magic%20%7BHairyblob,%20Maiser6%7D/Magic.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/7.%20Staff%20%7BHairyblob,%20Maiser6%7D/Staff.gif" /> | <img alt="Legendary animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/8.%20Legendary%20Sword%20(Eckesachs)/Legendary.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(King%20Zephiel%20+Weapons)%5BM%5D%7BIS,%20Hairyblob,%20Maiser6%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D)
+### [\[T3\]\[ARM\]\[Marshall\]\(Zelgius 2.0\)\[M\]{Nuramon}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Zelgius 2.0)[M]{Nuramon} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Zelgius 2.0)[M]{Nuramon} standing" />
 
 
 #### Weapons
@@ -8723,12 +8726,12 @@
 
 |Sword |Lance |Legendary |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/2.%20Lance/Lance.gif" /> | <img alt="Legendary animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/2.%20Lance/Lance.gif" /> | <img alt="Legendary animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius%202.0)%5BM%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[ARM\]\[Marshall\]\(Zelgius\)\[M\]{Luerock, Nuramon}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D)
+### [\[T3\]\[ARM\]\[Marshall\]\(Zelgius\)\[M\]{Luerock, Nuramon}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Zelgius)[M]{Luerock, Nuramon} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][ARM][Marshall](Zelgius)[M]{Luerock, Nuramon} standing" />
 
 
 #### Weapons
@@ -8736,12 +8739,12 @@
 
 |Sword |Legendary |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Legendary animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Legendary animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BARM%5D%5BMarshall%5D(Zelgius)%5BM%5D%7BLuerock,%20Nuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D)
+### [\[T3\]\[CAV\]\[Master Knight\]\(Bow Knight\)\[M\]{Spud, HGS}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/5.%20Bow/Bow_000.png" alt="[T3][CAV][Master Knight](Bow Knight)[M]{Spud, HGS} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/5.%20Bow/Bow_000.png" alt="[T3][CAV][Master Knight](Bow Knight)[M]{Spud, HGS} standing" />
 
 
 #### Weapons
@@ -8749,12 +8752,12 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Bow%20Knight)%5BM%5D%7BSpud,%20HGS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D)
+### [\[T3\]\[CAV\]\[Master Knight\]\(Gold Knight\)\[U\]{Nuramon}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight](Gold Knight)[U]{Nuramon} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight](Gold Knight)[U]{Nuramon} standing" />
 
 
 #### Weapons
@@ -8762,12 +8765,12 @@
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Gold%20Knight)%5BU%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D)
+### [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Alt S\)\[M\]{Seal, Arkth, Aruka, blood}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(Magic%20Crit%20Flash)%20%7Bblood%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin Alt S)[M]{Seal, Arkth, Aruka, blood} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(Magic%20Crit%20Flash)%20%7Bblood%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin Alt S)[M]{Seal, Arkth, Aruka, blood} standing" />
 
 
 #### Weapons
@@ -8775,12 +8778,12 @@
 
 |Sword |Sword |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(Magic%20Crit%20Flash)%20%7Bblood%7D/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(v1)%20%7BSeal%7D/Sword.gif" /> | <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(v2)%20%7BArkth%7D/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/2.%20Lance%20%7BSeal%7D/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(Magic%20Crit%20Flash)%20%7Bblood%7D/Sword.gif" /> | <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(v1)%20%7BSeal%7D/Sword.gif" /> | <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/1.%20Sword%20(v2)%20%7BArkth%7D/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/2.%20Lance%20%7BSeal%7D/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Alt%20S)%5BM%5D%7BSeal,%20Arkth,%20Aruka,%20blood%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Seth\)\[M\]{Aruka, Kenpuhu}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D)
+### [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin Seth\)\[M\]{Aruka, Kenpuhu}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin Seth)[M]{Aruka, Kenpuhu} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin Seth)[M]{Aruka, Kenpuhu} standing" />
 
 
 #### Weapons
@@ -8788,12 +8791,12 @@
 
 |Sword |Lance |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/2.%20Lance/Lance.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin%20Seth)%5BM%5D%7BAruka,%20Kenpuhu%7D/2.%20Lance/Lance.gif" /> |
 
 
-### [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud))
+### [\[T3\]\[CAV\]\[Master Knight\]\(Grand Paladin\)\[M\]\(Kenpuhu, Aruka, Nuramon, Spud\)](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud))
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/1.%20Sword%20%7BKenpuhu,%20Aruka%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin)[M](Kenpuhu, Aruka, Nuramon, Spud) standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/1.%20Sword%20%7BKenpuhu,%20Aruka%7D/Sword_000.png" alt="[T3][CAV][Master Knight](Grand Paladin)[M](Kenpuhu, Aruka, Nuramon, Spud) standing" />
 
 
 #### Weapons
@@ -8801,12 +8804,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/1.%20Sword%20%7BKenpuhu,%20Aruka%7D/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/2.%20Lance%20%7BKenpuhu,%20Aruka%7D/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/3.%20Axe%20%7BNuramon%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/4.%20Handaxe%20%7BNuramon%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/5.%20Bow%20%7BNuramon%7D/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/6.%20Magic%20(Kenpuhu,%20Aruka,%20Spud)/Magic.gif" /> | <img alt="Unarmed animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/8.%20Unarmed%20%7BKenpuhu,%20Aruka%7D/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/1.%20Sword%20%7BKenpuhu,%20Aruka%7D/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/2.%20Lance%20%7BKenpuhu,%20Aruka%7D/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/3.%20Axe%20%7BNuramon%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/4.%20Handaxe%20%7BNuramon%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/5.%20Bow%20%7BNuramon%7D/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/6.%20Magic%20(Kenpuhu,%20Aruka,%20Spud)/Magic.gif" /> | <img alt="Unarmed animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D(Grand%20Paladin)%5BM%5D(Kenpuhu,%20Aruka,%20Nuramon,%20Spud)/8.%20Unarmed%20%7BKenpuhu,%20Aruka%7D/Unarmed.gif" /> |
 
 
-### [\[T3\]\[CAV\]\[Master Knight\]\[F\]{St jack}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D)
+### [\[T3\]\[CAV\]\[Master Knight\]\[F\]{St jack}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight][F]{St jack} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight][F]{St jack} standing" />
 
 
 #### Weapons
@@ -8814,12 +8817,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/7.%20Staff/Staff.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BF%5D%7BSt%20jack%7D/7.%20Staff/Staff.gif" /> |
 
 
-### [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}](./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D)
+### [\[T3\]\[CAV\]\[Master Knight\]\[M\]{St jack, Mycahel}](./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D)
 
-<img src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight][M]{St jack, Mycahel} standing" />
+<img src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/1.%20Sword/Sword_000.png" alt="[T3][CAV][Master Knight][M]{St jack, Mycahel} standing" />
 
 
 #### Weapons
@@ -8827,7 +8830,7 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/6.%20Magic%20(Staff,%20Mycahel)/Magic.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./4.%20Cavalry%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/7.%20Staff%20(Mycahel)/Staff.gif" /> |
+| <img alt="Sword animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/6.%20Magic%20(Staff,%20Mycahel)/Magic.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./4b.%20T2%20Cavs%20and%20Armors%20(WIP)/%5BT3%5D%5BCAV%5D%5BMaster%20Knight%5D%5BM%5D%7BSt%20jack,%20Mycahel%7D/7.%20Staff%20(Mycahel)/Staff.gif" /> |
 
 
 
@@ -9458,11 +9461,11 @@
 
 
 
-## [6. Monsters (WIP) Battle Animations](./6.%20Monsters%20(WIP)/)
+## [6a. T1 Monsters (WIP) Battle Animations](./6a.%20T1%20Monsters%20(WIP)/)
 
-### [\[T0\]\[MON\]\[Undead\]\(Phantom\)\[U\]{TBA, Arch, Skitty, Temp}](./6.%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D)
+### [\[T0\]\[MON\]\[Undead\]\(Phantom\)\[U\]{TBA, Arch, Skitty, Temp}](./6a.%20T1%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/3.%20Axe/Axe_000.png" alt="[T0][MON][Undead](Phantom)[U]{TBA, Arch, Skitty, Temp} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/3.%20Axe/Axe_000.png" alt="[T0][MON][Undead](Phantom)[U]{TBA, Arch, Skitty, Temp} standing" />
 
 
 #### Weapons
@@ -9470,12 +9473,12 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6.%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT0%5D%5BMON%5D%5BUndead%5D(Phantom)%5BU%5D%7BTBA,%20Arch,%20Skitty,%20Temp%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\(Bonewalker\)\(Beta\){IS}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D)
+### [\[T1\]\[MON\]\(Bonewalker\)\(Beta\){IS}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T1][MON](Bonewalker)(Beta){IS} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/1.%20Sword/Sword_000.png" alt="[T1][MON](Bonewalker)(Beta){IS} standing" />
 
 
 #### Weapons
@@ -9483,12 +9486,12 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Bonewalker)(Beta)%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\(Revenant\)\(Beta\){IS}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D)
+### [\[T1\]\[MON\]\(Revenant\)\(Beta\){IS}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T1][MON](Revenant)(Beta){IS} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T1][MON](Revenant)(Beta){IS} standing" />
 
 
 #### Weapons
@@ -9496,12 +9499,12 @@
 
 |Monster |Unarmed |
 |  :---: | :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/8.%20Monster/Monster.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/8.%20Monster/Monster.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D(Revenant)(Beta)%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Cursed Sword\)\[U\]{DerTheVaporeon, Team SALVAGED}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Cursed Sword\)\[U\]{DerTheVaporeon, Team SALVAGED}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][MON][Custom Monster](Cursed Sword)[U]{DerTheVaporeon, Team SALVAGED} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D/1.%20Sword/Sword_000.png" alt="[T1][MON][Custom Monster](Cursed Sword)[U]{DerTheVaporeon, Team SALVAGED} standing" />
 
 
 #### Weapons
@@ -9509,12 +9512,12 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D/1.%20Sword/Sword.gif" /> |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Cursed%20Sword)%5BU%5D%7BDerTheVaporeon,%20Team%20SALVAGED%7D/1.%20Sword/Sword.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Evergrim-Staff\)\[U\]{Almirage, EldritchAbomination}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Evergrim-Staff\)\[U\]{Almirage, EldritchAbomination}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D/7.%20Staff/Staff_000.png" alt="[T1][MON][Custom Monster](Evergrim-Staff)[U]{Almirage, EldritchAbomination} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D/7.%20Staff/Staff_000.png" alt="[T1][MON][Custom Monster](Evergrim-Staff)[U]{Almirage, EldritchAbomination} standing" />
 
 
 #### Weapons
@@ -9522,12 +9525,12 @@
 
 |Staff |
 |  :---: |
-| <img alt="Staff animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D/7.%20Staff/Staff.gif" /> |
+| <img alt="Staff animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Evergrim-Staff)%5BU%5D%7BAlmirage,%20EldritchAbomination%7D/7.%20Staff/Staff.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Magical Tomes\)\(U\){N426}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Magical Tomes\)\(U\){N426}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Dark)/Magic_000.png" alt="[T1][MON][Custom Monster](Magical Tomes)(U){N426} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Dark)/Magic_000.png" alt="[T1][MON][Custom Monster](Magical Tomes)(U){N426} standing" />
 
 
 #### Weapons
@@ -9535,12 +9538,12 @@
 
 |Magic |Magic |Magic |Magic |Magic |Magic |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Fire)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Ice)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Light)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Thunder)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Wind)/Magic.gif" /> |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Fire)/Magic.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Ice)/Magic.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Light)/Magic.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Thunder)/Magic.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Magical%20Tomes)(U)%7BN426%7D/6.%20Magic%20(Wind)/Magic.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Mermaid\)\[F\]{ZoramineFae, Dsnoon}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Mermaid\)\[F\]{ZoramineFae, Dsnoon}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Custom Monster](Mermaid)[F]{ZoramineFae, Dsnoon} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Custom Monster](Mermaid)[F]{ZoramineFae, Dsnoon} standing" />
 
 
 #### Weapons
@@ -9548,25 +9551,12 @@
 
 |Magic |Palettes |
 |  :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/6.%20Magic/Magic.gif" /> | <img alt="Palettes animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/Palettes/Palettes.gif" /> |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/6.%20Magic/Magic.gif" /> | <img alt="Palettes animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mermaid)%5BF%5D%7BZoramineFae,%20Dsnoon%7D/Palettes/Palettes.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Mimic Chest\)\[U\]{Seal, Sacred War}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Mimic Chest\)\[U\]{Seal, Sacred War}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Custom Monster](Mimic Chest)[U]{Seal, Sacred War} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MON\]\[Custom Monster\]\(Spirit\)\[U\]{meta4}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Custom Monster](Spirit)[U]{meta4} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Custom Monster](Mimic Chest)[U]{Seal, Sacred War} standing" />
 
 
 #### Weapons
@@ -9574,12 +9564,25 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Mimic%20Chest)%5BU%5D%7BSeal,%20Sacred%20War%7D/6.%20Magic/Magic.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Succubus\){SkidMarc25}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Spirit\)\[U\]{meta4}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Custom Monster](Succubus){SkidMarc25} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Custom Monster](Spirit)[U]{meta4} standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Spirit)%5BU%5D%7Bmeta4%7D/6.%20Magic/Magic.gif" /> |
+
+
+### [\[T1\]\[MON\]\[Custom Monster\]\(Succubus\){SkidMarc25}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Custom Monster](Succubus){SkidMarc25} standing" />
 
 
 #### Weapons
@@ -9587,12 +9590,12 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Succubus)%7BSkidMarc25%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Tiki with Swords and Magic\)\[F\]{Tykky.ryu}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Tiki with Swords and Magic\)\[F\]{Tykky.ryu}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/1.%20Sword%20(Flashy%20crit)/Sword_000.png" alt="[T1][MON][Custom Monster](Tiki with Swords and Magic)[F]{Tykky.ryu} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/1.%20Sword%20(Flashy%20crit)/Sword_000.png" alt="[T1][MON][Custom Monster](Tiki with Swords and Magic)[F]{Tykky.ryu} standing" />
 
 
 #### Weapons
@@ -9600,25 +9603,12 @@
 
 |Sword |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/1.%20Sword%20(Flashy%20crit)/Sword.gif" /> | <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/1.%20Sword%20(Normal%20Crit)/Sword.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/1.%20Sword%20(Flashy%20crit)/Sword.gif" /> | <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/1.%20Sword%20(Normal%20Crit)/Sword.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Tiki%20with%20Swords%20and%20Magic)%5BF%5D%7BTykky.ryu%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Custom Monster\]\(Wild Wyvern\)\[U\]{Mercenary Lord, FaerieFruit}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D)
+### [\[T1\]\[MON\]\[Custom Monster\]\(Wild Wyvern\)\[U\]{Mercenary Lord, FaerieFruit}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Custom Monster](Wild Wyvern)[U]{Mercenary Lord, FaerieFruit} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T1\]\[MON\]\[Demon\]\(Bael\)\[U\]{IS}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Demon](Bael)[U]{IS} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Custom Monster](Wild Wyvern)[U]{Mercenary Lord, FaerieFruit} standing" />
 
 
 #### Weapons
@@ -9626,12 +9616,25 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BCustom%20Monster%5D(Wild%20Wyvern)%5BU%5D%7BMercenary%20Lord,%20FaerieFruit%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Demon\]\(Gargoyle-Deathgoyle\)\[U\]{IS}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D)
+### [\[T1\]\[MON\]\[Demon\]\(Bael\)\[U\]{IS}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/2.%20Lance/Lance_000.png" alt="[T1][MON][Demon](Gargoyle-Deathgoyle)[U]{IS} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Demon](Bael)[U]{IS} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T1\]\[MON\]\[Demon\]\(Gargoyle-Deathgoyle\)\[U\]{IS}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/2.%20Lance/Lance_000.png" alt="[T1][MON][Demon](Gargoyle-Deathgoyle)[U]{IS} standing" />
 
 
 #### Weapons
@@ -9639,12 +9642,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Gargoyle-Deathgoyle)%5BU%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Demon\]\(Mogall-Arch Mogall\)\[U\]{IS}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D)
+### [\[T1\]\[MON\]\[Demon\]\(Mogall-Arch Mogall\)\[U\]{IS}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Demon](Mogall-Arch Mogall)[U]{IS} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Demon](Mogall-Arch Mogall)[U]{IS} standing" />
 
 
 #### Weapons
@@ -9652,12 +9655,12 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Mogall-Arch%20Mogall)%5BU%5D%7BIS%7D/6.%20Magic/Magic.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Demon\]\(Tarvos - Centaur\)\[F\]{Alfred Kamon, Starter, Pikmin1211}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D)
+### [\[T1\]\[MON\]\[Demon\]\(Tarvos - Centaur\)\[F\]{Alfred Kamon, Starter, Pikmin1211}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/1.%20Sword/Sword_000.png" alt="[T1][MON][Demon](Tarvos - Centaur)[F]{Alfred Kamon, Starter, Pikmin1211} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/1.%20Sword/Sword_000.png" alt="[T1][MON][Demon](Tarvos - Centaur)[F]{Alfred Kamon, Starter, Pikmin1211} standing" />
 
 
 #### Weapons
@@ -9665,12 +9668,12 @@
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/6.%20Magic%20%7BPikmin1211%7D/Magic.gif" /> | <img alt="Staff animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/7.%20Staff%20%7BPikmin1211%7D/Staff.gif" /> |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/6.%20Magic%20%7BPikmin1211%7D/Magic.gif" /> | <img alt="Staff animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Centaur)%5BF%5D%7BAlfred%20Kamon,%20Starter,%20Pikmin1211%7D/7.%20Staff%20%7BPikmin1211%7D/Staff.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Demon\]\(Tarvos-Maelduin\)\[M\]{IS}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D)
+### [\[T1\]\[MON\]\[Demon\]\(Tarvos-Maelduin\)\[M\]{IS}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/3.%20Axe/Axe_000.png" alt="[T1][MON][Demon](Tarvos-Maelduin)[M]{IS} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/3.%20Axe/Axe_000.png" alt="[T1][MON][Demon](Tarvos-Maelduin)[M]{IS} standing" />
 
 
 #### Weapons
@@ -9678,12 +9681,12 @@
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BDemon%5D(Tarvos-Maelduin)%5BM%5D%7BIS%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Manakete\]\(Fae to Myrrh Dragon\)\[F\]{Beansy, Teraspark}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D)
+### [\[T1\]\[MON\]\[Manakete\]\(Fae to Myrrh Dragon\)\[F\]{Beansy, Teraspark}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](Fae to Myrrh Dragon)[F]{Beansy, Teraspark} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](Fae to Myrrh Dragon)[F]{Beansy, Teraspark} standing" />
 
 
 #### Weapons
@@ -9691,12 +9694,12 @@
 
 |Dragonstone |Unarmed |
 |  :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Fae%20to%20Myrrh%20Dragon)%5BF%5D%7BBeansy,%20Teraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Manakete\]\(FE6 Fae +FE7\)\[F\]{IS, Circleseverywhere}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D)
+### [\[T1\]\[MON\]\[Manakete\]\(FE6 Fae +FE7\)\[F\]{IS, Circleseverywhere}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE6 Fae +FE7)[F]{IS, Circleseverywhere} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE6 Fae +FE7)[F]{IS, Circleseverywhere} standing" />
 
 
 #### Weapons
@@ -9704,12 +9707,12 @@
 
 |Dragonstone |Dragonstone |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Dragonstone%20(FE7%20Compatible)%20%7BCircleseverywhere%7D/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Dragonstone%20(FE7%20Compatible)%20%7BCircleseverywhere%7D/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fae%20+FE7)%5BF%5D%7BIS,%20Circleseverywhere%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Manakete\]\(FE6 Fire Dragon +FE7\)\[M\]](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D)
+### [\[T1\]\[MON\]\[Manakete\]\(FE6 Fire Dragon +FE7\)\[M\]](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE7)/Dragonstone_000.png" alt="[T1][MON][Manakete](FE6 Fire Dragon +FE7)[M] standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE7)/Dragonstone_000.png" alt="[T1][MON][Manakete](FE6 Fire Dragon +FE7)[M] standing" />
 
 
 #### Weapons
@@ -9717,12 +9720,12 @@
 
 |Dragonstone |Dragonstone |Dragonstone |Dragonstone |Dragonstone |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE7)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE7)%20(Shorter%20Alt)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE8)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FEx)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(Vanilla)%20(No%20Body)/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Unarmed%20(Vanilla)/Unarmed.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE7)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE7)%20(Shorter%20Alt)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FE8)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(FEx)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Dragonstone%20(Vanilla)%20(No%20Body)/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE6%20Fire%20Dragon%20+FE7)%5BM%5D/8.%20Unarmed%20(Vanilla)/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Manakete\]\(FE8 Manakete Rider\)\[M\]{ZoramineFae}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D)
+### [\[T1\]\[MON\]\[Manakete\]\(FE8 Manakete Rider\)\[M\]{ZoramineFae}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE8 Manakete Rider)[M]{ZoramineFae} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE8 Manakete Rider)[M]{ZoramineFae} standing" />
 
 
 #### Weapons
@@ -9730,12 +9733,12 @@
 
 |Dragonstone |
 |  :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D/8.%20Dragonstone/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Manakete%20Rider)%5BM%5D%7BZoramineFae%7D/8.%20Dragonstone/Dragonstone.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Manakete\]\(FE8 Morva\)\[M\]{Cipher Lee, DerTheVaporeon}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D)
+### [\[T1\]\[MON\]\[Manakete\]\(FE8 Morva\)\[M\]{Cipher Lee, DerTheVaporeon}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE8 Morva)[M]{Cipher Lee, DerTheVaporeon} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE8 Morva)[M]{Cipher Lee, DerTheVaporeon} standing" />
 
 
 #### Weapons
@@ -9743,12 +9746,12 @@
 
 |Dragonstone |Unarmed |
 |  :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Morva)%5BM%5D%7BCipher%20Lee,%20DerTheVaporeon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh +FE7, Magic\)\[F\]{IS, Circleseverywhere, Seal}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D)
+### [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh +FE7, Magic\)\[F\]{IS, Circleseverywhere, Seal}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Manakete](FE8 Myrrh +FE7, Magic)[F]{IS, Circleseverywhere, Seal} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Manakete](FE8 Myrrh +FE7, Magic)[F]{IS, Circleseverywhere, Seal} standing" />
 
 
 #### Weapons
@@ -9756,25 +9759,12 @@
 
 |Magic |Magic |Dragonstone |Dragonstone |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/6.%20Magic%20(Gran%20Caster)/Magic.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/8.%20Dragonstone%20(FE7)/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/6.%20Magic%20(Gran%20Caster)/Magic.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/8.%20Dragonstone%20(FE7)/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20+FE7,%20Magic)%5BF%5D%7BIS,%20Circleseverywhere,%20Seal%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh Repalette\)\[F\]{Teraspark}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D)
+### [\[T1\]\[MON\]\[Manakete\]\(FE8 Myrrh Repalette\)\[F\]{Teraspark}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE8 Myrrh Repalette)[F]{Teraspark} standing" />
-
-
-#### Weapons
-
-
-|Dragonstone |Unarmed |
-|  :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MON\]\[Manakete\]\(Myrrh to FE7 Fire Dragon\)\[F\]](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](Myrrh to FE7 Fire Dragon)[F] standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](FE8 Myrrh Repalette)[F]{Teraspark} standing" />
 
 
 #### Weapons
@@ -9782,12 +9772,25 @@
 
 |Dragonstone |Unarmed |
 |  :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(FE8%20Myrrh%20Repalette)%5BF%5D%7BTeraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Mauthe Doog\]\(Repalette +Ranged\)\[U\]{Teraspark}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D)
+### [\[T1\]\[MON\]\[Manakete\]\(Myrrh to FE7 Fire Dragon\)\[F\]](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Mauthe Doog](Repalette +Ranged)[U]{Teraspark} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T1][MON][Manakete](Myrrh to FE7 Fire Dragon)[F] standing" />
+
+
+#### Weapons
+
+
+|Dragonstone |Unarmed |
+|  :---: | :---: |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BManakete%5D(Myrrh%20to%20FE7%20Fire%20Dragon)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T1\]\[MON\]\[Mauthe Doog\]\(Repalette +Ranged\)\[U\]{Teraspark}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Mauthe Doog](Repalette +Ranged)[U]{Teraspark} standing" />
 
 
 #### Weapons
@@ -9795,12 +9798,12 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Mauthe Doog\]\(SM Crit +Wings\)\[U\]{Watching Dog, Pikmin1211}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D)
+### [\[T1\]\[MON\]\[Mauthe Doog\]\(SM Crit +Wings\)\[U\]{Watching Dog, Pikmin1211}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Mauthe Doog](SM Crit +Wings)[U]{Watching Dog, Pikmin1211} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Mauthe Doog](SM Crit +Wings)[U]{Watching Dog, Pikmin1211} standing" />
 
 
 #### Weapons
@@ -9808,25 +9811,12 @@
 
 |Monster |Monster |
 |  :---: | :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/8.%20Monster%20(Wings%20Crit)/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(SM%20Crit%20+Wings)%5BU%5D%7BWatching%20Dog,%20Pikmin1211%7D/8.%20Monster%20(Wings%20Crit)/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Mauthe Doog\]\(Vanilla\)\[U\]{IS}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D)
+### [\[T1\]\[MON\]\[Mauthe Doog\]\(Vanilla\)\[U\]{IS}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Mauthe Doog](Vanilla)[U]{IS} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog Repal\)\[M\]{Smokeyguy77, ZoramineFae}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Kitsune Doog Repal)[M]{Smokeyguy77, ZoramineFae} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Mauthe Doog](Vanilla)[U]{IS} standing" />
 
 
 #### Weapons
@@ -9834,25 +9824,12 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BMauthe%20Doog%5D(Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog\)\[F\]{ZoramineFae, Clendo}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D)
+### [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog Repal\)\[M\]{Smokeyguy77, ZoramineFae}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Kitsune Doog)[F]{ZoramineFae, Clendo} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog\)\[M\]{ZoramineFae}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Kitsune Doog)[M]{ZoramineFae} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Kitsune Doog Repal)[M]{Smokeyguy77, ZoramineFae} standing" />
 
 
 #### Weapons
@@ -9860,12 +9837,38 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog%20Repal)%5BM%5D%7BSmokeyguy77,%20ZoramineFae%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Shapeshifter\]\(Wanderer - Blade\)\[M\]{chhhsfe, DerTheVaporeon}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D)
+### [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog\)\[F\]{ZoramineFae, Clendo}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D/1.%20Sword/Sword_000.png" alt="[T1][MON][Shapeshifter](Wanderer - Blade)[M]{chhhsfe, DerTheVaporeon} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Kitsune Doog)[F]{ZoramineFae, Clendo} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T1\]\[MON\]\[Shapeshifter\]\(Kitsune Doog\)\[M\]{ZoramineFae}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Kitsune Doog)[M]{ZoramineFae} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Kitsune%20Doog)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T1\]\[MON\]\[Shapeshifter\]\(Wanderer - Blade\)\[M\]{chhhsfe, DerTheVaporeon}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D/1.%20Sword/Sword_000.png" alt="[T1][MON][Shapeshifter](Wanderer - Blade)[M]{chhhsfe, DerTheVaporeon} standing" />
 
 
 #### Weapons
@@ -9873,12 +9876,12 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D/1.%20Sword/Sword.gif" /> |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wanderer%20-%20Blade)%5BM%5D%7Bchhhsfe,%20DerTheVaporeon%7D/1.%20Sword/Sword.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Shapeshifter\]\(Wolfskin Doog\)\[M\]{chhhsfe}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D)
+### [\[T1\]\[MON\]\[Shapeshifter\]\(Wolfskin Doog\)\[M\]{chhhsfe}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Wolfskin Doog)[M]{chhhsfe} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Shapeshifter](Wolfskin Doog)[M]{chhhsfe} standing" />
 
 
 #### Weapons
@@ -9886,12 +9889,12 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BShapeshifter%5D(Wolfskin%20Doog)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Undead\]\(Bonewalker-Wight\)\[U\]](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D)
+### [\[T1\]\[MON\]\[Undead\]\(Bonewalker-Wight\)\[U\]](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T1][MON][Undead](Bonewalker-Wight)[U] standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/1.%20Sword/Sword_000.png" alt="[T1][MON][Undead](Bonewalker-Wight)[U] standing" />
 
 
 #### Weapons
@@ -9899,25 +9902,12 @@
 
 |Sword |Lance |Axe |Axe |Handaxe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/3.%20Axe%20%7BMrNighti%7D/Axe.gif" /> | <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/3.%20Axe%20%7BVilkalizeR%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/4.%20Handaxe%20%7BMrNight%7D/Handaxe.gif" /> | <img alt="Handaxe animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/4.%20Handaxe%20%7BVilkalizer%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/3.%20Axe%20%7BMrNighti%7D/Axe.gif" /> | <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/3.%20Axe%20%7BVilkalizeR%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/4.%20Handaxe%20%7BMrNight%7D/Handaxe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/4.%20Handaxe%20%7BVilkalizer%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Bonewalker-Wight)%5BU%5D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Undead\]\(Cantor Gaiden-Style\)\[U\]{Spud}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D)
+### [\[T1\]\[MON\]\[Undead\]\(Cantor Gaiden-Style\)\[U\]{Spud}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Undead](Cantor Gaiden-Style)[U]{Spud} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MON\]\[Undead\]\(Ghost - Breath of Fire-Style\)\[U\]{Eldritch Abomination}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Undead](Ghost - Breath of Fire-Style)[U]{Eldritch Abomination} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Undead](Cantor Gaiden-Style)[U]{Spud} standing" />
 
 
 #### Weapons
@@ -9925,12 +9915,25 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Cantor%20Gaiden-Style)%5BU%5D%7BSpud%7D/6.%20Magic/Magic.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Undead\]\(Revenant +Ranged, Goop\)\[U\]{IS, Teraspark, Sme}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D)
+### [\[T1\]\[MON\]\[Undead\]\(Ghost - Breath of Fire-Style\)\[U\]{Eldritch Abomination}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Undead](Revenant +Ranged, Goop)[U]{IS, Teraspark, Sme} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Undead](Ghost - Breath of Fire-Style)[U]{Eldritch Abomination} standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Ghost%20-%20Breath%20of%20Fire-Style)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> |
+
+
+### [\[T1\]\[MON\]\[Undead\]\(Revenant +Ranged, Goop\)\[U\]{IS, Teraspark, Sme}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster/Monster_000.png" alt="[T1][MON][Undead](Revenant +Ranged, Goop)[U]{IS, Teraspark, Sme} standing" />
 
 
 #### Weapons
@@ -9938,12 +9941,12 @@
 
 |Monster |Monster |Monster |
 |  :---: | :---: | :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster%20(Goop%20Attack)%20%7BSme%7D/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster%20(Magic%20Ranged)%20%7BTeraspark%7D/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster%20(Goop%20Attack)%20%7BSme%7D/Monster.gif" /> | <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Revenant%20+Ranged,%20Goop)%5BU%5D%7BIS,%20Teraspark,%20Sme%7D/8.%20Monster%20(Magic%20Ranged)%20%7BTeraspark%7D/Monster.gif" /> |
 
 
-### [\[T1\]\[MON\]\[Undead\]\(Skelemonk\)\[U\]{JonoTheRed}](./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D)
+### [\[T1\]\[MON\]\[Undead\]\(Skelemonk\)\[U\]{JonoTheRed}](./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Undead](Skelemonk)[U]{JonoTheRed} standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D/6.%20Magic/Magic_000.png" alt="[T1][MON][Undead](Skelemonk)[U]{JonoTheRed} standing" />
 
 
 #### Weapons
@@ -9951,12 +9954,15 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BT1%5D%5BMON%5D%5BUndead%5D(Skelemonk)%5BU%5D%7BJonoTheRed%7D/6.%20Magic/Magic.gif" /> |
 
 
-### [\[T2\[\[MON\]\[Demon\]\(Gargoyle - Strigoi\)\[U\]{Arkth}](./6.%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/2.%20Lance/Lance_000.png" alt="[T2[[MON][Demon](Gargoyle - Strigoi)[U]{Arkth} standing" />
+## [6b. T2 Monsters (WIP) Battle Animations](./6b.%20T2%20Monsters%20(WIP)/)
+
+### [\[T2\[\[MON\]\[Demon\]\(Gargoyle - Strigoi\)\[U\]{Arkth}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/2.%20Lance/Lance_000.png" alt="[T2[[MON][Demon](Gargoyle - Strigoi)[U]{Arkth} standing" />
 
 
 #### Weapons
@@ -9964,12 +9970,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./6.%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5B%5BMON%5D%5BDemon%5D(Gargoyle%20-%20Strigoi)%5BU%5D%7BArkth%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Custom Monster\]\(Salamander\)\[U\]{Memae}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D)
+### [\[T2\]\[MON\]\[Custom Monster\]\(Salamander\)\[U\]{Memae}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/6.%20Magic%20(Cannon)/Magic_000.png" alt="[T2][MON][Custom Monster](Salamander)[U]{Memae} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/6.%20Magic%20(Cannon)/Magic_000.png" alt="[T2][MON][Custom Monster](Salamander)[U]{Memae} standing" />
 
 
 #### Weapons
@@ -9977,12 +9983,12 @@
 
 |Magic |Unarmed |
 |  :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/6.%20Magic%20(Cannon)/Magic.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/6.%20Magic%20(Cannon)/Magic.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BCustom%20Monster%5D(Salamander)%5BU%5D%7BMemae%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Demon\]\(Bael - Queen\)\[U\]{Seal}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D)
+### [\[T2\]\[MON\]\[Demon\]\(Bael - Queen\)\[U\]{Seal}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/6.%20Magic%20%7BYera%7D/Magic_000.png" alt="[T2][MON][Demon](Bael - Queen)[U]{Seal} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/6.%20Magic%20%7BYera%7D/Magic_000.png" alt="[T2][MON][Demon](Bael - Queen)[U]{Seal} standing" />
 
 
 #### Weapons
@@ -9990,12 +9996,12 @@
 
 |Magic |Monster |
 |  :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/6.%20Magic%20%7BYera%7D/Magic.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/6.%20Magic%20%7BYera%7D/Magic.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Bael%20-%20Queen)%5BU%5D%7BSeal%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Demon\]\(Custom Deathgoyle\)\[U\]{Teraspark, L95}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D)
+### [\[T2\]\[MON\]\[Demon\]\(Custom Deathgoyle\)\[U\]{Teraspark, L95}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/2.%20Lance/Lance_000.png" alt="[T2][MON][Demon](Custom Deathgoyle)[U]{Teraspark, L95} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/2.%20Lance/Lance_000.png" alt="[T2][MON][Demon](Custom Deathgoyle)[U]{Teraspark, L95} standing" />
 
 
 #### Weapons
@@ -10003,103 +10009,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Custom%20Deathgoyle)%5BU%5D%7BTeraspark,%20L95%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Demon\]\(Cyclops +Bow\)\[U\]{IS, Pie1055, Orihara_Saki}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D)
+### [\[T2\]\[MON\]\[Demon\]\(Cyclops +Bow\)\[U\]{IS, Pie1055, Orihara_Saki}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/3.%20Axe/Axe_000.png" alt="[T2][MON][Demon](Cyclops +Bow)[U]{IS, Pie1055, Orihara_Saki} standing" />
-
-
-#### Weapons
-
-
-|Axe |Handaxe |Bow |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Demon\]\(Elder Bael Repalette +Ranged\)\[U\]{Teraspark}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Demon](Elder Bael Repalette +Ranged)[U]{Teraspark} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Demon\]\(Elder Bael\)\[U\]{IS}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Demon](Elder Bael)[U]{IS} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Demon\]\(Gorgon\)\[F\]{IS}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Gorgon)[F]{IS} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Demon\]\(Mogall - Gazer\)\[U\]{Seal}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Mogall - Gazer)[U]{Seal} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Demon\]\(Succubus\)\[F\]{Yangfly Master}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Succubus)[F]{Yangfly Master} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Demon\]\(Tarantula Wizard\)\[U\]{Shtick}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Tarantula Wizard)[U]{Shtick} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Demon\]\(Tarvos - Elder\)\[M\]{Seal}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/3.%20Axe/Axe_000.png" alt="[T2][MON][Demon](Tarvos - Elder)[M]{Seal} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/3.%20Axe/Axe_000.png" alt="[T2][MON][Demon](Cyclops +Bow)[U]{IS, Pie1055, Orihara_Saki} standing" />
 
 
 #### Weapons
@@ -10107,12 +10022,103 @@
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Cyclops%20+Bow)%5BU%5D%7BIS,%20Pie1055,%20Orihara_Saki%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Dragon\]\(Blue Eyes Yu-Gi-Oh!\)\[U\]{Yangfly Master, Jump Ultimate}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D)
+### [\[T2\]\[MON\]\[Demon\]\(Elder Bael Repalette +Ranged\)\[U\]{Teraspark}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T2][MON][Dragon](Blue Eyes Yu-Gi-Oh!)[U]{Yangfly Master, Jump Ultimate} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Demon](Elder Bael Repalette +Ranged)[U]{Teraspark} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Demon\]\(Elder Bael\)\[U\]{IS}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Demon](Elder Bael)[U]{IS} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Elder%20Bael)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Demon\]\(Gorgon\)\[F\]{IS}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Gorgon)[F]{IS} standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Gorgon)%5BF%5D%7BIS%7D/6.%20Magic/Magic.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Demon\]\(Mogall - Gazer\)\[U\]{Seal}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Mogall - Gazer)[U]{Seal} standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Mogall%20-%20Gazer)%5BU%5D%7BSeal%7D/6.%20Magic/Magic.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Demon\]\(Succubus\)\[F\]{Yangfly Master}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Succubus)[F]{Yangfly Master} standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Succubus)%5BF%5D%7BYangfly%20Master%7D/6.%20Magic/Magic.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Demon\]\(Tarantula Wizard\)\[U\]{Shtick}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Demon](Tarantula Wizard)[U]{Shtick} standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarantula%20Wizard)%5BU%5D%7BShtick%7D/6.%20Magic/Magic.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Demon\]\(Tarvos - Elder\)\[M\]{Seal}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/3.%20Axe/Axe_000.png" alt="[T2][MON][Demon](Tarvos - Elder)[M]{Seal} standing" />
+
+
+#### Weapons
+
+
+|Axe |Handaxe |Bow |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Axe animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDemon%5D(Tarvos%20-%20Elder)%5BM%5D%7BSeal%7D/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Dragon\]\(Blue Eyes Yu-Gi-Oh!\)\[U\]{Yangfly Master, Jump Ultimate}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T2][MON][Dragon](Blue Eyes Yu-Gi-Oh!)[U]{Yangfly Master, Jump Ultimate} standing" />
 
 
 #### Weapons
@@ -10120,12 +10126,12 @@
 
 |Dragonstone |
 |  :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D/8.%20Dragonstone/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Blue%20Eyes%20Yu-Gi-Oh!)%5BU%5D%7BYangfly%20Master,%20Jump%20Ultimate%7D/8.%20Dragonstone/Dragonstone.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Dragon\]\(Undead Morva\)\[U\]{IS}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D)
+### [\[T2\]\[MON\]\[Dragon\]\(Undead Morva\)\[U\]{IS}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T2][MON][Dragon](Undead Morva)[U]{IS} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T2][MON][Dragon](Undead Morva)[U]{IS} standing" />
 
 
 #### Weapons
@@ -10133,25 +10139,12 @@
 
 |Dragonstone |
 |  :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D/8.%20Dragonstone/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BDragon%5D(Undead%20Morva)%5BU%5D%7BIS%7D/8.%20Dragonstone/Dragonstone.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Mauthe Doog\]\(Gwyllgi Repalette +Ranged\)\[U\]{Teraspark}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D)
+### [\[T2\]\[MON\]\[Mauthe Doog\]\(Gwyllgi Repalette +Ranged\)\[U\]{Teraspark}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Mauthe Doog](Gwyllgi Repalette +Ranged)[U]{Teraspark} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Mauthe Doog\]\(Gwyllgi Vanilla\)\[U\]{IS}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Mauthe Doog](Gwyllgi Vanilla)[U]{IS} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Mauthe Doog](Gwyllgi Repalette +Ranged)[U]{Teraspark} standing" />
 
 
 #### Weapons
@@ -10159,25 +10152,12 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Repalette%20+Ranged)%5BU%5D%7BTeraspark%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Mauthe Doog\]\(Vampire Hound\)\[U\]{Watching Dog}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D)
+### [\[T2\]\[MON\]\[Mauthe Doog\]\(Gwyllgi Vanilla\)\[U\]{IS}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Mauthe Doog](Vampire Hound)[U]{Watching Dog} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Shapeshifter\]\(Ninetails Gwyllgi\)\[F\]{ZoramineFae, Clendo}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Shapeshifter](Ninetails Gwyllgi)[F]{ZoramineFae, Clendo} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Mauthe Doog](Gwyllgi Vanilla)[U]{IS} standing" />
 
 
 #### Weapons
@@ -10185,25 +10165,12 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Gwyllgi%20Vanilla)%5BU%5D%7BIS%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Shapeshifter\]\(Ninetails Gwyllgi\)\[M\]{ZoramineFae}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D)
+### [\[T2\]\[MON\]\[Mauthe Doog\]\(Vampire Hound\)\[U\]{Watching Dog}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Shapeshifter](Ninetails Gwyllgi)[M]{ZoramineFae} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[T2\]\[MON\]\[Shapeshifter\]\(Wolfssegner Gwyllgi\)\[M\]{chhhsfe}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D)
-
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Shapeshifter](Wolfssegner Gwyllgi)[M]{chhhsfe} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Mauthe Doog](Vampire Hound)[U]{Watching Dog} standing" />
 
 
 #### Weapons
@@ -10211,12 +10178,51 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BMauthe%20Doog%5D(Vampire%20Hound)%5BU%5D%7BWatching%20Dog%7D/8.%20Monster/Monster.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Undead\]\(Bonewalker - Legion\)\[U\]{Seal,blood, Sax Marine}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D)
+### [\[T2\]\[MON\]\[Shapeshifter\]\(Ninetails Gwyllgi\)\[F\]{ZoramineFae, Clendo}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/1.%20Sword/Sword_000.png" alt="[T2][MON][Undead](Bonewalker - Legion)[U]{Seal,blood, Sax Marine} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Shapeshifter](Ninetails Gwyllgi)[F]{ZoramineFae, Clendo} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BF%5D%7BZoramineFae,%20Clendo%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Shapeshifter\]\(Ninetails Gwyllgi\)\[M\]{ZoramineFae}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Shapeshifter](Ninetails Gwyllgi)[M]{ZoramineFae} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Ninetails%20Gwyllgi)%5BM%5D%7BZoramineFae%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Shapeshifter\]\(Wolfssegner Gwyllgi\)\[M\]{chhhsfe}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Shapeshifter](Wolfssegner Gwyllgi)[M]{chhhsfe} standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BShapeshifter%5D(Wolfssegner%20Gwyllgi)%5BM%5D%7Bchhhsfe%7D/8.%20Monster/Monster.gif" /> |
+
+
+### [\[T2\]\[MON\]\[Undead\]\(Bonewalker - Legion\)\[U\]{Seal,blood, Sax Marine}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D)
+
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/1.%20Sword/Sword_000.png" alt="[T2][MON][Undead](Bonewalker - Legion)[U]{Seal,blood, Sax Marine} standing" />
 
 
 #### Weapons
@@ -10224,12 +10230,12 @@
 
 |Sword |Lance |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/8.%20Unarmed%20(Shield)%20%7BSaxMarine%7D/Unarmed.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/8.%20Unarmed%20%7Bblood%7D/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/2.%20Lance/Lance.gif" /> | <img alt="Bow animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/8.%20Unarmed%20(Shield)%20%7BSaxMarine%7D/Unarmed.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Bonewalker%20-%20Legion)%5BU%5D%7BSeal,blood,%20Sax%20Marine%7D/8.%20Unarmed%20%7Bblood%7D/Unarmed.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Undead\]\(Entombed +Ranged\)\[U\]{IS, Teraspark}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D)
+### [\[T2\]\[MON\]\[Undead\]\(Entombed +Ranged\)\[U\]{IS, Teraspark}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Undead](Entombed +Ranged)[U]{IS, Teraspark} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/8.%20Monster/Monster_000.png" alt="[T2][MON][Undead](Entombed +Ranged)[U]{IS, Teraspark} standing" />
 
 
 #### Weapons
@@ -10237,12 +10243,12 @@
 
 |Monster |Monster |
 |  :---: | :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/8.%20Monster%20(Magic%20Ranged)%20%7BTeraspark%7D/Monster.gif" /> |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Entombed%20+Ranged)%5BU%5D%7BIS,%20Teraspark%7D/8.%20Monster%20(Magic%20Ranged)%20%7BTeraspark%7D/Monster.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Undead\]\(Lich\)\[U\]{SkidMarc25}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D)
+### [\[T2\]\[MON\]\[Undead\]\(Lich\)\[U\]{SkidMarc25}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Undead](Lich)[U]{SkidMarc25} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Undead](Lich)[U]{SkidMarc25} standing" />
 
 
 #### Weapons
@@ -10250,12 +10256,12 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Lich)%5BU%5D%7BSkidMarc25%7D/6.%20Magic/Magic.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Undead\]\(Mogall Jockey\)\[U\]{Sme}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D)
+### [\[T2\]\[MON\]\[Undead\]\(Mogall Jockey\)\[U\]{Sme}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/5.%20Bow/Bow_000.png" alt="[T2][MON][Undead](Mogall Jockey)[U]{Sme} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/5.%20Bow/Bow_000.png" alt="[T2][MON][Undead](Mogall Jockey)[U]{Sme} standing" />
 
 
 #### Weapons
@@ -10263,12 +10269,12 @@
 
 |Bow |Magic |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/6.%20Magic/Magic.gif" /> |
+| <img alt="Bow animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Mogall%20Jockey)%5BU%5D%7BSme%7D/6.%20Magic/Magic.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Undead\]\(Poltergeist\)\[U\]{Eldritch Abomination}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D)
+### [\[T2\]\[MON\]\[Undead\]\(Poltergeist\)\[U\]{Eldritch Abomination}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Undead](Poltergeist)[U]{Eldritch Abomination} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T2][MON][Undead](Poltergeist)[U]{Eldritch Abomination} standing" />
 
 
 #### Weapons
@@ -10276,12 +10282,12 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Poltergeist)%5BU%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> |
 
 
-### [\[T2\]\[MON\]\[Undead\]\(Wight\)\[U\]{Teraspark, Wan}](./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D)
+### [\[T2\]\[MON\]\[Undead\]\(Wight\)\[U\]{Teraspark, Wan}](./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/1.%20Sword/Sword_000.png" alt="[T2][MON][Undead](Wight)[U]{Teraspark, Wan} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/1.%20Sword/Sword_000.png" alt="[T2][MON][Undead](Wight)[U]{Teraspark, Wan} standing" />
 
 
 #### Weapons
@@ -10289,12 +10295,12 @@
 
 |Sword |Lance |Axe |Axe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/3.%20Axe%20(Handaxe%20Ranged)/Axe.gif" /> | <img alt="Axe animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/3.%20Axe%20(Magic%20Ranged)/Axe.gif" /> | <img alt="Bow animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/3.%20Axe%20(Handaxe%20Ranged)/Axe.gif" /> | <img alt="Axe animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/3.%20Axe%20(Magic%20Ranged)/Axe.gif" /> | <img alt="Bow animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT2%5D%5BMON%5D%5BUndead%5D(Wight)%5BU%5D%7BTeraspark,%20Wan%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Demon\]\(Demon King +FE6-7\)\[U\]](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D)
+### [\[T3\]\[MON\]\[Demon\]\(Demon King +FE6-7\)\[U\]](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/6.%20Magic%20%7BSHYUTERz%7D/Magic_000.png" alt="[T3][MON][Demon](Demon King +FE6-7)[U] standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/6.%20Magic%20%7BSHYUTERz%7D/Magic_000.png" alt="[T3][MON][Demon](Demon King +FE6-7)[U] standing" />
 
 
 #### Weapons
@@ -10302,12 +10308,12 @@
 
 |Magic |Monster |Monster |Monster |Monster |Monster |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/6.%20Magic%20%7BSHYUTERz%7D/Magic.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20(Arm)/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20(FE7)%20(Demon%20Light)/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20(FE7)%20(Ravager)/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20%7BSHYUTERz%7D/Monster.gif" /> |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/6.%20Magic%20%7BSHYUTERz%7D/Magic.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20(Arm)/Monster.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20(FE7)%20(Demon%20Light)/Monster.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20(FE7)%20(Ravager)/Monster.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Demon%20King%20+FE6-7)%5BU%5D/8.%20Monster%20%7BSHYUTERz%7D/Monster.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Demon\]\(Fell God Duma\)\[U\]](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D)
+### [\[T3\]\[MON\]\[Demon\]\(Fell God Duma\)\[U\]](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/8.%20Monster%20%7BSHYUTERz%7D/Monster_000.png" alt="[T3][MON][Demon](Fell God Duma)[U] standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/8.%20Monster%20%7BSHYUTERz%7D/Monster_000.png" alt="[T3][MON][Demon](Fell God Duma)[U] standing" />
 
 
 #### Weapons
@@ -10315,12 +10321,12 @@
 
 |Monster |Background |README |
 |  :---: | :---: | :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/8.%20Monster%20%7BSHYUTERz%7D/Monster.gif" /> | <img alt="Background animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/Background%20Darkening%20Event/Background.gif" /> | <img alt="README animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/README%20-%20Transformation%20SFX%20Notes/README.gif" /> |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/8.%20Monster%20%7BSHYUTERz%7D/Monster.gif" /> | <img alt="Background animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/Background%20Darkening%20Event/Background.gif" /> | <img alt="README animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDemon%5D(Fell%20God%20Duma)%5BU%5D/README%20-%20Transformation%20SFX%20Notes/README.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Dragon\]\(Black Dragon FE10-Style\)\[U\]{Nuramon}](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D)
+### [\[T3\]\[MON\]\[Dragon\]\(Black Dragon FE10-Style\)\[U\]{Nuramon}](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Black Dragon FE10-Style)[U]{Nuramon} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Black Dragon FE10-Style)[U]{Nuramon} standing" />
 
 
 #### Weapons
@@ -10328,12 +10334,12 @@
 
 |Dragonstone |Unarmed |
 |  :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Black%20Dragon%20FE10-Style)%5BU%5D%7BNuramon%7D/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Dragon\]\(Dark Dragon\)\[U\]{Leo_link}](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D)
+### [\[T3\]\[MON\]\[Dragon\]\(Dark Dragon\)\[U\]{Leo_link}](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Dark Dragon)[U]{Leo_link} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Dark Dragon)[U]{Leo_link} standing" />
 
 
 #### Weapons
@@ -10341,12 +10347,12 @@
 
 |Dragonstone |
 |  :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D/8.%20Dragonstone/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Dark%20Dragon)%5BU%5D%7BLeo_link%7D/8.%20Dragonstone/Dragonstone.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Dragon\]\(Draco Zombie +FE7\)\[U\]](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D)
+### [\[T3\]\[MON\]\[Dragon\]\(Draco Zombie +FE7\)\[U\]](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Draco Zombie +FE7)[U] standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Draco Zombie +FE7)[U] standing" />
 
 
 #### Weapons
@@ -10354,12 +10360,12 @@
 
 |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone%20(Improved%20+Transform)/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Draco%20Zombie%20+FE7)%5BU%5D/8.%20Dragonstone%20(Improved%20+Transform)/Dragonstone.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Dragon\]\(FE6 Idunn +FE7-8\)\[U\]](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D)
+### [\[T3\]\[MON\]\[Dragon\]\(FE6 Idunn +FE7-8\)\[U\]](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/6.%20Magic%20(Druid%20Idunn)/Magic_000.png" alt="[T3][MON][Dragon](FE6 Idunn +FE7-8)[U] standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/6.%20Magic%20(Druid%20Idunn)/Magic_000.png" alt="[T3][MON][Dragon](FE6 Idunn +FE7-8)[U] standing" />
 
 
 #### Weapons
@@ -10367,12 +10373,12 @@
 
 |Magic |Staff |Dragonstone |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/6.%20Magic%20(Druid%20Idunn)/Magic.gif" /> | <img alt="Staff animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/7.%20Staff%20(Druid%20Idunn)/Staff.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone%20(Claw%20+%20Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone%20(Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone%20%7BMarlon0024%7D/Dragonstone.gif" /> |
+| <img alt="Magic animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/6.%20Magic%20(Druid%20Idunn)/Magic.gif" /> | <img alt="Staff animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/7.%20Staff%20(Druid%20Idunn)/Staff.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone%20(Claw%20+%20Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone%20(Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE6%20Idunn%20+FE7-8)%5BU%5D/8.%20Dragonstone%20%7BMarlon0024%7D/Dragonstone.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Dragon\]\(FE7 Fire Dragon +FE8\)\[U\]](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D)
+### [\[T3\]\[MON\]\[Dragon\]\(FE7 Fire Dragon +FE8\)\[U\]](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](FE7 Fire Dragon +FE8)[U] standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](FE7 Fire Dragon +FE8)[U] standing" />
 
 
 #### Weapons
@@ -10380,12 +10386,12 @@
 
 |Dragonstone |Dragonstone |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20(Transform%20Flash%20Crit)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20(Transform%20Stepin)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20(Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20%7BMarlon0024%7D/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20(Transform%20Flash%20Crit)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20(Transform%20Stepin)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20(Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(FE7%20Fire%20Dragon%20+FE8)%5BU%5D/8.%20Dragonstone%20%7BMarlon0024%7D/Dragonstone.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Dragon\]\(Ice - Elibian Nights + Transforming\)\[U\]](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D)
+### [\[T3\]\[MON\]\[Dragon\]\(Ice - Elibian Nights + Transforming\)\[U\]](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Ice - Elibian Nights + Transforming)[U] standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D/8.%20Dragonstone/Dragonstone_000.png" alt="[T3][MON][Dragon](Ice - Elibian Nights + Transforming)[U] standing" />
 
 
 #### Weapons
@@ -10393,12 +10399,12 @@
 
 |Dragonstone |
 |  :---: |
-| <img alt="Dragonstone animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BDragon%5D(Ice%20-%20Elibian%20Nights%20+%20Transforming)%5BU%5D/8.%20Dragonstone/Dragonstone.gif" /> |
 
 
-### [\[T3\]\[MON\]\[Mauthe Doog\]\(Cerberus\)\[U\]{Pikmin1211}](./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D)
+### [\[T3\]\[MON\]\[Mauthe Doog\]\(Cerberus\)\[U\]{Pikmin1211}](./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D)
 
-<img src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/8.%20Monster/Monster_000.png" alt="[T3][MON][Mauthe Doog](Cerberus)[U]{Pikmin1211} standing" />
+<img src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/8.%20Monster/Monster_000.png" alt="[T3][MON][Mauthe Doog](Cerberus)[U]{Pikmin1211} standing" />
 
 
 #### Weapons
@@ -10406,7 +10412,7 @@
 
 |Monster |Monster |
 |  :---: | :---: |
-| <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6.%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif" /> |
+| <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6b.%20T2%20Monsters%20(WIP)/%5BT3%5D%5BMON%5D%5BMauthe%20Doog%5D(Cerberus)%5BU%5D%7BPikmin1211%7D/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif" /> |
 
 
 

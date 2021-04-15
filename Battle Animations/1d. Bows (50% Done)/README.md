@@ -1,4 +1,4 @@
-# [1d. Bows Battle Animations](./)
+# [1d. Bows (50% Done) Battle Animations](./)
 
 ## [\[Archer-Variant\] \[F\] Der's Improved](./%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved)
 

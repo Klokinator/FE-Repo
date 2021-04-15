@@ -1,8 +1,8 @@
-# [\[Eirika-Base\] \[F\] Repalette\)\[F\]{Teraspark}]
+# [\[Eirika-Base\] \[F\] Repal by Teraspark]
 
 ## Credit
 
-
+Repalette by Teraspark.
 	
 ## Sword
 

@@ -1,4 +1,4 @@
-# [2c. Refreshers, Misc Battle Animations](./)
+# [2c. Refreshers, Misc (WIP) Battle Animations](./)
 
 ## [\[Miscellaneous\] \[\] \(Chicken\)\[U\]{EldritchAbomination}](./%5BMiscellaneous%5D%20%5B%5D%20(Chicken)%5BU%5D%7BEldritchAbomination%7D/%5BMiscellaneous%5D%20%5B%5D%20(Chicken)%5BU%5D%7BEldritchAbomination%7D)
 

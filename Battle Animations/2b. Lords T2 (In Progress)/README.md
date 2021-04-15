@@ -1,4 +1,4 @@
-# [2b. Lords Promoted Battle Animations](./)
+# [2b. Lords T2 (In Progress) Battle Animations](./)
 
 ## [\[Custom Lord\] \[F\] Brave Lyn by RedBean](./%5BCustom%20Lord%5D%20%5BF%5D%20Brave%20Lyn%20by%20RedBean/%5BCustom%20Lord%5D%20%5BF%5D%20Brave%20Lyn%20by%20RedBean)
 
@@ -91,9 +91,9 @@
 | <img alt="Sword animation" src="./%5BCustom%20Lord%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BCustom%20Lord%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BCustom%20Lord%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Lord%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Eirika-Base\] \[F\] Isadora Doubleblade\)\[F\]{FE7if}](./%5BEirika-Base%5D%20%5BF%5D%20Isadora%20Doubleblade)%5BF%5D%7BFE7if%7D/%5BEirika-Base%5D%20%5BF%5D%20Isadora%20Doubleblade)%5BF%5D%7BFE7if%7D)
+## [\[Eirika-Base\] \[F\] FE7if Isadora Doubleblade](./%5BEirika-Base%5D%20%5BF%5D%20FE7if%20Isadora%20Doubleblade/%5BEirika-Base%5D%20%5BF%5D%20FE7if%20Isadora%20Doubleblade)
 
-<img src="./%5BEirika-Base%5D%20%5BF%5D%20Isadora%20Doubleblade)%5BF%5D%7BFE7if%7D/1.%20Sword%20(Hauteclere)/Sword_000.png" alt="[Eirika-Base] [F] Isadora Doubleblade)[F]{FE7if} standing" />
+<img src="./%5BEirika-Base%5D%20%5BF%5D%20FE7if%20Isadora%20Doubleblade/1.%20Sword%20(Hauteclere)/Sword_000.png" alt="[Eirika-Base] [F] FE7if Isadora Doubleblade standing" />
 
 
 ### Weapons
@@ -101,12 +101,12 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Isadora%20Doubleblade)%5BF%5D%7BFE7if%7D/1.%20Sword%20(Hauteclere)/Sword.gif" /> |
+| <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20FE7if%20Isadora%20Doubleblade/1.%20Sword%20(Hauteclere)/Sword.gif" /> |
 
 
-## [\[Eirika-Base\] \[F\] Repalette\)\[F\]{Teraspark}](./%5BEirika-Base%5D%20%5BF%5D%20Repalette)%5BF%5D%7BTeraspark%7D/%5BEirika-Base%5D%20%5BF%5D%20Repalette)%5BF%5D%7BTeraspark%7D)
+## [\[Eirika-Base\] \[F\] Repal by Teraspark](./%5BEirika-Base%5D%20%5BF%5D%20Repal%20by%20Teraspark/%5BEirika-Base%5D%20%5BF%5D%20Repal%20by%20Teraspark)
 
-<img src="./%5BEirika-Base%5D%20%5BF%5D%20Repalette)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Repalette)[F]{Teraspark} standing" />
+<img src="./%5BEirika-Base%5D%20%5BF%5D%20Repal%20by%20Teraspark/1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Repal by Teraspark standing" />
 
 
 ### Weapons
@@ -114,12 +114,12 @@
 
 |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Repalette)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Repalette)%5BF%5D%7BTeraspark%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Repalette)%5BF%5D%7BTeraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Repal%20by%20Teraspark/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Repal%20by%20Teraspark/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Repal%20by%20Teraspark/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Eirika-Base\] \[F\] Vanilla +Weapons\)\[F\]{IS, Sephie, belle, St jack}](./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D)
+## [\[Eirika-Base\] \[F\] Vanilla +Weapons](./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)
 
-<img src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Vanilla +Weapons)[F]{IS, Sephie, belle, St jack} standing" />
+<img src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Vanilla +Weapons standing" />
 
 
 ### Weapons
@@ -127,12 +127,12 @@
 
 |Sword |Lance |Axe |Handaxe |Bow |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/2.%20Lance%20%7Bbelle,%20St%20jack%7D/Lance.gif" /> | <img alt="Axe animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/3.%20Axe%20%7Bbelle,%20St%20jack%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/4.%20Handaxe%20%7Bbelle,%20St%20jack%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/5.%20Bow%20%7Bbelle,%20St%20jack%7D/Bow.gif" /> | <img alt="Staff animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/7.%20Staff%20%7BSephie%7D/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)%5BF%5D%7BIS,%20Sephie,%20belle,%20St%20jack%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Eliwood-Base\] \[\] Knight Lord Brave\)\[M\]{Redbean, Marlon0024}](./%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Brave)%5BM%5D%7BRedbean,%20Marlon0024%7D/%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Brave)%5BM%5D%7BRedbean,%20Marlon0024%7D)
+## [\[Eliwood-Base\] \[M\] Knight Lord Brave by RedBean](./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Brave%20by%20RedBean/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Brave%20by%20RedBean)
 
-<img src="./%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Brave)%5BM%5D%7BRedbean,%20Marlon0024%7D/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [] Knight Lord Brave)[M]{Redbean, Marlon0024} standing" />
+<img src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Brave%20by%20RedBean/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Knight Lord Brave by RedBean standing" />
 
 
 ### Weapons
@@ -140,7 +140,7 @@
 
 |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Brave)%5BM%5D%7BRedbean,%20Marlon0024%7D/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Brave)%5BM%5D%7BRedbean,%20Marlon0024%7D/1.%20Sword%20(Durandal)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Brave)%5BM%5D%7BRedbean,%20Marlon0024%7D/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Brave)%5BM%5D%7BRedbean,%20Marlon0024%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Brave%20by%20RedBean/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Brave%20by%20RedBean/1.%20Sword%20(Durandal)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Brave%20by%20RedBean/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Brave%20by%20RedBean/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Eliwood-Base\] \[\] Knight Lord Repalette\)\[M\]{Temp, sniper_zero}](./%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Repalette)%5BM%5D%7BTemp,%20sniper_zero%7D/%5BEliwood-Base%5D%20%5B%5D%20Knight%20Lord%20Repalette)%5BM%5D%7BTemp,%20sniper_zero%7D)

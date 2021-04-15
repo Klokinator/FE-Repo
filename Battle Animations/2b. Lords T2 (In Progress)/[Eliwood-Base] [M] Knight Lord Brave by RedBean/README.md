@@ -1,10 +1,12 @@
-# [\[Eliwood-Base\] \[\] Knight Lord Brave\)\[M\]{Redbean, Marlon0024}](./)
+# [\[Eliwood-Base\] \[M\] Knight Lord Brave by RedBean](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [] Knight Lord Brave)[M]{Redbean, Marlon0024} standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Knight Lord Brave by RedBean standing" />
 
 ## Credits
 
+Made by Redbean.
 
+Scripted by Marlon0024.
 
 ## Weapons
 

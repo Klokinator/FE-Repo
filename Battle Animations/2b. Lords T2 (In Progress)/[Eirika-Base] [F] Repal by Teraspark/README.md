@@ -1,10 +1,10 @@
-# [\[Eirika-Base\] \[F\] Repalette\)\[F\]{Teraspark}](./)
+# [\[Eirika-Base\] \[F\] Repal by Teraspark](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Repalette)[F]{Teraspark} standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Repal by Teraspark standing" />
 
 ## Credits
 
-
+Repalette by Teraspark.
 
 ## Weapons
 

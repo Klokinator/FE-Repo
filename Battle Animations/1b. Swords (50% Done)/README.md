@@ -1,4 +1,4 @@
-# [1b. Swords Battle Animations](./)
+# [1b. Swords (50% Done) Battle Animations](./)
 
 ## [\[Assassin-Base\] \[F\] Full Shirt \(Bow Only\)](./%5BAssassin-Base%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only)/%5BAssassin-Base%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only))
 

@@ -1,8 +1,10 @@
-# [\[Eirika-Base\] \[F\] Isadora Doubleblade\)\[F\]{FE7if}]
+# [\[Eirika-Base\] \[F\] FE7if Isadora Doubleblade]
 
 ## Credit
 
+Made by the FE7if devs.
 
+This folder needs unarmed frames.
 	
 ## Sword
 

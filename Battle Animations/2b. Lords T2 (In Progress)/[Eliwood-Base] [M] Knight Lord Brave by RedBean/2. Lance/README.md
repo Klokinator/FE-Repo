@@ -1,8 +1,10 @@
-# [\[Eliwood-Base\] \[\] Knight Lord Brave\)\[M\]{Redbean, Marlon0024}]
+# [\[Eliwood-Base\] \[M\] Knight Lord Brave by RedBean]
 
 ## Credit
 
+Made by Redbean.
 
+Scripted by Marlon0024.
 	
 ## Lance
 

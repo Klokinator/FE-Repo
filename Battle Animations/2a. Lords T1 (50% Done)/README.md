@@ -1,4 +1,4 @@
-# [2a. Lords Unpromoted Battle Animations](./)
+# [2a. Lords T1 (50% Done) Battle Animations](./)
 
 ## [\[Custom Lord\] \[M\] Ike Ranger by Khrene Kleaver](./%5BCustom%20Lord%5D%20%5BM%5D%20Ike%20Ranger%20by%20Khrene%20Kleaver/%5BCustom%20Lord%5D%20%5BM%5D%20Ike%20Ranger%20by%20Khrene%20Kleaver)
 

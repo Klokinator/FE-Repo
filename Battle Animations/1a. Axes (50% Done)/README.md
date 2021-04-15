@@ -1,4 +1,4 @@
-# [1a. Axes Battle Animations](./)
+# [1a. Axes (50% Done) Battle Animations](./)
 
 ## [\[Berserker-Base\] \[F\] Armored by eCut](./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut)
 

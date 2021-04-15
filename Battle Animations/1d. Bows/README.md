@@ -130,9 +130,9 @@
 | <img alt="Bow animation" src="./%5BArcher%5D%20%5BF%5D%20Der's%20Twintails/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher%5D%20%5BF%5D%20Der's%20Twintails/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Archer\] \[F\] Joshua Hat](./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/%5BArcher%5D%20%5BF%5D%20Joshua%20Hat)
+## [\[Archer\] \[F\] Joshua Hat by SD9K](./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat%20by%20SD9K/%5BArcher%5D%20%5BF%5D%20Joshua%20Hat%20by%20SD9K)
 
-<img src="./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/5.%20Bow/Bow_000.png" alt="[Archer] [F] Joshua Hat standing" />
+<img src="./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat%20by%20SD9K/5.%20Bow/Bow_000.png" alt="[Archer] [F] Joshua Hat by SD9K standing" />
 
 
 ### Weapons
@@ -140,7 +140,7 @@
 
 |Bow |Unarmed |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Bow animation" src="./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat%20by%20SD9K/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher%5D%20%5BF%5D%20Joshua%20Hat%20by%20SD9K/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Archer\] \[F\] Lynbecca by Jeorge_Reds](./%5BArcher%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds/%5BArcher%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds)
@@ -494,9 +494,9 @@
 | <img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif" /> |
 
 
-## [\[Ballista\] \[M\] Generic Ballista by Spud](./%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud)
+## [\[Ballista\] \[M\] FE5 Ballista by Spud](./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud)
 
-<img src="./%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Generic Ballista by Spud standing" />
+<img src="./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] FE5 Ballista by Spud standing" />
 
 
 ### Weapons
@@ -504,7 +504,7 @@
 
 |Bow |Bow |
 |  :---: | :---: |
-| <img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Generic%20Ballista%20by%20Spud/5.%20Bow%20(Catapult)/Bow.gif" /> |
+| <img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow.gif" /> | <img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/5.%20Bow%20(Catapult)/Bow.gif" /> |
 
 
 ## [\[Ballista\] \[M\] Innes Alt by Seal](./%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal/%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal)
@@ -676,6 +676,19 @@
 | <img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Sniper-Variant\] \[F\] Neimi by Aruka](./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka)
+
+<img src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [F] Neimi by Aruka standing" />
+
+
+### Weapons
+
+
+|Bow |Bow |Unarmed |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow%20(Alt%20Crit)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed%20(Alt)/Unarmed.gif" /> |
+
+
 ## [\[Sniper-Variant\] \[M\] Marksman by Nuramon](./%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon/%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon)
 
 <img src="./%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon/5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [M] Marksman by Nuramon standing" />
@@ -713,19 +726,6 @@
 |Bow |Unarmed |
 |  :---: | :---: |
 | <img alt="Bow animation" src="./%5BSniper%5D%20%5BF%5D%20Louise%20by%20Greentea/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper%5D%20%5BF%5D%20Louise%20by%20Greentea/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Sniper\] \[F\] Neimi by Aruka](./%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka)
-
-<img src="./%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow_000.png" alt="[Sniper] [F] Neimi by Aruka standing" />
-
-
-### Weapons
-
-
-|Bow |Bow |Unarmed |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Bow animation" src="./%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow%20(Alt%20Crit)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed%20(Alt)/Unarmed.gif" /> |
 
 
 ## [\[Sniper\] \[F\] Neimi by Seal](./%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Seal/%5BSniper%5D%20%5BF%5D%20Neimi%20by%20Seal)

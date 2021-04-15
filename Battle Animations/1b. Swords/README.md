@@ -260,6 +260,19 @@
 | <img alt="Sword animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Custom Sword\] \[F\] Fencer by GabrielKnight](./%5BCustom%20Sword%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/%5BCustom%20Sword%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight)
+
+<img src="./%5BCustom%20Sword%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Fencer by GabrielKnight standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Custom Sword\] \[F\] Mercenary-Myrmidon Fusion](./%5BCustom%20Sword%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/%5BCustom%20Sword%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion)
 
 <img src="./%5BCustom%20Sword%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Mercenary-Myrmidon Fusion standing" />
@@ -284,6 +297,19 @@
 |Sword |Unarmed |
 |  :---: | :---: |
 | <img alt="Sword animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Custom Sword\] \[F\] TLP's Karina Fencer](./%5BCustom%20Sword%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/%5BCustom%20Sword%5D%20%5BF%5D%20TLP's%20Karina%20Fencer)
+
+<img src="./%5BCustom%20Sword%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] TLP's Karina Fencer standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Sword%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Custom Sword\] \[F\] Villager by Nuramon](./%5BCustom%20Sword%5D%20%5BF%5D%20Villager%20by%20Nuramon/%5BCustom%20Sword%5D%20%5BF%5D%20Villager%20by%20Nuramon)
@@ -1116,32 +1142,6 @@
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
 | <img alt="Sword animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Non-FE\] \[F\] Valkyrie Aegina by Aruka \(Yggdra\)](./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra))
-
-<img src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Valkyrie Aegina by Aruka (Yggdra) standing" />
-
-
-### Weapons
-
-
-|Sword |Staff |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Non-FE\] \[F\] Valkyrie Generic by Aruka \(Yggdra\)](./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra))
-
-<img src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Valkyrie Generic by Aruka (Yggdra) standing" />
-
-
-### Weapons
-
-
-|Sword |Staff |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/7.%20Staff/Staff.gif" /> |
 
 
 ## [\[Rogue-Base\] \[F\] FE7if Katt](./%5BRogue-Base%5D%20%5BF%5D%20FE7if%20Katt/%5BRogue-Base%5D%20%5BF%5D%20FE7if%20Katt)

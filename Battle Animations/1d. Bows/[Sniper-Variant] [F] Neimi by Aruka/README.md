@@ -1,6 +1,6 @@
-# [\[Sniper\] \[F\] Neimi by Aruka](./)
+# [\[Sniper-Variant\] \[F\] Neimi by Aruka](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [F] Neimi by Aruka standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [F] Neimi by Aruka standing" />
 
 ## Credits
 

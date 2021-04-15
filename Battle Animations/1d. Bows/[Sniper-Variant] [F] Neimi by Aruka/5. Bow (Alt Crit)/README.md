@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Neimi by Aruka]
+# [\[Sniper-Variant\] \[F\] Neimi by Aruka]
 
 ## Credit
 

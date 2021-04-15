@@ -1,6 +1,6 @@
-# [\[Ballista\] \[M\] Generic Ballista by Spud](./)
+# [\[Ballista\] \[M\] FE5 Ballista by Spud](./)
 
-<img src="./5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Generic Ballista by Spud standing" />
+<img src="./5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] FE5 Ballista by Spud standing" />
 
 ## Credits
 

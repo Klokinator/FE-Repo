@@ -1,4 +1,4 @@
-# [\[Ballista\] \[M\] Generic Ballista by Spud]
+# [\[Ballista\] \[M\] FE5 Ballista by Spud]
 
 ## Credit
 

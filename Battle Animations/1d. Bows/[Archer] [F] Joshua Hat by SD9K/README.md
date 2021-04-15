@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Joshua Hat](./)
+# [\[Archer\] \[F\] Joshua Hat by SD9K](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Joshua Hat standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Joshua Hat by SD9K standing" />
 
 ## Credits
 

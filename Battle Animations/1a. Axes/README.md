@@ -364,6 +364,19 @@
 | <img alt="Axe animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe/Axe.gif" /> | <img alt="Axe animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe%20with%20Scream%20Critical/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Brigand-Variant\] \[M\] Sword Only by MonkeyBard](./%5BBrigand-Variant%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/%5BBrigand-Variant%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard)
+
+<img src="./%5BBrigand-Variant%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/1.%20Sword/Sword_000.png" alt="[Brigand-Variant] [M] Sword Only by MonkeyBard standing" />
+
+
+### Weapons
+
+
+|Sword |Sword |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/1.%20Sword%20(+Ranged)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BBrigand-Variant%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Fighter-Base\] \[F\] FEGirls Vanilla-Style](./%5BFighter-Base%5D%20%5BF%5D%20FEGirls%20Vanilla-Style/%5BFighter-Base%5D%20%5BF%5D%20FEGirls%20Vanilla-Style)
 
 <img src="./%5BFighter-Base%5D%20%5BF%5D%20FEGirls%20Vanilla-Style/3.%20Axe/Axe_000.png" alt="[Fighter-Base] [F] FEGirls Vanilla-Style standing" />

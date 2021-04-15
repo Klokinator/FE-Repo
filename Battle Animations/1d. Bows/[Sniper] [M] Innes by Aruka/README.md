@@ -6,6 +6,8 @@
 
 Made by Aruka, Kenpuhu.
 
+This animation could use some frame retiming by the community.
+
 ## Weapons
 
 

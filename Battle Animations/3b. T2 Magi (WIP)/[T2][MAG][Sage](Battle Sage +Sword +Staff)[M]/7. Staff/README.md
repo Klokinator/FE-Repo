@@ -1,0 +1,12 @@
+# [\[T2\]\[MAG\]\[Sage\]\(Battle Sage +Sword +Staff\)\[M\]]
+
+## Credit
+
+St jack, The_Big_Dededester, Dolkar
+7. Staff {The_Big_Dededester, Dolkar}
+	
+## Staff
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Staff still](./Staff_000.png) | ![Staff animation](./Staff.gif) |

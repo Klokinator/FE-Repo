@@ -1,0 +1,288 @@
+/// - Mode 1
+C03
+C07
+1 p- Axe (C48)_000.png
+8 p- Axe (C48)_001.png
+C43
+3 p- Axe (C48)_002.png
+3 p- Axe (C48)_003.png
+4 p- Axe (C48)_004.png
+5 p- Axe (C48)_005.png
+C42
+3 p- Axe (C48)_006.png
+3 p- Axe (C48)_007.png
+4 p- Axe (C48)_008.png
+4 p- Axe (C48)_009.png
+4 p- Axe (C48)_010.png
+15 p- Axe (C48)_011.png
+C04
+C41
+3 p- Axe (C48)_012.png
+C32
+3 p- Axe (C48)_013.png
+C1A
+C1F
+2 p- Axe (C48)_014.png
+2 p- Axe (C48)_015.png
+4 p- Axe (C48)_016.png
+4 p- Axe (C48)_017.png
+1 p- Axe (C48)_018.png
+C01
+2 p- Axe (C48)_019.png
+2 p- Axe (C48)_020.png
+9 p- Axe (C48)_021.png
+C25
+2 p- Axe (C48)_022.png
+2 p- Axe (C48)_023.png
+2 p- Axe (C48)_024.png
+2 p- Axe (C48)_025.png
+C3C
+2 p- Axe (C48)_026.png
+2 p- Axe (C48)_027.png
+2 p- Axe (C48)_028.png
+2 p- Axe (C48)_029.png
+2 p- Axe (C48)_030.png
+C34
+4 p- Axe (C48)_031.png
+4 p- Axe (C48)_032.png
+4 p- Axe (C48)_033.png
+C06
+1 p- Axe (C48)_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Axe (C48)_000.png
+8 p- Axe (C48)_001.png
+C43
+3 p- Axe (C48)_002.png
+3 p- Axe (C48)_003.png
+4 p- Axe (C48)_004.png
+5 p- Axe (C48)_005.png
+2 p- Axe (C48)_034.png
+2 p- Axe (C48)_035.png
+2 p- Axe (C48)_036.png
+C44
+4 p- Axe (C48)_037.png
+5 p- Axe (C48)_038.png
+6 p- Axe (C48)_039.png
+5 p- Axe (C48)_038.png
+4 p- Axe (C48)_037.png
+15 p- Axe (C48)_040.png
+3 p- Axe (C48)_041.png
+3 p- Axe (C48)_042.png
+3 p- Axe (C48)_043.png
+C42
+2 p- Axe (C48)_044.png
+2 p- Axe (C48)_045.png
+2 p- Axe (C48)_046.png
+2 p- Axe (C48)_047.png
+2 p- Axe (C48)_048.png
+C41
+2 p- Axe (C48)_049.png
+2 p- Axe (C48)_050.png
+2 p- Axe (C48)_051.png
+2 p- Axe (C48)_052.png
+2 p- Axe (C48)_053.png
+C41
+2 p- Axe (C48)_054.png
+2 p- Axe (C48)_055.png
+2 p- Axe (C48)_056.png
+2 p- Axe (C48)_057.png
+2 p- Axe (C48)_058.png
+2 p- Axe (C48)_059.png
+C25
+2 p- Axe (C48)_060.png
+C43
+2 p- Axe (C48)_061.png
+S0121
+2 p- Axe (C48)_062.png
+2 p- Axe (C48)_063.png
+2 p- Axe (C48)_064.png
+2 p- Axe (C48)_065.png
+2 p- Axe (C48)_066.png
+2 p- Axe (C48)_067.png
+2 p- Axe (C48)_068.png
+2 p- Axe (C48)_069.png
+2 p- Axe (C48)_070.png
+2 p- Axe (C48)_071.png
+2 p- Axe (C48)_072.png
+2 p- Axe (C48)_073.png
+13 p- Axe (C48)_074.png
+C04
+3 p- Axe (C48)_075.png
+3 p- Axe (C48)_076.png
+3 p- Axe (C48)_077.png
+3 p- Axe (C48)_078.png
+3 p- Axe (C48)_079.png
+C14
+C21
+C51
+3 p- Axe (C48)_080.png
+3 p- Axe (C48)_081.png
+3 p- Axe (C48)_082.png
+3 p- Axe (C48)_083.png
+15 p- Axe (C48)_084.png
+3 p- Axe (C48)_085.png
+C41
+3 p- Axe (C48)_086.png
+2 p- Axe (C48)_087.png
+2 p- Axe (C48)_088.png
+C42
+2 p- Axe (C48)_089.png
+2 p- Axe (C48)_090.png
+2 p- Axe (C48)_091.png
+2 p- Axe (C48)_092.png
+2 p- Axe (C48)_093.png
+C08
+C1F
+2 p- Axe (C48)_094.png
+2 p- Axe (C48)_095.png
+2 p- Axe (C48)_096.png
+1 p- Axe (C48)_097.png
+C01
+2 p- Axe (C48)_098.png
+2 p- Axe (C48)_024.png
+2 p- Axe (C48)_025.png
+C3C
+2 p- Axe (C48)_026.png
+2 p- Axe (C48)_027.png
+2 p- Axe (C48)_028.png
+2 p- Axe (C48)_029.png
+2 p- Axe (C48)_030.png
+C34
+4 p- Axe (C48)_031.png
+4 p- Axe (C48)_032.png
+4 p- Axe (C48)_033.png
+C06
+1 p- Axe (C48)_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Axe (C48)_000.png
+3 p- Axe (C48)_001.png
+C43
+3 p- Axe (C48)_002.png
+3 p- Axe (C48)_003.png
+C05
+1 p- Axe (C48)_004.png
+C01
+3 p- Axe (C48)_003.png
+3 p- Axe (C48)_002.png
+3 p- Axe (C48)_001.png
+C06
+3 p- Axe (C48)_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Axe (C48)_000.png
+3 p- Axe (C48)_001.png
+C43
+3 p- Axe (C48)_002.png
+3 p- Axe (C48)_003.png
+32 p- Axe (C48)_004.png
+3 p- Axe (C48)_099.png
+3 p- Axe (C48)_100.png
+3 p- Axe (C48)_099.png
+3 p- Axe (C48)_100.png
+3 p- Axe (C48)_099.png
+3 p- Axe (C48)_100.png
+3 p- Axe (C48)_099.png
+3 p- Axe (C48)_100.png
+C05
+1 p- Axe (C48)_004.png
+C01
+3 p- Axe (C48)_003.png
+3 p- Axe (C48)_002.png
+3 p- Axe (C48)_001.png
+C06
+3 p- Axe (C48)_000.png
+C0D
+~~~
+/// - Mode 7
+C18
+1 p- Axe (C48)_000.png
+C0E
+3 p- Axe (C48)_101.png
+1 p- Axe (C48)_102.png
+C01
+3 p- Axe (C48)_101.png
+C0D
+~~~
+/// - Mode 8
+C18
+1 p- Axe (C48)_000.png
+C0E
+3 p- Axe (C48)_101.png
+1 p- Axe (C48)_102.png
+C01
+3 p- Axe (C48)_101.png
+C0D
+~~~
+/// - Mode 9
+1 p- Axe (C48)_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Axe (C48)_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Axe (C48)_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Axe (C48)_000.png
+8 p- Axe (C48)_001.png
+C43
+3 p- Axe (C48)_002.png
+3 p- Axe (C48)_003.png
+4 p- Axe (C48)_004.png
+5 p- Axe (C48)_005.png
+C42
+3 p- Axe (C48)_006.png
+3 p- Axe (C48)_007.png
+4 p- Axe (C48)_008.png
+4 p- Axe (C48)_009.png
+4 p- Axe (C48)_010.png
+15 p- Axe (C48)_011.png
+C04
+C41
+3 p- Axe (C48)_012.png
+3 p- Axe (C48)_103.png
+2 p- Axe (C48)_104.png
+1 p- Axe (C48)_015.png
+C01
+4 p- Axe (C48)_016.png
+4 p- Axe (C48)_017.png
+12 p- Axe (C48)_018.png
+2 p- Axe (C48)_019.png
+2 p- Axe (C48)_020.png
+9 p- Axe (C48)_021.png
+C25
+2 p- Axe (C48)_022.png
+2 p- Axe (C48)_023.png
+2 p- Axe (C48)_024.png
+2 p- Axe (C48)_025.png
+C3C
+2 p- Axe (C48)_026.png
+2 p- Axe (C48)_027.png
+2 p- Axe (C48)_028.png
+2 p- Axe (C48)_029.png
+2 p- Axe (C48)_030.png
+C34
+4 p- Axe (C48)_031.png
+4 p- Axe (C48)_032.png
+4 p- Axe (C48)_033.png
+C06
+1 p- Axe (C48)_000.png
+C0D
+~~~
+/// - End of animation

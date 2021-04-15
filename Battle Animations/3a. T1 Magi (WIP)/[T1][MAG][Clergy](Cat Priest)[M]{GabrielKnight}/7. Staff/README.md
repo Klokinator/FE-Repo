@@ -1,0 +1,11 @@
+# [\[T1\]\[MAG\]\[Clergy\]\(Cat Priest\)\[M\]{GabrielKnight}]
+
+## Credit
+
+
+	
+## Staff
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Staff still](./Staff_000.png) | ![Staff animation](./Staff.gif) |

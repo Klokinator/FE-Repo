@@ -91,9 +91,9 @@
 | <img alt="Lance animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif" /> | <img alt="Axe animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Custom Lance\] \[M\] Militia by Alusq](./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq)
+## [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq)
 
-<img src="./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Militia by Alusq standing" />
+<img src="./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Militia (Deserter) by Alusq standing" />
 
 
 ### Weapons
@@ -101,7 +101,7 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Custom Lance\] \[M\] NES-Style Soldier by Dinar87](./%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87/%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87)

@@ -1,4 +1,4 @@
-# [\[Fighter-Base\] \[M\] Tellius Base by Pushwall]
+# [\[Fighter-Base\] \[M\] Tellius-Style by Pushwall]
 
 ## Credit
 

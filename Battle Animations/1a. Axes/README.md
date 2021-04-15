@@ -26,9 +26,9 @@
 | <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Berserker-Base\] \[F\] FEGirls Boobzerker](./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker)
+## [\[Berserker-Base\] \[F\] FEGirls-Style](./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style)
 
-<img src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls Boobzerker standing" />
+<img src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls-Style standing" />
 
 
 ### Weapons
@@ -36,7 +36,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Berserker-Base\] \[M\] Fargus by Greentea](./%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea/%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea)
@@ -455,9 +455,9 @@
 | <img alt="Axe animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Fighter-Base\] \[M\] Tellius Base by Pushwall](./%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall)
+## [\[Fighter-Base\] \[M\] Tellius-Style by Pushwall](./%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall)
 
-<img src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius Base by Pushwall standing" />
+<img src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius-Style by Pushwall standing" />
 
 
 ### Weapons
@@ -465,7 +465,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Fighter-Base\] \[M\] Vanilla +Sword](./%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword)

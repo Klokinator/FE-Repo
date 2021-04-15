@@ -1,6 +1,6 @@
-# [\[Fighter-Base\] \[M\] Tellius Base by Pushwall](./)
+# [\[Fighter-Base\] \[M\] Tellius-Style by Pushwall](./)
 
-<img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius Base by Pushwall standing" />
+<img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius-Style by Pushwall standing" />
 
 ## Credits
 

@@ -28,9 +28,9 @@
 | <img alt="Axe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Berserker-Base\] \[F\] FEGirls Boobzerker](./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker)
+### [\[Berserker-Base\] \[F\] FEGirls-Style](./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style)
 
-<img src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls Boobzerker standing" />
+<img src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls-Style standing" />
 
 
 #### Weapons
@@ -38,7 +38,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls%20Boobzerker/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BBerserker-Base%5D%20%5BF%5D%20FEGirls-Style/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Berserker-Base\] \[M\] Fargus by Greentea](./1a.%20Axes/%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea/%5BBerserker-Base%5D%20%5BM%5D%20Fargus%20by%20Greentea)
@@ -457,9 +457,9 @@
 | <img alt="Axe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Fighter-Base\] \[M\] Tellius Base by Pushwall](./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall)
+### [\[Fighter-Base\] \[M\] Tellius-Style by Pushwall](./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall)
 
-<img src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius Base by Pushwall standing" />
+<img src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Fighter-Base] [M] Tellius-Style by Pushwall standing" />
 
 
 #### Weapons
@@ -467,7 +467,7 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius%20Base%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Tellius-Style%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Fighter-Base\] \[M\] Vanilla +Sword](./1a.%20Axes/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword)
@@ -2907,9 +2907,9 @@
 | <img alt="Lance animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif" /> | <img alt="Axe animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Custom Lance\] \[M\] Militia by Alusq](./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq)
+### [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq)
 
-<img src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Militia by Alusq standing" />
+<img src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Militia (Deserter) by Alusq standing" />
 
 
 #### Weapons
@@ -2917,7 +2917,7 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Custom Lance\] \[M\] NES-Style Soldier by Dinar87](./1c.%20Lances/%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87/%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87)

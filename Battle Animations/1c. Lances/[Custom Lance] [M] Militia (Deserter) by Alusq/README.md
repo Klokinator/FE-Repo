@@ -1,6 +1,6 @@
-# [\[Custom Lance\] \[M\] Militia by Alusq](./)
+# [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Militia by Alusq standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Militia (Deserter) by Alusq standing" />
 
 ## Credits
 

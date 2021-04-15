@@ -1,6 +1,6 @@
-# [\[Berserker-Base\] \[F\] FEGirls Boobzerker](./)
+# [\[Berserker-Base\] \[F\] FEGirls-Style](./)
 
-<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls Boobzerker standing" />
+<img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [F] FEGirls-Style standing" />
 
 ## Credits
 

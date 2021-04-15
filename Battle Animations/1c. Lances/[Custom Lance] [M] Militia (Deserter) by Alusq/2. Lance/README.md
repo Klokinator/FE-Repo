@@ -1,4 +1,4 @@
-# [\[Custom Lance\] \[M\] Militia by Alusq]
+# [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq]
 
 ## Credit
 

@@ -1,0 +1,11 @@
+# [\[Cleric-Base\] \[F\] Cleric FE13-Style]
+
+## Credit
+
+Made by BatimaTheBat.
+	
+## Staff
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Staff still](./Staff_000.png) | ![Staff animation](./Staff.gif) |

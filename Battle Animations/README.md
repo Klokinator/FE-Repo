@@ -1877,9 +1877,9 @@
 | <img alt="Sword animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Gerik%20by%20Aruka/1.%20Sword/Sword.gif" /> |
 
 
-### [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED](./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED)
+### [\[Mercenary-Variant\] \[M\] Mercenary +Axe by SALVAGED](./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED)
 
-<img src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [M] Mercenary by SALVAGED standing" />
+<img src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [M] Mercenary +Axe by SALVAGED standing" />
 
 
 #### Weapons
@@ -1887,7 +1887,7 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./1b.%20Swords%20(50%25%20Done)/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Myrmidon-Base\] \[F\] Fir by Leo_Link](./1b.%20Swords%20(50%25%20Done)/%5BMyrmidon-Base%5D%20%5BF%5D%20Fir%20by%20Leo_Link/%5BMyrmidon-Base%5D%20%5BF%5D%20Fir%20by%20Leo_Link)
@@ -5299,63 +5299,63 @@
 
 
 
-## [3a. T1 Magi (WIP) Battle Animations](./3a.%20T1%20Magi%20(WIP)/)
+## [3a. T1 Magi (In Progress) Battle Animations](./3a.%20T1%20Magi%20(In%20Progress)/)
 
-### [\[T0\]\[MAG\]\[Pupil\]\(Nino\)\[F\]\(Mikey Séregon\)](./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon))
+### [\[Clergy\] \[F\] Cleric Egyptian](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Egyptian/%5BClergy%5D%20%5BF%5D%20Cleric%20Egyptian)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon)/6.%20Magic/Magic_000.png" alt="[T0][MAG][Pupil](Nino)[F](Mikey Séregon) standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Nino)%5BF%5D(Mikey%20S%C3%A9regon)/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T0\]\[MAG\]\[Pupil\]\(Skirt\)\[F\]{FEGirls}](./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Skirt)%5BF%5D%7BFEGirls%7D/%5BT0%5D%5BMAG%5D%5BPupil%5D(Skirt)%5BF%5D%7BFEGirls%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Skirt)%5BF%5D%7BFEGirls%7D/6.%20Magic/Magic_000.png" alt="[T0][MAG][Pupil](Skirt)[F]{FEGirls} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Egyptian/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Egyptian standing" />
 
 
 #### Weapons
 
 
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D(Skirt)%5BF%5D%7BFEGirls%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T0\]\[MAG\]\[Pupil\]\[F\]{Pikmin1211}](./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BF%5D%7BPikmin1211%7D/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BF%5D%7BPikmin1211%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BF%5D%7BPikmin1211%7D/6.%20Magic/Magic_000.png" alt="[T0][MAG][Pupil][F]{Pikmin1211} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BF%5D%7BPikmin1211%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T0\]\[MAG\]\[Pupil\]\[M\]{IS, Blazer, Citrus}](./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BM%5D%7BIS,%20Blazer,%20Citrus%7D/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BM%5D%7BIS,%20Blazer,%20Citrus%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BM%5D%7BIS,%20Blazer,%20Citrus%7D/6.%20Magic/Magic_000.png" alt="[T0][MAG][Pupil][M]{IS, Blazer, Citrus} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
+|Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BM%5D%7BIS,%20Blazer,%20Citrus%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT0%5D%5BMAG%5D%5BPupil%5D%5BM%5D%7BIS,%20Blazer,%20Citrus%7D/7.%20Staff%20%7BCitrus%7D/Staff.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Egyptian/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Egyptian/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Cat Priest\)\[M\]{GabrielKnight}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cat%20Priest)%5BM%5D%7BGabrielKnight%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cat%20Priest)%5BM%5D%7BGabrielKnight%7D)
+### [\[Clergy\] \[F\] Cleric FE13 Lissa](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13%20Lissa/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13%20Lissa)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cat%20Priest)%5BM%5D%7BGabrielKnight%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cat Priest)[M]{GabrielKnight} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13%20Lissa/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric FE13 Lissa standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13%20Lissa/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13%20Lissa/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Clergy\] \[F\] Cleric FE13-Style](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13-Style/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13-Style)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13-Style/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric FE13-Style standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13-Style/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20FE13-Style/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Clergy\] \[F\] Cleric Improved Repal by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Improved%20Repal%20by%20Eldritch/%5BClergy%5D%20%5BF%5D%20Cleric%20Improved%20Repal%20by%20Eldritch)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Improved%20Repal%20by%20Eldritch/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Improved Repal by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Improved%20Repal%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Improved%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Clergy\] \[F\] Cleric Less Religious by Mariah](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Less%20Religious%20by%20Mariah/%5BClergy%5D%20%5BF%5D%20Cleric%20Less%20Religious%20by%20Mariah)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Less%20Religious%20by%20Mariah/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Less Religious by Mariah standing" />
 
 
 #### Weapons
@@ -5363,25 +5363,12 @@
 
 |Staff |
 |  :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cat%20Priest)%5BM%5D%7BGabrielKnight%7D/7.%20Staff/Staff.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Less%20Religious%20by%20Mariah/7.%20Staff/Staff.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric - Egyptian\)\[F\]{Tarantino500, FahadRashid327}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20-%20Egyptian)%5BF%5D%7BTarantino500,%20FahadRashid327%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20-%20Egyptian)%5BF%5D%7BTarantino500,%20FahadRashid327%7D)
+### [\[Clergy\] \[F\] Cleric Long Hair by Yangfly](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Long%20Hair%20by%20Yangfly/%5BClergy%5D%20%5BF%5D%20Cleric%20Long%20Hair%20by%20Yangfly)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20-%20Egyptian)%5BF%5D%7BTarantino500,%20FahadRashid327%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric - Egyptian)[F]{Tarantino500, FahadRashid327} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20-%20Egyptian)%5BF%5D%7BTarantino500,%20FahadRashid327%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20-%20Egyptian)%5BF%5D%7BTarantino500,%20FahadRashid327%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening Lissa\)\[F\]{BatimaTheBat}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening%20Lissa)%5BF%5D%7BBatimaTheBat%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening%20Lissa)%5BF%5D%7BBatimaTheBat%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening%20Lissa)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Awakening Lissa)[F]{BatimaTheBat} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Long%20Hair%20by%20Yangfly/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Long Hair by Yangfly standing" />
 
 
 #### Weapons
@@ -5389,25 +5376,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening%20Lissa)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening%20Lissa)%5BF%5D%7BBatimaTheBat%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Long%20Hair%20by%20Yangfly/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Long%20Hair%20by%20Yangfly/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Awakening-Style\)\[F\]{BatimaTheBat}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening-Style)%5BF%5D%7BBatimaTheBat%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening-Style)%5BF%5D%7BBatimaTheBat%7D)
+### [\[Clergy\] \[F\] Cleric Repal by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Eldritch/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Eldritch)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening-Style)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Awakening-Style)[F]{BatimaTheBat} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening-Style)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Awakening-Style)%5BF%5D%7BBatimaTheBat%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Improved Repalette\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Improved%20Repalette)%5BF%5D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Improved%20Repalette)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Improved%20Repalette)%5BF%5D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Improved Repalette)[F] standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Eldritch/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Repal by Eldritch standing" />
 
 
 #### Weapons
@@ -5415,25 +5389,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Improved%20Repalette)%5BF%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Improved%20Repalette)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Less Religious\)\[F\]{Mariah the Magician}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Less%20Religious)%5BF%5D%7BMariah%20the%20Magician%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Less%20Religious)%5BF%5D%7BMariah%20the%20Magician%7D)
+### [\[Clergy\] \[F\] Cleric Repal by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Vilkalizer/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Vilkalizer)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Less%20Religious)%5BF%5D%7BMariah%20the%20Magician%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Less Religious)[F]{Mariah the Magician} standing" />
-
-
-#### Weapons
-
-
-|Staff |
-|  :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Less%20Religious)%5BF%5D%7BMariah%20the%20Magician%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Long Hair\)\[F\]{Yangfly Master}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Long%20Hair)%5BF%5D%7BYangfly%20Master%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Long%20Hair)%5BF%5D%7BYangfly%20Master%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Long%20Hair)%5BF%5D%7BYangfly%20Master%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Long Hair)[F]{Yangfly Master} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Vilkalizer/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Repal by Vilkalizer standing" />
 
 
 #### Weapons
@@ -5441,25 +5402,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Long%20Hair)%5BF%5D%7BYangfly%20Master%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Long%20Hair)%5BF%5D%7BYangfly%20Master%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Repalette E\)\[F\]{Eldritch Abomination}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20E)%5BF%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20E)%5BF%5D%7BEldritch%20Abomination%7D)
+### [\[Clergy\] \[F\] Cleric Robe Repal by FEier](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Robe%20Repal%20by%20FEier/%5BClergy%5D%20%5BF%5D%20Cleric%20Robe%20Repal%20by%20FEier)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20E)%5BF%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Repalette E)[F]{Eldritch Abomination} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20E)%5BF%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20E)%5BF%5D%7BEldritch%20Abomination%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Repalette V\)\[F\]{Vilkalizer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20V)%5BF%5D%7BVilkalizer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20V)%5BF%5D%7BVilkalizer%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20V)%5BF%5D%7BVilkalizer%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Repalette V)[F]{Vilkalizer} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Robe%20Repal%20by%20FEier/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Robe Repal by FEier standing" />
 
 
 #### Weapons
@@ -5467,25 +5415,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20V)%5BF%5D%7BVilkalizer%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Repalette%20V)%5BF%5D%7BVilkalizer%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Robe%20Repal%20by%20FEier/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Robe%20Repal%20by%20FEier/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Robe Repalette\)\[F\]{FEier}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Robe%20Repalette)%5BF%5D%7BFEier%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Robe%20Repalette)%5BF%5D%7BFEier%7D)
+### [\[Clergy\] \[F\] Cleric Sassy by Alusq](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Sassy%20by%20Alusq/%5BClergy%5D%20%5BF%5D%20Cleric%20Sassy%20by%20Alusq)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Robe%20Repalette)%5BF%5D%7BFEier%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Robe Repalette)[F]{FEier} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Robe%20Repalette)%5BF%5D%7BFEier%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Robe%20Repalette)%5BF%5D%7BFEier%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Sassy\)\[F\]{Alusq}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Sassy)%5BF%5D%7BAlusq%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Sassy)%5BF%5D%7BAlusq%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Sassy)%5BF%5D%7BAlusq%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Cleric Sassy)[F]{Alusq} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Sassy%20by%20Alusq/7.%20Staff/Staff_000.png" alt="[Clergy] [F] Cleric Sassy by Alusq standing" />
 
 
 #### Weapons
@@ -5493,25 +5428,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Sassy)%5BF%5D%7BAlusq%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Sassy)%5BF%5D%7BAlusq%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Sassy%20by%20Alusq/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Sassy%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Serra +Sword\)\(F\){IS, Maiser6, Raiden}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D)
+### [\[Clergy\] \[F\] Cleric Vanilla FE6 +Weapons](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D/1.%20Sword%20(Heartseeker)%20%7BMaiser6,%20Raiden%7D/Sword_000.png" alt="[T1][MAG][Clergy](Cleric Serra +Sword)(F){IS, Maiser6, Raiden} standing" />
-
-
-#### Weapons
-
-
-|Sword |Sword |Staff |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D/1.%20Sword%20(Heartseeker)%20%7BMaiser6,%20Raiden%7D/Sword.gif" /> | <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D/1.%20Sword%20(Prayer)%20%7BMaiser6,%20Raiden%7D/Sword.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Serra%20+Sword)(F)%7BIS,%20Maiser6,%20Raiden%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Cleric Vanilla +Weapons\)\[F\]{CREDITS}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D/1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[T1][MAG][Clergy](Cleric Vanilla +Weapons)[F]{CREDITS} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[Clergy] [F] Cleric Vanilla FE6 +Weapons standing" />
 
 
 #### Weapons
@@ -5519,38 +5441,38 @@
 
 |Sword |Sword |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D/1.%20Sword%20(Heartseeker)/Sword.gif" /> | <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D/1.%20Sword%20(Prayer)/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Cleric%20Vanilla%20+Weapons)%5BF%5D%7BCREDITS%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Heartseeker)/Sword.gif" /> | <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Prayer)/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20FE6%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest +Magic\)\[M\]{IS, Jeorge_Reds, Shtick}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20+Magic)%5BM%5D%7BIS,%20Jeorge_Reds,%20Shtick%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20+Magic)%5BM%5D%7BIS,%20Jeorge_Reds,%20Shtick%7D)
+### [\[Clergy\] \[F\] Cleric Vanilla Serra +Sword](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20Serra%20+Sword/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20Serra%20+Sword)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20+Magic)%5BM%5D%7BIS,%20Jeorge_Reds,%20Shtick%7D/6.%20Magic%20(Staff)%20(Shtick)/Magic_000.png" alt="[T1][MAG][Clergy](Priest +Magic)[M]{IS, Jeorge_Reds, Shtick} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20Serra%20+Sword/1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[Clergy] [F] Cleric Vanilla Serra +Sword standing" />
 
 
 #### Weapons
 
 
-|Magic |Magic |Staff |Unarmed |
+|Sword |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20+Magic)%5BM%5D%7BIS,%20Jeorge_Reds,%20Shtick%7D/6.%20Magic%20(Staff)%20(Shtick)/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20+Magic)%5BM%5D%7BIS,%20Jeorge_Reds,%20Shtick%7D/6.%20Magic%20%7BJeorge_Reds%7D/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20+Magic)%5BM%5D%7BIS,%20Jeorge_Reds,%20Shtick%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20+Magic)%5BM%5D%7BIS,%20Jeorge_Reds,%20Shtick%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20Serra%20+Sword/1.%20Sword%20(Heartseeker)/Sword.gif" /> | <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20Serra%20+Sword/1.%20Sword%20(Prayer)/Sword.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20Serra%20+Sword/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Cleric%20Vanilla%20Serra%20+Sword/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Bald Repalette\)\[M\]{Vilkalilzer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald%20Repalette)%5BM%5D%7BVilkalilzer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald%20Repalette)%5BM%5D%7BVilkalilzer%7D)
+### [\[Clergy\] \[F\] Sister +Mag by Mikey Seregon](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Sister%20+Mag%20by%20Mikey%20Seregon/%5BClergy%5D%20%5BF%5D%20Sister%20+Mag%20by%20Mikey%20Seregon)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald%20Repalette)%5BM%5D%7BVilkalilzer%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Bald Repalette)[M]{Vilkalilzer} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Sister%20+Mag%20by%20Mikey%20Seregon/6.%20Magic/Magic_000.png" alt="[Clergy] [F] Sister +Mag by Mikey Seregon standing" />
 
 
 #### Weapons
 
 
-|Staff |Unarmed |
+|Magic |Staff |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald%20Repalette)%5BM%5D%7BVilkalilzer%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald%20Repalette)%5BM%5D%7BVilkalilzer%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Sister%20+Mag%20by%20Mikey%20Seregon/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BF%5D%20Sister%20+Mag%20by%20Mikey%20Seregon/7.%20Staff/Staff.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Bald\)\[M\]{Vilkalizer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald)%5BM%5D%7BVilkalizer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald)%5BM%5D%7BVilkalizer%7D)
+### [\[Clergy\] \[M\] Cat Priest by GabrielKnight](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Cat%20Priest%20by%20GabrielKnight/%5BClergy%5D%20%5BM%5D%20Cat%20Priest%20by%20GabrielKnight)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Bald)[M]{Vilkalizer} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Cat%20Priest%20by%20GabrielKnight/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Cat Priest by GabrielKnight standing" />
 
 
 #### Weapons
@@ -5558,12 +5480,25 @@
 
 |Staff |
 |  :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Bald)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Cat%20Priest%20by%20GabrielKnight/7.%20Staff/Staff.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Buff Generic Repalette\)\[M\]{Vilkalizer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic%20Repalette)%5BM%5D%7BVilkalizer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic%20Repalette)%5BM%5D%7BVilkalizer%7D)
+### [\[Clergy\] \[M\] Priest Bald by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20by%20Vilkalizer/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20by%20Vilkalizer)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic%20Repalette)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Buff Generic Repalette)[M]{Vilkalizer} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20by%20Vilkalizer/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Bald by Vilkalizer standing" />
+
+
+#### Weapons
+
+
+|Staff |
+|  :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20by%20Vilkalizer/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Clergy\] \[M\] Priest Bald Repal by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20Repal%20by%20Vilkalizer/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20Repal%20by%20Vilkalizer)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20Repal%20by%20Vilkalizer/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Bald Repal by Vilkalizer standing" />
 
 
 #### Weapons
@@ -5571,25 +5506,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic%20Repalette)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic%20Repalette)%5BM%5D%7BVilkalizer%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Bald%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Buff Generic\)\[M\]{Vilkalizer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic)%5BM%5D%7BVilkalizer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic)%5BM%5D%7BVilkalizer%7D)
+### [\[Clergy\] \[M\] Priest Buff Generic by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20by%20Vilkalizer/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20by%20Vilkalizer)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic)%5BM%5D%7BVilkalizer%7D/7.%20Staff%20(Buff%20Generic%20Priest)/Staff_000.png" alt="[T1][MAG][Clergy](Priest Buff Generic)[M]{Vilkalizer} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic)%5BM%5D%7BVilkalizer%7D/7.%20Staff%20(Buff%20Generic%20Priest)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Generic)%5BM%5D%7BVilkalizer%7D/8.%20Unarmed%20(Buff%20Generic%20Priest)/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Buff Moulder Repalette\)\[M\]{Vilkalizer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder%20Repalette)%5BM%5D%7BVilkalizer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder%20Repalette)%5BM%5D%7BVilkalizer%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder%20Repalette)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Buff Moulder Repalette)[M]{Vilkalizer} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20by%20Vilkalizer/7.%20Staff%20(Buff%20Generic%20Priest)/Staff_000.png" alt="[Clergy] [M] Priest Buff Generic by Vilkalizer standing" />
 
 
 #### Weapons
@@ -5597,12 +5519,25 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder%20Repalette)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder%20Repalette)%5BM%5D%7BVilkalizer%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20by%20Vilkalizer/7.%20Staff%20(Buff%20Generic%20Priest)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Generic%20Priest)/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Buff Moulder\)\[M\]{Vilkalizer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder)%5BM%5D%7BVilkalizer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder)%5BM%5D%7BVilkalizer%7D)
+### [\[Clergy\] \[M\] Priest Buff Generic Repal by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20Repal%20by%20Vilkalizer/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20Repal%20by%20Vilkalizer)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder)%5BM%5D%7BVilkalizer%7D/7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff_000.png" alt="[T1][MAG][Clergy](Priest Buff Moulder)[M]{Vilkalizer} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20Repal%20by%20Vilkalizer/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Buff Generic Repal by Vilkalizer standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Generic%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Clergy\] \[M\] Priest Buff Moulder by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20by%20Vilkalizer/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20by%20Vilkalizer)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20by%20Vilkalizer/7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff_000.png" alt="[Clergy] [M] Priest Buff Moulder by Vilkalizer standing" />
 
 
 #### Weapons
@@ -5610,25 +5545,12 @@
 
 |Staff |Staff |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder)%5BM%5D%7BVilkalizer%7D/7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder)%5BM%5D%7BVilkalizer%7D/7.%20Staff%20(Buff%20Moulder)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Buff%20Moulder)%5BM%5D%7BVilkalizer%7D/8.%20Unarmed%20(Buff%20Moulder)/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20by%20Vilkalizer/7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20by%20Vilkalizer/7.%20Staff%20(Buff%20Moulder)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Moulder)/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Hood\)\[M\]{Eldritch Abomination}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Hood)%5BM%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Hood)%5BM%5D%7BEldritch%20Abomination%7D)
+### [\[Clergy\] \[M\] Priest Buff Moulder Repal by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20Repal%20by%20Vilkalizer/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20Repal%20by%20Vilkalizer)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Hood)%5BM%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Hood)[M]{Eldritch Abomination} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Hood)%5BM%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Hood)%5BM%5D%7BEldritch%20Abomination%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Improved Repalette\)\[M\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Improved%20Repalette)%5BM%5D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Improved%20Repalette)%5BM%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Improved%20Repalette)%5BM%5D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Improved Repalette)[M] standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20Repal%20by%20Vilkalizer/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Buff Moulder Repal by Vilkalizer standing" />
 
 
 #### Weapons
@@ -5636,25 +5558,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Improved%20Repalette)%5BM%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Improved%20Repalette)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Buff%20Moulder%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Repalette V\)\[M\]{Vilkalizer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette%20V)%5BM%5D%7BVilkalizer%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette%20V)%5BM%5D%7BVilkalizer%7D)
+### [\[Clergy\] \[M\] Priest Hood by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Hood%20by%20Eldritch/%5BClergy%5D%20%5BM%5D%20Priest%20Hood%20by%20Eldritch)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette%20V)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Repalette V)[M]{Vilkalizer} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette%20V)%5BM%5D%7BVilkalizer%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette%20V)%5BM%5D%7BVilkalizer%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Repalette\)\[M\]{Eldritch Abomination}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette)%5BM%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette)%5BM%5D%7BEldritch%20Abomination%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette)%5BM%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Priest Repalette)[M]{Eldritch Abomination} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Hood%20by%20Eldritch/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Hood by Eldritch standing" />
 
 
 #### Weapons
@@ -5662,12 +5571,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette)%5BM%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Repalette)%5BM%5D%7BEldritch%20Abomination%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Hood%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Hood%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Priest Skintone Repalette\)\[M\]{Eldritch, Flasuban, Sme}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Skintone%20Repalette)%5BM%5D%7BEldritch,%20Flasuban,%20Sme%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Skintone%20Repalette)%5BM%5D%7BEldritch,%20Flasuban,%20Sme%7D)
+### [\[Clergy\] \[M\] Priest Repal by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Eldritch/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Eldritch)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Skintone%20Repalette)%5BM%5D%7BEldritch,%20Flasuban,%20Sme%7D/7.%20Staff%20(+Magic)/Staff_000.png" alt="[T1][MAG][Clergy](Priest Skintone Repalette)[M]{Eldritch, Flasuban, Sme} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Eldritch/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Repal by Eldritch standing" />
 
 
 #### Weapons
@@ -5675,688 +5584,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Skintone%20Repalette)%5BM%5D%7BEldritch,%20Flasuban,%20Sme%7D/7.%20Staff%20(+Magic)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Priest%20Skintone%20Repalette)%5BM%5D%7BEldritch,%20Flasuban,%20Sme%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Clergy\]\(Sister +Mag\)\[F\]{Mikey Seregon, Aviv}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Sister%20+Mag)%5BF%5D%7BMikey%20Seregon,%20Aviv%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Sister%20+Mag)%5BF%5D%7BMikey%20Seregon,%20Aviv%7D)
+### [\[Clergy\] \[M\] Priest Repal by Vilkalizer](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Vilkalizer/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Vilkalizer)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Sister%20+Mag)%5BF%5D%7BMikey%20Seregon,%20Aviv%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Clergy](Sister +Mag)[F]{Mikey Seregon, Aviv} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Sister%20+Mag)%5BF%5D%7BMikey%20Seregon,%20Aviv%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Sister%20+Mag)%5BF%5D%7BMikey%20Seregon,%20Aviv%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Clergy\]\(Winter Priest\)\[M\]{Devisian_Nights}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D/%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Clergy](Winter Priest)[M]{Devisian_Nights} standing" />
-
-
-#### Weapons
-
-
-|Staff |Staff |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D/7.%20Staff%20(Constant%20timing)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BClergy%5D(Winter%20Priest)%5BM%5D%7BDevisian_Nights%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Angel\)\[F\]{GabrielKnight, Skitty}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Angel)%5BF%5D%7BGabrielKnight,%20Skitty%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Angel)%5BF%5D%7BGabrielKnight,%20Skitty%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Angel)%5BF%5D%7BGabrielKnight,%20Skitty%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Angel)[F]{GabrielKnight, Skitty} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Angel)%5BF%5D%7BGabrielKnight,%20Skitty%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Kishuna\)\[M\]{Spud, noonog}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Kishuna)%5BM%5D%7BSpud,%20noonog%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Kishuna)%5BM%5D%7BSpud,%20noonog%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Kishuna)%5BM%5D%7BSpud,%20noonog%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Kishuna)[M]{Spud, noonog} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Kishuna)%5BM%5D%7BSpud,%20noonog%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Light Mage Micaiah\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Light%20Mage%20Micaiah)%5BF%5D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Light%20Mage%20Micaiah)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Light%20Mage%20Micaiah)%5BF%5D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Light Mage Micaiah)[F] standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Light%20Mage%20Micaiah)%5BF%5D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Mage Lord Redux\)\[M\]{Eldritch Abomination}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord%20Redux)%5BM%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord%20Redux)%5BM%5D%7BEldritch%20Abomination%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord%20Redux)%5BM%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Mage Lord Redux)[M]{Eldritch Abomination} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord%20Redux)%5BM%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord%20Redux)%5BM%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Mage Lord\)\[F\]{Eldritch Abomination, N426}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BF%5D%7BEldritch%20Abomination,%20N426%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BF%5D%7BEldritch%20Abomination,%20N426%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BF%5D%7BEldritch%20Abomination,%20N426%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Mage Lord)[F]{Eldritch Abomination, N426} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BF%5D%7BEldritch%20Abomination,%20N426%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BF%5D%7BEldritch%20Abomination,%20N426%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Mage Lord\)\[M\]{Eldritch Abomination}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BM%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BM%5D%7BEldritch%20Abomination%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BM%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Mage Lord)[M]{Eldritch Abomination} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BM%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Mage%20Lord)%5BM%5D%7BEldritch%20Abomination%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Miko\)\[F\]{Dolkar, Red Bean}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Miko)%5BF%5D%7BDolkar,%20Red%20Bean%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Miko)%5BF%5D%7BDolkar,%20Red%20Bean%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Miko)%5BF%5D%7BDolkar,%20Red%20Bean%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Miko)[F]{Dolkar, Red Bean} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Miko)%5BF%5D%7BDolkar,%20Red%20Bean%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Miko)%5BF%5D%7BDolkar,%20Red%20Bean%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Oracle Repalette +Staff\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle%20Repalette%20+Staff)%5BF%5D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle%20Repalette%20+Staff)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle%20Repalette%20+Staff)%5BF%5D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Oracle Repalette +Staff)[F] standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle%20Repalette%20+Staff)%5BF%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle%20Repalette%20+Staff)%5BF%5D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Oracle\)\[F\]{GabrielKnight}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BF%5D%7BGabrielKnight%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BF%5D%7BGabrielKnight%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BF%5D%7BGabrielKnight%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Oracle)[F]{GabrielKnight} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BF%5D%7BGabrielKnight%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Oracle\)\[M\]{GabrielKnight, Flasuban, Jj09}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BM%5D%7BGabrielKnight,%20Flasuban,%20Jj09%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BM%5D%7BGabrielKnight,%20Flasuban,%20Jj09%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BM%5D%7BGabrielKnight,%20Flasuban,%20Jj09%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Oracle)[M]{GabrielKnight, Flasuban, Jj09} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Oracle)%5BM%5D%7BGabrielKnight,%20Flasuban,%20Jj09%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Tactician Mark\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BF%5D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T1][MAG][Custom Magi](Tactician Mark)[F] standing" />
-
-
-#### Weapons
-
-
-|Sword |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BF%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BF%5D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Tactician Mark\)\[M\]{Marlon0024, Asael}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BM%5D%7BMarlon0024,%20Asael%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BM%5D%7BMarlon0024,%20Asael%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BM%5D%7BMarlon0024,%20Asael%7D/1.%20Sword/Sword_000.png" alt="[T1][MAG][Custom Magi](Tactician Mark)[M]{Marlon0024, Asael} standing" />
-
-
-#### Weapons
-
-
-|Sword |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BM%5D%7BMarlon0024,%20Asael%7D/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BM%5D%7BMarlon0024,%20Asael%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Tactician%20Mark)%5BM%5D%7BMarlon0024,%20Asael%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Custom Magi\]\(Witch\)\[F\]{Pikmin1211, Retrogamer}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Witch)%5BF%5D%7BPikmin1211,%20Retrogamer%7D/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Witch)%5BF%5D%7BPikmin1211,%20Retrogamer%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Witch)%5BF%5D%7BPikmin1211,%20Retrogamer%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Custom Magi](Witch)[F]{Pikmin1211, Retrogamer} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BCustom%20Magi%5D(Witch)%5BF%5D%7BPikmin1211,%20Retrogamer%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Dark Mage\)\[F\]{Jj09, Pikmin1211}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BF%5D%7BJj09,%20Pikmin1211%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BF%5D%7BJj09,%20Pikmin1211%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BF%5D%7BJj09,%20Pikmin1211%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Dark Mage)[F]{Jj09, Pikmin1211} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BF%5D%7BJj09,%20Pikmin1211%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Dark Mage\)\[M\]{Jj09, Pikmin1211}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BM%5D%7BJj09,%20Pikmin1211%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BM%5D%7BJj09,%20Pikmin1211%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BM%5D%7BJj09,%20Pikmin1211%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Dark Mage)[M]{Jj09, Pikmin1211} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Dark%20Mage)%5BM%5D%7BJj09,%20Pikmin1211%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(FE6 Lilina +Staff\)\[F\]{IS, Shin19, SHYUTERz, Jeorge_Reds}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20+Staff)%5BF%5D%7BIS,%20Shin19,%20SHYUTERz,%20Jeorge_Reds%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20+Staff)%5BF%5D%7BIS,%20Shin19,%20SHYUTERz,%20Jeorge_Reds%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20+Staff)%5BF%5D%7BIS,%20Shin19,%20SHYUTERz,%20Jeorge_Reds%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](FE6 Lilina +Staff)[F]{IS, Shin19, SHYUTERz, Jeorge_Reds} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20+Staff)%5BF%5D%7BIS,%20Shin19,%20SHYUTERz,%20Jeorge_Reds%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20+Staff)%5BF%5D%7BIS,%20Shin19,%20SHYUTERz,%20Jeorge_Reds%7D/6.%20Magic%20(Fixed)%20%7BShin19,%20SHYUTERz%7D/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20+Staff)%5BF%5D%7BIS,%20Shin19,%20SHYUTERz,%20Jeorge_Reds%7D/7.%20Staff%20%7BJeorge_Reds%7D/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(FE6 Lilina Repalette\)\[F\]{Zelix}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20Repalette)%5BF%5D%7BZelix%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20Repalette)%5BF%5D%7BZelix%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20Repalette)%5BF%5D%7BZelix%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](FE6 Lilina Repalette)[F]{Zelix} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6%20Lilina%20Repalette)%5BF%5D%7BZelix%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(FE6\)\[M\]{IS, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6)%5BM%5D%7BIS,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6)%5BM%5D%7BIS,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6)%5BM%5D%7BIS,%20Shin19%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](FE6)[M]{IS, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6)%5BM%5D%7BIS,%20Shin19%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE6)%5BM%5D%7BIS,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(FE7-8\)\[F\]{IS, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BF%5D%7BIS,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BF%5D%7BIS,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BF%5D%7BIS,%20Shin19%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](FE7-8)[F]{IS, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BF%5D%7BIS,%20Shin19%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BF%5D%7BIS,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(FE7-8\)\[M\]{IS, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BM%5D%7BIS,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BM%5D%7BIS,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BM%5D%7BIS,%20Shin19%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](FE7-8)[M]{IS, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BM%5D%7BIS,%20Shin19%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(FE7-8)%5BM%5D%7BIS,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Gaiden Mage\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Gaiden%20Mage)%5BF%5D/%5BT1%5D%5BMAG%5D%5BMage%5D(Gaiden%20Mage)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Gaiden%20Mage)%5BF%5D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Gaiden Mage)[F] standing" />
-
-
-#### Weapons
-
-
-|Magic |Palettes |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Gaiden%20Mage)%5BF%5D/6.%20Magic/Magic.gif" /> | <img alt="Palettes animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Gaiden%20Mage)%5BF%5D/Palettes/Palettes.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Hat\)\[F\]{Retrogamer, 7743}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hat)%5BF%5D%7BRetrogamer,%207743%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Hat)%5BF%5D%7BRetrogamer,%207743%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hat)%5BF%5D%7BRetrogamer,%207743%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Hat)[F]{Retrogamer, 7743} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hat)%5BF%5D%7BRetrogamer,%207743%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Hatless Hybrid\)\[M\]{SamirPlayz, GabrielKnight}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless%20Hybrid)%5BM%5D%7BSamirPlayz,%20GabrielKnight%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless%20Hybrid)%5BM%5D%7BSamirPlayz,%20GabrielKnight%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless%20Hybrid)%5BM%5D%7BSamirPlayz,%20GabrielKnight%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Hatless Hybrid)[M]{SamirPlayz, GabrielKnight} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless%20Hybrid)%5BM%5D%7BSamirPlayz,%20GabrielKnight%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Hatless\)\[M\]{GabrielKnight}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless)%5BM%5D%7BGabrielKnight%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless)%5BM%5D%7BGabrielKnight%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless)%5BM%5D%7BGabrielKnight%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Hatless)[M]{GabrielKnight} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Hatless)%5BM%5D%7BGabrielKnight%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Light Mage Long Hair Edit\)\[F\]{Leo_Link, L95, flasuban}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage%20Long%20Hair%20Edit)%5BF%5D%7BLeo_Link,%20L95,%20flasuban%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage%20Long%20Hair%20Edit)%5BF%5D%7BLeo_Link,%20L95,%20flasuban%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage%20Long%20Hair%20Edit)%5BF%5D%7BLeo_Link,%20L95,%20flasuban%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Light Mage Long Hair Edit)[F]{Leo_Link, L95, flasuban} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage%20Long%20Hair%20Edit)%5BF%5D%7BLeo_Link,%20L95,%20flasuban%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Light Mage\)\[F\]{Leo_Link, L95}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BF%5D%7BLeo_Link,%20L95%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BF%5D%7BLeo_Link,%20L95%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BF%5D%7BLeo_Link,%20L95%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Light Mage)[F]{Leo_Link, L95} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BF%5D%7BLeo_Link,%20L95%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Light Mage\)\[M\]{Leo_Link, L95, flasuban}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BM%5D%7BLeo_Link,%20L95,%20flasuban%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BM%5D%7BLeo_Link,%20L95,%20flasuban%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BM%5D%7BLeo_Link,%20L95,%20flasuban%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Light Mage)[M]{Leo_Link, L95, flasuban} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Light%20Mage)%5BM%5D%7BLeo_Link,%20L95,%20flasuban%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Lilina\)\[F\]{Mikey Seregon}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Lilina)%5BF%5D%7BMikey%20Seregon%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Lilina)%5BF%5D%7BMikey%20Seregon%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Lilina)%5BF%5D%7BMikey%20Seregon%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Lilina)[F]{Mikey Seregon} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Lilina)%5BF%5D%7BMikey%20Seregon%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Long-Hair\)\[F\]{Solum}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Long-Hair)%5BF%5D%7BSolum%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Long-Hair)%5BF%5D%7BSolum%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Long-Hair)%5BF%5D%7BSolum%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Long-Hair)[F]{Solum} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Long-Hair)%5BF%5D%7BSolum%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Magician\)\[M\]{Devisian_Nights, Pikmin1211}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Magician)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Magician)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Magician)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Magician)[M]{Devisian_Nights, Pikmin1211} standing" />
-
-
-#### Weapons
-
-
-|Magic |Unarmed |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Magician)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Magician)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Mage\]\(Ponytail\)\[F\]{Lisandra_Brave, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Ponytail)%5BF%5D%7BLisandra_Brave,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BMage%5D(Ponytail)%5BF%5D%7BLisandra_Brave,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Ponytail)%5BF%5D%7BLisandra_Brave,%20Shin19%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Mage](Ponytail)[F]{Lisandra_Brave, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Ponytail)%5BF%5D%7BLisandra_Brave,%20Shin19%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMage%5D(Ponytail)%5BF%5D%7BLisandra_Brave,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Bandana\)\[M\]{Yangfly Master}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Bandana)%5BM%5D%7BYangfly%20Master%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Bandana)%5BM%5D%7BYangfly%20Master%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Bandana)%5BM%5D%7BYangfly%20Master%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Bandana)[M]{Yangfly Master} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Bandana)%5BM%5D%7BYangfly%20Master%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Lucius-Style\)\[F\]{Marlon0024}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Lucius-Style)%5BF%5D%7BMarlon0024%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Lucius-Style)%5BF%5D%7BMarlon0024%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Lucius-Style)%5BF%5D%7BMarlon0024%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Lucius-Style)[F]{Marlon0024} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Lucius-Style)%5BF%5D%7BMarlon0024%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Repalette +Staff\)\[F\]{Teraspark}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BF%5D%7BTeraspark%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BF%5D%7BTeraspark%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BF%5D%7BTeraspark%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Repalette +Staff)[F]{Teraspark} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BF%5D%7BTeraspark%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BF%5D%7BTeraspark%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Repalette +Staff\)\[M\]{Teraspark}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BM%5D%7BTeraspark%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BM%5D%7BTeraspark%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BM%5D%7BTeraspark%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Repalette +Staff)[M]{Teraspark} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BM%5D%7BTeraspark%7D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette%20+Staff)%5BM%5D%7BTeraspark%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[F\]{Eldritch Abomination}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BF%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BF%5D%7BEldritch%20Abomination%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BF%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Repalette)[F]{Eldritch Abomination} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BF%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[M\]{eCut}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BeCut%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BeCut%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BeCut%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Repalette)[M]{eCut} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BeCut%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Repalette\)\[M\]{Eldritch Abomination}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BEldritch%20Abomination%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BEldritch%20Abomination%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Repalette)[M]{Eldritch Abomination} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Repalette)%5BM%5D%7BEldritch%20Abomination%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Seer\)\[M\]{Devisian_Nights}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Seer)%5BM%5D%7BDevisian_Nights%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Seer)%5BM%5D%7BDevisian_Nights%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Seer)%5BM%5D%7BDevisian_Nights%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Seer)[M]{Devisian_Nights} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Seer)%5BM%5D%7BDevisian_Nights%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Monk\]\(Vanilla\)\[M\]{IS}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Vanilla)%5BM%5D%7BIS%7D/%5BT1%5D%5BMAG%5D%5BMonk%5D(Vanilla)%5BM%5D%7BIS%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Vanilla)%5BM%5D%7BIS%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Monk](Vanilla)[M]{IS} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BMonk%5D(Vanilla)%5BM%5D%7BIS%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(Arcanist\)\[M\]{Devisian_Nights}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Arcanist)%5BM%5D%7BDevisian_Nights%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(Arcanist)%5BM%5D%7BDevisian_Nights%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Arcanist)%5BM%5D%7BDevisian_Nights%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Shaman](Arcanist)[M]{Devisian_Nights} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Arcanist)%5BM%5D%7BDevisian_Nights%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(FE6 +Staff\)\[F\]{IS, Shin19, Jeorge_Reds}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20+Staff)%5BF%5D%7BIS,%20Shin19,%20Jeorge_Reds%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20+Staff)%5BF%5D%7BIS,%20Shin19,%20Jeorge_Reds%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20+Staff)%5BF%5D%7BIS,%20Shin19,%20Jeorge_Reds%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Shaman](FE6 +Staff)[F]{IS, Shin19, Jeorge_Reds} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20+Staff)%5BF%5D%7BIS,%20Shin19,%20Jeorge_Reds%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20+Staff)%5BF%5D%7BIS,%20Shin19,%20Jeorge_Reds%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20+Staff)%5BF%5D%7BIS,%20Shin19,%20Jeorge_Reds%7D/7.%20Staff%20%7BJeorge_Reds%7D/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(FE6 Repalette\)\[F\]{Markyjoe, Feaw, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20Repalette)%5BF%5D%7BMarkyjoe,%20Feaw,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20Repalette)%5BF%5D%7BMarkyjoe,%20Feaw,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20Repalette)%5BF%5D%7BMarkyjoe,%20Feaw,%20Shin19%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Shaman](FE6 Repalette)[F]{Markyjoe, Feaw, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20Repalette)%5BF%5D%7BMarkyjoe,%20Feaw,%20Shin19%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE6%20Repalette)%5BF%5D%7BMarkyjoe,%20Feaw,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(FE8\)\[F\]{IS, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE8)%5BF%5D%7BIS,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE8)%5BF%5D%7BIS,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE8)%5BF%5D%7BIS,%20Shin19%7D/6.%20Magic%20(FE8)/Magic_000.png" alt="[T1][MAG][Shaman](FE8)[F]{IS, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE8)%5BF%5D%7BIS,%20Shin19%7D/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(FE8)%5BF%5D%7BIS,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(Hoodless +Staff\)\[M\]{Temp, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Hoodless%20+Staff)%5BM%5D%7BTemp,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(Hoodless%20+Staff)%5BM%5D%7BTemp,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Hoodless%20+Staff)%5BM%5D%7BTemp,%20Shin19%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Shaman](Hoodless +Staff)[M]{Temp, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Hoodless%20+Staff)%5BM%5D%7BTemp,%20Shin19%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Hoodless%20+Staff)%5BM%5D%7BTemp,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Hoodless%20+Staff)%5BM%5D%7BTemp,%20Shin19%7D/7.%20Staff/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(Occultist 2.0\)\[M\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist%202.0)%5BM%5D/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist%202.0)%5BM%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist%202.0)%5BM%5D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Shaman](Occultist 2.0)[M] standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist%202.0)%5BM%5D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(Occultist\)\[M\]{Devisian_Nights, Pikmin1211}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Shaman](Occultist)[M]{Devisian_Nights, Pikmin1211} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Occultist)%5BM%5D%7BDevisian_Nights,%20Pikmin1211%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(Poised\)\[F\]{Markyjoe, Feaw}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Poised)%5BF%5D%7BMarkyjoe,%20Feaw%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(Poised)%5BF%5D%7BMarkyjoe,%20Feaw%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Poised)%5BF%5D%7BMarkyjoe,%20Feaw%7D/6.%20Magic%20(FE7)%20%7BMarkyjoe,%20Feaw%7D/Magic_000.png" alt="[T1][MAG][Shaman](Poised)[F]{Markyjoe, Feaw} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Poised)%5BF%5D%7BMarkyjoe,%20Feaw%7D/6.%20Magic%20(FE7)%20%7BMarkyjoe,%20Feaw%7D/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Poised)%5BF%5D%7BMarkyjoe,%20Feaw%7D/6.%20Magic%20(Fix)%20%7BMarkyjoe%7D/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Shaman\]\(Vanilla +Staff\)\[M\]{IS, Temp, Shin19}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Temp,%20Shin19%7D/%5BT1%5D%5BMAG%5D%5BShaman%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Temp,%20Shin19%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Temp,%20Shin19%7D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Shaman](Vanilla +Staff)[M]{IS, Temp, Shin19} standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Temp,%20Shin19%7D/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Temp,%20Shin19%7D/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BShaman%5D(Vanilla%20+Staff)%5BM%5D%7BIS,%20Temp,%20Shin19%7D/7.%20Staff%20%7BTemp%7D/Staff.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Deacon Repalette +Weapons\)\[M\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D/1.%20Sword/Sword_000.png" alt="[T1][MAG][Troubadour](Deacon Repalette +Weapons)[M] standing" />
-
-
-#### Weapons
-
-
-|Sword |Magic |Staff |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon%20Repalette%20+Weapons)%5BM%5D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Deacon\)\[M\]{GabrielKnight}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon)%5BM%5D%7BGabrielKnight%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon)%5BM%5D%7BGabrielKnight%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon)%5BM%5D%7BGabrielKnight%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Troubadour](Deacon)[M]{GabrielKnight} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Vilkalizer/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Repal by Vilkalizer standing" />
 
 
 #### Weapons
@@ -6364,25 +5597,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon)%5BM%5D%7BGabrielKnight%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Deacon)%5BM%5D%7BGabrielKnight%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Troubadour\]\(FE7-Style Repalette +Weapons\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(FE7-Style%20Repalette%20+Weapons)%5BF%5D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(FE7-Style%20Repalette%20+Weapons)%5BF%5D)
+### [\[Clergy\] \[M\] Priest Repal v2 by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20v2%20by%20Eldritch/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20v2%20by%20Eldritch)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(FE7-Style%20Repalette%20+Weapons)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T1][MAG][Troubadour](FE7-Style Repalette +Weapons)[F] standing" />
-
-
-#### Weapons
-
-
-|Sword |Magic |Staff |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(FE7-Style%20Repalette%20+Weapons)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(FE7-Style%20Repalette%20+Weapons)%5BF%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(FE7-Style%20Repalette%20+Weapons)%5BF%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(FE7-Style%20Repalette%20+Weapons)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair Repalette\)\[F\]{Feaw}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair%20Repalette)%5BF%5D%7BFeaw%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair%20Repalette)%5BF%5D%7BFeaw%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair%20Repalette)%5BF%5D%7BFeaw%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Troubadour](Long Hair Repalette)[F]{Feaw} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20v2%20by%20Eldritch/7.%20Staff/Staff_000.png" alt="[Clergy] [M] Priest Repal v2 by Eldritch standing" />
 
 
 #### Weapons
@@ -6390,51 +5610,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair%20Repalette)%5BF%5D%7BFeaw%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair%20Repalette)%5BF%5D%7BFeaw%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20v2%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Repal%20v2%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Troubadour\]\(Long Hair\)\[F\]{GoofyfanG56}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair)%5BF%5D%7BGoofyfanG56%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair)%5BF%5D%7BGoofyfanG56%7D)
+### [\[Clergy\] \[M\] Priest Skintone Repal](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Skintone%20Repal/%5BClergy%5D%20%5BM%5D%20Priest%20Skintone%20Repal)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair)%5BF%5D%7BGoofyfanG56%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Troubadour](Long Hair)[F]{GoofyfanG56} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair)%5BF%5D%7BGoofyfanG56%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Long%20Hair)%5BF%5D%7BGoofyfanG56%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Nomad-Style\)\[F\]{seergiioo}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Nomad-Style)%5BF%5D%7Bseergiioo%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Nomad-Style)%5BF%5D%7Bseergiioo%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Nomad-Style)%5BF%5D%7Bseergiioo%7D/6.%20Magic%20(Staff)/Magic_000.png" alt="[T1][MAG][Troubadour](Nomad-Style)[F]{seergiioo} standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Nomad-Style)%5BF%5D%7Bseergiioo%7D/6.%20Magic%20(Staff)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Nomad-Style)%5BF%5D%7Bseergiioo%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Nomad-Style)%5BF%5D%7Bseergiioo%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Ponytail Repalette +Weapons\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette%20+Weapons)%5BF%5D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette%20+Weapons)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette%20+Weapons)%5BF%5D/1.%20Sword/Sword_000.png" alt="[T1][MAG][Troubadour](Ponytail Repalette +Weapons)[F] standing" />
-
-
-#### Weapons
-
-
-|Sword |Magic |Staff |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette%20+Weapons)%5BF%5D/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette%20+Weapons)%5BF%5D/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette%20+Weapons)%5BF%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette%20+Weapons)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Ponytail Repalette\)\[F\]{BatimaTheBat}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BBatimaTheBat%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BBatimaTheBat%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Troubadour](Ponytail Repalette)[F]{BatimaTheBat} standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Skintone%20Repal/7.%20Staff%20(+Magic)/Staff_000.png" alt="[Clergy] [M] Priest Skintone Repal standing" />
 
 
 #### Weapons
@@ -6442,90 +5623,12 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BBatimaTheBat%7D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Skintone%20Repal/7.%20Staff%20(+Magic)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Priest%20Skintone%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[T1\]\[MAG\]\[Troubadour\]\(Ponytail Repalette\)\[F\]{Feaw}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BFeaw%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BFeaw%7D)
+### [\[Clergy\] \[M\] Vanilla Priest +Magic](./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/%5BClergy%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic)
 
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BFeaw%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Troubadour](Ponytail Repalette)[F]{Feaw} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BFeaw%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Ponytail%20Repalette)%5BF%5D%7BFeaw%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Repalette +Sword\)\[F\]{Teraspark}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Repalette%20+Sword)%5BF%5D%7BTeraspark%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Repalette%20+Sword)%5BF%5D%7BTeraspark%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Repalette%20+Sword)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword_000.png" alt="[T1][MAG][Troubadour](Repalette +Sword)[F]{Teraspark} standing" />
-
-
-#### Weapons
-
-
-|Sword |Staff |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Repalette%20+Sword)%5BF%5D%7BTeraspark%7D/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Repalette%20+Sword)%5BF%5D%7BTeraspark%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Repalette%20+Sword)%5BF%5D%7BTeraspark%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Short Hair Repalette\)\[F\]{BatimaTheBat}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Short%20Hair%20Repalette)%5BF%5D%7BBatimaTheBat%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Short%20Hair%20Repalette)%5BF%5D%7BBatimaTheBat%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Short%20Hair%20Repalette)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff_000.png" alt="[T1][MAG][Troubadour](Short Hair Repalette)[F]{BatimaTheBat} standing" />
-
-
-#### Weapons
-
-
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Short%20Hair%20Repalette)%5BF%5D%7BBatimaTheBat%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Short%20Hair%20Repalette)%5BF%5D%7BBatimaTheBat%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Thaumaturge\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BF%5D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BF%5D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Troubadour](Thaumaturge)[F] standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BF%5D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Thaumaturge\)\[M\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BM%5D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BM%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BM%5D/6.%20Magic/Magic_000.png" alt="[T1][MAG][Troubadour](Thaumaturge)[M] standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Thaumaturge)%5BM%5D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla FE7 +Swords\)\[F\]{IS, TBA}](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20FE7%20+Swords)%5BF%5D%7BIS,%20TBA%7D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20FE7%20+Swords)%5BF%5D%7BIS,%20TBA%7D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20FE7%20+Swords)%5BF%5D%7BIS,%20TBA%7D/1.%20Sword%20%7BTBA%7D/Sword_000.png" alt="[T1][MAG][Troubadour](Vanilla FE7 +Swords)[F]{IS, TBA} standing" />
-
-
-#### Weapons
-
-
-|Sword |Staff |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20FE7%20+Swords)%5BF%5D%7BIS,%20TBA%7D/1.%20Sword%20%7BTBA%7D/Sword.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20FE7%20+Swords)%5BF%5D%7BIS,%20TBA%7D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20FE7%20+Swords)%5BF%5D%7BIS,%20TBA%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[T1\]\[MAG\]\[Troubadour\]\(Vanilla Ponytail +Magic\)\[F\]](./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D)
-
-<img src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D/6.%20Magic%20(Staff)%20%7Bseergiioo%7D/Magic_000.png" alt="[T1][MAG][Troubadour](Vanilla Ponytail +Magic)[F] standing" />
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/6.%20Magic/Magic_000.png" alt="[Clergy] [M] Vanilla Priest +Magic standing" />
 
 
 #### Weapons
@@ -6533,7 +5636,904 @@
 
 |Magic |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D/6.%20Magic%20(Staff)%20%7Bseergiioo%7D/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D/6.%20Magic%20%7BLisandra_Brave%7D/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(WIP)/%5BT1%5D%5BMAG%5D%5BTroubadour%5D(Vanilla%20Ponytail%20+Magic)%5BF%5D/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/6.%20Magic%20(Staff)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BClergy%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Custom Magi\] \[F\] Angel by GabrielKnight](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight/6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Angel by GabrielKnight standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Custom Magi\] \[F\] Light Mage Micaiah](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Light%20Mage%20Micaiah/%5BCustom%20Magi%5D%20%5BF%5D%20Light%20Mage%20Micaiah)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Light%20Mage%20Micaiah/6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Light Mage Micaiah standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Light%20Mage%20Micaiah/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Custom Magi\] \[F\] Miko by RedBean](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20by%20RedBean/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20by%20RedBean)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20by%20RedBean/6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Miko by RedBean standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20by%20RedBean/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20by%20RedBean/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Custom Magi\] \[F\] Oracle by GabrielKnight](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight/6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Oracle by GabrielKnight standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Custom Magi\] \[F\] Oracle Repal +Staff](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20Repal%20+Staff)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Oracle Repal +Staff standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Custom Magi\] \[F\] Witch by Pikmin](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20by%20Pikmin/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20by%20Pikmin)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Witch by Pikmin standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20by%20Pikmin/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Custom Magi\] \[M\] Kishuna the Magi](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BM%5D%20Kishuna%20the%20Magi/%5BCustom%20Magi%5D%20%5BM%5D%20Kishuna%20the%20Magi)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BM%5D%20Kishuna%20the%20Magi/6.%20Magic/Magic_000.png" alt="[Custom Magi] [M] Kishuna the Magi standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BM%5D%20Kishuna%20the%20Magi/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Custom Magi\] \[M\] Oracle by GabrielKnight](./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BM%5D%20Oracle%20by%20GabrielKnight/%5BCustom%20Magi%5D%20%5BM%5D%20Oracle%20by%20GabrielKnight)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BM%5D%20Oracle%20by%20GabrielKnight/6.%20Magic/Magic_000.png" alt="[Custom Magi] [M] Oracle by GabrielKnight standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BCustom%20Magi%5D%20%5BM%5D%20Oracle%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Devisian-Custom\] \[M\] Arcanist by Devisian_Nights](./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Arcanist%20by%20Devisian_Nights/%5BDevisian-Custom%5D%20%5BM%5D%20Arcanist%20by%20Devisian_Nights)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Arcanist%20by%20Devisian_Nights/6.%20Magic/Magic_000.png" alt="[Devisian-Custom] [M] Arcanist by Devisian_Nights standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Arcanist%20by%20Devisian_Nights/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Devisian-Custom\] \[M\] Magician by Devisian_Nights](./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Magician%20by%20Devisian_Nights/%5BDevisian-Custom%5D%20%5BM%5D%20Magician%20by%20Devisian_Nights)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Magician%20by%20Devisian_Nights/6.%20Magic/Magic_000.png" alt="[Devisian-Custom] [M] Magician by Devisian_Nights standing" />
+
+
+#### Weapons
+
+
+|Magic |Unarmed |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Magician%20by%20Devisian_Nights/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Magician%20by%20Devisian_Nights/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Devisian-Custom\] \[M\] Occultist v1 by Devisian_Nights](./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v1%20by%20Devisian_Nights/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v1%20by%20Devisian_Nights)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v1%20by%20Devisian_Nights/6.%20Magic/Magic_000.png" alt="[Devisian-Custom] [M] Occultist v1 by Devisian_Nights standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v1%20by%20Devisian_Nights/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Devisian-Custom\] \[M\] Occultist v2 by Devisian_Nights](./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v2%20by%20Devisian_Nights/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v2%20by%20Devisian_Nights)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v2%20by%20Devisian_Nights/6.%20Magic/Magic_000.png" alt="[Devisian-Custom] [M] Occultist v2 by Devisian_Nights standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Occultist%20v2%20by%20Devisian_Nights/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Devisian-Custom\] \[M\] Seer by Devisian_Nights](./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Seer%20by%20Devisian_Nights/%5BDevisian-Custom%5D%20%5BM%5D%20Seer%20by%20Devisian_Nights)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Seer%20by%20Devisian_Nights/6.%20Magic/Magic_000.png" alt="[Devisian-Custom] [M] Seer by Devisian_Nights standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Seer%20by%20Devisian_Nights/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Devisian-Custom\] \[M\] Winter Priest by Devisian_Nights](./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff/Staff_000.png" alt="[Devisian-Custom] [M] Winter Priest by Devisian_Nights standing" />
+
+
+#### Weapons
+
+
+|Staff |Staff |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff%20(Constant%20timing)/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Eldritch-Custom\] \[F\] Mage Lord v1 by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Eldritch-Custom] [F] Mage Lord v1 by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Eldritch-Custom\] \[M\] Mage Lord v1 by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Eldritch-Custom] [M] Mage Lord v1 by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Eldritch-Custom\] \[M\] Mage Lord v2 by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Eldritch-Custom] [M] Mage Lord v2 by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Mage-Custom\] \[F\] Gaiden-Style Mage](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20Mage/%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20Mage)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20Mage/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [F] Gaiden-Style Mage standing" />
+
+
+#### Weapons
+
+
+|Magic |Palettes |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20Mage/6.%20Magic/Magic.gif" /> | <img alt="Palettes animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20Mage/Palettes/Palettes.gif" /> |
+
+
+### [\[Mage-Custom\] \[F\] Light Mage](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [F] Light Mage standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage-Custom\] \[F\] Light Mage Long Hair](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [F] Light Mage Long Hair standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage-Custom\] \[M\] Light Mage](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage/%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [M] Light Mage standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] Dark Mage by Pikmin](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/%5BMage%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Mage] [F] Dark Mage by Pikmin standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] FE6 Lilina Repal by Zelix](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Lilina%20Repal%20by%20Zelix/%5BMage%5D%20%5BF%5D%20FE6%20Lilina%20Repal%20by%20Zelix)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Lilina%20Repal%20by%20Zelix/6.%20Magic/Magic_000.png" alt="[Mage] [F] FE6 Lilina Repal by Zelix standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Lilina%20Repal%20by%20Zelix/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] FE6 Vanilla Lilina +Staff](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Vanilla%20Lilina%20+Staff/%5BMage%5D%20%5BF%5D%20FE6%20Vanilla%20Lilina%20+Staff)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Vanilla%20Lilina%20+Staff/6.%20Magic/Magic_000.png" alt="[Mage] [F] FE6 Vanilla Lilina +Staff standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Vanilla%20Lilina%20+Staff/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Vanilla%20Lilina%20+Staff/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE6%20Vanilla%20Lilina%20+Staff/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Mage\] \[F\] FE7-8 Vanilla +Fix by Shin19](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/%5BMage%5D%20%5BF%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic/Magic_000.png" alt="[Mage] [F] FE7-8 Vanilla +Fix by Shin19 standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] Hat by RetroGamer](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Hat%20by%20RetroGamer/%5BMage%5D%20%5BF%5D%20Hat%20by%20RetroGamer)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Hat%20by%20RetroGamer/6.%20Magic/Magic_000.png" alt="[Mage] [F] Hat by RetroGamer standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Hat%20by%20RetroGamer/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] Lilina by Mikey Seregon](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Lilina%20by%20Mikey%20Seregon/%5BMage%5D%20%5BF%5D%20Lilina%20by%20Mikey%20Seregon)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Lilina%20by%20Mikey%20Seregon/6.%20Magic/Magic_000.png" alt="[Mage] [F] Lilina by Mikey Seregon standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Lilina%20by%20Mikey%20Seregon/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] Long-Hair by Solum](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Long-Hair%20by%20Solum/%5BMage%5D%20%5BF%5D%20Long-Hair%20by%20Solum)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Long-Hair%20by%20Solum/6.%20Magic/Magic_000.png" alt="[Mage] [F] Long-Hair by Solum standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Long-Hair%20by%20Solum/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] Lucius-Style by Marlon0024](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Lucius-Style%20by%20Marlon0024/%5BMage%5D%20%5BF%5D%20Lucius-Style%20by%20Marlon0024)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Lucius-Style%20by%20Marlon0024/6.%20Magic/Magic_000.png" alt="[Mage] [F] Lucius-Style by Marlon0024 standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Lucius-Style%20by%20Marlon0024/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[F\] Ponytail by Lisandra_Brave](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/%5BMage%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic/Magic_000.png" alt="[Mage] [F] Ponytail by Lisandra_Brave standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic%20(Fixed)/Magic.gif" /> |
+
+
+### [\[Mage\] \[M\] Bandana by Yangfly](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Bandana%20by%20Yangfly/%5BMage%5D%20%5BM%5D%20Bandana%20by%20Yangfly)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Bandana%20by%20Yangfly/6.%20Magic/Magic_000.png" alt="[Mage] [M] Bandana by Yangfly standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Bandana%20by%20Yangfly/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[M\] Dark Mage by Pikmin](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/%5BMage%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Mage] [M] Dark Mage by Pikmin standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[M\] FE6 Vanilla +Fix by Shin19](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE6%20Vanilla%20+Fix%20by%20Shin19/%5BMage%5D%20%5BM%5D%20FE6%20Vanilla%20+Fix%20by%20Shin19)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE6%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic/Magic_000.png" alt="[Mage] [M] FE6 Vanilla +Fix by Shin19 standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE6%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE6%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif" /> |
+
+
+### [\[Mage\] \[M\] FE7-8 Vanilla +Fix by Shin19](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/%5BMage%5D%20%5BM%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic/Magic_000.png" alt="[Mage] [M] FE7-8 Vanilla +Fix by Shin19 standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20FE7-8%20Vanilla%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif" /> |
+
+
+### [\[Mage\] \[M\] Hatless by GabrielKnight](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight/%5BMage%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight/6.%20Magic/Magic_000.png" alt="[Mage] [M] Hatless by GabrielKnight standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Mage\] \[M\] Hatless Hybrid by GabrielKnight](./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/%5BMage%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/6.%20Magic/Magic_000.png" alt="[Mage] [M] Hatless Hybrid by GabrielKnight standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMage%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Marlon-Tact\] \[F\] Tactician Mark by Marlon0024](./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [F] Tactician Mark by Marlon0024 standing" />
+
+
+#### Weapons
+
+
+|Sword |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Marlon-Tact\] \[M\] Tactician Mark by Marlon0024](./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [M] Tactician Mark by Marlon0024 standing" />
+
+
+#### Weapons
+
+
+|Sword |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Monk\] \[F\] Repal +Staff by Teraspark](./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BF%5D%20Repal%20+Staff%20by%20Teraspark/%5BMonk%5D%20%5BF%5D%20Repal%20+Staff%20by%20Teraspark)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BF%5D%20Repal%20+Staff%20by%20Teraspark/6.%20Magic/Magic_000.png" alt="[Monk] [F] Repal +Staff by Teraspark standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BF%5D%20Repal%20+Staff%20by%20Teraspark/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BF%5D%20Repal%20+Staff%20by%20Teraspark/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Monk\] \[F\] Repal by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BF%5D%20Repal%20by%20Eldritch/%5BMonk%5D%20%5BF%5D%20Repal%20by%20Eldritch)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BF%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Monk] [F] Repal by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BF%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Monk\] \[M\] Repal by eCut](./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repal%20by%20eCut/%5BMonk%5D%20%5BM%5D%20Repal%20by%20eCut)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repal%20by%20eCut/6.%20Magic/Magic_000.png" alt="[Monk] [M] Repal by eCut standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repal%20by%20eCut/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Monk\] \[M\] Repal by Eldritch](./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repal%20by%20Eldritch/%5BMonk%5D%20%5BM%5D%20Repal%20by%20Eldritch)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Monk] [M] Repal by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Monk\] \[M\] Repalette +Staff by Teraspark](./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repalette%20+Staff%20by%20Teraspark/%5BMonk%5D%20%5BM%5D%20Repalette%20+Staff%20by%20Teraspark)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repalette%20+Staff%20by%20Teraspark/6.%20Magic/Magic_000.png" alt="[Monk] [M] Repalette +Staff by Teraspark standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repalette%20+Staff%20by%20Teraspark/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Repalette%20+Staff%20by%20Teraspark/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Monk\] \[M\] Vanilla FE6-8](./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Vanilla%20FE6-8/%5BMonk%5D%20%5BM%5D%20Vanilla%20FE6-8)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic_000.png" alt="[Monk] [M] Vanilla FE6-8 standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BMonk%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Pupil-Style\] \[F\] FEGirls-Style Skirt](./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil-Style%5D%20%5BF%5D%20FEGirls-Style%20Skirt/%5BPupil-Style%5D%20%5BF%5D%20FEGirls-Style%20Skirt)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil-Style%5D%20%5BF%5D%20FEGirls-Style%20Skirt/6.%20Magic/Magic_000.png" alt="[Pupil-Style] [F] FEGirls-Style Skirt standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil-Style%5D%20%5BF%5D%20FEGirls-Style%20Skirt/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Pupil-Style\] \[F\] Nino by Mikey Séregon](./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil-Style%5D%20%5BF%5D%20Nino%20by%20Mikey%20S%C3%A9regon/%5BPupil-Style%5D%20%5BF%5D%20Nino%20by%20Mikey%20S%C3%A9regon)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil-Style%5D%20%5BF%5D%20Nino%20by%20Mikey%20S%C3%A9regon/6.%20Magic/Magic_000.png" alt="[Pupil-Style] [F] Nino by Mikey Séregon standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil-Style%5D%20%5BF%5D%20Nino%20by%20Mikey%20S%C3%A9regon/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Pupil\] \[F\] Variant by Pikmin](./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil%5D%20%5BF%5D%20Variant%20by%20Pikmin/%5BPupil%5D%20%5BF%5D%20Variant%20by%20Pikmin)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil%5D%20%5BF%5D%20Variant%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Pupil] [F] Variant by Pikmin standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil%5D%20%5BF%5D%20Variant%20by%20Pikmin/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Pupil\] \[M\] Vanilla FE8 +Staff by Citrus](./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil%5D%20%5BM%5D%20Vanilla%20FE8%20+Staff%20by%20Citrus/%5BPupil%5D%20%5BM%5D%20Vanilla%20FE8%20+Staff%20by%20Citrus)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil%5D%20%5BM%5D%20Vanilla%20FE8%20+Staff%20by%20Citrus/6.%20Magic/Magic_000.png" alt="[Pupil] [M] Vanilla FE8 +Staff by Citrus standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil%5D%20%5BM%5D%20Vanilla%20FE8%20+Staff%20by%20Citrus/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BPupil%5D%20%5BM%5D%20Vanilla%20FE8%20+Staff%20by%20Citrus/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Shaman\] \[F\] FE6 Repal by Markyjoe](./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/%5BShaman%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic/Magic_000.png" alt="[Shaman] [F] FE6 Repal by Markyjoe standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif" /> |
+
+
+### [\[Shaman\] \[F\] Poised](./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Poised/%5BShaman%5D%20%5BF%5D%20Poised)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Poised/6.%20Magic%20(FE7)/Magic_000.png" alt="[Shaman] [F] Poised standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Poised/6.%20Magic%20(FE7)/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Poised/6.%20Magic%20(Fix)/Magic.gif" /> |
+
+
+### [\[Shaman\] \[F\] Vanilla FE6 +Staff](./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic/Magic_000.png" alt="[Shaman] [F] Vanilla FE6 +Staff standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Shaman\] \[F\] Vanilla FE8](./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE8/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE8)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(FE8)/Magic_000.png" alt="[Shaman] [F] Vanilla FE8 standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(Fixed)/Magic.gif" /> |
+
+
+### [\[Shaman\] \[M\] Hoodless +Staff by Temp](./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/%5BShaman%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic_000.png" alt="[Shaman] [M] Hoodless +Staff by Temp standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Shaman\] \[M\] Vanilla +Staff](./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Vanilla%20+Staff/%5BShaman%5D%20%5BM%5D%20Vanilla%20+Staff)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic/Magic_000.png" alt="[Shaman] [M] Vanilla +Staff standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BShaman%5D%20%5BM%5D%20Vanilla%20+Staff/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Troubadour-Variant\] \[F\] Thaumaturge by Pikmin](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour-Variant%5D%20%5BF%5D%20Thaumaturge%20by%20Pikmin/%5BTroubadour-Variant%5D%20%5BF%5D%20Thaumaturge%20by%20Pikmin)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour-Variant%5D%20%5BF%5D%20Thaumaturge%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Troubadour-Variant] [F] Thaumaturge by Pikmin standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour-Variant%5D%20%5BF%5D%20Thaumaturge%20by%20Pikmin/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Troubadour-Variant\] \[M\] Thaumaturge by Pikmin](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour-Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin/%5BTroubadour-Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour-Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Troubadour-Variant] [M] Thaumaturge by Pikmin standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour-Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Troubadour\] \[F\] FE7-Style Repal +Weapons](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/%5BTroubadour%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/1.%20Sword/Sword_000.png" alt="[Troubadour] [F] FE7-Style Repal +Weapons standing" />
+
+
+#### Weapons
+
+
+|Sword |Magic |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Long Hair by GoofyfanG56](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/7.%20Staff/Staff_000.png" alt="[Troubadour] [F] Long Hair by GoofyfanG56 standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Long Hair Repal by Feaw](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/7.%20Staff/Staff_000.png" alt="[Troubadour] [F] Long Hair Repal by Feaw standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Nomad-Style by seergiioo](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/%5BTroubadour%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/6.%20Magic%20(Staff)/Magic_000.png" alt="[Troubadour] [F] Nomad-Style by seergiioo standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/6.%20Magic%20(Staff)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Ponytail Repal +Weapons](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/1.%20Sword/Sword_000.png" alt="[Troubadour] [F] Ponytail Repal +Weapons standing" />
+
+
+#### Weapons
+
+
+|Sword |Magic |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Ponytail Repal by BatimaTheBat](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20BatimaTheBat/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20BatimaTheBat)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff_000.png" alt="[Troubadour] [F] Ponytail Repal by BatimaTheBat standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20BatimaTheBat/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Ponytail Repal by Feaw](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20Feaw/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20Feaw)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20Feaw/7.%20Staff/Staff_000.png" alt="[Troubadour] [F] Ponytail Repal by Feaw standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20Feaw/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Ponytail%20Repal%20by%20Feaw/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Repal +Sword by Teraspark](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark/%5BTroubadour%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark/1.%20Sword/Sword_000.png" alt="[Troubadour] [F] Repal +Sword by Teraspark standing" />
+
+
+#### Weapons
+
+
+|Sword |Staff |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Short Hair Repal by BatimaTheBat](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/%5BTroubadour%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff_000.png" alt="[Troubadour] [F] Short Hair Repal by BatimaTheBat standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Vanilla FE7 +Swords by TBA](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Troubadour] [F] Vanilla FE7 +Swords by TBA standing" />
+
+
+#### Weapons
+
+
+|Sword |Staff |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[F\] Vanilla Ponytail +Magic](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/6.%20Magic/Magic_000.png" alt="[Troubadour] [F] Vanilla Ponytail +Magic standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/6.%20Magic%20(Staff)/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[M\] Deacon v1 by GabrielKnight](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v1%20by%20GabrielKnight/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v1%20by%20GabrielKnight)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v1%20by%20GabrielKnight/7.%20Staff/Staff_000.png" alt="[Troubadour] [M] Deacon v1 by GabrielKnight standing" />
+
+
+#### Weapons
+
+
+|Staff |Unarmed |
+|  :---: | :---: |
+| <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v1%20by%20GabrielKnight/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v1%20by%20GabrielKnight/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Troubadour\] \[M\] Deacon v2 Repal +Weapons](./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons)
+
+<img src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/1.%20Sword/Sword_000.png" alt="[Troubadour] [M] Deacon v2 Repal +Weapons standing" />
+
+
+#### Weapons
+
+
+|Sword |Magic |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3a.%20T1%20Magi%20(In%20Progress)/%5BTroubadour%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
 

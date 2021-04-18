@@ -962,9 +962,9 @@
 | <img alt="Sword animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Gerik%20by%20Aruka/1.%20Sword/Sword.gif" /> |
 
 
-## [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED](./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED)
+## [\[Mercenary-Variant\] \[M\] Mercenary +Axe by SALVAGED](./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED)
 
-<img src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [M] Mercenary by SALVAGED standing" />
+<img src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [M] Mercenary +Axe by SALVAGED standing" />
 
 
 ### Weapons
@@ -972,7 +972,7 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20+Axe%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Myrmidon-Base\] \[F\] Fir by Leo_Link](./%5BMyrmidon-Base%5D%20%5BF%5D%20Fir%20by%20Leo_Link/%5BMyrmidon-Base%5D%20%5BF%5D%20Fir%20by%20Leo_Link)

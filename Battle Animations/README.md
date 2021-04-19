@@ -7020,45 +7020,6 @@
 | <img alt="Sword animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BRanger-Type%5D%20%5BU%5D%203DS%20Dark%20Knight%20Original/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BRanger-Type%5D%20%5BU%5D%203DS%20Dark%20Knight%20Original/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BRanger-Type%5D%20%5BU%5D%203DS%20Dark%20Knight%20Original/7.%20Staff/Staff.gif" /> |
 
 
-### [\[Sage Custom\] \[F\] Limstella v1 by FE7if](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if)
-
-<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic/Magic_000.png" alt="[Sage Custom] [F] Limstella v1 by FE7if standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Sage Custom\] \[F\] Limstella v2 by Greentea](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea)
-
-<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/6.%20Magic/Magic_000.png" alt="[Sage Custom] [F] Limstella v2 by Greentea standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Sage Custom\] \[F\] Limstella v3 by Greentea +Palettes](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes)
-
-<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/6.%20Magic/Magic_000.png" alt="[Sage Custom] [F] Limstella v3 by Greentea +Palettes standing" />
-
-
-#### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage%20Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/7.%20Staff/Staff.gif" /> |
-
-
 ### [\[Sage-Base\] \[F\] Ishtar by L95](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Base%5D%20%5BF%5D%20Ishtar%20by%20L95/%5BSage-Base%5D%20%5BF%5D%20Ishtar%20by%20L95)
 
 <img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Base%5D%20%5BF%5D%20Ishtar%20by%20L95/6.%20Magic/Magic_000.png" alt="[Sage-Base] [F] Ishtar by L95 standing" />
@@ -7252,6 +7213,45 @@
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |
 | <img alt="Sword animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Gaiden%20Priestess%20by%20Gamma/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Gaiden%20Priestess%20by%20Gamma/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Gaiden%20Priestess%20by%20Gamma/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Sage-Custom\] \[F\] Limstella v1 by FE7if](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if)
+
+<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic/Magic_000.png" alt="[Sage-Custom] [F] Limstella v1 by FE7if standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Sage-Custom\] \[F\] Limstella v2 by Greentea](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea)
+
+<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/6.%20Magic/Magic_000.png" alt="[Sage-Custom] [F] Limstella v2 by Greentea standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v2%20by%20Greentea/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Sage-Custom\] \[F\] Limstella v3 by Greentea +Palettes](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes)
+
+<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/6.%20Magic/Magic_000.png" alt="[Sage-Custom] [F] Limstella v3 by Greentea +Palettes standing" />
+
+
+#### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v3%20by%20Greentea%20+Palettes/7.%20Staff/Staff.gif" /> |
 
 
 ### [\[Sage-Custom\] \[F\] Yggdra Lute by Aruka](./3b.%20T2%20Magi%20(50%25%20Done)/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka)

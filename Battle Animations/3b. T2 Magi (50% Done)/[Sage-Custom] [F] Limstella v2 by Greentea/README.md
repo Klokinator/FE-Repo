@@ -1,6 +1,6 @@
-# [\[Sage Custom\] \[F\] Limstella v2 by Greentea](./)
+# [\[Sage-Custom\] \[F\] Limstella v2 by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage Custom] [F] Limstella v2 by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Custom] [F] Limstella v2 by Greentea standing" />
 
 ## Credits
 

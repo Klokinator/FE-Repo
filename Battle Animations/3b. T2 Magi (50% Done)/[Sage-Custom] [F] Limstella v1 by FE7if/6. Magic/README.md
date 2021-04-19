@@ -1,4 +1,4 @@
-# [\[Sage Custom\] \[F\] Limstella v1 by FE7if]
+# [\[Sage-Custom\] \[F\] Limstella v1 by FE7if]
 
 ## Credit
 

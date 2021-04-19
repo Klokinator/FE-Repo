@@ -1,10 +1,10 @@
-# [\[Sage Custom\] \[F\] Limstella v2 by Greentea]
+# [\[Sage-Custom\] \[F\] Limstella v1 by FE7if]
 
 ## Credit
 
-Animation by Greentea.
+Animations made by the FE7if devs.
 
-Scripting by Nuramon.
+Fixes to the animations/palettes by Shin19.
 	
 ## Magic
 

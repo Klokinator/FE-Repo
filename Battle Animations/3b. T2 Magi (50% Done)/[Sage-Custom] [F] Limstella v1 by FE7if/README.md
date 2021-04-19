@@ -1,6 +1,6 @@
-# [\[Sage Custom\] \[F\] Limstella v1 by FE7if](./)
+# [\[Sage-Custom\] \[F\] Limstella v1 by FE7if](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage Custom] [F] Limstella v1 by FE7if standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Custom] [F] Limstella v1 by FE7if standing" />
 
 ## Credits
 

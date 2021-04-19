@@ -1,4 +1,4 @@
-# [\[Sage Custom\] \[F\] Limstella v3 by Greentea +Palettes]
+# [\[Sage-Custom\] \[F\] Limstella v3 by Greentea +Palettes]
 
 ## Credit
 
@@ -8,8 +8,8 @@ Scripting(???) by Zoisite.
 
 This animation has a bunch of extra palette options for the player/etc types. To get all the palette options, import via bin.
 	
-## Staff
+## Magic
 
 | Still | Animation |
 | :---: | :-------: |
-| ![Staff still](./Staff_000.png) | ![Staff animation](./Staff.gif) |
+| ![Magic still](./Magic_000.png) | ![Magic animation](./Magic.gif) |

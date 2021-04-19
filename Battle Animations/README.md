@@ -7384,19 +7384,6 @@
 | <img alt="Axe animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/7.%20Staff/Staff.gif" /> |
 
 
-### [\[T3 Archsage\] \[M\] Athos +Fixes](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes)
-
-<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/6.%20Magic/Magic_000.png" alt="[T3 Archsage] [M] Athos +Fixes standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Magic |Magic |Magic |Staff |Staff |
-|  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/6.%20Magic%20(Alt%20Particles)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/6.%20Magic%20(FEx)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Archsage%5D%20%5BM%5D%20Athos%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif" /> |
-
-
 ### [\[T3 Custom\] \[F\] Holy Sage Brunnya by Luerock](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Custom%5D%20%5BF%5D%20Holy%20Sage%20Brunnya%20by%20Luerock/%5BT3%20Custom%5D%20%5BF%5D%20Holy%20Sage%20Brunnya%20by%20Luerock)
 
 <img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Custom%5D%20%5BF%5D%20Holy%20Sage%20Brunnya%20by%20Luerock/6.%20Magic/Magic_000.png" alt="[T3 Custom] [F] Holy Sage Brunnya by Luerock standing" />
@@ -7462,6 +7449,58 @@
 | <img alt="Lance animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/2.%20Lance/Lance.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif" /> |
 
 
+### [\[T3 FE7\] \[F\] Dark Druid +Weapons](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons)
+
+<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE7)/Magic_000.png" alt="[T3 FE7] [F] Dark Druid +Weapons standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Magic |Magic |Staff |Staff |Staff |Staff |
+|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE7)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(Sorcress,%20Critical%20Sigil)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(Sorcress,%20No%20Critical%20Sigil/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(CamusZekeSirius)/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(FE7%20Dark%20Effect)/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(FE8%20Dark%20Effect)/Staff.gif" /> |
+
+
+### [\[T3 FE7\] \[M\] Archsage Athos +Fixes](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes)
+
+<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic/Magic_000.png" alt="[T3 FE7] [M] Archsage Athos +Fixes standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Magic |Magic |Magic |Staff |Staff |
+|  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(Alt%20Particles)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(FEx)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif" /> |
+
+
+### [\[T3 FE7\] \[M\] Dark Druid Nergal +Fixes](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes)
+
+<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic_000.png" alt="[T3 FE7] [M] Dark Druid Nergal +Fixes standing" />
+
+
+#### Weapons
+
+
+|Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Staff |Staff |
+|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Adv)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Basic)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Light)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Freeze%20Fix)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Light)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Vanilla%20Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif" /> |
+
+
+### [\[T3 FE7\] \[M\] Dark Druid Nergal Repal by SHYUTERz](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz)
+
+<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic_000.png" alt="[T3 FE7] [M] Dark Druid Nergal Repal by SHYUTERz standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic.gif" /> |
+
+
 ### [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka)
 
 <img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[T3 Necromancer Alt] [F] Noble Lyon by Aruka standing" />
@@ -7525,45 +7564,6 @@
 |Magic |Magic |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Minigun%20Melee)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Vanilla)/Staff.gif" /> |
-
-
-### [\[T3 Nergal\] \[F\] Dark Druid +Weapons](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons)
-
-<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE7)/Magic_000.png" alt="[T3 Nergal] [F] Dark Druid +Weapons standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Magic |Magic |Staff |Staff |Staff |Staff |
-|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE7)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(Sorcress,%20Critical%20Sigil)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(Sorcress,%20No%20Critical%20Sigil/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(CamusZekeSirius)/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(FE7%20Dark%20Effect)/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(FE8%20Dark%20Effect)/Staff.gif" /> |
-
-
-### [\[T3 Nergal\] \[M\] Dark Druid Nergal +Fixes](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes)
-
-<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic_000.png" alt="[T3 Nergal] [M] Dark Druid Nergal +Fixes standing" />
-
-
-#### Weapons
-
-
-|Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Staff |Staff |
-|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Adv)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Basic)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Light)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Freeze%20Fix)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Light)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Vanilla%20Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif" /> |
-
-
-### [\[T3 Nergal\] \[M\] Dark Druid Nergal Repal by SHYUTERz](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz)
-
-<img src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic_000.png" alt="[T3 Nergal] [M] Dark Druid Nergal Repal by SHYUTERz standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3%20Nergal%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic.gif" /> |
 
 
 ### [\[T3.1 Bishop\] \[F\] Matriarch by MrNight48](./3b.%20T2%20Magi%20(50%25%20Done)/%5BT3.1%20Bishop%5D%20%5BF%5D%20Matriarch%20by%20MrNight48/%5BT3.1%20Bishop%5D%20%5BF%5D%20Matriarch%20by%20MrNight48)

@@ -1,1 +1,0 @@
-To get all the palette options, import via bin.

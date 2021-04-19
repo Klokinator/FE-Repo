@@ -15,6 +15,6 @@ Devisian_Nights
 ## Weapons
 
 
-|Magic |Palettes |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Palettes animation" src="./Palettes/Palettes.gif" /> |
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> |

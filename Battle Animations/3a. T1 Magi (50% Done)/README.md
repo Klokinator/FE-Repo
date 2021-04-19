@@ -567,9 +567,9 @@
 ### Weapons
 
 
-|Magic |Palettes |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic.gif" /> | <img alt="Palettes animation" src="./%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/Palettes/Palettes.gif" /> |
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic.gif" /> |
 
 
 ## [\[Mage-Custom\] \[F\] Light Mage by L95](./%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20by%20L95/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20by%20L95)
@@ -611,22 +611,9 @@
 | <img alt="Magic animation" src="./%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif" /> |
 
 
-## [\[Marlon-Tact\] \[F\] Tactician Mark by Marlon0024](./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024)
+## [\[Marlon-Tact\] \[F\] Tactician Mark v1 by Marlon0024](./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024)
 
-<img src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [F] Tactician Mark by Marlon0024 standing" />
-
-
-### Weapons
-
-
-|Sword |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20by%20Marlon0024/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Marlon-Tact\] \[M\] Tactician Mark by Marlon0024](./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024)
-
-<img src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [M] Tactician Mark by Marlon0024 standing" />
+<img src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [F] Tactician Mark v1 by Marlon0024 standing" />
 
 
 ### Weapons
@@ -634,7 +621,33 @@
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20by%20Marlon0024/7.%20Staff/Staff.gif" /> |
+| <img alt="Sword animation" src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/7.%20Staff/Staff.gif" /> |
+
+
+## [\[Marlon-Tact\] \[M\] Tactician Mark v1 by Marlon0024](./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v1%20by%20Marlon0024)
+
+<img src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [M] Tactician Mark v1 by Marlon0024 standing" />
+
+
+### Weapons
+
+
+|Sword |Magic |Staff |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/7.%20Staff/Staff.gif" /> |
+
+
+## [\[Marlon-Tact\] \[M\] Tactician Mark v2 by Jj09](./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09/%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09)
+
+<img src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09/6.%20Magic/Magic_000.png" alt="[Marlon-Tact] [M] Tactician Mark v2 by Jj09 standing" />
+
+
+### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./%5BMarlon-Tact%5D%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09/6.%20Magic/Magic.gif" /> |
 
 
 ## [\[Monk-Base\] \[F\] FEGirls-Style Skirt Pupil](./%5BMonk-Base%5D%20%5BF%5D%20FEGirls-Style%20Skirt%20Pupil/%5BMonk-Base%5D%20%5BF%5D%20FEGirls-Style%20Skirt%20Pupil)

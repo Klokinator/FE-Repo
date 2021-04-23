@@ -1,6 +1,6 @@
 # [\[Eliwood-Base\] \[M\] Knight Lord Roy by CedAoh](./)
 
-<img src="./1.%20(Durandal%20No%20Magic)/(Durandal_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by CedAoh standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by CedAoh standing" />
 
 ## Credits
 
@@ -9,6 +9,6 @@
 ## Weapons
 
 
-|(Durandal |Sword |Sword |Lance |Unarmed |
+|Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="(Durandal animation" src="./1.%20(Durandal%20No%20Magic)/(Durandal.gif" /> | <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Binding%20Blade)/Sword.gif" /> | <img alt="Lance animation" src="./2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Binding%20Blade)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Durandal%20No%20Magic)/Sword.gif" /> | <img alt="Lance animation" src="./2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |

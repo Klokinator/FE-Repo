@@ -93,15 +93,15 @@
 
 ## [\[Eliwood-Base\] \[M\] Knight Lord Roy by CedAoh](./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh)
 
-<img src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20(Durandal%20No%20Magic)/(Durandal_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by CedAoh standing" />
+<img src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by CedAoh standing" />
 
 
 ### Weapons
 
 
-|(Durandal |Sword |Sword |Lance |Unarmed |
+|Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="(Durandal animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20(Durandal%20No%20Magic)/(Durandal.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword%20(Binding%20Blade)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword%20(Binding%20Blade)/Sword.gif" /> | <img alt="Sword animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword%20(Durandal%20No%20Magic)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Eliwood-Base\] \[M\] Knight Lord Roy by SurfingKyogre](./%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20SurfingKyogre/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20SurfingKyogre)

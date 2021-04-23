@@ -4738,15 +4738,15 @@
 
 ### [\[Eliwood-Base\] \[M\] Knight Lord Roy by CedAoh](./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh)
 
-<img src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/Binding%20Blade/Binding_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by CedAoh standing" />
+<img src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20(Durandal%20No%20Magic)/(Durandal_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by CedAoh standing" />
 
 
 #### Weapons
 
 
-|Binding |Durandal |Map |Regular |Regular |Unarmed |
-|  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Binding animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/Binding%20Blade/Binding.gif" /> | <img alt="Durandal animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/Durandal%20(No%20Ranged%20Animation)/Durandal.gif" /> | <img alt="Map animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/Map%20Sprites/Map.gif" /> | <img alt="Regular animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/Regular%20Lance/Regular.gif" /> | <img alt="Regular animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/Regular%20Sword/Regular.gif" /> | <img alt="Unarmed animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/Unarmed/Unarmed.gif" /> |
+|(Durandal |Sword |Sword |Lance |Unarmed |
+|  :---: | :---: | :---: | :---: | :---: |
+| <img alt="(Durandal animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20(Durandal%20No%20Magic)/(Durandal.gif" /> | <img alt="Sword animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/1.%20Sword%20(Binding%20Blade)/Sword.gif" /> | <img alt="Lance animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20CedAoh/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Eliwood-Base\] \[M\] Knight Lord Roy by SurfingKyogre](./2b.%20Lords%20T2%20(50%25%20Done)/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20SurfingKyogre/%5BEliwood-Base%5D%20%5BM%5D%20Knight%20Lord%20Roy%20by%20SurfingKyogre)

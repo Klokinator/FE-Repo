@@ -4,8 +4,8 @@
 
 {CedAodh, Jeorge_Reds, Brunhilda, SurfingKyogre, Marlon0024}
 	
-## Durandal
+## Sword
 
 | Still | Animation |
 | :---: | :-------: |
-| ![Durandal still](./Durandal_000.png) | ![Durandal animation](./Durandal.gif) |
+| ![Sword still](./Sword_000.png) | ![Sword animation](./Sword.gif) |

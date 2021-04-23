@@ -4,8 +4,8 @@
 
 {CedAodh, Jeorge_Reds, Brunhilda, SurfingKyogre, Marlon0024}
 	
-## Binding
+## (Durandal
 
 | Still | Animation |
 | :---: | :-------: |
-| ![Binding still](./Binding_000.png) | ![Binding animation](./Binding.gif) |
+| ![(Durandal still](./(Durandal_000.png) | ![(Durandal animation](./(Durandal.gif) |

@@ -4,8 +4,8 @@
 
 {CedAodh, Jeorge_Reds, Brunhilda, SurfingKyogre, Marlon0024}
 	
-## Map
+## Lance
 
 | Still | Animation |
 | :---: | :-------: |
-| ![Map still](./Map_000.png) | ![Map animation](./Map.gif) |
+| ![Lance still](./Lance_000.png) | ![Lance animation](./Lance.gif) |

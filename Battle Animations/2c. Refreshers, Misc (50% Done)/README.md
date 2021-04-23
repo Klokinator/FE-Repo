@@ -259,16 +259,3 @@
 |  :---: |
 | <img alt="Unarmed animation" src="./%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
 
-
-## [\[Misc\] \[U\] Vanilla Magic Seal](./%5BMisc%5D%20%5BU%5D%20Vanilla%20Magic%20Seal/%5BMisc%5D%20%5BU%5D%20Vanilla%20Magic%20Seal)
-
-<img src="./%5BMisc%5D%20%5BU%5D%20Vanilla%20Magic%20Seal/8.%20Unarmed/Unarmed_000.png" alt="[Misc] [U] Vanilla Magic Seal standing" />
-
-
-### Weapons
-
-
-|Unarmed |
-|  :---: |
-| <img alt="Unarmed animation" src="./%5BMisc%5D%20%5BU%5D%20Vanilla%20Magic%20Seal/8.%20Unarmed/Unarmed.gif" /> |
-

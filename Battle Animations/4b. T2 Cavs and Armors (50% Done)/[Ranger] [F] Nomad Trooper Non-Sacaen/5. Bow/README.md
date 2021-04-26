@@ -1,0 +1,11 @@
+# [\[Ranger\] \[F\] Nomad Trooper Non-Sacaen]
+
+## Credit
+
+{Pikmin1211, Maiser6}
+	
+## Bow
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Bow still](./Bow_000.png) | ![Bow animation](./Bow.gif) |

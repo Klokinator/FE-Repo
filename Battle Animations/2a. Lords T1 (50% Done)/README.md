@@ -429,6 +429,45 @@
 | <img alt="Sword animation" src="./%5BHector-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHector-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Axe animation" src="./%5BHector-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe%20(Punch%20Crit)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Hector-Reskin\] \[M\] Gladiator by Waleed](./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20by%20Waleed/%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20by%20Waleed)
+
+<img src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20by%20Waleed/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] Gladiator by Waleed standing" />
+
+
+### Weapons
+
+
+|Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20by%20Waleed/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20by%20Waleed/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20by%20Waleed/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Hector-Reskin\] \[M\] Gladiator Repal by Pushwall](./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20by%20Pushwall/%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20by%20Pushwall)
+
+<img src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] Gladiator Repal by Pushwall standing" />
+
+
+### Weapons
+
+
+|Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Hector-Reskin\] \[M\] Gladiator Repal v2 +Sword](./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20v2%20+Sword/%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20v2%20+Sword)
+
+<img src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20v2%20+Sword/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] Gladiator Repal v2 +Sword standing" />
+
+
+### Weapons
+
+
+|Sword |Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20v2%20+Sword/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20v2%20+Sword/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20v2%20+Sword/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20Gladiator%20Repal%20v2%20+Sword/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Lyn-Base\] \[F\] Short Hair by Zoisite](./%5BLyn-Base%5D%20%5BF%5D%20Short%20Hair%20by%20Zoisite/%5BLyn-Base%5D%20%5BF%5D%20Short%20Hair%20by%20Zoisite)
 
 <img src="./%5BLyn-Base%5D%20%5BF%5D%20Short%20Hair%20by%20Zoisite/1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] Short Hair by Zoisite standing" />

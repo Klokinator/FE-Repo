@@ -1,6 +1,6 @@
-# [\[Eirika-Base\] \[F\] FE7if Isadora Doubleblade](./)
+# [\[Eirika-Reskin\] \[F\] FE7if Isadora Doubleblade](./)
 
-<img src="./1.%20Sword%20(Hauteclere)/Sword_000.png" alt="[Eirika-Base] [F] FE7if Isadora Doubleblade standing" />
+<img src="./1.%20Sword%20(Hauteclere)/Sword_000.png" alt="[Eirika-Reskin] [F] FE7if Isadora Doubleblade standing" />
 
 ## Credits
 

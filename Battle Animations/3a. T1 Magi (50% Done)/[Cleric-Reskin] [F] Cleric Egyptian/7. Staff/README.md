@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Cleric Egyptian]
+# [\[Cleric-Reskin\] \[F\] Cleric Egyptian]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Hector-Base\] \[M\] Yggdra Milanor by Aruka](./)
+# [\[Hector-Reskin\] \[M\] Yggdra Milanor by Aruka](./)
 
-<img src="./3.%20Axe%20(Chain)/Axe_000.png" alt="[Hector-Base] [M] Yggdra Milanor by Aruka standing" />
+<img src="./3.%20Axe%20(Chain)/Axe_000.png" alt="[Hector-Reskin] [M] Yggdra Milanor by Aruka standing" />
 
 ## Credits
 

@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Vanilla FE7 Rebecca](./)
+# [\[Archer-Base\] \[F\] Vanilla FE7 Rebecca](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Vanilla FE7 Rebecca standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Base] [F] Vanilla FE7 Rebecca standing" />
 
 ## Credits
 

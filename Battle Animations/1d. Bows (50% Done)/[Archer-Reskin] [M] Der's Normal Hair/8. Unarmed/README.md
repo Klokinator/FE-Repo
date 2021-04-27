@@ -1,4 +1,4 @@
-# [\[Archer\] \[M\] Der's Normal Hair]
+# [\[Archer-Reskin\] \[M\] Der's Normal Hair]
 
 ## Credit
 

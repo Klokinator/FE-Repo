@@ -1,4 +1,4 @@
-# [\[Custom Crossover\] \[M\] Sergeant by Spud]
+# [\[Crossover Custom\] \[M\] Sergeant by Spud]
 
 ## Credit
 

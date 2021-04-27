@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[F\] Leila by Greentea](./)
+# [\[Assassin-Reskin\] \[F\] Leila by Greentea](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [F] Leila by Greentea standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [F] Leila by Greentea standing" />
 
 ## Credits
 

@@ -1,6 +1,6 @@
-# [\[Journeyman-Base\] \[M\] Waleed's Squire v2 Repal](./)
+# [\[Journeyman-Type\] \[M\] Waleed's Squire v2 Repal](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Journeyman-Base] [M] Waleed's Squire v2 Repal standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Journeyman-Type] [M] Waleed's Squire v2 Repal standing" />
 
 ## Credits
 

@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[F\] Ishtar by L95](./)
+# [\[Sage-Reskin\] \[F\] Ishtar by L95](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [F] Ishtar by L95 standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [F] Ishtar by L95 standing" />
 
 ## Credits
 

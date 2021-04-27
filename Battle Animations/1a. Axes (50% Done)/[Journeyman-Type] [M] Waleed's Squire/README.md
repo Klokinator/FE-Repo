@@ -1,6 +1,6 @@
-# [\[Journeyman-Base\] \[M\] Waleed's Squire](./)
+# [\[Journeyman-Type\] \[M\] Waleed's Squire](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Journeyman-Base] [M] Waleed's Squire standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Journeyman-Type] [M] Waleed's Squire standing" />
 
 ## Credits
 

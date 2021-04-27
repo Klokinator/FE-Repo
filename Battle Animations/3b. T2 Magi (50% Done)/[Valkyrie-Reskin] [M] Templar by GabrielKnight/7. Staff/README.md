@@ -1,4 +1,4 @@
-# [\[Valkyrie-Base\] \[M\] Templar by GabrielKnight]
+# [\[Valkyrie-Reskin\] \[M\] Templar by GabrielKnight]
 
 ## Credit
 

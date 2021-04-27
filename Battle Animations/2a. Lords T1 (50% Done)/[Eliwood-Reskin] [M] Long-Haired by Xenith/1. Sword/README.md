@@ -1,4 +1,4 @@
-# [\[Eliwood-Base\] \[M\] Long-Haired by Xenith]
+# [\[Eliwood-Reskin\] \[M\] Long-Haired by Xenith]
 
 ## Credit
 

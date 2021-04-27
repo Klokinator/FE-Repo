@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[F\] FE6 Lilina Repal by Zelix]
+# [\[Mage-Base\] \[F\] Vanilla FE6 Lilina Repal by Zelix]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[F\] Kawaii Blader by Yangfly]
+# [\[Lyn-Reskin\] \[F\] Kawaii Blader by Yangfly]
 
 ## Credit
 

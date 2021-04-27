@@ -1,6 +1,6 @@
-# [\[Rogue-Base\] \[F\] Repal +Staff \(Community Effort\)](./)
+# [\[Rogue-Reskin\] \[F\] Repal +Staff \(Community Effort\)](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Repal +Staff (Community Effort) standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff (Community Effort) standing" />
 
 ## Credits
 

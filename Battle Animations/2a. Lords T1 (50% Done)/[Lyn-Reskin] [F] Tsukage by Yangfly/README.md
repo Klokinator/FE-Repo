@@ -1,6 +1,6 @@
-# [\[Lyn-Base\] \[F\] Tsukage by Yangfly](./)
+# [\[Lyn-Reskin\] \[F\] Tsukage by Yangfly](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] Tsukage by Yangfly standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] Tsukage by Yangfly standing" />
 
 ## Credits
 

@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[M\] Joshua Hat](./)
+# [\[Myrmidon-Reskin\] \[M\] Joshua Hat](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Joshua Hat standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Joshua Hat standing" />
 
 ## Credits
 

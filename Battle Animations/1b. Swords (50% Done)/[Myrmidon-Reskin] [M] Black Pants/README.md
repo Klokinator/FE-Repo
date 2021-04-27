@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[M\] Black Pants](./)
+# [\[Myrmidon-Reskin\] \[M\] Black Pants](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Black Pants standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Black Pants standing" />
 
 ## Credits
 

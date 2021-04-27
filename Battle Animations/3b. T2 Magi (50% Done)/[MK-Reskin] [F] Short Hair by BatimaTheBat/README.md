@@ -1,6 +1,6 @@
-# [\[MK-Base\] \[F\] Short Hair by BatimaTheBat](./)
+# [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[MK-Base] [F] Short Hair by BatimaTheBat standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[MK-Reskin] [F] Short Hair by BatimaTheBat standing" />
 
 ## Credits
 

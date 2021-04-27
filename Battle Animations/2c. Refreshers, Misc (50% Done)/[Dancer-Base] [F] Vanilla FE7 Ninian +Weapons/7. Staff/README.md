@@ -1,4 +1,4 @@
-# [\[Dancer\] \[F\] Ninian +Weapons]
+# [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons]
 
 ## Credit
 

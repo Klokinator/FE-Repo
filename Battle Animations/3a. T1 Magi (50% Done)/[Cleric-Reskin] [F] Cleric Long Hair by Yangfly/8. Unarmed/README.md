@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Cleric Long Hair by Yangfly]
+# [\[Cleric-Reskin\] \[F\] Cleric Long Hair by Yangfly]
 
 ## Credit
 

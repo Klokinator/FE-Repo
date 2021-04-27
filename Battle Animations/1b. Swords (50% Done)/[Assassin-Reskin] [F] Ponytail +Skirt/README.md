@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[F\] Ponytail +Skirt](./)
+# [\[Assassin-Reskin\] \[F\] Ponytail +Skirt](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [F] Ponytail +Skirt standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [F] Ponytail +Skirt standing" />
 
 ## Credits
 

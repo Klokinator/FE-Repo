@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Leila by SHYUTERz]
+# [\[Assassin-Reskin\] \[F\] Leila by SHYUTERz]
 
 ## Credit
 

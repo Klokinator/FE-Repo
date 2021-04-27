@@ -1,6 +1,6 @@
-# [\[Roy-Base\] \[M\] Redesign by Blaze](./)
+# [\[Roy-Reskin\] \[M\] Redesign by Blaze](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Base] [M] Redesign by Blaze standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Redesign by Blaze standing" />
 
 ## Credits
 

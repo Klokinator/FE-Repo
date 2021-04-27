@@ -1,6 +1,6 @@
-# [\[Priest-Base\] \[M\] Priest Bald Repal by Vilkalizer](./)
+# [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Priest-Base] [M] Priest Bald Repal by Vilkalizer standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Priest-Reskin] [M] Bald Repal by Vilkalizer standing" />
 
 ## Credits
 

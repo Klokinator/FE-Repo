@@ -1,6 +1,6 @@
-# [\[Sniper\] \[F\] Rebecca by Temp](./)
+# [\[Sniper-Reskin\] \[F\] Rebecca by Temp](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [F] Rebecca by Temp standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [F] Rebecca by Temp standing" />
 
 ## Credits
 

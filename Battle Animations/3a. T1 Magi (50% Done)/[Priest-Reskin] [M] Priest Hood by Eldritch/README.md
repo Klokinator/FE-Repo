@@ -1,6 +1,6 @@
-# [\[Priest-Base\] \[M\] Priest Hood by Eldritch](./)
+# [\[Priest-Reskin\] \[M\] Priest Hood by Eldritch](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Priest-Base] [M] Priest Hood by Eldritch standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Priest-Reskin] [M] Priest Hood by Eldritch standing" />
 
 ## Credits
 

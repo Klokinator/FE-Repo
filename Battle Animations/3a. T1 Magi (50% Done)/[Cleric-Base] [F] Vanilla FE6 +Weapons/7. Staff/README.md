@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Cleric Vanilla FE6 +Weapons]
+# [\[Cleric-Base\] \[F\] Vanilla FE6 +Weapons]
 
 ## Credit
 

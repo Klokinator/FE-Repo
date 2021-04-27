@@ -1,4 +1,4 @@
-# [\[Elffin-Style\] \[M\] Sonneteer by Marlon0024]
+# [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024]
 
 ## Credit
 

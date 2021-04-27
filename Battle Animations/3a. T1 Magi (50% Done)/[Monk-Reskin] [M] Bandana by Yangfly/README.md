@@ -1,6 +1,6 @@
-# [\[Monk-Base\] \[M\] Bandana by Yangfly](./)
+# [\[Monk-Reskin\] \[M\] Bandana by Yangfly](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Monk-Base] [M] Bandana by Yangfly standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Monk-Reskin] [M] Bandana by Yangfly standing" />
 
 ## Credits
 

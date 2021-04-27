@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Hooded by Solum]
+# [\[Thief-Reskin\] \[M\] Hooded by Solum]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Rogue-Base\] \[F\] Ponytail by Temp](./)
+# [\[Rogue-Reskin\] \[F\] Ponytail by Temp](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Ponytail by Temp standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Ponytail by Temp standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Custom Lord\] \[M\] Greil Hero by Cipher Lee]
+# [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee]
 
 ## Credit
 

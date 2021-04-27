@@ -1,6 +1,6 @@
-# [\[Elffin-Base\] \[M\] Elffin +Weapons](./)
+# [\[Bard-Base\] \[M\] Elffin +Weapons](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Elffin-Base] [M] Elffin +Weapons standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin +Weapons standing" />
 
 ## Credits
 

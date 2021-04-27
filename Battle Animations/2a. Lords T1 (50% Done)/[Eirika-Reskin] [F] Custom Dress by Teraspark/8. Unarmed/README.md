@@ -1,4 +1,4 @@
-# [\[Eirika-Base\] \[F\] Custom Dress by Teraspark]
+# [\[Eirika-Reskin\] \[F\] Custom Dress by Teraspark]
 
 ## Credit
 

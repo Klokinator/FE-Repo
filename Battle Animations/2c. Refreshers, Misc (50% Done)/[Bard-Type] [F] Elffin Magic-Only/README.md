@@ -1,6 +1,6 @@
-# [\[Elffin-Type\] \[F\] Magic-Only](./)
+# [\[Bard-Type\] \[F\] Elffin Magic-Only](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Elffin-Type] [F] Magic-Only standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Bard-Type] [F] Elffin Magic-Only standing" />
 
 ## Credits
 

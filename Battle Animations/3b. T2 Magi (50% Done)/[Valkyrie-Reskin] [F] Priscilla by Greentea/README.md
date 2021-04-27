@@ -1,6 +1,6 @@
-# [\[Valkyrie-Base\] \[F\] Priscilla by Greentea](./)
+# [\[Valkyrie-Reskin\] \[F\] Priscilla by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Base] [F] Priscilla by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] Priscilla by Greentea standing" />
 
 ## Credits
 

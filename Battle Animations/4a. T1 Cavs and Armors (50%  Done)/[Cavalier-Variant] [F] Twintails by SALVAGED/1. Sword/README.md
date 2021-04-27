@@ -1,0 +1,26 @@
+# [\[Cavalier-Variant\] \[F\] Twintails by SALVAGED]
+
+## Credit
+
+Original SALVAGED Cavalier by Team SALVAGED
+
+Design by Pikmin1211
+
+Sword animation by Maiser6
+
+Lance animation by Maiser6
+
+Axe animation by Maiser6
+
+Handaxe animation by Maiser6
+
+Unarmed animation by Maiser6
+
+Palettes by Team SALVAGED
+
+	
+## Sword
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Sword still](./Sword_000.png) | ![Sword animation](./Sword.gif) |

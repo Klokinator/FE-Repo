@@ -1,4 +1,4 @@
-# [\[Sniper\] \[M\] Vanilla With Hat]
+# [\[Sniper-Base\] \[M\] Vanilla With Hat]
 
 ## Credit
 

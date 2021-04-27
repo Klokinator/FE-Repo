@@ -1,6 +1,6 @@
-# [\[Thief-Base\] \[M\] Jaffar by JonoTheRed](./)
+# [\[Thief-Reskin\] \[M\] Jaffar by JonoTheRed](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Jaffar by JonoTheRed standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Reskin] [M] Jaffar by JonoTheRed standing" />
 
 ## Credits
 

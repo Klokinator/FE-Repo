@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[M\] Awakening-Style Myrmidon]
+# [\[Lyn-Reskin\] \[M\] Awakening-Style Myrmidon]
 
 ## Credit
 

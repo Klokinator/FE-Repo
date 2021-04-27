@@ -1,4 +1,4 @@
-# [\[Mercenary-Case\] \[F\] Long-Haired Tunic by Serragirl]
+# [\[Mercenary-Reskin\] \[F\] Long-Haired Tunic by Serragirl]
 
 ## Credit
 

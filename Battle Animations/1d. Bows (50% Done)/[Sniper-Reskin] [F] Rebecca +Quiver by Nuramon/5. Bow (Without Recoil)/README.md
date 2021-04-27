@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Rebecca +Quiver by Nuramon]
+# [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon]
 
 ## Credit
 

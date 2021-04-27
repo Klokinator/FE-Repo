@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[F\] Full Shirt \(Bow Only\)](./)
+# [\[Assassin-Reskin\] \[F\] Full Shirt \(Bow Only\)](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Assassin-Base] [F] Full Shirt (Bow Only) standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Assassin-Reskin] [F] Full Shirt (Bow Only) standing" />
 
 ## Credits
 

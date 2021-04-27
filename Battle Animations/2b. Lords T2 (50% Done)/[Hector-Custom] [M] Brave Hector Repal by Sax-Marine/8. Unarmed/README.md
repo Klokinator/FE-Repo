@@ -1,4 +1,4 @@
-# [\[Hector Custom\] \[M\] Brave Hector Repal by Sax-Marine]
+# [\[Hector-Custom\] \[M\] Brave Hector Repal by Sax-Marine]
 
 ## Credit
 

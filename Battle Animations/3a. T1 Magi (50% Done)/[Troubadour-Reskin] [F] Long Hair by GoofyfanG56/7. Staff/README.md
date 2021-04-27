@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Long Hair by GoofyfanG56]
+# [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56]
 
 ## Credit
 

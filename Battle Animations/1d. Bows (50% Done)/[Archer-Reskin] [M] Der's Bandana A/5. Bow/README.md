@@ -1,4 +1,4 @@
-# [\[Archer\] \[M\] Der's Bandana A]
+# [\[Archer-Reskin\] \[M\] Der's Bandana A]
 
 ## Credit
 

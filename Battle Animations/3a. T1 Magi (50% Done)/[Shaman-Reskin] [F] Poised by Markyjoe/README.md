@@ -1,6 +1,6 @@
-# [\[Shaman-Base\] \[F\] Poised by Markyjoe](./)
+# [\[Shaman-Reskin\] \[F\] Poised by Markyjoe](./)
 
-<img src="./6.%20Magic%20(FE7)/Magic_000.png" alt="[Shaman-Base] [F] Poised by Markyjoe standing" />
+<img src="./6.%20Magic%20(FE7)/Magic_000.png" alt="[Shaman-Reskin] [F] Poised by Markyjoe standing" />
 
 ## Credits
 

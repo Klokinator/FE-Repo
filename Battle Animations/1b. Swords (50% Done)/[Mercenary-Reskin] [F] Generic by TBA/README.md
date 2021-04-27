@@ -1,6 +1,6 @@
-# [\[Mercenary-Base\] \[F\] Vanilla-Style by TBA](./)
+# [\[Mercenary-Reskin\] \[F\] Generic by TBA](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [F] Vanilla-Style by TBA standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [F] Generic by TBA standing" />
 
 ## Credits
 

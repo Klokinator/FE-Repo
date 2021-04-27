@@ -1,4 +1,4 @@
-# [\[Valkyrie-Base\] \[F\] L'Arachel by Aruka]
+# [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka]
 
 ## Credit
 

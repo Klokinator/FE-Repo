@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Der's Ponytail]
+# [\[Archer-Reskin\] \[F\] Der's Ponytail]
 
 ## Credit
 

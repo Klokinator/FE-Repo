@@ -1,4 +1,4 @@
-# [\[Monk-Base\] \[M\] Bandana by Yangfly]
+# [\[Monk-Reskin\] \[M\] Bandana by Yangfly]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Elffin-Style\] \[M\] Sonneteer by Marlon0024](./)
+# [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](./)
 
-<img src="./8.%20Refresh/Refresh_000.png" alt="[Elffin-Style] [M] Sonneteer by Marlon0024 standing" />
+<img src="./8.%20Refresh/Refresh_000.png" alt="[Bard-Style] [M] Elffin Sonneteer by Marlon0024 standing" />
 
 ## Credits
 

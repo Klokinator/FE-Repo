@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[M\] Guy by Eldritch]
+# [\[Swordmaster-Reskin\] \[M\] Guy by Eldritch]
 
 ## Credit
 

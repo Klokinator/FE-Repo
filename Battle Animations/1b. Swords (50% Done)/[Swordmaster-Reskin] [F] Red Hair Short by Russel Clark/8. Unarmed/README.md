@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[F\] Red Hair Short by Russel Clark]
+# [\[Swordmaster-Reskin\] \[F\] Red Hair Short by Russel Clark]
 
 ## Credit
 

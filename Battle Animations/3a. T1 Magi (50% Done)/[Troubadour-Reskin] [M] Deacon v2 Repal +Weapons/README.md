@@ -1,6 +1,6 @@
-# [\[Troubadour-Base\] \[M\] Deacon v2 Repal +Weapons](./)
+# [\[Troubadour-Reskin\] \[M\] Deacon v2 Repal +Weapons](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Base] [M] Deacon v2 Repal +Weapons standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Reskin] [M] Deacon v2 Repal +Weapons standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Armored +Axe by Alusq]
+# [\[Mercenary-Reskin\] \[M\] Armored +Axe by Alusq]
 
 ## Credit
 

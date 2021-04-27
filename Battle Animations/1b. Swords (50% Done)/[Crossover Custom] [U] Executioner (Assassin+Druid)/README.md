@@ -1,6 +1,6 @@
-# [\[Custom Crossover\] \[U\] Executioner \(Assassin+Druid\)](./)
+# [\[Crossover Custom\] \[U\] Executioner \(Assassin+Druid\)](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Crossover] [U] Executioner (Assassin+Druid) standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Crossover Custom] [U] Executioner (Assassin+Druid) standing" />
 
 ## Credits
 

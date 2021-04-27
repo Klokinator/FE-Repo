@@ -1,6 +1,6 @@
-# [\[Rogue-Base\] \[F\] Long Hair by eCut +Knife](./)
+# [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Long Hair by eCut +Knife standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Long Hair by eCut +Knife standing" />
 
 ## Credits
 

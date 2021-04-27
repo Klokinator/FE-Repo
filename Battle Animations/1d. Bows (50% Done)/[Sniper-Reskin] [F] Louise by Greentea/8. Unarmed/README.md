@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Louise by Greentea]
+# [\[Sniper-Reskin\] \[F\] Louise by Greentea]
 
 ## Credit
 

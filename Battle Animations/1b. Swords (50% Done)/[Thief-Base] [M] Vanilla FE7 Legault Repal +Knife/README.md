@@ -1,6 +1,6 @@
-# [\[Thief-Base\] \[M\] Legault Repal by GabrielKnight +Knife](./)
+# [\[Thief-Base\] \[M\] Vanilla FE7 Legault Repal +Knife](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Legault Repal by GabrielKnight +Knife standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Vanilla FE7 Legault Repal +Knife standing" />
 
 ## Credits
 

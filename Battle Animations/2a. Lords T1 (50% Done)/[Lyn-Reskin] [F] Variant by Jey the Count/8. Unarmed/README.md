@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[F\] Variant by Jey the Count]
+# [\[Lyn-Reskin\] \[F\] Variant by Jey the Count]
 
 ## Credit
 

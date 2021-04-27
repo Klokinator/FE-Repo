@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Short Hair Repal by BatimaTheBat]
+# [\[Troubadour-Reskin\] \[F\] Short Hair Repal by BatimaTheBat]
 
 ## Credit
 

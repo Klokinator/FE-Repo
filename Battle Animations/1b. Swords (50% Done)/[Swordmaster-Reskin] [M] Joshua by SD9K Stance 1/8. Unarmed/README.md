@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[M\] Joshua by SD9K Stance 1]
+# [\[Swordmaster-Reskin\] \[M\] Joshua by SD9K Stance 1]
 
 ## Credit
 

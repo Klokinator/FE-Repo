@@ -1,4 +1,4 @@
-# [\[Bard-Nils\] \[M\] Bard Nils +Weapons]
+# [\[Bard-Base\] \[M\] Nils +Weapons]
 
 ## Credit
 

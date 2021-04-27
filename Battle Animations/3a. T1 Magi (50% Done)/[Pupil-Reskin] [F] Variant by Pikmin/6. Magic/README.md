@@ -1,4 +1,4 @@
-# [\[Pupil-Base\] \[F\] Variant by Pikmin]
+# [\[Pupil-Reskin\] \[F\] Variant by Pikmin]
 
 ## Credit
 

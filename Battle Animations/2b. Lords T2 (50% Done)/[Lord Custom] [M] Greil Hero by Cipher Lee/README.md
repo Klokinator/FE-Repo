@@ -1,6 +1,6 @@
-# [\[Custom Lord\] \[M\] Greil Hero by Cipher Lee](./)
+# [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee](./)
 
-<img src="./1.%20Sword%20(Alondite)/Sword_000.png" alt="[Custom Lord] [M] Greil Hero by Cipher Lee standing" />
+<img src="./1.%20Sword%20(Alondite)/Sword_000.png" alt="[Lord Custom] [M] Greil Hero by Cipher Lee standing" />
 
 ## Credits
 

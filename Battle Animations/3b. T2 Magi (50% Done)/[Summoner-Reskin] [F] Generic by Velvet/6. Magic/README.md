@@ -1,4 +1,4 @@
-# [\[Summoner-Base\] \[F\] Generic by Velvet]
+# [\[Summoner-Reskin\] \[F\] Generic by Velvet]
 
 ## Credit
 

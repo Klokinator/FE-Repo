@@ -1,4 +1,4 @@
-# [\[Roy-Base\] \[M\] Redesign by Blaze]
+# [\[Roy-Reskin\] \[M\] Redesign by Blaze]
 
 ## Credit
 

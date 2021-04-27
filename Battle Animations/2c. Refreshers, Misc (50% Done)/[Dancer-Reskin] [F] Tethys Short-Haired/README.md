@@ -1,6 +1,6 @@
-# [\[Dancer\] \[F\] Short-Haired by Its_Just_Jay](./)
+# [\[Dancer-Reskin\] \[F\] Tethys Short-Haired](./)
 
-<img src="./8.%20Refresh/Refresh_000.png" alt="[Dancer] [F] Short-Haired by Its_Just_Jay standing" />
+<img src="./8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] Tethys Short-Haired standing" />
 
 ## Credits
 

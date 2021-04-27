@@ -1,6 +1,6 @@
-# [\[Monk-Base\] \[F\] FEGirls-Style Skirt Pupil](./)
+# [\[Monk-Reskin\] \[F\] FEGirls-Style Skirt Pupil](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Monk-Base] [F] FEGirls-Style Skirt Pupil standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Monk-Reskin] [F] FEGirls-Style Skirt Pupil standing" />
 
 ## Credits
 

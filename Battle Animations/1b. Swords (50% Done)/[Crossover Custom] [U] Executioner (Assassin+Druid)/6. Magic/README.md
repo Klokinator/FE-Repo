@@ -1,4 +1,4 @@
-# [\[Custom Crossover\] \[U\] Executioner \(Assassin+Druid\)]
+# [\[Crossover Custom\] \[U\] Executioner \(Assassin+Druid\)]
 
 ## Credit
 

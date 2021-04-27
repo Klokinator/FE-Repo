@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Der's Forrest-Like](./)
+# [\[Archer-Reskin\] \[F\] Der's Forrest-Like](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Forrest-Like standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Der's Forrest-Like standing" />
 
 ## Credits
 

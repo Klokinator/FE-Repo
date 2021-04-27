@@ -1,4 +1,4 @@
-# [\[Dancer\] \[F\] Short-Haired by Its_Just_Jay]
+# [\[Dancer-Reskin\] \[F\] Tethys Short-Haired]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[M\] Trickster by Leo_Link]
+# [\[Rogue-Reskin\] \[M\] Trickster by Leo_Link]
 
 ## Credit
 

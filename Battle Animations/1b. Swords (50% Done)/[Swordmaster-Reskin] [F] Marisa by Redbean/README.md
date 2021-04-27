@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[F\] Marisa by Redbean](./)
+# [\[Swordmaster-Reskin\] \[F\] Marisa by Redbean](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [F] Marisa by Redbean standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Marisa by Redbean standing" />
 
 ## Credits
 

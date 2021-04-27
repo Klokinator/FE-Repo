@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[F\] Fir by Leo_Link]
+# [\[Myrmidon-Reskin\] \[F\] Fir by Leo_Link]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[F\] Fencer by GabrielKnight]
+# [\[Sword Custom\] \[F\] Fencer by GabrielKnight]
 
 ## Credit
 

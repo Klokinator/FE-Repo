@@ -1,6 +1,6 @@
-# [\[Valkyrie-Base\] \[M\] Non-Religious by Der](./)
+# [\[Valkyrie-Reskin\] \[M\] Non-Religious by Der](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Base] [M] Non-Religious by Der standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [M] Non-Religious by Der standing" />
 
 ## Credits
 

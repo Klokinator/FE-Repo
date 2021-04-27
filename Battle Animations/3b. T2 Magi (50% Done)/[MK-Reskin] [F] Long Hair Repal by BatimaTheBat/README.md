@@ -1,6 +1,6 @@
-# [\[MK-Base\] \[F\] Long Hair Repal by BatimaTheBat](./)
+# [\[MK-Reskin\] \[F\] Long Hair Repal by BatimaTheBat](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[MK-Base] [F] Long Hair Repal by BatimaTheBat standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[MK-Reskin] [F] Long Hair Repal by BatimaTheBat standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Eliwood-Base\] \[M\] Knight Lord Brave by RedBean]
+# [\[Eliwood-Reskin\] \[M\] Knight Lord Brave by RedBean]
 
 ## Credit
 

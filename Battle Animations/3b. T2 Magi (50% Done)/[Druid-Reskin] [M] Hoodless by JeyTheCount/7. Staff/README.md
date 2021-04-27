@@ -1,4 +1,4 @@
-# [\[Druid-Base\] \[M\] Hoodless by JeyTheCount]
+# [\[Druid-Reskin\] \[M\] Hoodless by JeyTheCount]
 
 ## Credit
 

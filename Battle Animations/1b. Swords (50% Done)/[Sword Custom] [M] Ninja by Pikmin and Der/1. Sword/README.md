@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Ninja by Pikmin and Der]
+# [\[Sword Custom\] \[M\] Ninja by Pikmin and Der]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar +Shirt by Glenwing]
+# [\[Assassin-Reskin\] \[M\] Jaffar +Shirt by Glenwing]
 
 ## Credit
 

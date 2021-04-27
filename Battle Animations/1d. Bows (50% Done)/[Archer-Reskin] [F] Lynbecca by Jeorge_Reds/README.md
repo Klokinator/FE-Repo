@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Lynbecca by Jeorge_Reds](./)
+# [\[Archer-Reskin\] \[F\] Lynbecca by Jeorge_Reds](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Lynbecca by Jeorge_Reds standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Lynbecca by Jeorge_Reds standing" />
 
 ## Credits
 

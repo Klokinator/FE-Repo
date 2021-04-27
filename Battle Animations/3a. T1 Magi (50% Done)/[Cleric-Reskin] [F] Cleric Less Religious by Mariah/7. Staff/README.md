@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Cleric Less Religious by Mariah]
+# [\[Cleric-Reskin\] \[F\] Cleric Less Religious by Mariah]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Legault Repal by GabrielKnight +Knife]
+# [\[Thief-Base\] \[M\] Vanilla FE7 Legault Repal +Knife]
 
 ## Credit
 

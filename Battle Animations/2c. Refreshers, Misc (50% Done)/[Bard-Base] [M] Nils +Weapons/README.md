@@ -1,6 +1,6 @@
-# [\[Bard-Nils\] \[M\] Bard Nils +Weapons](./)
+# [\[Bard-Base\] \[M\] Nils +Weapons](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Bard-Nils] [M] Bard Nils +Weapons standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Bard-Base] [M] Nils +Weapons standing" />
 
 ## Credits
 

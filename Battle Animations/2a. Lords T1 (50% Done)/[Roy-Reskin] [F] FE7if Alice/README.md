@@ -1,6 +1,6 @@
-# [\[Roy-Base\] \[F\] FE7if Alice](./)
+# [\[Roy-Reskin\] \[F\] FE7if Alice](./)
 
-<img src="./1.%20Sword%20(Airgetlam%20-%20Fixed%20-%20Sans%20Luceid)/Sword_000.png" alt="[Roy-Base] [F] FE7if Alice standing" />
+<img src="./1.%20Sword%20(Airgetlam%20-%20Fixed%20-%20Sans%20Luceid)/Sword_000.png" alt="[Roy-Reskin] [F] FE7if Alice standing" />
 
 ## Credits
 

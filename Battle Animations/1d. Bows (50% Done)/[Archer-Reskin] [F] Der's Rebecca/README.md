@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Der's Rebecca](./)
+# [\[Archer-Reskin\] \[F\] Der's Rebecca](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Rebecca standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Der's Rebecca standing" />
 
 ## Credits
 

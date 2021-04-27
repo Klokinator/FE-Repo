@@ -1,4 +1,4 @@
-# [\[Hector-Base\] \[M\] Yggdra Milanor by Aruka]
+# [\[Hector-Reskin\] \[M\] Yggdra Milanor by Aruka]
 
 ## Credit
 

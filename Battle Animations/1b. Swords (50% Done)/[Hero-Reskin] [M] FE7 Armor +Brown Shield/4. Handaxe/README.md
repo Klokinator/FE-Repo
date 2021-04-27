@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[M\] FE7 Armor +Brown Shield]
+# [\[Hero-Reskin\] \[M\] FE7 Armor +Brown Shield]
 
 ## Credit
 

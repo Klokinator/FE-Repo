@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[F\] Marisa by Seal]
+# [\[Swordmaster-Reskin\] \[F\] Marisa by Seal]
 
 ## Credit
 

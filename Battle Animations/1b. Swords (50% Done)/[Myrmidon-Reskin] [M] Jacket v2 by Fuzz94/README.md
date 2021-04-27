@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[M\] Jacket v2 by Fuzz94](./)
+# [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Jacket v2 by Fuzz94 standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Jacket v2 by Fuzz94 standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Villager by Nuramon]
+# [\[Sword Custom\] \[M\] Villager by Nuramon]
 
 ## Credit
 

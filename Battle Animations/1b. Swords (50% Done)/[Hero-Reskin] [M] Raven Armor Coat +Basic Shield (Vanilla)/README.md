@@ -1,6 +1,6 @@
-# [\[Hero-Base\] \[M\] Raven Armor Coat +Basic Shield \(Vanilla\)](./)
+# [\[Hero-Reskin\] \[M\] Raven Armor Coat +Basic Shield \(Vanilla\)](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Raven Armor Coat +Basic Shield (Vanilla) standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Hero-Reskin] [M] Raven Armor Coat +Basic Shield (Vanilla) standing" />
 
 ## Credits
 

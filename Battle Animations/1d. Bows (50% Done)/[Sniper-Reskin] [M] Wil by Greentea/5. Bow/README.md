@@ -1,4 +1,4 @@
-# [\[Sniper\] \[M\] Wil by Greentea]
+# [\[Sniper-Reskin\] \[M\] Wil by Greentea]
 
 ## Credit
 

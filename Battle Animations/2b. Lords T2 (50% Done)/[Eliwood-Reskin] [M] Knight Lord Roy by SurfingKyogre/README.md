@@ -1,6 +1,6 @@
-# [\[Eliwood-Base\] \[M\] Knight Lord Roy by SurfingKyogre](./)
+# [\[Eliwood-Reskin\] \[M\] Knight Lord Roy by SurfingKyogre](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by SurfingKyogre standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] Knight Lord Roy by SurfingKyogre standing" />
 
 ## Credits
 

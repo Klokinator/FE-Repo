@@ -1,4 +1,4 @@
-# [\[Hector-Base\] \[F\] Long-Haired +Sword by Eldritch]
+# [\[Hector-Reskin\] \[F\] Long-Haired +Sword by Eldritch]
 
 ## Credit
 

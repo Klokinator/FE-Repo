@@ -1,6 +1,6 @@
-# [\[Sniper\] \[F\] Louise by Greentea](./)
+# [\[Sniper-Reskin\] \[F\] Louise by Greentea](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [F] Louise by Greentea standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [F] Louise by Greentea standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Cat Priest by GabrielKnight]
+# [\[Priest-Reskin\] \[M\] Cat Priest by GabrielKnight]
 
 ## Credit
 

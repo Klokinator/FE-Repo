@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] FE7-Style Repal +Weapons]
+# [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons]
 
 ## Credit
 

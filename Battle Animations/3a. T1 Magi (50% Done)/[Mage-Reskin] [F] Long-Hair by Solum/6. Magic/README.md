@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[F\] Long-Hair by Solum]
+# [\[Mage-Reskin\] \[F\] Long-Hair by Solum]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[M\] Matthew by Greentea](./)
+# [\[Assassin-Reskin\] \[M\] Matthew by Greentea](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Matthew by Greentea standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [M] Matthew by Greentea standing" />
 
 ## Credits
 

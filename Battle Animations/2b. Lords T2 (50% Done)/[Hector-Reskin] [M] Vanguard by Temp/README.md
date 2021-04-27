@@ -1,6 +1,6 @@
-# [\[Hector-Base\] \[M\] Vanguard by Temp](./)
+# [\[Hector-Reskin\] \[M\] Vanguard by Temp](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Hector-Base] [M] Vanguard by Temp standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] Vanguard by Temp standing" />
 
 ## Credits
 

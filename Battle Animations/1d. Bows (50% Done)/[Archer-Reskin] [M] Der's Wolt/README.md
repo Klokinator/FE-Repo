@@ -1,6 +1,6 @@
-# [\[Archer\] \[M\] Der's Wolt](./)
+# [\[Archer-Reskin\] \[M\] Der's Wolt](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Wolt standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [M] Der's Wolt standing" />
 
 ## Credits
 

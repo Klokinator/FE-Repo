@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[M\] Tag-Team Lyon]
+# [\[Ephraim-Variant\] \[M\] Tag-Team Lyon]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Sniper\] \[F\] Neimi by Seal](./)
+# [\[Sniper-Reskin\] \[F\] Neimi by Seal](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [F] Neimi by Seal standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [F] Neimi by Seal standing" />
 
 ## Credits
 

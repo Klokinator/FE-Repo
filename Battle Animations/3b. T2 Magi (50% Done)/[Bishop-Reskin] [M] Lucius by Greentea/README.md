@@ -1,6 +1,6 @@
-# [\[Bishop-Base\] \[M\] Lucius by Greentea](./)
+# [\[Bishop-Reskin\] \[M\] Lucius by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Bishop-Base] [M] Lucius by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Bishop-Reskin] [M] Lucius by Greentea standing" />
 
 ## Credits
 

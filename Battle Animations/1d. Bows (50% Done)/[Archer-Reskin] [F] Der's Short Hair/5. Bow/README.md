@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Der's Short Hair]
+# [\[Archer-Reskin\] \[F\] Der's Short Hair]
 
 ## Credit
 

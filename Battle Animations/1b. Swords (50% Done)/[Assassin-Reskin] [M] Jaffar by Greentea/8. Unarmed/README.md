@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar by Greentea]
+# [\[Assassin-Reskin\] \[M\] Jaffar by Greentea]
 
 ## Credit
 

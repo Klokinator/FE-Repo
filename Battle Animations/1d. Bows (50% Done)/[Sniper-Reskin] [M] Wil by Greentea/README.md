@@ -1,6 +1,6 @@
-# [\[Sniper\] \[M\] Wil by Greentea](./)
+# [\[Sniper-Reskin\] \[M\] Wil by Greentea](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [M] Wil by Greentea standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [M] Wil by Greentea standing" />
 
 ## Credits
 

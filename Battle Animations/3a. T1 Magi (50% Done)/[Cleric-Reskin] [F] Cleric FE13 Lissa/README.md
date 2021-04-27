@@ -1,6 +1,6 @@
-# [\[Cleric-Base\] \[F\] Cleric FE13 Lissa](./)
+# [\[Cleric-Reskin\] \[F\] Cleric FE13 Lissa](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Base] [F] Cleric FE13 Lissa standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Cleric FE13 Lissa standing" />
 
 ## Credits
 

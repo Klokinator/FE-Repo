@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Leila by Greentea]
+# [\[Assassin-Reskin\] \[F\] Leila by Greentea]
 
 ## Credit
 

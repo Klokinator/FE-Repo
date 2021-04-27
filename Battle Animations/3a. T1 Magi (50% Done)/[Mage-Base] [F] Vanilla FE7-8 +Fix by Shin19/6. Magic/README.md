@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[F\] FE7-8 Vanilla +Fix by Shin19]
+# [\[Mage-Base\] \[F\] Vanilla FE7-8 +Fix by Shin19]
 
 ## Credit
 

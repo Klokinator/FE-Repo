@@ -1,6 +1,6 @@
-# [\[Cleric-Base\] \[F\] Cleric Long Hair by Yangfly](./)
+# [\[Cleric-Reskin\] \[F\] Cleric Long Hair by Yangfly](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Base] [F] Cleric Long Hair by Yangfly standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Cleric Long Hair by Yangfly standing" />
 
 ## Credits
 

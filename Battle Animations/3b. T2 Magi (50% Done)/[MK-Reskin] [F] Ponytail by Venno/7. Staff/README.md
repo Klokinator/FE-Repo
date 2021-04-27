@@ -1,4 +1,4 @@
-# [\[MK-Base\] \[F\] Ponytail by Venno]
+# [\[MK-Reskin\] \[F\] Ponytail by Venno]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Lyn-Base\] \[F\] FE7if Karla](./)
+# [\[Lyn-Reskin\] \[F\] FE7if Karla](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] FE7if Karla standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] FE7if Karla standing" />
 
 ## Credits
 

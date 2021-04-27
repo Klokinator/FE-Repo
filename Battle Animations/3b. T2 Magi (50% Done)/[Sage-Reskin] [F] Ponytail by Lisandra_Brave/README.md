@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[F\] Ponytail by Lisandra_Brave](./)
+# [\[Sage-Reskin\] \[F\] Ponytail by Lisandra_Brave](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [F] Ponytail by Lisandra_Brave standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [F] Ponytail by Lisandra_Brave standing" />
 
 ## Credits
 

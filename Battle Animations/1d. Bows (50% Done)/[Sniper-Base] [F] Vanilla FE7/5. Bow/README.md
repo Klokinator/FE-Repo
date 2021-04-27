@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Vanilla FE7]
+# [\[Sniper-Base\] \[F\] Vanilla FE7]
 
 ## Credit
 

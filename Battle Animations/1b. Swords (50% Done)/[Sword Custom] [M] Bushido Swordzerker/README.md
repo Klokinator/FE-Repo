@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[M\] Bushido Swordzerker](./)
+# [\[Sword Custom\] \[M\] Bushido Swordzerker](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [M] Bushido Swordzerker standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Bushido Swordzerker standing" />
 
 ## Credits
 

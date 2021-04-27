@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[M\] Guy by Eldritch](./)
+# [\[Swordmaster-Reskin\] \[M\] Guy by Eldritch](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Guy by Eldritch standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Guy by Eldritch standing" />
 
 ## Credits
 

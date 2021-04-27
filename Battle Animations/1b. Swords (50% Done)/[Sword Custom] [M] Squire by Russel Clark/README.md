@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[M\] Squire by Russel Clark](./)
+# [\[Sword Custom\] \[M\] Squire by Russel Clark](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [M] Squire by Russel Clark standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Squire by Russel Clark standing" />
 
 ## Credits
 

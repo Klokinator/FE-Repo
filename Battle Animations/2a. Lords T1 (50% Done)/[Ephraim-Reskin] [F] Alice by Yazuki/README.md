@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[F\] Alice by Yazuki](./)
+# [\[Ephraim-Reskin\] \[F\] Alice by Yazuki](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [F] Alice by Yazuki standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Reskin] [F] Alice by Yazuki standing" />
 
 ## Credits
 

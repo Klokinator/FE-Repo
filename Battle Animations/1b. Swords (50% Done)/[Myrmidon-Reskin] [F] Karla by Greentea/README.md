@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[F\] Karla by Greentea](./)
+# [\[Myrmidon-Reskin\] \[F\] Karla by Greentea](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Karla by Greentea standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Karla by Greentea standing" />
 
 ## Credits
 

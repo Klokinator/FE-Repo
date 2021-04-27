@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Cleric Vanilla Serra +Sword]
+# [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword]
 
 ## Credit
 

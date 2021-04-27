@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[M\] FE7if Ash Double-Lance]
+# [\[Ephraim-Reskin\] \[M\] FE7if Ash Double-Lance]
 
 ## Credit
 

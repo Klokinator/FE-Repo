@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[M\] Great Lord Eliwood by Glenwing](./)
+# [\[Ephraim-Reskin\] \[M\] Great Lord Eliwood by Glenwing](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Base] [M] Great Lord Eliwood by Glenwing standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Reskin] [M] Great Lord Eliwood by Glenwing standing" />
 
 ## Credits
 

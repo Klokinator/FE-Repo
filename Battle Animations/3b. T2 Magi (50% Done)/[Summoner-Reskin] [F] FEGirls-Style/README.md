@@ -1,6 +1,6 @@
-# [\[Summoner-Base\] \[F\] FEGirls-Style](./)
+# [\[Summoner-Reskin\] \[F\] FEGirls-Style](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Summoner-Base] [F] FEGirls-Style standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Summoner-Reskin] [F] FEGirls-Style standing" />
 
 ## Credits
 

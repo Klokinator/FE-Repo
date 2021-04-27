@@ -1,6 +1,6 @@
-# [\[Rogue-Base\] \[F\] Repal +Staff by Feaw](./)
+# [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Base] [F] Repal +Staff by Feaw standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff by Feaw standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[F\] Karla by Greentea]
+# [\[Swordmaster-Reskin\] \[F\] Karla by Greentea]
 
 ## Credit
 

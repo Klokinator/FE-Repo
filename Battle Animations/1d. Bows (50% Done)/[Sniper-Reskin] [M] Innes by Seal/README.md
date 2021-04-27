@@ -1,6 +1,6 @@
-# [\[Sniper\] \[M\] Innes by Seal](./)
+# [\[Sniper-Reskin\] \[M\] Innes by Seal](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [M] Innes by Seal standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [M] Innes by Seal standing" />
 
 ## Credits
 

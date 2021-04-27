@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[F\] Alice by Yazuki]
+# [\[Ephraim-Reskin\] \[F\] Alice by Yazuki]
 
 ## Credit
 

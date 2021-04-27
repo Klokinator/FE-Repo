@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[F\] Marisa by Redbean]
+# [\[Swordmaster-Reskin\] \[F\] Marisa by Redbean]
 
 ## Credit
 

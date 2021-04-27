@@ -1,6 +1,6 @@
-# [\[Mage-Base\] \[M\] Hatless Hybrid by GabrielKnight](./)
+# [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Base] [M] Hatless Hybrid by GabrielKnight standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Reskin] [M] Hatless Hybrid by GabrielKnight standing" />
 
 ## Credits
 

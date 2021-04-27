@@ -1,6 +1,6 @@
-# [\[Troubadour-Base\] \[F\] FE7-Style Repal +Weapons](./)
+# [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Base] [F] FE7-Style Repal +Weapons standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Reskin] [F] FE7-Style Repal +Weapons standing" />
 
 ## Credits
 

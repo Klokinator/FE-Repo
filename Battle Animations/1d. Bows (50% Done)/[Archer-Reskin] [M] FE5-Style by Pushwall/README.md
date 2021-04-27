@@ -1,6 +1,6 @@
-# [\[Archer\] \[M\] FE5-Style by Pushwall](./)
+# [\[Archer-Reskin\] \[M\] FE5-Style by Pushwall](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [M] FE5-Style by Pushwall standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [M] FE5-Style by Pushwall standing" />
 
 ## Credits
 

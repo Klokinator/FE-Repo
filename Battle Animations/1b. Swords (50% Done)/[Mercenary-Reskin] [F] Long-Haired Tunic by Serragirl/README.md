@@ -1,6 +1,6 @@
-# [\[Mercenary-Case\] \[F\] Long-Haired Tunic by Serragirl](./)
+# [\[Mercenary-Reskin\] \[F\] Long-Haired Tunic by Serragirl](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Case] [F] Long-Haired Tunic by Serragirl standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [F] Long-Haired Tunic by Serragirl standing" />
 
 ## Credits
 

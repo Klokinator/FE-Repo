@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Der's Twintails]
+# [\[Archer-Reskin\] \[F\] Der's Twintails]
 
 ## Credit
 

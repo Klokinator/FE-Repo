@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[F\] TLP's Karina Fencer]
+# [\[Sword Custom\] \[F\] TLP's Karina Fencer]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Druid-Base\] \[M\] Hoodless by JeyTheCount](./)
+# [\[Druid-Reskin\] \[M\] Hoodless by JeyTheCount](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Druid-Base] [M] Hoodless by JeyTheCount standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Druid-Reskin] [M] Hoodless by JeyTheCount standing" />
 
 ## Credits
 

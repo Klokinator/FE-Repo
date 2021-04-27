@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[F\] Long-Haired by Maiser6]
+# [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6]
 
 ## Credit
 

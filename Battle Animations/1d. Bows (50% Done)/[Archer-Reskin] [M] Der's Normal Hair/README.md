@@ -1,6 +1,6 @@
-# [\[Archer\] \[M\] Der's Normal Hair](./)
+# [\[Archer-Reskin\] \[M\] Der's Normal Hair](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Normal Hair standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [M] Der's Normal Hair standing" />
 
 ## Credits
 

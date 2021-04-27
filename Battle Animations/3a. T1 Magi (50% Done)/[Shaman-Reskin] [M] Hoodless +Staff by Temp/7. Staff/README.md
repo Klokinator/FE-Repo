@@ -1,4 +1,4 @@
-# [\[Shaman-Base\] \[M\] Hoodless +Staff by Temp]
+# [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp]
 
 ## Credit
 

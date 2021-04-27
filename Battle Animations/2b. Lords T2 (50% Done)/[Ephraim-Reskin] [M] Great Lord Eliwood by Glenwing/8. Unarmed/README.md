@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[M\] Great Lord Eliwood by Glenwing]
+# [\[Ephraim-Reskin\] \[M\] Great Lord Eliwood by Glenwing]
 
 ## Credit
 

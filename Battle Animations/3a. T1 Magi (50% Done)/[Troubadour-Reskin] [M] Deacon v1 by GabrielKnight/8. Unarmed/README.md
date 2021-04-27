@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[M\] Deacon v1 by GabrielKnight]
+# [\[Troubadour-Reskin\] \[M\] Deacon v1 by GabrielKnight]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Archer\] \[M\] Caped Variant by Yangfly]
+# [\[Archer-Reskin\] \[M\] Caped Variant by Yangfly]
 
 ## Credit
 

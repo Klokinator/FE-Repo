@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[F\] Repal +Staff by Feaw]
+# [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw]
 
 ## Credit
 

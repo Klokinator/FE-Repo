@@ -1,6 +1,6 @@
-# [\[Hector Custom\] \[M\] Brave Hector Repal by Sax-Marine](./)
+# [\[Hector-Custom\] \[M\] Brave Hector Repal by Sax-Marine](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Hector Custom] [M] Brave Hector Repal by Sax-Marine standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Hector-Custom] [M] Brave Hector Repal by Sax-Marine standing" />
 
 ## Credits
 

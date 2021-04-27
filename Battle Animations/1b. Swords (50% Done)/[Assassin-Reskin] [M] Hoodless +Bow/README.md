@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[M\] Hoodless +Bow](./)
+# [\[Assassin-Reskin\] \[M\] Hoodless +Bow](./)
 
-<img src="./1.%20Sword%20(Fixed)/Sword_000.png" alt="[Assassin-Base] [M] Hoodless +Bow standing" />
+<img src="./1.%20Sword%20(Fixed)/Sword_000.png" alt="[Assassin-Reskin] [M] Hoodless +Bow standing" />
 
 ## Credits
 

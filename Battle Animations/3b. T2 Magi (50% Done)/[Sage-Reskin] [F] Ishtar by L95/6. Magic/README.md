@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[F\] Ishtar by L95]
+# [\[Sage-Reskin\] \[F\] Ishtar by L95]
 
 ## Credit
 

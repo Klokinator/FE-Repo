@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[F\] FE7if Katt]
+# [\[Rogue-Reskin\] \[F\] FE7if Katt]
 
 ## Credit
 

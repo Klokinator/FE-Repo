@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[F\] Lilina by Mikey Seregon]
+# [\[Mage-Reskin\] \[F\] Lilina by Mikey Seregon]
 
 ## Credit
 

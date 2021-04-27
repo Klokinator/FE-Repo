@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Priest Buff Generic by Vilkalizer]
+# [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer]
 
 ## Credit
 

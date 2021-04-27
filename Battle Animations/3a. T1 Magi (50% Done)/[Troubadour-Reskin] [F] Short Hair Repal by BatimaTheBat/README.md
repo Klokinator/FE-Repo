@@ -1,6 +1,6 @@
-# [\[Troubadour-Base\] \[F\] Short Hair Repal by BatimaTheBat](./)
+# [\[Troubadour-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Base] [F] Short Hair Repal by BatimaTheBat standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Reskin] [F] Short Hair Repal by BatimaTheBat standing" />
 
 ## Credits
 

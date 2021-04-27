@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[F\] Karla by Greentea](./)
+# [\[Swordmaster-Reskin\] \[F\] Karla by Greentea](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [F] Karla by Greentea standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Karla by Greentea standing" />
 
 ## Credits
 

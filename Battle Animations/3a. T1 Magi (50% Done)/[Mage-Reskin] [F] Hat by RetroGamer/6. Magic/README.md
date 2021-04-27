@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[F\] Hat by RetroGamer]
+# [\[Mage-Reskin\] \[F\] Hat by RetroGamer]
 
 ## Credit
 

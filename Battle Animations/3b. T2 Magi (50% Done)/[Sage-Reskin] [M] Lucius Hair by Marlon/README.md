@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[M\] Lucius Hair by Marlon](./)
+# [\[Sage-Reskin\] \[M\] Lucius Hair by Marlon](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [M] Lucius Hair by Marlon standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Lucius Hair by Marlon standing" />
 
 ## Credits
 

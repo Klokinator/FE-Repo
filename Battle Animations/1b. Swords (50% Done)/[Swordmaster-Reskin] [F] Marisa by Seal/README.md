@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[F\] Marisa by Seal](./)
+# [\[Swordmaster-Reskin\] \[F\] Marisa by Seal](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [F] Marisa by Seal standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Marisa by Seal standing" />
 
 ## Credits
 

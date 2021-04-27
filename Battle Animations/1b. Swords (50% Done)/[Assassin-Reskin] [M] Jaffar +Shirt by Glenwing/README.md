@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[M\] Jaffar +Shirt by Glenwing](./)
+# [\[Assassin-Reskin\] \[M\] Jaffar +Shirt by Glenwing](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Jaffar +Shirt by Glenwing standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [M] Jaffar +Shirt by Glenwing standing" />
 
 ## Credits
 

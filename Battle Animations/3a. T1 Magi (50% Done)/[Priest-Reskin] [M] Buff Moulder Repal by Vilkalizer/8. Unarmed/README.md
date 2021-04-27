@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Priest Buff Moulder Repal by Vilkalizer]
+# [\[Priest-Reskin\] \[M\] Buff Moulder Repal by Vilkalizer]
 
 ## Credit
 

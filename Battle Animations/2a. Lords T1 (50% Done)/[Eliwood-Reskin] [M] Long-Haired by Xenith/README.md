@@ -1,6 +1,6 @@
-# [\[Eliwood-Base\] \[M\] Long-Haired by Xenith](./)
+# [\[Eliwood-Reskin\] \[M\] Long-Haired by Xenith](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Long-Haired by Xenith standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] Long-Haired by Xenith standing" />
 
 ## Credits
 

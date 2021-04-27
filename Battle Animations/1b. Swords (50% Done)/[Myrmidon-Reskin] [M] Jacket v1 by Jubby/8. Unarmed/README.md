@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Jacket v1 by Jubby]
+# [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby]
 
 ## Credit
 

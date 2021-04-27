@@ -1,4 +1,4 @@
-# [\[Valkyrie-Base\] \[F\] Ursula by Greentea]
+# [\[Valkyrie-Reskin\] \[F\] Ursula by Greentea]
 
 ## Credit
 

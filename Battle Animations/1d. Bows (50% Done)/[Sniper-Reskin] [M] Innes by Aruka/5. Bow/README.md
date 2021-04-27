@@ -1,4 +1,4 @@
-# [\[Sniper\] \[M\] Innes by Aruka]
+# [\[Sniper-Reskin\] \[M\] Innes by Aruka]
 
 ## Credit
 

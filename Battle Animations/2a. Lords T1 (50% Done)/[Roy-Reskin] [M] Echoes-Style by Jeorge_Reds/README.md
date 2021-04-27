@@ -1,6 +1,6 @@
-# [\[Roy-Base\] \[M\] Echoes-Style by Jeorge_Reds](./)
+# [\[Roy-Reskin\] \[M\] Echoes-Style by Jeorge_Reds](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Base] [M] Echoes-Style by Jeorge_Reds standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Echoes-Style by Jeorge_Reds standing" />
 
 ## Credits
 

@@ -1,6 +1,6 @@
-# [\[Cleric-Base\] \[F\] Cleric Egyptian](./)
+# [\[Cleric-Reskin\] \[F\] Cleric Egyptian](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Base] [F] Cleric Egyptian standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Cleric Egyptian standing" />
 
 ## Credits
 

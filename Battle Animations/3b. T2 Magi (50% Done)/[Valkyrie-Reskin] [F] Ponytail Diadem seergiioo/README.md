@@ -1,6 +1,6 @@
-# [\[Valkyrie-Base\] \[F\] Ponytail Diadem seergiioo](./)
+# [\[Valkyrie-Reskin\] \[F\] Ponytail Diadem seergiioo](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Base] [F] Ponytail Diadem seergiioo standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] Ponytail Diadem seergiioo standing" />
 
 ## Credits
 

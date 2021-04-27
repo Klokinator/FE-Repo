@@ -1,6 +1,6 @@
-# [\[Sniper\] \[F\] Quiver by Nuramon](./)
+# [\[Sniper-Reskin\] \[F\] Quiver by Nuramon](./)
 
-<img src="./5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper] [F] Quiver by Nuramon standing" />
+<img src="./5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper-Reskin] [F] Quiver by Nuramon standing" />
 
 ## Credits
 

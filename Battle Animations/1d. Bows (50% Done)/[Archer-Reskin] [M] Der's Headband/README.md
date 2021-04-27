@@ -1,6 +1,6 @@
-# [\[Archer\] \[M\] Der's Headband](./)
+# [\[Archer-Reskin\] \[M\] Der's Headband](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Headband standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [M] Der's Headband standing" />
 
 ## Credits
 

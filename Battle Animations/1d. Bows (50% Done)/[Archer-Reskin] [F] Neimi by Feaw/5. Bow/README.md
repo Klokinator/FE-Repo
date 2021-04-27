@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Neimi by Feaw]
+# [\[Archer-Reskin\] \[F\] Neimi by Feaw]
 
 ## Credit
 

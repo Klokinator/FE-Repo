@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[F\] Long-Haired by Circleseverywhere]
+# [\[Ephraim-Reskin\] \[F\] Long-Haired by Circleseverywhere]
 
 ## Credit
 

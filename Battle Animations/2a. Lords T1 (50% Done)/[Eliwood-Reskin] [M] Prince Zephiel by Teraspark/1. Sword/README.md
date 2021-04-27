@@ -1,4 +1,4 @@
-# [\[Eliwood-Base\] \[M\] Prince Zephiel by Teraspark]
+# [\[Eliwood-Reskin\] \[M\] Prince Zephiel by Teraspark]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Eirika-Base\] \[F\] FE7if Isadora Doubleblade]
+# [\[Eirika-Reskin\] \[F\] FE7if Isadora Doubleblade]
 
 ## Credit
 

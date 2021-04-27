@@ -1,6 +1,6 @@
-# [\[Sniper-Base\] \[F\] Adventurer by ZoramineFae](./)
+# [\[Sniper-Reskin\] \[F\] Adventurer by ZoramineFae](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Base] [F] Adventurer by ZoramineFae standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [F] Adventurer by ZoramineFae standing" />
 
 ## Credits
 

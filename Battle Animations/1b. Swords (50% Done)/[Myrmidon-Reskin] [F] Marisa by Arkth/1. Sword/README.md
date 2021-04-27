@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[F\] Marisa by Arkth]
+# [\[Myrmidon-Reskin\] \[F\] Marisa by Arkth]
 
 ## Credit
 

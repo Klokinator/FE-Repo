@@ -1,6 +1,6 @@
-# [\[Ephraim Custom\] \[F\] Heavy Infantry by Nuramon](./)
+# [\[Ephraim-Custom\] \[F\] Heavy Infantry by Nuramon](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Ephraim Custom] [F] Heavy Infantry by Nuramon standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Custom] [F] Heavy Infantry by Nuramon standing" />
 
 ## Credits
 

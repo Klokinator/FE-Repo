@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Priest Bald by Vilkalizer]
+# [\[Priest-Reskin\] \[M\] Bald by Vilkalizer]
 
 ## Credit
 

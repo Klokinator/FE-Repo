@@ -1,6 +1,6 @@
-# [\[Dancer\] \[F\] Tethys +Weapons](./)
+# [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Dancer] [F] Tethys +Weapons standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Dancer-Base] [F] Vanilla FE8 Tethys +Weapons standing" />
 
 ## Credits
 

@@ -1,6 +1,6 @@
-# [\[Lyn-Base\] \[M\] Awakening-Style Myrmidon Alt](./)
+# [\[Lyn-Reskin\] \[M\] Awakening-Style Myrmidon Alt](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [M] Awakening-Style Myrmidon Alt standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [M] Awakening-Style Myrmidon Alt standing" />
 
 ## Credits
 

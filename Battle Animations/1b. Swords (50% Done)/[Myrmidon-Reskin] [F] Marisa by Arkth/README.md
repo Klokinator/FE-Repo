@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[F\] Marisa by Arkth](./)
+# [\[Myrmidon-Reskin\] \[F\] Marisa by Arkth](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Marisa by Arkth standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Marisa by Arkth standing" />
 
 ## Credits
 

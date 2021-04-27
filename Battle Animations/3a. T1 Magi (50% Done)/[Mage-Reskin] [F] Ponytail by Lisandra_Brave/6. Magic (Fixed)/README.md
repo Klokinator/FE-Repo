@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[F\] Ponytail by Lisandra_Brave]
+# [\[Mage-Reskin\] \[F\] Ponytail by Lisandra_Brave]
 
 ## Credit
 

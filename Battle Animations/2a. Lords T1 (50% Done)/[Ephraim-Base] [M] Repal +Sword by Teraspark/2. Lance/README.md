@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[M\] Repalette +Sword by Teraspark]
+# [\[Ephraim-Base\] \[M\] Repal +Sword by Teraspark]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Bard-Nils\] \[F\] Bard Nils](./)
+# [\[Bard-Reskin\] \[F\] Nils Generic](./)
 
-<img src="./8.%20Refresh/Refresh_000.png" alt="[Bard-Nils] [F] Bard Nils standing" />
+<img src="./8.%20Refresh/Refresh_000.png" alt="[Bard-Reskin] [F] Nils Generic standing" />
 
 ## Credits
 

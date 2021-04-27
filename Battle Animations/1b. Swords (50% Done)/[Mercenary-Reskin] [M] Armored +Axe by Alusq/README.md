@@ -1,6 +1,6 @@
-# [\[Mercenary-Base\] \[M\] Armored +Axe by Alusq](./)
+# [\[Mercenary-Reskin\] \[M\] Armored +Axe by Alusq](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Armored +Axe by Alusq standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [M] Armored +Axe by Alusq standing" />
 
 ## Credits
 

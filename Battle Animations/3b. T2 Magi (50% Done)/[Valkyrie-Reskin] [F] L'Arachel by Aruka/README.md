@@ -1,6 +1,6 @@
-# [\[Valkyrie-Base\] \[F\] L'Arachel by Aruka](./)
+# [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka](./)
 
-<img src="./6.%20Magic%20(Fixed)/Magic_000.png" alt="[Valkyrie-Base] [F] L'Arachel by Aruka standing" />
+<img src="./6.%20Magic%20(Fixed)/Magic_000.png" alt="[Valkyrie-Reskin] [F] L'Arachel by Aruka standing" />
 
 ## Credits
 

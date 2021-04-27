@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Legault by Greentea]
+# [\[Assassin-Reskin\] \[M\] Legault by Greentea]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Sniper\] \[M\] Innes by Vilkalizer](./)
+# [\[Sniper-Reskin\] \[M\] Innes by Vilkalizer](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [M] Innes by Vilkalizer standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [M] Innes by Vilkalizer standing" />
 
 ## Credits
 

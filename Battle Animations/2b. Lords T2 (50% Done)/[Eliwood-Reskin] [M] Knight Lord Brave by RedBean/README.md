@@ -1,6 +1,6 @@
-# [\[Eliwood-Base\] \[M\] Knight Lord Brave by RedBean](./)
+# [\[Eliwood-Reskin\] \[M\] Knight Lord Brave by RedBean](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Knight Lord Brave by RedBean standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] Knight Lord Brave by RedBean standing" />
 
 ## Credits
 

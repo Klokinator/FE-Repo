@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[M\] Erk by Greentea](./)
+# [\[Sage-Reskin\] \[M\] Erk by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [M] Erk by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Erk by Greentea standing" />
 
 ## Credits
 

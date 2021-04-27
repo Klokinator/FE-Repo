@@ -1,6 +1,6 @@
-# [\[Elffin-Base\] \[M\] Fancy +Magic by MeatOfJustice](./)
+# [\[Bard-Base\] \[M\] Elffin Fancy +Magic](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Elffin-Base] [M] Fancy +Magic by MeatOfJustice standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin Fancy +Magic standing" />
 
 ## Credits
 

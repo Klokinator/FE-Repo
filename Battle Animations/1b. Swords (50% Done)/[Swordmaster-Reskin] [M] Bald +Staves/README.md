@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[M\] Bald +Staves](./)
+# [\[Swordmaster-Reskin\] \[M\] Bald +Staves](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Bald +Staves standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Bald +Staves standing" />
 
 ## Credits
 

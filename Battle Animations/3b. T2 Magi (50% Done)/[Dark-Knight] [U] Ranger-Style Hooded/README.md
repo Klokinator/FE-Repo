@@ -1,6 +1,6 @@
-# [\[Ranger-Type\] \[U\] 3DS Dark Knight Hooded](./)
+# [\[Dark-Knight\] \[U\] Ranger-Style Hooded](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Ranger-Type] [U] 3DS Dark Knight Hooded standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Dark-Knight] [U] Ranger-Style Hooded standing" />
 
 ## Credits
 

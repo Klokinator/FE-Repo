@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Generic +Basic Shield]
+# [\[Hero-Reskin\] \[F\] Generic +Basic Shield]
 
 ## Credit
 

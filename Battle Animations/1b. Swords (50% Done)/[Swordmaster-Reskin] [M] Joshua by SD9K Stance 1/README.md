@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[M\] Joshua by SD9K Stance 1](./)
+# [\[Swordmaster-Reskin\] \[M\] Joshua by SD9K Stance 1](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Joshua by SD9K Stance 1 standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Joshua by SD9K Stance 1 standing" />
 
 ## Credits
 

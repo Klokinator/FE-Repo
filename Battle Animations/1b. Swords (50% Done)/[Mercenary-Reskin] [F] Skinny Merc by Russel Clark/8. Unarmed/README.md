@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[F\] Skinny Merc by Russel Clark]
+# [\[Mercenary-Reskin\] \[F\] Skinny Merc by Russel Clark]
 
 ## Credit
 

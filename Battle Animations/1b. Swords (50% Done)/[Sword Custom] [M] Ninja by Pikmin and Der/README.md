@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[M\] Ninja by Pikmin and Der](./)
+# [\[Sword Custom\] \[M\] Ninja by Pikmin and Der](./)
 
-<img src="./1.%20Knife/Knife_000.png" alt="[Custom Sword] [M] Ninja by Pikmin and Der standing" />
+<img src="./1.%20Knife/Knife_000.png" alt="[Sword Custom] [M] Ninja by Pikmin and Der standing" />
 
 ## Credits
 

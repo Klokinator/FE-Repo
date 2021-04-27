@@ -1,6 +1,6 @@
-# [\[Custom Lord\] \[M\] Ike Ranger by Khrene Kleaver](./)
+# [\[Lord Custom\] \[M\] Ike Ranger by Khrene Kleaver](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Lord] [M] Ike Ranger by Khrene Kleaver standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lord Custom] [M] Ike Ranger by Khrene Kleaver standing" />
 
 ## Credits
 

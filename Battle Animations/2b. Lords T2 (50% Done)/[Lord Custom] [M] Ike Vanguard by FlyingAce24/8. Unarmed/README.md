@@ -1,4 +1,4 @@
-# [\[Custom Lord\] \[M\] Ike Vanguard by FlyingAce24]
+# [\[Lord Custom\] \[M\] Ike Vanguard by FlyingAce24]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Troubadour-Base\] \[F\] Nomad-Style by seergiioo](./)
+# [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo](./)
 
-<img src="./6.%20Magic%20(Staff)/Magic_000.png" alt="[Troubadour-Base] [F] Nomad-Style by seergiioo standing" />
+<img src="./6.%20Magic%20(Staff)/Magic_000.png" alt="[Troubadour-Reskin] [F] Nomad-Style by seergiioo standing" />
 
 ## Credits
 

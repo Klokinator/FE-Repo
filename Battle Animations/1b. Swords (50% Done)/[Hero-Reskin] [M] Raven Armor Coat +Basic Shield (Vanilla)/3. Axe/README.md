@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[M\] Raven Armor Coat +Basic Shield \(Vanilla\)]
+# [\[Hero-Reskin\] \[M\] Raven Armor Coat +Basic Shield \(Vanilla\)]
 
 ## Credit
 

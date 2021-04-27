@@ -1,6 +1,6 @@
-# [\[Pupil-Base\] \[F\] Variant by Pikmin](./)
+# [\[Pupil-Reskin\] \[F\] Variant by Pikmin](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Pupil-Base] [F] Variant by Pikmin standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Pupil-Reskin] [F] Variant by Pikmin standing" />
 
 ## Credits
 

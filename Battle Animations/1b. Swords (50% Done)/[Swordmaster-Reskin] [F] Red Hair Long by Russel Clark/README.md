@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[F\] Red Hair Long by Russel Clark](./)
+# [\[Swordmaster-Reskin\] \[F\] Red Hair Long by Russel Clark](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [F] Red Hair Long by Russel Clark standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Red Hair Long by Russel Clark standing" />
 
 ## Credits
 

@@ -1,6 +1,6 @@
-# [\[Eirika-Base\] \[F\] Repalette FEH-Style](./)
+# [\[Eirika-Base\] \[F\] Repal FEH-Style](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Repalette FEH-Style standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Repal FEH-Style standing" />
 
 ## Credits
 

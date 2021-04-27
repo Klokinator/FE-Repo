@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[M\] Pent by Arkth](./)
+# [\[Sage-Reskin\] \[M\] Pent by Arkth](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [M] Pent by Arkth standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Pent by Arkth standing" />
 
 ## Credits
 

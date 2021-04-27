@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Rebecca by Greentea]
+# [\[Sniper-Reskin\] \[F\] Rebecca by Greentea]
 
 ## Credit
 

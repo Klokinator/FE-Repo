@@ -1,4 +1,4 @@
-# [\[Sniper\] \[M\] Innes by Vilkalizer]
+# [\[Sniper-Reskin\] \[M\] Innes by Vilkalizer]
 
 ## Credit
 

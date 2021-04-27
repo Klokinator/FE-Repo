@@ -1,4 +1,4 @@
-# [\[Hector-Base\] \[F\] FE7if Milia]
+# [\[Hector-Reskin\] \[F\] FE7if Milia]
 
 ## Credit
 

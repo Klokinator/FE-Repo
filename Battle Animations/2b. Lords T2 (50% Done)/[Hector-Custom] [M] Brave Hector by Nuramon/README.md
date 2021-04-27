@@ -1,6 +1,6 @@
-# [\[Hector Custom\] \[M\] Brave Hector by Nuramon](./)
+# [\[Hector-Custom\] \[M\] Brave Hector by Nuramon](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Hector Custom] [M] Brave Hector by Nuramon standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Hector-Custom] [M] Brave Hector by Nuramon standing" />
 
 ## Credits
 

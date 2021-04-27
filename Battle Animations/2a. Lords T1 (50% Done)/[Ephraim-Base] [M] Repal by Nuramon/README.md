@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[M\] Repalette by Nuramon](./)
+# [\[Ephraim-Base\] \[M\] Repal by Nuramon](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] Repalette by Nuramon standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] Repal by Nuramon standing" />
 
 ## Credits
 

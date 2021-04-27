@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[F\] Samurai - Taijutsu Rogue](./)
+# [\[Sword Custom\] \[F\] Samurai - Taijutsu Rogue](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Samurai - Taijutsu Rogue standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Samurai - Taijutsu Rogue standing" />
 
 ## Credits
 

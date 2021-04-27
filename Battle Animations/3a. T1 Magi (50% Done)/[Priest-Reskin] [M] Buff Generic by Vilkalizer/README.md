@@ -1,6 +1,6 @@
-# [\[Priest-Base\] \[M\] Priest Buff Generic by Vilkalizer](./)
+# [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer](./)
 
-<img src="./7.%20Staff%20(Buff%20Generic%20Priest)/Staff_000.png" alt="[Priest-Base] [M] Priest Buff Generic by Vilkalizer standing" />
+<img src="./7.%20Staff%20(Buff%20Generic%20Priest)/Staff_000.png" alt="[Priest-Reskin] [M] Buff Generic by Vilkalizer standing" />
 
 ## Credits
 

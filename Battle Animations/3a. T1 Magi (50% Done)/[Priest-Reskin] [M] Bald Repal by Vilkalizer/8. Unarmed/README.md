@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Priest Bald Repal by Vilkalizer]
+# [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer]
 
 ## Credit
 

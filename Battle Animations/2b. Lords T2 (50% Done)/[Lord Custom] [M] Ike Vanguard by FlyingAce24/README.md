@@ -1,6 +1,6 @@
-# [\[Custom Lord\] \[M\] Ike Vanguard by FlyingAce24](./)
+# [\[Lord Custom\] \[M\] Ike Vanguard by FlyingAce24](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Lord] [M] Ike Vanguard by FlyingAce24 standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lord Custom] [M] Ike Vanguard by FlyingAce24 standing" />
 
 ## Credits
 

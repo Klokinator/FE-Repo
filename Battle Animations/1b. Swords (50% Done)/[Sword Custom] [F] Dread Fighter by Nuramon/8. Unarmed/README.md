@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[F\] Dread Fighter by Nuramon]
+# [\[Sword Custom\] \[F\] Dread Fighter by Nuramon]
 
 ## Credit
 

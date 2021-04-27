@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[F\] Repal +Staff \(Community Effort\)]
+# [\[Rogue-Reskin\] \[F\] Repal +Staff \(Community Effort\)]
 
 ## Credit
 

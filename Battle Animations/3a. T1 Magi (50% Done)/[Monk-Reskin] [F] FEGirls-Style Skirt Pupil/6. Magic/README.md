@@ -1,4 +1,4 @@
-# [\[Monk-Base\] \[F\] FEGirls-Style Skirt Pupil]
+# [\[Monk-Reskin\] \[F\] FEGirls-Style Skirt Pupil]
 
 ## Credit
 

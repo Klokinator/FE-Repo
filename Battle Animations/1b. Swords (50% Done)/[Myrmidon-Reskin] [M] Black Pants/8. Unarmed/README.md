@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Black Pants]
+# [\[Myrmidon-Reskin\] \[M\] Black Pants]
 
 ## Credit
 

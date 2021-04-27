@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[F\] Long-Haired by Maiser6](./)
+# [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Long-Haired by Maiser6 standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Long-Haired by Maiser6 standing" />
 
 ## Credits
 

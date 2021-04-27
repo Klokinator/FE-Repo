@@ -1,6 +1,6 @@
-# [\[Lyn-Base\] \[F\] Short Hair by Zoisite](./)
+# [\[Lyn-Reskin\] \[F\] Short Hair by Zoisite](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] Short Hair by Zoisite standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] Short Hair by Zoisite standing" />
 
 ## Credits
 

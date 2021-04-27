@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Cleric FE13-Style]
+# [\[Cleric-Reskin\] \[F\] Cleric FE13-Style]
 
 ## Credit
 

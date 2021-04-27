@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[M\] Deacon v2 Repal +Weapons]
+# [\[Troubadour-Reskin\] \[M\] Deacon v2 Repal +Weapons]
 
 ## Credit
 

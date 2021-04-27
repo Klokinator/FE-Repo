@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[M\] FE6-Style with Boots by Greentea]
+# [\[Sage-Reskin\] \[M\] FE6-Style with Boots by Greentea]
 
 ## Credit
 

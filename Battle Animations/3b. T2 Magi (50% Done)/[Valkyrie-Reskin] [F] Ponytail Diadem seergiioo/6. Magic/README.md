@@ -1,4 +1,4 @@
-# [\[Valkyrie-Base\] \[F\] Ponytail Diadem seergiioo]
+# [\[Valkyrie-Reskin\] \[F\] Ponytail Diadem seergiioo]
 
 ## Credit
 

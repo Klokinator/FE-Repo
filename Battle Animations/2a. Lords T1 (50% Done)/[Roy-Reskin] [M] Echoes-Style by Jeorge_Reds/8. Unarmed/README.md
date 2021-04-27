@@ -1,4 +1,4 @@
-# [\[Roy-Base\] \[M\] Echoes-Style by Jeorge_Reds]
+# [\[Roy-Reskin\] \[M\] Echoes-Style by Jeorge_Reds]
 
 ## Credit
 

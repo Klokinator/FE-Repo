@@ -1,4 +1,4 @@
-# [\[Roy-Variant\] \[M\] Squire by Yangfly]
+# [\[Roy-Reskin\] \[M\] Squire by Yangfly]
 
 ## Credit
 

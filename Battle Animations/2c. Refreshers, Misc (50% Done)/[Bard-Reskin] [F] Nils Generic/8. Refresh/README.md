@@ -1,4 +1,4 @@
-# [\[Bard-Nils\] \[F\] Bard Nils]
+# [\[Bard-Reskin\] \[F\] Nils Generic]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Lyn-Base\] \[M\] Blader Myrmidon](./)
+# [\[Lyn-Reskin\] \[M\] Blader Myrmidon](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [M] Blader Myrmidon standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [M] Blader Myrmidon standing" />
 
 ## Credits
 

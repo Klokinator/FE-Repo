@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Ponytail Repal by Feaw]
+# [\[Troubadour-Reskin\] \[F\] Ponytail Repal by Feaw]
 
 ## Credit
 

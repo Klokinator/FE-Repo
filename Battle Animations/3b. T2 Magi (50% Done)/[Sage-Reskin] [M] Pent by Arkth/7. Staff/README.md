@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[M\] Pent by Arkth]
+# [\[Sage-Reskin\] \[M\] Pent by Arkth]
 
 ## Credit
 

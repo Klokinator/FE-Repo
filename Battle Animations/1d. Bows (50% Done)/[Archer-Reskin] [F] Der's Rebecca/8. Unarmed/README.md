@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Der's Rebecca]
+# [\[Archer-Reskin\] \[F\] Der's Rebecca]
 
 ## Credit
 

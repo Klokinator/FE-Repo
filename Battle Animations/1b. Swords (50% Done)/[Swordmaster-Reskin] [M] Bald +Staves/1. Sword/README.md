@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[M\] Bald +Staves]
+# [\[Swordmaster-Reskin\] \[M\] Bald +Staves]
 
 ## Credit
 

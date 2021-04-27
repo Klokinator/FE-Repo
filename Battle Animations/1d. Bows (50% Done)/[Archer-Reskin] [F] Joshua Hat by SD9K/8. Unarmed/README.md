@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Joshua Hat by SD9K]
+# [\[Archer-Reskin\] \[F\] Joshua Hat by SD9K]
 
 ## Credit
 

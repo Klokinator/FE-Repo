@@ -1,4 +1,4 @@
-# [\[Custom Lord\] \[M\] Ike Ranger by Khrene Kleaver]
+# [\[Lord Custom\] \[M\] Ike Ranger by Khrene Kleaver]
 
 ## Credit
 

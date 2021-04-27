@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Der's Ponytail](./)
+# [\[Archer-Reskin\] \[F\] Der's Ponytail](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Ponytail standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Der's Ponytail standing" />
 
 ## Credits
 

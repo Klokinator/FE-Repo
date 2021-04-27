@@ -1,6 +1,6 @@
-# [\[Eirika-Variant\] \[F\] Beta Eirika](./)
+# [\[Eirika-Base\] \[F\] Beta Eirika](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Variant] [F] Beta Eirika standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Beta Eirika standing" />
 
 ## Credits
 

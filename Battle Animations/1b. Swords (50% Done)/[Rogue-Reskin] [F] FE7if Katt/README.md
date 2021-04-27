@@ -1,6 +1,6 @@
-# [\[Rogue-Base\] \[F\] FE7if Katt](./)
+# [\[Rogue-Reskin\] \[F\] FE7if Katt](./)
 
-<img src="./1.%20Sword%20(Short%20Bo%20Staff)/Sword_000.png" alt="[Rogue-Base] [F] FE7if Katt standing" />
+<img src="./1.%20Sword%20(Short%20Bo%20Staff)/Sword_000.png" alt="[Rogue-Reskin] [F] FE7if Katt standing" />
 
 ## Credits
 

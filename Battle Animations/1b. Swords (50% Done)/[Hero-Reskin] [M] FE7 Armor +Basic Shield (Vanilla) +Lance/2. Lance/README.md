@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[M\] FE7 Armor +Basic Shield \(Vanilla\) +Lance]
+# [\[Hero-Reskin\] \[M\] FE7 Armor +Basic Shield \(Vanilla\) +Lance]
 
 ## Credit
 

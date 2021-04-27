@@ -1,4 +1,4 @@
-# [\[Elffin-Type\] \[F\] Magic-Only]
+# [\[Bard-Type\] \[F\] Elffin Magic-Only]
 
 ## Credit
 

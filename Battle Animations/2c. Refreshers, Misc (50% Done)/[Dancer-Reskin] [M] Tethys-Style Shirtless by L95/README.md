@@ -1,6 +1,6 @@
-# [\[Dancer\] \[M\] Dancer by L95](./)
+# [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95](./)
 
-<img src="./8.%20Refresh/Refresh_000.png" alt="[Dancer] [M] Dancer by L95 standing" />
+<img src="./8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [M] Tethys-Style Shirtless by L95 standing" />
 
 ## Credits
 

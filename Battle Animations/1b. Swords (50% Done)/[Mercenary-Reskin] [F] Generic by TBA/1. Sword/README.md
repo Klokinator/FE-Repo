@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[F\] Vanilla-Style by TBA]
+# [\[Mercenary-Reskin\] \[F\] Generic by TBA]
 
 ## Credit
 

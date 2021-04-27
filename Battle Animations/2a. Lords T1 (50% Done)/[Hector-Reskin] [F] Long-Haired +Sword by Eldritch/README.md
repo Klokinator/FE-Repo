@@ -1,6 +1,6 @@
-# [\[Hector-Base\] \[F\] Long-Haired +Sword by Eldritch](./)
+# [\[Hector-Reskin\] \[F\] Long-Haired +Sword by Eldritch](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Hector-Base] [F] Long-Haired +Sword by Eldritch standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [F] Long-Haired +Sword by Eldritch standing" />
 
 ## Credits
 

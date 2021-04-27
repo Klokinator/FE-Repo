@@ -1,4 +1,4 @@
-# [\[Eliwood-Slash\] \[M\] Marth Slash by Caim Van Fang]
+# [\[Eliwood-Variant\] \[M\] Marth Slash by Caim Van Fang]
 
 ## Credit
 

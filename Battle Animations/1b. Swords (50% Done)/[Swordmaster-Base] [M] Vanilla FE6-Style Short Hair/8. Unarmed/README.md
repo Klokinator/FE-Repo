@@ -1,4 +1,4 @@
-# [\[Swordmaster-Base\] \[M\] Vanilla-Style FE6 Short Hair]
+# [\[Swordmaster-Base\] \[M\] Vanilla FE6-Style Short Hair]
 
 ## Credit
 

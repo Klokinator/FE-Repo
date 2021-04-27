@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Joshua Hat]
+# [\[Myrmidon-Reskin\] \[M\] Joshua Hat]
 
 ## Credit
 

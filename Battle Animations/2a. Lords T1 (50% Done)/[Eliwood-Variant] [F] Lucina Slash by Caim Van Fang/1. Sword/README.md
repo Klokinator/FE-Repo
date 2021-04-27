@@ -1,4 +1,4 @@
-# [\[Eliwood-Slash\] \[F\] Lucina Slash by Caim Van Fang]
+# [\[Eliwood-Variant\] \[F\] Lucina Slash by Caim Van Fang]
 
 ## Credit
 

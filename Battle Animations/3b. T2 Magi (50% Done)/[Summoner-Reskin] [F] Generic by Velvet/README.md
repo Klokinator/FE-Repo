@@ -1,6 +1,6 @@
-# [\[Summoner-Base\] \[F\] Generic by Velvet](./)
+# [\[Summoner-Reskin\] \[F\] Generic by Velvet](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Summoner-Base] [F] Generic by Velvet standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Summoner-Reskin] [F] Generic by Velvet standing" />
 
 ## Credits
 

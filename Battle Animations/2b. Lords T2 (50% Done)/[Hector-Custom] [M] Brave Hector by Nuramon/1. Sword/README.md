@@ -1,4 +1,4 @@
-# [\[Hector Custom\] \[M\] Brave Hector by Nuramon]
+# [\[Hector-Custom\] \[M\] Brave Hector by Nuramon]
 
 ## Credit
 

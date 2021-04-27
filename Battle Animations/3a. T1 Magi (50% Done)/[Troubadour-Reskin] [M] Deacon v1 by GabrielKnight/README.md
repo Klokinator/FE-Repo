@@ -1,6 +1,6 @@
-# [\[Troubadour-Base\] \[M\] Deacon v1 by GabrielKnight](./)
+# [\[Troubadour-Reskin\] \[M\] Deacon v1 by GabrielKnight](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Base] [M] Deacon v1 by GabrielKnight standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Reskin] [M] Deacon v1 by GabrielKnight standing" />
 
 ## Credits
 

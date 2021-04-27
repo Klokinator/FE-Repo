@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Nomad-Style by seergiioo]
+# [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo]
 
 ## Credit
 

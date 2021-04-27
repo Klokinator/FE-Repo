@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[F\] Fencer by GabrielKnight](./)
+# [\[Sword Custom\] \[F\] Fencer by GabrielKnight](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Fencer by GabrielKnight standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Fencer by GabrielKnight standing" />
 
 ## Credits
 

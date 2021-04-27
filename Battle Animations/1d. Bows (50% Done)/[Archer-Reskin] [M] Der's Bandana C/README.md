@@ -1,6 +1,6 @@
-# [\[Archer\] \[M\] Der's Bandana C](./)
+# [\[Archer-Reskin\] \[M\] Der's Bandana C](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [M] Der's Bandana C standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [M] Der's Bandana C standing" />
 
 ## Credits
 

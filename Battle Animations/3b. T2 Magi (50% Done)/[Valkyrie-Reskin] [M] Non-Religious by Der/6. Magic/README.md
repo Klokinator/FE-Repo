@@ -1,4 +1,4 @@
-# [\[Valkyrie-Base\] \[M\] Non-Religious by Der]
+# [\[Valkyrie-Reskin\] \[M\] Non-Religious by Der]
 
 ## Credit
 

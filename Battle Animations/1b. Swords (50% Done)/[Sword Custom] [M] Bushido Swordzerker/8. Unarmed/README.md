@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Bushido Swordzerker]
+# [\[Sword Custom\] \[M\] Bushido Swordzerker]
 
 ## Credit
 

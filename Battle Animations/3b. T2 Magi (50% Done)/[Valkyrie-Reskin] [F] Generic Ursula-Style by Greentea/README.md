@@ -1,6 +1,6 @@
-# [\[Valkyrie-Base\] \[F\] Generic Ursula-Style by Greentea](./)
+# [\[Valkyrie-Reskin\] \[F\] Generic Ursula-Style by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Base] [F] Generic Ursula-Style by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] Generic Ursula-Style by Greentea standing" />
 
 ## Credits
 

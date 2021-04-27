@@ -1,6 +1,6 @@
-# [\[Troubadour-Base\] \[F\] Ponytail Repal +Weapons](./)
+# [\[Troubadour-Reskin\] \[F\] Ponytail Repal +Weapons](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Base] [F] Ponytail Repal +Weapons standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Reskin] [F] Ponytail Repal +Weapons standing" />
 
 ## Credits
 

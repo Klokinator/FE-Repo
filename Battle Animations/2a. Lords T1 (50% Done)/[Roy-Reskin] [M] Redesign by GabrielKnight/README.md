@@ -1,6 +1,6 @@
-# [\[Roy-Base\] \[M\] Redesign by GabrielKnight](./)
+# [\[Roy-Reskin\] \[M\] Redesign by GabrielKnight](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Base] [M] Redesign by GabrielKnight standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Redesign by GabrielKnight standing" />
 
 ## Credits
 

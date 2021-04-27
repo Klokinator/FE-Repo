@@ -1,6 +1,6 @@
-# [\[Shaman-Base\] \[M\] Hoodless +Staff by Temp](./)
+# [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Shaman-Base] [M] Hoodless +Staff by Temp standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Shaman-Reskin] [M] Hoodless +Staff by Temp standing" />
 
 ## Credits
 

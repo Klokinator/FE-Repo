@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[M\] Eliwood-Style by Markyjoe]
+# [\[Ephraim-Reskin\] \[M\] Eliwood-Style by Markyjoe]
 
 ## Credit
 

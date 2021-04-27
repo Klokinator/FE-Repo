@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[M\] Repalette +Sword by Teraspark](./)
+# [\[Ephraim-Base\] \[M\] Repal +Sword by Teraspark](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Base] [M] Repalette +Sword by Teraspark standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Base] [M] Repal +Sword by Teraspark standing" />
 
 ## Credits
 

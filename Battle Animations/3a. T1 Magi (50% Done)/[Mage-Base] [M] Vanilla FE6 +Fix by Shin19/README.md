@@ -1,6 +1,6 @@
-# [\[Mage-Base\] \[M\] FE6 Vanilla +Fix by Shin19](./)
+# [\[Mage-Base\] \[M\] Vanilla FE6 +Fix by Shin19](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Base] [M] FE6 Vanilla +Fix by Shin19 standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Base] [M] Vanilla FE6 +Fix by Shin19 standing" />
 
 ## Credits
 

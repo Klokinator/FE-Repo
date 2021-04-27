@@ -1,4 +1,4 @@
-# [\[Elffin-Base\] \[M\] Elffin +Weapons]
+# [\[Bard-Base\] \[M\] Elffin +Weapons]
 
 ## Credit
 

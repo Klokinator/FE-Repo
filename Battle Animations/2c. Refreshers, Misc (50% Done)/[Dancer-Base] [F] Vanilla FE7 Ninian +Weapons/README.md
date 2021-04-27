@@ -1,6 +1,6 @@
-# [\[Dancer\] \[F\] Ninian +Weapons](./)
+# [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Dancer] [F] Ninian +Weapons standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Dancer-Base] [F] Vanilla FE7 Ninian +Weapons standing" />
 
 ## Credits
 

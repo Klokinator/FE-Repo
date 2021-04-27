@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Vanilla FE6 Alt2](./)
+# [\[Archer-Base\] \[F\] Vanilla FE6 Alt2](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Vanilla FE6 Alt2 standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Base] [F] Vanilla FE6 Alt2 standing" />
 
 ## Credits
 

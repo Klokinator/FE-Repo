@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Quiver by Nuramon]
+# [\[Sniper-Reskin\] \[F\] Quiver by Nuramon]
 
 ## Credit
 

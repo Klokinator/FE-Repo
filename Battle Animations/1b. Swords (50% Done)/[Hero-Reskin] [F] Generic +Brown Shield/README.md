@@ -1,6 +1,6 @@
-# [\[Hero-Base\] \[F\] Generic +Brown Shield](./)
+# [\[Hero-Reskin\] \[F\] Generic +Brown Shield](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Generic +Brown Shield standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Hero-Reskin] [F] Generic +Brown Shield standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[F\] FE7if Elena]
+# [\[Lyn-Reskin\] \[F\] FE7if Elena]
 
 ## Credit
 

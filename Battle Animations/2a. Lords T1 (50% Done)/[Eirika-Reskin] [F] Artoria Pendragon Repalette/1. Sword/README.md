@@ -1,4 +1,4 @@
-# [\[Eirika-Base\] \[F\] Artoria Pendragon Repalette]
+# [\[Eirika-Reskin\] \[F\] Artoria Pendragon Repalette]
 
 ## Credit
 

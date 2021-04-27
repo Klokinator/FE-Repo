@@ -1,6 +1,6 @@
-# [\[Cleric-Base\] \[F\] Cleric Vanilla Serra +Sword](./)
+# [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](./)
 
-<img src="./1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[Cleric-Base] [F] Cleric Vanilla Serra +Sword standing" />
+<img src="./1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[Cleric-Base] [F] Vanilla FE7 Serra +Sword standing" />
 
 ## Credits
 

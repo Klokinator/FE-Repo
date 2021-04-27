@@ -1,6 +1,6 @@
-# [\[Valkyrie-Base\] \[M\] Templar by GabrielKnight](./)
+# [\[Valkyrie-Reskin\] \[M\] Templar by GabrielKnight](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Base] [M] Templar by GabrielKnight standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [M] Templar by GabrielKnight standing" />
 
 ## Credits
 

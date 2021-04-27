@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[F\] Mercenary-Myrmidon Fusion](./)
+# [\[Sword Custom\] \[F\] Mercenary-Myrmidon Fusion](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Mercenary-Myrmidon Fusion standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Mercenary-Myrmidon Fusion standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Ephraim Custom\] \[M\] Heavy Infantry by Nuramon]
+# [\[Ephraim-Custom\] \[M\] Heavy Infantry by Nuramon]
 
 ## Credit
 

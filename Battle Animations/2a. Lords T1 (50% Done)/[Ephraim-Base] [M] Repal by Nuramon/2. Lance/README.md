@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[M\] Repalette by Nuramon]
+# [\[Ephraim-Base\] \[M\] Repal by Nuramon]
 
 ## Credit
 

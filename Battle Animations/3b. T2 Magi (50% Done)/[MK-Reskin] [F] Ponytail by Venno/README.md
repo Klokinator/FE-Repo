@@ -1,6 +1,6 @@
-# [\[MK-Base\] \[F\] Ponytail by Venno](./)
+# [\[MK-Reskin\] \[F\] Ponytail by Venno](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[MK-Base] [F] Ponytail by Venno standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[MK-Reskin] [F] Ponytail by Venno standing" />
 
 ## Credits
 

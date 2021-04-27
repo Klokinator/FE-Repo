@@ -1,4 +1,4 @@
-# [\[Ranger-Type\] \[U\] 3DS Dark Knight Hooded]
+# [\[Dark-Knight\] \[U\] Ranger-Style Hooded]
 
 ## Credit
 

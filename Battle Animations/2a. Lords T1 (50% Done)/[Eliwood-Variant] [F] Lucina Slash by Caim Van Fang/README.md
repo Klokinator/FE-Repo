@@ -1,6 +1,6 @@
-# [\[Eliwood-Slash\] \[F\] Lucina Slash by Caim Van Fang](./)
+# [\[Eliwood-Variant\] \[F\] Lucina Slash by Caim Van Fang](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Slash] [F] Lucina Slash by Caim Van Fang standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [F] Lucina Slash by Caim Van Fang standing" />
 
 ## Credits
 

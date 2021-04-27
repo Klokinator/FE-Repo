@@ -1,6 +1,6 @@
-# [\[Mercenary-Variant\] \[M\] Mercenary +Axe by SALVAGED](./)
+# [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED +Axe](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [M] Mercenary +Axe by SALVAGED standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [M] Mercenary by SALVAGED +Axe standing" />
 
 ## Credits
 

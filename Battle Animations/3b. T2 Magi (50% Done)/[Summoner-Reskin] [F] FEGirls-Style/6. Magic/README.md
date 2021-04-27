@@ -1,4 +1,4 @@
-# [\[Summoner-Base\] \[F\] FEGirls-Style]
+# [\[Summoner-Reskin\] \[F\] FEGirls-Style]
 
 ## Credit
 

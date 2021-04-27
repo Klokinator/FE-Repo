@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[F\] Leila by SHYUTERz](./)
+# [\[Assassin-Reskin\] \[F\] Leila by SHYUTERz](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [F] Leila by SHYUTERz standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [F] Leila by SHYUTERz standing" />
 
 ## Credits
 

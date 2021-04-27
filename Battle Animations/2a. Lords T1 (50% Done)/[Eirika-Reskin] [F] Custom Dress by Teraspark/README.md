@@ -1,6 +1,6 @@
-# [\[Eirika-Base\] \[F\] Custom Dress by Teraspark](./)
+# [\[Eirika-Reskin\] \[F\] Custom Dress by Teraspark](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Custom Dress by Teraspark standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] Custom Dress by Teraspark standing" />
 
 ## Credits
 

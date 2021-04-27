@@ -1,6 +1,6 @@
-# [\[Priest-Base\] \[M\] Priest Buff Moulder +Muscles by Vilkalizer](./)
+# [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](./)
 
-<img src="./7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff_000.png" alt="[Priest-Base] [M] Priest Buff Moulder +Muscles by Vilkalizer standing" />
+<img src="./7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff_000.png" alt="[Priest-Reskin] [M] Buff Moulder +Muscles by Vilkalizer standing" />
 
 ## Credits
 

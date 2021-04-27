@@ -1,6 +1,6 @@
-# [\[Rogue-Base\] \[M\] Trickster by Leo_Link](./)
+# [\[Rogue-Reskin\] \[M\] Trickster by Leo_Link](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Base] [M] Trickster by Leo_Link standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [M] Trickster by Leo_Link standing" />
 
 ## Credits
 

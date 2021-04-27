@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[M\] Jaffar by Greentea](./)
+# [\[Assassin-Reskin\] \[M\] Jaffar by Greentea](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Jaffar by Greentea standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [M] Jaffar by Greentea standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Neimi by Seal]
+# [\[Sniper-Reskin\] \[F\] Neimi by Seal]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Jacket v2 by Fuzz94]
+# [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Lyn-Base\] \[F\] Tsukage by Yangfly]
+# [\[Lyn-Reskin\] \[F\] Tsukage by Yangfly]
 
 ## Credit
 

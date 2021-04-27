@@ -1,6 +1,6 @@
-# [\[Valkyrie-Base\] \[F\] Nomad-Style by seergiioo](./)
+# [\[Valkyrie-Reskin\] \[F\] Nomad-Style by seergiioo](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Base] [F] Nomad-Style by seergiioo standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] Nomad-Style by seergiioo standing" />
 
 ## Credits
 

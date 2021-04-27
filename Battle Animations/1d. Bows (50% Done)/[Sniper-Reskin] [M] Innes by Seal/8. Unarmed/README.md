@@ -1,4 +1,4 @@
-# [\[Sniper\] \[M\] Innes by Seal]
+# [\[Sniper-Reskin\] \[M\] Innes by Seal]
 
 ## Credit
 

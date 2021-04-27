@@ -1,4 +1,4 @@
-# [\[MK-Base\] \[F\] Short Hair by BatimaTheBat]
+# [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat]
 
 ## Credit
 

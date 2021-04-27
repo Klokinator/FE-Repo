@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[M\] FE7if Ash Double-Lance](./)
+# [\[Ephraim-Reskin\] \[M\] FE7if Ash Double-Lance](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] FE7if Ash Double-Lance standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Reskin] [M] FE7if Ash Double-Lance standing" />
 
 ## Credits
 

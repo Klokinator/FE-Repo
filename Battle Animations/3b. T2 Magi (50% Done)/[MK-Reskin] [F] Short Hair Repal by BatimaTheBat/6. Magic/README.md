@@ -1,4 +1,4 @@
-# [\[MK-Base\] \[F\] Short Hair Repal by BatimaTheBat]
+# [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat]
 
 ## Credit
 

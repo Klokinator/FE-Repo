@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Priest Buff Moulder +Muscles by Vilkalizer]
+# [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer]
 
 ## Credit
 

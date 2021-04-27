@@ -286,22 +286,9 @@
 | <img alt="Sword animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/2.%20Lance/Lance.gif" /> | <img alt="Legendary animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif" /> | <img alt="Unarmed animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Nomad Trooper\] \[F\] Non-Sacaen](./%5BNomad%20Trooper%5D%20%5BF%5D%20Non-Sacaen/%5BNomad%20Trooper%5D%20%5BF%5D%20Non-Sacaen)
+## [\[Nomad Trooper Base\] \[F\] Repal](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal)
 
-<img src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Non-Sacaen/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [F] Non-Sacaen standing" />
-
-
-### Weapons
-
-
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Non-Sacaen/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Non-Sacaen/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Non-Sacaen/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Nomad Trooper\] \[F\] Repal](./%5BNomad%20Trooper%5D%20%5BF%5D%20Repal/%5BNomad%20Trooper%5D%20%5BF%5D%20Repal)
-
-<img src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [F] Repal standing" />
+<img src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [F] Repal standing" />
 
 
 ### Weapons
@@ -309,25 +296,12 @@
 
 |Sword |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Repal/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Nomad Trooper\] \[F\] Vanilla FE6 +Fix](./%5BNomad%20Trooper%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/%5BNomad%20Trooper%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix)
+## [\[Nomad Trooper Base\] \[F\] Vanilla FE6 +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix)
 
-<img src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [F] Vanilla FE6 +Fix standing" />
-
-
-### Weapons
-
-
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Nomad Trooper\] \[M\] +Hat](./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat/%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat)
-
-<img src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [M] +Hat standing" />
+<img src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [F] Vanilla FE6 +Fix standing" />
 
 
 ### Weapons
@@ -335,25 +309,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Nomad Trooper\] \[M\] +Hat Repal by Orihara_Saki](./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki)
+## [\[Nomad Trooper Base\] \[M\] FE6 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal)
 
-<img src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [M] +Hat Repal by Orihara_Saki standing" />
-
-
-### Weapons
-
-
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Nomad Trooper\] \[M\] FE6 Repal](./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Repal/%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Repal)
-
-<img src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [M] FE6 Repal standing" />
+<img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE6 Repal standing" />
 
 
 ### Weapons
@@ -361,25 +322,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Repal/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Nomad Trooper\] \[M\] FE6 Vanilla](./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Vanilla/%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Vanilla)
+## [\[Nomad Trooper Base\] \[M\] FE6 Vanilla](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla)
 
-<img src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Vanilla/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [M] FE6 Vanilla standing" />
-
-
-### Weapons
-
-
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Vanilla/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Vanilla/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE6%20Vanilla/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Nomad Trooper\] \[M\] FE7 Repal](./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Repal/%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Repal)
-
-<img src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [M] FE7 Repal standing" />
+<img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE6 Vanilla standing" />
 
 
 ### Weapons
@@ -387,12 +335,12 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Repal/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Nomad Trooper\] \[M\] FE7 Vanilla +Fix](./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix)
+## [\[Nomad Trooper Base\] \[M\] FE7 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal)
 
-<img src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/1.%20Sword/Sword_000.png" alt="[Nomad Trooper] [M] FE7 Vanilla +Fix standing" />
+<img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE7 Repal standing" />
 
 
 ### Weapons
@@ -400,12 +348,64 @@
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Nomad Trooper\] \[M\] Sacaen Repal](./%5BNomad%20Trooper%5D%20%5BM%5D%20Sacaen%20Repal/%5BNomad%20Trooper%5D%20%5BM%5D%20Sacaen%20Repal)
+## [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix)
 
-<img src="./%5BNomad%20Trooper%5D%20%5BM%5D%20Sacaen%20Repal/3.%20Axe/Axe_000.png" alt="[Nomad Trooper] [M] Sacaen Repal standing" />
+<img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE7 Vanilla +Fix standing" />
+
+
+### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Nomad Trooper Reskin\] \[F\] Non-Sacaen](./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen)
+
+<img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Reskin] [F] Non-Sacaen standing" />
+
+
+### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Nomad Trooper Reskin\] \[M\] +Hat](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat)
+
+<img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Reskin] [M] +Hat standing" />
+
+
+### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Nomad Trooper Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki)
+
+<img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Reskin] [M] +Hat Repal by Orihara_Saki standing" />
+
+
+### Weapons
+
+
+|Sword |Bow |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Nomad Trooper Reskin\] \[M\] Sacaen Repal](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal)
+
+<img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/3.%20Axe/Axe_000.png" alt="[Nomad Trooper Reskin] [M] Sacaen Repal standing" />
 
 
 ### Weapons
@@ -413,20 +413,7 @@
 
 |Axe |Bow |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20Sacaen%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20Sacaen%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%5D%20%5BM%5D%20Sacaen%20Repal/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Non-FE\] \[M\] Salamander Rider by Aruka](./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka)
-
-<img src="./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Salamander Rider by Aruka standing" />
-
-
-### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword.gif" /> |
+| <img alt="Axe animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/3.%20Axe/Axe.gif" /> | <img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Paladin-Base\] \[F\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons)

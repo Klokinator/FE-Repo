@@ -1,4 +1,4 @@
-# [\[Dancer\] \[M\] Dancer by L95]
+# [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95]
 
 ## Credit
 

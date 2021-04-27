@@ -1,4 +1,4 @@
-# [\[Elffin-Base\] \[M\] Fancy +Magic by MeatOfJustice]
+# [\[Bard-Base\] \[M\] Elffin Fancy +Magic]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Assassin-Base\] \[M\] Legault by Greentea](./)
+# [\[Assassin-Reskin\] \[M\] Legault by Greentea](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Legault by Greentea standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [M] Legault by Greentea standing" />
 
 ## Credits
 

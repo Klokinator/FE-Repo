@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[M\] Jaffar by JonoTheRed]
+# [\[Thief-Reskin\] \[M\] Jaffar by JonoTheRed]
 
 ## Credit
 

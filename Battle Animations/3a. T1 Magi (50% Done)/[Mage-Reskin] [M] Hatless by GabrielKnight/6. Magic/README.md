@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[M\] Hatless by GabrielKnight]
+# [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[M\] Eliwood-Style by Markyjoe](./)
+# [\[Ephraim-Reskin\] \[M\] Eliwood-Style by Markyjoe](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] Eliwood-Style by Markyjoe standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Reskin] [M] Eliwood-Style by Markyjoe standing" />
 
 ## Credits
 

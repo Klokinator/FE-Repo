@@ -1,6 +1,6 @@
-# [\[Thief-Base\] \[F\] Sme's Catgirl](./)
+# [\[Thief-Reskin\] \[F\] Sme's Catgirl](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [F] Sme's Catgirl standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Reskin] [F] Sme's Catgirl standing" />
 
 ## Credits
 

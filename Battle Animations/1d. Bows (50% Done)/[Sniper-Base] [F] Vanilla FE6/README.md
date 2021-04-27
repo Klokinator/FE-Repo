@@ -1,6 +1,6 @@
-# [\[Sniper\] \[F\] Vanilla FE6](./)
+# [\[Sniper-Base\] \[F\] Vanilla FE6](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [F] Vanilla FE6 standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Base] [F] Vanilla FE6 standing" />
 
 ## Credits
 

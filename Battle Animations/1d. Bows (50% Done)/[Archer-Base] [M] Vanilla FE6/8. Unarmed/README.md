@@ -1,4 +1,4 @@
-# [\[Archer\] \[M\] Vanilla FE6]
+# [\[Archer-Base\] \[M\] Vanilla FE6]
 
 ## Credit
 

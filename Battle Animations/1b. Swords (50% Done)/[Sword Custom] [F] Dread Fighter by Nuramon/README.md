@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[F\] Dread Fighter by Nuramon](./)
+# [\[Sword Custom\] \[F\] Dread Fighter by Nuramon](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] Dread Fighter by Nuramon standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Dread Fighter by Nuramon standing" />
 
 ## Credits
 

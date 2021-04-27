@@ -1,4 +1,4 @@
-# [\[Archer\] \[M\] Der's Wil]
+# [\[Archer-Reskin\] \[M\] Der's Wil]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[M\] Tag-Team Lyon](./)
+# [\[Ephraim-Variant\] \[M\] Tag-Team Lyon](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] Tag-Team Lyon standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Variant] [M] Tag-Team Lyon standing" />
 
 ## Credits
 

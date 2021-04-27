@@ -1,4 +1,4 @@
-# [\[Hector-Base\] \[M\] Vanguard by Temp]
+# [\[Hector-Reskin\] \[M\] Vanguard by Temp]
 
 ## Credit
 

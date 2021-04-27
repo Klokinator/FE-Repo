@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Der's Long Hair](./)
+# [\[Archer-Reskin\] \[F\] Der's Long Hair](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Der's Long Hair standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Der's Long Hair standing" />
 
 ## Credits
 

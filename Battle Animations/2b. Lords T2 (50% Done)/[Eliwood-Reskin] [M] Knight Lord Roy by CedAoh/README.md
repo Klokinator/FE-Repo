@@ -1,6 +1,6 @@
-# [\[Eliwood-Base\] \[M\] Knight Lord Roy by CedAoh](./)
+# [\[Eliwood-Reskin\] \[M\] Knight Lord Roy by CedAoh](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] Knight Lord Roy by CedAoh standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] Knight Lord Roy by CedAoh standing" />
 
 ## Credits
 

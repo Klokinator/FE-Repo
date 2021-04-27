@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Priest Hood by Eldritch]
+# [\[Priest-Reskin\] \[M\] Priest Hood by Eldritch]
 
 ## Credit
 

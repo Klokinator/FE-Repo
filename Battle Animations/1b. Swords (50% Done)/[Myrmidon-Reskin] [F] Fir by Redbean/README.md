@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[F\] Fir by Redbean](./)
+# [\[Myrmidon-Reskin\] \[F\] Fir by Redbean](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Fir by Redbean standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Fir by Redbean standing" />
 
 ## Credits
 

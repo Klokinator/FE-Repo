@@ -1,6 +1,6 @@
-# [\[Roy-Variant\] \[M\] Squire by Yangfly](./)
+# [\[Roy-Reskin\] \[M\] Squire by Yangfly](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Variant] [M] Squire by Yangfly standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Squire by Yangfly standing" />
 
 ## Credits
 

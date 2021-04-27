@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Vanilla FE7 Rebecca]
+# [\[Archer-Base\] \[F\] Vanilla FE7 Rebecca]
 
 ## Credit
 

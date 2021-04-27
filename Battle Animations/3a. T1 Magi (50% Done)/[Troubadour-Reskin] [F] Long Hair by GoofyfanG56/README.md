@@ -1,6 +1,6 @@
-# [\[Troubadour-Base\] \[F\] Long Hair by GoofyfanG56](./)
+# [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Base] [F] Long Hair by GoofyfanG56 standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Reskin] [F] Long Hair by GoofyfanG56 standing" />
 
 ## Credits
 

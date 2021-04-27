@@ -1,6 +1,6 @@
-# [\[Cleric-Base\] \[F\] Cleric Less Religious by Mariah](./)
+# [\[Cleric-Reskin\] \[F\] Cleric Less Religious by Mariah](./)
 
-<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Base] [F] Cleric Less Religious by Mariah standing" />
+<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Cleric Less Religious by Mariah standing" />
 
 ## Credits
 

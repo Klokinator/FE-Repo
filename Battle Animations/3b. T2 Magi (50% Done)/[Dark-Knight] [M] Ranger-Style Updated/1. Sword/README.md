@@ -1,4 +1,4 @@
-# [\[Ranger-Type\] \[M\] 3DS Dark Knight Updated]
+# [\[Dark-Knight\] \[M\] Ranger-Style Updated]
 
 ## Credit
 

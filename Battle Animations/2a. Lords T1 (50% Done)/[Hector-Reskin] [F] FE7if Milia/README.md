@@ -1,6 +1,6 @@
-# [\[Hector-Base\] \[F\] FE7if Milia](./)
+# [\[Hector-Reskin\] \[F\] FE7if Milia](./)
 
-<img src="./3.%20Axe/Axe_000.png" alt="[Hector-Base] [F] FE7if Milia standing" />
+<img src="./3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [F] FE7if Milia standing" />
 
 ## Credits
 

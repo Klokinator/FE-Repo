@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Ponytail Repal +Weapons]
+# [\[Troubadour-Reskin\] \[F\] Ponytail Repal +Weapons]
 
 ## Credit
 

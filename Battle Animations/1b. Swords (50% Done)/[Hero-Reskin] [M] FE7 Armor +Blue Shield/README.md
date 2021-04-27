@@ -1,6 +1,6 @@
-# [\[Hero-Base\] \[M\] FE7 Armor +Blue Shield](./)
+# [\[Hero-Reskin\] \[M\] FE7 Armor +Blue Shield](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] FE7 Armor +Blue Shield standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Hero-Reskin] [M] FE7 Armor +Blue Shield standing" />
 
 ## Credits
 

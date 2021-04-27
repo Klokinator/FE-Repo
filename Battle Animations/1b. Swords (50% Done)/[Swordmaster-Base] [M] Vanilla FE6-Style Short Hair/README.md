@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[M\] Vanilla-Style FE6 Short Hair](./)
+# [\[Swordmaster-Base\] \[M\] Vanilla FE6-Style Short Hair](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla-Style FE6 Short Hair standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE6-Style Short Hair standing" />
 
 ## Credits
 

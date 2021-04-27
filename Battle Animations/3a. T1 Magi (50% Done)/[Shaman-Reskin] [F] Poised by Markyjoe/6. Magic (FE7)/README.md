@@ -1,4 +1,4 @@
-# [\[Shaman-Base\] \[F\] Poised by Markyjoe]
+# [\[Shaman-Reskin\] \[F\] Poised by Markyjoe]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Sniper-Base\] \[F\] Adventurer by ZoramineFae]
+# [\[Sniper-Reskin\] \[F\] Adventurer by ZoramineFae]
 
 ## Credit
 

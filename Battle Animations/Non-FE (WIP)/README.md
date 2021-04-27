@@ -26,6 +26,19 @@
 | <img alt="Sword animation" src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/7.%20Staff/Staff.gif" /> |
 
 
+## [\[Non-FE\] \[M\] Salamander Rider by Aruka](./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka)
+
+<img src="./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Salamander Rider by Aruka standing" />
+
+
+### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword.gif" /> |
+
+
 ## [\[Non-FE\] \[\] Fate - Euryale\)\[F\]{ZoramineFae}](./%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D)
 
 <img src="./%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D/5.%20Bow/Bow_000.png" alt="[Non-FE] [] Fate - Euryale)[F]{ZoramineFae} standing" />

@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Long Hair Repal by Feaw]
+# [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw]
 
 ## Credit
 

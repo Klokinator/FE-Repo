@@ -1,4 +1,4 @@
-# [\[Eirika-Base\] \[F\] Repalette FEH-Style]
+# [\[Eirika-Base\] \[F\] Repal FEH-Style]
 
 ## Credit
 

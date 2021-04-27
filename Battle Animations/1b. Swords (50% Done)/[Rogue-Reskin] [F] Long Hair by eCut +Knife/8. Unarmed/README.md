@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[F\] Long Hair by eCut +Knife]
+# [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife]
 
 ## Credit
 

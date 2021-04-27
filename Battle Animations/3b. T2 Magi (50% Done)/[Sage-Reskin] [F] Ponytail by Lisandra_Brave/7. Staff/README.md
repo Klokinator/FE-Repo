@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[F\] Ponytail by Lisandra_Brave]
+# [\[Sage-Reskin\] \[F\] Ponytail by Lisandra_Brave]
 
 ## Credit
 

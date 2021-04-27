@@ -1,4 +1,4 @@
-# [\[Archer\] \[F\] Repal by Der]
+# [\[Archer-Base\] \[F\] Repal by Der]
 
 ## Credit
 

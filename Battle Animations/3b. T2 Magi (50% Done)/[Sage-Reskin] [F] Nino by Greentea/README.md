@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[F\] Nino by Greentea](./)
+# [\[Sage-Reskin\] \[F\] Nino by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [F] Nino by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [F] Nino by Greentea standing" />
 
 ## Credits
 

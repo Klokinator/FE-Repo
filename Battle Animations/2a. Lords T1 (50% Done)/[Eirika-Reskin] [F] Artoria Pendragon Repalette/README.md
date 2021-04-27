@@ -1,6 +1,6 @@
-# [\[Eirika-Base\] \[F\] Artoria Pendragon Repalette](./)
+# [\[Eirika-Reskin\] \[F\] Artoria Pendragon Repalette](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] Artoria Pendragon Repalette standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] Artoria Pendragon Repalette standing" />
 
 ## Credits
 

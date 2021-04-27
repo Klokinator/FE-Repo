@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[M\] Snes Sage by Blademaster]
+# [\[Sage-Reskin\] \[M\] Snes Sage by Blademaster]
 
 ## Credit
 

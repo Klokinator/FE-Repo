@@ -1,6 +1,6 @@
-# [\[Lyn-Base\] \[F\] Variant by Jey the Count](./)
+# [\[Lyn-Reskin\] \[F\] Variant by Jey the Count](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] Variant by Jey the Count standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] Variant by Jey the Count standing" />
 
 ## Credits
 

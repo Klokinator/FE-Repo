@@ -1,4 +1,4 @@
-# [\[Bishop-Base\] \[M\] Lucius by Greentea]
+# [\[Bishop-Reskin\] \[M\] Lucius by Greentea]
 
 ## Credit
 

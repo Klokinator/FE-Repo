@@ -1,4 +1,4 @@
-# [\[Dancer\] \[F\] Larum +FE7-8, Staff]
+# [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff]
 
 ## Credit
 

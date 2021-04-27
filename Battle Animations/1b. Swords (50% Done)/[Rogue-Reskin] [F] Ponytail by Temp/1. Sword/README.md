@@ -1,4 +1,4 @@
-# [\[Rogue-Base\] \[F\] Ponytail by Temp]
+# [\[Rogue-Reskin\] \[F\] Ponytail by Temp]
 
 ## Credit
 

@@ -1,6 +1,6 @@
-# [\[Custom Sword\] \[F\] TLP's Karina Fencer](./)
+# [\[Sword Custom\] \[F\] TLP's Karina Fencer](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Custom Sword] [F] TLP's Karina Fencer standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] TLP's Karina Fencer standing" />
 
 ## Credits
 

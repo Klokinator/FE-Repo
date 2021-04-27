@@ -1,4 +1,4 @@
-# [\[Myrmidon-Base\] \[M\] Leo_Link's Alt]
+# [\[Myrmidon-Reskin\] \[M\] Leo_Link's Alt]
 
 ## Credit
 

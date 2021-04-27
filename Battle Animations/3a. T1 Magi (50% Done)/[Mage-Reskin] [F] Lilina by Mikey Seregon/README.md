@@ -1,6 +1,6 @@
-# [\[Mage-Base\] \[F\] Lilina by Mikey Seregon](./)
+# [\[Mage-Reskin\] \[F\] Lilina by Mikey Seregon](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Base] [F] Lilina by Mikey Seregon standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Reskin] [F] Lilina by Mikey Seregon standing" />
 
 ## Credits
 

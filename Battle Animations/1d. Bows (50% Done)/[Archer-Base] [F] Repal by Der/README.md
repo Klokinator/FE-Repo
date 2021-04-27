@@ -1,6 +1,6 @@
-# [\[Archer\] \[F\] Repal by Der](./)
+# [\[Archer-Base\] \[F\] Repal by Der](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Archer] [F] Repal by Der standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Archer-Base] [F] Repal by Der standing" />
 
 ## Credits
 

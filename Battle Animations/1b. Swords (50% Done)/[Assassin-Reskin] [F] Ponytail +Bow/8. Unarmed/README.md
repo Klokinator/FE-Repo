@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[F\] Ponytail +Bow]
+# [\[Assassin-Reskin\] \[F\] Ponytail +Bow]
 
 ## Credit
 

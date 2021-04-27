@@ -1,6 +1,6 @@
-# [\[Thief-Base\] \[M\] Hooded by Solum](./)
+# [\[Thief-Reskin\] \[M\] Hooded by Solum](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Hooded by Solum standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Thief-Reskin] [M] Hooded by Solum standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [\[Eliwood-Base\] \[M\] Knight Lord Roy by CedAoh]
+# [\[Eliwood-Reskin\] \[M\] Knight Lord Roy by CedAoh]
 
 ## Credit
 

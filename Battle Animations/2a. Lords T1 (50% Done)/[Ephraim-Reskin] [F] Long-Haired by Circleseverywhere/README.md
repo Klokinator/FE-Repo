@@ -1,6 +1,6 @@
-# [\[Ephraim-Base\] \[F\] Long-Haired by Circleseverywhere](./)
+# [\[Ephraim-Reskin\] \[F\] Long-Haired by Circleseverywhere](./)
 
-<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [F] Long-Haired by Circleseverywhere standing" />
+<img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Reskin] [F] Long-Haired by Circleseverywhere standing" />
 
 ## Credits
 

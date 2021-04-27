@@ -1,4 +1,4 @@
-# [\[Custom Sword\] \[M\] Squire by Russel Clark]
+# [\[Sword Custom\] \[M\] Squire by Russel Clark]
 
 ## Credit
 

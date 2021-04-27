@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Ponytail Repal by BatimaTheBat]
+# [\[Troubadour-Reskin\] \[F\] Ponytail Repal by BatimaTheBat]
 
 ## Credit
 

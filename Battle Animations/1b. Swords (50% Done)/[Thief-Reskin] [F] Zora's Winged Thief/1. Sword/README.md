@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Zora's Winged Thief]
+# [\[Thief-Reskin\] \[F\] Zora's Winged Thief]
 
 ## Credit
 

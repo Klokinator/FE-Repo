@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[M\] Pent by Greentea]
+# [\[Sage-Reskin\] \[M\] Pent by Greentea]
 
 ## Credit
 

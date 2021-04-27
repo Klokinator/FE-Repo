@@ -1,4 +1,4 @@
-# [\[Valkyrie-Base\] \[F\] Priscilla by Greentea]
+# [\[Valkyrie-Reskin\] \[F\] Priscilla by Greentea]
 
 ## Credit
 

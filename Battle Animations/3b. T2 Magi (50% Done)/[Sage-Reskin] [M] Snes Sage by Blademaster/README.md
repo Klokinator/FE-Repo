@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[M\] Snes Sage by Blademaster](./)
+# [\[Sage-Reskin\] \[M\] Snes Sage by Blademaster](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [M] Snes Sage by Blademaster standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Snes Sage by Blademaster standing" />
 
 ## Credits
 

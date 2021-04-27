@@ -585,6 +585,32 @@
 | <img alt="Axe animation" src="./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Journeyman-Type\] \[M\] Waleed's Squire](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire)
+
+<img src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/1.%20Sword/Sword_000.png" alt="[Journeyman-Type] [M] Waleed's Squire standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Journeyman-Type\] \[M\] Waleed's Squire v2 Repal](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal/%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal)
+
+<img src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal/1.%20Sword/Sword_000.png" alt="[Journeyman-Type] [M] Waleed's Squire v2 Repal standing" />
+
+
+### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal/1.%20Sword/Sword.gif" /> |
+
+
 ## [\[Pirate-Base\] \[M\] Repal by Skitty](./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty)
 
 <img src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/3.%20Axe/Axe_000.png" alt="[Pirate-Base] [M] Repal by Skitty standing" />

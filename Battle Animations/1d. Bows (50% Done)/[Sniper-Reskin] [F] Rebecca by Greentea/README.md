@@ -1,6 +1,6 @@
-# [\[Sniper\] \[F\] Rebecca by Greentea](./)
+# [\[Sniper-Reskin\] \[F\] Rebecca by Greentea](./)
 
-<img src="./5.%20Bow/Bow_000.png" alt="[Sniper] [F] Rebecca by Greentea standing" />
+<img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [F] Rebecca by Greentea standing" />
 
 ## Credits
 

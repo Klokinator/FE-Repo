@@ -1,6 +1,6 @@
-# [\[Sage-Base\] \[M\] FE6-Style with Boots by Greentea](./)
+# [\[Sage-Reskin\] \[M\] FE6-Style with Boots by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [M] FE6-Style with Boots by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] FE6-Style with Boots by Greentea standing" />
 
 ## Credits
 

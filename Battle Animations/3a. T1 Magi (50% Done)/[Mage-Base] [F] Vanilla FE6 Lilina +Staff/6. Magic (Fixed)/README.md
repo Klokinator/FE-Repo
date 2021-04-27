@@ -1,4 +1,4 @@
-# [\[Mage-Base\] \[F\] FE6 Vanilla Lilina +Staff]
+# [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff]
 
 ## Credit
 

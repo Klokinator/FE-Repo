@@ -1,6 +1,6 @@
-# [\[Bishop-Base\] \[M\] Kenneth by Greentea](./)
+# [\[Bishop-Reskin\] \[M\] Kenneth by Greentea](./)
 
-<img src="./6.%20Magic/Magic_000.png" alt="[Bishop-Base] [M] Kenneth by Greentea standing" />
+<img src="./6.%20Magic/Magic_000.png" alt="[Bishop-Reskin] [M] Kenneth by Greentea standing" />
 
 ## Credits
 

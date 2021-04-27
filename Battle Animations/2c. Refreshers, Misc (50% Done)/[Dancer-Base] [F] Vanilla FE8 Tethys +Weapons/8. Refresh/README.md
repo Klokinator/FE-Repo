@@ -1,4 +1,4 @@
-# [\[Dancer\] \[F\] Tethys +Weapons]
+# [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons]
 
 ## Credit
 

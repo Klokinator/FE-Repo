@@ -1,4 +1,4 @@
-# [\[Valkyrie-Base\] \[F\] Nomad-Style by seergiioo]
+# [\[Valkyrie-Reskin\] \[F\] Nomad-Style by seergiioo]
 
 ## Credit
 

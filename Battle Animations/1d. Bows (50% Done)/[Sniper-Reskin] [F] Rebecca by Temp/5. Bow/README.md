@@ -1,4 +1,4 @@
-# [\[Sniper\] \[F\] Rebecca by Temp]
+# [\[Sniper-Reskin\] \[F\] Rebecca by Temp]
 
 ## Credit
 

@@ -1,4 +1,4 @@
-# [\[Bishop-Base\] \[M\] Kenneth by Greentea]
+# [\[Bishop-Reskin\] \[M\] Kenneth by Greentea]
 
 ## Credit
 

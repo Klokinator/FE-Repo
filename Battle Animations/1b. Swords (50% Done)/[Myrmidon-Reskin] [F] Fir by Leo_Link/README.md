@@ -1,6 +1,6 @@
-# [\[Myrmidon-Base\] \[F\] Fir by Leo_Link](./)
+# [\[Myrmidon-Reskin\] \[F\] Fir by Leo_Link](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Fir by Leo_Link standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Fir by Leo_Link standing" />
 
 ## Credits
 

@@ -1,4 +1,0 @@
-IS, TBA, PrincessKilvas, Spud, Blue Druid
-
-5. Bow (Fixed Palette) {PrincessKilvas, Spud, Blue Druid}
-5. Bow {PrincessKilvas, Spud}

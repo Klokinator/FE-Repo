@@ -1,0 +1,15 @@
+# [\[Wyvern T1\] \[M\] Heath by Greentea]
+
+## Credit
+
+Animation by Greentea.
+
+Scripting by RobertFPY.
+
+T1 Port of the T2 animations by Jey the Count.
+	
+## Lance
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Lance still](./Lance_000.png) | ![Lance animation](./Lance.gif) |

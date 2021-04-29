@@ -1,6 +1,6 @@
-# [\[Sword Custom\] \[M\] Villager by Nuramon](./)
+# [\[Villager-Custom\] \[F\] Villager by Nuramon](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Villager by Nuramon standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Villager-Custom] [F] Villager by Nuramon standing" />
 
 ## Credits
 

@@ -1,4 +1,4 @@
-# [2c. Refreshers, Misc (50% Done) Battle Animations](./)
+# [Misc - Dancers, Bards, Suppliers Battle Animations](./)
 
 ## [\[Bard-Base\] \[M\] Elffin +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons)
 

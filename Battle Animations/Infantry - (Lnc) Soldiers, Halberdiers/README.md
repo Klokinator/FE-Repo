@@ -1,4 +1,4 @@
-# [1c. Lances  (50% Done) Battle Animations](./)
+# [Infantry - (Lnc) Soldiers, Halberdiers Battle Animations](./)
 
 ## [\[Amelia-Style\] \[F\] T0 Recruit Repal by Spud](./%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
 

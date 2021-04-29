@@ -1,4 +1,4 @@
-# [\[Lyn-Reskin\] \[F\] Short Hair by Zoisite]
+# [\[Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite]
 
 ## Credit
 

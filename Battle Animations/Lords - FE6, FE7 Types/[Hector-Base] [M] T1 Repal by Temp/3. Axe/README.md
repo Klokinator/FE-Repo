@@ -1,4 +1,4 @@
-# [\[Hector-Base\] \[M\] Repal by Temp]
+# [\[Hector-Base\] \[M\] T1 Repal by Temp]
 
 ## Credit
 

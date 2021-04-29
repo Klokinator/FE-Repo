@@ -1,6 +1,6 @@
-# [\[Hector-Base\] \[M\] Repal by Temp](./)
+# [\[Hector-Base\] \[M\] T1 Repal by Temp](./)
 
-<img src="./3.%20Axe/Axe_000.png" alt="[Hector-Base] [M] Repal by Temp standing" />
+<img src="./3.%20Axe/Axe_000.png" alt="[Hector-Base] [M] T1 Repal by Temp standing" />
 
 ## Credits
 

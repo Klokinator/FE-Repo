@@ -2,15 +2,13 @@
 
 ## Credit
 
-Original animation by IS.
+Vanilla animation by IS.
 
-Sword Slash and Lance by Spud.
+Binding Blade by Marlon0024.
 
-Jojowood by Vilkalizer.
+Bow by Spud.
 
-Bow by Jj09, PrincessKilvas, Spud.
 
-Durandal by Mercenary Lord.
 	
 ## Bow
 

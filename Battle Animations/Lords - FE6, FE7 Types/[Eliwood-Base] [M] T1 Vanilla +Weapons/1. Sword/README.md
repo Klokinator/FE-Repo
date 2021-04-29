@@ -1,4 +1,4 @@
-# [\[Eliwood-Base\] \[M\] Vanilla +Weapons]
+# [\[Eliwood-Base\] \[M\] T1 Vanilla +Weapons]
 
 ## Credit
 

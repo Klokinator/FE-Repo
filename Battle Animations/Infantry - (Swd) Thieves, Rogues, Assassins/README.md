@@ -351,6 +351,45 @@
 | <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Sword Custom\] \[F\] Samurai - Taijutsu Rogue](./%5BSword%20Custom%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue/%5BSword%20Custom%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue)
+
+<img src="./%5BSword%20Custom%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue/1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Samurai - Taijutsu Rogue standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Samurai%20-%20Taijutsu%20Rogue/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Sword Custom\] \[M\] Ninja by Pikmin and Der](./%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der)
+
+<img src="./%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/1.%20Knife/Knife_000.png" alt="[Sword Custom] [M] Ninja by Pikmin and Der standing" />
+
+
+### Weapons
+
+
+|Knife |Sword |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Knife animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Sword Custom\] \[M\] Samurai - Taijutsu Rogue](./%5BSword%20Custom%5D%20%5BM%5D%20Samurai%20-%20Taijutsu%20Rogue/%5BSword%20Custom%5D%20%5BM%5D%20Samurai%20-%20Taijutsu%20Rogue)
+
+<img src="./%5BSword%20Custom%5D%20%5BM%5D%20Samurai%20-%20Taijutsu%20Rogue/1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Samurai - Taijutsu Rogue standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Samurai%20-%20Taijutsu%20Rogue/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Samurai%20-%20Taijutsu%20Rogue/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Thief-Base\] \[F\] Cath Repal by Eldritch](./%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch)
 
 <img src="./%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Thief-Base] [F] Cath Repal by Eldritch standing" />

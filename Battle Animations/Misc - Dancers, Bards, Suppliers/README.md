@@ -259,3 +259,16 @@
 |  :---: |
 | <img alt="Unarmed animation" src="./%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
 
+
+## [\[Sword Custom\] \[M\] Squire by Russel Clark](./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark)
+
+<img src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Squire by Russel Clark standing" />
+
+
+### Weapons
+
+
+|Sword |Sword |Unarmed |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif" /> |
+

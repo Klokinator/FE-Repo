@@ -6,6 +6,8 @@
 
 Made by Pikmin1211.
 
+This animation is based on Watching Dog's Vampirehound animation. The idea is to create a Tier 3 animation for the Hellhound and Gwyllgi.
+
 ## Weapons
 
 

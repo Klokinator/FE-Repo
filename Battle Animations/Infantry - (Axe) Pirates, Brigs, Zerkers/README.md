@@ -26,6 +26,19 @@
 | <img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Berserker-Custom\] \[M\] Bushido Swordzerker](./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker)
+
+<img src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/1.%20Sword/Sword_000.png" alt="[Berserker-Custom] [M] Bushido Swordzerker standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6)
 
 <img src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [F] Hawkzerker by Maiser6 standing" />

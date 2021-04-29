@@ -1,5 +1,18 @@
 # [Magi - Dark-Type Battle Animations](./)
 
+## [\[Crossover Custom\] \[U\] Executioner \(Assassin+Druid\)](./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid))
+
+<img src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword_000.png" alt="[Crossover Custom] [U] Executioner (Assassin+Druid) standing" />
+
+
+### Weapons
+
+
+|Sword |Magic |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Custom DM\] \[F\] Dark Mage by Pikmin](./%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin)
 
 <img src="./%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Custom DM] [F] Dark Mage by Pikmin standing" />

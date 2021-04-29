@@ -1,5 +1,18 @@
 # [Infantry - Knights, Generals, Armors Battle Animations](./)
 
+## [\[Crossover Custom\] \[M\] Sergeant by Spud](./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud)
+
+<img src="./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/1.%20Sword/Sword_000.png" alt="[Crossover Custom] [M] Sergeant by Spud standing" />
+
+
+### Weapons
+
+
+|Sword |Lance |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[General-Base\] \[U\] Repal by Skitty](./%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty)
 
 <img src="./%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/1.%20Sword/Sword_000.png" alt="[General-Base] [U] Repal by Skitty standing" />

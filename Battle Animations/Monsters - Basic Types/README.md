@@ -325,22 +325,9 @@
 | <img alt="Monster animation" src="./%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Vanilla/8.%20Monster/Monster.gif" /> |
 
 
-## [\[Wolf-Base\] \[U\] Vanilla](./%5BWolf-Base%5D%20%5BU%5D%20Vanilla/%5BWolf-Base%5D%20%5BU%5D%20Vanilla)
+## [\[Wolf-Base\] \[U\] Hellhound Vanilla](./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla/%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla)
 
-<img src="./%5BWolf-Base%5D%20%5BU%5D%20Vanilla/8.%20Monster/Monster_000.png" alt="[Wolf-Base] [U] Vanilla standing" />
-
-
-### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./%5BWolf-Base%5D%20%5BU%5D%20Vanilla/8.%20Monster/Monster.gif" /> |
-
-
-## [\[Wolf-Base\] \[U\] Vanilla Repal by Teraspark +Magic](./%5BWolf-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20Teraspark%20+Magic/%5BWolf-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20Teraspark%20+Magic)
-
-<img src="./%5BWolf-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20Teraspark%20+Magic/8.%20Monster/Monster_000.png" alt="[Wolf-Base] [U] Vanilla Repal by Teraspark +Magic standing" />
+<img src="./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla/8.%20Monster/Monster_000.png" alt="[Wolf-Base] [U] Hellhound Vanilla standing" />
 
 
 ### Weapons
@@ -348,7 +335,20 @@
 
 |Monster |
 |  :---: |
-| <img alt="Monster animation" src="./%5BWolf-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20Teraspark%20+Magic/8.%20Monster/Monster.gif" /> |
+| <img alt="Monster animation" src="./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla/8.%20Monster/Monster.gif" /> |
+
+
+## [\[Wolf-Base\] \[U\] Hellhound Vanilla Repal by Teraspark +Magic](./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20+Magic/%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20+Magic)
+
+<img src="./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20+Magic/8.%20Monster/Monster_000.png" alt="[Wolf-Base] [U] Hellhound Vanilla Repal by Teraspark +Magic standing" />
+
+
+### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20+Magic/8.%20Monster/Monster.gif" /> |
 
 
 ## [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit)
@@ -455,9 +455,9 @@
 | <img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BM%5D%20Wolfskin%20by%20Chhhsfe/8.%20Monster/Monster.gif" /> |
 
 
-## [\[Wolf-Variant\] \[U\] SM Crit +Wings](./%5BWolf-Variant%5D%20%5BU%5D%20SM%20Crit%20+Wings/%5BWolf-Variant%5D%20%5BU%5D%20SM%20Crit%20+Wings)
+## [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings)
 
-<img src="./%5BWolf-Variant%5D%20%5BU%5D%20SM%20Crit%20+Wings/8.%20Monster%20(SM%20Crit)/Monster_000.png" alt="[Wolf-Variant] [U] SM Crit +Wings standing" />
+<img src="./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/8.%20Monster%20(SM%20Crit)/Monster_000.png" alt="[Wolf-Variant] [U] Hellhound SM Crit +Wings standing" />
 
 
 ### Weapons
@@ -465,7 +465,7 @@
 
 |Monster |Monster |
 |  :---: | :---: |
-| <img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20SM%20Crit%20+Wings/8.%20Monster%20(SM%20Crit)/Monster.gif" /> | <img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20SM%20Crit%20+Wings/8.%20Monster%20(Wings%20Crit)/Monster.gif" /> |
+| <img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/8.%20Monster%20(SM%20Crit)/Monster.gif" /> | <img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/8.%20Monster%20(Wings%20Crit)/Monster.gif" /> |
 
 
 ## [\[Zombie-Base\] \[U\] Revenant Vanilla +Weapons](./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons)

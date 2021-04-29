@@ -1,5 +1,31 @@
 # [Infantry - (Swd) Myrms and Swordmasters Battle Animations](./)
 
+## [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon)
+
+<img src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[FE13 Custom] [F] Dread Fighter by Nuramon standing" />
+
+
+### Weapons
+
+
+|Sword |Magic |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[FE13 Custom\] \[M\] Dread Fighter by Nuramon](./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon)
+
+<img src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[FE13 Custom] [M] Dread Fighter by Nuramon standing" />
+
+
+### Weapons
+
+
+|Sword |Magic |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow)
 
 <img src="./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Vanilla FE6 Ponytail +Bow standing" />
@@ -167,6 +193,32 @@
 |Sword |Unarmed |
 |  :---: | :---: |
 | <img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Sword Custom\] \[F\] Fencer by GabrielKnight](./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight)
+
+<img src="./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Fencer by GabrielKnight standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Sword Custom\] \[F\] TLP's Karina Fencer](./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer)
+
+<img src="./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] TLP's Karina Fencer standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Swordmaster-Base\] \[F\] Vanilla FE6](./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6/%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6)

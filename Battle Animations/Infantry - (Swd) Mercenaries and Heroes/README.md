@@ -467,3 +467,42 @@
 |  :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED%20+Axe/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED%20+Axe/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED%20+Axe/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED%20+Axe/8.%20Unarmed/Unarmed.gif" /> |
 
+
+## [\[Sword Custom\] \[F\] Mercenary-Myrmidon Fusion](./%5BSword%20Custom%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/%5BSword%20Custom%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion)
+
+<img src="./%5BSword%20Custom%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Mercenary-Myrmidon Fusion standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Villager-Custom\] \[F\] Villager by Nuramon](./%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon/%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon)
+
+<img src="./%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Villager-Custom] [F] Villager by Nuramon standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Villager-Custom\] \[M\] Villager by Nuramon](./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon)
+
+<img src="./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Villager-Custom] [M] Villager by Nuramon standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+

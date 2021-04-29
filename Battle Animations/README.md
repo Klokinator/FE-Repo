@@ -5063,9 +5063,9 @@
 | <img alt="Sword animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Eirika-Reskin\] \[F\] T1 Artoria Pendragon Repalette](./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette)
+### [\[Eirika-Reskin\] \[F\] T1 Artoria Pendragon Repal](./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal)
 
-<img src="./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] T1 Artoria Pendragon Repalette standing" />
+<img src="./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] T1 Artoria Pendragon Repal standing" />
 
 
 #### Weapons
@@ -5073,7 +5073,7 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Eirika-Reskin\] \[F\] T1 Custom Dress by Teraspark](./Lords%20-%20FE8%20Types/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Custom%20Dress%20by%20Teraspark/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Custom%20Dress%20by%20Teraspark)
@@ -10426,9 +10426,61 @@
 
 ## [ZZ Non-FE (WIP) Battle Animations](./ZZ%20Non-FE%20(WIP)/)
 
-### [\[Non-FE\] \[F\] Valkyrie Aegina by Aruka \(Yggdra\)](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra))
+### [\[Non-FE\] \[F\] Fate - Euryale by ZoramineFae](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae)
 
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Valkyrie Aegina by Aruka (Yggdra) standing" />
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow_000.png" alt="[Non-FE] [F] Fate - Euryale by ZoramineFae standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow.gif" /> |
+
+
+### [\[Non-FE\] \[F\] FE7if Katt - Winged](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster_000.png" alt="[Non-FE] [F] FE7if Katt - Winged standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster.gif" /> |
+
+
+### [\[Non-FE\] \[F\] Metroid - Samus by SurfingKyogre](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic_000.png" alt="[Non-FE] [F] Metroid - Samus by SurfingKyogre standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Non-FE\] \[F\] Yggdra - Yuril Artwaltz by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra - Yuril Artwaltz by Aruka standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Non-FE\] \[F\] Yggdra Valkyrie Aegina by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra Valkyrie Aegina by Aruka standing" />
 
 
 #### Weapons
@@ -10436,12 +10488,12 @@
 
 |Sword |Staff |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Aegina%20by%20Aruka%20(Yggdra)/7.%20Staff/Staff.gif" /> |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/7.%20Staff/Staff.gif" /> |
 
 
-### [\[Non-FE\] \[F\] Valkyrie Generic by Aruka \(Yggdra\)](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra))
+### [\[Non-FE\] \[F\] Yggdra Valkyrie Generic by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka)
 
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Valkyrie Generic by Aruka (Yggdra) standing" />
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra Valkyrie Generic by Aruka standing" />
 
 
 #### Weapons
@@ -10449,7 +10501,98 @@
 
 |Sword |Staff |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Valkyrie%20Generic%20by%20Aruka%20(Yggdra)/7.%20Staff/Staff.gif" /> |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Fate - Nobunaga by ZoramineFae](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Fate - Nobunaga by ZoramineFae standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Non-FE\] \[M\] FF7 - Cloud by FlyingAce](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] FF7 - Cloud by FlyingAce standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Non-FE\] \[M\] FF7 - Sephiroth by SHYUTERz](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] FF7 - Sephiroth by SHYUTERz standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Non-FE\] \[M\] FF7 - Zack by Yangfly](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] FF7 - Zack by Yangfly standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster_000.png" alt="[Non-FE] [M] Jojo BA - Giorno by SurfingKyogre standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe_000.png" alt="[Non-FE] [M] Kirby - King Dedede by Volke0 standing" />
+
+
+#### Weapons
+
+
+|Axe |
+|  :---: |
+| <img alt="Axe animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Mario by Volke0](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0)
+
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance_000.png" alt="[Non-FE] [M] Mario by Volke0 standing" />
+
+
+#### Weapons
+
+
+|Lance |
+|  :---: |
+| <img alt="Lance animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance.gif" /> |
 
 
 ### [\[Non-FE\] \[M\] Salamander Rider by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka)
@@ -10465,22 +10608,9 @@
 | <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword.gif" /> |
 
 
-### [\[Non-FE\] \[\] Fate - Euryale\)\[F\]{ZoramineFae}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D)
+### [\[Non-FE\] \[M\] Ygddra - Inzaghi Fencer BY Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka)
 
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D/5.%20Bow/Bow_000.png" alt="[Non-FE] [] Fate - Euryale)[F]{ZoramineFae} standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Euryale)%5BF%5D%7BZoramineFae%7D/5.%20Bow/Bow.gif" /> |
-
-
-### [\[Non-FE\] \[\] Fate - Nobunaga\)\[M\]{ZoramineFae, Wan}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Nobunaga)%5BM%5D%7BZoramineFae,%20Wan%7D/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Nobunaga)%5BM%5D%7BZoramineFae,%20Wan%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Nobunaga)%5BM%5D%7BZoramineFae,%20Wan%7D/1.%20Sword/Sword_000.png" alt="[Non-FE] [] Fate - Nobunaga)[M]{ZoramineFae, Wan} standing" />
+<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Ygddra - Inzaghi Fencer BY Aruka standing" />
 
 
 #### Weapons
@@ -10488,136 +10618,6 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Fate%20-%20Nobunaga)%5BM%5D%7BZoramineFae,%20Wan%7D/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[\] FF7 - Cloud\)\[M\]{FlyingAce24, Dark Seraph}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Cloud)%5BM%5D%7BFlyingAce24,%20Dark%20Seraph%7D/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Cloud)%5BM%5D%7BFlyingAce24,%20Dark%20Seraph%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Cloud)%5BM%5D%7BFlyingAce24,%20Dark%20Seraph%7D/1.%20Sword/Sword_000.png" alt="[Non-FE] [] FF7 - Cloud)[M]{FlyingAce24, Dark Seraph} standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Cloud)%5BM%5D%7BFlyingAce24,%20Dark%20Seraph%7D/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[\] FF7 - Sephiroth\)\[M\]{Trooper, AKA, SHYUTERz}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Sephiroth)%5BM%5D%7BTrooper,%20AKA,%20SHYUTERz%7D/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Sephiroth)%5BM%5D%7BTrooper,%20AKA,%20SHYUTERz%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Sephiroth)%5BM%5D%7BTrooper,%20AKA,%20SHYUTERz%7D/1.%20Sword/Sword_000.png" alt="[Non-FE] [] FF7 - Sephiroth)[M]{Trooper, AKA, SHYUTERz} standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Sephiroth)%5BM%5D%7BTrooper,%20AKA,%20SHYUTERz%7D/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Sephiroth)%5BM%5D%7BTrooper,%20AKA,%20SHYUTERz%7D/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Non-FE\] \[\] FF7 - Zack\)\[M\]{Lord Zymeth, Yangfly Master}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Zack)%5BM%5D%7BLord%20Zymeth,%20Yangfly%20Master%7D/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Zack)%5BM%5D%7BLord%20Zymeth,%20Yangfly%20Master%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Zack)%5BM%5D%7BLord%20Zymeth,%20Yangfly%20Master%7D/1.%20Sword/Sword_000.png" alt="[Non-FE] [] FF7 - Zack)[M]{Lord Zymeth, Yangfly Master} standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20FF7%20-%20Zack)%5BM%5D%7BLord%20Zymeth,%20Yangfly%20Master%7D/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[\] Jojo BA - Giorno\)\[M\]{SurfingKyogre}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Jojo%20BA%20-%20Giorno)%5BM%5D%7BSurfingKyogre%7D/%5BNon-FE%5D%20%5B%5D%20Jojo%20BA%20-%20Giorno)%5BM%5D%7BSurfingKyogre%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Jojo%20BA%20-%20Giorno)%5BM%5D%7BSurfingKyogre%7D/8.%20Monster/Monster_000.png" alt="[Non-FE] [] Jojo BA - Giorno)[M]{SurfingKyogre} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Jojo%20BA%20-%20Giorno)%5BM%5D%7BSurfingKyogre%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[Non-FE\] \[\] Katt - Winged\)\[F\]{FE7if}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Katt%20-%20Winged)%5BF%5D%7BFE7if%7D/%5BNon-FE%5D%20%5B%5D%20Katt%20-%20Winged)%5BF%5D%7BFE7if%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Katt%20-%20Winged)%5BF%5D%7BFE7if%7D/8.%20Monster/Monster_000.png" alt="[Non-FE] [] Katt - Winged)[F]{FE7if} standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Katt%20-%20Winged)%5BF%5D%7BFE7if%7D/8.%20Monster/Monster.gif" /> |
-
-
-### [\[Non-FE\] \[\] Kirby - King Dedede\)\[M\]{Volke0}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Kirby%20-%20King%20Dedede)%5BM%5D%7BVolke0%7D/%5BNon-FE%5D%20%5B%5D%20Kirby%20-%20King%20Dedede)%5BM%5D%7BVolke0%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Kirby%20-%20King%20Dedede)%5BM%5D%7BVolke0%7D/3.%20Axe/Axe_000.png" alt="[Non-FE] [] Kirby - King Dedede)[M]{Volke0} standing" />
-
-
-#### Weapons
-
-
-|Axe |
-|  :---: |
-| <img alt="Axe animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Kirby%20-%20King%20Dedede)%5BM%5D%7BVolke0%7D/3.%20Axe/Axe.gif" /> |
-
-
-### [\[Non-FE\] \[\] Mario\)\[M\]{Volke0, Superstar Saga}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Mario)%5BM%5D%7BVolke0,%20Superstar%20Saga%7D/%5BNon-FE%5D%20%5B%5D%20Mario)%5BM%5D%7BVolke0,%20Superstar%20Saga%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Mario)%5BM%5D%7BVolke0,%20Superstar%20Saga%7D/2.%20Lance%20(Hammer)/Lance_000.png" alt="[Non-FE] [] Mario)[M]{Volke0, Superstar Saga} standing" />
-
-
-#### Weapons
-
-
-|Lance |
-|  :---: |
-| <img alt="Lance animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Mario)%5BM%5D%7BVolke0,%20Superstar%20Saga%7D/2.%20Lance%20(Hammer)/Lance.gif" /> |
-
-
-### [\[Non-FE\] \[\] Metroid - Samus\)\[F\]{SurfingKyogre}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Metroid%20-%20Samus)%5BF%5D%7BSurfingKyogre%7D/%5BNon-FE%5D%20%5B%5D%20Metroid%20-%20Samus)%5BF%5D%7BSurfingKyogre%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Metroid%20-%20Samus)%5BF%5D%7BSurfingKyogre%7D/6.%20Magic/Magic_000.png" alt="[Non-FE] [] Metroid - Samus)[F]{SurfingKyogre} standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Metroid%20-%20Samus)%5BF%5D%7BSurfingKyogre%7D/6.%20Magic/Magic.gif" /> |
-
-
-### [\[Non-FE\] \[\] Ygddra - Inzaghi Fencer\)\[M\]{Aruka, Kenpuhu}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Ygddra%20-%20Inzaghi%20Fencer)%5BM%5D%7BAruka,%20Kenpuhu%7D/%5BNon-FE%5D%20%5B%5D%20Ygddra%20-%20Inzaghi%20Fencer)%5BM%5D%7BAruka,%20Kenpuhu%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Ygddra%20-%20Inzaghi%20Fencer)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[Non-FE] [] Ygddra - Inzaghi Fencer)[M]{Aruka, Kenpuhu} standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Ygddra%20-%20Inzaghi%20Fencer)%5BM%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[\] Yggdra - Yuril Artwaltz\)\[F\]{Aruka, Kenpuhu}](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Yggdra%20-%20Yuril%20Artwaltz)%5BF%5D%7BAruka,%20Kenpuhu%7D/%5BNon-FE%5D%20%5B%5D%20Yggdra%20-%20Yuril%20Artwaltz)%5BF%5D%7BAruka,%20Kenpuhu%7D)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Yggdra%20-%20Yuril%20Artwaltz)%5BF%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword_000.png" alt="[Non-FE] [] Yggdra - Yuril Artwaltz)[F]{Aruka, Kenpuhu} standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5B%5D%20Yggdra%20-%20Yuril%20Artwaltz)%5BF%5D%7BAruka,%20Kenpuhu%7D/1.%20Sword/Sword.gif" /> |
+| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword.gif" /> |
 
 

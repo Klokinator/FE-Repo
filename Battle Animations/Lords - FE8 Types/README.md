@@ -91,9 +91,9 @@
 | <img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Eirika-Reskin\] \[F\] T1 Artoria Pendragon Repalette](./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette)
+## [\[Eirika-Reskin\] \[F\] T1 Artoria Pendragon Repal](./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal)
 
-<img src="./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] T1 Artoria Pendragon Repalette standing" />
+<img src="./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] T1 Artoria Pendragon Repal standing" />
 
 
 ### Weapons
@@ -101,7 +101,7 @@
 
 |Sword |Unarmed |
 |  :---: | :---: |
-| <img alt="Sword animation" src="./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repalette/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Artoria%20Pendragon%20Repal/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Eirika-Reskin\] \[F\] T1 Custom Dress by Teraspark](./%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Custom%20Dress%20by%20Teraspark/%5BEirika-Reskin%5D%20%5BF%5D%20T1%20Custom%20Dress%20by%20Teraspark)

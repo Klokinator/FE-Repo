@@ -1,0 +1,11 @@
+# [\[Ephraim-Custom\] \[M\] T2 Heavy Infantry by Nuramon]
+
+## Credit
+
+
+	
+## Handaxe
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Handaxe still](./Handaxe_000.png) | ![Handaxe animation](./Handaxe.gif) |

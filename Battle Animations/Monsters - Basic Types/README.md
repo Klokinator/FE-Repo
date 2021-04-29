@@ -78,6 +78,19 @@
 | <img alt="Lance animation" src="./%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Goyle-Reskin\] \[F\] FE7if Katt - Winged](./%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged)
+
+<img src="./%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster_000.png" alt="[Goyle-Reskin] [F] FE7if Katt - Winged standing" />
+
+
+### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster.gif" /> |
+
+
 ## [\[Goyle-Reskin\] \[U\] Gargoyle Promoted by Teraspark](./%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark/%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark)
 
 <img src="./%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark/2.%20Lance/Lance_000.png" alt="[Goyle-Reskin] [U] Gargoyle Promoted by Teraspark standing" />

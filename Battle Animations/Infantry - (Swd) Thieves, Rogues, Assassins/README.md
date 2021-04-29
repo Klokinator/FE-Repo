@@ -610,3 +610,29 @@
 |  :---: | :---: | :---: |
 | <img alt="Knife animation" src="./%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/8.%20Unarmed/Unarmed.gif" /> |
 
+
+## [\[Trickster-Type\] \[F\] Yggdra Valkyrie Aegina by Aruka](./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka)
+
+<img src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Trickster-Type] [F] Yggdra Valkyrie Aegina by Aruka standing" />
+
+
+### Weapons
+
+
+|Sword |Staff |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/7.%20Staff/Staff.gif" /> |
+
+
+## [\[Trickster-Type\] \[F\] Yggdra Valkyrie Generic by Aruka](./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka)
+
+<img src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Trickster-Type] [F] Yggdra Valkyrie Generic by Aruka standing" />
+
+
+### Weapons
+
+
+|Sword |Staff |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/7.%20Staff/Staff.gif" /> |
+

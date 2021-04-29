@@ -351,6 +351,19 @@
 | <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Archer-Variant\] \[F\] Fate - Euryale by ZoramineFae](./%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae)
+
+<img src="./%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Fate - Euryale by ZoramineFae standing" />
+
+
+### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow.gif" /> |
+
+
 ## [\[Archer-Variant\] \[M\] Der's Improved](./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved)
 
 <img src="./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Der's Improved standing" />

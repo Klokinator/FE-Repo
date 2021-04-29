@@ -312,6 +312,19 @@
 | <img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword%20(Alt)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Swordmaster-Custom\] \[M\] FF7 - Sephiroth by SHYUTERz](./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz)
+
+<img src="./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword_000.png" alt="[Swordmaster-Custom] [M] FF7 - Sephiroth by SHYUTERz standing" />
+
+
+### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Swordmaster-Reskin\] \[F\] Karla by Greentea](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea)
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Karla by Greentea standing" />

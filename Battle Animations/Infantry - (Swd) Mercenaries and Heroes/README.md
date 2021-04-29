@@ -377,6 +377,32 @@
 | <img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword%20(Greatsword)/Sword.gif" /> | <img alt="Axe animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Mercenary-Custom\] \[M\] FF7 - Zack by Yangfly](./%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly)
+
+<img src="./%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Mercenary-Custom] [M] FF7 - Zack by Yangfly standing" />
+
+
+### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword.gif" /> |
+
+
+## [\[Mercenary-Custom\] \[M\] Ygddra - Inzaghi Fencer BY Aruka](./%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka)
+
+<img src="./%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword_000.png" alt="[Mercenary-Custom] [M] Ygddra - Inzaghi Fencer BY Aruka standing" />
+
+
+### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword.gif" /> |
+
+
 ## [\[Mercenary-Reskin\] \[F\] Generic by TBA](./%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA)
 
 <img src="./%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [F] Generic by TBA standing" />

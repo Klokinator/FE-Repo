@@ -1,5 +1,359 @@
 # Battle Animations
 
+## [Dancers, Bards, Suppliers, Misc Battle Animations](./Dancers,%20Bards,%20Suppliers,%20Misc/)
+
+### [\[Bard-Base\] \[M\] Elffin +Weapons](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin +Weapons standing" />
+
+
+#### Weapons
+
+
+|Magic |Refresh |Refresh |Refresh |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Magic animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh/Refresh.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE6)(Bird%20Sfx)/Refresh.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE7-8)/Refresh.gif" /> |
+
+
+### [\[Bard-Base\] \[M\] Elffin Fancy +Magic](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin Fancy +Magic standing" />
+
+
+#### Weapons
+
+
+|Magic |Refresh |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/6.%20Magic/Magic.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Bard-Base\] \[M\] Nils +Weapons](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff_000.png" alt="[Bard-Base] [M] Nils +Weapons standing" />
+
+
+#### Weapons
+
+
+|Staff |Staff |Dragonstone |Refresh |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff%20(+Magic)/Staff.gif" /> | <img alt="Dragonstone animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Bard-Reskin\] \[F\] Nils Generic](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/8.%20Refresh/Refresh_000.png" alt="[Bard-Reskin] [F] Nils Generic standing" />
+
+
+#### Weapons
+
+
+|Refresh |
+|  :---: |
+| <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/8.%20Refresh/Refresh_000.png" alt="[Bard-Style] [M] Elffin Sonneteer by Marlon0024 standing" />
+
+
+#### Weapons
+
+
+|Refresh |
+|  :---: |
+| <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Bard-Type\] \[F\] Elffin Magic-Only](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/6.%20Magic/Magic_000.png" alt="[Bard-Type] [F] Elffin Magic-Only standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff_000.png" alt="[Dancer-Base] [F] Vanilla FE6 Larum +FE7-8, Staff standing" />
+
+
+#### Weapons
+
+
+|Staff |Refresh |Refresh |Refresh |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh/Refresh.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Fixed%20SFX)/Refresh.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Heart%20FE8)/Refresh.gif" /> |
+
+
+### [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/2.%20Lance/Lance_000.png" alt="[Dancer-Base] [F] Vanilla FE7 Ninian +Weapons standing" />
+
+
+#### Weapons
+
+
+|Lance |Staff |Dragonstone |Refresh |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Lance animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Dragonstone animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword_000.png" alt="[Dancer-Base] [F] Vanilla FE8 Tethys +Weapons standing" />
+
+
+#### Weapons
+
+
+|Sword |Staff |Refresh |Refresh |Refresh |
+|  :---: | :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh/Refresh.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(FE7)/Refresh.gif" /> | <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(Fixed)/Refresh.gif" /> |
+
+
+### [\[Dancer-Reskin\] \[F\] FE5 Port by Shtick](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] FE5 Port by Shtick standing" />
+
+
+#### Weapons
+
+
+|Refresh |
+|  :---: |
+| <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Dancer-Reskin\] \[F\] Tethys Short-Haired](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] Tethys Short-Haired standing" />
+
+
+#### Weapons
+
+
+|Refresh |
+|  :---: |
+| <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [M] Tethys-Style Shirtless by L95 standing" />
+
+
+#### Weapons
+
+
+|Refresh |
+|  :---: |
+| <img alt="Refresh animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/8.%20Refresh/Refresh.gif" /> |
+
+
+### [\[Misc-Supplier\] \[F\] Supplier by JonoTheRed](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/2.%20Lance/Lance_000.png" alt="[Misc-Supplier] [F] Supplier by JonoTheRed standing" />
+
+
+#### Weapons
+
+
+|Lance |Staff |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Misc-Supplier\] \[M\] Supplier](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/7.%20Staff/Staff_000.png" alt="[Misc-Supplier] [M] Supplier standing" />
+
+
+#### Weapons
+
+
+|Staff |
+|  :---: |
+| <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Misc-Supply\] \[U\] T0 Merlinus Tent Vanilla](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/8.%20Unarmed/Unarmed_000.png" alt="[Misc-Supply] [U] T0 Merlinus Tent Vanilla standing" />
+
+
+#### Weapons
+
+
+|Unarmed |
+|  :---: |
+| <img alt="Unarmed animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/5.%20Bow/Bow_000.png" alt="[Misc-Supply] [U] T1 Merlinus Transport +Weapons standing" />
+
+
+#### Weapons
+
+
+|Bow |Staff |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Bow animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Misc-Supply\] \[U\] T2 Merlinus Hot Air Ballon](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed_000.png" alt="[Misc-Supply] [U] T2 Merlinus Hot Air Ballon standing" />
+
+
+#### Weapons
+
+
+|Unarmed |Unarmed |
+|  :---: | :---: |
+| <img alt="Unarmed animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed%20(Checkered)/Unarmed.gif" /> |
+
+
+### [\[Misc\] \[M\] Rifleman by Dolkar](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow_000.png" alt="[Misc] [M] Rifleman by Dolkar standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow.gif" /> |
+
+
+### [\[Misc\] \[U\] Chicken by Eldritch](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/8.%20Monster/Monster_000.png" alt="[Misc] [U] Chicken by Eldritch standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/8.%20Monster/Monster.gif" /> |
+
+
+### [\[Misc\] \[U\] Sandbag by SHYUTERz](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed_000.png" alt="[Misc] [U] Sandbag by SHYUTERz standing" />
+
+
+#### Weapons
+
+
+|Unarmed |
+|  :---: |
+| <img alt="Unarmed animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Non-FE\] \[F\] Metroid - Samus by SurfingKyogre](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic_000.png" alt="[Non-FE] [F] Metroid - Samus by SurfingKyogre standing" />
+
+
+#### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Non-FE\] \[F\] Yggdra Yuril Artwaltz by Aruka](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra Yuril Artwaltz by Aruka standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster_000.png" alt="[Non-FE] [M] Jojo BA - Giorno by SurfingKyogre standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe_000.png" alt="[Non-FE] [M] Kirby - King Dedede by Volke0 standing" />
+
+
+#### Weapons
+
+
+|Axe |
+|  :---: |
+| <img alt="Axe animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Mario by Volke0](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance_000.png" alt="[Non-FE] [M] Mario by Volke0 standing" />
+
+
+#### Weapons
+
+
+|Lance |
+|  :---: |
+| <img alt="Lance animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance.gif" /> |
+
+
+### [\[Non-FE\] \[M\] Salamander Rider by Aruka](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Salamander Rider by Aruka standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Sword Custom\] \[M\] Squire by Russel Clark](./Dancers,%20Bards,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark)
+
+<img src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Squire by Russel Clark standing" />
+
+
+#### Weapons
+
+
+|Sword |Sword |Unarmed |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif" /> | <img alt="Unarmed animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./Dancers,%20Bards,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif" /> |
+
+
+
 ## [Infantry - (Axe) Fighters and Warriors Battle Animations](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/)
 
 ### [\[Fighter-Base\] \[M\] Vanilla +Sword](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword)
@@ -1267,6 +1621,19 @@
 |Bow |Unarmed |
 |  :---: | :---: |
 | <img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Archer-Variant\] \[F\] Fate - Euryale by ZoramineFae](./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae)
+
+<img src="./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Fate - Euryale by ZoramineFae standing" />
+
+
+#### Weapons
+
+
+|Bow |
+|  :---: |
+| <img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow.gif" /> |
 
 
 ### [\[Archer-Variant\] \[M\] Der's Improved](./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved)
@@ -2591,6 +2958,32 @@
 | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword%20(Greatsword)/Sword.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
+### [\[Mercenary-Custom\] \[M\] FF7 - Zack by Yangfly](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly)
+
+<img src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Mercenary-Custom] [M] FF7 - Zack by Yangfly standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Mercenary-Custom\] \[M\] Ygddra - Inzaghi Fencer BY Aruka](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka)
+
+<img src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword_000.png" alt="[Mercenary-Custom] [M] Ygddra - Inzaghi Fencer BY Aruka standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword.gif" /> |
+
+
 ### [\[Mercenary-Reskin\] \[F\] Generic by TBA](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA)
 
 <img src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [F] Generic by TBA standing" />
@@ -3034,6 +3427,19 @@
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
 | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword%20(Alt)/Sword.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Swordmaster-Custom\] \[M\] FF7 - Sephiroth by SHYUTERz](./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz)
+
+<img src="./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword_000.png" alt="[Swordmaster-Custom] [M] FF7 - Sephiroth by SHYUTERz standing" />
+
+
+#### Weapons
+
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Swordmaster-Reskin\] \[F\] Karla by Greentea](./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea)
@@ -3936,6 +4342,32 @@
 | <img alt="Knife animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Knife/Knife.gif" /> | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/8.%20Unarmed/Unarmed.gif" /> |
 
 
+### [\[Trickster-Type\] \[F\] Yggdra Valkyrie Aegina by Aruka](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka)
+
+<img src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Trickster-Type] [F] Yggdra Valkyrie Aegina by Aruka standing" />
+
+
+#### Weapons
+
+
+|Sword |Staff |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Trickster-Type\] \[F\] Yggdra Valkyrie Generic by Aruka](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka)
+
+<img src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Trickster-Type] [F] Yggdra Valkyrie Generic by Aruka standing" />
+
+
+#### Weapons
+
+
+|Sword |Staff |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/7.%20Staff/Staff.gif" /> |
+
+
 
 ## [Infantry - Knights, Generals, Armors Battle Animations](./Infantry%20-%20Knights,%20Generals,%20Armors/)
 
@@ -4618,6 +5050,19 @@
 | <img alt="Axe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Handaxe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka/4.%20Handaxe/Handaxe.gif" /> |
 
 
+### [\[Hector-Type\] \[M\] FF7 - Cloud by FlyingAce](./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce)
+
+<img src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword_000.png" alt="[Hector-Type] [M] FF7 - Cloud by FlyingAce standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword.gif" /> |
+
+
 ### [\[Hector-Variant\] \[F\] T2 Harbinger Helmetless](./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless)
 
 <img src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/2.%20Lance/Lance_000.png" alt="[Hector-Variant] [F] T2 Harbinger Helmetless standing" />
@@ -4967,6 +5412,19 @@
 |Sword |Unarmed |
 |  :---: | :---: |
 | <img alt="Sword animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BRoy-Reskin%5D%20%5BM%5D%20Squire%20by%20Yangfly/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BRoy-Reskin%5D%20%5BM%5D%20Squire%20by%20Yangfly/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Sword-Custom\] \[M\] Fate - Nobunaga by ZoramineFae](./Lords%20-%20FE6,%20FE7%20Types/%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae)
+
+<img src="./Lords%20-%20FE6,%20FE7%20Types/%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword_000.png" alt="[Sword-Custom] [M] Fate - Nobunaga by ZoramineFae standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword.gif" /> |
 
 
 
@@ -7312,282 +7770,6 @@
 
 
 
-## [Misc - Dancers, Bards, Suppliers Battle Animations](./Misc%20-%20Dancers,%20Bards,%20Suppliers/)
-
-### [\[Bard-Base\] \[M\] Elffin +Weapons](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin +Weapons standing" />
-
-
-#### Weapons
-
-
-|Magic |Refresh |Refresh |Refresh |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh/Refresh.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE6)(Bird%20Sfx)/Refresh.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE7-8)/Refresh.gif" /> |
-
-
-### [\[Bard-Base\] \[M\] Elffin Fancy +Magic](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin Fancy +Magic standing" />
-
-
-#### Weapons
-
-
-|Magic |Refresh |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/6.%20Magic/Magic.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Bard-Base\] \[M\] Nils +Weapons](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff_000.png" alt="[Bard-Base] [M] Nils +Weapons standing" />
-
-
-#### Weapons
-
-
-|Staff |Staff |Dragonstone |Refresh |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff%20(+Magic)/Staff.gif" /> | <img alt="Dragonstone animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Bard-Reskin\] \[F\] Nils Generic](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/8.%20Refresh/Refresh_000.png" alt="[Bard-Reskin] [F] Nils Generic standing" />
-
-
-#### Weapons
-
-
-|Refresh |
-|  :---: |
-| <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/8.%20Refresh/Refresh_000.png" alt="[Bard-Style] [M] Elffin Sonneteer by Marlon0024 standing" />
-
-
-#### Weapons
-
-
-|Refresh |
-|  :---: |
-| <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Bard-Type\] \[F\] Elffin Magic-Only](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/6.%20Magic/Magic_000.png" alt="[Bard-Type] [F] Elffin Magic-Only standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/6.%20Magic/Magic.gif" /> |
-
-
-### [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff_000.png" alt="[Dancer-Base] [F] Vanilla FE6 Larum +FE7-8, Staff standing" />
-
-
-#### Weapons
-
-
-|Staff |Refresh |Refresh |Refresh |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh/Refresh.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Fixed%20SFX)/Refresh.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Heart%20FE8)/Refresh.gif" /> |
-
-
-### [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/2.%20Lance/Lance_000.png" alt="[Dancer-Base] [F] Vanilla FE7 Ninian +Weapons standing" />
-
-
-#### Weapons
-
-
-|Lance |Staff |Dragonstone |Refresh |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Lance animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Dragonstone animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword_000.png" alt="[Dancer-Base] [F] Vanilla FE8 Tethys +Weapons standing" />
-
-
-#### Weapons
-
-
-|Sword |Staff |Refresh |Refresh |Refresh |
-|  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh/Refresh.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(FE7)/Refresh.gif" /> | <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(Fixed)/Refresh.gif" /> |
-
-
-### [\[Dancer-Reskin\] \[F\] FE5 Port by Shtick](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] FE5 Port by Shtick standing" />
-
-
-#### Weapons
-
-
-|Refresh |
-|  :---: |
-| <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Dancer-Reskin\] \[F\] Tethys Short-Haired](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] Tethys Short-Haired standing" />
-
-
-#### Weapons
-
-
-|Refresh |
-|  :---: |
-| <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [M] Tethys-Style Shirtless by L95 standing" />
-
-
-#### Weapons
-
-
-|Refresh |
-|  :---: |
-| <img alt="Refresh animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/8.%20Refresh/Refresh.gif" /> |
-
-
-### [\[Misc-Supplier\] \[F\] Supplier by JonoTheRed](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/2.%20Lance/Lance_000.png" alt="[Misc-Supplier] [F] Supplier by JonoTheRed standing" />
-
-
-#### Weapons
-
-
-|Lance |Staff |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Misc-Supplier\] \[M\] Supplier](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/7.%20Staff/Staff_000.png" alt="[Misc-Supplier] [M] Supplier standing" />
-
-
-#### Weapons
-
-
-|Staff |
-|  :---: |
-| <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Misc-Supply\] \[U\] T0 Merlinus Tent Vanilla](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/8.%20Unarmed/Unarmed_000.png" alt="[Misc-Supply] [U] T0 Merlinus Tent Vanilla standing" />
-
-
-#### Weapons
-
-
-|Unarmed |
-|  :---: |
-| <img alt="Unarmed animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/5.%20Bow/Bow_000.png" alt="[Misc-Supply] [U] T1 Merlinus Transport +Weapons standing" />
-
-
-#### Weapons
-
-
-|Bow |Staff |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Bow animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Staff animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Misc-Supply\] \[U\] T2 Merlinus Hot Air Ballon](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed_000.png" alt="[Misc-Supply] [U] T2 Merlinus Hot Air Ballon standing" />
-
-
-#### Weapons
-
-
-|Unarmed |Unarmed |
-|  :---: | :---: |
-| <img alt="Unarmed animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed%20(Checkered)/Unarmed.gif" /> |
-
-
-### [\[Misc\] \[M\] Rifleman by Dolkar](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow_000.png" alt="[Misc] [M] Rifleman by Dolkar standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow.gif" /> |
-
-
-### [\[Misc\] \[U\] Chicken by Eldritch](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/8.%20Monster/Monster_000.png" alt="[Misc] [U] Chicken by Eldritch standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/8.%20Monster/Monster.gif" /> |
-
-
-### [\[Misc\] \[U\] Sandbag by SHYUTERz](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed_000.png" alt="[Misc] [U] Sandbag by SHYUTERz standing" />
-
-
-#### Weapons
-
-
-|Unarmed |
-|  :---: |
-| <img alt="Unarmed animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Sword Custom\] \[M\] Squire by Russel Clark](./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark)
-
-<img src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Squire by Russel Clark standing" />
-
-
-#### Weapons
-
-
-|Sword |Sword |Unarmed |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif" /> | <img alt="Unarmed animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./Misc%20-%20Dancers,%20Bards,%20Suppliers/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif" /> |
-
-
-
 ## [Monsters - Basic Types Battle Animations](./Monsters%20-%20Basic%20Types/)
 
 ### [\[Centaur-Base\] \[M\] Vanilla FE8 Maelduin](./Monsters%20-%20Basic%20Types/%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin/%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin)
@@ -7666,6 +7848,19 @@
 |Lance |Unarmed |
 |  :---: | :---: |
 | <img alt="Lance animation" src="./Monsters%20-%20Basic%20Types/%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Monsters%20-%20Basic%20Types/%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Goyle-Reskin\] \[F\] FE7if Katt - Winged](./Monsters%20-%20Basic%20Types/%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged)
+
+<img src="./Monsters%20-%20Basic%20Types/%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster_000.png" alt="[Goyle-Reskin] [F] FE7if Katt - Winged standing" />
+
+
+#### Weapons
+
+
+|Monster |
+|  :---: |
+| <img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster.gif" /> |
 
 
 ### [\[Goyle-Reskin\] \[U\] Gargoyle Promoted by Teraspark](./Monsters%20-%20Basic%20Types/%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark/%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark)
@@ -10421,203 +10616,5 @@
 |Magic |Staff |
 |  :---: | :---: |
 | <img alt="Magic animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/7.%20Staff/Staff.gif" /> |
-
-
-
-## [ZZ Non-FE (WIP) Battle Animations](./ZZ%20Non-FE%20(WIP)/)
-
-### [\[Non-FE\] \[F\] Fate - Euryale by ZoramineFae](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow_000.png" alt="[Non-FE] [F] Fate - Euryale by ZoramineFae standing" />
-
-
-#### Weapons
-
-
-|Bow |
-|  :---: |
-| <img alt="Bow animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/5.%20Bow/Bow.gif" /> |
-
-
-### [\[Non-FE\] \[F\] FE7if Katt - Winged](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster_000.png" alt="[Non-FE] [F] FE7if Katt - Winged standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/8.%20Monster/Monster.gif" /> |
-
-
-### [\[Non-FE\] \[F\] Metroid - Samus by SurfingKyogre](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic_000.png" alt="[Non-FE] [F] Metroid - Samus by SurfingKyogre standing" />
-
-
-#### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic.gif" /> |
-
-
-### [\[Non-FE\] \[F\] Yggdra - Yuril Artwaltz by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra - Yuril Artwaltz by Aruka standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20-%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[F\] Yggdra Valkyrie Aegina by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra Valkyrie Aegina by Aruka standing" />
-
-
-#### Weapons
-
-
-|Sword |Staff |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Aegina%20by%20Aruka/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Non-FE\] \[F\] Yggdra Valkyrie Generic by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra Valkyrie Generic by Aruka standing" />
-
-
-#### Weapons
-
-
-|Sword |Staff |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/7.%20Staff/Staff.gif" /> |
-
-
-### [\[Non-FE\] \[M\] Fate - Nobunaga by ZoramineFae](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Fate - Nobunaga by ZoramineFae standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[M\] FF7 - Cloud by FlyingAce](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] FF7 - Cloud by FlyingAce standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[M\] FF7 - Sephiroth by SHYUTERz](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] FF7 - Sephiroth by SHYUTERz standing" />
-
-
-#### Weapons
-
-
-|Sword |Unarmed |
-|  :---: | :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Non-FE\] \[M\] FF7 - Zack by Yangfly](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] FF7 - Zack by Yangfly standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster_000.png" alt="[Non-FE] [M] Jojo BA - Giorno by SurfingKyogre standing" />
-
-
-#### Weapons
-
-
-|Monster |
-|  :---: |
-| <img alt="Monster animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster.gif" /> |
-
-
-### [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe_000.png" alt="[Non-FE] [M] Kirby - King Dedede by Volke0 standing" />
-
-
-#### Weapons
-
-
-|Axe |
-|  :---: |
-| <img alt="Axe animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe.gif" /> |
-
-
-### [\[Non-FE\] \[M\] Mario by Volke0](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance_000.png" alt="[Non-FE] [M] Mario by Volke0 standing" />
-
-
-#### Weapons
-
-
-|Lance |
-|  :---: |
-| <img alt="Lance animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance.gif" /> |
-
-
-### [\[Non-FE\] \[M\] Salamander Rider by Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Salamander Rider by Aruka standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword.gif" /> |
-
-
-### [\[Non-FE\] \[M\] Ygddra - Inzaghi Fencer BY Aruka](./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka)
-
-<img src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Ygddra - Inzaghi Fencer BY Aruka standing" />
-
-
-#### Weapons
-
-
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./ZZ%20Non-FE%20(WIP)/%5BNon-FE%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword.gif" /> |
 
 

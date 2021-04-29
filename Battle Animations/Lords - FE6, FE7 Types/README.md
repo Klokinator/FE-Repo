@@ -338,6 +338,19 @@
 | <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka/3.%20Axe%20(Chain)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka/4.%20Handaxe/Handaxe.gif" /> |
 
 
+## [\[Hector-Type\] \[M\] FF7 - Cloud by FlyingAce](./%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce)
+
+<img src="./%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword_000.png" alt="[Hector-Type] [M] FF7 - Cloud by FlyingAce standing" />
+
+
+### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword.gif" /> |
+
+
 ## [\[Hector-Variant\] \[F\] T2 Harbinger Helmetless](./%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless)
 
 <img src="./%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/2.%20Lance/Lance_000.png" alt="[Hector-Variant] [F] T2 Harbinger Helmetless standing" />
@@ -687,4 +700,17 @@
 |Sword |Unarmed |
 |  :---: | :---: |
 | <img alt="Sword animation" src="./%5BRoy-Reskin%5D%20%5BM%5D%20Squire%20by%20Yangfly/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BRoy-Reskin%5D%20%5BM%5D%20Squire%20by%20Yangfly/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Sword-Custom\] \[M\] Fate - Nobunaga by ZoramineFae](./%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae)
+
+<img src="./%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword_000.png" alt="[Sword-Custom] [M] Fate - Nobunaga by ZoramineFae standing" />
+
+
+### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword.gif" /> |
 

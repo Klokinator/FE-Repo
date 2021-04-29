@@ -1,44 +1,5 @@
 # [Magi - Nature-Type Battle Animations](./)
 
-## [\[Eldritch-Custom\] \[F\] Mage Lord v1 by Eldritch](./%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch)
-
-<img src="./%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Eldritch-Custom] [F] Mage Lord v1 by Eldritch standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BEldritch-Custom%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Eldritch-Custom\] \[M\] Mage Lord v1 by Eldritch](./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch)
-
-<img src="./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Eldritch-Custom] [M] Mage Lord v1 by Eldritch standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Eldritch-Custom\] \[M\] Mage Lord v2 by Eldritch](./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch)
-
-<img src="./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Eldritch-Custom] [M] Mage Lord v2 by Eldritch standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BEldritch-Custom%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
-
-
 ## [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff](./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff)
 
 <img src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/6.%20Magic/Magic_000.png" alt="[Mage-Base] [F] Vanilla FE6 Lilina +Staff standing" />
@@ -104,22 +65,9 @@
 | <img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif" /> |
 
 
-## [\[Mage-Custom\] \[F\] Gaiden-Style by Gamma](./%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma)
+## [\[Mage-Custom1\] \[F\] Gaiden-Style by Gamma](./%5BMage-Custom1%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/%5BMage-Custom1%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma)
 
-<img src="./%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [F] Gaiden-Style by Gamma standing" />
-
-
-### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./%5BMage-Custom%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic.gif" /> |
-
-
-## [\[Mage-Custom\] \[F\] Light Mage by L95](./%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20by%20L95/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20by%20L95)
-
-<img src="./%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [F] Light Mage by L95 standing" />
+<img src="./%5BMage-Custom1%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic_000.png" alt="[Mage-Custom1] [F] Gaiden-Style by Gamma standing" />
 
 
 ### Weapons
@@ -127,25 +75,12 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic.gif" /> |
 
 
-## [\[Mage-Custom\] \[F\] Light Mage Long Hair by L95](./%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95)
+## [\[Mage-Custom1\] \[F\] Light Mage by L95](./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95)
 
-<img src="./%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [F] Light Mage Long Hair by L95 standing" />
-
-
-### Weapons
-
-
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./%5BMage-Custom%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic.gif" /> |
-
-
-## [\[Mage-Custom\] \[M\] Light Mage by L95](./%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage%20by%20L95/%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage%20by%20L95)
-
-<img src="./%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic_000.png" alt="[Mage-Custom] [M] Light Mage by L95 standing" />
+<img src="./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic_000.png" alt="[Mage-Custom1] [F] Light Mage by L95 standing" />
 
 
 ### Weapons
@@ -153,7 +88,72 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./%5BMage-Custom%5D%20%5BM%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif" /> |
+| <img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif" /> |
+
+
+## [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95)
+
+<img src="./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic_000.png" alt="[Mage-Custom1] [F] Light Mage Long Hair by L95 standing" />
+
+
+### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic.gif" /> |
+
+
+## [\[Mage-Custom1\] \[M\] Light Mage by L95](./%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95)
+
+<img src="./%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic_000.png" alt="[Mage-Custom1] [M] Light Mage by L95 standing" />
+
+
+### Weapons
+
+
+|Magic |
+|  :---: |
+| <img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif" /> |
+
+
+## [\[Mage-Custom2\] \[F\] Mage Lord v1 by Eldritch](./%5BMage-Custom2%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/%5BMage-Custom2%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch)
+
+<img src="./%5BMage-Custom2%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Mage-Custom2] [F] Mage Lord v1 by Eldritch standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BMage-Custom2%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BMage-Custom2%5D%20%5BF%5D%20Mage%20Lord%20v1%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
+
+
+## [\[Mage-Custom2\] \[M\] Mage Lord v1 by Eldritch](./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch)
+
+<img src="./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Mage-Custom2] [M] Mage Lord v1 by Eldritch standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v1%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
+
+
+## [\[Mage-Custom2\] \[M\] Mage Lord v2 by Eldritch](./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch)
+
+<img src="./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[Mage-Custom2] [M] Mage Lord v2 by Eldritch standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BMage-Custom2%5D%20%5BM%5D%20Mage%20Lord%20v2%20by%20Eldritch/7.%20Staff/Staff.gif" /> |
 
 
 ## [\[Mage-Reskin\] \[F\] Hat by RetroGamer](./%5BMage-Reskin%5D%20%5BF%5D%20Hat%20by%20RetroGamer/%5BMage-Reskin%5D%20%5BF%5D%20Hat%20by%20RetroGamer)

@@ -1,18 +1,5 @@
 # [Magi - Dark-Type Battle Animations](./)
 
-## [\[Crossover Custom\] \[U\] Executioner \(Assassin+Druid\)](./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid))
-
-<img src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword_000.png" alt="[Crossover Custom] [U] Executioner (Assassin+Druid) standing" />
-
-
-### Weapons
-
-
-|Sword |Magic |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BCrossover%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/8.%20Unarmed/Unarmed.gif" /> |
-
-
 ## [\[Custom DM\] \[F\] Dark Mage by Pikmin](./%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin)
 
 <img src="./%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Custom DM] [F] Dark Mage by Pikmin standing" />
@@ -37,58 +24,6 @@
 |Magic |
 |  :---: |
 | <img alt="Magic animation" src="./%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif" /> |
-
-
-## [\[Druid-Base\] \[F\] Vanilla FE6](./%5BDruid-Base%5D%20%5BF%5D%20Vanilla%20FE6/%5BDruid-Base%5D%20%5BF%5D%20Vanilla%20FE6)
-
-<img src="./%5BDruid-Base%5D%20%5BF%5D%20Vanilla%20FE6/6.%20Magic/Magic_000.png" alt="[Druid-Base] [F] Vanilla FE6 standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BDruid-Base%5D%20%5BF%5D%20Vanilla%20FE6/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BDruid-Base%5D%20%5BF%5D%20Vanilla%20FE6/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Druid-Base\] \[M\] Vanilla FE6-8](./%5BDruid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/%5BDruid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8)
-
-<img src="./%5BDruid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic_000.png" alt="[Druid-Base] [M] Vanilla FE6-8 standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BDruid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BDruid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Druid-Base\] \[U\] Vanilla Wizard FE4 Loptyr Rip](./%5BDruid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/%5BDruid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip)
-
-<img src="./%5BDruid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/6.%20Magic/Magic_000.png" alt="[Druid-Base] [U] Vanilla Wizard FE4 Loptyr Rip standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BDruid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BDruid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Druid-Reskin\] \[M\] Hoodless by JeyTheCount](./%5BDruid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/%5BDruid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount)
-
-<img src="./%5BDruid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/6.%20Magic/Magic_000.png" alt="[Druid-Reskin] [M] Hoodless by JeyTheCount standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BDruid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BDruid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/7.%20Staff/Staff.gif" /> |
 
 
 ## [\[Shaman-Base\] \[F\] FE6 Repal by Markyjoe](./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe)
@@ -169,9 +104,61 @@
 | <img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/7.%20Staff/Staff.gif" /> |
 
 
-## [\[Summoner-Base\] \[M\] Vanilla +Axes](./%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes)
+## [\[T2 Druid-Base\] \[F\] Vanilla FE6](./%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6)
 
-<img src="./%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/3.%20Axe/Axe_000.png" alt="[Summoner-Base] [M] Vanilla +Axes standing" />
+<img src="./%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/6.%20Magic/Magic_000.png" alt="[T2 Druid-Base] [F] Vanilla FE6 standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/7.%20Staff/Staff.gif" /> |
+
+
+## [\[T2 Druid-Base\] \[M\] Vanilla FE6-8](./%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8)
+
+<img src="./%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic_000.png" alt="[T2 Druid-Base] [M] Vanilla FE6-8 standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/7.%20Staff/Staff.gif" /> |
+
+
+## [\[T2 Druid-Base\] \[U\] Vanilla Wizard FE4 Loptyr Rip](./%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip)
+
+<img src="./%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/6.%20Magic/Magic_000.png" alt="[T2 Druid-Base] [U] Vanilla Wizard FE4 Loptyr Rip standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/7.%20Staff/Staff.gif" /> |
+
+
+## [\[T2 Druid-Reskin\] \[M\] Hoodless by JeyTheCount](./%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount)
+
+<img src="./%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/6.%20Magic/Magic_000.png" alt="[T2 Druid-Reskin] [M] Hoodless by JeyTheCount standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/7.%20Staff/Staff.gif" /> |
+
+
+## [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes)
+
+<img src="./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/3.%20Axe/Axe_000.png" alt="[T2 Summoner-Base] [M] Vanilla +Axes standing" />
 
 
 ### Weapons
@@ -179,25 +166,12 @@
 
 |Axe |Handaxe |Magic |Staff |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BSummoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/7.%20Staff/Staff.gif" /> |
+| <img alt="Axe animation" src="./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/7.%20Staff/Staff.gif" /> |
 
 
-## [\[Summoner-Reskin\] \[F\] FEGirls-Style](./%5BSummoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/%5BSummoner-Reskin%5D%20%5BF%5D%20FEGirls-Style)
+## [\[T2 Summoner-Reskin\] \[F\] FEGirls-Style](./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style)
 
-<img src="./%5BSummoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/6.%20Magic/Magic_000.png" alt="[Summoner-Reskin] [F] FEGirls-Style standing" />
-
-
-### Weapons
-
-
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./%5BSummoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BSummoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/7.%20Staff/Staff.gif" /> |
-
-
-## [\[Summoner-Reskin\] \[F\] Generic by Velvet](./%5BSummoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/%5BSummoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet)
-
-<img src="./%5BSummoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/6.%20Magic/Magic_000.png" alt="[Summoner-Reskin] [F] Generic by Velvet standing" />
+<img src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/6.%20Magic/Magic_000.png" alt="[T2 Summoner-Reskin] [F] FEGirls-Style standing" />
 
 
 ### Weapons
@@ -205,7 +179,20 @@
 
 |Magic |Staff |
 |  :---: | :---: |
-| <img alt="Magic animation" src="./%5BSummoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BSummoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/7.%20Staff/Staff.gif" /> |
+| <img alt="Magic animation" src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/7.%20Staff/Staff.gif" /> |
+
+
+## [\[T2 Summoner-Reskin\] \[F\] Generic by Velvet](./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet)
+
+<img src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/6.%20Magic/Magic_000.png" alt="[T2 Summoner-Reskin] [F] Generic by Velvet standing" />
+
+
+### Weapons
+
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/7.%20Staff/Staff.gif" /> |
 
 
 ## [\[T3 Custom\] \[M\] Dark Prince Julius by Obs](./%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs/%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs)
@@ -221,6 +208,19 @@
 | <img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs/6.%20Magic/Magic.gif" /> |
 
 
+## [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](./%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid))
+
+<img src="./%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword_000.png" alt="[T3 Custom] [U] Executioner (Assassin+Druid) standing" />
+
+
+### Weapons
+
+
+|Sword |Magic |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[T3 Custom\] \[U\] Moloch Sorcerer by Huichelaar](./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar)
 
 <img src="./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/2.%20Lance/Lance_000.png" alt="[T3 Custom] [U] Moloch Sorcerer by Huichelaar standing" />
@@ -234,9 +234,9 @@
 | <img alt="Lance animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/2.%20Lance/Lance.gif" /> | <img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[T3 FE7\] \[F\] Dark Druid +Weapons](./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons)
+## [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons)
 
-<img src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE7)/Magic_000.png" alt="[T3 FE7] [F] Dark Druid +Weapons standing" />
+<img src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE7)/Magic_000.png" alt="[T3 Dark Druid] [F] Vanilla +Weapons standing" />
 
 
 ### Weapons
@@ -244,12 +244,12 @@
 
 |Magic |Magic |Magic |Magic |Staff |Staff |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE7)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(Sorcress,%20Critical%20Sigil)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/6.%20Magic%20(Sorcress,%20No%20Critical%20Sigil/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(CamusZekeSirius)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(FE7%20Dark%20Effect)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BF%5D%20Dark%20Druid%20+Weapons/7.%20Staff%20(FE8%20Dark%20Effect)/Staff.gif" /> |
+| <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE7)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE8)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20Critical%20Sigil)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20No%20Critical%20Sigil/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(CamusZekeSirius)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE7%20Dark%20Effect)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE8%20Dark%20Effect)/Staff.gif" /> |
 
 
-## [\[T3 FE7\] \[M\] Dark Druid Nergal +Fixes](./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes)
+## [\[T3 Dark Druid\] \[M\] Nergal +Fixes](./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes)
 
-<img src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic_000.png" alt="[T3 FE7] [M] Dark Druid Nergal +Fixes standing" />
+<img src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic_000.png" alt="[T3 Dark Druid] [M] Nergal +Fixes standing" />
 
 
 ### Weapons
@@ -257,12 +257,12 @@
 
 |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Adv)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Basic)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Light)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Freeze%20Fix)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Light)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Vanilla%20Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20+Fixes/7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif" /> |
+| <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Adv)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Basic)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Light)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Freeze%20Fix)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Light)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla%20Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif" /> |
 
 
-## [\[T3 FE7\] \[M\] Dark Druid Nergal Repal by SHYUTERz](./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz)
+## [\[T3 Dark Druid\] \[M\] Nergal Repal by SHYUTERz](./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz)
 
-<img src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic_000.png" alt="[T3 FE7] [M] Dark Druid Nergal Repal by SHYUTERz standing" />
+<img src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic_000.png" alt="[T3 Dark Druid] [M] Nergal Repal by SHYUTERz standing" />
 
 
 ### Weapons
@@ -270,7 +270,7 @@
 
 |Magic |
 |  :---: |
-| <img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Dark%20Druid%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic.gif" /> |
+| <img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic.gif" /> |
 
 
 ## [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](./%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka)
@@ -299,9 +299,9 @@
 | <img alt="Sword animation" src="./%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka/7.%20Staff/Staff.gif" /> |
 
 
-## [\[T3 Necromancer\] \[F\] Lilina by Redbean](./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean)
+## [\[T3 Necromancer\] \[F\] Archsage Lilina by Redbean](./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean)
 
-<img src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[T3 Necromancer] [F] Lilina by Redbean standing" />
+<img src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[T3 Necromancer] [F] Archsage Lilina by Redbean standing" />
 
 
 ### Weapons
@@ -309,12 +309,12 @@
 
 |Sword |Axe |Handaxe |Magic |Staff |Legendary |Legendary |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/7.%20Staff/Staff.gif" /> | <img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/8.%20Legendary%20Axe%20(Armads)/Legendary.gif" /> | <img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Lilina%20by%20Redbean/8.%20Legendary%20Magic%20(Armads)/Legendary.gif" /> |
+| <img alt="Sword animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/7.%20Staff/Staff.gif" /> | <img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Axe%20(Armads)/Legendary.gif" /> | <img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Magic%20(Armads)/Legendary.gif" /> |
 
 
-## [\[T3 Necromancer\] \[M\] Necromancer Generic by Eldritch](./%5BT3%20Necromancer%5D%20%5BM%5D%20Necromancer%20Generic%20by%20Eldritch/%5BT3%20Necromancer%5D%20%5BM%5D%20Necromancer%20Generic%20by%20Eldritch)
+## [\[T3 Necromancer\] \[M\] Generic by Eldritch](./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch)
 
-<img src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Necromancer%20Generic%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[T3 Necromancer] [M] Necromancer Generic by Eldritch standing" />
+<img src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[T3 Necromancer] [M] Generic by Eldritch standing" />
 
 
 ### Weapons
@@ -322,7 +322,7 @@
 
 |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Necromancer%20Generic%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Necromancer%20Generic%20by%20Eldritch/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Necromancer%20Generic%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Necromancer%20Generic%20by%20Eldritch/7.%20Staff%20(Fixed)/Staff.gif" /> |
+| <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff%20(Fixed)/Staff.gif" /> |
 
 
 ## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons)

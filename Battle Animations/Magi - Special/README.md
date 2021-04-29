@@ -234,6 +234,32 @@
 | <img alt="Staff animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff/Staff.gif" /> | <img alt="Staff animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff%20(Constant%20timing)/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[FE13-Custom\] \[F\] War Cleric by DerTheVaporeon](./%5BFE13-Custom%5D%20%5BF%5D%20War%20Cleric%20by%20DerTheVaporeon/%5BFE13-Custom%5D%20%5BF%5D%20War%20Cleric%20by%20DerTheVaporeon)
+
+<img src="./%5BFE13-Custom%5D%20%5BF%5D%20War%20Cleric%20by%20DerTheVaporeon/3.%20Axe/Axe_000.png" alt="[FE13-Custom] [F] War Cleric by DerTheVaporeon standing" />
+
+
+### Weapons
+
+
+|Axe |Handaxe |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Axe animation" src="./%5BFE13-Custom%5D%20%5BF%5D%20War%20Cleric%20by%20DerTheVaporeon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BFE13-Custom%5D%20%5BF%5D%20War%20Cleric%20by%20DerTheVaporeon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Staff animation" src="./%5BFE13-Custom%5D%20%5BF%5D%20War%20Cleric%20by%20DerTheVaporeon/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BFE13-Custom%5D%20%5BF%5D%20War%20Cleric%20by%20DerTheVaporeon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[FE13-Custom\] \[M\] War Monk by DerTheVaporeon](./%5BFE13-Custom%5D%20%5BM%5D%20War%20Monk%20by%20DerTheVaporeon/%5BFE13-Custom%5D%20%5BM%5D%20War%20Monk%20by%20DerTheVaporeon)
+
+<img src="./%5BFE13-Custom%5D%20%5BM%5D%20War%20Monk%20by%20DerTheVaporeon/3.%20Axe/Axe_000.png" alt="[FE13-Custom] [M] War Monk by DerTheVaporeon standing" />
+
+
+### Weapons
+
+
+|Axe |Handaxe |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: |
+| <img alt="Axe animation" src="./%5BFE13-Custom%5D%20%5BM%5D%20War%20Monk%20by%20DerTheVaporeon/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BFE13-Custom%5D%20%5BM%5D%20War%20Monk%20by%20DerTheVaporeon/4.%20Handaxe/Handaxe.gif" /> | <img alt="Staff animation" src="./%5BFE13-Custom%5D%20%5BM%5D%20War%20Monk%20by%20DerTheVaporeon/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BFE13-Custom%5D%20%5BM%5D%20War%20Monk%20by%20DerTheVaporeon/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Marlon-Tact\] \[F\] Tactician Mark v1 by Marlon0024](./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024)
 
 <img src="./%5BMarlon-Tact%5D%20%5BF%5D%20Tactician%20Mark%20v1%20by%20Marlon0024/1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [F] Tactician Mark v1 by Marlon0024 standing" />

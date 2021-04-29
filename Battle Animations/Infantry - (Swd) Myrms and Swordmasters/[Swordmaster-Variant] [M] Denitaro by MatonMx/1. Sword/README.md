@@ -1,4 +1,4 @@
-# [\[Swordmaster-Variant\] \[M\] Denitaro]
+# [\[Swordmaster-Variant\] \[M\] Denitaro by MatonMx]
 
 ## Credit
 

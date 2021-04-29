@@ -416,9 +416,9 @@
 | <img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword%20(Alt)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Swordmaster-Variant\] \[M\] Denitaro](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro/%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro)
+## [\[Swordmaster-Variant\] \[M\] Denitaro by MatonMx](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx/%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx)
 
-<img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Denitaro standing" />
+<img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Denitaro by MatonMx standing" />
 
 
 ### Weapons
@@ -426,7 +426,7 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro/1.%20Sword/Sword.gif" /> |
+| <img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx/1.%20Sword/Sword.gif" /> |
 
 
 ## [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA)

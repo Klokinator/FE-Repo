@@ -9554,45 +9554,6 @@
 | <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Dragon-Custom\] \[U\] Black Dragon FE10-Style by Nuramon](./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/%5BDragon-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon)
-
-<img src="./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/8.%20Dragonstone/Dragonstone_000.png" alt="[Dragon-Custom] [U] Black Dragon FE10-Style by Nuramon standing" />
-
-
-#### Weapons
-
-
-|Dragonstone |Unarmed |
-|  :---: | :---: |
-| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Dragon-Custom\] \[U\] Blue Eyes Yu-Gi-Oh!](./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!/%5BDragon-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!)
-
-<img src="./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!/8.%20Dragonstone/Dragonstone_000.png" alt="[Dragon-Custom] [U] Blue Eyes Yu-Gi-Oh! standing" />
-
-
-#### Weapons
-
-
-|Dragonstone |
-|  :---: |
-| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!/8.%20Dragonstone/Dragonstone.gif" /> |
-
-
-### [\[Dragon-Custom\] \[U\] Elibian Nights Ice Dragon](./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/%5BDragon-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon)
-
-<img src="./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/8.%20Dragonstone/Dragonstone_000.png" alt="[Dragon-Custom] [U] Elibian Nights Ice Dragon standing" />
-
-
-#### Weapons
-
-
-|Dragonstone |
-|  :---: |
-| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BDragon-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/8.%20Dragonstone/Dragonstone.gif" /> |
-
-
 ### [\[Gorgon-Base\] \[F\] Vanilla](./6a.%20T1%20Monsters%20(WIP)/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla)
 
 <img src="./6a.%20T1%20Monsters%20(WIP)/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla/6.%20Magic/Magic_000.png" alt="[Gorgon-Base] [F] Vanilla standing" />
@@ -9697,22 +9658,9 @@
 | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Myrrh%20+FE7/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Myrrh%20+FE7/6.%20Magic%20(Gran%20Caster)/Magic.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Myrrh%20+FE7/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Myrrh%20+FE7/8.%20Dragonstone%20(FE7)/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Myrrh%20+FE7/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Manakete-Base\] \[U\] Undead Morva Vanilla](./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Undead%20Morva%20Vanilla/%5BManakete-Base%5D%20%5BU%5D%20Undead%20Morva%20Vanilla)
+### [\[Manakete-Base\] \[U\] Vanilla FE8 Dracozombie +FE7](./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7)
 
-<img src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Undead%20Morva%20Vanilla/8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Base] [U] Undead Morva Vanilla standing" />
-
-
-#### Weapons
-
-
-|Dragonstone |
-|  :---: |
-| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Undead%20Morva%20Vanilla/8.%20Dragonstone/Dragonstone.gif" /> |
-
-
-### [\[Manakete-Base\] \[U\] Vanilla Dracozombie +FE7](./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20Dracozombie%20+FE7/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20Dracozombie%20+FE7)
-
-<img src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20Dracozombie%20+FE7/8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Base] [U] Vanilla Dracozombie +FE7 standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Base] [U] Vanilla FE8 Dracozombie +FE7 standing" />
 
 
 #### Weapons
@@ -9720,20 +9668,20 @@
 
 |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20Dracozombie%20+FE7/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20Dracozombie%20+FE7/8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20Dracozombie%20+FE7/8.%20Dragonstone%20(Improved%20+Transform)/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(Improved%20+Transform)/Dragonstone.gif" /> |
 
 
-### [\[Manakete-Custom\] \[M\] Wanderer - Blade by Chhhsfe](./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe/%5BManakete-Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe)
+### [\[Manakete-Base\] \[U\] Vanilla FE8 Undead Morva](./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Undead%20Morva/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Undead%20Morva)
 
-<img src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe/1.%20Sword/Sword_000.png" alt="[Manakete-Custom] [M] Wanderer - Blade by Chhhsfe standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Undead%20Morva/8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Base] [U] Vanilla FE8 Undead Morva standing" />
 
 
 #### Weapons
 
 
-|Sword |
+|Dragonstone |
 |  :---: |
-| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe/1.%20Sword/Sword.gif" /> |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Undead%20Morva/8.%20Dragonstone/Dragonstone.gif" /> |
 
 
 ### [\[Manakete-Reskin\] \[F\] Fae to Myrrh Dragon by Teraspark](./6a.%20T1%20Monsters%20(WIP)/%5BManakete-Reskin%5D%20%5BF%5D%20Fae%20to%20Myrrh%20Dragon%20by%20Teraspark/%5BManakete-Reskin%5D%20%5BF%5D%20Fae%20to%20Myrrh%20Dragon%20by%20Teraspark)
@@ -9840,6 +9788,19 @@
 | <img alt="Bow animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMogall-Variant%5D%20%5BU%5D%20Mogall%20Rider%20by%20Sme/5.%20Bow/Bow.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMogall-Variant%5D%20%5BU%5D%20Mogall%20Rider%20by%20Sme/6.%20Magic/Magic.gif" /> |
 
 
+### [\[Monster Custom\] \[M\] Wanderer - Blade by Chhhsfe](./6a.%20T1%20Monsters%20(WIP)/%5BMonster%20Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe/%5BMonster%20Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster%20Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe/1.%20Sword/Sword_000.png" alt="[Monster Custom] [M] Wanderer - Blade by Chhhsfe standing" />
+
+
+#### Weapons
+
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster%20Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe/1.%20Sword/Sword.gif" /> |
+
+
 ### [\[Monster-Custom\] \[F\] Mermaid by ZoramineFae](./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BF%5D%20Mermaid%20by%20ZoramineFae/%5BMonster-Custom%5D%20%5BF%5D%20Mermaid%20by%20ZoramineFae)
 
 <img src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BF%5D%20Mermaid%20by%20ZoramineFae/6.%20Magic/Magic_000.png" alt="[Monster-Custom] [F] Mermaid by ZoramineFae standing" />
@@ -9892,6 +9853,32 @@
 | <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BF%5D%20Tiki%20Half-Dragon%20by%20Tykky/1.%20Sword%20(Flashy%20crit)/Sword.gif" /> | <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BF%5D%20Tiki%20Half-Dragon%20by%20Tykky/1.%20Sword%20(Normal%20Crit)/Sword.gif" /> | <img alt="Magic animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BF%5D%20Tiki%20Half-Dragon%20by%20Tykky/6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BF%5D%20Tiki%20Half-Dragon%20by%20Tykky/8.%20Unarmed/Unarmed.gif" /> |
 
 
+### [\[Monster-Custom\] \[U\] Black Dragon FE10-Style by Nuramon](./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/%5BMonster-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/8.%20Dragonstone/Dragonstone_000.png" alt="[Monster-Custom] [U] Black Dragon FE10-Style by Nuramon standing" />
+
+
+#### Weapons
+
+
+|Dragonstone |Unarmed |
+|  :---: | :---: |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Black%20Dragon%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Monster-Custom\] \[U\] Blue Eyes Yu-Gi-Oh!](./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!/%5BMonster-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!/8.%20Dragonstone/Dragonstone_000.png" alt="[Monster-Custom] [U] Blue Eyes Yu-Gi-Oh! standing" />
+
+
+#### Weapons
+
+
+|Dragonstone |
+|  :---: |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Blue%20Eyes%20Yu-Gi-Oh!/8.%20Dragonstone/Dragonstone.gif" /> |
+
+
 ### [\[Monster-Custom\] \[U\] Cursed Sword by SALVAGED](./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Cursed%20Sword%20by%20SALVAGED/%5BMonster-Custom%5D%20%5BU%5D%20Cursed%20Sword%20by%20SALVAGED)
 
 <img src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Cursed%20Sword%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Monster-Custom] [U] Cursed Sword by SALVAGED standing" />
@@ -9903,6 +9890,19 @@
 |Sword |
 |  :---: |
 | <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Cursed%20Sword%20by%20SALVAGED/1.%20Sword/Sword.gif" /> |
+
+
+### [\[Monster-Custom\] \[U\] Elibian Nights Ice Dragon](./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon)
+
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/8.%20Dragonstone/Dragonstone_000.png" alt="[Monster-Custom] [U] Elibian Nights Ice Dragon standing" />
+
+
+#### Weapons
+
+
+|Dragonstone |
+|  :---: |
+| <img alt="Dragonstone animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/8.%20Dragonstone/Dragonstone.gif" /> |
 
 
 ### [\[Monster-Custom\] \[U\] Evergrim-Staff by Almirage](./6a.%20T1%20Monsters%20(WIP)/%5BMonster-Custom%5D%20%5BU%5D%20Evergrim-Staff%20by%20Almirage/%5BMonster-Custom%5D%20%5BU%5D%20Evergrim-Staff%20by%20Almirage)
@@ -10032,7 +10032,7 @@
 
 |Sword |Lance |Axe |Axe |Handaxe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BMrNighti%7D/Axe.gif" /> | <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BVilkalizeR%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20%7BMrNight%7D/Handaxe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20%7BVilkalizer%7D/Handaxe.gif" /> | <img alt="Bow animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BMrNight%7D/Axe.gif" /> | <img alt="Axe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BVilkalizeR%7D/Axe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20(Big)/Handaxe.gif" /> | <img alt="Handaxe animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20(Slim)/Handaxe.gif" /> | <img alt="Bow animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Skeleton-Base\] \[U\] Bonewalker Vanilla Beta](./6a.%20T1%20Monsters%20(WIP)/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20Beta/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20Beta)
@@ -10230,9 +10230,9 @@
 | <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20Teraspark%20+Magic/8.%20Monster/Monster.gif" /> |
 
 
-### [\[Wolf-Reskin\] \[U\] Cerberus by Pikmin1211 +SM Crit](./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/%5BWolf-Reskin%5D%20%5BU%5D%20Cerberus%20by%20Pikmin1211%20+SM%20Crit)
+### [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit)
 
-<img src="./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster_000.png" alt="[Wolf-Reskin] [U] Cerberus by Pikmin1211 +SM Crit standing" />
+<img src="./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster_000.png" alt="[Wolf-Reskin] [U] Winged Cerberus by Pikmin1211 +SM Crit standing" />
 
 
 #### Weapons
@@ -10240,7 +10240,7 @@
 
 |Monster |Monster |
 |  :---: | :---: |
-| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif" /> |
+| <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster.gif" /> | <img alt="Monster animation" src="./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif" /> |
 
 
 ### [\[Wolf-Reskin\] \[U\] Winged Vampirehound](./6a.%20T1%20Monsters%20(WIP)/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound)

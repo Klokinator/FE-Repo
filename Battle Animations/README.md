@@ -2253,22 +2253,9 @@
 
 ## [Infantry - (Lnc) Soldiers, Halberdiers Battle Animations](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/)
 
-### [\[Amelia-Style\] \[F\] T0 Recruit Repal by Spud](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
+### [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord)
 
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T0 Recruit Repal by Spud standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Amelia-Style\] \[F\] T1 Soldier by Spud](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T1 Soldier by Spud standing" />
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/2.%20Lance/Lance_000.png" alt="[Custom Drag] [U] Dragoon by Mercenary Lord standing" />
 
 
 #### Weapons
@@ -2276,12 +2263,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Amelia-Style\] \[F\] T2 Halberdier by Spud](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud)
+### [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin)
 
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Amelia-Style] [F] T2 Halberdier by Spud standing" />
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance_000.png" alt="[Custom Drag] [U] Dragoon Repal by Pikmin standing" />
 
 
 #### Weapons
@@ -2289,12 +2276,12 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BAmelia-Style%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Custom Lance\] \[F\] Halberdier by Black Mage](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage)
+### [\[Custom Halb\] \[F\] Halberdier by Black Mage](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage)
 
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance/Lance_000.png" alt="[Custom Lance] [F] Halberdier by Black Mage standing" />
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance/Lance_000.png" alt="[Custom Halb] [F] Halberdier by Black Mage standing" />
 
 
 #### Weapons
@@ -2302,38 +2289,12 @@
 
 |Lance |Lance |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance%20(Ting)/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance/Lance.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance%20(Ting)/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Custom Lance\] \[M\] Halb-Lancer by Jj09](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20Jj09/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20Jj09)
+### [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes)
 
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20Jj09/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Halb-Lancer by Jj09 standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20Jj09/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20Jj09/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Custom Lance\] \[M\] Halb-Lancer by TBA](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20TBA/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20TBA)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20TBA/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Halb-Lancer by TBA standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20TBA/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20by%20TBA/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Custom Lance\] \[M\] Halberdier by TBA +Axes](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Halberdier by TBA +Axes standing" />
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance_000.png" alt="[Custom Halb] [M] Halberdier by TBA +Axes standing" />
 
 
 #### Weapons
@@ -2341,7 +2302,33 @@
 
 |Lance |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif" /> | <img alt="Handaxe animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Custom Lance\] \[M\] Halb-Lancer v1 by TBA](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA)
+
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Halb-Lancer v1 by TBA standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Custom Lance\] \[M\] Halb-Lancer v2 by Jj09](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09)
+
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Halb-Lancer v2 by Jj09 standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq)
@@ -2383,32 +2370,6 @@
 | <img alt="Sword animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Custom Lance\] \[U\] Dragoon by Mercenary Lord](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/2.%20Lance/Lance_000.png" alt="[Custom Lance] [U] Dragoon by Mercenary Lord standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Custom Lance\] \[U\] Dragoon Repal by Pikmin](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance_000.png" alt="[Custom Lance] [U] Dragoon Repal by Pikmin standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif" /> |
-
-
 ### [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm)
 
 <img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm/2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] Halberdier by Bonestorm standing" />
@@ -2435,17 +2396,43 @@
 | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh/2.%20Lance/Lance.gif" /> |
 
 
-### [\[Ephraim-Variant\] \[F\] Lancer by Memae](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20Lancer%20by%20Memae/%5BEphraim-Variant%5D%20%5BF%5D%20Lancer%20by%20Memae)
+### [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
 
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20Lancer%20by%20Memae/1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [F] Lancer by Memae standing" />
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Recruit-Amelia] [F] T0 Recruit Repal by Spud standing" />
 
 
 #### Weapons
 
 
-|Sword |Lance |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20Lancer%20by%20Memae/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20Lancer%20by%20Memae/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20Lancer%20by%20Memae/8.%20Unarmed/Unarmed.gif" /> |
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Recruit-Amelia\] \[F\] T1 Soldier by Spud](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud)
+
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Recruit-Amelia] [F] T1 Soldier by Spud standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Recruit-Amelia\] \[F\] T2 Halberdier by Spud](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud)
+
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/2.%20Lance/Lance_000.png" alt="[Recruit-Amelia] [F] T2 Halberdier by Spud standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Recruit-Base\] \[F\] Alice Lord by Yazuki](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki/%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki)
@@ -2487,45 +2474,6 @@
 | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Soldier-Base\] \[F\] FE10-Style by Flasuban](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/%5BSoldier-Base%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance_000.png" alt="[Soldier-Base] [F] FE10-Style by Flasuban standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Soldier-Base\] \[F\] Ponytail by Dr0zz](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/%5BSoldier-Base%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/2.%20Lance/Lance_000.png" alt="[Soldier-Base] [F] Ponytail by Dr0zz standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/8.%20Unarmed/Unarmed.gif" /> |
-
-
-### [\[Soldier-Base\] \[M\] FE10-Style by Flasuban](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/%5BSoldier-Base%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
-
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance_000.png" alt="[Soldier-Base] [M] FE10-Style by Flasuban standing" />
-
-
-#### Weapons
-
-
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif" /> |
-
-
 ### [\[Soldier-Base\] \[M\] Vanilla +Weapons](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons)
 
 <img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Soldier-Base] [M] Vanilla +Weapons standing" />
@@ -2539,9 +2487,9 @@
 | <img alt="Sword animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Soldier-Style\] \[M\] FE10-Style by Nuramon](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon)
+### [\[Soldier-Custom\] \[M\] FE10-Style by Nuramon](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon)
 
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance_000.png" alt="[Soldier-Style] [M] FE10-Style by Nuramon standing" />
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance_000.png" alt="[Soldier-Custom] [M] FE10-Style by Nuramon standing" />
 
 
 #### Weapons
@@ -2549,7 +2497,46 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Style%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban)
+
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance_000.png" alt="[Soldier-Reskin] [F] FE10-Style by Flasuban standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz)
+
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/2.%20Lance/Lance_000.png" alt="[Soldier-Reskin] [F] Ponytail by Dr0zz standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Soldier-Reskin\] \[M\] FE10-Style by Flasuban](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
+
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance_000.png" alt="[Soldier-Reskin] [M] FE10-Style by Flasuban standing" />
+
+
+#### Weapons
+
+
+|Lance |Unarmed |
+|  :---: | :---: |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Soldier-Variant\] \[F\] Lightweight Lancer by Alusq](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq)
@@ -5753,6 +5740,19 @@
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |
 | <img alt="Sword animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Reskin%5D%20%5BM%5D%20T2%20Eliwood%20by%20Glenwing/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Reskin%5D%20%5BM%5D%20T2%20Eliwood%20by%20Glenwing/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Reskin%5D%20%5BM%5D%20T2%20Eliwood%20by%20Glenwing/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae)
+
+<img src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [F] T1 Lancer by Memae standing" />
+
+
+#### Weapons
+
+
+|Sword |Lance |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons)

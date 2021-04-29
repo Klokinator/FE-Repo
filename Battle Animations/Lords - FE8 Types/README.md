@@ -325,6 +325,19 @@
 | <img alt="Sword animation" src="./%5BEphraim-Reskin%5D%20%5BM%5D%20T2%20Eliwood%20by%20Glenwing/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Reskin%5D%20%5BM%5D%20T2%20Eliwood%20by%20Glenwing/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Reskin%5D%20%5BM%5D%20T2%20Eliwood%20by%20Glenwing/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae)
+
+<img src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [F] T1 Lancer by Memae standing" />
+
+
+### Weapons
+
+
+|Sword |Lance |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons)
 
 <img src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [F] T1 Vanilla Repack +Weapons standing" />

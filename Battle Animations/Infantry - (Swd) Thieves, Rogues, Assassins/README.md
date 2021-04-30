@@ -299,9 +299,9 @@
 | <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Temp/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Temp/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Rogue-Reskin\] \[F\] Repal +Staff \(Community Effort\)](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort))
+## [\[Rogue-Reskin\] \[F\] Repal +Staff](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff)
 
-<img src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff (Community Effort) standing" />
+<img src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff standing" />
 
 
 ### Weapons
@@ -309,7 +309,7 @@
 
 |Sword |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20(Community%20Effort)/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw)
@@ -325,9 +325,9 @@
 | <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl \(Community Effort\)](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort))
+## [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl)
 
-<img src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff Catgirl (Community Effort) standing" />
+<img src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff Catgirl standing" />
 
 
 ### Weapons
@@ -335,7 +335,7 @@
 
 |Sword |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl%20(Community%20Effort)/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Rogue-Reskin\] \[M\] Trickster by Leo_Link](./%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link)
@@ -483,7 +483,7 @@
 
 ## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife)
 
-<img src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife%20Throw%20(Updated))/Sword_000.png" alt="[Thief-Base] [M] Matthew by GabrielKnight +Knife standing" />
+<img src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword_000.png" alt="[Thief-Base] [M] Matthew by GabrielKnight +Knife standing" />
 
 
 ### Weapons
@@ -491,7 +491,7 @@
 
 |Sword |
 |  :---: |
-| <img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife%20Throw%20(Updated))/Sword.gif" /> |
+| <img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif" /> |
 
 
 ## [\[Thief-Base\] \[M\] Matthew Repal by Eldritch](./%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch)

@@ -1,0 +1,3 @@
+{Lawliet, ChinaFE, Phuongprook}
+
+Palette formatted incorrectly, images are correct size, and some colors appear to have been accidentally made transparent throughout the framing process. Also may be "too big" for FEditor's current OAM capabilities.

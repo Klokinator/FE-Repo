@@ -1,6 +1,6 @@
-# [\[Brigand-Type\] \[M\] Sword Only by MonkeyBard](./)
+# [\[Sword-Custom\] \[M\] Thug by MonkeyBard](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Brigand-Type] [M] Sword Only by MonkeyBard standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Sword-Custom] [M] Thug by MonkeyBard standing" />
 
 ## Credits
 

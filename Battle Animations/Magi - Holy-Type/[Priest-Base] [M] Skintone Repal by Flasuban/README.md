@@ -1,6 +1,6 @@
-# [\[Priest-Base\] \[M\] Skintone Repal](./)
+# [\[Priest-Base\] \[M\] Skintone Repal by Flasuban](./)
 
-<img src="./7.%20Staff%20(+Magic)/Staff_000.png" alt="[Priest-Base] [M] Skintone Repal standing" />
+<img src="./7.%20Staff%20(+Magic)/Staff_000.png" alt="[Priest-Base] [M] Skintone Repal by Flasuban standing" />
 
 ## Credits
 

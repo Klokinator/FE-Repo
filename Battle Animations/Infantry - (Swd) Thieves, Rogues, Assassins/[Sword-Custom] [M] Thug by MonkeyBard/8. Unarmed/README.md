@@ -1,4 +1,4 @@
-# [\[Brigand-Type\] \[M\] Sword Only by MonkeyBard]
+# [\[Sword-Custom\] \[M\] Thug by MonkeyBard]
 
 ## Credit
 

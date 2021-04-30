@@ -6,9 +6,7 @@ Base Warrior by IS.
 
 Female variant by Temp.
 
-Repalette by helmfried.
-
-Long-haired version by helmfried?
+Repalette and Long-Haired edit by Pushwall.
 	
 ## Handaxe
 

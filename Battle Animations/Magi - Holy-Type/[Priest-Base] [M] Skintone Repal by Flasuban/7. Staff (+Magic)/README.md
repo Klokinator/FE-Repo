@@ -1,4 +1,4 @@
-# [\[Priest-Base\] \[M\] Skintone Repal]
+# [\[Priest-Base\] \[M\] Skintone Repal by Flasuban]
 
 ## Credit
 

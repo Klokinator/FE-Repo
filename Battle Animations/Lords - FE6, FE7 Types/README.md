@@ -273,22 +273,9 @@
 | <img alt="Sword animation" src="./%5BHector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Hector-Reskin\] \[M\] T1 Gladiator by Waleed](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20by%20Waleed/%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20by%20Waleed)
+## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator/%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator)
 
-<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20by%20Waleed/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] T1 Gladiator by Waleed standing" />
-
-
-### Weapons
-
-
-|Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20by%20Waleed/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20by%20Waleed/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20by%20Waleed/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Hector-Reskin\] \[M\] T1 Gladiator Repal by Pushwall](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20by%20Pushwall/%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20by%20Pushwall)
-
-<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] T1 Gladiator Repal by Pushwall standing" />
+<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] T1 Waleed's Gladiator standing" />
 
 
 ### Weapons
@@ -296,12 +283,25 @@
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Hector-Reskin\] \[M\] T1 Gladiator Repal v2 +Sword](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20v2%20+Sword/%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20v2%20+Sword)
+## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal by Pushwall](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall/%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall)
 
-<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20v2%20+Sword/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T1 Gladiator Repal v2 +Sword standing" />
+<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] T1 Waleed's Gladiator Repal by Pushwall standing" />
+
+
+### Weapons
+
+
+|Axe |Handaxe |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword)
+
+<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T1 Waleed's Gladiator Repal v2 +Sword standing" />
 
 
 ### Weapons
@@ -309,12 +309,12 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20v2%20+Sword/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20v2%20+Sword/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20v2%20+Sword/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Gladiator%20Repal%20v2%20+Sword/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Hector-Reskin\] \[M\] T2 \(Vanguard\) by Temp](./%5BHector-Reskin%5D%20%5BM%5D%20T2%20(Vanguard)%20by%20Temp/%5BHector-Reskin%5D%20%5BM%5D%20T2%20(Vanguard)%20by%20Temp)
+## [\[Hector-Reskin\] \[M\] T2 Vanguard by Temp](./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp)
 
-<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20(Vanguard)%20by%20Temp/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T2 (Vanguard) by Temp standing" />
+<img src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T2 Vanguard by Temp standing" />
 
 
 ### Weapons
@@ -322,7 +322,7 @@
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20(Vanguard)%20by%20Temp/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20(Vanguard)%20by%20Temp/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20(Vanguard)%20by%20Temp/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20(Vanguard)%20by%20Temp/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Hector-Reskin\] \[M\] T2 Yggdra Milanor by Aruka](./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka/%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka)

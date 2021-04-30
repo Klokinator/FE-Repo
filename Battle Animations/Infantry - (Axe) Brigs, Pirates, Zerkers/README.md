@@ -1,4 +1,4 @@
-# [Infantry - (Axe) Pirates, Brigs, Zerkers Battle Animations](./)
+# [Infantry - (Axe) Brigs, Pirates, Zerkers Battle Animations](./)
 
 ## [\[Berserker-Base\] \[M\] Vanilla +Magic](./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic)
 
@@ -375,19 +375,6 @@
 |Axe |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
 | <img alt="Axe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe/Axe.gif" /> | <img alt="Axe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe%20with%20Scream%20Critical/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/8.%20Unarmed/Unarmed.gif" /> |
-
-
-## [\[Brigand-Type\] \[M\] Sword Only by MonkeyBard](./%5BBrigand-Type%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/%5BBrigand-Type%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard)
-
-<img src="./%5BBrigand-Type%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/1.%20Sword/Sword_000.png" alt="[Brigand-Type] [M] Sword Only by MonkeyBard standing" />
-
-
-### Weapons
-
-
-|Sword |Sword |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BBrigand-Type%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BBrigand-Type%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/1.%20Sword%20(+Ranged)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BBrigand-Type%5D%20%5BM%5D%20Sword%20Only%20by%20MonkeyBard/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Pirate-Base\] \[M\] Repal by Skitty](./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty)

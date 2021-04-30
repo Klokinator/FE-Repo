@@ -390,6 +390,19 @@
 | <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Samurai%20-%20Taijutsu%20Rogue/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Samurai%20-%20Taijutsu%20Rogue/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Sword-Custom\] \[M\] Thug by MonkeyBard](./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard)
+
+<img src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/1.%20Sword/Sword_000.png" alt="[Sword-Custom] [M] Thug by MonkeyBard standing" />
+
+
+### Weapons
+
+
+|Sword |Sword |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/1.%20Sword%20(+Ranged)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Thief-Base\] \[F\] Cath Repal by Eldritch](./%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch)
 
 <img src="./%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Thief-Base] [F] Cath Repal by Eldritch standing" />

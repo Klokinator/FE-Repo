@@ -325,9 +325,9 @@
 | <img alt="Staff animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Repal%20v2%20by%20Eldritch/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Repal%20v2%20by%20Eldritch/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Priest-Base\] \[M\] Skintone Repal](./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal/%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal)
+## [\[Priest-Base\] \[M\] Skintone Repal by Flasuban](./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban)
 
-<img src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal/7.%20Staff%20(+Magic)/Staff_000.png" alt="[Priest-Base] [M] Skintone Repal standing" />
+<img src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/7.%20Staff%20(+Magic)/Staff_000.png" alt="[Priest-Base] [M] Skintone Repal by Flasuban standing" />
 
 
 ### Weapons
@@ -335,7 +335,7 @@
 
 |Staff |Unarmed |
 |  :---: | :---: |
-| <img alt="Staff animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal/7.%20Staff%20(+Magic)/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Staff animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/7.%20Staff%20(+Magic)/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Priest-Base\] \[M\] Vanilla Priest +Magic](./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic)

@@ -4,7 +4,7 @@
 
 ## Credits
 
-Animation by FPZero, Moocavo, Riku
+Animation by FPZero, Moocavo, Riku.
 
 ## Weapons
 

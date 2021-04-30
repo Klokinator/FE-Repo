@@ -2,9 +2,13 @@
 
 ## Credit
 
-TBA, DerTheVaporeon, Nuramon, The_Big_Dededester
+Shield General by TheBlindArcher, DerTheVaporeon, Nuramon.
 
-1. Sword (Magic Flash) {The_Big_Dededester}
+(Not sure which of the three above did what)
+
+Sword (Magic Flash) by The_Big_Dededester.
+
+Magic by DerTheVaporeon.
 	
 ## Handaxe
 

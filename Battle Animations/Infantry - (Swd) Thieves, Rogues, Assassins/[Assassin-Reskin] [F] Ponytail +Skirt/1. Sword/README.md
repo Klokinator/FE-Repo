@@ -2,7 +2,7 @@
 
 ## Credit
 
-Animation by FPZero, Moocavo, Riku
+Animation by FPZero, Moocavo, Riku.
 	
 ## Sword
 

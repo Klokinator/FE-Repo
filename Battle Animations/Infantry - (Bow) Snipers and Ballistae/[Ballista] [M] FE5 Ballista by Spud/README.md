@@ -4,7 +4,11 @@
 
 ## Credits
 
-Made by Spud, Ren_Ookami, Pushwall.
+Base ballista by IS.
+
+Catapult variant by Spud, Ren_Ookami.
+
+Repalette and helmeted by Pushwall.
 
 ## Weapons
 

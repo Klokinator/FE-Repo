@@ -2,9 +2,15 @@
 
 ## Credit
 
-TBA, DerTheVaporeon, Nuramon, Pushwall, The_Big_Dededester
+Shield General by TheBlindArcher, DerTheVaporeon, Nuramon.
 
-1. Sword (Magic Flash) {The_Big_Dededester}
+(Not sure which of the three above did what)
+
+Sword (Magic Flash) by The_Big_Dededester.
+
+Chainless Lance by Pushwall, spliced from knabepicer's work.
+
+Magic by DerTheVaporeon.
 	
 ## Unarmed
 

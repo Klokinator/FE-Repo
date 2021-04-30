@@ -15,4 +15,4 @@ IS, Marlon0024, Orihara_Saki, SHYUTERz
 
 |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Improved%20+Transform)/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Imp%20+Transf)/Dragonstone.gif" /> |

@@ -75,7 +75,7 @@
 
 |Dragonstone |Dragonstone |Unarmed |
 |  :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone%20(FE7%20Compatible)%20%7BCircleseverywhere%7D/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone%20(FE7)/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](./%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fire%20Dragon%20+FE7/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fire%20Dragon%20+FE7)
@@ -114,7 +114,7 @@
 
 |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(Improved%20+Transform)/Dragonstone.gif" /> |
+| <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(Imp%20+Transf)/Dragonstone.gif" /> |
 
 
 ## [\[Manakete-Base\] \[U\] Vanilla FE8 Undead Morva](./%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Undead%20Morva/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Undead%20Morva)

@@ -13,6 +13,6 @@ Importing/scripting of all new weapons by Maiser6.
 ## Weapons
 
 
-|Sword |Sword |Lance |Axe |Handaxe |Magic |Staff |Unarmed |
-|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Eckesachs)/Sword.gif" /> | <img alt="Lance animation" src="./2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+|Sword |Sword |Sword |Lance |Axe |Handaxe |Magic |Staff |Unarmed |
+|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Eckesachs%20FE6)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Eckesachs%20FE7-8)/Sword.gif" /> | <img alt="Lance animation" src="./2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |

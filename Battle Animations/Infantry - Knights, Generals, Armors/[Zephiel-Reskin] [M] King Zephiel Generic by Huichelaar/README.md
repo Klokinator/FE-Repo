@@ -1,8 +1,12 @@
-# [\[Zephiel-Reskin\] \[M\] King Zephiel Generic](./)
+# [\[Zephiel-Reskin\] \[M\] King Zephiel Generic by Huichelaar](./)
 
-<img src="./1.%20Sword/Sword_000.png" alt="[Zephiel-Reskin] [M] King Zephiel Generic standing" />
+<img src="./1.%20Sword/Sword_000.png" alt="[Zephiel-Reskin] [M] King Zephiel Generic by Huichelaar standing" />
 
 ## Credits
+
+Animation compiled from many sources by Huichelaar.
+
+Other creators involved:
 
 <img src="./Credits.png" />
 

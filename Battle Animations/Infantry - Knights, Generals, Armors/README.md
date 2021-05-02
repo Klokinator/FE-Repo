@@ -325,9 +325,9 @@
 | <img alt="Sword animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/1.%20Sword%20(Eckesachs%20FE6)/Sword.gif" /> | <img alt="Sword animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/1.%20Sword%20(Eckesachs%20FE7-8)/Sword.gif" /> | <img alt="Lance animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Zephiel-Reskin\] \[M\] King Zephiel Generic](./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic)
+## [\[Zephiel-Reskin\] \[M\] King Zephiel Generic by Huichelaar](./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar)
 
-<img src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/1.%20Sword/Sword_000.png" alt="[Zephiel-Reskin] [M] King Zephiel Generic standing" />
+<img src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/1.%20Sword/Sword_000.png" alt="[Zephiel-Reskin] [M] King Zephiel Generic by Huichelaar standing" />
 
 
 ### Weapons
@@ -335,5 +335,5 @@
 
 |Sword |Lance |Axe |Handaxe |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/6.%20Magic%20(With%20Sword)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Sword animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/6.%20Magic%20(With%20Sword)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif" /> |
 

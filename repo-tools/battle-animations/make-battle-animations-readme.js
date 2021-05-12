@@ -7,19 +7,20 @@ const README_FILENAME = 'README.md';
 
 /**
  * Parses the "Battle Animations" dirs and gathers all the animations in a flat list.
- * 
+ *
  * @returns {Object[]}
  */
 const searchAnimations = async () => {
 	const battleAnimationsFiles = await fs.readdir(ROOT_DIR, { withFileTypes: true })
 	const categoryDirectories = battleAnimationsFiles.reduce((accumulator, categoryFile) => {
-		if (categoryFile.isDirectory()) accumulator.push(categoryFile.name)
+		if (categoryFile.isDirectory() && !categoryFile.name.includes('[AAA]')) accumulator.push(categoryFile.name)
 		return accumulator
 	}, [])
+
 	Promise.all(categoryDirectories.map(async categoryDir => {
 		const categoryDirectoryFiles = await fs.readdir(`${ROOT_DIR}/${categoryDir}`, { withFileTypes: true })
 		const animDirectories = categoryDirectoryFiles.reduce((accumulator, categoryFile) => {
-			if (categoryFile.isDirectory()) accumulator.push(categoryFile.name)
+			if (categoryFile.isDirectory() && !categoryFile.name.includes('[AAA]')) accumulator.push(categoryFile.name)
 			return accumulator
 		}, [])
 
@@ -40,7 +41,7 @@ const searchAnimations = async () => {
 				const type = 'Spell'
 				const static = `${type}_b_001.png`
 				const active = `${type}.gif`
-				
+
 				const weapon = {
 					type,
 					static,
@@ -73,10 +74,10 @@ const searchAnimations = async () => {
 
 			const animContents = await fs.readdir(`${ROOT_DIR}/${categoryDir}/${animDir}`, { withFileTypes: true })
 			const weaponDirs = animContents.reduce((accumulator, current) => {
-				if (current.isDirectory()) accumulator.push(current.name)
+				if (current.isDirectory() && !current.name.includes('[AAA]')) accumulator.push(current.name)
 				return accumulator
 			}, [])
-			
+
 			return Promise.all(weaponDirs.map(weaponDir => {
 				const type = weaponDir.replace(/\d*?\.\s/, "").split(" ")[0]
 				const static = `${type}_000.png`
@@ -89,19 +90,19 @@ const searchAnimations = async () => {
 				}
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${static}`)
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${active}`)
-				
+
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${README_FILENAME}`, makeWeaponReadmeText(anim, weapon))
 
 				return weapon
 			})).then(weapons => {
 				anim.weapons = weapons
-	
+
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText(anim))
-	
+
 				return anim
 			})
 		})).then(categoryAnims => {
-	
+
 			fs.writeFile(`${ROOT_DIR}/${categoryDir}/${README_FILENAME}`, makeCategoryReadmeText(categoryAnims, categoryDir))
 			return { anims: categoryAnims, dir: categoryDir }
 		})

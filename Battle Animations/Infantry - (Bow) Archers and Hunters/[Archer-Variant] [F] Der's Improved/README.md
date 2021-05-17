@@ -1,4 +1,5 @@
 # [\[Archer-Variant\] \[F\] Der's Improved](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Archer-Variant] [F] Der's Improved standing" />
 
@@ -9,7 +10,7 @@ Original animation by IS.
 Archer Variant by Flasuban and DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Shaman-Base] [F] Vanilla FE6 +Staff standing" />
 
@@ -11,7 +12,7 @@ Fixed Magic by Shin19.
 Staff by Jeorge_Reds.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

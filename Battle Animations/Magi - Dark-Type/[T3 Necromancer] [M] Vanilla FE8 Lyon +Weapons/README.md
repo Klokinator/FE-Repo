@@ -1,4 +1,5 @@
 # [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](./)
+ 
 
 <img src="./6.%20Magic%20(Blood%20Tome%20Critfix)/Magic_000.png" alt="[T3 Necromancer] [M] Vanilla FE8 Lyon +Weapons standing" />
 
@@ -19,7 +20,7 @@
 Also credit to Big_Dedester for... something? Wasn't listed so I'm not sure.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

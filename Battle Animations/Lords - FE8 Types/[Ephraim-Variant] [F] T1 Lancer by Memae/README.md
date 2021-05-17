@@ -1,4 +1,5 @@
 # [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [F] T1 Lancer by Memae standing" />
 
@@ -7,7 +8,7 @@
 Memae, Skitty, BwdYeti, MeatOfJustice
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

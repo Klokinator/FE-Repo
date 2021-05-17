@@ -1,4 +1,5 @@
 # [\[Crossover Custom\] \[M\] Sergeant by Spud](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Crossover Custom] [M] Sergeant by Spud standing" />
 
@@ -7,7 +8,7 @@
 Spud, Leolink, Iscaneous, Nuramon
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

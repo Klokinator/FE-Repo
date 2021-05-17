@@ -1,4 +1,5 @@
 # [\[Eirika-Variant\] \[F\] Priestess Celica T2-Style by EA](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Variant] [F] Priestess Celica T2-Style by EA standing" />
 
@@ -11,7 +12,7 @@ Scripted by Jeorge_Reds.
 Eirika-Style variant made by EA.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Knight-Custom] [U] FE10-Style by Iscaneus standing" />
 
@@ -11,7 +12,7 @@ Animation and scripting by Nuramon and Jeorge Reds.
 Magic by flasuban.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Bow |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

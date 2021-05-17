@@ -1,4 +1,5 @@
 # [\[Sage-Variant\] \[F\] Speedy Sage by L95 Repal](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Variant] [F] Speedy Sage by L95 Repal standing" />
 
@@ -9,7 +10,7 @@ Made by Shtick, L95.
 Repalette by Rexacuse.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

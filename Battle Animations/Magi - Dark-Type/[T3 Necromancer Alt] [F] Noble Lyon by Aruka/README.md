@@ -1,4 +1,5 @@
 # [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3 Necromancer Alt] [F] Noble Lyon by Aruka standing" />
 
@@ -11,7 +12,7 @@ Staff by N426.
 Female Variant also by N426(???)
 
 ## Weapons
-
+ 
 
 |Sword |Staff |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Boss-Base\] \[U\] Vanilla FE6 Idunn +FE7-8](./)
+ 
 
 <img src="./6.%20Magic%20(Druid%20Idunn)/Magic_000.png" alt="[Boss-Base] [U] Vanilla FE6 Idunn +FE7-8 standing" />
 
@@ -13,7 +14,7 @@ IS, Marlon0024, SHYUTERz
 8. Dragonstone (FEx, Claw Attack + Transform) {SHYUTERz}
 
 ## Weapons
-
+ 
 
 |Magic |Staff |Dragonstone |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

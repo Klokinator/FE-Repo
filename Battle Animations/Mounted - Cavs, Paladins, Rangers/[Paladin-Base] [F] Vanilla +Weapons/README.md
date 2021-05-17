@@ -1,4 +1,5 @@
 # [\[Paladin-Base\] \[F\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Paladin-Base] [F] Vanilla +Weapons standing" />
 
@@ -11,7 +12,7 @@ Bow by ltranc, Genocike, Kao, DerTheVaporeon.
 Staff by Primefusion.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

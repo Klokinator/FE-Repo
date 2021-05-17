@@ -1,4 +1,5 @@
 # [\[General-Reskin\] \[U\] Shield v2 +Cape](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Reskin] [U] Shield v2 +Cape standing" />
 
@@ -13,7 +14,7 @@ Sword (Magic Flash) by The_Big_Dededester.
 Magic by DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Axe |Axe |Handaxe |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

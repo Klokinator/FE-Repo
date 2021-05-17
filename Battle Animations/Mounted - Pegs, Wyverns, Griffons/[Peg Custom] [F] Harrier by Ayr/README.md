@@ -1,4 +1,5 @@
 # [\[Peg Custom\] \[F\] Harrier by Ayr](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Peg Custom] [F] Harrier by Ayr standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

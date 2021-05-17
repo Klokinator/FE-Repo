@@ -1,4 +1,5 @@
 # [\[Sniper-Variant\] \[M\] Marksman by Nuramon](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [M] Marksman by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Made by Nuramon.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Mage-Reskin\] \[F\] Long-Hair by Solum](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Reskin] [F] Long-Hair by Solum standing" />
 
@@ -7,7 +8,7 @@
 {Solum}
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

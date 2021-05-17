@@ -1,4 +1,5 @@
 # [\[Archer-Reskin\] \[M\] Der's Headband](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [M] Der's Headband standing" />
 
@@ -9,7 +10,7 @@ Original animation by IS.
 Archer Variant by DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

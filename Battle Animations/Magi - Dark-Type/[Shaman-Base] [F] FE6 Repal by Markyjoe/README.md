@@ -1,4 +1,5 @@
 # [\[Shaman-Base\] \[F\] FE6 Repal by Markyjoe](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Shaman-Base] [F] FE6 Repal by Markyjoe standing" />
 
@@ -7,7 +8,7 @@
 {Markyjoe, Feaw, Shin19}
 
 ## Weapons
-
+ 
 
 |Magic |Magic |
 |  :---: | :---: |

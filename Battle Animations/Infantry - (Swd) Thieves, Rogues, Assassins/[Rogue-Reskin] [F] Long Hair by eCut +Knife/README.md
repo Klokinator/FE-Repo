@@ -1,4 +1,5 @@
 # [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Long Hair by eCut +Knife standing" />
 
@@ -9,7 +10,7 @@ Animation by eCut, Skitty.
 Knife by Mikey Séregon.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

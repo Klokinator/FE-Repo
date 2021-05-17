@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[F\] Armored +Skirt by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [F] Armored +Skirt by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 {Nuramon}
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

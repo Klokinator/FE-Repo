@@ -1,4 +1,5 @@
 # [\[General-Reskin\] \[M\] Baron Cape +Weapons, No Clicks](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Reskin] [M] Baron Cape +Weapons, No Clicks standing" />
 
@@ -7,7 +8,7 @@
 Leo_link, Nuramon, Iscaneus
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

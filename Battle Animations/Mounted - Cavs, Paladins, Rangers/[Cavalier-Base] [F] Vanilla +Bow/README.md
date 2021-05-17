@@ -1,4 +1,5 @@
 # [\[Cavalier-Base\] \[F\] Vanilla +Bow](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Base] [F] Vanilla +Bow standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Bow by DerTheVaporeon, Kao, and Aurora.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

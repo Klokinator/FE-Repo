@@ -1,4 +1,5 @@
 # [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo](./)
+ 
 
 <img src="./6.%20Magic%20(Staff)/Magic_000.png" alt="[Troubadour-Reskin] [F] Nomad-Style by seergiioo standing" />
 
@@ -7,7 +8,7 @@
 {seergiioo}
 
 ## Weapons
-
+ 
 
 |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: |

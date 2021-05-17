@@ -1,4 +1,5 @@
 # [\[Mage-Custom2\] \[F\] Mage Lord v1 by Eldritch](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Custom2] [F] Mage Lord v1 by Eldritch standing" />
 
@@ -9,7 +10,7 @@ Original male version by Eldritch Abomination.
 Female variant by N426.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

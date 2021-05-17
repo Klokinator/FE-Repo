@@ -1,4 +1,5 @@
 # [\[WK Reskin\] \[U\] Wicked Flier by Blue Druid](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[WK Reskin] [U] Wicked Flier by Blue Druid standing" />
 
@@ -7,7 +8,7 @@
 {Blue Druid, Alfred Kamon}
 
 ## Weapons
-
+ 
 
 |Lance |Magic |
 |  :---: | :---: |

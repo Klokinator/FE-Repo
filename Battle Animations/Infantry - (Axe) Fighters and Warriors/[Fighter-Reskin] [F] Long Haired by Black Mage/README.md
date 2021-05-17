@@ -1,4 +1,5 @@
 # [\[Fighter-Reskin\] \[F\] Long Haired by Black Mage](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Reskin] [F] Long Haired by Black Mage standing" />
 
@@ -7,7 +8,7 @@
 Made by Black Mage.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

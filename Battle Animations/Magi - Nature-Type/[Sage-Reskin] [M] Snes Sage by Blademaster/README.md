@@ -1,4 +1,5 @@
 # [\[Sage-Reskin\] \[M\] Snes Sage by Blademaster](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Snes Sage by Blademaster standing" />
 
@@ -9,7 +10,7 @@ Made by Blademaster.
 This folder could use a staff animation.
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

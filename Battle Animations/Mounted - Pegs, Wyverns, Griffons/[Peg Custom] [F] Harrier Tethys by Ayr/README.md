@@ -1,4 +1,5 @@
 # [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Peg Custom] [F] Harrier Tethys by Ayr standing" />
 
@@ -9,7 +10,7 @@ Harrier by Ayr.
 Tethys variant by Marlon0024.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |
 |  :---: | :---: |

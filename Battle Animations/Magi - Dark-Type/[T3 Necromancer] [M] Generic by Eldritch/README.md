@@ -1,4 +1,5 @@
 # [\[T3 Necromancer\] \[M\] Generic by Eldritch](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T3 Necromancer] [M] Generic by Eldritch standing" />
 
@@ -9,7 +10,7 @@ Generic Necromancer by Eldritch Abomination.
 Fixed magic/staff by Shin19.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: |

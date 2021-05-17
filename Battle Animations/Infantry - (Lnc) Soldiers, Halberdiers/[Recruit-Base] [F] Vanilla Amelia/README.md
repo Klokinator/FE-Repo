@@ -1,4 +1,5 @@
 # [\[Recruit-Base\] \[F\] Vanilla Amelia](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Recruit-Base] [F] Vanilla Amelia standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

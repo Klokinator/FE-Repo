@@ -1,4 +1,5 @@
 # [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] Halberdier by Bonestorm standing" />
 
@@ -7,7 +8,7 @@
 Animation by Bonestorm.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

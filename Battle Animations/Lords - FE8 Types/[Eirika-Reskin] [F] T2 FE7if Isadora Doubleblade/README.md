@@ -1,4 +1,5 @@
 # [\[Eirika-Reskin\] \[F\] T2 FE7if Isadora Doubleblade](./)
+ 
 
 <img src="./1.%20Sword%20(Hauteclere)/Sword_000.png" alt="[Eirika-Reskin] [F] T2 FE7if Isadora Doubleblade standing" />
 
@@ -9,7 +10,7 @@ Made by the FE7if devs.
 This folder needs unarmed frames.
 
 ## Weapons
-
+ 
 
 |Sword |
 |  :---: |

@@ -1,4 +1,5 @@
 # [\[Ranger-Style\] \[M\] Bowmaster by JeyTheCount](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Ranger-Style] [M] Bowmaster by JeyTheCount standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

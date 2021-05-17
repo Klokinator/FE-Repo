@@ -1,4 +1,5 @@
 # [\[Swordmaster-Reskin\] \[F\] Marisa by Seal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Marisa by Seal standing" />
 
@@ -7,7 +8,7 @@
 Made by Seal.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

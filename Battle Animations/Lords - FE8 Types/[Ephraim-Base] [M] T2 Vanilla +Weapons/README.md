@@ -1,4 +1,5 @@
 # [\[Ephraim-Base\] \[M\] T2 Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Base] [M] T2 Vanilla +Weapons standing" />
 
@@ -17,7 +18,7 @@ Handaxe by Belle, St jack.
 Bow by Belle, St jack.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

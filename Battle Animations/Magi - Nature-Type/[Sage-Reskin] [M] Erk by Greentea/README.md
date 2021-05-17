@@ -1,4 +1,5 @@
 # [\[Sage-Reskin\] \[M\] Erk by Greentea](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Erk by Greentea standing" />
 
@@ -9,7 +10,7 @@ Animation by Greentea.
 Scripting by DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Marlon-Tact\] \[M\] Tactician Mark v2 by Jj09](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Marlon-Tact] [M] Tactician Mark v2 by Jj09 standing" />
 
@@ -7,7 +8,7 @@
 Marlon0024, Asael, Jj09, Huichelaar
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

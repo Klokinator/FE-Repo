@@ -1,4 +1,5 @@
 # [\[MK-Reskin\] \[F\] Ponytail by Venno](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[MK-Reskin] [F] Ponytail by Venno standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

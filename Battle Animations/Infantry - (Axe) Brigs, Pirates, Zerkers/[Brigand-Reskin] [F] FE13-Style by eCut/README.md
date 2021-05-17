@@ -1,4 +1,5 @@
 # [\[Brigand-Reskin\] \[F\] FE13-Style by eCut](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [F] FE13-Style by eCut standing" />
 
@@ -7,7 +8,7 @@
 Hoodie, Leo_Link, Iscaneus, eCut, Skitty
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

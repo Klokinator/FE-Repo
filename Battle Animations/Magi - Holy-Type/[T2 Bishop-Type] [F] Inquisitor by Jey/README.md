@@ -1,4 +1,5 @@
 # [\[T2 Bishop-Type\] \[F\] Inquisitor by Jey](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T2 Bishop-Type] [F] Inquisitor by Jey standing" />
 
@@ -9,7 +10,7 @@ Animation by JeyTheCount.
 This animation is very choppy and could use a community rework to bring it up to par with the rest of the repo.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Magic |
 |  :---: | :---: | :---: |

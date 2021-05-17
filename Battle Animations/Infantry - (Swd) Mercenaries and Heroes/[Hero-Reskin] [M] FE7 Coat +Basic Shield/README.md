@@ -1,4 +1,5 @@
 # [\[Hero-Reskin\] \[M\] FE7 Coat +Basic Shield](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Reskin] [M] FE7 Coat +Basic Shield standing" />
 
@@ -7,7 +8,7 @@
 Animation by {Swain}
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Custom Halb\] \[F\] Halberdier by Black Mage](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Custom Halb] [F] Halberdier by Black Mage standing" />
 
@@ -9,7 +10,7 @@ Base animation by TheBlindArcher.
 Female variant by Black Mage.
 
 ## Weapons
-
+ 
 
 |Lance |Lance |Unarmed |
 |  :---: | :---: | :---: |

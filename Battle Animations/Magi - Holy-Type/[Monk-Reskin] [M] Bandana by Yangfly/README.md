@@ -1,4 +1,5 @@
 # [\[Monk-Reskin\] \[M\] Bandana by Yangfly](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monk-Reskin] [M] Bandana by Yangfly standing" />
 
@@ -7,7 +8,7 @@
 Made by {Yangfly Master}
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

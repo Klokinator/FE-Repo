@@ -1,4 +1,5 @@
 # [\[Thief-Base\] \[M\] Vanilla FE7 Matthew](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Vanilla FE7 Matthew standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

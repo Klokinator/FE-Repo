@@ -1,4 +1,5 @@
 # [\[Dark-Knight\] \[F\] Ranger-Style 3DS Updated](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Dark-Knight] [F] Ranger-Style 3DS Updated standing" />
 
@@ -7,7 +8,7 @@
 Jj09, Leo_Link, DerTheVaporeon, flashuban
 
 ## Weapons
-
+ 
 
 |Sword |Magic |
 |  :---: | :---: |

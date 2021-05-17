@@ -1,4 +1,5 @@
 # [\[Thief-Base\] \[M\] Vanilla FE7 Legault Repal +Knife](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [M] Vanilla FE7 Legault Repal +Knife standing" />
 
@@ -11,7 +12,7 @@ Knife by Mikey Seregon.
 I am not certain if the Knife attack shares the same palette as the Sword one.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

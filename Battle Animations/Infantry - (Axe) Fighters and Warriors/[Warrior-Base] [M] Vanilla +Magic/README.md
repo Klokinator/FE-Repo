@@ -1,4 +1,5 @@
 # [\[Warrior-Base\] \[M\] Vanilla +Magic](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Base] [M] Vanilla +Magic standing" />
 
@@ -9,7 +10,7 @@ Original Warrior by IS.
 Magic and Staff by Orihara_Saki.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Bow |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

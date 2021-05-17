@@ -1,4 +1,5 @@
 # [\[Sniper-Base\] \[F\] Vanilla FE7](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Base] [F] Vanilla FE7 standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Priest-Base\] \[M\] Repal by Vilkalizer](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Priest-Base] [M] Repal by Vilkalizer standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

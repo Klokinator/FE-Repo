@@ -1,4 +1,5 @@
 # [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff Catgirl standing" />
 
@@ -7,7 +8,7 @@
 Sme, Pikmin1211, Maiser6, Ukelele, SD9K, Temp, Black Mage, Wan
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

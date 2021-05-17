@@ -1,4 +1,5 @@
 # [\[Pupil-Base\] \[M\] Vanilla FE8 +Staff by Citrus](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Pupil-Base] [M] Vanilla FE8 +Staff by Citrus standing" />
 
@@ -11,7 +12,7 @@ Magic fixed by Blazer.
 Staff by Citrus.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

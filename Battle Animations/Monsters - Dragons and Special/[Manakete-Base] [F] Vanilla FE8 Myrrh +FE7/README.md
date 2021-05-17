@@ -1,4 +1,5 @@
 # [\[Manakete-Base\] \[F\] Vanilla FE8 Myrrh +FE7](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Manakete-Base] [F] Vanilla FE8 Myrrh +FE7 standing" />
 
@@ -13,7 +14,7 @@ Magic {Seal, Sacred War}
 Dragonstone (FE7) {Circleseverywhere}
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Dragonstone |Dragonstone |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

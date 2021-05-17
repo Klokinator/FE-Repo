@@ -1,4 +1,5 @@
 # [\[Brigand-Reskin\] \[M\] Armored by TBA](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [M] Armored by TBA standing" />
 
@@ -7,7 +8,7 @@
 Made by TheBlindArcher.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

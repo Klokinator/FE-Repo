@@ -1,4 +1,5 @@
 # [\[Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] T1 Vanilla +Magic, Staff standing" />
 
@@ -11,7 +12,7 @@ Sword (Backflip) by SamirPlayz.
 Magic and Staff by Lisandra_Brave.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

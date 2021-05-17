@@ -1,4 +1,5 @@
 # [\[Pirate-Reskin\] \[F\] Slender Variant by Furious Squid](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Pirate-Reskin] [F] Slender Variant by Furious Squid standing" />
 
@@ -9,7 +10,7 @@ Animation by Furious Squid.
 Scripting by Jj09.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

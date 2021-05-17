@@ -1,4 +1,5 @@
 # [\[T2 Druid-Base\] \[U\] Vanilla Wizard FE4 Loptyr Rip](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2 Druid-Base] [U] Vanilla Wizard FE4 Loptyr Rip standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

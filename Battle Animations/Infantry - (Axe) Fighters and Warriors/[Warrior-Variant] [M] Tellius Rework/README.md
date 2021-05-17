@@ -1,4 +1,5 @@
 # [\[Warrior-Variant\] \[M\] Tellius Rework](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Variant] [M] Tellius Rework standing" />
 
@@ -9,7 +10,7 @@ Animation by Leo_Link, Nuramon, Spud.
 Axe (Vanilla Crit + Magic) by Sax-Marine.
 
 ## Weapons
-
+ 
 
 |Axe |Axe |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

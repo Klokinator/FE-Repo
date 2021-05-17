@@ -1,4 +1,5 @@
 # [\[T3.1 Sage\] \[F\] High Magus by MrNight48](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T3.1 Sage] [F] High Magus by MrNight48 standing" />
 
@@ -13,7 +14,7 @@ Made for the fangame FE7 Chaos Mode.
 https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

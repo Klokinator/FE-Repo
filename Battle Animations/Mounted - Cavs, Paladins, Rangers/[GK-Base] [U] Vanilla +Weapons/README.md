@@ -1,4 +1,5 @@
 # [\[GK-Base\] \[U\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[GK-Base] [U] Vanilla +Weapons standing" />
 
@@ -9,7 +10,7 @@ Vanilla animations by IS.
 Staff and Magic by Primefusion.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

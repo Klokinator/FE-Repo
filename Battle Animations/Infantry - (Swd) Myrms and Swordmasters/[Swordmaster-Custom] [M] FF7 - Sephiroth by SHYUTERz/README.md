@@ -1,4 +1,5 @@
 # [\[Swordmaster-Custom\] \[M\] FF7 - Sephiroth by SHYUTERz](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Custom] [M] FF7 - Sephiroth by SHYUTERz standing" />
 
@@ -7,7 +8,7 @@
 Made by Trooper, AKA, and SHYUTERz.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

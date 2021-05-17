@@ -1,4 +1,5 @@
 # [\[Griffon\] \[U\] Griffon v1 by Blue Druid](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Griffon] [U] Griffon v1 by Blue Druid standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

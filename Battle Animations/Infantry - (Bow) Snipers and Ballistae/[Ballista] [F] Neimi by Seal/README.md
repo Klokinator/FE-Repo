@@ -1,4 +1,5 @@
 # [\[Ballista\] \[F\] Neimi by Seal](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Ballista] [F] Neimi by Seal standing" />
 
@@ -7,7 +8,7 @@
 Made by Seal.
 
 ## Weapons
-
+ 
 
 |Bow |
 |  :---: |

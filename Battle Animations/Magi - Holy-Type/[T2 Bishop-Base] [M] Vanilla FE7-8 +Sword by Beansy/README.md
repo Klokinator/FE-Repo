@@ -1,4 +1,5 @@
 # [\[T2 Bishop-Base\] \[M\] Vanilla FE7-8 +Sword by Beansy](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T2 Bishop-Base] [M] Vanilla FE7-8 +Sword by Beansy standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Sword by Beansy.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

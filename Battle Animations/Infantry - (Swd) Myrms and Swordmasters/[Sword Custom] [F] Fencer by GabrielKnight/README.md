@@ -1,4 +1,5 @@
 # [\[Sword Custom\] \[F\] Fencer by GabrielKnight](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Fencer by GabrielKnight standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

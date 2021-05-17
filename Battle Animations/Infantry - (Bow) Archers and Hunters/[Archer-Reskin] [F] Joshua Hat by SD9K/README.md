@@ -1,4 +1,5 @@
 # [\[Archer-Reskin\] \[F\] Joshua Hat by SD9K](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Joshua Hat by SD9K standing" />
 
@@ -7,7 +8,7 @@
 Made by Memae, SD9K.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Non-FE\] \[U\] Salamander by Memae](./)
+ 
 
 <img src="./6.%20Magic%20(Cannon)/Magic_000.png" alt="[Non-FE] [U] Salamander by Memae standing" />
 
@@ -7,7 +8,7 @@
 Made by Memae.
 
 ## Weapons
-
+ 
 
 |Magic |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Myrmidon-Base\] \[M\] Vanilla FE7 Guy +Bow](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Vanilla FE7 Guy +Bow standing" />
 
@@ -9,7 +10,7 @@ Base sword/unarmed animations by IS.
 Bow by N426.
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

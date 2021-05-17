@@ -1,4 +1,5 @@
 # [\[Centaur-Base\] \[M\] Vanilla FE8 Maelduin](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Centaur-Base] [M] Vanilla FE8 Maelduin standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

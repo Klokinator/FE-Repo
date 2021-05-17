@@ -1,4 +1,5 @@
 # [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [F] Vanilla FE6 Echidna +Lance standing" />
 
@@ -9,7 +10,7 @@ Animation by IS.
 Lance by Pushwall.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

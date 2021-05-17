@@ -1,4 +1,5 @@
 # [\[Rogue-Reskin\] \[F\] Repal +Staff](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Repal +Staff standing" />
 
@@ -9,7 +10,7 @@ Pikmin1211, Maiser6, Ukelele, SD9k, Temp, Black Mage, Wan, Sme.
 Knife by Sme.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

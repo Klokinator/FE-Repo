@@ -1,4 +1,5 @@
 # [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Dozla by Aruka standing" />
 
@@ -9,7 +10,7 @@ Dozlazerker base made by Aruka and Kenpuhu.
 Unarmed animation made by Blood.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

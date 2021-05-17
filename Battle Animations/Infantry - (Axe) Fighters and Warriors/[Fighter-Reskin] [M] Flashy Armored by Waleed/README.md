@@ -1,4 +1,5 @@
 # [\[Fighter-Reskin\] \[M\] Flashy Armored by Waleed](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Reskin] [M] Flashy Armored by Waleed standing" />
 
@@ -7,7 +8,7 @@
 {Waleed, Flasuban, Jj09}
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

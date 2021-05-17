@@ -1,4 +1,5 @@
 # [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [M] Non-Sacaen +Hat standing" />
 
@@ -9,7 +10,7 @@ Non-Sacaen Nomad by eCut.
 Hat Variant by Pikmin1211 and Maiser6.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

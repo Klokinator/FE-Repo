@@ -1,4 +1,5 @@
 # [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka v2 by Seal](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] L'Arachel by Aruka v2 by Seal standing" />
 
@@ -11,7 +12,7 @@ Fixed Staff by blood.
 v2 by Seal.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |Staff |
 |  :---: | :---: | :---: |

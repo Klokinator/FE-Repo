@@ -1,4 +1,5 @@
 # [\[Spider-Base\] \[U\] Elder Bael Repal +Ranged](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Spider-Base] [U] Elder Bael Repal +Ranged standing" />
 
@@ -7,7 +8,7 @@
 Repalette by Teraspark. Also includes a ranged animation for magic attacks.
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

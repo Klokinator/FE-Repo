@@ -1,4 +1,5 @@
 # [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Long-Hair](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [F] Non-Sacaen Repal Long-Hair standing" />
 
@@ -9,7 +10,7 @@ Non-Sacaen Nomad by eCut.
 Repalette by Pikmin1211 and Maiser6.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

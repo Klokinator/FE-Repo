@@ -1,4 +1,5 @@
 # [\[Myrmidon-Reskin\] \[F\] Fir by Redbean](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Fir by Redbean standing" />
 
@@ -9,7 +10,7 @@ Made by RedBean.
 Scripted by Zelix.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

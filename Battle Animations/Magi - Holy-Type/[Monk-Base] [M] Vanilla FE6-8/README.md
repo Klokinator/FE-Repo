@@ -1,4 +1,5 @@
 # [\[Monk-Base\] \[M\] Vanilla FE6-8](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monk-Base] [M] Vanilla FE6-8 standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

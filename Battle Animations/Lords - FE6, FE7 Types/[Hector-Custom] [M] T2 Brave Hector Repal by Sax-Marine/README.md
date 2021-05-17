@@ -1,4 +1,5 @@
 # [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Custom] [M] T2 Brave Hector Repal by Sax-Marine standing" />
 
@@ -9,7 +10,7 @@ Original animation by Nuramon.
 Repalette by Sax-Marine.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Hector-Reskin\] \[M\] T2 Yggdra Milanor by Aruka](./)
+ 
 
 <img src="./3.%20Axe%20(Chain)/Axe_000.png" alt="[Hector-Reskin] [M] T2 Yggdra Milanor by Aruka standing" />
 
@@ -7,7 +8,7 @@
 Made by Aruka, Kenpuhu.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |
 |  :---: | :---: |

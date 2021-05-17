@@ -1,4 +1,5 @@
 # [\[WK Custom\] \[M\] Malig Knight v1 +Lance](./)
+ 
 
 <img src="./2.%20Lance%20%7BJey%20the%20Count%7D/Lance_000.png" alt="[WK Custom] [M] Malig Knight v1 +Lance standing" />
 
@@ -9,7 +10,7 @@ Animation by Pikmin1211, Jj09, 7743.
 Lance by JeyTheCount.
 
 ## Weapons
-
+ 
 
 |Lance |Axe |Handaxe |Magic |
 |  :---: | :---: | :---: | :---: |

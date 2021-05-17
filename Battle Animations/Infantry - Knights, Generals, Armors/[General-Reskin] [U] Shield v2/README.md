@@ -1,4 +1,5 @@
 # [\[General-Reskin\] \[U\] Shield v2](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Reskin] [U] Shield v2 standing" />
 
@@ -15,7 +16,7 @@ Chainless Lance by Pushwall, spliced from knabepicer's work.
 Magic by DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Lance |Axe |Axe |Handaxe |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

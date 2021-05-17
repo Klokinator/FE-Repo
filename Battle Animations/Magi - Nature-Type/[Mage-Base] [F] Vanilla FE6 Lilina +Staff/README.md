@@ -1,4 +1,5 @@
 # [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Base] [F] Vanilla FE6 Lilina +Staff standing" />
 
@@ -11,7 +12,7 @@ Magic by Shin19 and SHYUTERz.
 Staff by Jeorge_Reds.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

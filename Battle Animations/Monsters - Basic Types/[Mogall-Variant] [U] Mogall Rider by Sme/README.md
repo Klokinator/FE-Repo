@@ -1,4 +1,5 @@
 # [\[Mogall-Variant\] \[U\] Mogall Rider by Sme](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Mogall-Variant] [U] Mogall Rider by Sme standing" />
 
@@ -7,7 +8,7 @@
 Made by Sme.
 
 ## Weapons
-
+ 
 
 |Bow |Magic |
 |  :---: | :---: |

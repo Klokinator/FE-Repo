@@ -1,4 +1,5 @@
 # [\[Paladin-Base\] \[M\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Paladin-Base] [M] Vanilla +Weapons standing" />
 
@@ -13,7 +14,7 @@ Magic {Primefusion}
 Staff {Primefusion}
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

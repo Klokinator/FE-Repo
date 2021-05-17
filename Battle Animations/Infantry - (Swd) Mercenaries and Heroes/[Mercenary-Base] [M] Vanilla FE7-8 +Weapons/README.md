@@ -1,4 +1,5 @@
 # [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Base] [M] Vanilla FE7-8 +Weapons standing" />
 
@@ -11,7 +12,7 @@ Greatsword by SD9K.
 Axe and Handaxe by PrincessKilvas.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

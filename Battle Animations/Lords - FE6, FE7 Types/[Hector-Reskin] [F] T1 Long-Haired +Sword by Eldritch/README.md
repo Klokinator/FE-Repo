@@ -1,4 +1,5 @@
 # [\[Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [F] T1 Long-Haired +Sword by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 Made by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

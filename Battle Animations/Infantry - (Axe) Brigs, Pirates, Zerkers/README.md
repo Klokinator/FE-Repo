@@ -1,12 +1,16 @@
 # [Infantry - (Axe) Brigs, Pirates, Zerkers Battle Animations](./)
 
+<details>
+<summary>Click to expand!</summary>
+
 ## [\[Berserker-Base\] \[M\] Vanilla +Magic](./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/)
+ 
 
 <img src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Vanilla +Magic standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -14,12 +18,13 @@
 
 
 ## [\[Berserker-Base\] \[M\] Vanilla Repal by Blue Druid](./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/)
+ 
 
 <img src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Vanilla Repal by Blue Druid standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -27,12 +32,13 @@
 
 
 ## [\[Berserker-Custom\] \[M\] Bushido Swordzerker](./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/)
+ 
 
 <img src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/1.%20Sword/Sword_000.png" alt="[Berserker-Custom] [M] Bushido Swordzerker standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -40,12 +46,13 @@
 
 
 ## [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/)
+ 
 
 <img src="./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [F] Hawkzerker by Maiser6 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -53,12 +60,13 @@
 
 
 ## [\[Berserker-Hawkeye\] \[M\] Hawkzerker by TBA](./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/)
+ 
 
 <img src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [M] Hawkzerker by TBA standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -66,12 +74,13 @@
 
 
 ## [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow](./%5BBerserker-Hawkeye%5D%20%5BM%5D%20No%20Ponytail%20+Bow/)
+ 
 
 <img src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20No%20Ponytail%20+Bow/3.%20Axe/Axe_000.png" alt="[Berserker-Hawkeye] [M] No Ponytail +Bow standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -79,12 +88,13 @@
 
 
 ## [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons](./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [M] Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -92,12 +102,13 @@
 
 
 ## [\[Berserker-Hawkeye\] \[U\] Horsezerker \(Sword Only\)](./%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)/)
+ 
 
 <img src="./%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)/1.%20Sword/Sword_000.png" alt="[Berserker-Hawkeye] [U] Horsezerker (Sword Only) standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -105,12 +116,13 @@
 
 
 ## [\[Berserker-Reskin\] \[F\] Armored by eCut](./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut/)
+ 
 
 <img src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut/3.%20Axe/Axe_000.png" alt="[Berserker-Reskin] [F] Armored by eCut standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -118,12 +130,13 @@
 
 
 ## [\[Berserker-Reskin\] \[F\] Armored by eCut v2 Repal](./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/)
+ 
 
 <img src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/3.%20Axe/Axe_000.png" alt="[Berserker-Reskin] [F] Armored by eCut v2 Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -131,12 +144,13 @@
 
 
 ## [\[Berserker-Reskin\] \[F\] FEGirls Baeserker](./%5BBerserker-Reskin%5D%20%5BF%5D%20FEGirls%20Baeserker/)
+ 
 
 <img src="./%5BBerserker-Reskin%5D%20%5BF%5D%20FEGirls%20Baeserker/3.%20Axe/Axe_000.png" alt="[Berserker-Reskin] [F] FEGirls Baeserker standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -144,12 +158,13 @@
 
 
 ## [\[Berserker-Reskin\] \[M\] Dart by Greentea](./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/)
+ 
 
 <img src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Berserker-Reskin] [M] Dart by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -157,12 +172,13 @@
 
 
 ## [\[Berserker-Reskin\] \[M\] Fargus by Greentea](./%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/)
+ 
 
 <img src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/3.%20Axe/Axe_000.png" alt="[Berserker-Reskin] [M] Fargus by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -170,12 +186,13 @@
 
 
 ## [\[Berserker-Type\] \[M\] Sword Only](./%5BBerserker-Type%5D%20%5BM%5D%20Sword%20Only/)
+ 
 
 <img src="./%5BBerserker-Type%5D%20%5BM%5D%20Sword%20Only/1.%20Sword/Sword_000.png" alt="[Berserker-Type] [M] Sword Only standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -183,12 +200,13 @@
 
 
 ## [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/)
+ 
 
 <img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Armorless by HGS standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -196,12 +214,13 @@
 
 
 ## [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/)
+ 
 
 <img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Dozla by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -209,12 +228,13 @@
 
 
 ## [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/)
+ 
 
 <img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Vanilla-Style by Der standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -222,12 +242,13 @@
 
 
 ## [\[Berserker-Variant\] \[M\] Skinnyzerker Ross](./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross/)
+ 
 
 <img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Skinnyzerker Ross standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -235,12 +256,13 @@
 
 
 ## [\[Berserker-Variant\] \[M\] Yetizerker Smoothed-Axe](./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/)
+ 
 
 <img src="./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Red%20Variant)/Axe_000.png" alt="[Berserker-Variant] [M] Yetizerker Smoothed-Axe standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Axe |
 |  :---: | :---: |
@@ -248,12 +270,13 @@
 
 
 ## [\[Berserker-Variant\] \[U\] Skinnyzerker by Zomaixee](./%5BBerserker-Variant%5D%20%5BU%5D%20Skinnyzerker%20by%20Zomaixee/)
+ 
 
 <img src="./%5BBerserker-Variant%5D%20%5BU%5D%20Skinnyzerker%20by%20Zomaixee/3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [U] Skinnyzerker by Zomaixee standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -261,12 +284,13 @@
 
 
 ## [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/)
+ 
 
 <img src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/3.%20Axe/Axe_000.png" alt="[Brigand-Base] [M] Vanilla +Magic Anims standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Magic |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -274,12 +298,13 @@
 
 
 ## [\[Brigand-Reskin\] \[F\] Barbarian by eCut](./%5BBrigand-Reskin%5D%20%5BF%5D%20Barbarian%20by%20eCut/)
+ 
 
 <img src="./%5BBrigand-Reskin%5D%20%5BF%5D%20Barbarian%20by%20eCut/3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [F] Barbarian by eCut standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -287,12 +312,13 @@
 
 
 ## [\[Brigand-Reskin\] \[F\] FE13-Style by eCut](./%5BBrigand-Reskin%5D%20%5BF%5D%20FE13-Style%20by%20eCut/)
+ 
 
 <img src="./%5BBrigand-Reskin%5D%20%5BF%5D%20FE13-Style%20by%20eCut/3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [F] FE13-Style by eCut standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -300,12 +326,13 @@
 
 
 ## [\[Brigand-Reskin\] \[M\] Armored by TBA](./%5BBrigand-Reskin%5D%20%5BM%5D%20Armored%20by%20TBA/)
+ 
 
 <img src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Armored%20by%20TBA/3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [M] Armored by TBA standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -313,12 +340,13 @@
 
 
 ## [\[Brigand-Reskin\] \[M\] Cloth Helmet by Eldritch](./%5BBrigand-Reskin%5D%20%5BM%5D%20Cloth%20Helmet%20by%20Eldritch/)
+ 
 
 <img src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Cloth%20Helmet%20by%20Eldritch/3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [M] Cloth Helmet by Eldritch standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -326,12 +354,13 @@
 
 
 ## [\[Brigand-Reskin\] \[M\] FE13-Style by Iscaneus](./%5BBrigand-Reskin%5D%20%5BM%5D%20FE13-Style%20by%20Iscaneus/)
+ 
 
 <img src="./%5BBrigand-Reskin%5D%20%5BM%5D%20FE13-Style%20by%20Iscaneus/3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [M] FE13-Style by Iscaneus standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -339,12 +368,13 @@
 
 
 ## [\[Brigand-Reskin\] \[M\] Fully-Clothed by Flasuban](./%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20by%20Flasuban/)
+ 
 
 <img src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20by%20Flasuban/3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [M] Fully-Clothed by Flasuban standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -352,12 +382,13 @@
 
 
 ## [\[Brigand-Reskin\] \[U\] Lizard Brigand Wildling](./%5BBrigand-Reskin%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling/)
+ 
 
 <img src="./%5BBrigand-Reskin%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling/3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [U] Lizard Brigand Wildling standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -365,12 +396,13 @@
 
 
 ## [\[Brigand-Style\] \[M\] Mounted Marauder by Spud](./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/)
+ 
 
 <img src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe/Axe_000.png" alt="[Brigand-Style] [M] Mounted Marauder by Spud standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -378,12 +410,13 @@
 
 
 ## [\[Pirate-Base\] \[M\] Repal by Skitty](./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/)
+ 
 
 <img src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/3.%20Axe/Axe_000.png" alt="[Pirate-Base] [M] Repal by Skitty standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -391,12 +424,13 @@
 
 
 ## [\[Pirate-Base\] \[M\] Repal by Wan](./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Wan/)
+ 
 
 <img src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Wan/3.%20Axe/Axe_000.png" alt="[Pirate-Base] [M] Repal by Wan standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -404,12 +438,13 @@
 
 
 ## [\[Pirate-Base\] \[M\] Vanilla +Sword by Pimpstick](./%5BPirate-Base%5D%20%5BM%5D%20Vanilla%20+Sword%20by%20Pimpstick/)
+ 
 
 <img src="./%5BPirate-Base%5D%20%5BM%5D%20Vanilla%20+Sword%20by%20Pimpstick/1.%20Sword/Sword_000.png" alt="[Pirate-Base] [M] Vanilla +Sword by Pimpstick standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -417,12 +452,13 @@
 
 
 ## [\[Pirate-Custom\] \[M\] DS-Style by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/)
+ 
 
 <img src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe_000.png" alt="[Pirate-Custom] [M] DS-Style by Der standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -430,12 +466,13 @@
 
 
 ## [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/)
+ 
 
 <img src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/3.%20Axe/Axe_000.png" alt="[Pirate-Custom] [M] DS-Style No-Bandana by Der standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: |
@@ -443,12 +480,13 @@
 
 
 ## [\[Pirate-Reskin\] \[F\] Fir-Head by Waleed](./%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/)
+ 
 
 <img src="./%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/3.%20Axe/Axe_000.png" alt="[Pirate-Reskin] [F] Fir-Head by Waleed standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -456,12 +494,13 @@
 
 
 ## [\[Pirate-Reskin\] \[F\] Slender Variant by Furious Squid](./%5BPirate-Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid/)
+ 
 
 <img src="./%5BPirate-Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid/3.%20Axe/Axe_000.png" alt="[Pirate-Reskin] [F] Slender Variant by Furious Squid standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -469,12 +508,13 @@
 
 
 ## [\[Pirate-Reskin\] \[F\] Variant by Nuramon](./%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon/)
+ 
 
 <img src="./%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon/3.%20Axe/Axe_000.png" alt="[Pirate-Reskin] [F] Variant by Nuramon standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -482,14 +522,16 @@
 
 
 ## [\[Pirate-Type\] \[M\] Sword Only Repal by Pimpstick](./%5BPirate-Type%5D%20%5BM%5D%20Sword%20Only%20Repal%20by%20Pimpstick/)
+ 
 
 <img src="./%5BPirate-Type%5D%20%5BM%5D%20Sword%20Only%20Repal%20by%20Pimpstick/1.%20Sword/Sword_000.png" alt="[Pirate-Type] [M] Sword Only Repal by Pimpstick standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
 | <img alt="Sword animation" src="./%5BPirate-Type%5D%20%5BM%5D%20Sword%20Only%20Repal%20by%20Pimpstick/1.%20Sword/Sword.gif" /> |
 
+</details>

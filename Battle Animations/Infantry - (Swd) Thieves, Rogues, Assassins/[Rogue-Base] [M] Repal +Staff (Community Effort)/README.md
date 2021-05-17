@@ -1,4 +1,5 @@
 # [\[Rogue-Base\] \[M\] Repal +Staff \(Community Effort\)](./)
+ 
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Rogue-Base] [M] Repal +Staff (Community Effort) standing" />
 
@@ -9,7 +10,7 @@ Pikmin1211, Maiser6, Ukelele, SD9k, Temp, Black Mage, Wan, Orihara_Saki, ltranc
 Knife by Orihara_Saki, ltranc.
 
 ## Weapons
-
+ 
 
 |Knife |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

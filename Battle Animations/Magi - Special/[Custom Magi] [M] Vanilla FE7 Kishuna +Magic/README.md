@@ -1,4 +1,5 @@
 # [\[Custom Magi\] \[M\] Vanilla FE7 Kishuna +Magic](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Custom Magi] [M] Vanilla FE7 Kishuna +Magic standing" />
 
@@ -9,7 +10,7 @@ Vanilla unarmed by IS.
 Magic by Spud, noonog.
 
 ## Weapons
-
+ 
 
 |Magic |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Grand Paladin\] \[M\] Seth v1 by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Grand Paladin] [M] Seth v1 by Aruka standing" />
 
@@ -7,7 +8,7 @@
 Made by Aruka and Kenpuhu.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |
 |  :---: | :---: |

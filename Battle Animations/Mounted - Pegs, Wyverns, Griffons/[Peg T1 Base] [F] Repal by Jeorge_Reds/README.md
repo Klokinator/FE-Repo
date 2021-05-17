@@ -1,4 +1,5 @@
 # [\[Peg T1 Base\] \[F\] Repal by Jeorge_Reds](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Peg T1 Base] [F] Repal by Jeorge_Reds standing" />
 
@@ -7,7 +8,7 @@
 Repalette by Jeorge_Reds.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

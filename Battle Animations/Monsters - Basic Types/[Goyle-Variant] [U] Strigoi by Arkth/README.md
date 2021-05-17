@@ -1,4 +1,5 @@
 # [\[Goyle-Variant\] \[U\] Strigoi by Arkth](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Goyle-Variant] [U] Strigoi by Arkth standing" />
 
@@ -7,7 +8,7 @@
 Made by Arkth.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

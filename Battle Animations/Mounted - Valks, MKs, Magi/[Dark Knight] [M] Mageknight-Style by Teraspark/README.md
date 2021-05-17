@@ -1,4 +1,5 @@
 # [\[Dark Knight\] \[M\] Mageknight-Style by Teraspark](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Dark Knight] [M] Mageknight-Style by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

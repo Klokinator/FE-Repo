@@ -1,4 +1,5 @@
 # [\[T2 Bishop-Variant\] \[M\] Bandana by Yangfly](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2 Bishop-Variant] [M] Bandana by Yangfly standing" />
 
@@ -7,7 +8,7 @@
 {Yangfly Master}
 
 ## Weapons
-
+ 
 
 |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: |

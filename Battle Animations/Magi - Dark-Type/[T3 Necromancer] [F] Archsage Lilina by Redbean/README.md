@@ -1,4 +1,5 @@
 # [\[T3 Necromancer\] \[F\] Archsage Lilina by Redbean](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3 Necromancer] [F] Archsage Lilina by Redbean standing" />
 
@@ -13,7 +14,7 @@ Fun fact, this is one of the most upvoted posts on all of FEU, and probably the 
 https://feuniverse.us/t/animation-directory/457/888
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Magic |Staff |Legendary |Legendary |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Cavalier-Custom\] \[M\] Camel Rider by Orihara Saki](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Custom] [M] Camel Rider by Orihara Saki standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

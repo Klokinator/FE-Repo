@@ -1,4 +1,5 @@
 # [\[Peg T2-Variant\] \[F\] Sky Knight by JeyTheCount](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Peg T2-Variant] [F] Sky Knight by JeyTheCount standing" />
 
@@ -7,7 +8,7 @@
 Variant by JeyTheCount.
 
 ## Weapons
-
+ 
 
 |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: |

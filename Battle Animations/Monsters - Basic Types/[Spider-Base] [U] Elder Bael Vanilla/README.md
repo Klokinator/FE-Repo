@@ -1,4 +1,5 @@
 # [\[Spider-Base\] \[U\] Elder Bael Vanilla](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Spider-Base] [U] Elder Bael Vanilla standing" />
 
@@ -7,7 +8,7 @@
 Made by IS.
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

@@ -1,4 +1,5 @@
 # [\[Nomad Trooper Reskin\] \[F\] Non-Sacaen](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Nomad Trooper Reskin] [F] Non-Sacaen standing" />
 
@@ -7,7 +8,7 @@
 {Pikmin1211, Maiser6}
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

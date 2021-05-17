@@ -1,4 +1,5 @@
 # [\[Valkyrie-Reskin\] \[F\] Priscilla by Greentea](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] Priscilla by Greentea standing" />
 
@@ -9,7 +10,7 @@ Animation by Greentea.
 Scripting by RobertFPY.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

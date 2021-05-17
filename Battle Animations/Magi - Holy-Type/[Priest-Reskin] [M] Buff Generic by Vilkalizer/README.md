@@ -1,4 +1,5 @@
 # [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer](./)
+ 
 
 <img src="./7.%20Staff%20(Buff%20Generic%20Priest)/Staff_000.png" alt="[Priest-Reskin] [M] Buff Generic by Vilkalizer standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

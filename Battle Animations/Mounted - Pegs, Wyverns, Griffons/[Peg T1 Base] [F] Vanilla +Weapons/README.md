@@ -1,4 +1,5 @@
 # [\[Peg T1 Base\] \[F\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Peg T1 Base] [F] Vanilla +Weapons standing" />
 
@@ -11,7 +12,7 @@ Sword by MK404.
 Staff by MakeFEGayer.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Fighter-Reskin\] \[M\] Bartre by Jey the Count](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Reskin] [M] Bartre by Jey the Count standing" />
 
@@ -7,7 +8,7 @@
 Made by Jey the Count.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

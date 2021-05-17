@@ -1,12 +1,16 @@
 # [Mounted - Cavs, Paladins, Rangers Battle Animations](./)
 
+<details>
+<summary>Click to expand!</summary>
+
 ## [\[Cavalier-Base\] \[F\] Vanilla +Bow](./%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20+Bow/)
+ 
 
 <img src="./%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20+Bow/1.%20Sword/Sword_000.png" alt="[Cavalier-Base] [F] Vanilla +Bow standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -14,12 +18,13 @@
 
 
 ## [\[Cavalier-Base\] \[M\] Vanilla +Weapons](./%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Cavalier-Base] [M] Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Axe |Handaxe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -27,12 +32,13 @@
 
 
 ## [\[Cavalier-Custom\] \[M\] Camel Rider by Orihara Saki](./%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/)
+ 
 
 <img src="./%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/1.%20Sword/Sword_000.png" alt="[Cavalier-Custom] [M] Camel Rider by Orihara Saki standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |
@@ -40,12 +46,13 @@
 
 
 ## [\[Cavalier-Reskin\] \[M\] Kent by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/)
+ 
 
 <img src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Cavalier-Reskin] [M] Kent by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |
@@ -53,12 +60,13 @@
 
 
 ## [\[Cavalier-Reskin\] \[M\] Sain by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/)
+ 
 
 <img src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Cavalier-Reskin] [M] Sain by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |
@@ -66,12 +74,13 @@
 
 
 ## [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](./%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/)
+ 
 
 <img src="./%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [F] Generic by SALVAGED standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -79,12 +88,13 @@
 
 
 ## [\[Cavalier-Variant\] \[F\] Twintails by SALVAGED](./%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/)
+ 
 
 <img src="./%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [F] Twintails by SALVAGED standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -92,12 +102,13 @@
 
 
 ## [\[Cavalier-Variant\] \[M\] Generic by SALVAGED](./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/)
+ 
 
 <img src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [M] Generic by SALVAGED standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -105,12 +116,13 @@
 
 
 ## [\[Cavalier-Variant\] \[M\] Generic by SALVAGED v2](./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/)
+ 
 
 <img src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [M] Generic by SALVAGED v2 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
@@ -118,12 +130,13 @@
 
 
 ## [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/)
+ 
 
 <img src="./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/1.%20Sword/Sword_000.png" alt="[Cavalry-Custom] [U] Grand Mahout by Orihara_Saki standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Bow |Bow |Monster |Monster |Monster |Monster |Unarmed |Unarmed |Sound |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -131,12 +144,13 @@
 
 
 ## [\[GK-Base\] \[U\] Repal by Skitty](./%5BGK-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/)
+ 
 
 <img src="./%5BGK-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/1.%20Sword/Sword_000.png" alt="[GK-Base] [U] Repal by Skitty standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -144,12 +158,13 @@
 
 
 ## [\[GK-Base\] \[U\] Vanilla +Weapons](./%5BGK-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BGK-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[GK-Base] [U] Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -157,12 +172,13 @@
 
 
 ## [\[Grand Paladin\] \[M\] Generic Repal](./%5BGrand%20Paladin%5D%20%5BM%5D%20Generic%20Repal/)
+ 
 
 <img src="./%5BGrand%20Paladin%5D%20%5BM%5D%20Generic%20Repal/1.%20Sword/Sword_000.png" alt="[Grand Paladin] [M] Generic Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -170,12 +186,13 @@
 
 
 ## [\[Grand Paladin\] \[M\] Seth v1 by Aruka](./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v1%20by%20Aruka/)
+ 
 
 <img src="./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v1%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Grand Paladin] [M] Seth v1 by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |
 |  :---: | :---: |
@@ -183,12 +200,13 @@
 
 
 ## [\[Grand Paladin\] \[M\] Seth v2 by Aruka](./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka/)
+ 
 
 <img src="./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka/1.%20Sword%20(Magic%20Crit%20Flash)/Sword_000.png" alt="[Grand Paladin] [M] Seth v2 by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -196,12 +214,13 @@
 
 
 ## [\[Great Lord-Custom\] \[F\] Master Knight by St Jack](./%5BGreat%20Lord-Custom%5D%20%5BF%5D%20Master%20Knight%20by%20St%20Jack/)
+ 
 
 <img src="./%5BGreat%20Lord-Custom%5D%20%5BF%5D%20Master%20Knight%20by%20St%20Jack/1.%20Sword/Sword_000.png" alt="[Great Lord-Custom] [F] Master Knight by St Jack standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -209,12 +228,13 @@
 
 
 ## [\[Great Lord-Custom\] \[M\] Master Knight by St Jack](./%5BGreat%20Lord-Custom%5D%20%5BM%5D%20Master%20Knight%20by%20St%20Jack/)
+ 
 
 <img src="./%5BGreat%20Lord-Custom%5D%20%5BM%5D%20Master%20Knight%20by%20St%20Jack/1.%20Sword/Sword_000.png" alt="[Great Lord-Custom] [M] Master Knight by St Jack standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -222,12 +242,13 @@
 
 
 ## [\[Nomad Trooper Base\] \[F\] Repal](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [F] Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -235,12 +256,13 @@
 
 
 ## [\[Nomad Trooper Base\] \[F\] Vanilla FE6 +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [F] Vanilla FE6 +Fix standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -248,12 +270,13 @@
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE6 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE6 Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -261,12 +284,13 @@
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE6 Vanilla](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE6 Vanilla standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -274,12 +298,13 @@
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE7 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE7 Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -287,12 +312,13 @@
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE7 Vanilla +Fix standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -300,12 +326,13 @@
 
 
 ## [\[Nomad Trooper Reskin\] \[F\] Non-Sacaen](./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Reskin] [F] Non-Sacaen standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -313,12 +340,13 @@
 
 
 ## [\[Nomad Trooper Reskin\] \[M\] +Hat](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Reskin] [M] +Hat standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -326,12 +354,13 @@
 
 
 ## [\[Nomad Trooper Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword_000.png" alt="[Nomad Trooper Reskin] [M] +Hat Repal by Orihara_Saki standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -339,12 +368,13 @@
 
 
 ## [\[Nomad Trooper Reskin\] \[M\] Sacaen Repal](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/)
+ 
 
 <img src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/3.%20Axe/Axe_000.png" alt="[Nomad Trooper Reskin] [M] Sacaen Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -352,12 +382,13 @@
 
 
 ## [\[Nomad-Base\] \[F\] Vanilla](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla/)
+ 
 
 <img src="./%5BNomad-Base%5D%20%5BF%5D%20Vanilla/5.%20Bow/Bow_000.png" alt="[Nomad-Base] [F] Vanilla standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -365,12 +396,13 @@
 
 
 ## [\[Nomad-Base\] \[F\] Vanilla Repal](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla%20Repal/)
+ 
 
 <img src="./%5BNomad-Base%5D%20%5BF%5D%20Vanilla%20Repal/5.%20Bow/Bow_000.png" alt="[Nomad-Base] [F] Vanilla Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -378,12 +410,13 @@
 
 
 ## [\[Nomad-Base\] \[M\] Vanilla](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla/)
+ 
 
 <img src="./%5BNomad-Base%5D%20%5BM%5D%20Vanilla/5.%20Bow/Bow_000.png" alt="[Nomad-Base] [M] Vanilla standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -391,12 +424,13 @@
 
 
 ## [\[Nomad-Base\] \[M\] Vanilla Repal](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/)
+ 
 
 <img src="./%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/5.%20Bow/Bow_000.png" alt="[Nomad-Base] [M] Vanilla Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -404,12 +438,13 @@
 
 
 ## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Long-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Long-Hair/)
+ 
 
 <img src="./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Long-Hair/5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [F] Non-Sacaen Repal Long-Hair standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -417,12 +452,13 @@
 
 
 ## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Short-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Short-Hair/)
+ 
 
 <img src="./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Short-Hair/5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [F] Non-Sacaen Repal Short-Hair standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -430,12 +466,13 @@
 
 
 ## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat/)
+ 
 
 <img src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat/5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [M] Non-Sacaen +Hat standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -443,12 +480,13 @@
 
 
 ## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat Repal](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat%20Repal/)
+ 
 
 <img src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat%20Repal/5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [M] Non-Sacaen +Hat Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -456,12 +494,13 @@
 
 
 ## [\[Nomad-Reskin\] \[M\] Non-Sacaen by eCut](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut/)
+ 
 
 <img src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut/5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [M] Non-Sacaen by eCut standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -469,12 +508,13 @@
 
 
 ## [\[Paladin-Base\] \[F\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Paladin-Base] [F] Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -482,12 +522,13 @@
 
 
 ## [\[Paladin-Base\] \[M\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BPaladin-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Paladin-Base] [M] Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -495,12 +536,13 @@
 
 
 ## [\[Paladin-Custom\] \[M\] Bow Knight by Spud](./%5BPaladin-Custom%5D%20%5BM%5D%20Bow%20Knight%20by%20Spud/)
+ 
 
 <img src="./%5BPaladin-Custom%5D%20%5BM%5D%20Bow%20Knight%20by%20Spud/5.%20Bow/Bow_000.png" alt="[Paladin-Custom] [M] Bow Knight by Spud standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -508,12 +550,13 @@
 
 
 ## [\[Paladin-Custom\] \[U\] Gold Knight by Nuramon](./%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20by%20Nuramon/)
+ 
 
 <img src="./%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Paladin-Custom] [U] Gold Knight by Nuramon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -521,12 +564,13 @@
 
 
 ## [\[Paladin-Variant\] \[F\] SALVAGED Alt](./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/)
+ 
 
 <img src="./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [F] SALVAGED Alt standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -534,12 +578,13 @@
 
 
 ## [\[Paladin-Variant\] \[F\] SALVAGED Base](./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base/)
+ 
 
 <img src="./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base/1.%20Sword%20(RJ_Exists)/Sword_000.png" alt="[Paladin-Variant] [F] SALVAGED Base standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -547,12 +592,13 @@
 
 
 ## [\[Paladin-Variant\] \[M\] Kent by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/)
+ 
 
 <img src="./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [M] Kent by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -560,12 +606,13 @@
 
 
 ## [\[Paladin-Variant\] \[M\] Sain by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/)
+ 
 
 <img src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [M] Sain by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -573,12 +620,13 @@
 
 
 ## [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20+Weapons/)
+ 
 
 <img src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20+Weapons/1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [M] SALVAGED +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -586,12 +634,13 @@
 
 
 ## [\[Paladin-Variant\] \[M\] SALVAGED Repal](./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/)
+ 
 
 <img src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [M] SALVAGED Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
@@ -599,12 +648,13 @@
 
 
 ## [\[Ranger-Base\] \[F\] Vanilla](./%5BRanger-Base%5D%20%5BF%5D%20Vanilla/)
+ 
 
 <img src="./%5BRanger-Base%5D%20%5BF%5D%20Vanilla/1.%20Sword/Sword_000.png" alt="[Ranger-Base] [F] Vanilla standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -612,12 +662,13 @@
 
 
 ## [\[Ranger-Base\] \[M\] Vanilla +Lance](./%5BRanger-Base%5D%20%5BM%5D%20Vanilla%20+Lance/)
+ 
 
 <img src="./%5BRanger-Base%5D%20%5BM%5D%20Vanilla%20+Lance/1.%20Sword/Sword_000.png" alt="[Ranger-Base] [M] Vanilla +Lance standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -625,12 +676,13 @@
 
 
 ## [\[Ranger-Custom\] \[F\] Bernadetta by Redbean](./%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/)
+ 
 
 <img src="./%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/2.%20Lance/Lance_000.png" alt="[Ranger-Custom] [F] Bernadetta by Redbean standing" />
 
 
 ### Weapons
-
+ 
 
 |Lance |Bow |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -638,12 +690,13 @@
 
 
 ## [\[Ranger-Reskin\] \[F\] Rebecca by Teraspark](./%5BRanger-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Teraspark/)
+ 
 
 <img src="./%5BRanger-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Teraspark/1.%20Sword/Sword_000.png" alt="[Ranger-Reskin] [F] Rebecca by Teraspark standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -651,12 +704,13 @@
 
 
 ## [\[Ranger-Reskin\] \[F\] Twintails by GoofyfanG56](./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/)
+ 
 
 <img src="./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/1.%20Sword/Sword_000.png" alt="[Ranger-Reskin] [F] Twintails by GoofyfanG56 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -664,12 +718,13 @@
 
 
 ## [\[Ranger-Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/)
+ 
 
 <img src="./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword_000.png" alt="[Ranger-Reskin] [M] +Hat Repal by Orihara_Saki standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -677,12 +732,13 @@
 
 
 ## [\[Ranger-Style\] \[F\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BF%5D%20Bowmaster%20by%20JeyTheCount/)
+ 
 
 <img src="./%5BRanger-Style%5D%20%5BF%5D%20Bowmaster%20by%20JeyTheCount/5.%20Bow/Bow_000.png" alt="[Ranger-Style] [F] Bowmaster by JeyTheCount standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -690,12 +746,13 @@
 
 
 ## [\[Ranger-Style\] \[M\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BM%5D%20Bowmaster%20by%20JeyTheCount/)
+ 
 
 <img src="./%5BRanger-Style%5D%20%5BM%5D%20Bowmaster%20by%20JeyTheCount/5.%20Bow/Bow_000.png" alt="[Ranger-Style] [M] Bowmaster by JeyTheCount standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |
@@ -703,14 +760,16 @@
 
 
 ## [\[Ranger-Variant\] \[M\] Sword-locked by Aruka](./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/)
+ 
 
 <img src="./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Ranger-Variant] [M] Sword-locked by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
 | <img alt="Sword animation" src="./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/1.%20Sword/Sword.gif" /> |
 
+</details>

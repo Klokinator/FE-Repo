@@ -1,4 +1,5 @@
 # [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Shaman-Reskin] [M] Hoodless +Staff by Temp standing" />
 
@@ -9,7 +10,7 @@ Hoodless by Temp.
 Fixed Magic by Shin19.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

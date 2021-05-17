@@ -1,4 +1,5 @@
 # [\[T3 Custom\] \[U\] Brammimond by Dinar87](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T3 Custom] [U] Brammimond by Dinar87 standing" />
 
@@ -9,7 +10,7 @@ Made by Dinar87.
 Scripted(???) by SHYUTERz.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

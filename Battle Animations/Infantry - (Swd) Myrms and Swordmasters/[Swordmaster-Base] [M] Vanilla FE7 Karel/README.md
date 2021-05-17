@@ -1,4 +1,5 @@
 # [\[Swordmaster-Base\] \[M\] Vanilla FE7 Karel](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE7 Karel standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

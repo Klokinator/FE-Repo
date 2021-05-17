@@ -1,4 +1,5 @@
 # [\[WR Base\] \[U\] Vanilla +Weapons](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[WR Base] [U] Vanilla +Weapons standing" />
 
@@ -13,7 +14,7 @@ Bow by PrincessKilvas, Spud.
 Bow (Palette Fix) by PrincessKilvas, Spud, Blue Druid.
 
 ## Weapons
-
+ 
 
 |Lance |Axe |Handaxe |Bow |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

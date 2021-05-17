@@ -1,4 +1,5 @@
 # [\[Manakete-Base\] \[F\] FE8 Myrrh Repal Teraspark](./)
+ 
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Base] [F] FE8 Myrrh Repal Teraspark standing" />
 
@@ -7,7 +8,7 @@
 Made by .
 
 ## Weapons
-
+ 
 
 |Dragonstone |Unarmed |
 |  :---: | :---: |

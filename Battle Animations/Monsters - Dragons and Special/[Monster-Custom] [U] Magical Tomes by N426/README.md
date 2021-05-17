@@ -1,4 +1,5 @@
 # [\[Monster-Custom\] \[U\] Magical Tomes by N426](./)
+ 
 
 <img src="./6.%20Magic%20(Dark)/Magic_000.png" alt="[Monster-Custom] [U] Magical Tomes by N426 standing" />
 
@@ -7,7 +8,7 @@
 Made by .
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Magic |Magic |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

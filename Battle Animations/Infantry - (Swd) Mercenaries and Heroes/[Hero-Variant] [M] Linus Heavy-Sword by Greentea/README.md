@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[M\] Linus Heavy-Sword by Greentea](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Linus Heavy-Sword by Greentea standing" />
 
@@ -7,7 +8,7 @@
 Made by Greentea, DerTheVaporeon, Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

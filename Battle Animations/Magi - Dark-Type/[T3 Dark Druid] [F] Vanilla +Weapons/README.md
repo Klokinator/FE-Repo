@@ -1,4 +1,5 @@
 # [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](./)
+ 
 
 <img src="./6.%20Magic%20(FE7)/Magic_000.png" alt="[T3 Dark Druid] [F] Vanilla +Weapons standing" />
 
@@ -11,7 +12,7 @@ Countless extra animations/fixes added by SHYUTERz.
 One of the Staff animations was contributed by CamusZekeSirius.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Staff |Staff |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Valkyrie-Reskin\] \[F\] Nomad-Style by seergiioo](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] Nomad-Style by seergiioo standing" />
 
@@ -7,7 +8,7 @@
 Made by seergiioo.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

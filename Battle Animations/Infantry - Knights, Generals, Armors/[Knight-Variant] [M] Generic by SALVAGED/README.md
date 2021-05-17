@@ -1,4 +1,5 @@
 # [\[Knight-Variant\] \[M\] Generic by SALVAGED](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Knight-Variant] [M] Generic by SALVAGED standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Bow |Unarmed |team |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Hero-Reskin\] \[M\] FE7 Coat +Blue Shield](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Reskin] [M] FE7 Coat +Blue Shield standing" />
 
@@ -7,7 +8,7 @@
 Swain, Pikmin1211, ltranc
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Roy-Base\] \[M\] Vanilla +Magic by Pikmin](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Roy-Base] [M] Vanilla +Magic by Pikmin standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Magic animation by Pikmin1211.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: |

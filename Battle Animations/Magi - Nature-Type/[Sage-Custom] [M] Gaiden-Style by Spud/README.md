@@ -1,4 +1,5 @@
 # [\[Sage-Custom\] \[M\] Gaiden-Style by Spud](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Custom] [M] Gaiden-Style by Spud standing" />
 
@@ -7,7 +8,7 @@
 Animation by Spud.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Sniper-Reskin\] \[F\] Rebecca by Greentea](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [F] Rebecca by Greentea standing" />
 
@@ -9,7 +10,7 @@ Made by Greentea.
 Scripting by RobertFPY.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

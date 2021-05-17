@@ -1,4 +1,5 @@
 # [\[Nomad-Base\] \[F\] Vanilla](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Nomad-Base] [F] Vanilla standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

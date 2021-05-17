@@ -1,4 +1,5 @@
 # [\[Thief-Reskin\] \[M\] Jaffar by JonoTheRed](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Reskin] [M] Jaffar by JonoTheRed standing" />
 
@@ -7,7 +8,7 @@
 Made by JonoTheRed.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

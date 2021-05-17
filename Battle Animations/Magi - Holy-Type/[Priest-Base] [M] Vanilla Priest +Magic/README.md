@@ -1,4 +1,5 @@
 # [\[Priest-Base\] \[M\] Vanilla Priest +Magic](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Priest-Base] [M] Vanilla Priest +Magic standing" />
 
@@ -11,7 +12,7 @@ Staff Magic by Shtick.
 Magic animation by Jeorge_Reds.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

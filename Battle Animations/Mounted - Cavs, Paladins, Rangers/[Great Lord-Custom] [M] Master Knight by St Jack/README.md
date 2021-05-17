@@ -1,4 +1,5 @@
 # [\[Great Lord-Custom\] \[M\] Master Knight by St Jack](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Great Lord-Custom] [M] Master Knight by St Jack standing" />
 
@@ -9,7 +10,7 @@ Master Knight by St jack.
 Magic with Staff and Staff Alt by Mycahel.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

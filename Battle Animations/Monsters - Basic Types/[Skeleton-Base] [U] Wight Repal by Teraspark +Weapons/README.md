@@ -1,4 +1,5 @@
 # [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Skeleton-Base] [U] Wight Repal by Teraspark +Weapons standing" />
 
@@ -7,7 +8,7 @@
 Made by Teraspark, Wan.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Axe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

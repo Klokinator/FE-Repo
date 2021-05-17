@@ -1,4 +1,5 @@
 # [\[Lyn-Reskin\] \[F\] T1 Tsukage by Yangfly](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T1 Tsukage by Yangfly standing" />
 
@@ -7,7 +8,7 @@
 Made by Yangfly Master and Kramnaugh.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

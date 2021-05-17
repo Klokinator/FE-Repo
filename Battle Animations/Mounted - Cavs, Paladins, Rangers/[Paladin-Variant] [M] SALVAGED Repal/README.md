@@ -1,4 +1,5 @@
 # [\[Paladin-Variant\] \[M\] SALVAGED Repal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [M] SALVAGED Repal standing" />
 
@@ -9,7 +10,7 @@ Leo_link, Pikmin1211, Team SALVAGED, The_Big_Dededester
 8. Unarmed (The_Big_Dededester)
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

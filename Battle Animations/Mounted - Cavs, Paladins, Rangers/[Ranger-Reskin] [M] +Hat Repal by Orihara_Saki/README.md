@@ -1,4 +1,5 @@
 # [\[Ranger-Reskin\] \[M\] +Hat Repal by Orihara_Saki](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ranger-Reskin] [M] +Hat Repal by Orihara_Saki standing" />
 
@@ -7,7 +8,7 @@
 {Orihara_Saki, Pikmin1211, Maiser6}
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Spider-Reskin\] \[U\] Bael Queen by Seal](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Spider-Reskin] [U] Bael Queen by Seal standing" />
 
@@ -9,7 +10,7 @@ Made by Seal.
 Magic animation by Yera.
 
 ## Weapons
-
+ 
 
 |Magic |Monster |
 |  :---: | :---: |

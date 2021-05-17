@@ -1,4 +1,5 @@
 # [\[Peg T2 Variant\] \[F\] Falcoknight v2 +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Peg T2 Variant] [F] Falcoknight v2 +Weapons standing" />
 
@@ -9,7 +10,7 @@ Improved Falcoknight by Flasuban.
 Bow by Knabepicer, Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

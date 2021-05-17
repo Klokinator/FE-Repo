@@ -1,4 +1,5 @@
 # [\[Eirika-Base\] \[F\] T1 Repal +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] T1 Repal +Weapons standing" />
 
@@ -13,7 +14,7 @@ Magic by Sme, Lisandra_Brave.
 Magic Alt by FaerieFruit.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Magic |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

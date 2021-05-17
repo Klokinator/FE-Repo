@@ -1,4 +1,5 @@
 # [\[Brigand-Reskin\] \[U\] Lizard Brigand Wildling](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [U] Lizard Brigand Wildling standing" />
 
@@ -7,7 +8,7 @@
 {Lenh}
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

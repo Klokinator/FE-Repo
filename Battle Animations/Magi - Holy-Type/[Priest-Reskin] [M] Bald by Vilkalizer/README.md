@@ -1,4 +1,5 @@
 # [\[Priest-Reskin\] \[M\] Bald by Vilkalizer](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Priest-Reskin] [M] Bald by Vilkalizer standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Staff |
 |  :---: |

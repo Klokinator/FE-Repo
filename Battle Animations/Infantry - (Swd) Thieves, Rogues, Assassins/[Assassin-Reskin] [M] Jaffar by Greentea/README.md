@@ -1,4 +1,5 @@
 # [\[Assassin-Reskin\] \[M\] Jaffar by Greentea](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [M] Jaffar by Greentea standing" />
 
@@ -7,7 +8,7 @@
 Animation by Greentea, Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

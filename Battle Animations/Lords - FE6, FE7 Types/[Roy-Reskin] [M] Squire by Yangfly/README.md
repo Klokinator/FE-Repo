@@ -1,4 +1,5 @@
 # [\[Roy-Reskin\] \[M\] Squire by Yangfly](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Squire by Yangfly standing" />
 
@@ -9,7 +10,7 @@ Animation by Yangfly Master.
 This animation is pretty choppy and could use touchups from the community.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Rogue-Base\] \[M\] Repal by Eldritch](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Base] [M] Repal by Eldritch standing" />
 
@@ -9,7 +10,7 @@ Repalette by Eldritch Abomination.
 Knife by Mikey Séregon.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

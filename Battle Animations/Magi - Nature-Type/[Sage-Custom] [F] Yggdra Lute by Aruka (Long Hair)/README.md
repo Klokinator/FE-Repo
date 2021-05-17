@@ -1,4 +1,5 @@
 # [\[Sage-Custom\] \[F\] Yggdra Lute by Aruka \(Long Hair\)](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Custom] [F] Yggdra Lute by Aruka (Long Hair) standing" />
 
@@ -9,7 +10,7 @@ Base animation by Aruka, Kenpuhu.
 Long-hair variant by Nuramon.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

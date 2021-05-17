@@ -1,4 +1,5 @@
 # [\[Lyn-Style\] \[F\] Brave Lyn Nomad by RedBean](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Style] [F] Brave Lyn Nomad by RedBean standing" />
 
@@ -9,7 +10,7 @@ Made by Red Bean.
 Scripted by Marlon0024.
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

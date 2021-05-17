@@ -1,4 +1,5 @@
 # [\[Troubadour-Base\] \[F\] Vanilla Ponytail +Magic](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Troubadour-Base] [F] Vanilla Ponytail +Magic standing" />
 
@@ -11,7 +12,7 @@ Magic Staff by seergioo.
 Magic by Lisandra_Brave.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

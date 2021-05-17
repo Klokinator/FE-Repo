@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[M\] Caellach by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Caellach by Aruka standing" />
 
@@ -14,7 +15,7 @@ Note that this animation is very choppy and could use community improvement.
 
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Unarmed |
 |  :---: | :---: | :---: |

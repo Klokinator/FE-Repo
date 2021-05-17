@@ -1,4 +1,5 @@
 # [\[Zephiel-Reskin\] \[M\] King Zephiel Generic by Huichelaar](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Zephiel-Reskin] [M] King Zephiel Generic by Huichelaar standing" />
 
@@ -11,7 +12,7 @@ Other creators involved:
 <img src="./Credits.png" />
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

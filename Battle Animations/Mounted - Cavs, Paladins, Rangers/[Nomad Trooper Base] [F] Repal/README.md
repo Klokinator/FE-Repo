@@ -1,4 +1,5 @@
 # [\[Nomad Trooper Base\] \[F\] Repal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [F] Repal standing" />
 
@@ -9,7 +10,7 @@
 Axe and Handaxe by ltranc, Valak.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

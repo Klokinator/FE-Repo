@@ -1,4 +1,5 @@
 # [\[Brigand-Reskin\] \[M\] Cloth Helmet by Eldritch](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [M] Cloth Helmet by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 Made by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

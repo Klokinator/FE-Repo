@@ -1,4 +1,5 @@
 # [\[Warrior-Reskin\] \[F\] Original by Temp](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Reskin] [F] Original by Temp standing" />
 
@@ -9,7 +10,7 @@ Base Warrior by IS.
 Female variant by Temp.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

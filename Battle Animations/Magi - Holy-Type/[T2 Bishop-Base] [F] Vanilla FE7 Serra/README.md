@@ -1,4 +1,5 @@
 # [\[T2 Bishop-Base\] \[F\] Vanilla FE7 Serra](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2 Bishop-Base] [F] Vanilla FE7 Serra standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: |

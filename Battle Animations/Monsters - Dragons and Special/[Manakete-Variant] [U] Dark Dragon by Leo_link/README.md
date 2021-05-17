@@ -1,4 +1,5 @@
 # [\[Manakete-Variant\] \[U\] Dark Dragon by Leo_link](./)
+ 
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Variant] [U] Dark Dragon by Leo_link standing" />
 
@@ -7,7 +8,7 @@
 Made by Leo_link.
 
 ## Weapons
-
+ 
 
 |Dragonstone |
 |  :---: |

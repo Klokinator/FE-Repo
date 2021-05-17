@@ -1,4 +1,5 @@
 # [\[Priest-Base\] \[M\] Skintone Repal by Flasuban](./)
+ 
 
 <img src="./7.%20Staff%20(+Magic)/Staff_000.png" alt="[Priest-Base] [M] Skintone Repal by Flasuban standing" />
 
@@ -7,7 +8,7 @@
 Made by {Eldritch, Flasuban, Sme}
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

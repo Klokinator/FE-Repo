@@ -1,4 +1,5 @@
 # [\[Thief-Reskin\] \[F\] Sme's Catgirl](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Reskin] [F] Sme's Catgirl standing" />
 
@@ -7,7 +8,7 @@
 Made by Sme.
 
 ## Weapons
-
+ 
 
 |Sword |
 |  :---: |

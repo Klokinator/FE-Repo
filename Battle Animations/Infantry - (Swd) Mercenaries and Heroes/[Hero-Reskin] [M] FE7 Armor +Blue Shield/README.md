@@ -1,4 +1,5 @@
 # [\[Hero-Reskin\] \[M\] FE7 Armor +Blue Shield](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Reskin] [M] FE7 Armor +Blue Shield standing" />
 
@@ -9,7 +10,7 @@ Original animation by IS.
 Updates by Pikmin1211.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

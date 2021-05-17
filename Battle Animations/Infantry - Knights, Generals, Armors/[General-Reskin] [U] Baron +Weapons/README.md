@@ -1,4 +1,5 @@
 # [\[General-Reskin\] \[U\] Baron +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Reskin] [U] Baron +Weapons standing" />
 
@@ -9,7 +10,7 @@
 Staff (Visible) by Flasuban.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

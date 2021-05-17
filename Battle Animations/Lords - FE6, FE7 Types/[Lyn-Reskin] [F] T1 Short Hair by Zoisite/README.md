@@ -1,4 +1,5 @@
 # [\[Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T1 Short Hair by Zoisite standing" />
 
@@ -7,7 +8,7 @@
 Made by Zoisite.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Valkyrie-Reskin\] \[F\] Ponytail Diadem seergiioo](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [F] Ponytail Diadem seergiioo standing" />
 
@@ -7,7 +8,7 @@
 Animation by seergiioo.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

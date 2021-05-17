@@ -1,4 +1,5 @@
 # [\[Villager-Custom\] \[M\] Villager by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Villager-Custom] [M] Villager by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Masde by Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

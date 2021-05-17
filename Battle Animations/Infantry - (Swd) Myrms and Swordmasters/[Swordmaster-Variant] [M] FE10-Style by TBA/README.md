@@ -1,4 +1,5 @@
 # [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] FE10-Style by TBA standing" />
 
@@ -9,7 +10,7 @@ Original FE10 SM by TheBlindArcher.
 Alternate Sword crit by Greentea, Kenpuhu.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

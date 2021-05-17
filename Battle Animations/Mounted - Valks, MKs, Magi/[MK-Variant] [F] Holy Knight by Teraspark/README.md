@@ -1,4 +1,5 @@
 # [\[MK-Variant\] \[F\] Holy Knight by Teraspark](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[MK-Variant] [F] Holy Knight by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 Made by Teraspark, Jey the Count.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

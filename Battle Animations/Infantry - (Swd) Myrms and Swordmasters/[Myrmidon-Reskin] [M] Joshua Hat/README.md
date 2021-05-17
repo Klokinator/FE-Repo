@@ -1,4 +1,5 @@
 # [\[Myrmidon-Reskin\] \[M\] Joshua Hat](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Joshua Hat standing" />
 
@@ -7,7 +8,7 @@
 Made by SD9K.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

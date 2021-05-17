@@ -1,4 +1,5 @@
 # [\[Journeyman-Type\] \[M\] Waleed's Squire](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Journeyman-Type] [M] Waleed's Squire standing" />
 
@@ -7,7 +8,7 @@
 Made by Waleed.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

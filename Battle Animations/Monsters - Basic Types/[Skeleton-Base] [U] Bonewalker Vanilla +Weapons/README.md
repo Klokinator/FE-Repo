@@ -1,4 +1,5 @@
 # [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Skeleton-Base] [U] Bonewalker Vanilla +Weapons standing" />
 
@@ -19,7 +20,7 @@ Note that MrNight's basic Axe seems to have an issue with random pixels during t
 Their handaxes have their own merits.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Axe |Handaxe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

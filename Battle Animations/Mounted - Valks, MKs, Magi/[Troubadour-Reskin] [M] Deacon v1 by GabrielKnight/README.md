@@ -1,4 +1,5 @@
 # [\[Troubadour-Reskin\] \[M\] Deacon v1 by GabrielKnight](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Reskin] [M] Deacon v1 by GabrielKnight standing" />
 
@@ -7,7 +8,7 @@
 Made by GabrielKnight.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

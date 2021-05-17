@@ -1,4 +1,5 @@
 # [\[Boss-Base\] \[U\] Vanilla Demon King +FE6-7](./)
+ 
 
 <img src="./6.%20Magic%20%7BSHYUTERz%7D/Magic_000.png" alt="[Boss-Base] [U] Vanilla Demon King +FE6-7 standing" />
 
@@ -12,7 +13,7 @@ IS, Marlon0024, SHYUTERz
 8. Monster {SHYUTERz}
 
 ## Weapons
-
+ 
 
 |Magic |Monster |Monster |Monster |Monster |Monster |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

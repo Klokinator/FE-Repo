@@ -1,4 +1,5 @@
 # [\[Recruit-Amelia\] \[F\] T2 Halberdier by Spud](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Recruit-Amelia] [F] T2 Halberdier by Spud standing" />
 
@@ -11,7 +12,7 @@ Further alterations by Temp, Black Mage, Wan.
 Amelia variant by Spud.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

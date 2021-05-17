@@ -1,4 +1,5 @@
 # [\[Swordmaster-Base\] \[M\] Vanilla FE7 Lloyd +Alt Pal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE7 Lloyd +Alt Pal standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Alternate attack by Glenwing. 
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

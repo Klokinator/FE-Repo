@@ -1,4 +1,5 @@
 # [\[Ephraim-Base\] \[M\] T2 Repal by Teraspark](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] T2 Repal by Teraspark standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Repalette by Teraspark.
 
 ## Weapons
-
+ 
 
 |Lance |Staff |Unarmed |
 |  :---: | :---: | :---: |

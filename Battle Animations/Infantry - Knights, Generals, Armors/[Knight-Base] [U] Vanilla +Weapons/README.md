@@ -1,4 +1,5 @@
 # [\[Knight-Base\] \[U\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Knight-Base] [U] Vanilla +Weapons standing" />
 
@@ -19,7 +20,7 @@ Staff by knabepicer.
 Unarmed (Bow) by TheBlindArcher.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Lance |Axe |Handaxe |Bow |Magic |Staff |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

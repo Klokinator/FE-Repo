@@ -1,4 +1,5 @@
 # [\[Cleric-Reskin\] \[F\] Less Religious by Mariah](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Less Religious by Mariah standing" />
 
@@ -7,7 +8,7 @@
 Made by Mariah the Magician.
 
 ## Weapons
-
+ 
 
 |Staff |
 |  :---: |

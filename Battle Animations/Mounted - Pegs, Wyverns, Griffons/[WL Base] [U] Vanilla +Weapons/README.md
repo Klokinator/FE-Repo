@@ -1,4 +1,5 @@
 # [\[WL Base\] \[U\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[WL Base] [U] Vanilla +Weapons standing" />
 
@@ -15,7 +16,7 @@ Bow (Fixed Palette) by PrincessKilvas, Spud, Blue Druid.
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Wolf-Variant] [M] Kitsune by ZoramineFae standing" />
 
@@ -7,7 +8,7 @@
 Made by ZoramineFae.
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

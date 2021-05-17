@@ -1,4 +1,5 @@
 # [\[Pirate-Type\] \[M\] Sword Only Repal by Pimpstick](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Pirate-Type] [M] Sword Only Repal by Pimpstick standing" />
 
@@ -7,7 +8,7 @@
 Made by Pimpstick.
 
 ## Weapons
-
+ 
 
 |Sword |
 |  :---: |

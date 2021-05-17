@@ -1,4 +1,5 @@
 # [\[Bard-Base\] \[M\] Nils +Weapons](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Bard-Base] [M] Nils +Weapons standing" />
 
@@ -13,7 +14,7 @@ Staff by Mikey Seregon
 Dragonstone by Marlon0024
 
 ## Weapons
-
+ 
 
 |Staff |Staff |Dragonstone |Refresh |
 |  :---: | :---: | :---: | :---: |

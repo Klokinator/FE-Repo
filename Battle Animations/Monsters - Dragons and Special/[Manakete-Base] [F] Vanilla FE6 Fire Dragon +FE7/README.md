@@ -1,4 +1,5 @@
 # [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](./)
+ 
 
 <img src="./8.%20Dragonstone%20(FE7)/Dragonstone_000.png" alt="[Manakete-Base] [F] Vanilla FE6 Fire Dragon +FE7 standing" />
 
@@ -13,7 +14,7 @@ IS, Marlon0024, Eldritch Abomination, SHYUTERz
 8. Dragonstone (Vanilla) (Disembodied Head)
 
 ## Weapons
-
+ 
 
 |Dragonstone |Dragonstone |Dragonstone |Dragonstone |Dragonstone |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

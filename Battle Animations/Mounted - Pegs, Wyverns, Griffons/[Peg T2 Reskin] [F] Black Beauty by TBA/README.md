@@ -1,4 +1,5 @@
 # [\[Peg T2 Reskin\] \[F\] Black Beauty by TBA](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Peg T2 Reskin] [F] Black Beauty by TBA standing" />
 
@@ -11,7 +12,7 @@ Sword by TheBlindArcher. (???)
 Magic by Sme, Shtick.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: |

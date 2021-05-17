@@ -1,4 +1,5 @@
 # [\[Paladin-Variant\] \[M\] Sain by Greentea](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [M] Sain by Greentea standing" />
 
@@ -9,7 +10,7 @@ Made by Greentea.
 Scripted by RobertFPY.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

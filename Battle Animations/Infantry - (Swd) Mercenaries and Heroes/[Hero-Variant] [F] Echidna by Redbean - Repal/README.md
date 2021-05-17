@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[F\] Echidna by Redbean - Repal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [F] Echidna by Redbean - Repal standing" />
 
@@ -7,7 +8,7 @@
 {WarPath, Red Bean}
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

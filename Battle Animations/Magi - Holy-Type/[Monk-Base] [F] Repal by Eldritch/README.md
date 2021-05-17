@@ -1,4 +1,5 @@
 # [\[Monk-Base\] \[F\] Repal by Eldritch](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monk-Base] [F] Repal by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 {Eldritch Abomination}
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

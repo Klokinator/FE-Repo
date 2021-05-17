@@ -1,4 +1,5 @@
 # [\[Peg T1 Base\] \[F\] Repal by Flasuban](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Peg T1 Base] [F] Repal by Flasuban standing" />
 
@@ -9,7 +10,7 @@ Improved Pegasi by Flasuban.
 Note that I am not certain if this is a repalette or something else.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

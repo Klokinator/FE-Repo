@@ -1,4 +1,5 @@
 # [\[Eirika-Base\] \[F\] T1 Beta Eirika](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] T1 Beta Eirika standing" />
 
@@ -7,7 +8,7 @@
 Made by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

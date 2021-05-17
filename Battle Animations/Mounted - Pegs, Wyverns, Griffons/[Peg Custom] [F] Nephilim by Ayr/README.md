@@ -1,4 +1,5 @@
 # [\[Peg Custom\] \[F\] Nephilim by Ayr](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Peg Custom] [F] Nephilim by Ayr standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

@@ -1,4 +1,5 @@
 # [\[Ephraim-Base\] \[M\] T1 Repal by Nuramon](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] T1 Repal by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Repalette by Nuramon.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

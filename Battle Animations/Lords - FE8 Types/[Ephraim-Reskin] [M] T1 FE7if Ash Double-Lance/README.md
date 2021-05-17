@@ -1,4 +1,5 @@
 # [\[Ephraim-Reskin\] \[M\] T1 FE7if Ash Double-Lance](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Reskin] [M] T1 FE7if Ash Double-Lance standing" />
 
@@ -7,7 +8,7 @@
 Made by the developers of FE7if.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

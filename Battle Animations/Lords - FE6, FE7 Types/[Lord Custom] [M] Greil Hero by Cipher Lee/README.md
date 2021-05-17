@@ -1,4 +1,5 @@
 # [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee](./)
+ 
 
 <img src="./1.%20Sword%20(Alondite)/Sword_000.png" alt="[Lord Custom] [M] Greil Hero by Cipher Lee standing" />
 
@@ -13,7 +14,7 @@ Cipher Lee, DerTheVaporeon, Nuramon
 8. Legendary Sword (Alondite) (C47, FE7, and FE8) {Nuramon}
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Axe |Axe |Handaxe |Handaxe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

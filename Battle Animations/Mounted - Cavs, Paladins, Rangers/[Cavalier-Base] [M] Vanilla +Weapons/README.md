@@ -1,4 +1,5 @@
 # [\[Cavalier-Base\] \[M\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Base] [M] Vanilla +Weapons standing" />
 
@@ -19,7 +20,7 @@ Bow by Orihara_Saki, DerTheVaporeon, Kao, and Aurora.
 Magic by Orihara_Saki.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Axe |Handaxe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Troubadour-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Reskin] [F] Short Hair Repal by BatimaTheBat standing" />
 
@@ -7,7 +8,7 @@
 {BatimaTheBat}
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

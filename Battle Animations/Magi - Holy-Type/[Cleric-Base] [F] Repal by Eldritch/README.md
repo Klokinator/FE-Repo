@@ -1,4 +1,5 @@
 # [\[Cleric-Base\] \[F\] Repal by Eldritch](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Base] [F] Repal by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 Repalette by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

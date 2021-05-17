@@ -1,4 +1,5 @@
 # [\[Pupil-Reskin\] \[F\] Variant by Pikmin](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Pupil-Reskin] [F] Variant by Pikmin standing" />
 
@@ -7,7 +8,7 @@
 Female variant by Pikmin1211.
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

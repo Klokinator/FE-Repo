@@ -1,4 +1,5 @@
 # [\[Valkyrie-Reskin\] \[M\] Templar by GabrielKnight](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Reskin] [M] Templar by GabrielKnight standing" />
 
@@ -7,7 +8,7 @@
 Made by GabrielKnight.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

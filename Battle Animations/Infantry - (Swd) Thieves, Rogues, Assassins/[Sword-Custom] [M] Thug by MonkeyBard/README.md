@@ -1,4 +1,5 @@
 # [\[Sword-Custom\] \[M\] Thug by MonkeyBard](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Sword-Custom] [M] Thug by MonkeyBard standing" />
 
@@ -7,7 +8,7 @@
 Monkeybard, Miguel-Rojo
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Cleric-Base\] \[F\] Repal by Vilkalizer](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Base] [F] Repal by Vilkalizer standing" />
 
@@ -7,7 +8,7 @@
 Repalette by Vilkalizer.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

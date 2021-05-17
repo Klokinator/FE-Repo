@@ -1,4 +1,5 @@
 # [\[T2 Summoner-Reskin\] \[F\] FEGirls-Style](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2 Summoner-Reskin] [F] FEGirls-Style standing" />
 
@@ -7,7 +8,7 @@
 Made for the FEGirls project.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

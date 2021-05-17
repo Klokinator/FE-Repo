@@ -1,4 +1,5 @@
 # [\[Monster-Custom\] \[F\] Mermaid by ZoramineFae](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monster-Custom] [F] Mermaid by ZoramineFae standing" />
 
@@ -7,7 +8,7 @@
 Made by ZoramineFae, Dsnoon.
 
 ## Weapons
-
+ 
 
 |Magic |Palettes |
 |  :---: | :---: |

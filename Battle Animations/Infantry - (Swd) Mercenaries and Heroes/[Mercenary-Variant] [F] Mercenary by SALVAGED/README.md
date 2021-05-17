@@ -1,4 +1,5 @@
 # [\[Mercenary-Variant\] \[F\] Mercenary by SALVAGED](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Variant] [F] Mercenary by SALVAGED standing" />
 
@@ -9,7 +10,7 @@ Male base made by Team SALVAGED.
 Female variant by Jey the Count.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

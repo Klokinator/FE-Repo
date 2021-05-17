@@ -1,4 +1,5 @@
 # [\[Eliwood-Reskin\] \[M\] T2 Brave by RedBean](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T2 Brave by RedBean standing" />
 
@@ -9,7 +10,7 @@ Made by Redbean.
 Scripted by Marlon0024.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: |

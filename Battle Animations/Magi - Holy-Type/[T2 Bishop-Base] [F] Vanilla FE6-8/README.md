@@ -1,4 +1,5 @@
 # [\[T2 Bishop-Base\] \[F\] Vanilla FE6-8](./)
+ 
 
 <img src="./6.%20Magic%20(+Staff%20FE8)/Magic_000.png" alt="[T2 Bishop-Base] [F] Vanilla FE6-8 standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

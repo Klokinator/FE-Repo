@@ -1,4 +1,5 @@
 # [\[Swordmaster-Reskin\] \[M\] Bald +Staves](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Bald +Staves standing" />
 
@@ -15,7 +16,7 @@ Map Sprites by Pikmin1211, L95
 Class Card by Pikmin1211
 
 ## Weapons
-
+ 
 
 |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Dancer-Base] [F] Vanilla FE7 Ninian +Weapons standing" />
 
@@ -13,7 +14,7 @@ Staff by Mikey_Seregon.
 Dragonstone by Marlon0024.
 
 ## Weapons
-
+ 
 
 |Lance |Staff |Dragonstone |Refresh |
 |  :---: | :---: | :---: | :---: |

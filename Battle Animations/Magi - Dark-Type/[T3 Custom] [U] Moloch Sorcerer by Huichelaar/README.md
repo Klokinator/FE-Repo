@@ -1,4 +1,5 @@
 # [\[T3 Custom\] \[U\] Moloch Sorcerer by Huichelaar](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[T3 Custom] [U] Moloch Sorcerer by Huichelaar standing" />
 
@@ -9,7 +10,7 @@ Full Custom Sorcerer by Huichelaar.
 Additional contributions by JonoTheRed.
 
 ## Weapons
-
+ 
 
 |Lance |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Nomad-Reskin\] \[M\] Non-Sacaen by eCut](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Nomad-Reskin] [M] Non-Sacaen by eCut standing" />
 
@@ -7,7 +8,7 @@
 Non-Sacaen Nomad by eCut.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

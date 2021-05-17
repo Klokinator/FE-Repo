@@ -1,4 +1,5 @@
 # [\[Swordmaster-Reskin\] \[F\] Red Hair Short by Russel Clark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Red Hair Short by Russel Clark standing" />
 
@@ -7,7 +8,7 @@
 Animation by Russell Clark.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

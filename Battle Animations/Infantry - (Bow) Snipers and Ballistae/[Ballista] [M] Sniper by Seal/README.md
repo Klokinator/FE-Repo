@@ -1,4 +1,5 @@
 # [\[Ballista\] \[M\] Sniper by Seal](./)
+ 
 
 <img src="./5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Sniper by Seal standing" />
 
@@ -7,7 +8,7 @@
 Made by {Seal, Sacred War}
 
 ## Weapons
-
+ 
 
 |Bow |
 |  :---: |

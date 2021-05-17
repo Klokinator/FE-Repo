@@ -1,4 +1,5 @@
 # [\[Marshall\] \[M\] Zelgius v2 by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Marshall] [M] Zelgius v2 by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Legendary |Unarmed |
 |  :---: | :---: | :---: | :---: |

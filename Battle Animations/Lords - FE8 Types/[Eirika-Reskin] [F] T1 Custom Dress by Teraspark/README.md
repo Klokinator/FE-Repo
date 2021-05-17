@@ -1,4 +1,5 @@
 # [\[Eirika-Reskin\] \[F\] T1 Custom Dress by Teraspark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] T1 Custom Dress by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: |

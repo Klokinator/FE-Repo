@@ -1,4 +1,5 @@
 # [\[Sage-Variant\] \[M\] Battle Sage +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Sage-Variant] [M] Battle Sage +Weapons standing" />
 
@@ -8,7 +9,7 @@ St jack, The_Big_Dededester, Dolkar
 7. Staff {The_Big_Dededester, Dolkar}
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |

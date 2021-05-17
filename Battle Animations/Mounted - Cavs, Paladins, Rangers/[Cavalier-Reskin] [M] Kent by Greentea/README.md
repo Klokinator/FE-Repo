@@ -1,4 +1,5 @@
 # [\[Cavalier-Reskin\] \[M\] Kent by Greentea](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Reskin] [M] Kent by Greentea standing" />
 
@@ -9,7 +10,7 @@ Made by Greentea.
 Scripted by RobertFPY.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Priest-Base\] \[M\] Repal by Eldritch](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Priest-Base] [M] Repal by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 Made by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

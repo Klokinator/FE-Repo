@@ -1,4 +1,5 @@
 # [\[Peg T1 Reskin\] \[M\] Armored by Lisandra_Brave](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Peg T1 Reskin] [M] Armored by Lisandra_Brave standing" />
 
@@ -7,7 +8,7 @@
 {Lisandra_Brave, Inkling, Genocike}
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

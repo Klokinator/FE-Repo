@@ -1,4 +1,5 @@
 # [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] T2 Vanilla +Weapons standing" />
 
@@ -13,7 +14,7 @@ Bow by Spud.
 
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Sword |Sword |Lance |Lance |Bow |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

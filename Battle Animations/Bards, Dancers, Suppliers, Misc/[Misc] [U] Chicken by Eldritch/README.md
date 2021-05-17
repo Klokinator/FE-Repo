@@ -1,4 +1,5 @@
 # [\[Misc\] \[U\] Chicken by Eldritch](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Misc] [U] Chicken by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

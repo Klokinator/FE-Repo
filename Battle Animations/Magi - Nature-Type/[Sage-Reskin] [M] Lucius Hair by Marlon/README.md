@@ -1,4 +1,5 @@
 # [\[Sage-Reskin\] \[M\] Lucius Hair by Marlon](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Lucius Hair by Marlon standing" />
 
@@ -7,7 +8,7 @@
 Animation by Marlon0024.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

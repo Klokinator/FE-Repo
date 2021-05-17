@@ -1,4 +1,5 @@
 # [\[Lord Custom\] \[M\] Ike Ranger by Khrene Kleaver](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lord Custom] [M] Ike Ranger by Khrene Kleaver standing" />
 
@@ -9,7 +10,7 @@ Mikey Seregon, Khrene Kleaver, Khardros
 8. Legendary (Binding Blade) {Khardros}
 
 ## Weapons
-
+ 
 
 |Sword |Legendary |Unarmed |
 |  :---: | :---: | :---: |

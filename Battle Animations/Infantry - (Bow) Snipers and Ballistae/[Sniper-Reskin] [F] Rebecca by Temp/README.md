@@ -1,4 +1,5 @@
 # [\[Sniper-Reskin\] \[F\] Rebecca by Temp](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [F] Rebecca by Temp standing" />
 
@@ -7,7 +8,7 @@
 Made by Temp, Wan.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

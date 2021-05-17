@@ -1,4 +1,5 @@
 # [\[Bard-Base\] \[M\] Elffin Fancy +Magic](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin Fancy +Magic standing" />
 
@@ -9,7 +10,7 @@ Animation by MeatOfJustice.
 Unique map sprites and Class Card also by MeatOfJustice.
 
 ## Weapons
-
+ 
 
 |Magic |Refresh |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Hector-Custom\] \[M\] T2 Brave Hector by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Custom] [M] T2 Brave Hector by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

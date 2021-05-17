@@ -1,4 +1,5 @@
 # [\[Ballista\] \[M\] Wil by Greentea](./)
+ 
 
 <img src="./5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Wil by Greentea standing" />
 
@@ -9,7 +10,7 @@ Made by Greentea.
 Scripting by qiuzf007.
 
 ## Weapons
-
+ 
 
 |Bow |
 |  :---: |

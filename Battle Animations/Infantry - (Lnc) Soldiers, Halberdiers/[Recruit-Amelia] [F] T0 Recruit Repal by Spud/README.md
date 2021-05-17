@@ -1,4 +1,5 @@
 # [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Recruit-Amelia] [F] T0 Recruit Repal by Spud standing" />
 
@@ -9,7 +10,7 @@ Original animation by IS.
 Repalette by Spud.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

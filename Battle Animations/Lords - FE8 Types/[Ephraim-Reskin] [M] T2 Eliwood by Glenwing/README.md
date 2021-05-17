@@ -1,4 +1,5 @@
 # [\[Ephraim-Reskin\] \[M\] T2 Eliwood by Glenwing](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Reskin] [M] T2 Eliwood by Glenwing standing" />
 
@@ -7,7 +8,7 @@
 Made by Glenwing.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

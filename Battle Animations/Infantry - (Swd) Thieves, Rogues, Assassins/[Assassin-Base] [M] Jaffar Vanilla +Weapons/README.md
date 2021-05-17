@@ -1,4 +1,5 @@
 # [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Jaffar Vanilla +Weapons standing" />
 
@@ -17,7 +18,7 @@ Knife by JJ09.
 Bow by Andy and SD9K.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Sword |Sword |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

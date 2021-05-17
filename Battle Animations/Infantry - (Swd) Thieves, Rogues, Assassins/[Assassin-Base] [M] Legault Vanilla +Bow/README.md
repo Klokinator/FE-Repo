@@ -1,4 +1,5 @@
 # [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Legault Vanilla +Bow standing" />
 
@@ -9,7 +10,7 @@ Base animation by IS.
 Bow by Andy, SD9K.
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

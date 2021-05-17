@@ -1,4 +1,5 @@
 # [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3 Custom] [U] Executioner (Assassin+Druid) standing" />
 
@@ -19,7 +20,7 @@ Re-used graphics:
 Everything else was made by me, Huichelaar.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: |

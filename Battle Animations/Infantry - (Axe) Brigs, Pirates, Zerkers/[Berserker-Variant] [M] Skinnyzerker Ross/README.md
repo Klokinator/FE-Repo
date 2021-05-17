@@ -1,4 +1,5 @@
 # [\[Berserker-Variant\] \[M\] Skinnyzerker Ross](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Skinnyzerker Ross standing" />
 
@@ -15,7 +16,7 @@ Ross Variant by Waleed.
 Note: This animation is somewhat choppy and could use improvements.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

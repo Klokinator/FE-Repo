@@ -1,4 +1,5 @@
 # [\[General-Base\] \[U\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Base] [U] Vanilla +Weapons standing" />
 
@@ -14,7 +15,7 @@ Knabepicer
 2. Lance (No Chain) {knabepicer, Dabmaster110}
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Lance |Axe |Axe |Handaxe |Bow |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

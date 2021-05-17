@@ -1,4 +1,5 @@
 # [\[Thief-Reskin\] \[M\] Hooded by Solum](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Reskin] [M] Hooded by Solum standing" />
 
@@ -7,7 +8,7 @@
 Made by Solum.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

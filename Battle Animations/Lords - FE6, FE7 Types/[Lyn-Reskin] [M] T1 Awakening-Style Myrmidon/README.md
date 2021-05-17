@@ -1,4 +1,5 @@
 # [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [M] T1 Awakening-Style Myrmidon standing" />
 
@@ -9,7 +10,7 @@ Original sprite by Iscaneus.
 Animated by Leo_Link.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

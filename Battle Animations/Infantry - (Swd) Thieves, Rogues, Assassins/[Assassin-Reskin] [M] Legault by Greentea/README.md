@@ -1,4 +1,5 @@
 # [\[Assassin-Reskin\] \[M\] Legault by Greentea](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [M] Legault by Greentea standing" />
 
@@ -9,7 +10,7 @@ Animation by Greentea.
 Scripting by Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

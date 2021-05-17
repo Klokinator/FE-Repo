@@ -1,4 +1,5 @@
 # [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T2 Summoner-Base] [M] Vanilla +Axes standing" />
 
@@ -11,7 +12,7 @@ Axe and handaxe by Spud, TBA.
 Fixes to the magic animation(???) by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Magic |Staff |
 |  :---: | :---: | :---: | :---: |

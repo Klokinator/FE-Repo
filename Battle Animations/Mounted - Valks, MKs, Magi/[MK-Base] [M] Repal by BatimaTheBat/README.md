@@ -1,4 +1,5 @@
 # [\[MK-Base\] \[M\] Repal by BatimaTheBat](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[MK-Base] [M] Repal by BatimaTheBat standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

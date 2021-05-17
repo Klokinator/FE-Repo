@@ -1,4 +1,5 @@
 # [\[MK-Base\] \[F\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword%20(Rapidslash-crit)/Sword_000.png" alt="[MK-Base] [F] Vanilla +Weapons standing" />
 
@@ -13,7 +14,7 @@ Sword (Thunder-crit) by Aruka, Kenpuhu.
 Magic (Sword) by Seal, Sacred War.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Magic |Magic |Staff |
 |  :---: | :---: | :---: | :---: | :---: |

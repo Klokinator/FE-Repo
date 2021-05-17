@@ -1,4 +1,5 @@
 # [\[Fighter-Base\] \[M\] Vanilla +Sword](./)
+ 
 
 <img src="./1.%20Sword%20(Hector)%20(Vilkalizer)/Sword_000.png" alt="[Fighter-Base] [M] Vanilla +Sword standing" />
 
@@ -7,7 +8,7 @@
 {IS, Vilkalizer}
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

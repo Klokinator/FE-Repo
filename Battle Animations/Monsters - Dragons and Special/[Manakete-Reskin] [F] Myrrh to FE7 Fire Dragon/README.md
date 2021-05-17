@@ -1,4 +1,5 @@
 # [\[Manakete-Reskin\] \[F\] Myrrh to FE7 Fire Dragon](./)
+ 
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Reskin] [F] Myrrh to FE7 Fire Dragon standing" />
 
@@ -7,7 +8,7 @@
 Teraspark, SHYUTERz, The_Big_Dededester
 
 ## Weapons
-
+ 
 
 |Dragonstone |Unarmed |
 |  :---: | :---: |

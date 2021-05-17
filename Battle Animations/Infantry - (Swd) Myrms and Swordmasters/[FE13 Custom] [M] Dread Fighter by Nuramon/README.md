@@ -1,4 +1,5 @@
 # [\[FE13 Custom\] \[M\] Dread Fighter by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[FE13 Custom] [M] Dread Fighter by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Made by Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: |

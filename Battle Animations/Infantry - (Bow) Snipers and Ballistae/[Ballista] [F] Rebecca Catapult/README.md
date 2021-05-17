@@ -1,4 +1,5 @@
 # [\[Ballista\] \[F\] Rebecca Catapult](./)
+ 
 
 <img src="./5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [F] Rebecca Catapult standing" />
 
@@ -7,7 +8,7 @@
 Made by Spud, Ren_Ookami.
 
 ## Weapons
-
+ 
 
 |Bow |
 |  :---: |

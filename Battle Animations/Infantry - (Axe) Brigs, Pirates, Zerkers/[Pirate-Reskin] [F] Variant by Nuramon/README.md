@@ -1,4 +1,5 @@
 # [\[Pirate-Reskin\] \[F\] Variant by Nuramon](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Pirate-Reskin] [F] Variant by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Nuramon, MarioKirby, Wan
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

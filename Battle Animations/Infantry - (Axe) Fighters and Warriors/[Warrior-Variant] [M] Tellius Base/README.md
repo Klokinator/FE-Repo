@@ -1,4 +1,5 @@
 # [\[Warrior-Variant\] \[M\] Tellius Base](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Variant] [M] Tellius Base standing" />
 
@@ -7,7 +8,7 @@
 Leo_Link, Nuramon, Spud, Jey the Count
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Paladin-Custom\] \[M\] Bow Knight by Spud](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Paladin-Custom] [M] Bow Knight by Spud standing" />
 
@@ -9,7 +10,7 @@ Sprited by Spud.
 Scripted/Animated by HyperGammaSpaces.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

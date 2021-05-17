@@ -1,4 +1,5 @@
 # [\[T2 Druid-Reskin\] \[M\] Hoodless by JeyTheCount](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2 Druid-Reskin] [M] Hoodless by JeyTheCount standing" />
 
@@ -9,7 +10,7 @@ Original Druid by IS.
 Hoodless variant by Jey the Count.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

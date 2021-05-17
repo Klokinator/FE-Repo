@@ -1,4 +1,5 @@
 # [\[Swordmaster-Base\] \[M\] Vanilla FE6-Style Short Hair](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE6-Style Short Hair standing" />
 
@@ -7,7 +8,7 @@
 Made by Shtick.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Thief-Variant\] \[M\] FEDS Thief by DerTheVaporeon](./)
+ 
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Thief-Variant] [M] FEDS Thief by DerTheVaporeon standing" />
 
@@ -7,7 +8,7 @@
 Made by {DerTheVaporeon}
 
 ## Weapons
-
+ 
 
 |Knife |Sword |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Cleric-Base\] \[F\] Vanilla FE6 +Weapons](./)
+ 
 
 <img src="./1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[Cleric-Base] [F] Vanilla FE6 +Weapons standing" />
 
@@ -13,7 +14,7 @@ Sword (Prayer) by Maiser6, Raiden.
 Magic by Jeorge_Reds.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

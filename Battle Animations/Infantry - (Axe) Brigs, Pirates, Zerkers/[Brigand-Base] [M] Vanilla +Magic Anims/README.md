@@ -1,4 +1,5 @@
 # [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Base] [M] Vanilla +Magic Anims standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Magic animations by Blue Druid.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Magic |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

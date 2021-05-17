@@ -1,4 +1,5 @@
 # [\[Eirika-Reskin\] \[F\] T1 Artoria Pendragon Repal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Reskin] [F] T1 Artoria Pendragon Repal standing" />
 
@@ -7,7 +8,7 @@
 IS, Mysterious Dancer, Sax Marine
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

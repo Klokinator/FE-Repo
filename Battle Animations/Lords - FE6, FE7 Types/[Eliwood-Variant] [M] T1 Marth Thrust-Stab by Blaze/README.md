@@ -1,4 +1,5 @@
 # [\[Eliwood-Variant\] \[M\] T1 Marth Thrust-Stab by Blaze](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [M] T1 Marth Thrust-Stab by Blaze standing" />
 
@@ -7,7 +8,7 @@
 Made by Blaze for use in GFE1R.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

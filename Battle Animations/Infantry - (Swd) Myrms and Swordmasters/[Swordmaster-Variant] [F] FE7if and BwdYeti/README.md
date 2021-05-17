@@ -1,4 +1,5 @@
 # [\[Swordmaster-Variant\] \[F\] FE7if and BwdYeti](./)
+ 
 
 <img src="./1.%20Sword%20(Astra%20Crit%201)/Sword_000.png" alt="[Swordmaster-Variant] [F] FE7if and BwdYeti standing" />
 
@@ -13,7 +14,7 @@ Note that while this animation is in the repo and was 'made' by the creators of 
 Also, it's presently missing an unarmed animation.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Nomad Trooper Reskin\] \[M\] Sacaen Repal](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Nomad Trooper Reskin] [M] Sacaen Repal standing" />
 
@@ -9,7 +10,7 @@
 Axe by Valak.
 
 ## Weapons
-
+ 
 
 |Axe |Bow |Unarmed |
 |  :---: | :---: | :---: |

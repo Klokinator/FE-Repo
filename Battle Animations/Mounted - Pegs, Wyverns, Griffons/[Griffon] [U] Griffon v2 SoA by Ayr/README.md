@@ -1,4 +1,5 @@
 # [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Griffon] [U] Griffon v2 SoA by Ayr standing" />
 
@@ -15,7 +16,7 @@ Just a quick note, if you plan to release your hack out for the public to play, 
 Thank you!
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |
 |  :---: | :---: | :---: |

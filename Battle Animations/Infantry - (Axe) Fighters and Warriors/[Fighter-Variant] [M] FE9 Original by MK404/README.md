@@ -1,4 +1,5 @@
 # [\[Fighter-Variant\] \[M\] FE9 Original by MK404](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Variant] [M] FE9 Original by MK404 standing" />
 
@@ -7,7 +8,7 @@
 {MK404}
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

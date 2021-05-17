@@ -1,4 +1,5 @@
 # [\[Mage-Reskin\] \[F\] Hat by RetroGamer](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Reskin] [F] Hat by RetroGamer standing" />
 
@@ -7,7 +8,7 @@
 Made by {Retrogamer, 7743}
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

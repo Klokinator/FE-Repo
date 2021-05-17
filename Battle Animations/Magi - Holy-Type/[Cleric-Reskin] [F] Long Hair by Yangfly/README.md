@@ -1,4 +1,5 @@
 # [\[Cleric-Reskin\] \[F\] Long Hair by Yangfly](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Long Hair by Yangfly standing" />
 
@@ -7,7 +8,7 @@
 Made by Yangfly Master.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

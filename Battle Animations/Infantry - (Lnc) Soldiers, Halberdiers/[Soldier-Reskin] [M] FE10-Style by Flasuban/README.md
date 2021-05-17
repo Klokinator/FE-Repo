@@ -1,4 +1,5 @@
 # [\[Soldier-Reskin\] \[M\] FE10-Style by Flasuban](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Soldier-Reskin] [M] FE10-Style by Flasuban standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[General-Base\] \[U\] Repal by Skitty](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Base] [U] Repal by Skitty standing" />
 
@@ -7,7 +8,7 @@
 {Skitty}
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

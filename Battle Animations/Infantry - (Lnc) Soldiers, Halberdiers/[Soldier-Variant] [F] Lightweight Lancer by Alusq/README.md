@@ -1,4 +1,5 @@
 # [\[Soldier-Variant\] \[F\] Lightweight Lancer by Alusq](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Soldier-Variant] [F] Lightweight Lancer by Alusq standing" />
 
@@ -9,7 +10,7 @@ Animation by Alusq.
 Female variant by Maiser6, JeyTheCount.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

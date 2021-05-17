@@ -1,4 +1,5 @@
 # [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Knight-Reskin] [M] Wallace by JeyTheCount standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Wallace variant by JeyTheCount.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

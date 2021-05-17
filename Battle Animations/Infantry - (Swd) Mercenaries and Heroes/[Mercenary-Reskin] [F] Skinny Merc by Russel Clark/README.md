@@ -1,4 +1,5 @@
 # [\[Mercenary-Reskin\] \[F\] Skinny Merc by Russel Clark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [F] Skinny Merc by Russel Clark standing" />
 
@@ -7,7 +8,7 @@
 Made by Russell Clark, Orihara_Saki.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

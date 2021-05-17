@@ -1,4 +1,5 @@
 # [\[Ranger-Base\] \[F\] Vanilla](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ranger-Base] [F] Vanilla standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Lance by ???
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

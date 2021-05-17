@@ -1,4 +1,5 @@
 # [\[General-Reskin\] \[M\] Baron Cape +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Reskin] [M] Baron Cape +Weapons standing" />
 
@@ -9,7 +10,7 @@ Leo_link, Nuramon, Iscaneus, The_Big_Dededester
 1. Sword (Magic Flash) {The_Big_Dededester}
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Axe |Axe |Handaxe |Bow |Magic |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

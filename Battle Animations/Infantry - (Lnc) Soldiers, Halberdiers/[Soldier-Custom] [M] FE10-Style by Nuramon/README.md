@@ -1,4 +1,5 @@
 # [\[Soldier-Custom\] \[M\] FE10-Style by Nuramon](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Soldier-Custom] [M] FE10-Style by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 flasuban, Nuramon, Leo_link
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

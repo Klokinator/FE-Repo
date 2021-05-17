@@ -1,4 +1,5 @@
 # [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Reskin] [F] Long Hair by GoofyfanG56 standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Assassin-Variant\] \[M\] Whisper Sothe by Mycahel](./)
+ 
 
 <img src="./1.%20Sword%20(Knife%20Crit)/Sword_000.png" alt="[Assassin-Variant] [M] Whisper Sothe by Mycahel standing" />
 
@@ -7,7 +8,7 @@
 Made by {Mycahel}
 
 ## Weapons
-
+ 
 
 |Sword |Sword |
 |  :---: | :---: |

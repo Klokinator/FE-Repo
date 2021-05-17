@@ -1,4 +1,5 @@
 # [\[Grand Paladin\] \[M\] Seth v2 by Aruka](./)
+ 
 
 <img src="./1.%20Sword%20(Magic%20Crit%20Flash)/Sword_000.png" alt="[Grand Paladin] [M] Seth v2 by Aruka standing" />
 
@@ -15,7 +16,7 @@ Lance by Seal.
 Axe/Handaxe/Unarmed by Aruka and Kenpuhu.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Sniper-Variant\] \[F\] Neimi by Aruka](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Variant] [F] Neimi by Aruka standing" />
 
@@ -9,7 +10,7 @@ Made by Aruka, Kenpuhu.
 Alt Bow/Unarmed by Frostlax.
 
 ## Weapons
-
+ 
 
 |Bow |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |

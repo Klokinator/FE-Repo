@@ -1,4 +1,5 @@
 # [\[WL Reskin\] \[F\] Vaida by Greentea](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[WL Reskin] [F] Vaida by Greentea standing" />
 
@@ -11,7 +12,7 @@ Scripting by RobertFPY.
 T1 Port of the T2 animations by Jey the Count.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

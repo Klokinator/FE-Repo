@@ -1,4 +1,5 @@
 # [\[Dark-Knight\] \[U\] Ranger-Style Hooded](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Dark-Knight] [U] Ranger-Style Hooded standing" />
 
@@ -22,7 +23,7 @@ Class Card by Pikmin1211
 
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |

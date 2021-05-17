@@ -1,4 +1,5 @@
 # [\[Lyn-Base\] \[F\] T2 Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] T2 Vanilla +Weapons standing" />
 
@@ -14,7 +15,7 @@ IS, Hextator, shadowofchaos, Moocavo, Vilkalizer
 8. Legendary Sword (Sol Katti) (Magic Sword Fix)
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Sword |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Rogue-Base\] \[M\] Vanilla +Staff](./)
+ 
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Rogue-Base] [M] Vanilla +Staff standing" />
 
@@ -11,7 +12,7 @@ Knife by Orihara_Saki.
 Staff by Ukulele, SD9k.
 
 ## Weapons
-
+ 
 
 |Knife |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

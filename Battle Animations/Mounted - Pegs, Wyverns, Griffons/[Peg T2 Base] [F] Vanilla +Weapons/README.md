@@ -1,4 +1,5 @@
 # [\[Peg T2 Base\] \[F\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Peg T2 Base] [F] Vanilla +Weapons standing" />
 
@@ -11,7 +12,7 @@ Magic Jeorge_Reds.
 Staff by ShadowOfChaos.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

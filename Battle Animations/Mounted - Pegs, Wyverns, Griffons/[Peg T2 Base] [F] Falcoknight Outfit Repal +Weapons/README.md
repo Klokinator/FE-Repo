@@ -1,4 +1,5 @@
 # [\[Peg T2 Base\] \[F\] Falcoknight Outfit Repal +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Peg T2 Base] [F] Falcoknight Outfit Repal +Weapons standing" />
 
@@ -9,7 +10,7 @@ Repalette by Jeorge_Reds.
 Staff by ShadowOfChaos.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

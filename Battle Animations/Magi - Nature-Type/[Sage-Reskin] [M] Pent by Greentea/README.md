@@ -1,4 +1,5 @@
 # [\[Sage-Reskin\] \[M\] Pent by Greentea](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Pent by Greentea standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

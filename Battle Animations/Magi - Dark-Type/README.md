@@ -1,12 +1,16 @@
 # [Magi - Dark-Type Battle Animations](./)
 
+<details>
+<summary>Click to expand!</summary>
+
 ## [\[Custom DM\] \[F\] Dark Mage by Pikmin](./%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/)
+ 
 
 <img src="./%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Custom DM] [F] Dark Mage by Pikmin standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |
 |  :---: |
@@ -14,12 +18,13 @@
 
 
 ## [\[Custom DM\] \[M\] Dark Mage by Pikmin](./%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/)
+ 
 
 <img src="./%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic_000.png" alt="[Custom DM] [M] Dark Mage by Pikmin standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |
 |  :---: |
@@ -27,12 +32,13 @@
 
 
 ## [\[Shaman-Base\] \[F\] FE6 Repal by Markyjoe](./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/)
+ 
 
 <img src="./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic/Magic_000.png" alt="[Shaman-Base] [F] FE6 Repal by Markyjoe standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |
 |  :---: | :---: |
@@ -40,12 +46,13 @@
 
 
 ## [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/)
+ 
 
 <img src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic/Magic_000.png" alt="[Shaman-Base] [F] Vanilla FE6 +Staff standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |
@@ -53,12 +60,13 @@
 
 
 ## [\[Shaman-Base\] \[F\] Vanilla FE8](./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/)
+ 
 
 <img src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(FE8)/Magic_000.png" alt="[Shaman-Base] [F] Vanilla FE8 standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |
 |  :---: | :---: |
@@ -66,12 +74,13 @@
 
 
 ## [\[Shaman-Base\] \[M\] Vanilla +Staff](./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/)
+ 
 
 <img src="./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic/Magic_000.png" alt="[Shaman-Base] [M] Vanilla +Staff standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |
@@ -79,12 +88,13 @@
 
 
 ## [\[Shaman-Reskin\] \[F\] Poised by Markyjoe](./%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/)
+ 
 
 <img src="./%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/6.%20Magic%20(FE7)/Magic_000.png" alt="[Shaman-Reskin] [F] Poised by Markyjoe standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |
 |  :---: | :---: |
@@ -92,12 +102,13 @@
 
 
 ## [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/)
+ 
 
 <img src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic_000.png" alt="[Shaman-Reskin] [M] Hoodless +Staff by Temp standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |
@@ -105,12 +116,13 @@
 
 
 ## [\[T2 Druid-Base\] \[F\] Vanilla FE6](./%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/)
+ 
 
 <img src="./%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/6.%20Magic/Magic_000.png" alt="[T2 Druid-Base] [F] Vanilla FE6 standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |
@@ -118,12 +130,13 @@
 
 
 ## [\[T2 Druid-Base\] \[M\] Vanilla FE6-8](./%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/)
+ 
 
 <img src="./%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic_000.png" alt="[T2 Druid-Base] [M] Vanilla FE6-8 standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |
@@ -131,12 +144,13 @@
 
 
 ## [\[T2 Druid-Base\] \[U\] Vanilla Wizard FE4 Loptyr Rip](./%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/)
+ 
 
 <img src="./%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/6.%20Magic/Magic_000.png" alt="[T2 Druid-Base] [U] Vanilla Wizard FE4 Loptyr Rip standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |
@@ -144,12 +158,13 @@
 
 
 ## [\[T2 Druid-Reskin\] \[M\] Hoodless by JeyTheCount](./%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/)
+ 
 
 <img src="./%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/6.%20Magic/Magic_000.png" alt="[T2 Druid-Reskin] [M] Hoodless by JeyTheCount standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |
@@ -157,12 +172,13 @@
 
 
 ## [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/)
+ 
 
 <img src="./%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/3.%20Axe/Axe_000.png" alt="[T2 Summoner-Base] [M] Vanilla +Axes standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Magic |Staff |
 |  :---: | :---: | :---: | :---: |
@@ -170,12 +186,13 @@
 
 
 ## [\[T2 Summoner-Reskin\] \[F\] FEGirls-Style](./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/)
+ 
 
 <img src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/6.%20Magic/Magic_000.png" alt="[T2 Summoner-Reskin] [F] FEGirls-Style standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |
@@ -183,12 +200,13 @@
 
 
 ## [\[T2 Summoner-Reskin\] \[F\] Generic by Velvet](./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/)
+ 
 
 <img src="./%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/6.%20Magic/Magic_000.png" alt="[T2 Summoner-Reskin] [F] Generic by Velvet standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |
@@ -196,12 +214,13 @@
 
 
 ## [\[T3 Custom\] \[M\] Dark Prince Julius by Obs](./%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs/)
+ 
 
 <img src="./%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs/6.%20Magic/Magic_000.png" alt="[T3 Custom] [M] Dark Prince Julius by Obs standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |
 |  :---: |
@@ -209,12 +228,13 @@
 
 
 ## [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](./%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/)
+ 
 
 <img src="./%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword_000.png" alt="[T3 Custom] [U] Executioner (Assassin+Druid) standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: |
@@ -222,12 +242,13 @@
 
 
 ## [\[T3 Custom\] \[U\] Moloch Sorcerer by Huichelaar](./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/)
+ 
 
 <img src="./%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/2.%20Lance/Lance_000.png" alt="[T3 Custom] [U] Moloch Sorcerer by Huichelaar standing" />
 
 
 ### Weapons
-
+ 
 
 |Lance |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -235,12 +256,13 @@
 
 
 ## [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE7)/Magic_000.png" alt="[T3 Dark Druid] [F] Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Staff |Staff |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -248,12 +270,13 @@
 
 
 ## [\[T3 Dark Druid\] \[M\] Nergal +Fixes](./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/)
+ 
 
 <img src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic_000.png" alt="[T3 Dark Druid] [M] Nergal +Fixes standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -261,12 +284,13 @@
 
 
 ## [\[T3 Dark Druid\] \[M\] Nergal Repal by SHYUTERz](./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/)
+ 
 
 <img src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic_000.png" alt="[T3 Dark Druid] [M] Nergal Repal by SHYUTERz standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |
 |  :---: |
@@ -274,12 +298,13 @@
 
 
 ## [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](./%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/)
+ 
 
 <img src="./%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[T3 Necromancer Alt] [F] Noble Lyon by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Staff |
 |  :---: | :---: |
@@ -287,12 +312,13 @@
 
 
 ## [\[T3 Necromancer Alt\] \[M\] Noble Lyon by Aruka](./%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka/)
+ 
 
 <img src="./%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[T3 Necromancer Alt] [M] Noble Lyon by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Staff |
 |  :---: | :---: |
@@ -300,12 +326,13 @@
 
 
 ## [\[T3 Necromancer\] \[F\] Archsage Lilina by Redbean](./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/)
+ 
 
 <img src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[T3 Necromancer] [F] Archsage Lilina by Redbean standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Magic |Staff |Legendary |Legendary |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -313,12 +340,13 @@
 
 
 ## [\[T3 Necromancer\] \[M\] Generic by Eldritch](./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/)
+ 
 
 <img src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic/Magic_000.png" alt="[T3 Necromancer] [M] Generic by Eldritch standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: |
@@ -326,14 +354,16 @@
 
 
 ## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/)
+ 
 
 <img src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic_000.png" alt="[T3 Necromancer] [M] Vanilla FE8 Lyon +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Minigun%20Melee)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Vanilla)/Staff.gif" /> |
 
+</details>

@@ -1,4 +1,5 @@
 # [\[Dancer-Reskin\] \[F\] Tethys Short-Haired](./)
+ 
 
 <img src="./8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] Tethys Short-Haired standing" />
 
@@ -7,7 +8,7 @@
 Animation by Its_Just_Jay.
 
 ## Weapons
-
+ 
 
 |Refresh |
 |  :---: |

@@ -1,4 +1,5 @@
 # [\[Sword Custom\] \[M\] Samurai - Taijutsu Rogue](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Samurai - Taijutsu Rogue standing" />
 
@@ -7,7 +8,7 @@
 Animation by GabrielKnight, BigMood.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[T2 Summoner-Reskin\] \[F\] Generic by Velvet](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2 Summoner-Reskin] [F] Generic by Velvet standing" />
 
@@ -7,7 +8,7 @@
 {Velvet Kitsune, Author_Pendragon}
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

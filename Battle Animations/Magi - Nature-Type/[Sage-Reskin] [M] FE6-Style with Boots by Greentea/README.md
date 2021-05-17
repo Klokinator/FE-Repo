@@ -1,4 +1,5 @@
 # [\[Sage-Reskin\] \[M\] FE6-Style with Boots by Greentea](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] FE6-Style with Boots by Greentea standing" />
 
@@ -9,7 +10,7 @@ Erk Base animation by Greentea.
 Generic FE6 Variant by tristan_hollow. 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

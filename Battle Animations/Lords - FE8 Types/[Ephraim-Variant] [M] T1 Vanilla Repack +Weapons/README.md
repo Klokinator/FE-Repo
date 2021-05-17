@@ -1,4 +1,5 @@
 # [\[Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Variant] [M] T1 Vanilla Repack +Weapons standing" />
 
@@ -11,7 +12,7 @@ Additional weapons (???) by DerTheVaporeon, Pikmin1211.
 Staff by ZoramineFae.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Bow |Staff |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

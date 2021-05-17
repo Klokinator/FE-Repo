@@ -1,4 +1,5 @@
 # [\[Hero-Reskin\] \[F\] Generic +Basic Shield](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Reskin] [F] Generic +Basic Shield standing" />
 
@@ -7,7 +8,7 @@
 (St jack}
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

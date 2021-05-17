@@ -1,4 +1,5 @@
 # [\[Cleric-Variant\] \[F\] Sassy Healer by Alusq](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Variant] [F] Sassy Healer by Alusq standing" />
 
@@ -7,7 +8,7 @@
 Made by Alusq.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

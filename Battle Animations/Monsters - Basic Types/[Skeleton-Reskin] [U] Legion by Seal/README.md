@@ -1,4 +1,5 @@
 # [\[Skeleton-Reskin\] \[U\] Legion by Seal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Skeleton-Reskin] [U] Legion by Seal standing" />
 
@@ -11,7 +12,7 @@ Unarmed by Blood.
 Unarmed +Shield by SaxMarine.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

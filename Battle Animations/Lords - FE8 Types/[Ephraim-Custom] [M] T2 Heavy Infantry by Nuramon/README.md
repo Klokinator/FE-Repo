@@ -1,4 +1,5 @@
 # [\[Ephraim-Custom\] \[M\] T2 Heavy Infantry by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Custom] [M] T2 Heavy Infantry by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

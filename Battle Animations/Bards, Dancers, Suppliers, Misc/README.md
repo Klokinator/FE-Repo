@@ -1,12 +1,16 @@
 # [Bards, Dancers, Suppliers, Misc Battle Animations](./)
 
+<details>
+<summary>Click to expand!</summary>
+
 ## [\[Bard-Base\] \[M\] Elffin +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/)
+ 
 
 <img src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Refresh |Refresh |Refresh |
 |  :---: | :---: | :---: | :---: |
@@ -14,12 +18,13 @@
 
 
 ## [\[Bard-Base\] \[M\] Elffin Fancy +Magic](./%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/)
+ 
 
 <img src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin Fancy +Magic standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |Refresh |
 |  :---: | :---: |
@@ -27,12 +32,13 @@
 
 
 ## [\[Bard-Base\] \[M\] Nils +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/)
+ 
 
 <img src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff_000.png" alt="[Bard-Base] [M] Nils +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Staff |Staff |Dragonstone |Refresh |
 |  :---: | :---: | :---: | :---: |
@@ -40,12 +46,13 @@
 
 
 ## [\[Bard-Reskin\] \[F\] Nils Generic](./%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/)
+ 
 
 <img src="./%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/8.%20Refresh/Refresh_000.png" alt="[Bard-Reskin] [F] Nils Generic standing" />
 
 
 ### Weapons
-
+ 
 
 |Refresh |
 |  :---: |
@@ -53,12 +60,13 @@
 
 
 ## [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](./%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/)
+ 
 
 <img src="./%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/8.%20Refresh/Refresh_000.png" alt="[Bard-Style] [M] Elffin Sonneteer by Marlon0024 standing" />
 
 
 ### Weapons
-
+ 
 
 |Refresh |
 |  :---: |
@@ -66,12 +74,13 @@
 
 
 ## [\[Bard-Type\] \[F\] Elffin Magic-Only](./%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/)
+ 
 
 <img src="./%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/6.%20Magic/Magic_000.png" alt="[Bard-Type] [F] Elffin Magic-Only standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |
 |  :---: |
@@ -79,12 +88,13 @@
 
 
 ## [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/)
+ 
 
 <img src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff_000.png" alt="[Dancer-Base] [F] Vanilla FE6 Larum +FE7-8, Staff standing" />
 
 
 ### Weapons
-
+ 
 
 |Staff |Refresh |Refresh |Refresh |
 |  :---: | :---: | :---: | :---: |
@@ -92,12 +102,13 @@
 
 
 ## [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/)
+ 
 
 <img src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/2.%20Lance/Lance_000.png" alt="[Dancer-Base] [F] Vanilla FE7 Ninian +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Lance |Staff |Dragonstone |Refresh |
 |  :---: | :---: | :---: | :---: |
@@ -105,12 +116,13 @@
 
 
 ## [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/)
+ 
 
 <img src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword_000.png" alt="[Dancer-Base] [F] Vanilla FE8 Tethys +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Staff |Refresh |Refresh |Refresh |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -118,12 +130,13 @@
 
 
 ## [\[Dancer-Reskin\] \[F\] FE5 Port by Shtick](./%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/)
+ 
 
 <img src="./%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] FE5 Port by Shtick standing" />
 
 
 ### Weapons
-
+ 
 
 |Refresh |
 |  :---: |
@@ -131,12 +144,13 @@
 
 
 ## [\[Dancer-Reskin\] \[F\] Tethys Short-Haired](./%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/)
+ 
 
 <img src="./%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [F] Tethys Short-Haired standing" />
 
 
 ### Weapons
-
+ 
 
 |Refresh |
 |  :---: |
@@ -144,12 +158,13 @@
 
 
 ## [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95](./%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/)
+ 
 
 <img src="./%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/8.%20Refresh/Refresh_000.png" alt="[Dancer-Reskin] [M] Tethys-Style Shirtless by L95 standing" />
 
 
 ### Weapons
-
+ 
 
 |Refresh |
 |  :---: |
@@ -157,12 +172,13 @@
 
 
 ## [\[Misc-Supplier\] \[F\] Supplier by JonoTheRed](./%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/)
+ 
 
 <img src="./%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/2.%20Lance/Lance_000.png" alt="[Misc-Supplier] [F] Supplier by JonoTheRed standing" />
 
 
 ### Weapons
-
+ 
 
 |Lance |Staff |
 |  :---: | :---: |
@@ -170,12 +186,13 @@
 
 
 ## [\[Misc-Supplier\] \[M\] Supplier](./%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/)
+ 
 
 <img src="./%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/7.%20Staff/Staff_000.png" alt="[Misc-Supplier] [M] Supplier standing" />
 
 
 ### Weapons
-
+ 
 
 |Staff |
 |  :---: |
@@ -183,12 +200,13 @@
 
 
 ## [\[Misc-Supply\] \[U\] T0 Merlinus Tent Vanilla](./%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/)
+ 
 
 <img src="./%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/8.%20Unarmed/Unarmed_000.png" alt="[Misc-Supply] [U] T0 Merlinus Tent Vanilla standing" />
 
 
 ### Weapons
-
+ 
 
 |Unarmed |
 |  :---: |
@@ -196,12 +214,13 @@
 
 
 ## [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](./%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/)
+ 
 
 <img src="./%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/5.%20Bow/Bow_000.png" alt="[Misc-Supply] [U] T1 Merlinus Transport +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |Staff |Unarmed |
 |  :---: | :---: | :---: |
@@ -209,12 +228,13 @@
 
 
 ## [\[Misc-Supply\] \[U\] T2 Merlinus Hot Air Ballon](./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/)
+ 
 
 <img src="./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed_000.png" alt="[Misc-Supply] [U] T2 Merlinus Hot Air Ballon standing" />
 
 
 ### Weapons
-
+ 
 
 |Unarmed |Unarmed |
 |  :---: | :---: |
@@ -222,12 +242,13 @@
 
 
 ## [\[Misc\] \[M\] Rifleman by Dolkar](./%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/)
+ 
 
 <img src="./%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow_000.png" alt="[Misc] [M] Rifleman by Dolkar standing" />
 
 
 ### Weapons
-
+ 
 
 |Bow |
 |  :---: |
@@ -235,12 +256,13 @@
 
 
 ## [\[Misc\] \[U\] Chicken by Eldritch](./%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/)
+ 
 
 <img src="./%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/8.%20Monster/Monster_000.png" alt="[Misc] [U] Chicken by Eldritch standing" />
 
 
 ### Weapons
-
+ 
 
 |Monster |
 |  :---: |
@@ -248,12 +270,13 @@
 
 
 ## [\[Misc\] \[U\] Sandbag by SHYUTERz](./%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/)
+ 
 
 <img src="./%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed_000.png" alt="[Misc] [U] Sandbag by SHYUTERz standing" />
 
 
 ### Weapons
-
+ 
 
 |Unarmed |
 |  :---: |
@@ -261,12 +284,13 @@
 
 
 ## [\[Non-FE\] \[F\] Metroid - Samus by SurfingKyogre](./%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/)
+ 
 
 <img src="./%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic_000.png" alt="[Non-FE] [F] Metroid - Samus by SurfingKyogre standing" />
 
 
 ### Weapons
-
+ 
 
 |Magic |
 |  :---: |
@@ -274,12 +298,13 @@
 
 
 ## [\[Non-FE\] \[F\] Yggdra Yuril Artwaltz by Aruka](./%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/)
+ 
 
 <img src="./%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [F] Yggdra Yuril Artwaltz by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -287,12 +312,13 @@
 
 
 ## [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](./%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/)
+ 
 
 <img src="./%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster_000.png" alt="[Non-FE] [M] Jojo BA - Giorno by SurfingKyogre standing" />
 
 
 ### Weapons
-
+ 
 
 |Monster |
 |  :---: |
@@ -300,12 +326,13 @@
 
 
 ## [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](./%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/)
+ 
 
 <img src="./%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe_000.png" alt="[Non-FE] [M] Kirby - King Dedede by Volke0 standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |
 |  :---: |
@@ -313,12 +340,13 @@
 
 
 ## [\[Non-FE\] \[M\] Mario by Volke0](./%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/)
+ 
 
 <img src="./%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance_000.png" alt="[Non-FE] [M] Mario by Volke0 standing" />
 
 
 ### Weapons
-
+ 
 
 |Lance |
 |  :---: |
@@ -326,12 +354,13 @@
 
 
 ## [\[Non-FE\] \[M\] Salamander Rider by Aruka](./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/)
+ 
 
 <img src="./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Non-FE] [M] Salamander Rider by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -339,14 +368,16 @@
 
 
 ## [\[Sword Custom\] \[M\] Squire by Russel Clark](./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/)
+ 
 
 <img src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Squire by Russel Clark standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif" /> |
 
+</details>

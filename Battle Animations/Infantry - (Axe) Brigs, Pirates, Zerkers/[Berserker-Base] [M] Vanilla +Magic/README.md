@@ -1,4 +1,5 @@
 # [\[Berserker-Base\] \[M\] Vanilla +Magic](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Vanilla +Magic standing" />
 
@@ -9,7 +10,7 @@ Original Berserker by IS.
 Magic and Staff animations by Orihara_Saki.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

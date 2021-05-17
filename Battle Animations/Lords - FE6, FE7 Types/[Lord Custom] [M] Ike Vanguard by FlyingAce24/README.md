@@ -1,4 +1,5 @@
 # [\[Lord Custom\] \[M\] Ike Vanguard by FlyingAce24](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lord Custom] [M] Ike Vanguard by FlyingAce24 standing" />
 
@@ -9,7 +10,7 @@ Made by FlyingAce24.
 Scripted by Primefusion.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

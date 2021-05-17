@@ -1,4 +1,5 @@
 # [\[Manakete-Base\] \[F\] Vanilla FE6 Fae +FE7](./)
+ 
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Base] [F] Vanilla FE6 Fae +FE7 standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 FE7 Dragonstone by Circleseverywhere.
 
 ## Weapons
-
+ 
 
 |Dragonstone |Dragonstone |Unarmed |
 |  :---: | :---: | :---: |

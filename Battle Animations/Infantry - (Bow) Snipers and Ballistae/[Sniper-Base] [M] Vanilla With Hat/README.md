@@ -1,4 +1,5 @@
 # [\[Sniper-Base\] \[M\] Vanilla With Hat](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Base] [M] Vanilla With Hat standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

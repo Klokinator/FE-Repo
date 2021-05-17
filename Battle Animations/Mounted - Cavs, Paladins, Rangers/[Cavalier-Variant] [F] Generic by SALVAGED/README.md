@@ -1,4 +1,5 @@
 # [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [F] Generic by SALVAGED standing" />
 
@@ -9,7 +10,7 @@ Cavalier custom by SALVAGED.
 Female version by Flasuban.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

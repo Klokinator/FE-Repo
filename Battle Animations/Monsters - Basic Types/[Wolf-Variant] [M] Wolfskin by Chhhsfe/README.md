@@ -1,4 +1,5 @@
 # [\[Wolf-Variant\] \[M\] Wolfskin by Chhhsfe](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Wolf-Variant] [M] Wolfskin by Chhhsfe standing" />
 
@@ -7,7 +8,7 @@
 Made by Chhhsfe.
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

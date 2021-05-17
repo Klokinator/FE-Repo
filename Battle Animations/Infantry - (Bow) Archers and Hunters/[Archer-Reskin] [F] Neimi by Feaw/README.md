@@ -1,4 +1,5 @@
 # [\[Archer-Reskin\] \[F\] Neimi by Feaw](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Neimi by Feaw standing" />
 
@@ -7,7 +8,7 @@
 Made by Feaw.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

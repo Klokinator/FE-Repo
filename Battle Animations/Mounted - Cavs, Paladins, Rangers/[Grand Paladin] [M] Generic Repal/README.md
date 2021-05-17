@@ -1,4 +1,5 @@
 # [\[Grand Paladin\] \[M\] Generic Repal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Grand Paladin] [M] Generic Repal standing" />
 
@@ -15,7 +16,7 @@ Nuramon for:
 Magic by Spud.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

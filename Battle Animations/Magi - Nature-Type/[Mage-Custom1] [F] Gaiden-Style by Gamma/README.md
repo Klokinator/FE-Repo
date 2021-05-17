@@ -1,4 +1,5 @@
 # [\[Mage-Custom1\] \[F\] Gaiden-Style by Gamma](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Custom1] [F] Gaiden-Style by Gamma standing" />
 
@@ -13,7 +14,7 @@ Obsidian_Daddy
 Devisian_Nights
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

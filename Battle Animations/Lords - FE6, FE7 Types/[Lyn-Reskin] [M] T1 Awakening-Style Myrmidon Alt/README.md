@@ -1,4 +1,5 @@
 # [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon Alt](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [M] T1 Awakening-Style Myrmidon Alt standing" />
 
@@ -7,7 +8,7 @@
 Iscaneus, Leo_link, Intestine
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

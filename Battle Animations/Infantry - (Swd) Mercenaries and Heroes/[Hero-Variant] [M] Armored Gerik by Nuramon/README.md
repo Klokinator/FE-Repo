@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[M\] Armored Gerik by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Armored Gerik by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Made by Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

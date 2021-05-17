@@ -1,4 +1,5 @@
 # [\[Archer-Reskin\] \[F\] Der's Twintails](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Archer-Reskin] [F] Der's Twintails standing" />
 
@@ -9,7 +10,7 @@ Original animation by IS.
 Archer Variant by DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

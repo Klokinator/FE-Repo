@@ -1,4 +1,5 @@
 # [\[Ballista\] \[M\] Wolt Catapult](./)
+ 
 
 <img src="./5.%20Bow%20(Ballista)/Bow_000.png" alt="[Ballista] [M] Wolt Catapult standing" />
 
@@ -7,7 +8,7 @@
 Made by {Spud, Ren_Ookami}
 
 ## Weapons
-
+ 
 
 |Bow |
 |  :---: |

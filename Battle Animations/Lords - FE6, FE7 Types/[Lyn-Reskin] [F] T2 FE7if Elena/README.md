@@ -1,4 +1,5 @@
 # [\[Lyn-Reskin\] \[F\] T2 FE7if Elena](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T2 FE7if Elena standing" />
 
@@ -7,7 +8,7 @@
 Made by the developers of FE7if.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |
 |  :---: | :---: |

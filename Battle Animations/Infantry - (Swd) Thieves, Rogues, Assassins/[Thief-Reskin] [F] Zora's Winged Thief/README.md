@@ -1,4 +1,5 @@
 # [\[Thief-Reskin\] \[F\] Zora's Winged Thief](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Reskin] [F] Zora's Winged Thief standing" />
 
@@ -7,7 +8,7 @@
 Made by {ZoramineFae}
 
 ## Weapons
-
+ 
 
 |Sword |
 |  :---: |

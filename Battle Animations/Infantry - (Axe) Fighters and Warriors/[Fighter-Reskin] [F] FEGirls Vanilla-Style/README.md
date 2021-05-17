@@ -1,4 +1,5 @@
 # [\[Fighter-Reskin\] \[F\] FEGirls Vanilla-Style](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Reskin] [F] FEGirls Vanilla-Style standing" />
 
@@ -9,7 +10,7 @@ Originally made for the FEGirls hack.
 Note that Black Mage's female fighters are generally considered much better to use than this animation.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

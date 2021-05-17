@@ -1,4 +1,5 @@
 # [\[Recruit-Base\] \[M\] Variant by Waleed](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Recruit-Base] [M] Variant by Waleed standing" />
 
@@ -9,7 +10,7 @@ Original female Amelia by IS.
 Male variant by Waleed.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Thief-Base\] \[F\] Leila Vanilla FE7](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Thief-Base] [F] Leila Vanilla FE7 standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Sage-Variant\] \[F\] Battle Sage +Sword by St jack](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Sage-Variant] [F] Battle Sage +Sword by St jack standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |

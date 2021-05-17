@@ -1,4 +1,5 @@
 # [\[Soldier-Variant\] \[M\] Lightweight Lancer by Alusq](./)
+ 
 
 <img src="./1.%20Sword%20%7BJeyTheCount%7D/Sword_000.png" alt="[Soldier-Variant] [M] Lightweight Lancer by Alusq standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

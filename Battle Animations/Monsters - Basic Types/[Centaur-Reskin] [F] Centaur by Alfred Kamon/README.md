@@ -1,4 +1,5 @@
 # [\[Centaur-Reskin\] \[F\] Centaur by Alfred Kamon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Centaur-Reskin] [F] Centaur by Alfred Kamon standing" />
 
@@ -11,7 +12,7 @@ Improvements (???) by Starter.
 Magic and Staff by Pikmin1211.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Dark Knight\] \[U\] Great Knight-Style by Primefusion](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Dark Knight] [U] Great Knight-Style by Primefusion standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

@@ -1,12 +1,16 @@
 # [Infantry - (Swd) Myrms and Swordmasters Battle Animations](./)
 
+<details>
+<summary>Click to expand!</summary>
+
 ## [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/)
+ 
 
 <img src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[FE13 Custom] [F] Dread Fighter by Nuramon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: |
@@ -14,12 +18,13 @@
 
 
 ## [\[FE13 Custom\] \[M\] Dread Fighter by Nuramon](./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/)
+ 
 
 <img src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[FE13 Custom] [M] Dread Fighter by Nuramon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: |
@@ -27,12 +32,13 @@
 
 
 ## [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/)
+ 
 
 <img src="./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Vanilla FE6 Ponytail +Bow standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -40,12 +46,13 @@
 
 
 ## [\[Myrmidon-Base\] \[M\] Vanilla FE6-8 Generic](./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/)
+ 
 
 <img src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Vanilla FE6-8 Generic standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -53,12 +60,13 @@
 
 
 ## [\[Myrmidon-Base\] \[M\] Vanilla FE7 Guy +Bow](./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/)
+ 
 
 <img src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Vanilla FE7 Guy +Bow standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -66,12 +74,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[F\] Fir by Leo_Link](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Leo_Link/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Leo_Link/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Fir by Leo_Link standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -79,12 +88,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[F\] Fir by Redbean](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Redbean/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Fir by Redbean standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -92,12 +102,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[F\] Karla by Greentea](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Karla by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -105,12 +116,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Long-Haired by Maiser6 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -118,12 +130,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[F\] Marisa by Arkth](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Marisa%20by%20Arkth/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Marisa%20by%20Arkth/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [F] Marisa by Arkth standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -131,12 +144,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[M\] Black Pants](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Black%20Pants/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Black%20Pants/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Black Pants standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -144,12 +158,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Jacket v1 by Jubby standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -157,12 +172,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Jacket v2 by Fuzz94 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -170,12 +186,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[M\] Joshua Hat](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Joshua%20Hat/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Joshua%20Hat/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Joshua Hat standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -183,12 +200,13 @@
 
 
 ## [\[Myrmidon-Reskin\] \[M\] Leo_Link's Alt](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt/)
+ 
 
 <img src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt/1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Leo_Link's Alt standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -196,12 +214,13 @@
 
 
 ## [\[Sword Custom\] \[F\] Fencer by GabrielKnight](./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/)
+ 
 
 <img src="./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] Fencer by GabrielKnight standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -209,12 +228,13 @@
 
 
 ## [\[Sword Custom\] \[F\] TLP's Karina Fencer](./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/)
+ 
 
 <img src="./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/1.%20Sword/Sword_000.png" alt="[Sword Custom] [F] TLP's Karina Fencer standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -222,12 +242,13 @@
 
 
 ## [\[Swordmaster-Base\] \[F\] Vanilla FE6](./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6/)
+ 
 
 <img src="./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [F] Vanilla FE6 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -235,12 +256,13 @@
 
 
 ## [\[Swordmaster-Base\] \[F\] Vanilla FE7](./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7/)
+ 
 
 <img src="./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [F] Vanilla FE7 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -248,12 +270,13 @@
 
 
 ## [\[Swordmaster-Base\] \[M\] Vanilla FE6](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6/)
+ 
 
 <img src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE6 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -261,12 +284,13 @@
 
 
 ## [\[Swordmaster-Base\] \[M\] Vanilla FE6-Style Short Hair](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6-Style%20Short%20Hair/)
+ 
 
 <img src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6-Style%20Short%20Hair/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE6-Style Short Hair standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -274,12 +298,13 @@
 
 
 ## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Guy](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy/)
+ 
 
 <img src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE7 Guy standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -287,12 +312,13 @@
 
 
 ## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Karel](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/)
+ 
 
 <img src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE7 Karel standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -300,12 +326,13 @@
 
 
 ## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Lloyd +Alt Pal](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/)
+ 
 
 <img src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword/Sword_000.png" alt="[Swordmaster-Base] [M] Vanilla FE7 Lloyd +Alt Pal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
@@ -313,12 +340,13 @@
 
 
 ## [\[Swordmaster-Custom\] \[M\] FF7 - Sephiroth by SHYUTERz](./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/)
+ 
 
 <img src="./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword_000.png" alt="[Swordmaster-Custom] [M] FF7 - Sephiroth by SHYUTERz standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -326,12 +354,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[F\] Karla by Greentea](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Karla by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -339,12 +368,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[F\] Marisa by Redbean](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Redbean/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Marisa by Redbean standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -352,12 +382,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[F\] Marisa by Seal](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Seal/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Seal/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Marisa by Seal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -365,12 +396,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[F\] Red Hair Long by Russel Clark](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Long%20by%20Russel%20Clark/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Long%20by%20Russel%20Clark/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Red Hair Long by Russel Clark standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -378,12 +410,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[F\] Red Hair Short by Russel Clark](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [F] Red Hair Short by Russel Clark standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -391,12 +424,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[M\] Bald +Staves](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Bald +Staves standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: |
@@ -404,12 +438,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[M\] Guy by Eldritch](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Eldritch/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Guy by Eldritch standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -417,12 +452,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[M\] Joshua by SD9K Stance 1](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Joshua by SD9K Stance 1 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -430,12 +466,13 @@
 
 
 ## [\[Swordmaster-Reskin\] \[M\] Joshua by SD9k Stance 2](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/)
+ 
 
 <img src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Joshua by SD9k Stance 2 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -443,12 +480,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[F\] FE7if and BwdYeti](./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%201)/Sword_000.png" alt="[Swordmaster-Variant] [F] FE7if and BwdYeti standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |
 |  :---: | :---: |
@@ -456,12 +494,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[F\] Fir by Redbean](./%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [F] Fir by Redbean standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -469,12 +508,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[F\] Marisa by Aruka](./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [F] Marisa by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
@@ -482,12 +522,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Denitaro by MatonMx](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Denitaro by MatonMx standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -495,12 +536,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] FE10-Style by TBA standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
@@ -508,12 +550,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Joshua by Aruka](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Joshua by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -521,12 +564,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%201)/Sword_000.png" alt="[Swordmaster-Variant] [M] Lloyd Alt by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -534,12 +578,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea Repal](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Lloyd Alt by Greentea Repal standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -547,12 +592,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Stefan by Greentea](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Stefan by Greentea standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -560,12 +606,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Stefan by Solusaeternus](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Stefan by Solusaeternus standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -573,12 +620,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Trueblade by Cybaster](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Trueblade by Cybaster standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -586,12 +634,13 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Trueblade by Dinar87](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Trueblade by Dinar87 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -599,14 +648,16 @@
 
 
 ## [\[Swordmaster-Variant\] \[M\] Trueblade by Mycahel](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/)
+ 
 
 <img src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Trueblade by Mycahel standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
 | <img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/1.%20Sword/Sword.gif" /> |
 
+</details>

@@ -1,4 +1,5 @@
 # [\[T3 Dark Druid\] \[M\] Nergal +Fixes](./)
+ 
 
 <img src="./6.%20Magic%20(Dark)/Magic_000.png" alt="[T3 Dark Druid] [M] Nergal +Fixes standing" />
 
@@ -29,7 +30,7 @@
 Please note that there are many variants of this animation. The Dark Druid was once an absolute enigma for modders, to the point where getting his rotating crit effect into FE6 or FE8 was damn near impossible. There are many alternate crits as a result, making some animations flashier or simpler than others. As per the repo's primary directives, I have retained all of them for future purposes.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Brigand-Style\] \[M\] Mounted Marauder by Spud](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Style] [M] Mounted Marauder by Spud standing" />
 
@@ -9,7 +10,7 @@ Original Tarvos/Maelduin by IS.
 Mounted Brigand Variant by Spud.
 
 ## Weapons
-
+ 
 
 |Axe |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Wolf-Base\] \[U\] Gwyllgi Vanilla](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Wolf-Base] [U] Gwyllgi Vanilla standing" />
 
@@ -7,7 +8,7 @@
 Made by .
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

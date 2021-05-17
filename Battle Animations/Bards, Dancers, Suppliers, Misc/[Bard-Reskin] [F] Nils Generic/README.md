@@ -1,4 +1,5 @@
 # [\[Bard-Reskin\] \[F\] Nils Generic](./)
+ 
 
 <img src="./8.%20Refresh/Refresh_000.png" alt="[Bard-Reskin] [F] Nils Generic standing" />
 
@@ -7,7 +8,7 @@
 Made by Knabepicer.
 
 ## Weapons
-
+ 
 
 |Refresh |
 |  :---: |

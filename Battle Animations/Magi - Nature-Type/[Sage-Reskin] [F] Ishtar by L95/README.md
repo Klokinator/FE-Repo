@@ -1,4 +1,5 @@
 # [\[Sage-Reskin\] \[F\] Ishtar by L95](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [F] Ishtar by L95 standing" />
 
@@ -9,7 +10,7 @@ Made by L95.
 Scripted by Brendor.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

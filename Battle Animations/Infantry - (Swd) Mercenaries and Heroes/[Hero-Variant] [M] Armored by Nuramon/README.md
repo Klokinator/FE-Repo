@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[M\] Armored by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Armored by Nuramon standing" />
 
@@ -9,7 +10,7 @@ Animation by Nuramon.
 Spinning Handaxe by Sax-Marine.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

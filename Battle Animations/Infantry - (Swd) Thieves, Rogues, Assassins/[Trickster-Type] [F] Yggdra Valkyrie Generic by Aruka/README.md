@@ -1,4 +1,5 @@
 # [\[Trickster-Type\] \[F\] Yggdra Valkyrie Generic by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Trickster-Type] [F] Yggdra Valkyrie Generic by Aruka standing" />
 
@@ -7,7 +8,7 @@
 Made by Aruka, Kenpuhu.
 
 ## Weapons
-
+ 
 
 |Sword |Staff |
 |  :---: | :---: |

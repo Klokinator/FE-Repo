@@ -1,4 +1,5 @@
 # [\[Cyclops-Base\] \[U\] Vanilla +Bow](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Cyclops-Base] [U] Vanilla +Bow standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Bow by Pie1055, scripted by Orihara_Saki.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

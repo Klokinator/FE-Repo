@@ -1,4 +1,5 @@
 # [\[Monk-Variant\] \[F\] Nino by Mikey Séregon](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monk-Variant] [F] Nino by Mikey Séregon standing" />
 
@@ -7,7 +8,7 @@
 Made by (Mikey Séregon)
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

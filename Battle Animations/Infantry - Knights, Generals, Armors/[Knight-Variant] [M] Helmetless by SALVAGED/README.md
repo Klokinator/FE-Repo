@@ -1,4 +1,5 @@
 # [\[Knight-Variant\] \[M\] Helmetless by SALVAGED](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Knight-Variant] [M] Helmetless by SALVAGED standing" />
 
@@ -9,7 +10,7 @@ Base animation by Team SALVAGED.
 Helmetless variant by BoneManSeth.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Bow |Unarmed |team |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

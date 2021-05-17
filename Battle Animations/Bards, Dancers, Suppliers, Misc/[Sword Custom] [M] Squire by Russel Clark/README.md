@@ -1,4 +1,5 @@
 # [\[Sword Custom\] \[M\] Squire by Russel Clark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Sword Custom] [M] Squire by Russel Clark standing" />
 
@@ -15,7 +16,7 @@ Updated Sword by Maiser6, Russell Clark.
 Updated Unarmed animation by Maiser6, Russell Clark.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |

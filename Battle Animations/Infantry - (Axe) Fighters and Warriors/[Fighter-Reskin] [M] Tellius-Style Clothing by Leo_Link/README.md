@@ -1,4 +1,5 @@
 # [\[Fighter-Reskin\] \[M\] Tellius-Style Clothing by Leo_Link](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Reskin] [M] Tellius-Style Clothing by Leo_Link standing" />
 
@@ -11,7 +12,7 @@ Color error fixes by Pushwall.
 Note that while this axe animation is similar to Leo_Link's bow-only Tellius-Style Fighter, they are not actually a pair. Perhaps an update to make them visually similar is in order?
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Base] [M] T2 Vanilla +Magic by Skitty standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Magic and Staff by Skitty.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Cleric-Reskin\] \[F\] Egyptian](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Egyptian standing" />
 
@@ -7,7 +8,7 @@
 Made by Tarantino500, FahadRashid327.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Mercenary-Reskin\] \[M\] Armored +Axe by Alusq](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [M] Armored +Axe by Alusq standing" />
 
@@ -7,7 +8,7 @@
 Animation by Alusq, Maiser6.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

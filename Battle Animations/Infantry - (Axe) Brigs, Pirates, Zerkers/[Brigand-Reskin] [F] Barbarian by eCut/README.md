@@ -1,4 +1,5 @@
 # [\[Brigand-Reskin\] \[F\] Barbarian by eCut](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Brigand-Reskin] [F] Barbarian by eCut standing" />
 
@@ -9,7 +10,7 @@ Made by eCut.
 Scripted by Skitty.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

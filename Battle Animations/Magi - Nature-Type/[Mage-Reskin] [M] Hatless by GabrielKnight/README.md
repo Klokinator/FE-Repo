@@ -1,4 +1,5 @@
 # [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Reskin] [M] Hatless by GabrielKnight standing" />
 
@@ -7,7 +8,7 @@
 Made by {GabrielKnight}
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

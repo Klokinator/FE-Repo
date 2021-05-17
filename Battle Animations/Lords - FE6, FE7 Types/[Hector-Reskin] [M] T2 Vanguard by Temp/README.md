@@ -1,4 +1,5 @@
 # [\[Hector-Reskin\] \[M\] T2 Vanguard by Temp](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T2 Vanguard by Temp standing" />
 
@@ -7,7 +8,7 @@
 Made by Flasuban, Temp.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

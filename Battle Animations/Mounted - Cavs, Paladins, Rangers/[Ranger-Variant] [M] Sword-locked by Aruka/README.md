@@ -1,4 +1,5 @@
 # [\[Ranger-Variant\] \[M\] Sword-locked by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ranger-Variant] [M] Sword-locked by Aruka standing" />
 
@@ -7,7 +8,7 @@
 {Aruka, Kenpuhu}
 
 ## Weapons
-
+ 
 
 |Sword |
 |  :---: |

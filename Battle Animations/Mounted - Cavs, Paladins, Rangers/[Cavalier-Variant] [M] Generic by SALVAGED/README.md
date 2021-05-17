@@ -1,4 +1,5 @@
 # [\[Cavalier-Variant\] \[M\] Generic by SALVAGED](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [M] Generic by SALVAGED standing" />
 
@@ -7,7 +8,7 @@
 Made by Team SALVAGED.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

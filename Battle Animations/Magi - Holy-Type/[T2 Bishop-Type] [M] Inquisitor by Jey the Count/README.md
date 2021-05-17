@@ -1,4 +1,5 @@
 # [\[T2 Bishop-Type\] \[M\] Inquisitor by Jey the Count](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[T2 Bishop-Type] [M] Inquisitor by Jey the Count standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Magic |
 |  :---: | :---: | :---: |

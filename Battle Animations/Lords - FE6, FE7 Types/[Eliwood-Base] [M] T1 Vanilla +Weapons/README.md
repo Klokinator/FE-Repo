@@ -1,4 +1,5 @@
 # [\[Eliwood-Base\] \[M\] T1 Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] T1 Vanilla +Weapons standing" />
 
@@ -15,7 +16,7 @@ Bow by Jj09, PrincessKilvas, Spud.
 Durandal by Mercenary Lord.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |

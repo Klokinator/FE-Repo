@@ -1,4 +1,5 @@
 # [\[T3 FE7\] \[M\] Archsage Athos +Fixes](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T3 FE7] [M] Archsage Athos +Fixes standing" />
 
@@ -17,7 +18,7 @@ Fixed magic by Shin19.
 Fixed staff by Shin19.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Magic |Magic |Magic |Staff |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

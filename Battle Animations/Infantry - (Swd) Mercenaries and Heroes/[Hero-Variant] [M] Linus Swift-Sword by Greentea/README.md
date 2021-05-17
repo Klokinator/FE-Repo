@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[M\] Linus Swift-Sword by Greentea](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [M] Linus Swift-Sword by Greentea standing" />
 
@@ -7,7 +8,7 @@
 Made by Greentea, SHYUTERz, Dis.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

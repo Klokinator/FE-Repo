@@ -1,4 +1,5 @@
 # [\[Mage-Custom2\] \[M\] Mage Lord v2 by Eldritch](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Custom2] [M] Mage Lord v2 by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 Version 2 Mage Lord by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

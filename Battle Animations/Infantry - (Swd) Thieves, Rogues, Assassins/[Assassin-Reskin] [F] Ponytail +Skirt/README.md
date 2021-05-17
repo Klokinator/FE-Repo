@@ -1,4 +1,5 @@
 # [\[Assassin-Reskin\] \[F\] Ponytail +Skirt](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [F] Ponytail +Skirt standing" />
 
@@ -7,7 +8,7 @@
 Animation by FPZero, Moocavo, Riku.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

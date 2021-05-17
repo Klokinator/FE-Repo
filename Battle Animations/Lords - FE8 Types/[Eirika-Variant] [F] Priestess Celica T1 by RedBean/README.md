@@ -1,4 +1,5 @@
 # [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](./)
+ 
 
 <img src="./1.%20Sword%20(T1)/Sword_000.png" alt="[Eirika-Variant] [F] Priestess Celica T1 by RedBean standing" />
 
@@ -9,7 +10,7 @@ Made by Red Bean.
 Scripted by Jeorge_Reds.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: |

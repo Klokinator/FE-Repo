@@ -1,4 +1,5 @@
 # [\[Cavalier-Variant\] \[F\] Twintails by SALVAGED](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [F] Twintails by SALVAGED standing" />
 
@@ -22,7 +23,7 @@ Palettes by Team SALVAGED
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

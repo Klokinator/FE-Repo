@@ -1,4 +1,5 @@
 # [\[Zombie-Base\] \[U\] Revenant Vanilla Beta](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Zombie-Base] [U] Revenant Vanilla Beta standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Monster |Unarmed |
 |  :---: | :---: |

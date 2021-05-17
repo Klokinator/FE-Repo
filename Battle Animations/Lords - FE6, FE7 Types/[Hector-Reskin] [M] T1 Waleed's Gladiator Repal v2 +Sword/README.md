@@ -1,4 +1,5 @@
 # [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T1 Waleed's Gladiator Repal v2 +Sword standing" />
 
@@ -13,7 +14,7 @@ Axe anim error fixes by Lord_Tweed.
 Sword anim by Lord_Tweed, Zane Avernathy.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

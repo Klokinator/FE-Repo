@@ -1,4 +1,5 @@
 # [\[Skeleton-Base\] \[U\] Bonewalker Vanilla Beta](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Skeleton-Base] [U] Bonewalker Vanilla Beta standing" />
 
@@ -7,7 +8,7 @@
 Made by IS.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

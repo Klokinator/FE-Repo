@@ -1,4 +1,5 @@
 # [\[Shaman-Base\] \[M\] Vanilla +Staff](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Shaman-Base] [M] Vanilla +Staff standing" />
 
@@ -11,7 +12,7 @@ Staff by Temp.
 Fixed Magic by Shin19.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

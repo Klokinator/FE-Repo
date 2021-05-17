@@ -1,4 +1,5 @@
 # [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Non-FE] [M] Jojo BA - Giorno by SurfingKyogre standing" />
 
@@ -7,7 +8,7 @@
 Made by SurfingKyogre.
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

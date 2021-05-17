@@ -1,4 +1,5 @@
 # [\[Monk-Base\] \[M\] Repal +Staff by Teraspark](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monk-Base] [M] Repal +Staff by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

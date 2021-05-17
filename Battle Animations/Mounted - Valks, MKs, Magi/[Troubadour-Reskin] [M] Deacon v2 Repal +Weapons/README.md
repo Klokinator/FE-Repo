@@ -1,4 +1,5 @@
 # [\[Troubadour-Reskin\] \[M\] Deacon v2 Repal +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Reskin] [M] Deacon v2 Repal +Weapons standing" />
 
@@ -11,7 +12,7 @@ Pikmin1211, GabrielKnight, Maiser6, Lisandra_Brave, TBA
 6. Magic {Lisandra_Brave}
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

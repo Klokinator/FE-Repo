@@ -1,4 +1,5 @@
 # [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](./)
+ 
 
 <img src="./1.%20Sword%20(Possibly%20borked)/Sword_000.png" alt="[Griffon] [U] Griffon v1 Repal by Maiser6 standing" />
 
@@ -9,7 +10,7 @@ Griffon by Blue Druid.
 Repalette by Maiser6.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

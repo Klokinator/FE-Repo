@@ -1,4 +1,5 @@
 # [\[Ephraim-Base\] \[M\] T1 Vanilla +Dual-Sided by Andy](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Base] [M] T1 Vanilla +Dual-Sided by Andy standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Dual Lance by Andy.
 
 ## Weapons
-
+ 
 
 |Lance |Lance |Unarmed |
 |  :---: | :---: | :---: |

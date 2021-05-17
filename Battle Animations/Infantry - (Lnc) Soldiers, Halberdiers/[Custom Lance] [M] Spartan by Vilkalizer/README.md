@@ -1,4 +1,5 @@
 # [\[Custom Lance\] \[M\] Spartan by Vilkalizer](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Custom Lance] [M] Spartan by Vilkalizer standing" />
 
@@ -20,7 +21,7 @@ Class Card by DerTheVaporeon
 
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

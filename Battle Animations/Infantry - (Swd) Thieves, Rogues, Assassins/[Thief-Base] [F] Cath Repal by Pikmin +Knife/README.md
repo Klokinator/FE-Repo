@@ -1,4 +1,5 @@
 # [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Knife](./)
+ 
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Thief-Base] [F] Cath Repal by Pikmin +Knife standing" />
 
@@ -7,7 +8,7 @@
 Pikmin1211, Maiser6, Skitty, GabrielKnight
 
 ## Weapons
-
+ 
 
 |Knife |Sword |Unarmed |
 |  :---: | :---: | :---: |

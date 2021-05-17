@@ -1,4 +1,5 @@
 # [\[Sniper-Reskin\] \[M\] Quiver by Nuramon](./)
+ 
 
 <img src="./5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper-Reskin] [M] Quiver by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Made by Nuramon, Swain, Temp.
 
 ## Weapons
-
+ 
 
 |Bow |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |

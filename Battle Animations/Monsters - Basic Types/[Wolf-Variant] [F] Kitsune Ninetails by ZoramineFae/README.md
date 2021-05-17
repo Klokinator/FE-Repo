@@ -1,4 +1,5 @@
 # [\[Wolf-Variant\] \[F\] Kitsune Ninetails by ZoramineFae](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Wolf-Variant] [F] Kitsune Ninetails by ZoramineFae standing" />
 
@@ -9,7 +10,7 @@ Made by ZoramineFae.
 Female variant by Clendo.
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

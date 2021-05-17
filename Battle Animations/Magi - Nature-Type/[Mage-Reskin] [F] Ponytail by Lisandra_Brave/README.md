@@ -1,4 +1,5 @@
 # [\[Mage-Reskin\] \[F\] Ponytail by Lisandra_Brave](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Reskin] [F] Ponytail by Lisandra_Brave standing" />
 
@@ -9,7 +10,7 @@ Made by Lisandra_Brave.
 Fixed version by Shin19.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Custom Oracle\] \[M\] Oracle by GabrielKnight](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Custom Oracle] [M] Oracle by GabrielKnight standing" />
 
@@ -9,7 +10,7 @@ Made by GabrielKnight.
 Male variant by Flasuban, Jj09.
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

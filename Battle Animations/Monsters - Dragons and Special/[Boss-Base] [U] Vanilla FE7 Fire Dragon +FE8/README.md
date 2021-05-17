@@ -1,4 +1,5 @@
 # [\[Boss-Base\] \[U\] Vanilla FE7 Fire Dragon +FE8](./)
+ 
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[Boss-Base] [U] Vanilla FE7 Fire Dragon +FE8 standing" />
 
@@ -15,7 +16,7 @@ IS, Marlon0024, SHYUTERz
 8. Dragonstone {Marlon0024}
 
 ## Weapons
-
+ 
 
 |Dragonstone |Dragonstone |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: | :---: | :---: |

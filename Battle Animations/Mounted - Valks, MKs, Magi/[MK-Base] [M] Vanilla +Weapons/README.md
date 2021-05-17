@@ -1,4 +1,5 @@
 # [\[MK-Base\] \[M\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword%20(Rapidslash-crit)/Sword_000.png" alt="[MK-Base] [M] Vanilla +Weapons standing" />
 
@@ -17,7 +18,7 @@ Magic (+FE7 Compatible) by ???
 Magic (Sword) by Seal, Sacred War.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Magic |Magic |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

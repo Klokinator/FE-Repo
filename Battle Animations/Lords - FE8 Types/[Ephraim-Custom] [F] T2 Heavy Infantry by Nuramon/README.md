@@ -1,4 +1,5 @@
 # [\[Ephraim-Custom\] \[F\] T2 Heavy Infantry by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Custom] [F] T2 Heavy Infantry by Nuramon standing" />
 
@@ -13,7 +14,7 @@ Excalibur Recolored Sword, by Mysterious Dancer.
 Excalibur Recolored Sword, Flashy Crit, by Mysterious Dancer.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Axe |Handaxe |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

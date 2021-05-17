@@ -1,4 +1,5 @@
 # [\[Ephraim-Reskin\] \[M\] T1 Eliwood-Style by Markyjoe](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Reskin] [M] T1 Eliwood-Style by Markyjoe standing" />
 
@@ -7,7 +8,7 @@
 Made by Markyjoe, Jubby.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

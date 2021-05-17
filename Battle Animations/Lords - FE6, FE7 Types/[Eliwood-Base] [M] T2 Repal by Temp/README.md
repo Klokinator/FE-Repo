@@ -1,4 +1,5 @@
 # [\[Eliwood-Base\] \[M\] T2 Repal by Temp](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] T2 Repal by Temp standing" />
 
@@ -13,7 +14,7 @@ Durandal's Magic Fix by sniper_zero.
 Originally, this vanilla animation did not have a ranged magic attack, but now it does.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

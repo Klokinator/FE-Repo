@@ -1,4 +1,5 @@
 # [\[Lyn-Variant\] \[M\] T1 Blader Myrmidon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Variant] [M] T1 Blader Myrmidon standing" />
 
@@ -7,7 +8,7 @@
 Made by Leo_link, Tsushi, Iscaneus.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

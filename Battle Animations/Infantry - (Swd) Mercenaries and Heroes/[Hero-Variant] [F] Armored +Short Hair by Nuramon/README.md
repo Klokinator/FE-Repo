@@ -1,4 +1,5 @@
 # [\[Hero-Variant\] \[F\] Armored +Short Hair by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Variant] [F] Armored +Short Hair by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Made by {Flasuban, Nuramon}
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

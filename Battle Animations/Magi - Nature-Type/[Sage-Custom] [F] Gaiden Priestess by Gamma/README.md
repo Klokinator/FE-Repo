@@ -1,4 +1,5 @@
 # [\[Sage-Custom\] \[F\] Gaiden Priestess by Gamma](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Sage-Custom] [F] Gaiden Priestess by Gamma standing" />
 
@@ -7,7 +8,7 @@
 Animation by HyperGammaSpace, Jono.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |

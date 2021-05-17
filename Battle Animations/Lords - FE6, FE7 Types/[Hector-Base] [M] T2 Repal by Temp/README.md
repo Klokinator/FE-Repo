@@ -1,4 +1,5 @@
 # [\[Hector-Base\] \[M\] T2 Repal by Temp](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Base] [M] T2 Repal by Temp standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Repalette by Temp.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [M] SALVAGED +Weapons standing" />
 
@@ -11,7 +12,7 @@ Bow by Obsidian Daddy.
 Magic by Zoramine Fae.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

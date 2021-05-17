@@ -1,4 +1,5 @@
 # [\[T2 Bishop-Reskin\] \[M\] Lucius by Greentea](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[T2 Bishop-Reskin] [M] Lucius by Greentea standing" />
 
@@ -9,7 +10,7 @@ Animation by Greentea.
 Scripting by RobertFPY.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: |

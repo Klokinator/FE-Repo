@@ -1,4 +1,5 @@
 # [\[Myrmidon-Base\] \[M\] Vanilla FE6-8 Generic](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [M] Vanilla FE6-8 Generic standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

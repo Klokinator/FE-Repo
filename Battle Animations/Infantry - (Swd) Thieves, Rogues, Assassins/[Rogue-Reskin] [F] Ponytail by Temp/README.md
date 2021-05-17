@@ -1,4 +1,5 @@
 # [\[Rogue-Reskin\] \[F\] Ponytail by Temp](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Rogue-Reskin] [F] Ponytail by Temp standing" />
 
@@ -7,7 +8,7 @@
 Made by {Temp, Black Mage, Wan}
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Sniper-Reskin\] \[M\] Innes by Seal](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [M] Innes by Seal standing" />
 
@@ -7,7 +8,7 @@
 Made by Seal
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

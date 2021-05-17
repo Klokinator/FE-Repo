@@ -1,4 +1,5 @@
 # [\[Ephraim-Variant\] \[M\] T1 Tag-Team Lyon](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ephraim-Variant] [M] T1 Tag-Team Lyon standing" />
 
@@ -11,7 +12,7 @@ Needs an unarmed animation.
 Believe it or not, this animation does actually fit within the 16 color limit of GBA. It's more of a proof-of-concept for dual-classing than it is a genuine serious animation.
 
 ## Weapons
-
+ 
 
 |Lance |
 |  :---: |

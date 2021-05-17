@@ -1,4 +1,5 @@
 # [\[T3 Custom\] \[M\] Red Mage by Mycahel](./)
+ 
 
 <img src="./1.%20Sword%20(Removed%20Text)/Sword_000.png" alt="[T3 Custom] [M] Red Mage by Mycahel standing" />
 
@@ -9,7 +10,7 @@ Animation by Mycahel.
 Removed Text and Fixed Miss by Dededester.
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |

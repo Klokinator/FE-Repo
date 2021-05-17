@@ -1,4 +1,5 @@
 # [\[Ranger-Reskin\] \[F\] Rebecca by Teraspark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ranger-Reskin] [F] Rebecca by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 Made by Teraspark.
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

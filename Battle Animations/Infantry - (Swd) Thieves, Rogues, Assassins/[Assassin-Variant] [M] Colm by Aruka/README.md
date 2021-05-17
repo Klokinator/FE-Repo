@@ -1,4 +1,5 @@
 # [\[Assassin-Variant\] \[M\] Colm by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Variant] [M] Colm by Aruka standing" />
 
@@ -8,7 +9,7 @@ Animation by Aruka, Kenpuhu.
 
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Bow |
 |  :---: | :---: | :---: |

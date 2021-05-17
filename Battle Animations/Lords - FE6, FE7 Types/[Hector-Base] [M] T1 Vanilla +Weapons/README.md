@@ -1,4 +1,5 @@
 # [\[Hector-Base\] \[M\] T1 Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hector-Base] [M] T1 Vanilla +Weapons standing" />
 
@@ -11,7 +12,7 @@ Sword by Zane Avernathy.
 Axe (Punch Crit) by Vilkalizer.
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

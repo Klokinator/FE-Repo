@@ -1,4 +1,5 @@
 # [\[Monster-Custom\] \[F\] Succubus by SkidMarc25](./)
+ 
 
 <img src="./8.%20Monster/Monster_000.png" alt="[Monster-Custom] [F] Succubus by SkidMarc25 standing" />
 
@@ -7,7 +8,7 @@
 Made by SkidMarc25.
 
 ## Weapons
-
+ 
 
 |Monster |
 |  :---: |

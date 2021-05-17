@@ -1,4 +1,5 @@
 # [\[Custom Oracle\] \[F\] Oracle Repal +Staff](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Custom Oracle] [F] Oracle Repal +Staff standing" />
 
@@ -7,7 +8,7 @@
 GabrielKnight, Seal, Sacred War
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Hero-Base\] \[M\] Vanilla FE6 +Basic Shield](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Hero-Base] [M] Vanilla FE6 +Basic Shield standing" />
 
@@ -7,7 +8,7 @@
 Made by IS
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |

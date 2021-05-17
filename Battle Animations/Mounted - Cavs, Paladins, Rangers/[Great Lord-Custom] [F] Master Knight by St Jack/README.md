@@ -1,4 +1,5 @@
 # [\[Great Lord-Custom\] \[F\] Master Knight by St Jack](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Great Lord-Custom] [F] Master Knight by St Jack standing" />
 
@@ -7,7 +8,7 @@
 {St jack}
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

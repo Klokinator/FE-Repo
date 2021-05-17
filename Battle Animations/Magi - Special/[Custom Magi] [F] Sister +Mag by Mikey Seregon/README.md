@@ -1,4 +1,5 @@
 # [\[Custom Magi\] \[F\] Sister +Mag by Mikey Seregon](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Sister +Mag by Mikey Seregon standing" />
 
@@ -9,7 +10,7 @@ Staff by Mikey Seregon.
 Magic by Aviv.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

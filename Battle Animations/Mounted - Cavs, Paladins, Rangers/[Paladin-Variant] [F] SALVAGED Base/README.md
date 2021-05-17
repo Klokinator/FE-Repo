@@ -1,4 +1,5 @@
 # [\[Paladin-Variant\] \[F\] SALVAGED Base](./)
+ 
 
 <img src="./1.%20Sword%20(RJ_Exists)/Sword_000.png" alt="[Paladin-Variant] [F] SALVAGED Base standing" />
 
@@ -7,7 +8,7 @@
 Team SALVAGED, HGS, Levin64, RJ_Exists, Obsidian_Daddy
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

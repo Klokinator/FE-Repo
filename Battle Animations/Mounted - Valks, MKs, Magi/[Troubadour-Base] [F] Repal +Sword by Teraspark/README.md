@@ -1,4 +1,5 @@
 # [\[Troubadour-Base\] \[F\] Repal +Sword by Teraspark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Base] [F] Repal +Sword by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 {Teraspark}
 
 ## Weapons
-
+ 
 
 |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: |

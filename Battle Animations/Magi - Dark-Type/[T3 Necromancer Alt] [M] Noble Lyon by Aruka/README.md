@@ -1,4 +1,5 @@
 # [\[T3 Necromancer Alt\] \[M\] Noble Lyon by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[T3 Necromancer Alt] [M] Noble Lyon by Aruka standing" />
 
@@ -9,7 +10,7 @@ Sword by Aruka, Kenpuhu.
 Staff by N426.
 
 ## Weapons
-
+ 
 
 |Sword |Staff |
 |  :---: | :---: |

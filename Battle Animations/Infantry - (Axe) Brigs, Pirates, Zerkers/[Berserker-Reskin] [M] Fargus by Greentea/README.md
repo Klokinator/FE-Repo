@@ -1,4 +1,5 @@
 # [\[Berserker-Reskin\] \[M\] Fargus by Greentea](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Reskin] [M] Fargus by Greentea standing" />
 
@@ -9,7 +10,7 @@ Made by Greentea.
 Scripted by RobertFPY.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

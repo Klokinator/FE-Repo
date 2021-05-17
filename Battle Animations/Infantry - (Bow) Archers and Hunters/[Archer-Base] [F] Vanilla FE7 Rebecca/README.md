@@ -1,4 +1,5 @@
 # [\[Archer-Base\] \[F\] Vanilla FE7 Rebecca](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Archer-Base] [F] Vanilla FE7 Rebecca standing" />
 
@@ -7,7 +8,7 @@
 Vanilla animation by IS.
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

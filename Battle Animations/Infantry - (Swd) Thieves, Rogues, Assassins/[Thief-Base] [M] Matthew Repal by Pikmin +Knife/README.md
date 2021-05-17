@@ -1,4 +1,5 @@
 # [\[Thief-Base\] \[M\] Matthew Repal by Pikmin +Knife](./)
+ 
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Thief-Base] [M] Matthew Repal by Pikmin +Knife standing" />
 
@@ -9,7 +10,7 @@ Knife animation by Skitty, GabrielKnight.
 Repalette by Pikmin1211, Maiser6.
 
 ## Weapons
-
+ 
 
 |Knife |Sword |Unarmed |
 |  :---: | :---: | :---: |

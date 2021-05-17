@@ -1,4 +1,5 @@
 # [\[Lyn-Reskin\] \[F\] Kawaii Blader by Yangfly](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] Kawaii Blader by Yangfly standing" />
 
@@ -7,7 +8,7 @@
 Made by Yangfly Master.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Marlon-Tact\] \[F\] Tactician Mark v1 by Marlon0024](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Marlon-Tact] [F] Tactician Mark v1 by Marlon0024 standing" />
 
@@ -7,7 +8,7 @@
 Marlon0024, Asael, MysteriousDancer
 
 ## Weapons
-
+ 
 
 |Sword |Magic |Staff |
 |  :---: | :---: | :---: |

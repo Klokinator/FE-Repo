@@ -1,4 +1,5 @@
 # [\[Mage-Custom1\] \[M\] Light Mage by L95](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Custom1] [M] Light Mage by L95 standing" />
 
@@ -9,7 +10,7 @@ Made by Leo_Link and L95.
 Male variant by Flasuban.
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

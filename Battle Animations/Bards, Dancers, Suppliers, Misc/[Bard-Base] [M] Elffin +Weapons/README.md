@@ -1,4 +1,5 @@
 # [\[Bard-Base\] \[M\] Elffin +Weapons](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Bard-Base] [M] Elffin +Weapons standing" />
 
@@ -13,7 +14,7 @@ Refresh (FE6)(Bird Sfx) by Orihara_Saki.
 Refresh (FE7-8) by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Magic |Refresh |Refresh |Refresh |
 |  :---: | :---: | :---: | :---: |

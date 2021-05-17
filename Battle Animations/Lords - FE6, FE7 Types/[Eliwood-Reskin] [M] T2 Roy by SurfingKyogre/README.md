@@ -1,4 +1,5 @@
 # [\[Eliwood-Reskin\] \[M\] T2 Roy by SurfingKyogre](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T2 Roy by SurfingKyogre standing" />
 
@@ -7,7 +8,7 @@
 Made by SurfingKyogre.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

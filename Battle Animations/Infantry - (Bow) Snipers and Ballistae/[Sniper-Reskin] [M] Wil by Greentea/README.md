@@ -1,4 +1,5 @@
 # [\[Sniper-Reskin\] \[M\] Wil by Greentea](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [M] Wil by Greentea standing" />
 
@@ -9,7 +10,7 @@ Made by Greentea.
 Scripted by...??
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

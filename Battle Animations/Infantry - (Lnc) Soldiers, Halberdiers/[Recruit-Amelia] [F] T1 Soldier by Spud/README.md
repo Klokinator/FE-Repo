@@ -1,4 +1,5 @@
 # [\[Recruit-Amelia\] \[F\] T1 Soldier by Spud](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Recruit-Amelia] [F] T1 Soldier by Spud standing" />
 
@@ -9,7 +10,7 @@ Ephraim base by IS.
 Animation by Spud.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

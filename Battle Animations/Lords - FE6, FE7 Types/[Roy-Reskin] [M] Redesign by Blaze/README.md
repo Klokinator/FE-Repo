@@ -1,4 +1,5 @@
 # [\[Roy-Reskin\] \[M\] Redesign by Blaze](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Redesign by Blaze standing" />
 
@@ -9,7 +10,7 @@ Made by Blaze for Circleseverywhere's Ragefest submission.
 https://www.youtube.com/watch?v=Z_eTAGOmzqE
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

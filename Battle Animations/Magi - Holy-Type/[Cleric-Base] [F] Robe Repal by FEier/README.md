@@ -1,4 +1,5 @@
 # [\[Cleric-Base\] \[F\] Robe Repal by FEier](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Base] [F] Robe Repal by FEier standing" />
 
@@ -7,7 +8,7 @@
 Made by FEier.
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

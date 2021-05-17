@@ -1,4 +1,5 @@
 # [\[Monster-Custom\] \[U\] Ghost - Breath of Fire](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monster-Custom] [U] Ghost - Breath of Fire standing" />
 
@@ -7,7 +8,7 @@
 Made by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

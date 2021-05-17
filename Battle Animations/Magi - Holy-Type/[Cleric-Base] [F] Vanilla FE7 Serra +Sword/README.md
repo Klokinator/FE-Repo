@@ -1,4 +1,5 @@
 # [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](./)
+ 
 
 <img src="./1.%20Sword%20(Heartseeker)/Sword_000.png" alt="[Cleric-Base] [F] Vanilla FE7 Serra +Sword standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Sword animations both added by Maiser6 and Raiden.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

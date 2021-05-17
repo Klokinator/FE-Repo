@@ -1,4 +1,5 @@
 # [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Jacket v1 by Jubby standing" />
 
@@ -7,7 +8,7 @@
 Animation by Jubby, fuzz94.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

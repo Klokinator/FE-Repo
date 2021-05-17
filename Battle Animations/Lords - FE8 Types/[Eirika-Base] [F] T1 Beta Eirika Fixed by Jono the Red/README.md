@@ -1,4 +1,5 @@
 # [\[Eirika-Base\] \[F\] T1 Beta Eirika Fixed by Jono the Red](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] T1 Beta Eirika Fixed by Jono the Red standing" />
 
@@ -9,7 +10,7 @@ Original animation by IS.
 Fixed versions by Jono the Red.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |

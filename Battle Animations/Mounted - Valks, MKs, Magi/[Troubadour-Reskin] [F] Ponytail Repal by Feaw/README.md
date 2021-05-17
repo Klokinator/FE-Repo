@@ -1,4 +1,5 @@
 # [\[Troubadour-Reskin\] \[F\] Ponytail Repal by Feaw](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Troubadour-Reskin] [F] Ponytail Repal by Feaw standing" />
 
@@ -7,7 +8,7 @@
 {Feaw}
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

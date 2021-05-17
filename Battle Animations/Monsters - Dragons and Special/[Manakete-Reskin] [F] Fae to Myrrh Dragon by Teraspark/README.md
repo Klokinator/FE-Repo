@@ -1,4 +1,5 @@
 # [\[Manakete-Reskin\] \[F\] Fae to Myrrh Dragon by Teraspark](./)
+ 
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Reskin] [F] Fae to Myrrh Dragon by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 Beansy, Teraspark
 
 ## Weapons
-
+ 
 
 |Dragonstone |Unarmed |
 |  :---: | :---: |

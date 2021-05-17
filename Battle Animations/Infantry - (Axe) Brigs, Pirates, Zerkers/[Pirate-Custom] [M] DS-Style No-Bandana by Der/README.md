@@ -1,4 +1,5 @@
 # [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Pirate-Custom] [M] DS-Style No-Bandana by Der standing" />
 
@@ -7,7 +8,7 @@
 Made by DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |Palettes |
 |  :---: | :---: | :---: | :---: |

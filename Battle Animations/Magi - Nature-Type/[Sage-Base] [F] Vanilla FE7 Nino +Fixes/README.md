@@ -1,4 +1,5 @@
 # [\[Sage-Base\] \[F\] Vanilla FE7 Nino +Fixes](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Base] [F] Vanilla FE7 Nino +Fixes standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Fixed magic by Shin19.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |Staff |
 |  :---: | :---: | :---: |

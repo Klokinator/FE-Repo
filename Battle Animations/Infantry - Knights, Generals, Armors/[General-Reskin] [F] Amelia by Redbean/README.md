@@ -1,4 +1,5 @@
 # [\[General-Reskin\] \[F\] Amelia by Redbean](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Reskin] [F] Amelia by Redbean standing" />
 
@@ -7,7 +8,7 @@
 {Redbean, Murata Masashi}
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Myrmidon-Reskin\] \[M\] Black Pants](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Reskin] [M] Black Pants standing" />
 
@@ -9,7 +10,7 @@ Made by Halberdier.
 Scripted by Leo_Link.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

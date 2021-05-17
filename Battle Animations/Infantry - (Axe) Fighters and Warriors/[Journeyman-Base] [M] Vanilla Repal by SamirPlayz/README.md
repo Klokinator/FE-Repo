@@ -1,4 +1,5 @@
 # [\[Journeyman-Base\] \[M\] Vanilla Repal by SamirPlayz](./)
+ 
 
 <img src="./3.%20Axe%20(+Magic)/Axe_000.png" alt="[Journeyman-Base] [M] Vanilla Repal by SamirPlayz standing" />
 
@@ -7,7 +8,7 @@
 SamirPlayz
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

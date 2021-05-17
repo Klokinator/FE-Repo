@@ -1,4 +1,5 @@
 # [\[WK Base\] \[U\] Repal +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[WK Base] [U] Repal +Weapons standing" />
 
@@ -15,7 +16,7 @@ Bow by ltranc.
 Note that this repalette basically replaces the vanilla animation. With all the new weapon types and the superior repaletted colors, there's no real reason to use the vanilla version.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

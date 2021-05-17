@@ -1,4 +1,5 @@
 # [\[Roy-Reskin\] \[F\] FE7if Alice](./)
+ 
 
 <img src="./1.%20Sword%20(Airgetlam%20-%20Fixed%20-%20Sans%20Luceid)/Sword_000.png" alt="[Roy-Reskin] [F] FE7if Alice standing" />
 
@@ -9,7 +10,7 @@ Animation made by the FE7if devs.
 Fixed animations by (???)
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

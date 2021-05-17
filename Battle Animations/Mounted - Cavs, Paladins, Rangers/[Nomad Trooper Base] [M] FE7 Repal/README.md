@@ -1,4 +1,5 @@
 # [\[Nomad Trooper Base\] \[M\] FE7 Repal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [M] FE7 Repal standing" />
 
@@ -7,7 +8,7 @@
 {Pikmin1211, Maiser6}
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Cavalier-Variant\] \[M\] Generic by SALVAGED v2](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Cavalier-Variant] [M] Generic by SALVAGED v2 standing" />
 
@@ -9,7 +10,7 @@ Cavalier custom by SALVAGED.
 This is an upgraded version of the original SALVAGED cavalier. There is currently no female equivalent for it.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

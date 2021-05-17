@@ -1,4 +1,5 @@
 # [\[HunterM\] \[F\] Hunter by MeatOfJustice](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[HunterM] [F] Hunter by MeatOfJustice standing" />
 
@@ -7,7 +8,7 @@
 Leo_link, Spud, MeatOfJustice
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

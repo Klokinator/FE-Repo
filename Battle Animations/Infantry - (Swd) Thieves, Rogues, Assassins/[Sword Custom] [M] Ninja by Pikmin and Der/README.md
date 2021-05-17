@@ -1,4 +1,5 @@
 # [\[Sword Custom\] \[M\] Ninja by Pikmin and Der](./)
+ 
 
 <img src="./1.%20Knife/Knife_000.png" alt="[Sword Custom] [M] Ninja by Pikmin and Der standing" />
 
@@ -19,7 +20,7 @@ Map Sprites by DerTheVaporeon
 Class Card by DerTheVaporeon
 
 ## Weapons
-
+ 
 
 |Knife |Sword |Unarmed |
 |  :---: | :---: | :---: |

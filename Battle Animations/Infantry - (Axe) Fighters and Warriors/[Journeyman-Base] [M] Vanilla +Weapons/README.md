@@ -1,4 +1,5 @@
 # [\[Journeyman-Base\] \[M\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword%20%7BWaleed%7D/Sword_000.png" alt="[Journeyman-Base] [M] Vanilla +Weapons standing" />
 
@@ -7,7 +8,7 @@
 IS, Waleed, blood
 
 ## Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Handaxe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |

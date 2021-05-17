@@ -1,4 +1,5 @@
 # [\[Sage-Custom\] \[F\] Limstella v2 by Greentea](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Sage-Custom] [F] Limstella v2 by Greentea standing" />
 
@@ -9,7 +10,7 @@ Animation by Greentea.
 Scripting by Nuramon.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

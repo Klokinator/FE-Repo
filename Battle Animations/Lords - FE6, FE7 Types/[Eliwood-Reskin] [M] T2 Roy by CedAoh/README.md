@@ -1,4 +1,5 @@
 # [\[Eliwood-Reskin\] \[M\] T2 Roy by CedAoh](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T2 Roy by CedAoh standing" />
 
@@ -7,7 +8,7 @@
 {CedAodh, Jeorge_Reds, Brunhilda, SurfingKyogre, Marlon0024}
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

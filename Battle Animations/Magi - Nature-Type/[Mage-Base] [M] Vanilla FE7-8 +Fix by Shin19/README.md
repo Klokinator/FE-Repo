@@ -1,4 +1,5 @@
 # [\[Mage-Base\] \[M\] Vanilla FE7-8 +Fix by Shin19](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Mage-Base] [M] Vanilla FE7-8 +Fix by Shin19 standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Fixed magic by Shin19.
 
 ## Weapons
-
+ 
 
 |Magic |Magic |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Custom Lance\] \[M\] Halb-Lancer v2 by Jj09](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Custom Lance] [M] Halb-Lancer v2 by Jj09 standing" />
 
@@ -9,7 +10,7 @@ Base Halberdier by TBA.
 Lancer variant by Jj09.
 
 ## Weapons
-
+ 
 
 |Lance |Unarmed |
 |  :---: | :---: |

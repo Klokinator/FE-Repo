@@ -1,4 +1,5 @@
 # [\[Soldier-Base\] \[M\] Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Soldier-Base] [M] Vanilla +Weapons standing" />
 
@@ -11,7 +12,7 @@ Sword animation by Arthur Pendragon.
 Staff by Orihara_Saki.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

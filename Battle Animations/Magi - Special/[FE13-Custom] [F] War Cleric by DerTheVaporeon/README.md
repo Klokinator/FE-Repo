@@ -1,4 +1,5 @@
 # [\[FE13-Custom\] \[F\] War Cleric by DerTheVaporeon](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[FE13-Custom] [F] War Cleric by DerTheVaporeon standing" />
 
@@ -7,7 +8,7 @@
 Leo_link, Iscaneus, DerTheVaporeon
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: |

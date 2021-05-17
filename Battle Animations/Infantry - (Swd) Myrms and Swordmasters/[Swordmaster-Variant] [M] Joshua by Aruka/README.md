@@ -1,4 +1,5 @@
 # [\[Swordmaster-Variant\] \[M\] Joshua by Aruka](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Joshua by Aruka standing" />
 
@@ -9,7 +10,7 @@ Animation by Aruka, Kenpuhu.
 Unarmed by Blood.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

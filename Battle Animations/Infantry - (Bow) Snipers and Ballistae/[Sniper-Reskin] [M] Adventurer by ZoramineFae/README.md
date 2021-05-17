@@ -1,4 +1,5 @@
 # [\[Sniper-Reskin\] \[M\] Adventurer by ZoramineFae](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Sniper-Reskin] [M] Adventurer by ZoramineFae standing" />
 
@@ -7,7 +8,7 @@
 Made by ZoramineFae.
 
 ## Weapons
-
+ 
 
 |Bow |Staff |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Hector-Variant\] \[F\] T2 Harbinger Helmetless](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Hector-Variant] [F] T2 Harbinger Helmetless standing" />
 
@@ -9,7 +10,7 @@ Original Harbinger by Nuramon.
 Female variant by Mycahel.
 
 ## Weapons
-
+ 
 
 |Lance |Magic |
 |  :---: | :---: |

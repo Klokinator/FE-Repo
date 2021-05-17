@@ -1,4 +1,5 @@
 # [\[Eirika-Base\] \[F\] T1 Repal FEH-Style](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] T1 Repal FEH-Style standing" />
 
@@ -9,7 +10,7 @@ Original animation by IS.
 Repalette by Kermy, Jeorge_Reds.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Ranger-Reskin\] \[F\] Twintails by GoofyfanG56](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ranger-Reskin] [F] Twintails by GoofyfanG56 standing" />
 
@@ -7,7 +8,7 @@
 
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

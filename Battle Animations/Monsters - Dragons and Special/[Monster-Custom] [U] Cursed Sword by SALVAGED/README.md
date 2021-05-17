@@ -1,4 +1,5 @@
 # [\[Monster-Custom\] \[U\] Cursed Sword by SALVAGED](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Monster-Custom] [U] Cursed Sword by SALVAGED standing" />
 
@@ -7,7 +8,7 @@
 Made by DerTheVaporeon, Team SALVAGED.
 
 ## Weapons
-
+ 
 
 |Sword |
 |  :---: |

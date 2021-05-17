@@ -1,4 +1,5 @@
 # [\[Paladin-Custom\] \[U\] Gold Knight by Nuramon](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Paladin-Custom] [U] Gold Knight by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Made by Nuramon.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

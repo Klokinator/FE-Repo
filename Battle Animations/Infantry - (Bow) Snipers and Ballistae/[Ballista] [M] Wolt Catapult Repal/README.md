@@ -1,4 +1,5 @@
 # [\[Ballista\] \[M\] Wolt Catapult Repal](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Ballista] [M] Wolt Catapult Repal standing" />
 
@@ -7,7 +8,7 @@
 Spud, Ren_Ookami, St. jack
 
 ## Weapons
-
+ 
 
 |Bow |
 |  :---: |

@@ -1,4 +1,5 @@
 # [\[Nomad Trooper Base\] \[F\] Vanilla FE6 +Fix](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Nomad Trooper Base] [F] Vanilla FE6 +Fix standing" />
 
@@ -7,7 +8,7 @@
 {IS, ltranc, Valak}
 
 ## Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |

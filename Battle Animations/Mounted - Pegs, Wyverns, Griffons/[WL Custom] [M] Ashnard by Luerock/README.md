@@ -1,4 +1,5 @@
 # [\[WL Custom\] \[M\] Ashnard by Luerock](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[WL Custom] [M] Ashnard by Luerock standing" />
 
@@ -9,7 +10,7 @@ Animation by cybaster, Luerock.
 GBA Port by SHYUTERz.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

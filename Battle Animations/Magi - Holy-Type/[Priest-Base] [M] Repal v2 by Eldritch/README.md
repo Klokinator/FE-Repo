@@ -1,4 +1,5 @@
 # [\[Priest-Base\] \[M\] Repal v2 by Eldritch](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Priest-Base] [M] Repal v2 by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 Flasuban, Eldritch Abomination
 
 ## Weapons
-
+ 
 
 |Staff |Unarmed |
 |  :---: | :---: |

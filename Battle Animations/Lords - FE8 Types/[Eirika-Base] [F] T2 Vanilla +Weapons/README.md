@@ -1,4 +1,5 @@
 # [\[Eirika-Base\] \[F\] T2 Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] T2 Vanilla +Weapons standing" />
 
@@ -13,7 +14,7 @@ Lance/Axe/Handaxe by St jack.
 Bow by Belle and St jack.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea Repal](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Variant] [M] Lloyd Alt by Greentea Repal standing" />
 
@@ -7,7 +8,7 @@
 Greentea, DerTheVaporeon, ltranc.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

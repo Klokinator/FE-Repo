@@ -1,4 +1,5 @@
 # [\[Troubadour-Base\] \[F\] Vanilla FE7 +Swords by TBA](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Troubadour-Base] [F] Vanilla FE7 +Swords by TBA standing" />
 
@@ -9,7 +10,7 @@ Vanilla animation by IS.
 Sword by TheBlindArcher.
 
 ## Weapons
-
+ 
 
 |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: |

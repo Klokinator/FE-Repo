@@ -1,4 +1,5 @@
 # [\[Monster-Custom\] \[U\] Mimic Chest by Seal](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Monster-Custom] [U] Mimic Chest by Seal standing" />
 
@@ -7,7 +8,7 @@
 Made by Seal, Sacred War.
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

@@ -1,4 +1,5 @@
 # [\[Swordmaster-Reskin\] \[M\] Guy by Eldritch](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Swordmaster-Reskin] [M] Guy by Eldritch standing" />
 
@@ -7,7 +8,7 @@
 Made by Eldritch Abomination.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

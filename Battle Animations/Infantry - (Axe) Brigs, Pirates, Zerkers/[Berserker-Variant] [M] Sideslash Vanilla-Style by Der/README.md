@@ -1,4 +1,5 @@
 # [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Vanilla-Style by Der standing" />
 
@@ -9,7 +10,7 @@ Side-slashing Dozlazerker variant originally made by Aruka and Kenpuhu.
 Derserker variant made by DerTheVaporeon.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

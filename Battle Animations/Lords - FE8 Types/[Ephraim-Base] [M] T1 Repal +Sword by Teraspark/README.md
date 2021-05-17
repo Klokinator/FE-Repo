@@ -1,4 +1,5 @@
 # [\[Ephraim-Base\] \[M\] T1 Repal +Sword by Teraspark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Ephraim-Base] [M] T1 Repal +Sword by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 Made by Teraspark.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: |

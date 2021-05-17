@@ -1,4 +1,5 @@
 # [\[Eirika-Base\] \[F\] T2 Repal by Teraspark](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Eirika-Base] [F] T2 Repal by Teraspark standing" />
 
@@ -7,7 +8,7 @@
 Repalette by Teraspark.
 
 ## Weapons
-
+ 
 
 |Sword |Staff |Unarmed |
 |  :---: | :---: | :---: |

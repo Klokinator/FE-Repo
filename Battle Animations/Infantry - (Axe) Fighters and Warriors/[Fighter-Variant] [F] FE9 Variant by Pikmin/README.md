@@ -1,4 +1,5 @@
 # [\[Fighter-Variant\] \[F\] FE9 Variant by Pikmin](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Variant] [F] FE9 Variant by Pikmin standing" />
 
@@ -22,7 +23,7 @@ Class Card by flasuban and Pikmin1211
 
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[General-Reskin\] \[U\] Emperor by St Jack](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[General-Reskin] [U] Emperor by St Jack standing" />
 
@@ -7,7 +8,7 @@
 Made by {TBA, St jack}
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Bow |Magic |Staff |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |

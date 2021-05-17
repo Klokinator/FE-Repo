@@ -1,4 +1,5 @@
 # [\[Berserker-Base\] \[M\] Vanilla Repal by Blue Druid](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Base] [M] Vanilla Repal by Blue Druid standing" />
 
@@ -9,7 +10,7 @@ Original Berserker by IS.
 Repalette by Blue Druid.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Misc-Supplier\] \[F\] Supplier by JonoTheRed](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Misc-Supplier] [F] Supplier by JonoTheRed standing" />
 
@@ -7,7 +8,7 @@
 Animation by JonoTheRed.
 
 ## Weapons
-
+ 
 
 |Lance |Staff |
 |  :---: | :---: |

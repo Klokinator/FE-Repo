@@ -1,4 +1,5 @@
 # [\[Centaur-Reskin\] \[M\] High Maelduin by Seal](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Centaur-Reskin] [M] High Maelduin by Seal standing" />
 
@@ -9,7 +10,7 @@ Vanilla Maelduin by IS.
 Reskin by Seal.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

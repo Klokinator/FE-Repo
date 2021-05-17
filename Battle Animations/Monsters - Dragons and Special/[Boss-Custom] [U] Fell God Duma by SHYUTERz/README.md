@@ -1,4 +1,5 @@
 # [\[Boss-Custom\] \[U\] Fell God Duma by SHYUTERz](./)
+ 
 
 <img src="./8.%20Monster%20%7BSHYUTERz%7D/Monster_000.png" alt="[Boss-Custom] [U] Fell God Duma by SHYUTERz standing" />
 
@@ -7,7 +8,7 @@
 SHYUTERz, HIRITO, SHIRMER
 
 ## Weapons
-
+ 
 
 |Monster |Background |README |
 |  :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Berserker-Custom\] \[M\] Bushido Swordzerker](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Berserker-Custom] [M] Bushido Swordzerker standing" />
 
@@ -7,7 +8,7 @@
 Intestine, IS, Maiser6, TBA, The_Big_Dededester
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

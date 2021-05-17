@@ -1,4 +1,5 @@
 # [\[Devisian-Custom\] \[M\] Occultist v2 by Devisian_Nights](./)
+ 
 
 <img src="./6.%20Magic/Magic_000.png" alt="[Devisian-Custom] [M] Occultist v2 by Devisian_Nights standing" />
 
@@ -7,7 +8,7 @@
 Devisian_Nights, Pikmin1211, Wan, Tsushima
 
 ## Weapons
-
+ 
 
 |Magic |
 |  :---: |

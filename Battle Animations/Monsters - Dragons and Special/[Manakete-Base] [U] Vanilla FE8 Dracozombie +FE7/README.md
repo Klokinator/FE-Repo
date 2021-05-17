@@ -1,4 +1,5 @@
 # [\[Manakete-Base\] \[U\] Vanilla FE8 Dracozombie +FE7](./)
+ 
 
 <img src="./8.%20Dragonstone/Dragonstone_000.png" alt="[Manakete-Base] [U] Vanilla FE8 Dracozombie +FE7 standing" />
 
@@ -11,7 +12,7 @@ IS, Marlon0024, Orihara_Saki, SHYUTERz
 8. Dragonstone (Improved +Transform) {SHYUTERz}
 
 ## Weapons
-
+ 
 
 |Dragonstone |Dragonstone |Dragonstone |
 |  :---: | :---: | :---: |

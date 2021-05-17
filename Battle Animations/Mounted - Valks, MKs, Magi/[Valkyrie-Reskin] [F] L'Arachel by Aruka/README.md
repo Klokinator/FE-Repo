@@ -1,4 +1,5 @@
 # [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka](./)
+ 
 
 <img src="./6.%20Magic%20(Fixed)/Magic_000.png" alt="[Valkyrie-Reskin] [F] L'Arachel by Aruka standing" />
 
@@ -9,7 +10,7 @@ Animation by Aruka, Kenpuhu.
 Fixed Magic by SD9k.
 
 ## Weapons
-
+ 
 
 |Magic |Staff |
 |  :---: | :---: |

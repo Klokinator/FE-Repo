@@ -1,4 +1,5 @@
 # [\[Lyn-Base\] \[F\] T2 Vanilla Repal by Sax-Marine](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] T2 Vanilla Repal by Sax-Marine standing" />
 
@@ -7,7 +8,7 @@
 Made by Sax-Marine.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

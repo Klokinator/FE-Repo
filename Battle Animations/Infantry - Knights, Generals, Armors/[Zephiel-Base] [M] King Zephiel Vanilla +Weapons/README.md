@@ -1,4 +1,5 @@
 # [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Zephiel-Base] [M] King Zephiel Vanilla +Weapons standing" />
 
@@ -11,7 +12,7 @@ All weapon variants sprited by Hairyblob from Deviantart.
 Importing/scripting of all new weapons by Maiser6.
 
 ## Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Mercenary-Reskin\] \[F\] Long-Haired Tunic by Serragirl](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Mercenary-Reskin] [F] Long-Haired Tunic by Serragirl standing" />
 
@@ -7,7 +8,7 @@
 Made by Serragirl, scripted by Maiser6.
 
 ## Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |

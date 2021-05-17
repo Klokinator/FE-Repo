@@ -1,12 +1,16 @@
 # [Lords - FE6, FE7 Types Battle Animations](./)
 
+<details>
+<summary>Click to expand!</summary>
+
 ## [\[Eliwood-Base\] \[M\] T1 Vanilla +Weapons](./%5BEliwood-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BEliwood-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] T1 Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
@@ -14,12 +18,13 @@
 
 
 ## [\[Eliwood-Base\] \[M\] T2 Repal by Temp](./%5BEliwood-Base%5D%20%5BM%5D%20T2%20Repal%20by%20Temp/)
+ 
 
 <img src="./%5BEliwood-Base%5D%20%5BM%5D%20T2%20Repal%20by%20Temp/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] T2 Repal by Temp standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -27,12 +32,13 @@
 
 
 ## [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](./%5BEliwood-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BEliwood-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Eliwood-Base] [M] T2 Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Sword |Sword |Lance |Lance |Bow |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -40,12 +46,13 @@
 
 
 ## [\[Eliwood-Reskin\] \[M\] T1 Long-Haired by Xenith](./%5BEliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith/)
+ 
 
 <img src="./%5BEliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith/1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T1 Long-Haired by Xenith standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -53,12 +60,13 @@
 
 
 ## [\[Eliwood-Reskin\] \[M\] T1 Prince Zephiel by Teraspark](./%5BEliwood-Reskin%5D%20%5BM%5D%20T1%20Prince%20Zephiel%20by%20Teraspark/)
+ 
 
 <img src="./%5BEliwood-Reskin%5D%20%5BM%5D%20T1%20Prince%20Zephiel%20by%20Teraspark/1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T1 Prince Zephiel by Teraspark standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -66,12 +74,13 @@
 
 
 ## [\[Eliwood-Reskin\] \[M\] T2 Brave by RedBean](./%5BEliwood-Reskin%5D%20%5BM%5D%20T2%20Brave%20by%20RedBean/)
+ 
 
 <img src="./%5BEliwood-Reskin%5D%20%5BM%5D%20T2%20Brave%20by%20RedBean/1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T2 Brave by RedBean standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -79,12 +88,13 @@
 
 
 ## [\[Eliwood-Reskin\] \[M\] T2 Roy by CedAoh](./%5BEliwood-Reskin%5D%20%5BM%5D%20T2%20Roy%20by%20CedAoh/)
+ 
 
 <img src="./%5BEliwood-Reskin%5D%20%5BM%5D%20T2%20Roy%20by%20CedAoh/1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T2 Roy by CedAoh standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -92,12 +102,13 @@
 
 
 ## [\[Eliwood-Reskin\] \[M\] T2 Roy by SurfingKyogre](./%5BEliwood-Reskin%5D%20%5BM%5D%20T2%20Roy%20by%20SurfingKyogre/)
+ 
 
 <img src="./%5BEliwood-Reskin%5D%20%5BM%5D%20T2%20Roy%20by%20SurfingKyogre/1.%20Sword/Sword_000.png" alt="[Eliwood-Reskin] [M] T2 Roy by SurfingKyogre standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Sword |Lance |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -105,12 +116,13 @@
 
 
 ## [\[Eliwood-Variant\] \[F\] T1 Lucina Slash by Caim Van Fang](./%5BEliwood-Variant%5D%20%5BF%5D%20T1%20Lucina%20Slash%20by%20Caim%20Van%20Fang/)
+ 
 
 <img src="./%5BEliwood-Variant%5D%20%5BF%5D%20T1%20Lucina%20Slash%20by%20Caim%20Van%20Fang/1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [F] T1 Lucina Slash by Caim Van Fang standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -118,12 +130,13 @@
 
 
 ## [\[Eliwood-Variant\] \[M\] T1 Marth Hard-Stab by PwnageKirby](./%5BEliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Hard-Stab%20by%20PwnageKirby/)
+ 
 
 <img src="./%5BEliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Hard-Stab%20by%20PwnageKirby/1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [M] T1 Marth Hard-Stab by PwnageKirby standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |
 |  :---: | :---: |
@@ -131,12 +144,13 @@
 
 
 ## [\[Eliwood-Variant\] \[M\] T1 Marth Slash by Caim Van Fang](./%5BEliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Slash%20by%20Caim%20Van%20Fang/)
+ 
 
 <img src="./%5BEliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Slash%20by%20Caim%20Van%20Fang/1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [M] T1 Marth Slash by Caim Van Fang standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -144,12 +158,13 @@
 
 
 ## [\[Eliwood-Variant\] \[M\] T1 Marth Thrust-Stab by Blaze](./%5BEliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Thrust-Stab%20by%20Blaze/)
+ 
 
 <img src="./%5BEliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Thrust-Stab%20by%20Blaze/1.%20Sword/Sword_000.png" alt="[Eliwood-Variant] [M] T1 Marth Thrust-Stab by Blaze standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -157,12 +172,13 @@
 
 
 ## [\[Hector-Base\] \[M\] T1 Repal by Temp](./%5BHector-Base%5D%20%5BM%5D%20T1%20Repal%20by%20Temp/)
+ 
 
 <img src="./%5BHector-Base%5D%20%5BM%5D%20T1%20Repal%20by%20Temp/3.%20Axe/Axe_000.png" alt="[Hector-Base] [M] T1 Repal by Temp standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -170,12 +186,13 @@
 
 
 ## [\[Hector-Base\] \[M\] T1 Vanilla +Weapons](./%5BHector-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BHector-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Hector-Base] [M] T1 Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -183,12 +200,13 @@
 
 
 ## [\[Hector-Base\] \[M\] T2 Repal by Temp](./%5BHector-Base%5D%20%5BM%5D%20T2%20Repal%20by%20Temp/)
+ 
 
 <img src="./%5BHector-Base%5D%20%5BM%5D%20T2%20Repal%20by%20Temp/1.%20Sword/Sword_000.png" alt="[Hector-Base] [M] T2 Repal by Temp standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -196,12 +214,13 @@
 
 
 ## [\[Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](./%5BHector-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Magic%20by%20Skitty/)
+ 
 
 <img src="./%5BHector-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Magic%20by%20Skitty/1.%20Sword/Sword_000.png" alt="[Hector-Base] [M] T2 Vanilla +Magic by Skitty standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Magic |Staff |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -209,12 +228,13 @@
 
 
 ## [\[Hector-Custom\] \[M\] T2 Brave Hector by Nuramon](./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/)
+ 
 
 <img src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hector-Custom] [M] T2 Brave Hector by Nuramon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
@@ -222,12 +242,13 @@
 
 
 ## [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/)
+ 
 
 <img src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/1.%20Sword/Sword_000.png" alt="[Hector-Custom] [M] T2 Brave Hector Repal by Sax-Marine standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -235,12 +256,13 @@
 
 
 ## [\[Hector-Reskin\] \[F\] T1 FE7if Milia](./%5BHector-Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [F] T1 FE7if Milia standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Axe |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -248,12 +270,13 @@
 
 
 ## [\[Hector-Reskin\] \[F\] T1 FE7if Milia Repal by Serif](./%5BHector-Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia%20Repal%20by%20Serif/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia%20Repal%20by%20Serif/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [F] T1 FE7if Milia Repal by Serif standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -261,12 +284,13 @@
 
 
 ## [\[Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](./%5BHector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [F] T1 Long-Haired +Sword by Eldritch standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -274,12 +298,13 @@
 
 
 ## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] T1 Waleed's Gladiator standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -287,12 +312,13 @@
 
 
 ## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal by Pushwall](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20by%20Pushwall/3.%20Axe/Axe_000.png" alt="[Hector-Reskin] [M] T1 Waleed's Gladiator Repal by Pushwall standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |
@@ -300,12 +326,13 @@
 
 
 ## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BM%5D%20T1%20Waleed's%20Gladiator%20Repal%20v2%20+Sword/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T1 Waleed's Gladiator Repal v2 +Sword standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -313,12 +340,13 @@
 
 
 ## [\[Hector-Reskin\] \[M\] T2 Vanguard by Temp](./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp/1.%20Sword/Sword_000.png" alt="[Hector-Reskin] [M] T2 Vanguard by Temp standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -326,12 +354,13 @@
 
 
 ## [\[Hector-Reskin\] \[M\] T2 Yggdra Milanor by Aruka](./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka/)
+ 
 
 <img src="./%5BHector-Reskin%5D%20%5BM%5D%20T2%20Yggdra%20Milanor%20by%20Aruka/3.%20Axe%20(Chain)/Axe_000.png" alt="[Hector-Reskin] [M] T2 Yggdra Milanor by Aruka standing" />
 
 
 ### Weapons
-
+ 
 
 |Axe |Handaxe |
 |  :---: | :---: |
@@ -339,12 +368,13 @@
 
 
 ## [\[Hector-Type\] \[M\] FF7 - Cloud by FlyingAce](./%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/)
+ 
 
 <img src="./%5BHector-Type%5D%20%5BM%5D%20FF7%20-%20Cloud%20by%20FlyingAce/1.%20Sword/Sword_000.png" alt="[Hector-Type] [M] FF7 - Cloud by FlyingAce standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
@@ -352,12 +382,13 @@
 
 
 ## [\[Hector-Variant\] \[F\] T2 Harbinger Helmetless](./%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/)
+ 
 
 <img src="./%5BHector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/2.%20Lance/Lance_000.png" alt="[Hector-Variant] [F] T2 Harbinger Helmetless standing" />
 
 
 ### Weapons
-
+ 
 
 |Lance |Magic |
 |  :---: | :---: |
@@ -365,12 +396,13 @@
 
 
 ## [\[Hector-Variant\] \[U\] T2 Harbinger by Nuramon](./%5BHector-Variant%5D%20%5BU%5D%20T2%20Harbinger%20by%20Nuramon/)
+ 
 
 <img src="./%5BHector-Variant%5D%20%5BU%5D%20T2%20Harbinger%20by%20Nuramon/1.%20Sword/Sword_000.png" alt="[Hector-Variant] [U] T2 Harbinger by Nuramon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
@@ -378,12 +410,13 @@
 
 
 ## [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee](./%5BLord%20Custom%5D%20%5BM%5D%20Greil%20Hero%20by%20Cipher%20Lee/)
+ 
 
 <img src="./%5BLord%20Custom%5D%20%5BM%5D%20Greil%20Hero%20by%20Cipher%20Lee/1.%20Sword%20(Alondite)/Sword_000.png" alt="[Lord Custom] [M] Greil Hero by Cipher Lee standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Axe |Axe |Handaxe |Handaxe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -391,12 +424,13 @@
 
 
 ## [\[Lord Custom\] \[M\] Ike Ranger by Khrene Kleaver](./%5BLord%20Custom%5D%20%5BM%5D%20Ike%20Ranger%20by%20Khrene%20Kleaver/)
+ 
 
 <img src="./%5BLord%20Custom%5D%20%5BM%5D%20Ike%20Ranger%20by%20Khrene%20Kleaver/1.%20Sword/Sword_000.png" alt="[Lord Custom] [M] Ike Ranger by Khrene Kleaver standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Legendary |Unarmed |
 |  :---: | :---: | :---: |
@@ -404,12 +438,13 @@
 
 
 ## [\[Lord Custom\] \[M\] Ike Vanguard by FlyingAce24](./%5BLord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/)
+ 
 
 <img src="./%5BLord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/1.%20Sword/Sword_000.png" alt="[Lord Custom] [M] Ike Vanguard by FlyingAce24 standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -417,12 +452,13 @@
 
 
 ## [\[Lyn-Base\] \[F\] T1 Vanilla +Axes by Vilkalizer](./%5BLyn-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Axes%20by%20Vilkalizer/)
+ 
 
 <img src="./%5BLyn-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Axes%20by%20Vilkalizer/1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] T1 Vanilla +Axes by Vilkalizer standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -430,12 +466,13 @@
 
 
 ## [\[Lyn-Base\] \[F\] T2 Vanilla +Weapons](./%5BLyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/)
+ 
 
 <img src="./%5BLyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20+Weapons/1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] T2 Vanilla +Weapons standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Sword |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -443,12 +480,13 @@
 
 
 ## [\[Lyn-Base\] \[F\] T2 Vanilla Repal by Sax-Marine](./%5BLyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20Repal%20by%20Sax-Marine/)
+ 
 
 <img src="./%5BLyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20Repal%20by%20Sax-Marine/1.%20Sword/Sword_000.png" alt="[Lyn-Base] [F] T2 Vanilla Repal by Sax-Marine standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -456,12 +494,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] Kawaii Blader by Yangfly](./%5BLyn-Reskin%5D%20%5BF%5D%20Kawaii%20Blader%20by%20Yangfly/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20Kawaii%20Blader%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] Kawaii Blader by Yangfly standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -469,12 +508,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] T1 Awakening-Style Myrmidon](./%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Awakening-Style%20Myrmidon/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Awakening-Style%20Myrmidon/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T1 Awakening-Style Myrmidon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -482,12 +522,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite](./%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Short%20Hair%20by%20Zoisite/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Short%20Hair%20by%20Zoisite/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T1 Short Hair by Zoisite standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -495,12 +536,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] T1 Tsukage by Yangfly](./%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Tsukage%20by%20Yangfly/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Tsukage%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T1 Tsukage by Yangfly standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -508,12 +550,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] T2 FE7if Elena](./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T2 FE7if Elena standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |
 |  :---: | :---: |
@@ -521,12 +564,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] T2 FE7if Karla](./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T2 FE7if Karla standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Bow |
 |  :---: | :---: | :---: |
@@ -534,12 +578,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] T2 Short Hair by Zoisite](./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20Short%20Hair%20by%20Zoisite/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20Short%20Hair%20by%20Zoisite/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T2 Short Hair by Zoisite standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
@@ -547,12 +592,13 @@
 
 
 ## [\[Lyn-Reskin\] \[F\] T2 Variant by Jey the Count](./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20Variant%20by%20Jey%20the%20Count/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BF%5D%20T2%20Variant%20by%20Jey%20the%20Count/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [F] T2 Variant by Jey the Count standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -560,12 +606,13 @@
 
 
 ## [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon](./%5BLyn-Reskin%5D%20%5BM%5D%20T1%20Awakening-Style%20Myrmidon/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BM%5D%20T1%20Awakening-Style%20Myrmidon/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [M] T1 Awakening-Style Myrmidon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -573,12 +620,13 @@
 
 
 ## [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon Alt](./%5BLyn-Reskin%5D%20%5BM%5D%20T1%20Awakening-Style%20Myrmidon%20Alt/)
+ 
 
 <img src="./%5BLyn-Reskin%5D%20%5BM%5D%20T1%20Awakening-Style%20Myrmidon%20Alt/1.%20Sword/Sword_000.png" alt="[Lyn-Reskin] [M] T1 Awakening-Style Myrmidon Alt standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Unarmed |
 |  :---: | :---: | :---: |
@@ -586,12 +634,13 @@
 
 
 ## [\[Lyn-Style\] \[F\] Brave Lyn Nomad by RedBean](./%5BLyn-Style%5D%20%5BF%5D%20Brave%20Lyn%20Nomad%20by%20RedBean/)
+ 
 
 <img src="./%5BLyn-Style%5D%20%5BF%5D%20Brave%20Lyn%20Nomad%20by%20RedBean/1.%20Sword/Sword_000.png" alt="[Lyn-Style] [F] Brave Lyn Nomad by RedBean standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Bow |Unarmed |
 |  :---: | :---: | :---: |
@@ -599,12 +648,13 @@
 
 
 ## [\[Lyn-Variant\] \[M\] Izarck by Yangfly](./%5BLyn-Variant%5D%20%5BM%5D%20Izarck%20by%20Yangfly/)
+ 
 
 <img src="./%5BLyn-Variant%5D%20%5BM%5D%20Izarck%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Lyn-Variant] [M] Izarck by Yangfly standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -612,12 +662,13 @@
 
 
 ## [\[Lyn-Variant\] \[M\] T1 Blader Myrmidon](./%5BLyn-Variant%5D%20%5BM%5D%20T1%20Blader%20Myrmidon/)
+ 
 
 <img src="./%5BLyn-Variant%5D%20%5BM%5D%20T1%20Blader%20Myrmidon/1.%20Sword/Sword_000.png" alt="[Lyn-Variant] [M] T1 Blader Myrmidon standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -625,12 +676,13 @@
 
 
 ## [\[Roy-Base\] \[M\] Vanilla +Magic by Pikmin](./%5BRoy-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20by%20Pikmin/)
+ 
 
 <img src="./%5BRoy-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20by%20Pikmin/1.%20Sword/Sword_000.png" alt="[Roy-Base] [M] Vanilla +Magic by Pikmin standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: |
@@ -638,12 +690,13 @@
 
 
 ## [\[Roy-Reskin\] \[F\] FE7if Alice](./%5BRoy-Reskin%5D%20%5BF%5D%20FE7if%20Alice/)
+ 
 
 <img src="./%5BRoy-Reskin%5D%20%5BF%5D%20FE7if%20Alice/1.%20Sword%20(Airgetlam%20-%20Fixed%20-%20Sans%20Luceid)/Sword_000.png" alt="[Roy-Reskin] [F] FE7if Alice standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Sword |Sword |Sword |Magic |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
@@ -651,12 +704,13 @@
 
 
 ## [\[Roy-Reskin\] \[M\] Echoes-Style by Jeorge_Reds](./%5BRoy-Reskin%5D%20%5BM%5D%20Echoes-Style%20by%20Jeorge_Reds/)
+ 
 
 <img src="./%5BRoy-Reskin%5D%20%5BM%5D%20Echoes-Style%20by%20Jeorge_Reds/1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Echoes-Style by Jeorge_Reds standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -664,12 +718,13 @@
 
 
 ## [\[Roy-Reskin\] \[M\] Redesign by Blaze](./%5BRoy-Reskin%5D%20%5BM%5D%20Redesign%20by%20Blaze/)
+ 
 
 <img src="./%5BRoy-Reskin%5D%20%5BM%5D%20Redesign%20by%20Blaze/1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Redesign by Blaze standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -677,12 +732,13 @@
 
 
 ## [\[Roy-Reskin\] \[M\] Redesign by GabrielKnight](./%5BRoy-Reskin%5D%20%5BM%5D%20Redesign%20by%20GabrielKnight/)
+ 
 
 <img src="./%5BRoy-Reskin%5D%20%5BM%5D%20Redesign%20by%20GabrielKnight/1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Redesign by GabrielKnight standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -690,12 +746,13 @@
 
 
 ## [\[Roy-Reskin\] \[M\] Squire by Yangfly](./%5BRoy-Reskin%5D%20%5BM%5D%20Squire%20by%20Yangfly/)
+ 
 
 <img src="./%5BRoy-Reskin%5D%20%5BM%5D%20Squire%20by%20Yangfly/1.%20Sword/Sword_000.png" alt="[Roy-Reskin] [M] Squire by Yangfly standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |Unarmed |
 |  :---: | :---: |
@@ -703,14 +760,16 @@
 
 
 ## [\[Sword-Custom\] \[M\] Fate - Nobunaga by ZoramineFae](./%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/)
+ 
 
 <img src="./%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword_000.png" alt="[Sword-Custom] [M] Fate - Nobunaga by ZoramineFae standing" />
 
 
 ### Weapons
-
+ 
 
 |Sword |
 |  :---: |
 | <img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword.gif" /> |
 
+</details>

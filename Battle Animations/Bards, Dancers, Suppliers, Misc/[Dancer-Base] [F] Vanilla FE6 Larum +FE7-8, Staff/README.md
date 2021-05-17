@@ -1,4 +1,5 @@
 # [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./)
+ 
 
 <img src="./7.%20Staff/Staff_000.png" alt="[Dancer-Base] [F] Vanilla FE6 Larum +FE7-8, Staff standing" />
 
@@ -13,7 +14,7 @@ Refresh (Fixed SFX) by Eldritch Abomination.
 Refresh (Heart FE8 Compatible) by SHYUTERz.
 
 ## Weapons
-
+ 
 
 |Staff |Refresh |Refresh |Refresh |
 |  :---: | :---: | :---: | :---: |

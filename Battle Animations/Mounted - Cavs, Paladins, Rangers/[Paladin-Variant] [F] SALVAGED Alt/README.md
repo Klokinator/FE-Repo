@@ -1,4 +1,5 @@
 # [\[Paladin-Variant\] \[F\] SALVAGED Alt](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[Paladin-Variant] [F] SALVAGED Alt standing" />
 
@@ -9,7 +10,7 @@ SALVAGED, Leo_link, Flasuban.
 Axe Fix by The_Big_Dededester.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

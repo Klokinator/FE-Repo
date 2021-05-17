@@ -1,4 +1,5 @@
 # [\[Assassin-Variant\] \[F\] Whisper by Mycahel](./)
+ 
 
 <img src="./1.%20Sword%20(Knife%20Crit)/Sword_000.png" alt="[Assassin-Variant] [F] Whisper by Mycahel standing" />
 
@@ -7,7 +8,7 @@
 {Mycahel}
 
 ## Weapons
-
+ 
 
 |Sword |Sword |
 |  :---: | :---: |

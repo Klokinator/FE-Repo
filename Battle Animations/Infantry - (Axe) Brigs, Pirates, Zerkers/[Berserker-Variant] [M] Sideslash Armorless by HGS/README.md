@@ -1,4 +1,5 @@
 # [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS](./)
+ 
 
 <img src="./3.%20Axe/Axe_000.png" alt="[Berserker-Variant] [M] Sideslash Armorless by HGS standing" />
 
@@ -11,7 +12,7 @@ Derserker made by DerTheVaporeon.
 Helmetless version by HGS.
 
 ## Weapons
-
+ 
 
 |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: |

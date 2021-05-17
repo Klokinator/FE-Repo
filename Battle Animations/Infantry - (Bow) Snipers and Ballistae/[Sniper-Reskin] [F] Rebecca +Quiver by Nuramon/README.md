@@ -1,4 +1,5 @@
 # [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](./)
+ 
 
 <img src="./5.%20Bow%20(With%20Recoil)/Bow_000.png" alt="[Sniper-Reskin] [F] Rebecca +Quiver by Nuramon standing" />
 
@@ -7,7 +8,7 @@
 Made by Nuramon, Swain, Temp, Wan.
 
 ## Weapons
-
+ 
 
 |Bow |Bow |Unarmed |Unarmed |
 |  :---: | :---: | :---: | :---: |

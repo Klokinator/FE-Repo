@@ -1,4 +1,5 @@
 # [\[Archer-Variant\] \[M\] Der's Improved Repal](./)
+ 
 
 <img src="./5.%20Bow/Bow_000.png" alt="[Archer-Variant] [M] Der's Improved Repal standing" />
 
@@ -7,7 +8,7 @@
 Flasuban, DerTheVaporeon
 
 ## Weapons
-
+ 
 
 |Bow |Unarmed |
 |  :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[Ranger-Custom\] \[F\] Bernadetta by Redbean](./)
+ 
 
 <img src="./2.%20Lance/Lance_000.png" alt="[Ranger-Custom] [F] Bernadetta by Redbean standing" />
 
@@ -11,7 +12,7 @@ Bow by Jj09.
 Bow Alt by Marlon0024.
 
 ## Weapons
-
+ 
 
 |Lance |Bow |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: |

@@ -1,4 +1,5 @@
 # [\[WL Reskin\] \[M\] Helmetless +Axe](./)
+ 
 
 <img src="./1.%20Sword/Sword_000.png" alt="[WL Reskin] [M] Helmetless +Axe standing" />
 
@@ -9,7 +10,7 @@ Helmetless version by Flasuban.
 Axe and Handaxe by TBA.
 
 ## Weapons
-
+ 
 
 |Sword |Lance |Axe |Handaxe |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: |

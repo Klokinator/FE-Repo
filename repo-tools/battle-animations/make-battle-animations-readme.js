@@ -1,6 +1,6 @@
 const fs = require('fs').promises;
 const { logMissingFile } = require('../utilities')
-const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText } = require('./battle-animations-utilities')
+const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText, makeClassCardReadMe, makeMapSpritesReadMe } = require('./battle-animations-utilities')
 
 const ROOT_DIR = './Battle Animations'
 const README_FILENAME = 'README.md';
@@ -20,11 +20,30 @@ const searchAnimations = async () => {
 	Promise.all(categoryDirectories.map(async categoryDir => {
 		const categoryDirectoryFiles = await fs.readdir(`${ROOT_DIR}/${categoryDir}`, { withFileTypes: true })
 		const animDirectories = categoryDirectoryFiles.reduce((accumulator, categoryFile) => {
-			if (categoryFile.isDirectory() && !categoryFile.name.includes('[AAA]')) accumulator.push(categoryFile.name)
+			if (categoryFile.isDirectory()) accumulator.push(categoryFile.name)
 			return accumulator
 		}, [])
 
-		return Promise.all(await animDirectories.map(async animDir => {
+		//deal with specific folders...
+		const classCardsFolders = animDirectories.length > 0 && Array.isArray(animDirectories) ? animDirectories.filter(x => x.toUpperCase().includes('[AAA] CLASS CARDS')) : [];
+		const mapSpritesFolders = animDirectories.length > 0 && Array.isArray(animDirectories) ? animDirectories.filter(x => x.toUpperCase().includes('[AAA] MAP SPRITES')) : [];
+		const cleanDirectories = animDirectories.length > 0 && Array.isArray(animDirectories) ? animDirectories.filter(x => !x.toUpperCase().includes('[AAA]')) : [];
+
+		//[AAA] CLASS CARDS
+		if (classCardsFolders.length > 0) {
+			const classCardFolder = classCardsFolders[0];
+			const classCardReadMe = await makeClassCardReadMe(ROOT_DIR, categoryDir, classCardFolder);
+			fs.writeFile(`${ROOT_DIR}/${categoryDir}/${classCardFolder}/${README_FILENAME}`, classCardReadMe);
+		}
+
+		//handle map sprites
+		if (mapSpritesFolders.length > 0) {
+			const mapSpritesFolder = mapSpritesFolders[0];
+			const mapSpritesReadMe = await makeMapSpritesReadMe(ROOT_DIR, categoryDir, mapSpritesFolder);
+			fs.writeFile(`${ROOT_DIR}/${categoryDir}/${mapSpritesFolder}/${README_FILENAME}`, mapSpritesReadMe);
+		}
+
+		return Promise.all(await cleanDirectories.map(async animDir => {
 			const anim = {
 				name: animDir,
 				// this fallback can be changed to '' when the credits work is complete
@@ -101,9 +120,11 @@ const searchAnimations = async () => {
 
 				return anim
 			})
-		})).then(categoryAnims => {
+		})).then(async (categoryAnims) => {
 
-			fs.writeFile(`${ROOT_DIR}/${categoryDir}/${README_FILENAME}`, makeCategoryReadmeText(categoryAnims, categoryDir))
+			const catReadme = `${ROOT_DIR}/${categoryDir}/${README_FILENAME}`;
+			fs.writeFile(catReadme, makeCategoryReadmeText(categoryAnims, categoryDir))
+
 			return { anims: categoryAnims, dir: categoryDir }
 		})
 	})).then(anims => {

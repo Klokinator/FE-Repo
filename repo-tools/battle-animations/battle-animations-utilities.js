@@ -115,7 +115,7 @@ const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth 
 	const top = '<details>\n<summary>Click to expand!</summary>\n\n';
 	const bottom = '\n</details>';
 
-	const contents = animContents && currentDir === './' ? `${top + animContents + bottom}` : animContents;
+	const contents = animContents && currentDir !== './' ? `${top + animContents + bottom}` : animContents;
 	return (
 		`${getHeading(headingDepth)} [${catDir} Battle Animations](${encodeURI(`${currentDir}`)})
 

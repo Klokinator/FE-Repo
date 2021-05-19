@@ -7901,10 +7901,10 @@
 | <img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20FE6-Style%20with%20Boots%20by%20Greentea/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20FE6-Style%20with%20Boots%20by%20Greentea/7.%20Staff/Staff.gif" /> |
 
 
-### [\[Sage-Reskin\] \[M\] Lucius Hair by Marlon](./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20by%20Marlon/)
+### [\[Sage-Reskin\] \[M\] Lucius Hair v1 by Marlon](./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v1%20by%20Marlon/)
  
 
-<img src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20by%20Marlon/6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Lucius Hair by Marlon standing" />
+<img src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v1%20by%20Marlon/6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Lucius Hair v1 by Marlon standing" />
 
 
 #### Weapons
@@ -7912,7 +7912,21 @@
 
 |Magic |Staff |
 |  :---: | :---: |
-| <img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20by%20Marlon/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20by%20Marlon/7.%20Staff/Staff.gif" /> |
+| <img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v1%20by%20Marlon/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v1%20by%20Marlon/7.%20Staff/Staff.gif" /> |
+
+
+### [\[Sage-Reskin\] \[M\] Lucius Hair v2 by Faolin](./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v2%20by%20Faolin/)
+ 
+
+<img src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v2%20by%20Faolin/6.%20Magic/Magic_000.png" alt="[Sage-Reskin] [M] Lucius Hair v2 by Faolin standing" />
+
+
+#### Weapons
+ 
+
+|Magic |Staff |
+|  :---: | :---: |
+| <img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v2%20by%20Faolin/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v2%20by%20Faolin/7.%20Staff/Staff.gif" /> |
 
 
 ### [\[Sage-Reskin\] \[M\] Pent by Arkth](./Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Pent%20by%20Arkth/)

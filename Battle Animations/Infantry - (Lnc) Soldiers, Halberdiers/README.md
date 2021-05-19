@@ -1,8 +1,5 @@
 # [Infantry - (Lnc) Soldiers, Halberdiers Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/)
  
 
@@ -338,4 +335,3 @@
 |  :---: | :---: | :---: |
 | <img alt="Sword animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/1.%20Sword%20%7BJeyTheCount%7D/Sword.gif" /> | <img alt="Lance animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
 
-</details>

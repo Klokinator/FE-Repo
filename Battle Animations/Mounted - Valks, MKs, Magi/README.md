@@ -1,8 +1,5 @@
 # [Mounted - Valks, MKs, Magi Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Dark Knight\] \[F\] Mageknight-Style by Teraspark](./%5BDark%20Knight%5D%20%5BF%5D%20Mageknight-Style%20by%20Teraspark/)
  
 
@@ -576,4 +573,3 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/7.%20Staff/Staff.gif" /> |
 
-</details>

@@ -1,8 +1,5 @@
 # [Lords - FE8 Types Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Eirika-Base\] \[F\] T1 Beta Eirika](./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika/)
  
 
@@ -422,4 +419,3 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif" /> | <img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif" /> | <img alt="Staff animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/Palettes/Palettes.gif" /> |
 
-</details>

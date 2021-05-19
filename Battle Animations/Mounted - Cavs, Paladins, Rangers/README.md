@@ -1,8 +1,5 @@
 # [Mounted - Cavs, Paladins, Rangers Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Cavalier-Base\] \[F\] Vanilla +Bow](./%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20+Bow/)
  
 
@@ -772,4 +769,3 @@
 |  :---: |
 | <img alt="Sword animation" src="./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/1.%20Sword/Sword.gif" /> |
 
-</details>

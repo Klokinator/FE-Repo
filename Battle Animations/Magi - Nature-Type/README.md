@@ -1,8 +1,5 @@
 # [Magi - Nature-Type Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff](./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/)
  
 
@@ -688,4 +685,3 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./%5BT3.1%20Sage%5D%20%5BM%5D%20High%20Magus%20by%20MrNight48/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3.1%20Sage%5D%20%5BM%5D%20High%20Magus%20by%20MrNight48/7.%20Staff/Staff.gif" /> |
 
-</details>

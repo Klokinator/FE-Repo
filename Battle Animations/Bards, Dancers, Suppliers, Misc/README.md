@@ -1,8 +1,5 @@
 # [Bards, Dancers, Suppliers, Misc Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Bard-Base\] \[M\] Elffin +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/)
  
 
@@ -380,4 +377,3 @@
 |  :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif" /> |
 
-</details>

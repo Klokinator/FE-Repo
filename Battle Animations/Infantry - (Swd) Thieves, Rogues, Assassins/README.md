@@ -1,8 +1,5 @@
 # [Infantry - (Swd) Thieves, Rogues, Assassins Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/)
  
 
@@ -702,4 +699,3 @@
 |  :---: | :---: |
 | <img alt="Sword animation" src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/7.%20Staff/Staff.gif" /> |
 
-</details>

@@ -1,8 +1,5 @@
 # [Infantry - (Swd) Mercenaries and Heroes Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](./%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/)
  
 
@@ -576,4 +573,3 @@
 |  :---: | :---: |
 | <img alt="Sword animation" src="./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
-</details>

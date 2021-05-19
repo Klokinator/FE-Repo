@@ -1,8 +1,5 @@
 # [Lords - FE6, FE7 Types Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Eliwood-Base\] \[M\] T1 Vanilla +Weapons](./%5BEliwood-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Weapons/)
  
 
@@ -772,4 +769,3 @@
 |  :---: |
 | <img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword.gif" /> |
 
-</details>

@@ -2,6 +2,9 @@
 
 ## [Bards, Dancers, Suppliers, Misc Battle Animations](./Bards,%20Dancers,%20Suppliers,%20Misc/)
 
+<details>
+<summary>Click to expand!</summary>
+
 ### [\[Bard-Base\] \[M\] Elffin +Weapons](./Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/)
  
 
@@ -379,9 +382,13 @@
 |  :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif" /> | <img alt="Unarmed animation" src="./Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Axe) Brigs, Pirates, Zerkers Battle Animations](./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Berserker-Base\] \[M\] Vanilla +Magic](./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/)
  
@@ -914,9 +921,13 @@
 |  :---: |
 | <img alt="Sword animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Type%5D%20%5BM%5D%20Sword%20Only%20Repal%20by%20Pimpstick/1.%20Sword/Sword.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Axe) Fighters and Warriors Battle Animations](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Fighter-Base\] \[M\] Vanilla +Sword](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/)
  
@@ -1351,9 +1362,13 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe/Axe.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe%20(Alt%20Attack)/Axe.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe%20(Vanilla%20Crit%20+%20Magic)/Axe.gif" /> | <img alt="Handaxe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/8.%20Unarmed/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Bow) Archers and Hunters Battle Animations](./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Archer-Base\] \[F\] Repal by Der](./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Base%5D%20%5BF%5D%20Repal%20by%20Der/)
  
@@ -1830,9 +1845,13 @@
 |  :---: | :---: |
 | <img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Bow) Snipers and Ballistae Battle Animations](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Ballista\] \[F\] Long Hair by St Jack](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/)
  
@@ -2407,9 +2426,13 @@
 |  :---: |
 | <img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BSniper-Variant%5D%20%5BM%5D%20Zackumi/5.%20Bow/Bow.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Lnc) Soldiers, Halberdiers Battle Animations](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/)
  
@@ -2746,9 +2769,13 @@
 |  :---: | :---: | :---: |
 | <img alt="Sword animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/1.%20Sword%20%7BJeyTheCount%7D/Sword.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/8.%20Unarmed/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Swd) Mercenaries and Heroes Battle Animations](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Echidna%20+Lance/)
  
@@ -3323,9 +3350,13 @@
 |  :---: | :---: |
 | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Swd) Myrms and Swordmasters Battle Animations](./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/)
  
@@ -3984,9 +4015,13 @@
 |  :---: |
 | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/1.%20Sword/Sword.gif" /> |
 
+</details>
 
 
 ## [Infantry - (Swd) Thieves, Rogues, Assassins Battle Animations](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/)
  
@@ -4687,9 +4722,13 @@
 |  :---: | :---: |
 | <img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/1.%20Sword/Sword.gif" /> | <img alt="Staff animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster-Type%5D%20%5BF%5D%20Yggdra%20Valkyrie%20Generic%20by%20Aruka/7.%20Staff/Staff.gif" /> |
 
+</details>
 
 
 ## [Infantry - Knights, Generals, Armors Battle Animations](./Infantry%20-%20Knights,%20Generals,%20Armors/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Crossover Custom\] \[M\] Sergeant by Spud](./Infantry%20-%20Knights,%20Generals,%20Armors/%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/)
  
@@ -5054,9 +5093,13 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/6.%20Magic%20(With%20Sword)/Magic.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Lords - FE6, FE7 Types Battle Animations](./Lords%20-%20FE6,%20FE7%20Types/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Eliwood-Base\] \[M\] T1 Vanilla +Weapons](./Lords%20-%20FE6,%20FE7%20Types/%5BEliwood-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Weapons/)
  
@@ -5827,9 +5870,13 @@
 |  :---: |
 | <img alt="Sword animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BSword-Custom%5D%20%5BM%5D%20Fate%20-%20Nobunaga%20by%20ZoramineFae/1.%20Sword/Sword.gif" /> |
 
+</details>
 
 
 ## [Lords - FE8 Types Battle Animations](./Lords%20-%20FE8%20Types/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Eirika-Base\] \[F\] T1 Beta Eirika](./Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika/)
  
@@ -6250,9 +6297,13 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif" /> | <img alt="Lance animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif" /> | <img alt="Bow animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif" /> | <img alt="Staff animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif" /> | <img alt="Palettes animation" src="./Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/Palettes/Palettes.gif" /> |
 
+</details>
 
 
 ## [Magi - Dark-Type Battle Animations](./Magi%20-%20Dark-Type/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Custom DM\] \[F\] Dark Mage by Pikmin](./Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/)
  
@@ -6617,9 +6668,13 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Magic animation" src="./Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif" /> | <img alt="Magic animation" src="./Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Minigun%20Melee)/Magic.gif" /> | <img alt="Magic animation" src="./Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Vanilla)/Staff.gif" /> |
 
+</details>
 
 
 ## [Magi - Holy-Type Battle Animations](./Magi%20-%20Holy-Type/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Cleric-Base\] \[F\] Improved Repal by Eldritch](./Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Improved%20Repal%20by%20Eldritch/)
  
@@ -7320,9 +7375,13 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48/7.%20Staff/Staff.gif" /> |
 
+</details>
 
 
 ## [Magi - Nature-Type Battle Animations](./Magi%20-%20Nature-Type/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff](./Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/)
  
@@ -8009,9 +8068,13 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BM%5D%20High%20Magus%20by%20MrNight48/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BM%5D%20High%20Magus%20by%20MrNight48/7.%20Staff/Staff.gif" /> |
 
+</details>
 
 
 ## [Magi - Special Battle Animations](./Magi%20-%20Special/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Custom Magi\] \[F\] Angel by GabrielKnight](./Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight/)
  
@@ -8362,9 +8425,13 @@
 |  :---: | :---: | :---: |
 | <img alt="Magic animation" src="./Magi%20-%20Special/%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./Magi%20-%20Special/%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic%20(Too%20Much%20OAM)/Magic.gif" /> | <img alt="Staff animation" src="./Magi%20-%20Special/%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/7.%20Staff/Staff.gif" /> |
 
+</details>
 
 
 ## [Monsters - Basic Types Battle Animations](./Monsters%20-%20Basic%20Types/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Centaur-Base\] \[M\] Vanilla FE8 Maelduin](./Monsters%20-%20Basic%20Types/%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin/)
  
@@ -8939,9 +9006,13 @@
 |  :---: |
 | <img alt="Magic animation" src="./Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Lich%20by%20SkidMarc25/6.%20Magic/Magic.gif" /> |
 
+</details>
 
 
 ## [Monsters - Dragons and Special Battle Animations](./Monsters%20-%20Dragons%20and%20Special/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Boss-Base\] \[U\] Vanilla Demon King +FE6-7](./Monsters%20-%20Dragons%20and%20Special/%5BBoss-Base%5D%20%5BU%5D%20Vanilla%20Demon%20King%20+FE6-7/)
  
@@ -9404,9 +9475,13 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./Monsters%20-%20Dragons%20and%20Special/%5BNon-FE%5D%20%5BU%5D%20Salamander%20by%20Memae/6.%20Magic%20(Cannon)/Magic.gif" /> | <img alt="Unarmed animation" src="./Monsters%20-%20Dragons%20and%20Special/%5BNon-FE%5D%20%5BU%5D%20Salamander%20by%20Memae/8.%20Unarmed/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Mounted - Cavs, Paladins, Rangers Battle Animations](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Cavalier-Base\] \[F\] Vanilla +Bow](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20+Bow/)
  
@@ -10177,9 +10252,13 @@
 |  :---: |
 | <img alt="Sword animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/1.%20Sword/Sword.gif" /> |
 
+</details>
 
 
 ## [Mounted - Pegs, Wyverns, Griffons Battle Animations](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Griffon\] \[U\] Arbalest Repal by Eldritch](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20Repal%20by%20Eldritch/)
  
@@ -10852,9 +10931,13 @@
 |  :---: | :---: | :---: | :---: |
 | <img alt="Lance animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/8.%20Unarmed/Unarmed.gif" /> |
 
+</details>
 
 
 ## [Mounted - Valks, MKs, Magi Battle Animations](./Mounted%20-%20Valks,%20MKs,%20Magi/)
+
+<details>
+<summary>Click to expand!</summary>
 
 ### [\[Dark Knight\] \[F\] Mageknight-Style by Teraspark](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BDark%20Knight%5D%20%5BF%5D%20Mageknight-Style%20by%20Teraspark/)
  
@@ -11429,6 +11512,7 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/7.%20Staff/Staff.gif" /> |
 
+</details>
 
 
 ## [WIP (Need to be added to the repo) Battle Animations](./WIP%20(Need%20to%20be%20added%20to%20the%20repo)/)

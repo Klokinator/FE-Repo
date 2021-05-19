@@ -1,8 +1,5 @@
 # [Magi - Holy-Type Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Cleric-Base\] \[F\] Improved Repal by Eldritch](./%5BCleric-Base%5D%20%5BF%5D%20Improved%20Repal%20by%20Eldritch/)
  
 
@@ -702,4 +699,3 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48/6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48/7.%20Staff/Staff.gif" /> |
 
-</details>

@@ -1,8 +1,5 @@
 # [Infantry - (Axe) Brigs, Pirates, Zerkers Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Berserker-Base\] \[M\] Vanilla +Magic](./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/)
  
 
@@ -534,4 +531,3 @@
 |  :---: |
 | <img alt="Sword animation" src="./%5BPirate-Type%5D%20%5BM%5D%20Sword%20Only%20Repal%20by%20Pimpstick/1.%20Sword/Sword.gif" /> |
 
-</details>

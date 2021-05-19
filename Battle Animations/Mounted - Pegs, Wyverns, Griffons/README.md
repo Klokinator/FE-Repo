@@ -1,8 +1,5 @@
 # [Mounted - Pegs, Wyverns, Griffons Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Griffon\] \[U\] Arbalest Repal by Eldritch](./%5BGriffon%5D%20%5BU%5D%20Arbalest%20Repal%20by%20Eldritch/)
  
 
@@ -674,4 +671,3 @@
 |  :---: | :---: | :---: | :---: |
 | <img alt="Lance animation" src="./%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/8.%20Unarmed/Unarmed.gif" /> |
 
-</details>

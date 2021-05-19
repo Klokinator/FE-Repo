@@ -1,8 +1,5 @@
 # [Magi - Special Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Custom Magi\] \[F\] Angel by GabrielKnight](./%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight/)
  
 
@@ -352,4 +349,3 @@
 |  :---: | :---: | :---: |
 | <img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic%20(Too%20Much%20OAM)/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/7.%20Staff/Staff.gif" /> |
 
-</details>

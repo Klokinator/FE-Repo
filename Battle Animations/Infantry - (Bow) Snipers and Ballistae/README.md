@@ -1,8 +1,5 @@
 # [Infantry - (Bow) Snipers and Ballistae Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Ballista\] \[F\] Long Hair by St Jack](./%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/)
  
 
@@ -576,4 +573,3 @@
 |  :---: |
 | <img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BM%5D%20Zackumi/5.%20Bow/Bow.gif" /> |
 
-</details>

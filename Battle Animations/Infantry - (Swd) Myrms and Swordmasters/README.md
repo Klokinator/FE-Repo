@@ -1,8 +1,5 @@
 # [Infantry - (Swd) Myrms and Swordmasters Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/)
  
 
@@ -660,4 +657,3 @@
 |  :---: |
 | <img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/1.%20Sword/Sword.gif" /> |
 
-</details>

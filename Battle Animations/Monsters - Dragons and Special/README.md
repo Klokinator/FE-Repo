@@ -1,8 +1,5 @@
 # [Monsters - Dragons and Special Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Boss-Base\] \[U\] Vanilla Demon King +FE6-7](./%5BBoss-Base%5D%20%5BU%5D%20Vanilla%20Demon%20King%20+FE6-7/)
  
 
@@ -464,4 +461,3 @@
 |  :---: | :---: |
 | <img alt="Magic animation" src="./%5BNon-FE%5D%20%5BU%5D%20Salamander%20by%20Memae/6.%20Magic%20(Cannon)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BNon-FE%5D%20%5BU%5D%20Salamander%20by%20Memae/8.%20Unarmed/Unarmed.gif" /> |
 
-</details>

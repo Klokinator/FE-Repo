@@ -1,8 +1,5 @@
 # [Monsters - Basic Types Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Centaur-Base\] \[M\] Vanilla FE8 Maelduin](./%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin/)
  
 
@@ -576,4 +573,3 @@
 |  :---: |
 | <img alt="Magic animation" src="./%5BZombie-Variant%5D%20%5BU%5D%20Lich%20by%20SkidMarc25/6.%20Magic/Magic.gif" /> |
 
-</details>

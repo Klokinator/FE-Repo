@@ -1,8 +1,5 @@
 # [Infantry - (Bow) Archers and Hunters Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Archer-Base\] \[F\] Repal by Der](./%5BArcher-Base%5D%20%5BF%5D%20Repal%20by%20Der/)
  
 
@@ -478,4 +475,3 @@
 |  :---: | :---: |
 | <img alt="Bow animation" src="./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/8.%20Unarmed/Unarmed.gif" /> |
 
-</details>

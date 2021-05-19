@@ -1,8 +1,5 @@
 # [Infantry - Knights, Generals, Armors Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Crossover Custom\] \[M\] Sergeant by Spud](./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/)
  
 
@@ -366,4 +363,3 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/6.%20Magic%20(With%20Sword)/Magic.gif" /> | <img alt="Unarmed animation" src="./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif" /> |
 
-</details>

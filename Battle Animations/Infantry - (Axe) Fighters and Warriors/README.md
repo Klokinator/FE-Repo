@@ -1,8 +1,5 @@
 # [Infantry - (Axe) Fighters and Warriors Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Fighter-Base\] \[M\] Vanilla +Sword](./%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/)
  
 
@@ -436,4 +433,3 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Axe animation" src="./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe/Axe.gif" /> | <img alt="Axe animation" src="./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe%20(Alt%20Attack)/Axe.gif" /> | <img alt="Axe animation" src="./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe%20(Vanilla%20Crit%20+%20Magic)/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/8.%20Unarmed/Unarmed.gif" /> |
 
-</details>

@@ -1,8 +1,5 @@
 # [Magi - Dark-Type Battle Animations](./)
 
-<details>
-<summary>Click to expand!</summary>
-
 ## [\[Custom DM\] \[F\] Dark Mage by Pikmin](./%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/)
  
 
@@ -366,4 +363,3 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Minigun%20Melee)/Magic.gif" /> | <img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Vanilla)/Staff.gif" /> |
 
-</details>

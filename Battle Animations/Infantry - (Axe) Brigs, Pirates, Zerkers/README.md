@@ -42,6 +42,20 @@
 | <img alt="Sword animation" src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Berserker-Custom\] \[U\] Bushido Doogzerker](./%5BBerserker-Custom%5D%20%5BU%5D%20Bushido%20Doogzerker/)
+ 
+
+<img src="./%5BBerserker-Custom%5D%20%5BU%5D%20Bushido%20Doogzerker/Sword/Sword_000.png" alt="[Berserker-Custom] [U] Bushido Doogzerker standing" />
+
+
+### Weapons
+ 
+
+|Sword |
+|  :---: |
+| <img alt="Sword animation" src="./%5BBerserker-Custom%5D%20%5BU%5D%20Bushido%20Doogzerker/Sword/Sword.gif" /> |
+
+
 ## [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/)
  
 

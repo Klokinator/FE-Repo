@@ -9364,6 +9364,34 @@
 | <img alt="Sword animation" src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Cursed%20Sword%20by%20SALVAGED/1.%20Sword/Sword.gif" /> |
 
 
+### [\[Monster-Custom\] \[U\] Divine Dragon by L95](./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Divine%20Dragon%20by%20L95/)
+ 
+
+<img src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Divine%20Dragon%20by%20L95/Dragonstone/Dragonstone_000.png" alt="[Monster-Custom] [U] Divine Dragon by L95 standing" />
+
+
+#### Weapons
+ 
+
+|Dragonstone |
+|  :---: |
+| <img alt="Dragonstone animation" src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Divine%20Dragon%20by%20L95/Dragonstone/Dragonstone.gif" /> |
+
+
+### [\[Monster-Custom\] \[U\] Earth Dragon by L95](./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Earth%20Dragon%20by%20L95/)
+ 
+
+<img src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Earth%20Dragon%20by%20L95/Dragonstone/Dragonstone_000.png" alt="[Monster-Custom] [U] Earth Dragon by L95 standing" />
+
+
+#### Weapons
+ 
+
+|Dragonstone |
+|  :---: |
+| <img alt="Dragonstone animation" src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Earth%20Dragon%20by%20L95/Dragonstone/Dragonstone.gif" /> |
+
+
 ### [\[Monster-Custom\] \[U\] Elibian Nights Ice Dragon](./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/)
  
 
@@ -9404,6 +9432,20 @@
 |Magic |
 |  :---: |
 | <img alt="Magic animation" src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Ghost%20-%20Breath%20of%20Fire/6.%20Magic/Magic.gif" /> |
+
+
+### [\[Monster-Custom\] \[U\] Mage Dragon by L95](./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Mage%20Dragon%20by%20L95/)
+ 
+
+<img src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Mage%20Dragon%20by%20L95/Dragonstone/Dragonstone_000.png" alt="[Monster-Custom] [U] Mage Dragon by L95 standing" />
+
+
+#### Weapons
+ 
+
+|Dragonstone |
+|  :---: |
+| <img alt="Dragonstone animation" src="./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Mage%20Dragon%20by%20L95/Dragonstone/Dragonstone.gif" /> |
 
 
 ### [\[Monster-Custom\] \[U\] Magical Tomes by N426](./Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Magical%20Tomes%20by%20N426/)

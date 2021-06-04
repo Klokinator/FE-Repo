@@ -126,6 +126,34 @@
 | <img alt="Sword animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/8.%20Unarmed/Unarmed.gif" /> |
 
 
+## [\[Cavalry-Custom\] Seliph by Obsidian Daddy](./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/)
+ 
+
+<img src="./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/1.%20Sword%20(Tyrfing)/Sword_000.png" alt="[Cavalry-Custom] Seliph by Obsidian Daddy standing" />
+
+
+### Weapons
+ 
+
+|Sword |Lance |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/1.%20Sword%20(Tyrfing)/Sword.gif" /> | <img alt="Lance animation" src="./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif" /> |
+
+
+## [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/)
+ 
+
+<img src="./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/1.%20Sword/Sword_000.png" alt="[Cavalry-Custom] Sigurd by Obsidian Daddy standing" />
+
+
+### Weapons
+ 
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif" /> |
+
+
 ## [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/)
  
 

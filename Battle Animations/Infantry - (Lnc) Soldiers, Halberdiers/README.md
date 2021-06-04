@@ -252,10 +252,10 @@
 | <img alt="Sword animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-## [\[Soldier-Custom\] \[M\] FE10-Style by Nuramon](./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/)
+## [\[Soldier-Custom\] \[M\] FE10-Style by Flasuban](./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/)
  
 
-<img src="./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance_000.png" alt="[Soldier-Custom] [M] FE10-Style by Nuramon standing" />
+<img src="./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance_000.png" alt="[Soldier-Custom] [M] FE10-Style by Flasuban standing" />
 
 
 ### Weapons
@@ -263,7 +263,7 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ## [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](./%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/)

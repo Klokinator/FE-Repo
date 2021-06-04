@@ -2700,10 +2700,10 @@
 | <img alt="Sword animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif" /> | <img alt="Staff animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif" /> |
 
 
-### [\[Soldier-Custom\] \[M\] FE10-Style by Nuramon](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/)
+### [\[Soldier-Custom\] \[M\] FE10-Style by Flasuban](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/)
  
 
-<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance_000.png" alt="[Soldier-Custom] [M] FE10-Style by Nuramon standing" />
+<img src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance_000.png" alt="[Soldier-Custom] [M] FE10-Style by Flasuban standing" />
 
 
 #### Weapons
@@ -2711,7 +2711,7 @@
 
 |Lance |Unarmed |
 |  :---: | :---: |
-| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif" /> |
+| <img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/)
@@ -9677,6 +9677,34 @@
 |Sword |Lance |Axe |Handaxe |Bow |Unarmed |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Sword animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/1.%20Sword/Sword.gif" /> | <img alt="Lance animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Cavalry-Custom\] Seliph by Obsidian Daddy](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/)
+ 
+
+<img src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/1.%20Sword%20(Tyrfing)/Sword_000.png" alt="[Cavalry-Custom] Seliph by Obsidian Daddy standing" />
+
+
+#### Weapons
+ 
+
+|Sword |Lance |Unarmed |
+|  :---: | :---: | :---: |
+| <img alt="Sword animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/1.%20Sword%20(Tyrfing)/Sword.gif" /> | <img alt="Lance animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif" /> |
+
+
+### [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/)
+ 
+
+<img src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/1.%20Sword/Sword_000.png" alt="[Cavalry-Custom] Sigurd by Obsidian Daddy standing" />
+
+
+#### Weapons
+ 
+
+|Sword |Unarmed |
+|  :---: | :---: |
+| <img alt="Sword animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/1.%20Sword/Sword.gif" /> | <img alt="Unarmed animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif" /> |
 
 
 ### [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/)

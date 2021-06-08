@@ -1,14 +1,6 @@
 # [Infantry - (Lnc) Soldiers, Halberdiers Battle Animations](./)
 
-## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin)
-
-### Weapons
-
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
-
-
-## [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord)
+## [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord)
 
 ### Weapons
 
@@ -16,7 +8,15 @@
 | :---: | :---: |
 
 
-## [\[Custom Halb\] \[F\] Halberdier by Black Mage](./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage)
+## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin)
+
+### Weapons
+
+| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+## [\[Custom Halb\] \[F\] Halberdier by Black Mage](./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage)
 
 ### Weapons
 
@@ -24,7 +24,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes)
+## [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes)
 
 ### Weapons
 
@@ -33,7 +33,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Custom Lance\] \[M\] Halb-Lancer v1 by TBA](./%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA)
+## [\[Custom Lance\] \[M\] Halb-Lancer v1 by TBA](./%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA)
 
 ### Weapons
 
@@ -41,7 +41,7 @@
 | :---: | :---: |
 
 
-## [\[Custom Lance\] \[M\] Halb-Lancer v2 by Jj09](./%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09)
+## [\[Custom Lance\] \[M\] Halb-Lancer v2 by Jj09](./%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09)
 
 ### Weapons
 
@@ -49,7 +49,7 @@
 | :---: | :---: |
 
 
-## [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq)
+## [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](./%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq)
 
 ### Weapons
 
@@ -57,7 +57,7 @@
 | :---: | :---: |
 
 
-## [\[Custom Lance\] \[M\] NES-Style Soldier by Dinar87](./%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87)
+## [\[Custom Lance\] \[M\] NES-Style Soldier by Dinar87](./%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87)
 
 ### Weapons
 
@@ -65,7 +65,7 @@
 | :---: |
 
 
-## [\[Custom Lance\] \[M\] Spartan by Vilkalizer](./%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer)
+## [\[Custom Lance\] \[M\] Spartan by Vilkalizer](./%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer)
 
 ### Weapons
 
@@ -73,7 +73,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](./%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm)
+## [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](./%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm)
 
 ### Weapons
 
@@ -81,7 +81,7 @@
 | :---: | :---: |
 
 
-## [\[Ephraim-Base\] \[M\] Halberdier by Yosh](./%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh)
+## [\[Ephraim-Base\] \[M\] Halberdier by Yosh](./%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh)
 
 ### Weapons
 
@@ -89,7 +89,7 @@
 | :---: |
 
 
-## [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](./%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
+## [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](./%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
 
 ### Weapons
 
@@ -97,7 +97,7 @@
 | :---: | :---: |
 
 
-## [\[Recruit-Amelia\] \[F\] T1 Soldier by Spud](./%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud)
+## [\[Recruit-Amelia\] \[F\] T1 Soldier by Spud](./%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud)
 
 ### Weapons
 
@@ -105,7 +105,7 @@
 | :---: | :---: |
 
 
-## [\[Recruit-Amelia\] \[F\] T2 Halberdier by Spud](./%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud)
+## [\[Recruit-Amelia\] \[F\] T2 Halberdier by Spud](./%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud)
 
 ### Weapons
 
@@ -113,7 +113,7 @@
 | :---: | :---: |
 
 
-## [\[Recruit-Base\] \[F\] Alice Lord by Yazuki](./%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki)
+## [\[Recruit-Base\] \[F\] Alice Lord by Yazuki](./%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki)
 
 ### Weapons
 
@@ -121,7 +121,7 @@
 | :---: |
 
 
-## [\[Recruit-Base\] \[F\] Vanilla Amelia](./%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia)
+## [\[Recruit-Base\] \[F\] Vanilla Amelia](./%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia)
 
 ### Weapons
 
@@ -129,7 +129,7 @@
 | :---: | :---: |
 
 
-## [\[Recruit-Base\] \[M\] Variant by Waleed](./%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed)
+## [\[Recruit-Base\] \[M\] Variant by Waleed](./%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed)
 
 ### Weapons
 
@@ -137,7 +137,7 @@
 | :---: | :---: |
 
 
-## [\[Soldier-Base\] \[M\] Vanilla +Weapons](./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons)
+## [\[Soldier-Base\] \[M\] Vanilla +Weapons](./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons)
 
 ### Weapons
 
@@ -146,7 +146,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Soldier-Custom\] \[M\] FE10-Style by Flasuban](./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
+## [\[Soldier-Custom\] \[M\] FE10-Style by Flasuban](./%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
 
 ### Weapons
 
@@ -154,7 +154,7 @@
 | :---: | :---: |
 
 
-## [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](./%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban)
+## [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](./%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban)
 
 ### Weapons
 
@@ -162,7 +162,7 @@
 | :---: | :---: |
 
 
-## [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](./%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz)
+## [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](./%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz)
 
 ### Weapons
 
@@ -170,7 +170,7 @@
 | :---: | :---: |
 
 
-## [\[Soldier-Reskin\] \[M\] FE10-Style by Flasuban](./%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
+## [\[Soldier-Reskin\] \[M\] FE10-Style by Flasuban](./%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
 
 ### Weapons
 
@@ -178,7 +178,7 @@
 | :---: | :---: |
 
 
-## [\[Soldier-Variant\] \[F\] Lightweight Lancer by Alusq](./%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq)
+## [\[Soldier-Variant\] \[F\] Lightweight Lancer by Alusq](./%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq)
 
 ### Weapons
 
@@ -186,7 +186,7 @@
 | :---: | :---: |
 
 
-## [\[Soldier-Variant\] \[M\] Lightweight Lancer by Alusq](./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq)
+## [\[Soldier-Variant\] \[M\] Lightweight Lancer by Alusq](./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq)
 
 ### Weapons
 

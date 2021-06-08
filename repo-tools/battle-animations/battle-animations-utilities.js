@@ -18,6 +18,10 @@ const getHeading = (depth = 1) => '#'.repeat(depth)
  */
 const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
 
+const DOWNLOAD_BUTTON = "![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)"
+// const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download-red?style=social&logo=github)"
+// const DOWNLOAD_BUTTON = "(download)"
+
 /**
  * Given anim and weapon objects, generates the README text for an anim weapon folder.
  *
@@ -26,8 +30,8 @@ const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
  *
  * @returns {String}
  */
-const makeWeaponReadmeText = (anim, weapon) => (
-	`# [${escapeParens(anim.name)}]
+const makeWeaponReadmeText = ({anim, weapon, path}) => (
+	`# [${escapeParens(anim.name)}](./) [${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})
 
 ## Credit
 
@@ -51,7 +55,7 @@ ${anim.credits}
  *
  * @returns {String}
  */
-const makeAnimReadmeText = (anim, addCredits = true, currentDir = './', headingDepth = 1) => {
+const makeAnimReadmeText = ({anim, addCredits = true, currentDir = './', headingDepth = 1, path}) => {
 	let creditsBlock = ''
 	if (addCredits) {
 		creditsBlock = `${getHeading(headingDepth + 1)} Credits
@@ -66,7 +70,13 @@ ${anim.credits}
 		showWeaponsHeading = true
 	}
 
-	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)}
+    let downloadButton = ""
+    if(path != undefined) {
+        // Shields-safe name: encodeURI(anim.name).replace("-", "--")
+        downloadButton = `[${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})`
+    }
+
+	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)} ${downloadButton}
 ${creditsBlock}
 ${showWeaponsHeading ? `${getHeading(headingDepth +1)} Weapons
 ` : ''}
@@ -139,7 +149,13 @@ const makeWeaponContent = ({weapon, currentDir}) => {
 const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth = 1) => {
 
 	const animContents = catAnims.map(anim => {
-		return makeAnimReadmeText(anim, false, `${currentDir}${anim.name}/`, headingDepth + 1);
+		return makeAnimReadmeText({
+            "anim": anim,
+            "addCredits": false,
+            "currentDir": `${currentDir}${anim.name}/`,
+            "headingDepth": headingDepth + 1,
+            "path": path.join("Battle Animations", `${currentDir}${anim.name}`)
+        });
 	}).join(`
 
 `);

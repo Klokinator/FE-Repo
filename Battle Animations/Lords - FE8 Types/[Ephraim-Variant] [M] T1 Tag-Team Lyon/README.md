@@ -1,4 +1,4 @@
-# [\[Ephraim-Variant\] \[M\] T1 Tag-Team Lyon](./)
+# [\[Ephraim-Variant\] \[M\] T1 Tag-Team Lyon](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE8%20Types%2F%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Tag-Team%20Lyon)
 ## Credits
 
 Made by Devisian_Nights.

@@ -110,13 +110,20 @@ const searchAnimations = async () => {
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${static}`)
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${active}`)
 
-				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${README_FILENAME}`, makeWeaponReadmeText(anim, weapon))
+				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${README_FILENAME}`, makeWeaponReadmeText({
+					"anim": anim,
+					"weapon": weapon,
+					"path": `${ROOT_DIR.substring(2)}/${categoryDir}/${animDir}/${weaponDir}`,
+				}))
 
 				return weapon
 			})).then(weapons => {
 				anim.weapons = weapons
 
-				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText(anim))
+				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText({
+					"anim": anim,
+					"path": `${ROOT_DIR.substring(2)}/${categoryDir}/${animDir}`,
+				}))
 
 				return anim
 			})

@@ -1,6 +1,6 @@
 # [Infantry - Knights, Generals, Armors Battle Animations](./)
 
-## [\[Crossover Custom\] \[M\] Sergeant by Spud](./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud)
+## [\[Crossover Custom\] \[M\] Sergeant by Spud](./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud)
 
 ### Weapons
 
@@ -8,7 +8,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[General-Base\] \[U\] Repal by Skitty](./%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty)
+## [\[General-Base\] \[U\] Repal by Skitty](./%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty)
 
 ### Weapons
 
@@ -17,7 +17,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[General-Base\] \[U\] Vanilla +Weapons](./%5BGeneral-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
+## [\[General-Base\] \[U\] Vanilla +Weapons](./%5BGeneral-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
 
 ### Weapons
 
@@ -28,7 +28,7 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BGeneral-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[General-Reskin\] \[F\] Amelia by Redbean](./%5BGeneral-Reskin%5D%20%5BF%5D%20Amelia%20by%20Redbean/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BF%5D%20Amelia%20by%20Redbean)
+## [\[General-Reskin\] \[F\] Amelia by Redbean](./%5BGeneral-Reskin%5D%20%5BF%5D%20Amelia%20by%20Redbean/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BF%5D%20Amelia%20by%20Redbean)
 
 ### Weapons
 
@@ -37,7 +37,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGeneral-Reskin%5D%20%5BF%5D%20Amelia%20by%20Redbean/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Reskin%5D%20%5BF%5D%20Amelia%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[General-Reskin\] \[M\] Baron Cape +Weapons](./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20%2BWeapons)
+## [\[General-Reskin\] \[M\] Baron Cape +Weapons](./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20%2BWeapons)
 
 ### Weapons
 
@@ -48,7 +48,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons/8.%20Unarmed%20(No%20Shield)/Unarmed.gif"/> |
 
 
-## [\[General-Reskin\] \[M\] Baron Cape +Weapons, No Clicks](./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons,%20No%20Clicks/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20%2BWeapons%2C%20No%20Clicks)
+## [\[General-Reskin\] \[M\] Baron Cape +Weapons, No Clicks](./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons,%20No%20Clicks/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20%2BWeapons%2C%20No%20Clicks)
 
 ### Weapons
 
@@ -57,7 +57,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons,%20No%20Clicks/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons,%20No%20Clicks/5.%20Bow/Bow.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons,%20No%20Clicks/6.%20Magic%20(DerTheVaporeon)/Magic.gif"/> |
 
 
-## [\[General-Reskin\] \[M\] Oswin by JeyTheCount](./%5BGeneral-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount)
+## [\[General-Reskin\] \[M\] Oswin by JeyTheCount](./%5BGeneral-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount)
 
 ### Weapons
 
@@ -66,7 +66,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[General-Reskin\] \[M\] Wallace by JeyTheCount](./%5BGeneral-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount)
+## [\[General-Reskin\] \[M\] Wallace by JeyTheCount](./%5BGeneral-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount)
 
 ### Weapons
 
@@ -75,7 +75,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[General-Reskin\] \[U\] Baron +Weapons](./%5BGeneral-Reskin%5D%20%5BU%5D%20Baron%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Baron%20%2BWeapons)
+## [\[General-Reskin\] \[U\] Baron +Weapons](./%5BGeneral-Reskin%5D%20%5BU%5D%20Baron%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Baron%20%2BWeapons)
 
 ### Weapons
 
@@ -85,7 +85,7 @@
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Baron%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Baron%20+Weapons/7.%20Staff%20(Visible)/Staff.gif"/> |
 
 
-## [\[General-Reskin\] \[U\] Emperor by St Jack](./%5BGeneral-Reskin%5D%20%5BU%5D%20Emperor%20by%20St%20Jack/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Emperor%20by%20St%20Jack)
+## [\[General-Reskin\] \[U\] Emperor by St Jack](./%5BGeneral-Reskin%5D%20%5BU%5D%20Emperor%20by%20St%20Jack/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Emperor%20by%20St%20Jack)
 
 ### Weapons
 
@@ -95,7 +95,7 @@
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Emperor%20by%20St%20Jack/7.%20Staff/Staff.gif"/> |
 
 
-## [\[General-Reskin\] \[U\] Shield v2](./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2)
+## [\[General-Reskin\] \[U\] Shield v2](./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2)
 
 ### Weapons
 
@@ -105,7 +105,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[General-Reskin\] \[U\] Shield v2 +Cape](./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2%20+Cape/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2%20%2BCape)
+## [\[General-Reskin\] \[U\] Shield v2 +Cape](./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2%20+Cape/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2%20%2BCape)
 
 ### Weapons
 
@@ -115,7 +115,7 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2%20+Cape/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2%20+Cape/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Knight-Base\] \[U\] Vanilla +Weapons](./%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
+## [\[Knight-Base\] \[U\] Vanilla +Weapons](./%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
 
 ### Weapons
 
@@ -126,7 +126,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed%20(Bow)/Unarmed.gif"/> |
 
 
-## [\[Knight-Base\] \[U\] Vanilla Repal by FPZero](./%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero)
+## [\[Knight-Base\] \[U\] Vanilla Repal by FPZero](./%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero)
 
 ### Weapons
 
@@ -134,7 +134,7 @@
 | :---: | :---: |
 
 
-## [\[Knight-Custom\] \[U\] DS-Style Repal by MK404](./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404)
+## [\[Knight-Custom\] \[U\] DS-Style Repal by MK404](./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404)
 
 ### Weapons
 
@@ -142,7 +142,7 @@
 | :---: |
 
 
-## [\[Knight-Custom\] \[U\] DS-Style by MK404](./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404)
+## [\[Knight-Custom\] \[U\] DS-Style by MK404](./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404)
 
 ### Weapons
 
@@ -150,7 +150,7 @@
 | :---: | :---: |
 
 
-## [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](./%5BKnight-Custom%5D%20%5BU%5D%20FE10-Style%20by%20Iscaneus/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Custom%5D%20%5BU%5D%20FE10-Style%20by%20Iscaneus)
+## [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](./%5BKnight-Custom%5D%20%5BU%5D%20FE10-Style%20by%20Iscaneus/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Custom%5D%20%5BU%5D%20FE10-Style%20by%20Iscaneus)
 
 ### Weapons
 
@@ -161,7 +161,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Custom%5D%20%5BU%5D%20FE10-Style%20by%20Iscaneus/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Knight-Reskin\] \[M\] Oswin by JeyTheCount](./%5BKnight-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount)
+## [\[Knight-Reskin\] \[M\] Oswin by JeyTheCount](./%5BKnight-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount)
 
 ### Weapons
 
@@ -169,7 +169,7 @@
 | :---: | :---: |
 
 
-## [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](./%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount)
+## [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](./%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount)
 
 ### Weapons
 
@@ -177,7 +177,7 @@
 | :---: | :---: |
 
 
-## [\[Knight-Variant\] \[M\] Generic by SALVAGED](./%5BKnight-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED)
+## [\[Knight-Variant\] \[M\] Generic by SALVAGED](./%5BKnight-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED)
 
 ### Weapons
 
@@ -187,7 +187,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> | <b>team</b><br/><img alt="team animation" src="./%5BKnight-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/team%20palettes/team.gif"/> |
 
 
-## [\[Knight-Variant\] \[M\] Helmetless by SALVAGED](./%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED)
+## [\[Knight-Variant\] \[M\] Helmetless by SALVAGED](./%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED)
 
 ### Weapons
 
@@ -197,7 +197,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> | <b>team</b><br/><img alt="team animation" src="./%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED/team%20palettes/team.gif"/> |
 
 
-## [\[Marshall\] \[M\] Black Knight by Luerock](./%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock)
+## [\[Marshall\] \[M\] Black Knight by Luerock](./%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock)
 
 ### Weapons
 
@@ -205,7 +205,7 @@
 | :---: |
 
 
-## [\[Marshall\] \[M\] Zelgius v1 by Luerock](./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock)
+## [\[Marshall\] \[M\] Zelgius v1 by Luerock](./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock)
 
 ### Weapons
 
@@ -213,7 +213,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Marshall\] \[M\] Zelgius v2 by Nuramon](./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon)
+## [\[Marshall\] \[M\] Zelgius v2 by Nuramon](./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon)
 
 ### Weapons
 
@@ -222,7 +222,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20%2BWeapons)
+## [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20%2BWeapons)
 
 ### Weapons
 
@@ -232,7 +232,7 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Zephiel-Reskin\] \[M\] King Zephiel Generic by Huichelaar](./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar)
+## [\[Zephiel-Reskin\] \[M\] King Zephiel Generic by Huichelaar](./%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZephiel-Reskin%5D%20%5BM%5D%20King%20Zephiel%20Generic%20by%20Huichelaar)
 
 ### Weapons
 

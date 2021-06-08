@@ -1,6 +1,6 @@
 # [Infantry - (Axe) Fighters and Warriors Battle Animations](./)
 
-## [\[Fighter-Base\] \[M\] Vanilla +Sword](./%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20%2BSword)
+## [\[Fighter-Base\] \[M\] Vanilla +Sword](./%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20%2BSword)
 
 ### Weapons
 
@@ -9,7 +9,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20+Sword/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Fighter-Reskin\] \[F\] FEGirls Vanilla-Style](./%5BFighter-Reskin%5D%20%5BF%5D%20FEGirls%20Vanilla-Style/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BF%5D%20FEGirls%20Vanilla-Style)
+## [\[Fighter-Reskin\] \[F\] FEGirls Vanilla-Style](./%5BFighter-Reskin%5D%20%5BF%5D%20FEGirls%20Vanilla-Style/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BF%5D%20FEGirls%20Vanilla-Style)
 
 ### Weapons
 
@@ -17,7 +17,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Reskin\] \[F\] Long Haired by Black Mage](./%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage)
+## [\[Fighter-Reskin\] \[F\] Long Haired by Black Mage](./%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage)
 
 ### Weapons
 
@@ -25,7 +25,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Reskin\] \[F\] Short Haired by Black Mage](./%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage)
+## [\[Fighter-Reskin\] \[F\] Short Haired by Black Mage](./%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage)
 
 ### Weapons
 
@@ -33,7 +33,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Reskin\] \[M\] Bartre by Jey the Count](./%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count)
+## [\[Fighter-Reskin\] \[M\] Bartre by Jey the Count](./%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count)
 
 ### Weapons
 
@@ -41,7 +41,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Reskin\] \[M\] Dorcas by Jey the Count](./%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count)
+## [\[Fighter-Reskin\] \[M\] Dorcas by Jey the Count](./%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count)
 
 ### Weapons
 
@@ -49,7 +49,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Reskin\] \[M\] Flashy Armored by Waleed](./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed)
+## [\[Fighter-Reskin\] \[M\] Flashy Armored by Waleed](./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed)
 
 ### Weapons
 
@@ -57,7 +57,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Reskin\] \[M\] Flashy Armorless by Waleed](./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed)
+## [\[Fighter-Reskin\] \[M\] Flashy Armorless by Waleed](./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed)
 
 ### Weapons
 
@@ -65,7 +65,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Reskin\] \[M\] Tellius-Style Clothing by Leo_Link](./%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link)
+## [\[Fighter-Reskin\] \[M\] Tellius-Style Clothing by Leo_Link](./%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link)
 
 ### Weapons
 
@@ -73,7 +73,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](./%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only)
+## [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](./%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only)
 
 ### Weapons
 
@@ -81,7 +81,7 @@
 | :---: |
 
 
-## [\[Fighter-Variant\] \[F\] FE9 Variant by Pikmin](./%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin)
+## [\[Fighter-Variant\] \[F\] FE9 Variant by Pikmin](./%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin)
 
 ### Weapons
 
@@ -89,7 +89,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Variant\] \[M\] FE9 Original by MK404](./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404)
+## [\[Fighter-Variant\] \[M\] FE9 Original by MK404](./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404)
 
 ### Weapons
 
@@ -97,7 +97,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Fighter-Variant\] \[M\] FE9 Repal by Glenwing](./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing)
+## [\[Fighter-Variant\] \[M\] FE9 Repal by Glenwing](./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing)
 
 ### Weapons
 
@@ -105,7 +105,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Journeyman-Base\] \[M\] Vanilla +Weapons](./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons)
+## [\[Journeyman-Base\] \[M\] Vanilla +Weapons](./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons)
 
 ### Weapons
 
@@ -114,7 +114,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/4.%20Handaxe%20(Alt)/Handaxe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/4.%20Handaxe%20(Hatchet%20Alt)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Journeyman-Base\] \[M\] Vanilla Repal by SamirPlayz](./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz)
+## [\[Journeyman-Base\] \[M\] Vanilla Repal by SamirPlayz](./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz)
 
 ### Weapons
 
@@ -122,7 +122,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Journeyman-Reskin\] \[F\] Long-Haired by Gav333](./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333)
+## [\[Journeyman-Reskin\] \[F\] Long-Haired by Gav333](./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333)
 
 ### Weapons
 
@@ -130,7 +130,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Journeyman-Type\] \[M\] Waleed's Squire](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire)
+## [\[Journeyman-Type\] \[M\] Waleed's Squire](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire)
 
 ### Weapons
 
@@ -138,7 +138,7 @@
 | :---: | :---: |
 
 
-## [\[Journeyman-Type\] \[M\] Waleed's Squire v2 Repal](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal)
+## [\[Journeyman-Type\] \[M\] Waleed's Squire v2 Repal](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal)
 
 ### Weapons
 
@@ -146,7 +146,7 @@
 | :---: |
 
 
-## [\[Warrior-Base\] \[M\] Repal Leather by Pushwall](./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Leather%20by%20Pushwall/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Leather%20by%20Pushwall)
+## [\[Warrior-Base\] \[M\] Repal Leather by Pushwall](./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Leather%20by%20Pushwall/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Leather%20by%20Pushwall)
 
 ### Weapons
 
@@ -155,7 +155,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Leather%20by%20Pushwall/5.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Leather%20by%20Pushwall/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Base\] \[M\] Repal Vanilla by Helmfried](./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Vanilla%20by%20Helmfried/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Vanilla%20by%20Helmfried)
+## [\[Warrior-Base\] \[M\] Repal Vanilla by Helmfried](./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Vanilla%20by%20Helmfried/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Vanilla%20by%20Helmfried)
 
 ### Weapons
 
@@ -164,7 +164,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Vanilla%20by%20Helmfried/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Base\] \[M\] Vanilla +Magic](./%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20+Magic/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20%2BMagic)
+## [\[Warrior-Base\] \[M\] Vanilla +Magic](./%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20+Magic/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20%2BMagic)
 
 ### Weapons
 
@@ -173,7 +173,7 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20+Magic/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20+Magic/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Base%5D%20%5BM%5D%20Vanilla%20+Magic/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[F\] FEGirls Thin](./%5BWarrior-Reskin%5D%20%5BF%5D%20FEGirls%20Thin/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20FEGirls%20Thin)
+## [\[Warrior-Reskin\] \[F\] FEGirls Thin](./%5BWarrior-Reskin%5D%20%5BF%5D%20FEGirls%20Thin/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20FEGirls%20Thin)
 
 ### Weapons
 
@@ -182,7 +182,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20FEGirls%20Thin/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[F\] Original by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp)
+## [\[Warrior-Reskin\] \[F\] Original by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp)
 
 ### Weapons
 
@@ -191,7 +191,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp)
+## [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp)
 
 ### Weapons
 
@@ -200,7 +200,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[F\] Repal Long Hair by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp)
+## [\[Warrior-Reskin\] \[F\] Repal Long Hair by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp)
 
 ### Weapons
 
@@ -209,7 +209,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[F\] Repal by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp)
+## [\[Warrior-Reskin\] \[F\] Repal by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp)
 
 ### Weapons
 
@@ -218,7 +218,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[M\] Bartre Alt1 by Jey the Count](./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count)
+## [\[Warrior-Reskin\] \[M\] Bartre Alt1 by Jey the Count](./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count)
 
 ### Weapons
 
@@ -227,7 +227,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[M\] Bartre Alt2 by a3d3](./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt2%20by%20a3d3/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt2%20by%20a3d3)
+## [\[Warrior-Reskin\] \[M\] Bartre Alt2 by a3d3](./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt2%20by%20a3d3/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt2%20by%20a3d3)
 
 ### Weapons
 
@@ -236,7 +236,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt2%20by%20a3d3/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[M\] Dorcas by Jey the Count](./%5BWarrior-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count)
+## [\[Warrior-Reskin\] \[M\] Dorcas by Jey the Count](./%5BWarrior-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count)
 
 ### Weapons
 
@@ -245,7 +245,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Variant\] \[M\] Tellius Base](./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Base/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Base)
+## [\[Warrior-Variant\] \[M\] Tellius Base](./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Base/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Base)
 
 ### Weapons
 
@@ -254,7 +254,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Base/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Variant\] \[M\] Tellius Rework](./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework)
+## [\[Warrior-Variant\] \[M\] Tellius Rework](./%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework)
 
 ### Weapons
 

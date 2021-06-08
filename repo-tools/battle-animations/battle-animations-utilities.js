@@ -18,6 +18,10 @@ const getHeading = (depth = 1) => '#'.repeat(depth)
  */
 const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
 
+const DOWNLOAD_BUTTON = "![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)"
+// const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download-red?style=social&logo=github)"
+// const DOWNLOAD_BUTTON = "(download)"
+
 /**
  * Given anim and weapon objects, generates the README text for an anim weapon folder.
  *
@@ -26,8 +30,8 @@ const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
  *
  * @returns {String}
  */
-const makeWeaponReadmeText = (anim, weapon) => (
-	`# [${escapeParens(anim.name)}]
+const makeWeaponReadmeText = ({anim, weapon, path}) => (
+	`# [${escapeParens(anim.name)}](./) [${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})
 
 ## Credit
 
@@ -69,7 +73,7 @@ ${anim.credits}
     let downloadButton = ""
     if(path != undefined) {
         // Shields-safe name: encodeURI(anim.name).replace("-", "--")
-        downloadButton = `[![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})`
+        downloadButton = `[${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})`
     }
 
 	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)} ${downloadButton}

@@ -1,6 +1,6 @@
 # [Monsters - Basic Types Battle Animations](./)
 
-## [\[Centaur-Base\] \[M\] Vanilla FE8 Maelduin](./%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin)
+## [\[Centaur-Base\] \[M\] Vanilla FE8 Maelduin](./%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin)
 
 ### Weapons
 
@@ -9,7 +9,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCentaur-Base%5D%20%5BM%5D%20Vanilla%20FE8%20Maelduin/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Centaur-Reskin\] \[F\] Centaur by Alfred Kamon](./%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon)
+## [\[Centaur-Reskin\] \[F\] Centaur by Alfred Kamon](./%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon)
 
 ### Weapons
 
@@ -17,7 +17,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Centaur-Reskin\] \[M\] High Maelduin by Seal](./%5BCentaur-Reskin%5D%20%5BM%5D%20High%20Maelduin%20by%20Seal/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCentaur-Reskin%5D%20%5BM%5D%20High%20Maelduin%20by%20Seal)
+## [\[Centaur-Reskin\] \[M\] High Maelduin by Seal](./%5BCentaur-Reskin%5D%20%5BM%5D%20High%20Maelduin%20by%20Seal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCentaur-Reskin%5D%20%5BM%5D%20High%20Maelduin%20by%20Seal)
 
 ### Weapons
 
@@ -26,7 +26,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCentaur-Reskin%5D%20%5BM%5D%20High%20Maelduin%20by%20Seal/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Cyclops-Base\] \[U\] Vanilla +Bow](./%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20%2BBow)
+## [\[Cyclops-Base\] \[U\] Vanilla +Bow](./%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20%2BBow)
 
 ### Weapons
 
@@ -35,7 +35,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Gorgon-Base\] \[F\] Vanilla](./%5BGorgon-Base%5D%20%5BF%5D%20Vanilla/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGorgon-Base%5D%20%5BF%5D%20Vanilla)
+## [\[Gorgon-Base\] \[F\] Vanilla](./%5BGorgon-Base%5D%20%5BF%5D%20Vanilla/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGorgon-Base%5D%20%5BF%5D%20Vanilla)
 
 ### Weapons
 
@@ -43,7 +43,7 @@
 | :---: |
 
 
-## [\[Goyle-Base\] \[U\] Vanilla FE8 Deathgoyle](./%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle)
+## [\[Goyle-Base\] \[U\] Vanilla FE8 Deathgoyle](./%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle)
 
 ### Weapons
 
@@ -51,7 +51,7 @@
 | :---: | :---: |
 
 
-## [\[Goyle-Reskin\] \[F\] FE7if Katt - Winged](./%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged)
+## [\[Goyle-Reskin\] \[F\] FE7if Katt - Winged](./%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Reskin%5D%20%5BF%5D%20FE7if%20Katt%20-%20Winged)
 
 ### Weapons
 
@@ -59,7 +59,7 @@
 | :---: |
 
 
-## [\[Goyle-Reskin\] \[U\] Gargoyle Promoted by Teraspark](./%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark)
+## [\[Goyle-Reskin\] \[U\] Gargoyle Promoted by Teraspark](./%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark)
 
 ### Weapons
 
@@ -67,7 +67,7 @@
 | :---: | :---: |
 
 
-## [\[Goyle-Variant\] \[U\] Strigoi by Arkth](./%5BGoyle-Variant%5D%20%5BU%5D%20Strigoi%20by%20Arkth/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Variant%5D%20%5BU%5D%20Strigoi%20by%20Arkth)
+## [\[Goyle-Variant\] \[U\] Strigoi by Arkth](./%5BGoyle-Variant%5D%20%5BU%5D%20Strigoi%20by%20Arkth/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGoyle-Variant%5D%20%5BU%5D%20Strigoi%20by%20Arkth)
 
 ### Weapons
 
@@ -75,7 +75,7 @@
 | :---: | :---: |
 
 
-## [\[Mogall-Base\] \[U\] Vanilla FE8 Arch Mogall](./%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall)
+## [\[Mogall-Base\] \[U\] Vanilla FE8 Arch Mogall](./%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall)
 
 ### Weapons
 
@@ -83,7 +83,7 @@
 | :---: |
 
 
-## [\[Mogall-Reskin\] \[U\] Gazer by Seal](./%5BMogall-Reskin%5D%20%5BU%5D%20Gazer%20by%20Seal/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMogall-Reskin%5D%20%5BU%5D%20Gazer%20by%20Seal)
+## [\[Mogall-Reskin\] \[U\] Gazer by Seal](./%5BMogall-Reskin%5D%20%5BU%5D%20Gazer%20by%20Seal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMogall-Reskin%5D%20%5BU%5D%20Gazer%20by%20Seal)
 
 ### Weapons
 
@@ -91,7 +91,7 @@
 | :---: |
 
 
-## [\[Mogall-Variant\] \[U\] Mogall Rider by Sme](./%5BMogall-Variant%5D%20%5BU%5D%20Mogall%20Rider%20by%20Sme/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMogall-Variant%5D%20%5BU%5D%20Mogall%20Rider%20by%20Sme)
+## [\[Mogall-Variant\] \[U\] Mogall Rider by Sme](./%5BMogall-Variant%5D%20%5BU%5D%20Mogall%20Rider%20by%20Sme/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMogall-Variant%5D%20%5BU%5D%20Mogall%20Rider%20by%20Sme)
 
 ### Weapons
 
@@ -99,7 +99,7 @@
 | :---: | :---: |
 
 
-## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20%2BWeapons)
+## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20%2BWeapons)
 
 ### Weapons
 
@@ -109,7 +109,7 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla Beta](./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20Beta/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20Beta)
+## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla Beta](./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20Beta/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20Beta)
 
 ### Weapons
 
@@ -117,7 +117,7 @@
 | :---: | :---: |
 
 
-## [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20%2BWeapons)
+## [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20%2BWeapons)
 
 ### Weapons
 
@@ -126,7 +126,7 @@
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/3.%20Axe%20(Magic%20Ranged)/Axe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Skeleton-Reskin\] \[U\] Legion by Seal](./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal)
+## [\[Skeleton-Reskin\] \[U\] Legion by Seal](./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal)
 
 ### Weapons
 
@@ -135,7 +135,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/8.%20Unarmed%20(Shield)/Unarmed.gif"/> |
 
 
-## [\[Skeleton-Variant\] \[U\] Cantor Gaiden-Style by Spud](./%5BSkeleton-Variant%5D%20%5BU%5D%20Cantor%20Gaiden-Style%20by%20Spud/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Variant%5D%20%5BU%5D%20Cantor%20Gaiden-Style%20by%20Spud)
+## [\[Skeleton-Variant\] \[U\] Cantor Gaiden-Style by Spud](./%5BSkeleton-Variant%5D%20%5BU%5D%20Cantor%20Gaiden-Style%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Variant%5D%20%5BU%5D%20Cantor%20Gaiden-Style%20by%20Spud)
 
 ### Weapons
 
@@ -143,7 +143,7 @@
 | :---: |
 
 
-## [\[Skeleton-Variant\] \[U\] Skelemonk by JonoTheRed](./%5BSkeleton-Variant%5D%20%5BU%5D%20Skelemonk%20by%20JonoTheRed/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Variant%5D%20%5BU%5D%20Skelemonk%20by%20JonoTheRed)
+## [\[Skeleton-Variant\] \[U\] Skelemonk by JonoTheRed](./%5BSkeleton-Variant%5D%20%5BU%5D%20Skelemonk%20by%20JonoTheRed/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Variant%5D%20%5BU%5D%20Skelemonk%20by%20JonoTheRed)
 
 ### Weapons
 
@@ -151,7 +151,7 @@
 | :---: |
 
 
-## [\[Spider-Base\] \[U\] Elder Bael Repal +Ranged](./%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Repal%20+Ranged/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Repal%20%2BRanged)
+## [\[Spider-Base\] \[U\] Elder Bael Repal +Ranged](./%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Repal%20+Ranged/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Repal%20%2BRanged)
 
 ### Weapons
 
@@ -159,7 +159,7 @@
 | :---: |
 
 
-## [\[Spider-Base\] \[U\] Elder Bael Vanilla](./%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Vanilla/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Vanilla)
+## [\[Spider-Base\] \[U\] Elder Bael Vanilla](./%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Vanilla/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Vanilla)
 
 ### Weapons
 
@@ -167,7 +167,7 @@
 | :---: |
 
 
-## [\[Spider-Base\] \[U\] Vanilla FE8 Bael](./%5BSpider-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Bael/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Bael)
+## [\[Spider-Base\] \[U\] Vanilla FE8 Bael](./%5BSpider-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Bael/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Bael)
 
 ### Weapons
 
@@ -175,7 +175,7 @@
 | :---: |
 
 
-## [\[Spider-Reskin\] \[U\] Bael Queen by Seal](./%5BSpider-Reskin%5D%20%5BU%5D%20Bael%20Queen%20by%20Seal/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Reskin%5D%20%5BU%5D%20Bael%20Queen%20by%20Seal)
+## [\[Spider-Reskin\] \[U\] Bael Queen by Seal](./%5BSpider-Reskin%5D%20%5BU%5D%20Bael%20Queen%20by%20Seal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Reskin%5D%20%5BU%5D%20Bael%20Queen%20by%20Seal)
 
 ### Weapons
 
@@ -183,7 +183,7 @@
 | :---: | :---: |
 
 
-## [\[Spider-Variant\] \[U\] Tarantula Wizard by Shtick](./%5BSpider-Variant%5D%20%5BU%5D%20Tarantula%20Wizard%20by%20Shtick/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Variant%5D%20%5BU%5D%20Tarantula%20Wizard%20by%20Shtick)
+## [\[Spider-Variant\] \[U\] Tarantula Wizard by Shtick](./%5BSpider-Variant%5D%20%5BU%5D%20Tarantula%20Wizard%20by%20Shtick/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSpider-Variant%5D%20%5BU%5D%20Tarantula%20Wizard%20by%20Shtick)
 
 ### Weapons
 
@@ -191,7 +191,7 @@
 | :---: |
 
 
-## [\[Wolf-Base\] \[U\] Gwyllgi Repal by Chhhsfe](./%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Chhhsfe/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Chhhsfe)
+## [\[Wolf-Base\] \[U\] Gwyllgi Repal by Chhhsfe](./%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Chhhsfe/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Chhhsfe)
 
 ### Weapons
 
@@ -199,7 +199,7 @@
 | :---: |
 
 
-## [\[Wolf-Base\] \[U\] Gwyllgi Repal by Teraspark +Ranged](./%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Teraspark%20+Ranged/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Teraspark%20%2BRanged)
+## [\[Wolf-Base\] \[U\] Gwyllgi Repal by Teraspark +Ranged](./%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Teraspark%20+Ranged/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Teraspark%20%2BRanged)
 
 ### Weapons
 
@@ -207,7 +207,7 @@
 | :---: |
 
 
-## [\[Wolf-Base\] \[U\] Gwyllgi Vanilla](./%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Vanilla/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Vanilla)
+## [\[Wolf-Base\] \[U\] Gwyllgi Vanilla](./%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Vanilla/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Vanilla)
 
 ### Weapons
 
@@ -215,7 +215,7 @@
 | :---: |
 
 
-## [\[Wolf-Base\] \[U\] Hellhound Vanilla](./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla)
+## [\[Wolf-Base\] \[U\] Hellhound Vanilla](./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla)
 
 ### Weapons
 
@@ -223,7 +223,7 @@
 | :---: |
 
 
-## [\[Wolf-Base\] \[U\] Hellhound Vanilla Repal by Teraspark +Magic](./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20+Magic/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20%2BMagic)
+## [\[Wolf-Base\] \[U\] Hellhound Vanilla Repal by Teraspark +Magic](./%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20+Magic/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Base%5D%20%5BU%5D%20Hellhound%20Vanilla%20Repal%20by%20Teraspark%20%2BMagic)
 
 ### Weapons
 
@@ -231,7 +231,7 @@
 | :---: |
 
 
-## [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20%2BSM%20Crit)
+## [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20%2BSM%20Crit)
 
 ### Weapons
 
@@ -239,7 +239,7 @@
 | :---: | :---: |
 
 
-## [\[Wolf-Reskin\] \[U\] Winged Vampirehound](./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound)
+## [\[Wolf-Reskin\] \[U\] Winged Vampirehound](./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound)
 
 ### Weapons
 
@@ -247,7 +247,7 @@
 | :---: |
 
 
-## [\[Wolf-Variant\] \[F\] Kitsune Ninetails by ZoramineFae](./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae)
+## [\[Wolf-Variant\] \[F\] Kitsune Ninetails by ZoramineFae](./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae)
 
 ### Weapons
 
@@ -255,7 +255,7 @@
 | :---: |
 
 
-## [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae)
+## [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae)
 
 ### Weapons
 
@@ -263,7 +263,7 @@
 | :---: |
 
 
-## [\[Wolf-Variant\] \[M\] Kitsune Ninetails by ZoramineFae](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Ninetails%20by%20ZoramineFae)
+## [\[Wolf-Variant\] \[M\] Kitsune Ninetails by ZoramineFae](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Ninetails%20by%20ZoramineFae)
 
 ### Weapons
 
@@ -271,7 +271,7 @@
 | :---: |
 
 
-## [\[Wolf-Variant\] \[M\] Kitsune Repal](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Repal/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Repal)
+## [\[Wolf-Variant\] \[M\] Kitsune Repal](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Repal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Repal)
 
 ### Weapons
 
@@ -279,7 +279,7 @@
 | :---: |
 
 
-## [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae)
+## [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae)
 
 ### Weapons
 
@@ -287,7 +287,7 @@
 | :---: |
 
 
-## [\[Wolf-Variant\] \[M\] Wolfskin by Chhhsfe](./%5BWolf-Variant%5D%20%5BM%5D%20Wolfskin%20by%20Chhhsfe/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Wolfskin%20by%20Chhhsfe)
+## [\[Wolf-Variant\] \[M\] Wolfskin by Chhhsfe](./%5BWolf-Variant%5D%20%5BM%5D%20Wolfskin%20by%20Chhhsfe/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BM%5D%20Wolfskin%20by%20Chhhsfe)
 
 ### Weapons
 
@@ -295,7 +295,7 @@
 | :---: |
 
 
-## [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20%2BWings)
+## [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20%2BWings)
 
 ### Weapons
 
@@ -303,7 +303,7 @@
 | :---: | :---: |
 
 
-## [\[Zombie-Base\] \[U\] Revenant Vanilla +Weapons](./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20%2BWeapons)
+## [\[Zombie-Base\] \[U\] Revenant Vanilla +Weapons](./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20%2BWeapons)
 
 ### Weapons
 
@@ -311,7 +311,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Zombie-Base\] \[U\] Revenant Vanilla Beta](./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20Beta/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20Beta)
+## [\[Zombie-Base\] \[U\] Revenant Vanilla Beta](./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20Beta/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20Beta)
 
 ### Weapons
 
@@ -319,7 +319,7 @@
 | :---: | :---: |
 
 
-## [\[Zombie-Base\] \[U\] Vanilla Entombed +Ranged](./%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20%2BRanged)
+## [\[Zombie-Base\] \[U\] Vanilla Entombed +Ranged](./%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20%2BRanged)
 
 ### Weapons
 
@@ -327,7 +327,7 @@
 | :---: | :---: |
 
 
-## [\[Zombie-Variant\] \[U\] Lich by SkidMarc25](./%5BZombie-Variant%5D%20%5BU%5D%20Lich%20by%20SkidMarc25/) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Variant%5D%20%5BU%5D%20Lich%20by%20SkidMarc25)
+## [\[Zombie-Variant\] \[U\] Lich by SkidMarc25](./%5BZombie-Variant%5D%20%5BU%5D%20Lich%20by%20SkidMarc25/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Variant%5D%20%5BU%5D%20Lich%20by%20SkidMarc25)
 
 ### Weapons
 

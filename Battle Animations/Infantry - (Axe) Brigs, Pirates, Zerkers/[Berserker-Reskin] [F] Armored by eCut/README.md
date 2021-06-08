@@ -1,4 +1,4 @@
-# [\[Berserker-Reskin\] \[F\] Armored by eCut](./)
+# [\[Berserker-Reskin\] \[F\] Armored by eCut](./) [![Download](https://img.shields.io/badge/Download-%5BBerserker--Reskin%5D%20%5BF%5D%20Armored%20by%20eCut-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut)
 ## Credits
 
 Made by eCut.

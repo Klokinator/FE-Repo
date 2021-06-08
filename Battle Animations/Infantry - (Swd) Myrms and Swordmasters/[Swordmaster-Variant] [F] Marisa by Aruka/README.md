@@ -1,4 +1,4 @@
-# [\[Swordmaster-Variant\] \[F\] Marisa by Aruka](./)
+# [\[Swordmaster-Variant\] \[F\] Marisa by Aruka](./) [![Download](https://img.shields.io/badge/Download-%5BSwordmaster--Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka)
 ## Credits
 
 Made by Aruka, Kenpuhu. 

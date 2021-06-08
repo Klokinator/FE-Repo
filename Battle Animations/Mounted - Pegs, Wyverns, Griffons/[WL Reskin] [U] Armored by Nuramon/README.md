@@ -1,4 +1,4 @@
-# [\[WL Reskin\] \[U\] Armored by Nuramon](./)
+# [\[WL Reskin\] \[U\] Armored by Nuramon](./) [![Download](https://img.shields.io/badge/Download-%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon)
 ## Credits
 
 Animation by Nuramon.

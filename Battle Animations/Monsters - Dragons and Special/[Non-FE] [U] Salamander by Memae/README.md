@@ -1,4 +1,4 @@
-# [\[Non-FE\] \[U\] Salamander by Memae](./)
+# [\[Non-FE\] \[U\] Salamander by Memae](./) [![Download](https://img.shields.io/badge/Download-%5BNon--FE%5D%20%5BU%5D%20Salamander%20by%20Memae-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BNon-FE%5D%20%5BU%5D%20Salamander%20by%20Memae)
 ## Credits
 
 Made by Memae.

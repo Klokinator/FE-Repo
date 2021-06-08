@@ -1,6 +1,6 @@
 # [Mounted - Cavs, Paladins, Rangers Battle Animations](./)
 
-## [\[Cavalier-Base\] \[F\] Vanilla +Bow](./%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20+Bow/)
+## [\[Cavalier-Base\] \[F\] Vanilla +Bow](./%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20+Bow/) 
 
 ### Weapons
 
@@ -9,7 +9,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Cavalier-Base\] \[M\] Vanilla +Weapons](./%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/)
+## [\[Cavalier-Base\] \[M\] Vanilla +Weapons](./%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/) 
 
 ### Weapons
 
@@ -19,7 +19,7 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Cavalier-Custom\] \[M\] Camel Rider by Orihara Saki](./%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/)
+## [\[Cavalier-Custom\] \[M\] Camel Rider by Orihara Saki](./%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/) 
 
 ### Weapons
 
@@ -27,7 +27,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Cavalier-Reskin\] \[M\] Kent by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/)
+## [\[Cavalier-Reskin\] \[M\] Kent by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/) 
 
 ### Weapons
 
@@ -35,7 +35,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Cavalier-Reskin\] \[M\] Sain by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/)
+## [\[Cavalier-Reskin\] \[M\] Sain by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/) 
 
 ### Weapons
 
@@ -43,7 +43,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](./%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/)
+## [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](./%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/) 
 
 ### Weapons
 
@@ -52,7 +52,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Cavalier-Variant\] \[F\] Twintails by SALVAGED](./%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/)
+## [\[Cavalier-Variant\] \[F\] Twintails by SALVAGED](./%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/) 
 
 ### Weapons
 
@@ -61,7 +61,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Cavalier-Variant\] \[M\] Generic by SALVAGED](./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/)
+## [\[Cavalier-Variant\] \[M\] Generic by SALVAGED](./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/) 
 
 ### Weapons
 
@@ -70,7 +70,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Cavalier-Variant\] \[M\] Generic by SALVAGED v2](./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/)
+## [\[Cavalier-Variant\] \[M\] Generic by SALVAGED v2](./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/) 
 
 ### Weapons
 
@@ -79,7 +79,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED%20v2/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Cavalry-Custom\] Seliph by Obsidian Daddy](./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/)
+## [\[Cavalry-Custom\] Seliph by Obsidian Daddy](./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/) 
 
 ### Weapons
 
@@ -87,7 +87,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/)
+## [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/) 
 
 ### Weapons
 
@@ -95,7 +95,7 @@
 | :---: | :---: |
 
 
-## [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/)
+## [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/) 
 
 ### Weapons
 
@@ -106,7 +106,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/8.%20Unarmed%20(Basic%20Melee%20Attack)/Unarmed.gif"/> | <b>Sound</b><br/><img alt="Sound animation" src="./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/Sound%20Effects/Sound.gif"/> |
 
 
-## [\[GK-Base\] \[U\] Repal by Skitty](./%5BGK-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/)
+## [\[GK-Base\] \[U\] Repal by Skitty](./%5BGK-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/) 
 
 ### Weapons
 
@@ -115,7 +115,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGK-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGK-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[GK-Base\] \[U\] Vanilla +Weapons](./%5BGK-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/)
+## [\[GK-Base\] \[U\] Vanilla +Weapons](./%5BGK-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/) 
 
 ### Weapons
 
@@ -125,7 +125,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGK-Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Grand Paladin\] \[M\] Generic Repal](./%5BGrand%20Paladin%5D%20%5BM%5D%20Generic%20Repal/)
+## [\[Grand Paladin\] \[M\] Generic Repal](./%5BGrand%20Paladin%5D%20%5BM%5D%20Generic%20Repal/) 
 
 ### Weapons
 
@@ -135,7 +135,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGrand%20Paladin%5D%20%5BM%5D%20Generic%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Grand Paladin\] \[M\] Seth v1 by Aruka](./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v1%20by%20Aruka/)
+## [\[Grand Paladin\] \[M\] Seth v1 by Aruka](./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v1%20by%20Aruka/) 
 
 ### Weapons
 
@@ -143,7 +143,7 @@
 | :---: | :---: |
 
 
-## [\[Grand Paladin\] \[M\] Seth v2 by Aruka](./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka/)
+## [\[Grand Paladin\] \[M\] Seth v2 by Aruka](./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka/) 
 
 ### Weapons
 
@@ -153,7 +153,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Great Lord-Custom\] \[F\] Master Knight by St Jack](./%5BGreat%20Lord-Custom%5D%20%5BF%5D%20Master%20Knight%20by%20St%20Jack/)
+## [\[Great Lord-Custom\] \[F\] Master Knight by St Jack](./%5BGreat%20Lord-Custom%5D%20%5BF%5D%20Master%20Knight%20by%20St%20Jack/) 
 
 ### Weapons
 
@@ -163,7 +163,7 @@
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BGreat%20Lord-Custom%5D%20%5BF%5D%20Master%20Knight%20by%20St%20Jack/7.%20Staff/Staff.gif"/> |
 
 
-## [\[Great Lord-Custom\] \[M\] Master Knight by St Jack](./%5BGreat%20Lord-Custom%5D%20%5BM%5D%20Master%20Knight%20by%20St%20Jack/)
+## [\[Great Lord-Custom\] \[M\] Master Knight by St Jack](./%5BGreat%20Lord-Custom%5D%20%5BM%5D%20Master%20Knight%20by%20St%20Jack/) 
 
 ### Weapons
 
@@ -173,7 +173,7 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BGreat%20Lord-Custom%5D%20%5BM%5D%20Master%20Knight%20by%20St%20Jack/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BGreat%20Lord-Custom%5D%20%5BM%5D%20Master%20Knight%20by%20St%20Jack/7.%20Staff/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BGreat%20Lord-Custom%5D%20%5BM%5D%20Master%20Knight%20by%20St%20Jack/7.%20Staff%20(Alt)/Staff.gif"/> |
 
 
-## [\[Nomad Trooper Base\] \[F\] Repal](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/)
+## [\[Nomad Trooper Base\] \[F\] Repal](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/) 
 
 ### Weapons
 
@@ -182,7 +182,7 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Nomad Trooper Base\] \[F\] Vanilla FE6 +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/)
+## [\[Nomad Trooper Base\] \[F\] Vanilla FE6 +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/) 
 
 ### Weapons
 
@@ -190,7 +190,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Base\] \[M\] FE6 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/)
+## [\[Nomad Trooper Base\] \[M\] FE6 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/) 
 
 ### Weapons
 
@@ -198,7 +198,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Base\] \[M\] FE6 Vanilla](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/)
+## [\[Nomad Trooper Base\] \[M\] FE6 Vanilla](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/) 
 
 ### Weapons
 
@@ -206,7 +206,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Base\] \[M\] FE7 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/)
+## [\[Nomad Trooper Base\] \[M\] FE7 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/) 
 
 ### Weapons
 
@@ -214,7 +214,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/)
+## [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/) 
 
 ### Weapons
 
@@ -222,7 +222,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Reskin\] \[F\] Non-Sacaen](./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/)
+## [\[Nomad Trooper Reskin\] \[F\] Non-Sacaen](./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/) 
 
 ### Weapons
 
@@ -230,7 +230,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Reskin\] \[M\] +Hat](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/)
+## [\[Nomad Trooper Reskin\] \[M\] +Hat](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/) 
 
 ### Weapons
 
@@ -238,7 +238,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/)
+## [\[Nomad Trooper Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/) 
 
 ### Weapons
 
@@ -246,7 +246,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad Trooper Reskin\] \[M\] Sacaen Repal](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/)
+## [\[Nomad Trooper Reskin\] \[M\] Sacaen Repal](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/) 
 
 ### Weapons
 
@@ -254,7 +254,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Nomad-Base\] \[F\] Vanilla](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla/)
+## [\[Nomad-Base\] \[F\] Vanilla](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla/) 
 
 ### Weapons
 
@@ -262,7 +262,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Base\] \[F\] Vanilla Repal](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla%20Repal/)
+## [\[Nomad-Base\] \[F\] Vanilla Repal](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla%20Repal/) 
 
 ### Weapons
 
@@ -270,7 +270,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Base\] \[M\] Vanilla](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla/)
+## [\[Nomad-Base\] \[M\] Vanilla](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla/) 
 
 ### Weapons
 
@@ -278,7 +278,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Base\] \[M\] Vanilla Repal](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/)
+## [\[Nomad-Base\] \[M\] Vanilla Repal](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/) 
 
 ### Weapons
 
@@ -286,7 +286,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Long-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Long-Hair/)
+## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Long-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Long-Hair/) 
 
 ### Weapons
 
@@ -294,7 +294,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Short-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Short-Hair/)
+## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Short-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Short-Hair/) 
 
 ### Weapons
 
@@ -302,7 +302,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat/)
+## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat/) 
 
 ### Weapons
 
@@ -310,7 +310,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat Repal](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat%20Repal/)
+## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat Repal](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat%20Repal/) 
 
 ### Weapons
 
@@ -318,7 +318,7 @@
 | :---: | :---: |
 
 
-## [\[Nomad-Reskin\] \[M\] Non-Sacaen by eCut](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut/)
+## [\[Nomad-Reskin\] \[M\] Non-Sacaen by eCut](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut/) 
 
 ### Weapons
 
@@ -326,7 +326,7 @@
 | :---: | :---: |
 
 
-## [\[Paladin-Base\] \[F\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/)
+## [\[Paladin-Base\] \[F\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/) 
 
 ### Weapons
 
@@ -336,7 +336,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Base\] \[M\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/)
+## [\[Paladin-Base\] \[M\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/) 
 
 ### Weapons
 
@@ -346,7 +346,7 @@
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BPaladin-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Custom\] \[M\] Bow Knight by Spud](./%5BPaladin-Custom%5D%20%5BM%5D%20Bow%20Knight%20by%20Spud/)
+## [\[Paladin-Custom\] \[M\] Bow Knight by Spud](./%5BPaladin-Custom%5D%20%5BM%5D%20Bow%20Knight%20by%20Spud/) 
 
 ### Weapons
 
@@ -354,7 +354,7 @@
 | :---: | :---: |
 
 
-## [\[Paladin-Custom\] \[U\] Gold Knight by Nuramon](./%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20by%20Nuramon/)
+## [\[Paladin-Custom\] \[U\] Gold Knight by Nuramon](./%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20by%20Nuramon/) 
 
 ### Weapons
 
@@ -363,7 +363,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Variant\] \[F\] SALVAGED Alt](./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/)
+## [\[Paladin-Variant\] \[F\] SALVAGED Alt](./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/) 
 
 ### Weapons
 
@@ -372,7 +372,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Variant\] \[F\] SALVAGED Base](./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base/)
+## [\[Paladin-Variant\] \[F\] SALVAGED Base](./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base/) 
 
 ### Weapons
 
@@ -382,7 +382,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Variant\] \[M\] Kent by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/)
+## [\[Paladin-Variant\] \[M\] Kent by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/) 
 
 ### Weapons
 
@@ -391,7 +391,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20+Weapons/)
+## [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20+Weapons/) 
 
 ### Weapons
 
@@ -401,7 +401,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Variant\] \[M\] SALVAGED Repal](./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/)
+## [\[Paladin-Variant\] \[M\] SALVAGED Repal](./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/) 
 
 ### Weapons
 
@@ -410,7 +410,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/8.%20Unarmed/Unarmed.gif"/> | <b>Palettes</b><br/><img alt="Palettes animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/Palettes/Palettes.gif"/> |
 
 
-## [\[Paladin-Variant\] \[M\] Sain by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/)
+## [\[Paladin-Variant\] \[M\] Sain by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/) 
 
 ### Weapons
 
@@ -419,7 +419,7 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Ranger-Base\] \[F\] Vanilla](./%5BRanger-Base%5D%20%5BF%5D%20Vanilla/)
+## [\[Ranger-Base\] \[F\] Vanilla](./%5BRanger-Base%5D%20%5BF%5D%20Vanilla/) 
 
 ### Weapons
 
@@ -428,7 +428,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Base%5D%20%5BF%5D%20Vanilla/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Ranger-Base\] \[M\] Vanilla +Lance](./%5BRanger-Base%5D%20%5BM%5D%20Vanilla%20+Lance/)
+## [\[Ranger-Base\] \[M\] Vanilla +Lance](./%5BRanger-Base%5D%20%5BM%5D%20Vanilla%20+Lance/) 
 
 ### Weapons
 
@@ -437,7 +437,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Base%5D%20%5BM%5D%20Vanilla%20+Lance/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Ranger-Custom\] \[F\] Bernadetta by Redbean](./%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/)
+## [\[Ranger-Custom\] \[F\] Bernadetta by Redbean](./%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/) 
 
 ### Weapons
 
@@ -446,7 +446,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Ranger-Reskin\] \[F\] Rebecca by Teraspark](./%5BRanger-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Teraspark/)
+## [\[Ranger-Reskin\] \[F\] Rebecca by Teraspark](./%5BRanger-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Teraspark/) 
 
 ### Weapons
 
@@ -454,7 +454,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Ranger-Reskin\] \[F\] Twintails by GoofyfanG56](./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/)
+## [\[Ranger-Reskin\] \[F\] Twintails by GoofyfanG56](./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/) 
 
 ### Weapons
 
@@ -462,7 +462,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Ranger-Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/)
+## [\[Ranger-Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/) 
 
 ### Weapons
 
@@ -470,7 +470,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Ranger-Style\] \[F\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BF%5D%20Bowmaster%20by%20JeyTheCount/)
+## [\[Ranger-Style\] \[F\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BF%5D%20Bowmaster%20by%20JeyTheCount/) 
 
 ### Weapons
 
@@ -478,7 +478,7 @@
 | :---: | :---: |
 
 
-## [\[Ranger-Style\] \[M\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BM%5D%20Bowmaster%20by%20JeyTheCount/)
+## [\[Ranger-Style\] \[M\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BM%5D%20Bowmaster%20by%20JeyTheCount/) 
 
 ### Weapons
 
@@ -486,7 +486,7 @@
 | :---: | :---: |
 
 
-## [\[Ranger-Variant\] \[M\] Sword-locked by Aruka](./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/)
+## [\[Ranger-Variant\] \[M\] Sword-locked by Aruka](./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/) 
 
 ### Weapons
 

@@ -1,4 +1,4 @@
-# [\[Centaur-Reskin\] \[F\] Centaur by Alfred Kamon](./)
+# [\[Centaur-Reskin\] \[F\] Centaur by Alfred Kamon](./) [![Download](https://img.shields.io/badge/Download-%5BCentaur--Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon)
 ## Credits
 
 Base Sword by Alfred Kamon. 

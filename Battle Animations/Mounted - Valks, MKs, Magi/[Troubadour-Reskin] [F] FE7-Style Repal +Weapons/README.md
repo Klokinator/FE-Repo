@@ -1,4 +1,4 @@
-# [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](./)
+# [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](./) [![Download](https://img.shields.io/badge/Download-%5BTroubadour--Reskin%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons)
 ## Credits
 
 Pikmin1211, Maiser6, Lisandra_Brave, TBA

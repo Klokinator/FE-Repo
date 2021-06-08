@@ -1,4 +1,4 @@
-# [\[Peg T1 Base\] \[F\] Vanilla +Weapons Repal](./)
+# [\[Peg T1 Base\] \[F\] Vanilla +Weapons Repal](./) [![Download](https://img.shields.io/badge/Download-%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons%20Repal-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons%20Repal)
 ## Credits
 
 Repalette by OreoStyx.

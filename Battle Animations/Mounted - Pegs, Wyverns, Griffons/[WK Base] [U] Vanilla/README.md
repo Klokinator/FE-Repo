@@ -1,4 +1,4 @@
-# [\[WK Base\] \[U\] Vanilla](./)
+# [\[WK Base\] \[U\] Vanilla](./) [![Download](https://img.shields.io/badge/Download-%5BWK%20Base%5D%20%5BU%5D%20Vanilla-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Vanilla)
 ## Credits
 
 Vanilla animation by IS.

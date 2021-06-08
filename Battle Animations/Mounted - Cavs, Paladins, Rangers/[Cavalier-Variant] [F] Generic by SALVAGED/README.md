@@ -1,4 +1,4 @@
-# [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](./)
+# [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](./) [![Download](https://img.shields.io/badge/Download-%5BCavalier--Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED)
 ## Credits
 
 Cavalier custom by SALVAGED.

@@ -1,4 +1,4 @@
-# [\[WK Custom\] \[M\] Malig Knight v1 +Lance](./)
+# [\[WK Custom\] \[M\] Malig Knight v1 +Lance](./) [![Download](https://img.shields.io/badge/Download-%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance)
 ## Credits
 
 Animation by Pikmin1211, Jj09, 7743.

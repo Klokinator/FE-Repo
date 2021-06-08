@@ -1,4 +1,4 @@
-# [\[Sword Custom\] \[M\] Ninja by Pikmin and Der](./)
+# [\[Sword Custom\] \[M\] Ninja by Pikmin and Der](./) [![Download](https://img.shields.io/badge/Download-%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der)
 ## Credits
 
 Design by Pikmin1211

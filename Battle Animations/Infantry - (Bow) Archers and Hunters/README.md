@@ -1,6 +1,6 @@
 # [Infantry - (Bow) Archers and Hunters Battle Animations](./)
 
-## [\[Archer-Base\] \[F\] Repal by Der](./%5BArcher-Base%5D%20%5BF%5D%20Repal%20by%20Der/)
+## [\[Archer-Base\] \[F\] Repal by Der](./%5BArcher-Base%5D%20%5BF%5D%20Repal%20by%20Der/) 
 
 ### Weapons
 
@@ -8,7 +8,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Base\] \[F\] Vanilla FE6 Alt1](./%5BArcher-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Alt1/)
+## [\[Archer-Base\] \[F\] Vanilla FE6 Alt1](./%5BArcher-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Alt1/) 
 
 ### Weapons
 
@@ -16,7 +16,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Base\] \[F\] Vanilla FE6 Alt2](./%5BArcher-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Alt2/)
+## [\[Archer-Base\] \[F\] Vanilla FE6 Alt2](./%5BArcher-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Alt2/) 
 
 ### Weapons
 
@@ -24,7 +24,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Base\] \[F\] Vanilla FE7 Rebecca](./%5BArcher-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca/)
+## [\[Archer-Base\] \[F\] Vanilla FE7 Rebecca](./%5BArcher-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca/) 
 
 ### Weapons
 
@@ -32,7 +32,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Base\] \[M\] Vanilla FE6](./%5BArcher-Base%5D%20%5BM%5D%20Vanilla%20FE6/)
+## [\[Archer-Base\] \[M\] Vanilla FE6](./%5BArcher-Base%5D%20%5BM%5D%20Vanilla%20FE6/) 
 
 ### Weapons
 
@@ -40,7 +40,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Base\] \[M\] Vanilla FE7](./%5BArcher-Base%5D%20%5BM%5D%20Vanilla%20FE7/)
+## [\[Archer-Base\] \[M\] Vanilla FE7](./%5BArcher-Base%5D%20%5BM%5D%20Vanilla%20FE7/) 
 
 ### Weapons
 
@@ -48,7 +48,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Der's Forrest-Like](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Forrest-Like/)
+## [\[Archer-Reskin\] \[F\] Der's Forrest-Like](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Forrest-Like/) 
 
 ### Weapons
 
@@ -56,7 +56,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Der's Headband](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Headband/)
+## [\[Archer-Reskin\] \[F\] Der's Headband](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Headband/) 
 
 ### Weapons
 
@@ -64,7 +64,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Der's Long Hair](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Long%20Hair/)
+## [\[Archer-Reskin\] \[F\] Der's Long Hair](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Long%20Hair/) 
 
 ### Weapons
 
@@ -72,7 +72,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Der's Ponytail](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Ponytail/)
+## [\[Archer-Reskin\] \[F\] Der's Ponytail](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Ponytail/) 
 
 ### Weapons
 
@@ -80,7 +80,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Der's Rebecca](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Rebecca/)
+## [\[Archer-Reskin\] \[F\] Der's Rebecca](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Rebecca/) 
 
 ### Weapons
 
@@ -88,7 +88,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Der's Short Hair](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Short%20Hair/)
+## [\[Archer-Reskin\] \[F\] Der's Short Hair](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Short%20Hair/) 
 
 ### Weapons
 
@@ -96,7 +96,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Der's Twintails](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Twintails/)
+## [\[Archer-Reskin\] \[F\] Der's Twintails](./%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Twintails/) 
 
 ### Weapons
 
@@ -104,7 +104,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Joshua Hat by SD9K](./%5BArcher-Reskin%5D%20%5BF%5D%20Joshua%20Hat%20by%20SD9K/)
+## [\[Archer-Reskin\] \[F\] Joshua Hat by SD9K](./%5BArcher-Reskin%5D%20%5BF%5D%20Joshua%20Hat%20by%20SD9K/) 
 
 ### Weapons
 
@@ -112,7 +112,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Lynbecca by Jeorge_Reds](./%5BArcher-Reskin%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds/)
+## [\[Archer-Reskin\] \[F\] Lynbecca by Jeorge_Reds](./%5BArcher-Reskin%5D%20%5BF%5D%20Lynbecca%20by%20Jeorge_Reds/) 
 
 ### Weapons
 
@@ -120,7 +120,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[F\] Neimi by Feaw](./%5BArcher-Reskin%5D%20%5BF%5D%20Neimi%20by%20Feaw/)
+## [\[Archer-Reskin\] \[F\] Neimi by Feaw](./%5BArcher-Reskin%5D%20%5BF%5D%20Neimi%20by%20Feaw/) 
 
 ### Weapons
 
@@ -128,7 +128,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Caped Variant by Yangfly](./%5BArcher-Reskin%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly/)
+## [\[Archer-Reskin\] \[M\] Caped Variant by Yangfly](./%5BArcher-Reskin%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly/) 
 
 ### Weapons
 
@@ -136,7 +136,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Bandana A](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20A/)
+## [\[Archer-Reskin\] \[M\] Der's Bandana A](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20A/) 
 
 ### Weapons
 
@@ -144,7 +144,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Bandana B](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20B/)
+## [\[Archer-Reskin\] \[M\] Der's Bandana B](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20B/) 
 
 ### Weapons
 
@@ -152,7 +152,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Bandana C](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C/)
+## [\[Archer-Reskin\] \[M\] Der's Bandana C](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C/) 
 
 ### Weapons
 
@@ -160,7 +160,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Headband](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Headband/)
+## [\[Archer-Reskin\] \[M\] Der's Headband](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Headband/) 
 
 ### Weapons
 
@@ -168,7 +168,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Normal Hair](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Normal%20Hair/)
+## [\[Archer-Reskin\] \[M\] Der's Normal Hair](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Normal%20Hair/) 
 
 ### Weapons
 
@@ -176,7 +176,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Ponytail](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Ponytail/)
+## [\[Archer-Reskin\] \[M\] Der's Ponytail](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Ponytail/) 
 
 ### Weapons
 
@@ -184,7 +184,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Wil](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Wil/)
+## [\[Archer-Reskin\] \[M\] Der's Wil](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Wil/) 
 
 ### Weapons
 
@@ -192,7 +192,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] Der's Wolt](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Wolt/)
+## [\[Archer-Reskin\] \[M\] Der's Wolt](./%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Wolt/) 
 
 ### Weapons
 
@@ -200,7 +200,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Reskin\] \[M\] FE5-Style by Pushwall](./%5BArcher-Reskin%5D%20%5BM%5D%20FE5-Style%20by%20Pushwall/)
+## [\[Archer-Reskin\] \[M\] FE5-Style by Pushwall](./%5BArcher-Reskin%5D%20%5BM%5D%20FE5-Style%20by%20Pushwall/) 
 
 ### Weapons
 
@@ -208,7 +208,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Variant\] \[F\] Der's Improved](./%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/)
+## [\[Archer-Variant\] \[F\] Der's Improved](./%5BArcher-Variant%5D%20%5BF%5D%20Der's%20Improved/) 
 
 ### Weapons
 
@@ -216,7 +216,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Variant\] \[F\] Fate - Euryale by ZoramineFae](./%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/)
+## [\[Archer-Variant\] \[F\] Fate - Euryale by ZoramineFae](./%5BArcher-Variant%5D%20%5BF%5D%20Fate%20-%20Euryale%20by%20ZoramineFae/) 
 
 ### Weapons
 
@@ -224,7 +224,7 @@
 | :---: |
 
 
-## [\[Archer-Variant\] \[M\] Der's Improved](./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/)
+## [\[Archer-Variant\] \[M\] Der's Improved](./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved/) 
 
 ### Weapons
 
@@ -232,7 +232,7 @@
 | :---: | :---: |
 
 
-## [\[Archer-Variant\] \[M\] Der's Improved Repal](./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/)
+## [\[Archer-Variant\] \[M\] Der's Improved Repal](./%5BArcher-Variant%5D%20%5BM%5D%20Der's%20Improved%20Repal/) 
 
 ### Weapons
 
@@ -240,7 +240,7 @@
 | :---: | :---: |
 
 
-## [\[HunterD\] \[F\] Hunter by Deranger](./%5BHunterD%5D%20%5BF%5D%20Hunter%20by%20Deranger/)
+## [\[HunterD\] \[F\] Hunter by Deranger](./%5BHunterD%5D%20%5BF%5D%20Hunter%20by%20Deranger/) 
 
 ### Weapons
 
@@ -248,7 +248,7 @@
 | :---: | :---: |
 
 
-## [\[HunterD\] \[M\] Hunter by Deranger](./%5BHunterD%5D%20%5BM%5D%20Hunter%20by%20Deranger/)
+## [\[HunterD\] \[M\] Hunter by Deranger](./%5BHunterD%5D%20%5BM%5D%20Hunter%20by%20Deranger/) 
 
 ### Weapons
 
@@ -256,7 +256,7 @@
 | :---: | :---: |
 
 
-## [\[HunterM\] \[F\] Hunter by MeatOfJustice](./%5BHunterM%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/)
+## [\[HunterM\] \[F\] Hunter by MeatOfJustice](./%5BHunterM%5D%20%5BF%5D%20Hunter%20by%20MeatOfJustice/) 
 
 ### Weapons
 
@@ -264,7 +264,7 @@
 | :---: | :---: |
 
 
-## [\[HunterM\] \[M\] Hunter by MeatOfJustice](./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/)
+## [\[HunterM\] \[M\] Hunter by MeatOfJustice](./%5BHunterM%5D%20%5BM%5D%20Hunter%20by%20MeatOfJustice/) 
 
 ### Weapons
 

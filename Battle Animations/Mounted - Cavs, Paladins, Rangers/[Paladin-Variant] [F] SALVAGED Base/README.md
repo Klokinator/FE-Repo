@@ -1,4 +1,4 @@
-# [\[Paladin-Variant\] \[F\] SALVAGED Base](./)
+# [\[Paladin-Variant\] \[F\] SALVAGED Base](./) [![Download](https://img.shields.io/badge/Download-%5BPaladin--Variant%5D%20%5BF%5D%20SALVAGED%20Base-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base)
 ## Credits
 
 Team SALVAGED, HGS, Levin64, RJ_Exists, Obsidian_Daddy

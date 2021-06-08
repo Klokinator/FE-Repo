@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS](./)
+# [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS](./) [![Download](https://img.shields.io/badge/Download-%5BBerserker--Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS)
 ## Credits
 
 Side-slashing Dozlazerker variant originally made by Aruka and Kenpuhu.

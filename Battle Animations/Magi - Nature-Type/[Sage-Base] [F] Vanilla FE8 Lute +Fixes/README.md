@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](./)
+# [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes)
 ## Credits
 
 Vanilla animation by IS.

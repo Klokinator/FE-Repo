@@ -1,4 +1,4 @@
-# [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](./)
+# [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](./) [![Download](https://img.shields.io/badge/Download-%5BWolf--Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit)
 ## Credits
 
 Made by Pikmin1211.

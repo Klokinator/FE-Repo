@@ -1,4 +1,4 @@
-# [\[Sage-Variant\] \[F\] Battle Sage +Sword by St jack](./)
+# [\[Sage-Variant\] \[F\] Battle Sage +Sword by St jack](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Variant%5D%20%5BF%5D%20Battle%20Sage%20+Sword%20by%20St%20jack-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BF%5D%20Battle%20Sage%20+Sword%20by%20St%20jack)
 ## Credits
 
 

@@ -1,4 +1,4 @@
-# [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./)
+# [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./) [![Download](https://img.shields.io/badge/Download-%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord)
 ## Credits
 
 Original Dragoon by Mercenary Lord.

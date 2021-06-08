@@ -1,4 +1,4 @@
-# [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](./)
+# [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](./) [![Download](https://img.shields.io/badge/Download-%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr)
 ## Credits
 
 Hi! Ayr here. You probably don't know me, but I made this animation for use in the romhack Staff Of Ages.

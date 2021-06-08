@@ -1,4 +1,4 @@
-# [\[Assassin-Reskin\] \[F\] Full Shirt \(Bow Only\)](./)
+# [\[Assassin-Reskin\] \[F\] Full Shirt \(Bow Only\)](./) [![Download](https://img.shields.io/badge/Download-%5BAssassin--Reskin%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only)-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only))
 ## Credits
 
 Animation by beccarte, WarPath, Keks_Krebs, SD9K.

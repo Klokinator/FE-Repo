@@ -1,4 +1,4 @@
-# [\[Goyle-Reskin\] \[U\] Gargoyle Promoted by Teraspark](./)
+# [\[Goyle-Reskin\] \[U\] Gargoyle Promoted by Teraspark](./) [![Download](https://img.shields.io/badge/Download-%5BGoyle--Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGoyle-Reskin%5D%20%5BU%5D%20Gargoyle%20Promoted%20by%20Teraspark)
 ## Credits
 
 Made by Teraspark, L95.

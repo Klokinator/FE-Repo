@@ -1,4 +1,4 @@
-# [\[Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](./)
+# [\[Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](./) [![Download](https://img.shields.io/badge/Download-%5BHector--Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE6,%20FE7%20Types/%5BHector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20+Sword%20by%20Eldritch)
 ## Credits
 
 Made by Eldritch Abomination.

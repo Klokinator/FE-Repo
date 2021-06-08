@@ -1,4 +1,4 @@
-# [\[Non-FE\] \[F\] Yggdra Yuril Artwaltz by Aruka](./)
+# [\[Non-FE\] \[F\] Yggdra Yuril Artwaltz by Aruka](./) [![Download](https://img.shields.io/badge/Download-%5BNon--FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka)
 ## Credits
 
 Made by Aruka, Kenpuhu.

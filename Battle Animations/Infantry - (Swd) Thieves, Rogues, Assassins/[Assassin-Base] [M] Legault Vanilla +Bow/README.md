@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](./)
+# [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](./) [![Download](https://img.shields.io/badge/Download-%5BAssassin--Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow)
 ## Credits
 
 Base animation by IS.

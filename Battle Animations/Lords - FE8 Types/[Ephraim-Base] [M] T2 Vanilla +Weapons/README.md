@@ -1,4 +1,4 @@
-# [\[Ephraim-Base\] \[M\] T2 Vanilla +Weapons](./)
+# [\[Ephraim-Base\] \[M\] T2 Vanilla +Weapons](./) [![Download](https://img.shields.io/badge/Download-%5BEphraim--Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE8%20Types/%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons)
 ## Credits
 
 Vanilla animation by IS.

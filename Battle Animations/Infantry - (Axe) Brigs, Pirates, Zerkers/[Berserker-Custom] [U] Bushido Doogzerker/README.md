@@ -1,4 +1,4 @@
-# [\[Berserker-Custom\] \[U\] Bushido Doogzerker](./)
+# [\[Berserker-Custom\] \[U\] Bushido Doogzerker](./) [![Download](https://img.shields.io/badge/Download-%5BBerserker--Custom%5D%20%5BU%5D%20Bushido%20Doogzerker-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Custom%5D%20%5BU%5D%20Bushido%20Doogzerker)
 ## Credits
 
 Base animation taken from the Bushido Swordzerker by Intestine.

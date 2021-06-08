@@ -1,4 +1,4 @@
-# [\[Swordmaster-Reskin\] \[F\] Red Hair Short by Russel Clark](./)
+# [\[Swordmaster-Reskin\] \[F\] Red Hair Short by Russel Clark](./) [![Download](https://img.shields.io/badge/Download-%5BSwordmaster--Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark)
 ## Credits
 
 Animation by Russell Clark.

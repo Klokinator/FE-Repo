@@ -1,4 +1,4 @@
-# [\[Cleric-Reskin\] \[F\] Long Hair by Yangfly](./)
+# [\[Cleric-Reskin\] \[F\] Long Hair by Yangfly](./) [![Download](https://img.shields.io/badge/Download-%5BCleric--Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20Yangfly-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20Yangfly)
 ## Credits
 
 Made by Yangfly Master.

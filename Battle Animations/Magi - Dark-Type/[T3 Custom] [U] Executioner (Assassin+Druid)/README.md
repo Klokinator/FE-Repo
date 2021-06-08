@@ -1,4 +1,4 @@
-# [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](./)
+# [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](./) [![Download](https://img.shields.io/badge/Download-%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid))
 ## Credits
 
 Credit: Huichelaar, Konami

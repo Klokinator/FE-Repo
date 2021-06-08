@@ -1,4 +1,4 @@
-# [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](./)
+# [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](./) [![Download](https://img.shields.io/badge/Download-%5BWolf--Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings)
 ## Credits
 
 Winged SM crit by Watching Dog.

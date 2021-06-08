@@ -1,4 +1,4 @@
-# [\[Warrior-Reskin\] \[M\] Dorcas by Jey the Count](./)
+# [\[Warrior-Reskin\] \[M\] Dorcas by Jey the Count](./) [![Download](https://img.shields.io/badge/Download-%5BWarrior--Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count)
 ## Credits
 
 Base Warrior animation by IS. 

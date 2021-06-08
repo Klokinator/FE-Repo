@@ -1,4 +1,4 @@
-# [\[Hero-Reskin\] \[F\] Generic +Blue Shield](./)
+# [\[Hero-Reskin\] \[F\] Generic +Blue Shield](./) [![Download](https://img.shields.io/badge/Download-%5BHero--Reskin%5D%20%5BF%5D%20Generic%20+Blue%20Shield-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BF%5D%20Generic%20+Blue%20Shield)
 ## Credits
 
 IS, Pikmin1211, Pushwall, St jack

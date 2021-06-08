@@ -116,7 +116,10 @@ const searchAnimations = async () => {
 			})).then(weapons => {
 				anim.weapons = weapons
 
-				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText(anim))
+				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText({
+					"anim": anim,
+					"path": `Battle Animations/${categoryDir}/${animDir}`,
+				}))
 
 				return anim
 			})

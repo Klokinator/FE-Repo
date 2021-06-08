@@ -1,4 +1,4 @@
-# [\[Sage-Reskin\] \[M\] Erk by Greentea](./)
+# [\[Sage-Reskin\] \[M\] Erk by Greentea](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Reskin%5D%20%5BM%5D%20Erk%20by%20Greentea-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Erk%20by%20Greentea)
 ## Credits
 
 Animation by Greentea.

@@ -1,4 +1,4 @@
-# [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./)
+# [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./) [![Download](https://img.shields.io/badge/Download-%5BBerserker--Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6)
 ## Credits
 
 Design by Pikmin1211

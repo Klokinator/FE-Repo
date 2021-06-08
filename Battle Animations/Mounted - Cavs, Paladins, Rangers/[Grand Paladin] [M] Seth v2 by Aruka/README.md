@@ -1,4 +1,4 @@
-# [\[Grand Paladin\] \[M\] Seth v2 by Aruka](./)
+# [\[Grand Paladin\] \[M\] Seth v2 by Aruka](./) [![Download](https://img.shields.io/badge/Download-%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka)
 ## Credits
 
 Magic Crit Sword by blood.

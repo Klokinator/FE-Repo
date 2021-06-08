@@ -1,4 +1,4 @@
-# [\[Warrior-Reskin\] \[F\] Original by Temp](./)
+# [\[Warrior-Reskin\] \[F\] Original by Temp](./) [![Download](https://img.shields.io/badge/Download-%5BWarrior--Reskin%5D%20%5BF%5D%20Original%20by%20Temp-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp)
 ## Credits
 
 Base Warrior by IS.

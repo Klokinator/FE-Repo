@@ -1,4 +1,4 @@
-# [\[T3.1 Bishop\] \[M\] Patriarch by MrNight48](./)
+# [\[T3.1 Bishop\] \[M\] Patriarch by MrNight48](./) [![Download](https://img.shields.io/badge/Download-%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48)
 ## Credits
 
 Made by MrNight48.

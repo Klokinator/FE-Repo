@@ -1,6 +1,6 @@
 # [Mounted - Valks, MKs, Magi Battle Animations](./)
 
-## [\[Dark Knight\] \[F\] Mageknight-Style by Teraspark](./%5BDark%20Knight%5D%20%5BF%5D%20Mageknight-Style%20by%20Teraspark/)
+## [\[Dark Knight\] \[F\] Mageknight-Style by Teraspark](./%5BDark%20Knight%5D%20%5BF%5D%20Mageknight-Style%20by%20Teraspark/) 
 
 ### Weapons
 
@@ -8,7 +8,7 @@
 | :---: | :---: |
 
 
-## [\[Dark Knight\] \[M\] Mageknight-Style by Teraspark](./%5BDark%20Knight%5D%20%5BM%5D%20Mageknight-Style%20by%20Teraspark/)
+## [\[Dark Knight\] \[M\] Mageknight-Style by Teraspark](./%5BDark%20Knight%5D%20%5BM%5D%20Mageknight-Style%20by%20Teraspark/) 
 
 ### Weapons
 
@@ -16,7 +16,7 @@
 | :---: | :---: |
 
 
-## [\[Dark Knight\] \[U\] Great Knight-Style by Primefusion](./%5BDark%20Knight%5D%20%5BU%5D%20Great%20Knight-Style%20by%20Primefusion/)
+## [\[Dark Knight\] \[U\] Great Knight-Style by Primefusion](./%5BDark%20Knight%5D%20%5BU%5D%20Great%20Knight-Style%20by%20Primefusion/) 
 
 ### Weapons
 
@@ -24,7 +24,7 @@
 | :---: | :---: |
 
 
-## [\[Dark-Knight\] \[F\] Ranger-Style 3DS Updated](./%5BDark-Knight%5D%20%5BF%5D%20Ranger-Style%203DS%20Updated/)
+## [\[Dark-Knight\] \[F\] Ranger-Style 3DS Updated](./%5BDark-Knight%5D%20%5BF%5D%20Ranger-Style%203DS%20Updated/) 
 
 ### Weapons
 
@@ -32,7 +32,7 @@
 | :---: | :---: |
 
 
-## [\[Dark-Knight\] \[M\] Ranger-Style Updated](./%5BDark-Knight%5D%20%5BM%5D%20Ranger-Style%20Updated/)
+## [\[Dark-Knight\] \[M\] Ranger-Style Updated](./%5BDark-Knight%5D%20%5BM%5D%20Ranger-Style%20Updated/) 
 
 ### Weapons
 
@@ -40,7 +40,7 @@
 | :---: | :---: |
 
 
-## [\[Dark-Knight\] \[U\] Ranger-Style Hooded](./%5BDark-Knight%5D%20%5BU%5D%20Ranger-Style%20Hooded/)
+## [\[Dark-Knight\] \[U\] Ranger-Style Hooded](./%5BDark-Knight%5D%20%5BU%5D%20Ranger-Style%20Hooded/) 
 
 ### Weapons
 
@@ -48,7 +48,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Dark-Knight\] \[U\] Ranger-Style Original](./%5BDark-Knight%5D%20%5BU%5D%20Ranger-Style%20Original/)
+## [\[Dark-Knight\] \[U\] Ranger-Style Original](./%5BDark-Knight%5D%20%5BU%5D%20Ranger-Style%20Original/) 
 
 ### Weapons
 
@@ -56,7 +56,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[MK-Base\] \[F\] Vanilla +Weapons](./%5BMK-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/)
+## [\[MK-Base\] \[F\] Vanilla +Weapons](./%5BMK-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/) 
 
 ### Weapons
 
@@ -65,7 +65,7 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sword)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMK-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> |
 
 
-## [\[MK-Base\] \[M\] Repal by BatimaTheBat](./%5BMK-Base%5D%20%5BM%5D%20Repal%20by%20BatimaTheBat/)
+## [\[MK-Base\] \[M\] Repal by BatimaTheBat](./%5BMK-Base%5D%20%5BM%5D%20Repal%20by%20BatimaTheBat/) 
 
 ### Weapons
 
@@ -73,7 +73,7 @@
 | :---: | :---: |
 
 
-## [\[MK-Base\] \[M\] Vanilla +Weapons](./%5BMK-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/)
+## [\[MK-Base\] \[M\] Vanilla +Weapons](./%5BMK-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/) 
 
 ### Weapons
 
@@ -82,7 +82,7 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/6.%20Magic%20(+FE7%20Compatible)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sword)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMK-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> |
 
 
-## [\[MK-Reskin\] \[F\] Long Hair Repal by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20BatimaTheBat/)
+## [\[MK-Reskin\] \[F\] Long Hair Repal by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20BatimaTheBat/) 
 
 ### Weapons
 
@@ -90,7 +90,7 @@
 | :---: | :---: |
 
 
-## [\[MK-Reskin\] \[F\] Ponytail by Venno](./%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/)
+## [\[MK-Reskin\] \[F\] Ponytail by Venno](./%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/) 
 
 ### Weapons
 
@@ -98,7 +98,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/)
+## [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/) 
 
 ### Weapons
 
@@ -106,7 +106,7 @@
 | :---: | :---: |
 
 
-## [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/)
+## [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/) 
 
 ### Weapons
 
@@ -114,7 +114,7 @@
 | :---: | :---: |
 
 
-## [\[MK-Variant\] \[F\] Holy Knight by Teraspark](./%5BMK-Variant%5D%20%5BF%5D%20Holy%20Knight%20by%20Teraspark/)
+## [\[MK-Variant\] \[F\] Holy Knight by Teraspark](./%5BMK-Variant%5D%20%5BF%5D%20Holy%20Knight%20by%20Teraspark/) 
 
 ### Weapons
 
@@ -122,7 +122,7 @@
 | :---: | :---: |
 
 
-## [\[Troubadour-Base\] \[F\] Repal +Sword by Teraspark](./%5BTroubadour-Base%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark/)
+## [\[Troubadour-Base\] \[F\] Repal +Sword by Teraspark](./%5BTroubadour-Base%5D%20%5BF%5D%20Repal%20+Sword%20by%20Teraspark/) 
 
 ### Weapons
 
@@ -130,7 +130,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Troubadour-Base\] \[F\] Vanilla FE7 +Swords by TBA](./%5BTroubadour-Base%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA/)
+## [\[Troubadour-Base\] \[F\] Vanilla FE7 +Swords by TBA](./%5BTroubadour-Base%5D%20%5BF%5D%20Vanilla%20FE7%20+Swords%20by%20TBA/) 
 
 ### Weapons
 
@@ -138,7 +138,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Troubadour-Base\] \[F\] Vanilla Ponytail +Magic](./%5BTroubadour-Base%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/)
+## [\[Troubadour-Base\] \[F\] Vanilla Ponytail +Magic](./%5BTroubadour-Base%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/) 
 
 ### Weapons
 
@@ -147,7 +147,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Base%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](./%5BTroubadour-Reskin%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/)
+## [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](./%5BTroubadour-Reskin%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/) 
 
 ### Weapons
 
@@ -156,7 +156,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/)
+## [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/) 
 
 ### Weapons
 
@@ -164,7 +164,7 @@
 | :---: | :---: |
 
 
-## [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/)
+## [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/) 
 
 ### Weapons
 
@@ -172,7 +172,7 @@
 | :---: | :---: |
 
 
-## [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/)
+## [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/) 
 
 ### Weapons
 
@@ -180,7 +180,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Troubadour-Reskin\] \[F\] Ponytail Repal +Weapons](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/)
+## [\[Troubadour-Reskin\] \[F\] Ponytail Repal +Weapons](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/) 
 
 ### Weapons
 
@@ -189,7 +189,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20Ponytail%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Troubadour-Reskin\] \[F\] Ponytail Repal by BatimaTheBat](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Ponytail%20Repal%20by%20BatimaTheBat/)
+## [\[Troubadour-Reskin\] \[F\] Ponytail Repal by BatimaTheBat](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Ponytail%20Repal%20by%20BatimaTheBat/) 
 
 ### Weapons
 
@@ -197,7 +197,7 @@
 | :---: | :---: |
 
 
-## [\[Troubadour-Reskin\] \[F\] Ponytail Repal by Feaw](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Ponytail%20Repal%20by%20Feaw/)
+## [\[Troubadour-Reskin\] \[F\] Ponytail Repal by Feaw](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Ponytail%20Repal%20by%20Feaw/) 
 
 ### Weapons
 
@@ -205,7 +205,7 @@
 | :---: | :---: |
 
 
-## [\[Troubadour-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/)
+## [\[Troubadour-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/) 
 
 ### Weapons
 
@@ -213,7 +213,7 @@
 | :---: | :---: |
 
 
-## [\[Troubadour-Reskin\] \[M\] Deacon v1 by GabrielKnight](./%5BTroubadour-Reskin%5D%20%5BM%5D%20Deacon%20v1%20by%20GabrielKnight/)
+## [\[Troubadour-Reskin\] \[M\] Deacon v1 by GabrielKnight](./%5BTroubadour-Reskin%5D%20%5BM%5D%20Deacon%20v1%20by%20GabrielKnight/) 
 
 ### Weapons
 
@@ -221,7 +221,7 @@
 | :---: | :---: |
 
 
-## [\[Troubadour-Reskin\] \[M\] Deacon v2 Repal +Weapons](./%5BTroubadour-Reskin%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/)
+## [\[Troubadour-Reskin\] \[M\] Deacon v2 Repal +Weapons](./%5BTroubadour-Reskin%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/) 
 
 ### Weapons
 
@@ -230,7 +230,7 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Reskin%5D%20%5BM%5D%20Deacon%20v2%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Troubadour-Variant\] \[F\] Thaumaturge by Pikmin](./%5BTroubadour-Variant%5D%20%5BF%5D%20Thaumaturge%20by%20Pikmin/)
+## [\[Troubadour-Variant\] \[F\] Thaumaturge by Pikmin](./%5BTroubadour-Variant%5D%20%5BF%5D%20Thaumaturge%20by%20Pikmin/) 
 
 ### Weapons
 
@@ -238,7 +238,7 @@
 | :---: |
 
 
-## [\[Troubadour-Variant\] \[M\] Thaumaturge by Pikmin](./%5BTroubadour-Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin/)
+## [\[Troubadour-Variant\] \[M\] Thaumaturge by Pikmin](./%5BTroubadour-Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin/) 
 
 ### Weapons
 
@@ -246,7 +246,7 @@
 | :---: |
 
 
-## [\[Valkyrie-Base\] \[F\] Vanilla +Alt by seergiioo](./%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/)
+## [\[Valkyrie-Base\] \[F\] Vanilla +Alt by seergiioo](./%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/) 
 
 ### Weapons
 
@@ -254,7 +254,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] Generic Ursula-Style by Greentea](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Generic%20Ursula-Style%20by%20Greentea/)
+## [\[Valkyrie-Reskin\] \[F\] Generic Ursula-Style by Greentea](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Generic%20Ursula-Style%20by%20Greentea/) 
 
 ### Weapons
 
@@ -262,7 +262,7 @@
 | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka](./%5BValkyrie-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20Aruka/)
+## [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka](./%5BValkyrie-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20Aruka/) 
 
 ### Weapons
 
@@ -270,7 +270,7 @@
 | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka v2 by Seal](./%5BValkyrie-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20Aruka%20v2%20by%20Seal/)
+## [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka v2 by Seal](./%5BValkyrie-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20Aruka%20v2%20by%20Seal/) 
 
 ### Weapons
 
@@ -278,7 +278,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] Nomad-Style by seergiioo](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/)
+## [\[Valkyrie-Reskin\] \[F\] Nomad-Style by seergiioo](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/) 
 
 ### Weapons
 
@@ -286,7 +286,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] Non-Religious by Der](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Non-Religious%20by%20Der/)
+## [\[Valkyrie-Reskin\] \[F\] Non-Religious by Der](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Non-Religious%20by%20Der/) 
 
 ### Weapons
 
@@ -294,7 +294,7 @@
 | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] Ponytail Diadem seergiioo](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Ponytail%20Diadem%20seergiioo/)
+## [\[Valkyrie-Reskin\] \[F\] Ponytail Diadem seergiioo](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Ponytail%20Diadem%20seergiioo/) 
 
 ### Weapons
 
@@ -302,7 +302,7 @@
 | :---: | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] Priscilla by Greentea](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Priscilla%20by%20Greentea/)
+## [\[Valkyrie-Reskin\] \[F\] Priscilla by Greentea](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Priscilla%20by%20Greentea/) 
 
 ### Weapons
 
@@ -310,7 +310,7 @@
 | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[F\] Ursula by Greentea](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Ursula%20by%20Greentea/)
+## [\[Valkyrie-Reskin\] \[F\] Ursula by Greentea](./%5BValkyrie-Reskin%5D%20%5BF%5D%20Ursula%20by%20Greentea/) 
 
 ### Weapons
 
@@ -318,7 +318,7 @@
 | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[M\] Non-Religious by Der](./%5BValkyrie-Reskin%5D%20%5BM%5D%20Non-Religious%20by%20Der/)
+## [\[Valkyrie-Reskin\] \[M\] Non-Religious by Der](./%5BValkyrie-Reskin%5D%20%5BM%5D%20Non-Religious%20by%20Der/) 
 
 ### Weapons
 
@@ -326,7 +326,7 @@
 | :---: | :---: |
 
 
-## [\[Valkyrie-Reskin\] \[M\] Templar by GabrielKnight](./%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/)
+## [\[Valkyrie-Reskin\] \[M\] Templar by GabrielKnight](./%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/) 
 
 ### Weapons
 

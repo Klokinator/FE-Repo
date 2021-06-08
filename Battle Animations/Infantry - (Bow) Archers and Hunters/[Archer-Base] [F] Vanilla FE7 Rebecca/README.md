@@ -1,4 +1,4 @@
-# [\[Archer-Base\] \[F\] Vanilla FE7 Rebecca](./)
+# [\[Archer-Base\] \[F\] Vanilla FE7 Rebecca](./) [![Download](https://img.shields.io/badge/Download-%5BArcher--Base%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Rebecca)
 ## Credits
 
 Vanilla animation by IS.

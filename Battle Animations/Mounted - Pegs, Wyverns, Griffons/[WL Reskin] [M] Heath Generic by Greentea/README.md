@@ -1,4 +1,4 @@
-# [\[WL Reskin\] \[M\] Heath Generic by Greentea](./)
+# [\[WL Reskin\] \[M\] Heath Generic by Greentea](./) [![Download](https://img.shields.io/badge/Download-%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea)
 ## Credits
 
 Animation by Greentea.

@@ -1,4 +1,4 @@
-# [\[Hector-Reskin\] \[F\] T1 FE7if Milia](./)
+# [\[Hector-Reskin\] \[F\] T1 FE7if Milia](./) [![Download](https://img.shields.io/badge/Download-%5BHector--Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE6,%20FE7%20Types/%5BHector-Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia)
 ## Credits
 
 Made by the FE7if devs.

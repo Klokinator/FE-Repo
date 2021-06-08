@@ -1,4 +1,4 @@
-# [\[WL Base\] \[U\] Repal by Feaw](./)
+# [\[WL Base\] \[U\] Repal by Feaw](./) [![Download](https://img.shields.io/badge/Download-%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw)
 ## Credits
 
 Repalette by Feaw.

@@ -1,4 +1,4 @@
-# [\[Sage-Reskin\] \[M\] Pent by Arkth](./)
+# [\[Sage-Reskin\] \[M\] Pent by Arkth](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Reskin%5D%20%5BM%5D%20Pent%20by%20Arkth-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Pent%20by%20Arkth)
 ## Credits
 
 Made by Arkth.

@@ -1,4 +1,4 @@
-# [\[Marshall\] \[M\] Zelgius v1 by Luerock](./)
+# [\[Marshall\] \[M\] Zelgius v1 by Luerock](./) [![Download](https://img.shields.io/badge/Download-%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock)
 ## Credits
 
 Animation by Luerock.

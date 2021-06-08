@@ -1,4 +1,4 @@
-# [\[Soldier-Custom\] \[M\] FE10-Style by Flasuban](./)
+# [\[Soldier-Custom\] \[M\] FE10-Style by Flasuban](./) [![Download](https://img.shields.io/badge/Download-%5BSoldier--Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
 ## Credits
 
 Soldier base still image by Flasuban and Nuramon.

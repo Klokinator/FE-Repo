@@ -1,4 +1,4 @@
-# [\[Custom Lance\] \[M\] Halb-Lancer v1 by TBA](./)
+# [\[Custom Lance\] \[M\] Halb-Lancer v1 by TBA](./) [![Download](https://img.shields.io/badge/Download-%5BCustom%20Lance%5D%20%5BM%5D%20Halb--Lancer%20v1%20by%20TBA-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA)
 ## Credits
 
 Made by TheBlindArcher.

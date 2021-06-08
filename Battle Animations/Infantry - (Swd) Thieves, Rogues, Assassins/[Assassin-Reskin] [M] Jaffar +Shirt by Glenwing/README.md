@@ -1,4 +1,4 @@
-# [\[Assassin-Reskin\] \[M\] Jaffar +Shirt by Glenwing](./)
+# [\[Assassin-Reskin\] \[M\] Jaffar +Shirt by Glenwing](./) [![Download](https://img.shields.io/badge/Download-%5BAssassin--Reskin%5D%20%5BM%5D%20Jaffar%20+Shirt%20by%20Glenwing-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Jaffar%20+Shirt%20by%20Glenwing)
 ## Credits
 
 Made by Glenwing. 

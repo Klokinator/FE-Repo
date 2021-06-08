@@ -1,4 +1,4 @@
-# [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](./)
+# [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](./) [![Download](https://img.shields.io/badge/Download-%5BSniper--Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon)
 ## Credits
 
 Made by Nuramon, Swain, Temp, Wan.

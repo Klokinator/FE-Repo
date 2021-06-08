@@ -1,4 +1,4 @@
-# [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee](./)
+# [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee](./) [![Download](https://img.shields.io/badge/Download-%5BLord%20Custom%5D%20%5BM%5D%20Greil%20Hero%20by%20Cipher%20Lee-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE6,%20FE7%20Types/%5BLord%20Custom%5D%20%5BM%5D%20Greil%20Hero%20by%20Cipher%20Lee)
 ## Credits
 
 Cipher Lee, DerTheVaporeon, Nuramon

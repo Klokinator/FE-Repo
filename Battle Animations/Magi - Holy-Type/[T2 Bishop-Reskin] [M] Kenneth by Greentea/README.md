@@ -1,4 +1,4 @@
-# [\[T2 Bishop-Reskin\] \[M\] Kenneth by Greentea](./)
+# [\[T2 Bishop-Reskin\] \[M\] Kenneth by Greentea](./) [![Download](https://img.shields.io/badge/Download-%5BT2%20Bishop--Reskin%5D%20%5BM%5D%20Kenneth%20by%20Greentea-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Kenneth%20by%20Greentea)
 ## Credits
 
 Animation by Greentea.

@@ -1,4 +1,4 @@
-# [\[Archer-Reskin\] \[M\] Caped Variant by Yangfly](./)
+# [\[Archer-Reskin\] \[M\] Caped Variant by Yangfly](./) [![Download](https://img.shields.io/badge/Download-%5BArcher--Reskin%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BM%5D%20Caped%20Variant%20by%20Yangfly)
 ## Credits
 
 Caped Variant made by Yangfly Master.

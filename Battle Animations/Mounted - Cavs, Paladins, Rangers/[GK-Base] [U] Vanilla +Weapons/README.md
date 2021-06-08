@@ -1,4 +1,4 @@
-# [\[GK-Base\] \[U\] Vanilla +Weapons](./)
+# [\[GK-Base\] \[U\] Vanilla +Weapons](./) [![Download](https://img.shields.io/badge/Download-%5BGK--Base%5D%20%5BU%5D%20Vanilla%20+Weapons-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BGK-Base%5D%20%5BU%5D%20Vanilla%20+Weapons)
 ## Credits
 
 Vanilla animations by IS.

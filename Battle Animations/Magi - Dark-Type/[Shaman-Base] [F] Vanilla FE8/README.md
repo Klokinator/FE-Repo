@@ -1,4 +1,4 @@
-# [\[Shaman-Base\] \[F\] Vanilla FE8](./)
+# [\[Shaman-Base\] \[F\] Vanilla FE8](./) [![Download](https://img.shields.io/badge/Download-%5BShaman--Base%5D%20%5BF%5D%20Vanilla%20FE8-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8)
 ## Credits
 
 Vanilla animation by IS.

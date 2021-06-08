@@ -1,4 +1,4 @@
-# [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](./)
+# [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](./) [![Download](https://img.shields.io/badge/Download-%5BFighter--Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only)
 ## Credits
 
 Made by Leo_Link, knabepicer.

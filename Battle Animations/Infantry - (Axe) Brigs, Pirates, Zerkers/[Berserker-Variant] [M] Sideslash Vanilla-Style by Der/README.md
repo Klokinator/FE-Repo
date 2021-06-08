@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der](./)
+# [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der](./) [![Download](https://img.shields.io/badge/Download-%5BBerserker--Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der)
 ## Credits
 
 Side-slashing Dozlazerker variant originally made by Aruka and Kenpuhu.

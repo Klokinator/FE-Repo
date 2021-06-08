@@ -1,4 +1,4 @@
-# [\[T3 FE7\] \[M\] Archsage Athos +Fixes](./)
+# [\[T3 FE7\] \[M\] Archsage Athos +Fixes](./) [![Download](https://img.shields.io/badge/Download-%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes)
 ## Credits
 
 Vanilla magic/staff animations by IS.

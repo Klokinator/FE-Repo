@@ -1,4 +1,4 @@
-# [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](./)
+# [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](./) [![Download](https://img.shields.io/badge/Download-%5BShaman--Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp)
 ## Credits
 
 Hoodless by Temp.

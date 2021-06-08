@@ -1,4 +1,4 @@
-# [\[Troubadour-Base\] \[F\] Vanilla Ponytail +Magic](./)
+# [\[Troubadour-Base\] \[F\] Vanilla Ponytail +Magic](./) [![Download](https://img.shields.io/badge/Download-%5BTroubadour--Base%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Base%5D%20%5BF%5D%20Vanilla%20Ponytail%20+Magic)
 ## Credits
 
 Vanilla animation by IS.

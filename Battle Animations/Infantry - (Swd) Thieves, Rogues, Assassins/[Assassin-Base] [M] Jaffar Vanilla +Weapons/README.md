@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./)
+# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./) [![Download](https://img.shields.io/badge/Download-%5BAssassin--Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons)
 ## Credits
 
 Sword and Unarmed Vanilla animations by IS.

@@ -1,4 +1,4 @@
-# [\[Pirate-Reskin\] \[F\] Slender Variant by Furious Squid](./)
+# [\[Pirate-Reskin\] \[F\] Slender Variant by Furious Squid](./) [![Download](https://img.shields.io/badge/Download-%5BPirate--Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid)
 ## Credits
 
 Animation by Furious Squid.

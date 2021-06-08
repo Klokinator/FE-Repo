@@ -1,4 +1,4 @@
-# [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](./)
+# [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](./) [![Download](https://img.shields.io/badge/Download-%5BDancer--Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons)
 ## Credits
 
 Vanilla animation by IS

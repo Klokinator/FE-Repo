@@ -1,4 +1,4 @@
-# [\[Archer-Reskin\] \[M\] Der's Bandana C](./)
+# [\[Archer-Reskin\] \[M\] Der's Bandana C](./) [![Download](https://img.shields.io/badge/Download-%5BArcher--Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C)
 ## Credits
 
 Original animation by IS.

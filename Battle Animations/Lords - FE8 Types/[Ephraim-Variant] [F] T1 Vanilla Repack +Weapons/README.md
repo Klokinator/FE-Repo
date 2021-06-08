@@ -1,4 +1,4 @@
-# [\[Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](./)
+# [\[Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](./) [![Download](https://img.shields.io/badge/Download-%5BEphraim--Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE8%20Types/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons)
 ## Credits
 
 Vanilla animation by IS.

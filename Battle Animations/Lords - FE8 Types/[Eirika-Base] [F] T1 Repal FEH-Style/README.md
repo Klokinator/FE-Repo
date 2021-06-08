@@ -1,4 +1,4 @@
-# [\[Eirika-Base\] \[F\] T1 Repal FEH-Style](./)
+# [\[Eirika-Base\] \[F\] T1 Repal FEH-Style](./) [![Download](https://img.shields.io/badge/Download-%5BEirika--Base%5D%20%5BF%5D%20T1%20Repal%20FEH-Style-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE8%20Types/%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20FEH-Style)
 ## Credits
 
 Original animation by IS.

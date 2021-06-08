@@ -1,4 +1,4 @@
-# [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./)
+# [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./) [![Download](https://img.shields.io/badge/Download-%5BDancer--Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff)
 ## Credits
 
 Vanilla animation made by IS.

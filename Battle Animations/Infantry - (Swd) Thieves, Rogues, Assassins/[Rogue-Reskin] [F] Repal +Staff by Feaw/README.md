@@ -1,4 +1,4 @@
-# [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./)
+# [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./) [![Download](https://img.shields.io/badge/Download-%5BRogue--Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw)
 ## Credits
 
 Repalette by Feaw.

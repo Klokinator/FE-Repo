@@ -1,4 +1,4 @@
-# [\[Sage-Custom\] \[M\] Gaiden-Style by Spud](./)
+# [\[Sage-Custom\] \[M\] Gaiden-Style by Spud](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud)
 ## Credits
 
 Animation by Spud.

@@ -1,4 +1,4 @@
-# [\[Swordmaster-Reskin\] \[M\] Bald +Staves](./)
+# [\[Swordmaster-Reskin\] \[M\] Bald +Staves](./) [![Download](https://img.shields.io/badge/Download-%5BSwordmaster--Reskin%5D%20%5BM%5D%20Bald%20+Staves-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves)
 ## Credits
 
 Sword by Devisio, L95

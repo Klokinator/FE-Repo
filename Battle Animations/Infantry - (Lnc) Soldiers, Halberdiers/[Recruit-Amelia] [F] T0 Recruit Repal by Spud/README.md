@@ -1,4 +1,4 @@
-# [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](./)
+# [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](./) [![Download](https://img.shields.io/badge/Download-%5BRecruit--Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
 ## Credits
 
 Original animation by IS.

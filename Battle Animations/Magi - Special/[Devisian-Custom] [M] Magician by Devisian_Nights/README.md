@@ -1,4 +1,4 @@
-# [\[Devisian-Custom\] \[M\] Magician by Devisian_Nights](./)
+# [\[Devisian-Custom\] \[M\] Magician by Devisian_Nights](./) [![Download](https://img.shields.io/badge/Download-%5BDevisian--Custom%5D%20%5BM%5D%20Magician%20by%20Devisian_Nights-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BDevisian-Custom%5D%20%5BM%5D%20Magician%20by%20Devisian_Nights)
 ## Credits
 
 Made by {Devisian_Nights, Pikmin1211}

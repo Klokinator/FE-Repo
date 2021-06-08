@@ -1,4 +1,4 @@
-# [\[Eliwood-Reskin\] \[M\] T2 Brave by RedBean](./)
+# [\[Eliwood-Reskin\] \[M\] T2 Brave by RedBean](./) [![Download](https://img.shields.io/badge/Download-%5BEliwood--Reskin%5D%20%5BM%5D%20T2%20Brave%20by%20RedBean-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE6,%20FE7%20Types/%5BEliwood-Reskin%5D%20%5BM%5D%20T2%20Brave%20by%20RedBean)
 ## Credits
 
 Made by Redbean.

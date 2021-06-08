@@ -1,4 +1,4 @@
-# [\[Paladin-Variant\] \[M\] Kent by Greentea](./)
+# [\[Paladin-Variant\] \[M\] Kent by Greentea](./) [![Download](https://img.shields.io/badge/Download-%5BPaladin--Variant%5D%20%5BM%5D%20Kent%20by%20Greentea-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea)
 ## Credits
 
 Made by Greentea.

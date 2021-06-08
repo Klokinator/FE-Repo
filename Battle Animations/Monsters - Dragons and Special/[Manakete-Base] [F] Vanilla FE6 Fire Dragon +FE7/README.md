@@ -1,4 +1,4 @@
-# [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](./)
+# [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](./) [![Download](https://img.shields.io/badge/Download-%5BManakete--Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fire%20Dragon%20+FE7-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fire%20Dragon%20+FE7)
 ## Credits
 
 IS, Marlon0024, Eldritch Abomination, SHYUTERz

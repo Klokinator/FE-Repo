@@ -1,4 +1,4 @@
-# [\[Troubadour-Variant\] \[M\] Thaumaturge by Pikmin](./)
+# [\[Troubadour-Variant\] \[M\] Thaumaturge by Pikmin](./) [![Download](https://img.shields.io/badge/Download-%5BTroubadour--Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Variant%5D%20%5BM%5D%20Thaumaturge%20by%20Pikmin)
 ## Credits
 
 Design by Pikmin1211 with special thanks to GabrielKnight

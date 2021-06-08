@@ -1,4 +1,4 @@
-# [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka](./)
+# [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka](./) [![Download](https://img.shields.io/badge/Download-%5BValkyrie--Reskin%5D%20%5BF%5D%20L'Arachel%20by%20Aruka-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20Aruka)
 ## Credits
 
 Animation by Aruka, Kenpuhu.

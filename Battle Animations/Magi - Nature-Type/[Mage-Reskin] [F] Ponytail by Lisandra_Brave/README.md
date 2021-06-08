@@ -1,4 +1,4 @@
-# [\[Mage-Reskin\] \[F\] Ponytail by Lisandra_Brave](./)
+# [\[Mage-Reskin\] \[F\] Ponytail by Lisandra_Brave](./) [![Download](https://img.shields.io/badge/Download-%5BMage--Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave)
 ## Credits
 
 Made by Lisandra_Brave.

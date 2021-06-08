@@ -1,4 +1,4 @@
-# [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](./)
+# [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](./) [![Download](https://img.shields.io/badge/Download-%5BCavalry--Custom%5D%20Sigurd%20by%20Obsidian%20Daddy-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy)
 ## Credits
 
 Animation by Obsidian Daddy.

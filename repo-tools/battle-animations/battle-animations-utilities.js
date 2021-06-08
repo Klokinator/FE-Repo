@@ -51,7 +51,7 @@ ${anim.credits}
  *
  * @returns {String}
  */
-const makeAnimReadmeText = (anim, addCredits = true, currentDir = './', headingDepth = 1) => {
+const makeAnimReadmeText = ({anim, addCredits = true, currentDir = './', headingDepth = 1, path}) => {
 	let creditsBlock = ''
 	if (addCredits) {
 		creditsBlock = `${getHeading(headingDepth + 1)} Credits
@@ -66,7 +66,12 @@ ${anim.credits}
 		showWeaponsHeading = true
 	}
 
-	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)}
+    let downloadButton = ""
+    if(path != undefined) {
+        downloadButton = `[![Download](https://img.shields.io/badge/Download-${encodeURI(anim.name).replace("-", "--")}-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURI(path)})`
+    }
+
+	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)} ${downloadButton}
 ${creditsBlock}
 ${showWeaponsHeading ? `${getHeading(headingDepth +1)} Weapons
 ` : ''}
@@ -139,7 +144,12 @@ const makeWeaponContent = ({weapon, currentDir}) => {
 const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth = 1) => {
 
 	const animContents = catAnims.map(anim => {
-		return makeAnimReadmeText(anim, false, `${currentDir}${anim.name}/`, headingDepth + 1);
+		return makeAnimReadmeText({
+            "anim": anim,
+            "addCredits": false,
+            "currentDir": `${currentDir}${anim.name}/`,
+            "headingDepth": headingDepth + 1
+        });
 	}).join(`
 
 `);

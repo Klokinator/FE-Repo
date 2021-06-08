@@ -1,4 +1,4 @@
-# [\[T3 Custom\] \[U\] Brammimond by Dinar87](./)
+# [\[T3 Custom\] \[U\] Brammimond by Dinar87](./) [![Download](https://img.shields.io/badge/Download-%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87)
 ## Credits
 
 Made by Dinar87.

@@ -10,3 +10,4 @@ Note that this version lacks a Lance animation, which the Female version has. Pe
 ## Weapons
 
 | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> |
+| :---: |

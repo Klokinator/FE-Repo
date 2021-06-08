@@ -24,6 +24,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Cavalier-Reskin\] \[M\] Kent by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/)
@@ -31,6 +32,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Kent%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Cavalier-Reskin\] \[M\] Sain by Greentea](./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/)
@@ -38,6 +40,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalier-Reskin%5D%20%5BM%5D%20Sain%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](./%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/)
@@ -81,6 +84,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/1.%20Sword%20(Tyrfing)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/)
@@ -88,6 +92,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/)
@@ -135,6 +140,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v1%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v1%20by%20Aruka/2.%20Lance/Lance.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Grand Paladin\] \[M\] Seth v2 by Aruka](./%5BGrand%20Paladin%5D%20%5BM%5D%20Seth%20v2%20by%20Aruka/)
@@ -181,6 +187,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Fix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE6 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/)
@@ -188,6 +195,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE6 Vanilla](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/)
@@ -195,6 +203,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE6%20Vanilla/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE7 Repal](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/)
@@ -202,6 +211,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/)
@@ -209,6 +219,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/5.%20Bow%20(Vanilla%20+Fix)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Base%5D%20%5BM%5D%20FE7%20Vanilla%20+Fix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Reskin\] \[F\] Non-Sacaen](./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/)
@@ -216,6 +227,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Reskin\] \[M\] +Hat](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/)
@@ -223,6 +235,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/)
@@ -230,6 +243,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad Trooper Reskin\] \[M\] Sacaen Repal](./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/)
@@ -237,6 +251,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/3.%20Axe/Axe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad%20Trooper%20Reskin%5D%20%5BM%5D%20Sacaen%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Nomad-Base\] \[F\] Vanilla](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla/)
@@ -244,6 +259,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Base%5D%20%5BF%5D%20Vanilla/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Base%5D%20%5BF%5D%20Vanilla/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Base\] \[F\] Vanilla Repal](./%5BNomad-Base%5D%20%5BF%5D%20Vanilla%20Repal/)
@@ -251,6 +267,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Base%5D%20%5BF%5D%20Vanilla%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Base%5D%20%5BF%5D%20Vanilla%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Base\] \[M\] Vanilla](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla/)
@@ -258,6 +275,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Base%5D%20%5BM%5D%20Vanilla/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Base%5D%20%5BM%5D%20Vanilla/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Base\] \[M\] Vanilla Repal](./%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/)
@@ -265,6 +283,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Long-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Long-Hair/)
@@ -272,6 +291,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Long-Hair/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Long-Hair/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Reskin\] \[F\] Non-Sacaen Repal Short-Hair](./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Short-Hair/)
@@ -279,6 +299,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Short-Hair/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Reskin%5D%20%5BF%5D%20Non-Sacaen%20Repal%20Short-Hair/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat/)
@@ -286,6 +307,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat Repal](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat%20Repal/)
@@ -293,6 +315,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20+Hat%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Nomad-Reskin\] \[M\] Non-Sacaen by eCut](./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut/)
@@ -300,6 +323,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Paladin-Base\] \[F\] Vanilla +Weapons](./%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/)
@@ -327,6 +351,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BPaladin-Custom%5D%20%5BM%5D%20Bow%20Knight%20by%20Spud/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Custom%5D%20%5BM%5D%20Bow%20Knight%20by%20Spud/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Paladin-Custom\] \[U\] Gold Knight by Nuramon](./%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20by%20Nuramon/)
@@ -366,15 +391,6 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Paladin-Variant\] \[M\] Sain by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/)
-
-### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/3.%20Axe/Axe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20+Weapons/)
 
 ### Weapons
@@ -392,6 +408,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/8.%20Unarmed/Unarmed.gif"/> | <b>Palettes</b><br/><img alt="Palettes animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/Palettes/Palettes.gif"/> |
+
+
+## [\[Paladin-Variant\] \[M\] Sain by Greentea](./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/)
+
+### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/3.%20Axe/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Ranger-Base\] \[F\] Vanilla](./%5BRanger-Base%5D%20%5BF%5D%20Vanilla/)
@@ -426,6 +451,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRanger-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Teraspark/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BRanger-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Teraspark/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Teraspark/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Ranger-Reskin\] \[F\] Twintails by GoofyfanG56](./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/)
@@ -433,6 +459,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Reskin%5D%20%5BF%5D%20Twintails%20by%20GoofyfanG56/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Ranger-Reskin\] \[M\] +Hat Repal by Orihara_Saki](./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/)
@@ -440,6 +467,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Reskin%5D%20%5BM%5D%20+Hat%20Repal%20by%20Orihara_Saki/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Ranger-Style\] \[F\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BF%5D%20Bowmaster%20by%20JeyTheCount/)
@@ -447,6 +475,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BRanger-Style%5D%20%5BF%5D%20Bowmaster%20by%20JeyTheCount/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Style%5D%20%5BF%5D%20Bowmaster%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Ranger-Style\] \[M\] Bowmaster by JeyTheCount](./%5BRanger-Style%5D%20%5BM%5D%20Bowmaster%20by%20JeyTheCount/)
@@ -454,6 +483,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BRanger-Style%5D%20%5BM%5D%20Bowmaster%20by%20JeyTheCount/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRanger-Style%5D%20%5BM%5D%20Bowmaster%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Ranger-Variant\] \[M\] Sword-locked by Aruka](./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/)
@@ -461,4 +491,5 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRanger-Variant%5D%20%5BM%5D%20Sword-locked%20by%20Aruka/1.%20Sword/Sword.gif"/> |
+| :---: |
 

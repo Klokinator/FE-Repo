@@ -12,3 +12,4 @@ Also, it's presently missing an unarmed animation.
 ## Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Astra%20Crit%201)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Astra%20Crit%202)/Sword.gif"/> |
+| :---: | :---: |

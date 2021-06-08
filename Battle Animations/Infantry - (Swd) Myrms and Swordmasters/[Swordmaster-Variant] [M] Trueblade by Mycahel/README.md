@@ -8,3 +8,4 @@ This animation could use some community fixes. It also needs an Unarmed animatio
 ## Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> |
+| :---: |

@@ -8,3 +8,4 @@ Note that while this bow animation is similar to Leo_Link's axe-only Tellius-Sty
 ## Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> |
+| :---: |

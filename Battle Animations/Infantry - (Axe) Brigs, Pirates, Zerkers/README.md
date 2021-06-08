@@ -14,6 +14,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20Blue%20Druid/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Custom\] \[M\] Bushido Swordzerker](./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/)
@@ -21,6 +22,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Custom%5D%20%5BM%5D%20Bushido%20Swordzerker/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Berserker-Custom\] \[U\] Bushido Doogzerker](./%5BBerserker-Custom%5D%20%5BU%5D%20Bushido%20Doogzerker/)
@@ -28,6 +30,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Custom%5D%20%5BU%5D%20Bushido%20Doogzerker/Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6/)
@@ -72,6 +75,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Berserker-Reskin\] \[F\] Armored by eCut](./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut/)
@@ -79,6 +83,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Reskin\] \[F\] Armored by eCut v2 Repal](./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/)
@@ -86,6 +91,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20Armored%20by%20eCut%20v2%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Reskin\] \[F\] FEGirls Baeserker](./%5BBerserker-Reskin%5D%20%5BF%5D%20FEGirls%20Baeserker/)
@@ -93,6 +99,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20FEGirls%20Baeserker/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20FEGirls%20Baeserker/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Reskin%5D%20%5BF%5D%20FEGirls%20Baeserker/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Reskin\] \[M\] Dart by Greentea](./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/)
@@ -109,6 +116,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Type\] \[M\] Sword Only](./%5BBerserker-Type%5D%20%5BM%5D%20Sword%20Only/)
@@ -116,6 +124,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Type%5D%20%5BM%5D%20Sword%20Only/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Berserker-Variant\] \[M\] Sideslash Armorless by HGS](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/)
@@ -123,6 +132,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Armorless%20by%20HGS/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/)
@@ -130,6 +140,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Variant\] \[M\] Sideslash Vanilla-Style by Der](./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/)
@@ -137,6 +148,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Vanilla-Style%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Variant\] \[M\] Skinnyzerker Ross](./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross/)
@@ -144,6 +156,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Skinnyzerker%20Ross/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Berserker-Variant\] \[M\] Yetizerker Smoothed-Axe](./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/)
@@ -151,6 +164,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Red%20Variant)/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Yetizerker%20Smoothed)/Axe.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Berserker-Variant\] \[U\] Skinnyzerker by Zomaixee](./%5BBerserker-Variant%5D%20%5BU%5D%20Skinnyzerker%20by%20Zomaixee/)
@@ -158,6 +172,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BU%5D%20Skinnyzerker%20by%20Zomaixee/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Variant%5D%20%5BU%5D%20Skinnyzerker%20by%20Zomaixee/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Variant%5D%20%5BU%5D%20Skinnyzerker%20by%20Zomaixee/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/)
@@ -174,6 +189,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Reskin%5D%20%5BF%5D%20Barbarian%20by%20eCut/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Reskin%5D%20%5BF%5D%20Barbarian%20by%20eCut/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Reskin%5D%20%5BF%5D%20Barbarian%20by%20eCut/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Reskin\] \[F\] FE13-Style by eCut](./%5BBrigand-Reskin%5D%20%5BF%5D%20FE13-Style%20by%20eCut/)
@@ -181,6 +197,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Reskin%5D%20%5BF%5D%20FE13-Style%20by%20eCut/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Reskin%5D%20%5BF%5D%20FE13-Style%20by%20eCut/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Reskin%5D%20%5BF%5D%20FE13-Style%20by%20eCut/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Reskin\] \[M\] Armored by TBA](./%5BBrigand-Reskin%5D%20%5BM%5D%20Armored%20by%20TBA/)
@@ -188,6 +205,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Armored%20by%20TBA/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Armored%20by%20TBA/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Armored%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Reskin\] \[M\] Cloth Helmet by Eldritch](./%5BBrigand-Reskin%5D%20%5BM%5D%20Cloth%20Helmet%20by%20Eldritch/)
@@ -195,6 +213,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Cloth%20Helmet%20by%20Eldritch/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Cloth%20Helmet%20by%20Eldritch/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Cloth%20Helmet%20by%20Eldritch/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Reskin\] \[M\] FE13-Style by Iscaneus](./%5BBrigand-Reskin%5D%20%5BM%5D%20FE13-Style%20by%20Iscaneus/)
@@ -202,6 +221,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20FE13-Style%20by%20Iscaneus/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20FE13-Style%20by%20Iscaneus/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20FE13-Style%20by%20Iscaneus/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Reskin\] \[M\] Fully-Clothed by Flasuban](./%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20by%20Flasuban/)
@@ -209,6 +229,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20by%20Flasuban/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20by%20Flasuban/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20by%20Flasuban/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Reskin\] \[U\] Lizard Brigand Wildling](./%5BBrigand-Reskin%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling/)
@@ -216,6 +237,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Reskin%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Reskin%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Reskin%5D%20%5BU%5D%20Lizard%20Brigand%20Wildling/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Brigand-Style\] \[M\] Mounted Marauder by Spud](./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/)
@@ -232,6 +254,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Pirate-Base\] \[M\] Repal by Wan](./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Wan/)
@@ -239,6 +262,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Wan/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Wan/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Repal%20by%20Wan/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Pirate-Base\] \[M\] Vanilla +Sword by Pimpstick](./%5BPirate-Base%5D%20%5BM%5D%20Vanilla%20+Sword%20by%20Pimpstick/)
@@ -250,13 +274,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Vanilla%20+Sword%20by%20Pimpstick/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Pirate-Custom\] \[M\] DS-Style by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/)
-
-### Weapons
-
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/)
 
 ### Weapons
@@ -266,11 +283,20 @@
 | <b>Palettes</b><br/><img alt="Palettes animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/Palettes/Palettes.gif"/> |
 
 
+## [\[Pirate-Custom\] \[M\] DS-Style by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/)
+
+### Weapons
+
+| <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
 ## [\[Pirate-Reskin\] \[F\] Fir-Head by Waleed](./%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/)
 
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Pirate-Reskin\] \[F\] Slender Variant by Furious Squid](./%5BPirate-Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid/)
@@ -278,6 +304,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Slender%20Variant%20by%20Furious%20Squid/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Pirate-Reskin\] \[F\] Variant by Nuramon](./%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon/)
@@ -285,6 +312,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Pirate-Type\] \[M\] Sword Only Repal by Pimpstick](./%5BPirate-Type%5D%20%5BM%5D%20Sword%20Only%20Repal%20by%20Pimpstick/)
@@ -292,4 +320,5 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BPirate-Type%5D%20%5BM%5D%20Sword%20Only%20Repal%20by%20Pimpstick/1.%20Sword/Sword.gif"/> |
+| :---: |
 

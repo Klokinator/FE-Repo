@@ -171,15 +171,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean%20-%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Hero-Variant\] \[M\] Armored by Nuramon](./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/)
-
-### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Hero-Variant\] \[M\] Armored Gerik by Nuramon](./%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/)
 
 ### Weapons
@@ -189,11 +180,21 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 
 
+## [\[Hero-Variant\] \[M\] Armored by Nuramon](./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/)
+
+### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ## [\[Hero-Variant\] \[M\] Caellach by Aruka](./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/)
 
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/3.%20Axe/Axe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Hero-Variant\] \[M\] Champion by Aruka](./%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka/)
@@ -201,6 +202,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Champion%20by%20Aruka/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Hero-Variant\] \[M\] Linus Heavy-Sword by Greentea](./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/)
@@ -226,6 +228,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Mercenary-Base\] \[M\] Repal by Skitty](./%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/)
@@ -233,6 +236,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Mercenary-Base\] \[M\] Vanilla FE6](./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6/)
@@ -240,6 +244,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/)
@@ -256,6 +261,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Custom%5D%20%5BM%5D%20FF7%20-%20Zack%20by%20Yangfly/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Mercenary-Custom\] \[M\] Ygddra - Inzaghi Fencer BY Aruka](./%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/)
@@ -263,6 +269,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Custom%5D%20%5BM%5D%20Ygddra%20-%20Inzaghi%20Fencer%20BY%20Aruka/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Mercenary-Reskin\] \[F\] Generic by TBA](./%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/)
@@ -270,6 +277,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Mercenary-Reskin\] \[F\] Long-Haired Tunic by Serragirl](./%5BMercenary-Reskin%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl/)
@@ -277,6 +285,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Reskin%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Reskin%5D%20%5BF%5D%20Long-Haired%20Tunic%20by%20Serragirl/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Mercenary-Reskin\] \[F\] Skinny Merc by Russel Clark](./%5BMercenary-Reskin%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark/)
@@ -284,6 +293,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Reskin%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Reskin%5D%20%5BF%5D%20Skinny%20Merc%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Mercenary-Reskin\] \[M\] Armored +Axe by Alusq](./%5BMercenary-Reskin%5D%20%5BM%5D%20Armored%20+Axe%20by%20Alusq/)
@@ -300,6 +310,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Variant%5D%20%5BF%5D%20Mercenary%20by%20SALVAGED/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Variant%5D%20%5BF%5D%20Mercenary%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Mercenary-Variant\] \[M\] Gerik by Aruka](./%5BMercenary-Variant%5D%20%5BM%5D%20Gerik%20by%20Aruka/)
@@ -307,6 +318,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Variant%5D%20%5BM%5D%20Gerik%20by%20Aruka/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED +Axe](./%5BMercenary-Variant%5D%20%5BM%5D%20Mercenary%20by%20SALVAGED%20+Axe/)
@@ -323,6 +335,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Mercenary-Myrmidon%20Fusion/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Villager-Custom\] \[F\] Villager by Nuramon](./%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon/)
@@ -330,6 +343,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BVillager-Custom%5D%20%5BF%5D%20Villager%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Villager-Custom\] \[M\] Villager by Nuramon](./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/)
@@ -337,4 +351,5 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 

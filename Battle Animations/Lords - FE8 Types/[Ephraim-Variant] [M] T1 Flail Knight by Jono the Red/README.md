@@ -6,3 +6,4 @@ JonoTheRed, ZoramineFae
 ## Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./4.%20Axe/Axe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |

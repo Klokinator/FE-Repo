@@ -10,3 +10,4 @@ IS, Marlon0024, Orihara_Saki, SHYUTERz
 ## Weapons
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone/Dragonstone.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Imp%20+Transf)/Dragonstone.gif"/> |
+| :---: | :---: | :---: |

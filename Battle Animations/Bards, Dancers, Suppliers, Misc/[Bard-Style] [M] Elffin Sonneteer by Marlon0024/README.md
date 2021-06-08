@@ -6,3 +6,4 @@ Animation by Marlon0024.
 ## Weapons
 
 | <b>Refresh</b><br/><img alt="Refresh animation" src="./8.%20Refresh/Refresh.gif"/> |
+| :---: |

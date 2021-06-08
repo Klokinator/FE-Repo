@@ -18,3 +18,4 @@ IS, Maiser6, TBA, Intestine, Aruka, Kenpuhu, Greentea, RobertFPY, DerTheVaporeon
 ## Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./Sword/Sword.gif"/> |
+| :---: |

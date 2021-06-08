@@ -74,12 +74,12 @@ ${makeWeaponsContent({anim, currentDir})}
 `)
 }
 
-const MAXIMUM_CELLS_PER_LINE = 3
+const MAXIMUM_CELLS_PER_ROW = 3
 const makeWeaponsContent = ({anim, currentDir}) => {
     if(anim.weapons == undefined) return ""
     if(anim.weapons[0] == undefined) return ""
 
-    const cellsPerRow = Math.min(MAXIMUM_CELLS_PER_LINE, anim.weapons.length)
+    const cellsPerRow = Math.min(MAXIMUM_CELLS_PER_ROW, anim.weapons.length)
 
     let content = "|"
 
@@ -106,6 +106,14 @@ const makeWeaponsContent = ({anim, currentDir}) => {
         content += makeWeaponContent({weapon, currentDir})
         content += " |"
     })
+
+    if(anim.weapons.length <= cellsPerRow) {
+        content += "\n"
+        content += "|"
+        for(let i = 0; i < anim.weapons.length; i += 1) {
+            content += " :---: |"
+        }
+    }
 
     return content
 }

@@ -5,6 +5,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCrossover%20Custom%5D%20%5BM%5D%20Sergeant%20by%20Spud/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[General-Base\] \[U\] Repal by Skitty](./%5BGeneral-Base%5D%20%5BU%5D%20Repal%20by%20Skitty/)
@@ -130,13 +131,7 @@
 ### Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero/8.%20Unarmed/Unarmed.gif"/> |
-
-
-## [\[Knight-Custom\] \[U\] DS-Style by MK404](./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/)
-
-### Weapons
-
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Knight-Custom\] \[U\] DS-Style Repal by MK404](./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/)
@@ -144,6 +139,15 @@
 ### Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/2.%20Lance/Lance.gif"/> |
+| :---: |
+
+
+## [\[Knight-Custom\] \[U\] DS-Style by MK404](./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/)
+
+### Weapons
+
+| <b>Lance</b><br/><img alt="Lance animation" src="./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](./%5BKnight-Custom%5D%20%5BU%5D%20FE10-Style%20by%20Iscaneus/)
@@ -162,6 +166,7 @@
 ### Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BKnight-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Reskin%5D%20%5BM%5D%20Oswin%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](./%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/)
@@ -169,6 +174,7 @@
 ### Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Knight-Variant\] \[M\] Generic by SALVAGED](./%5BKnight-Variant%5D%20%5BM%5D%20Generic%20by%20SALVAGED/)
@@ -196,6 +202,7 @@
 ### Weapons
 
 | <b>Legendary</b><br/><img alt="Legendary animation" src="./%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif"/> |
+| :---: |
 
 
 ## [\[Marshall\] \[M\] Zelgius v1 by Luerock](./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock/)
@@ -203,6 +210,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock/1.%20Sword/Sword.gif"/> | <b>Legendary</b><br/><img alt="Legendary animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v1%20by%20Luerock/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Marshall\] \[M\] Zelgius v2 by Nuramon](./%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/)

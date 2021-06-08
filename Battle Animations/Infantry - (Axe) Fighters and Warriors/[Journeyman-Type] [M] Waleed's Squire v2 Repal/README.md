@@ -8,3 +8,4 @@ Note that despite being an improved repalette, this folder is missing an Unarmed
 ## Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> |
+| :---: |

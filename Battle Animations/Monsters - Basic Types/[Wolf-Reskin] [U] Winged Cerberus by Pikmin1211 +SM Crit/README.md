@@ -8,3 +8,4 @@ This animation is based on Watching Dog's Vampirehound animation. The idea is to
 ## Weapons
 
 | <b>Monster</b><br/><img alt="Monster animation" src="./8.%20Monster/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Swordmaster%20Crit)/Monster.gif"/> |
+| :---: | :---: |

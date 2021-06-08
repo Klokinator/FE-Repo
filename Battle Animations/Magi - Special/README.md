@@ -63,18 +63,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BCustom%20Magi%5D%20%5BM%5D%20Vanilla%20FE7%20Kishuna%20+Magic/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Magi%5D%20%5BM%5D%20Vanilla%20FE7%20Kishuna%20+Magic/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Custom Oracle\] \[F\] Oracle Repal +Staff](./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/)
-
-### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/7.%20Staff/Staff.gif"/> |
-
-
 ## [\[Custom Oracle\] \[F\] Oracle by GabrielKnight](./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight/)
 
 ### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
+
+
+## [\[Custom Oracle\] \[F\] Oracle Repal +Staff](./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/)
+
+### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/7.%20Staff/Staff.gif"/> |
 
 
 ## [\[Custom Oracle\] \[M\] Oracle by GabrielKnight](./%5BCustom%20Oracle%5D%20%5BM%5D%20Oracle%20by%20GabrielKnight/)

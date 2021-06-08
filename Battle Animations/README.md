@@ -463,6 +463,13 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Base%5D%20%5BM%5D%20Vanilla%20+Sword%20by%20Pimpstick/8.%20Unarmed/Unarmed.gif"/> |
 
 
+### [\[Pirate-Custom\] \[M\] DS-Style by Der](./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/)
+
+#### Weapons
+
+| <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ### [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/)
 
 #### Weapons
@@ -470,13 +477,6 @@
 | <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 | <b>Palettes</b><br/><img alt="Palettes animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/Palettes/Palettes.gif"/> |
-
-
-### [\[Pirate-Custom\] \[M\] DS-Style by Der](./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/)
-
-#### Weapons
-
-| <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Pirate-Reskin\] \[F\] Fir-Head by Waleed](./Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/)
@@ -689,6 +689,15 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
+### [\[Warrior-Reskin\] \[F\] Repal by Temp](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/)
+
+#### Weapons
+
+| <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ### [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp/)
 
 #### Weapons
@@ -705,15 +714,6 @@
 | <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
-
-
-### [\[Warrior-Reskin\] \[F\] Repal by Temp](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/)
-
-#### Weapons
-
-| <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/5.%20Bow/Bow.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Warrior-Reskin\] \[M\] Bartre Alt1 by Jey the Count](./Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count/)
@@ -1020,13 +1020,6 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
-### [\[Ballista\] \[F\] Louise Caped by Greentea](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/)
-
-#### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
-
-
 ### [\[Ballista\] \[F\] Louise by St Jack](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/)
 
 #### Weapons
@@ -1034,25 +1027,18 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
+### [\[Ballista\] \[F\] Louise Caped by Greentea](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/)
+
+#### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
 ### [\[Ballista\] \[F\] Neimi by Seal](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/)
 
 #### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/5.%20Bow/Bow.gif"/> |
-
-
-### [\[Ballista\] \[F\] Rebecca Catapult](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/)
-
-#### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
-
-
-### [\[Ballista\] \[F\] Rebecca Catapult Repal](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/)
-
-#### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
 ### [\[Ballista\] \[F\] Rebecca by Greentea](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea/)
@@ -1067,6 +1053,20 @@
 #### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
+### [\[Ballista\] \[F\] Rebecca Catapult](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/)
+
+#### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
+### [\[Ballista\] \[F\] Rebecca Catapult Repal](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/)
+
+#### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
 ### [\[Ballista\] \[F\] Sniper by St Jack](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/)
@@ -1118,6 +1118,13 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
+### [\[Ballista\] \[M\] Wolt by St Jack](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/)
+
+#### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
 ### [\[Ballista\] \[M\] Wolt Catapult](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/)
 
 #### Weapons
@@ -1130,13 +1137,6 @@
 #### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal/5.%20Bow/Bow.gif"/> |
-
-
-### [\[Ballista\] \[M\] Wolt by St Jack](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/)
-
-#### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
 ### [\[Sniper-Base\] \[F\] Vanilla FE6](./Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BSniper-Base%5D%20%5BF%5D%20Vanilla%20FE6/)
@@ -1317,18 +1317,18 @@
 <details>
 <summary>Click to expand!</summary>
 
-### [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/)
-
-#### Weapons
-
-| <b>Lance</b><br/><img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ### [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/)
 
 #### Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/8.%20Unarmed/Unarmed.gif"/> |
+
+
+### [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/)
+
+#### Weapons
+
+| <b>Lance</b><br/><img alt="Lance animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Custom Halb\] \[F\] Halberdier by Black Mage](./Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/)
@@ -1667,15 +1667,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BF%5D%20Echidna%20by%20Redbean%20-%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 
 
-### [\[Hero-Variant\] \[M\] Armored Gerik by Nuramon](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/)
-
-#### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ### [\[Hero-Variant\] \[M\] Armored by Nuramon](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/)
 
 #### Weapons
@@ -1683,6 +1674,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+
+
+### [\[Hero-Variant\] \[M\] Armored Gerik by Nuramon](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/)
+
+#### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Armored%20Gerik%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Hero-Variant\] \[M\] Caellach by Aruka](./Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BM%5D%20Caellach%20by%20Aruka/)
@@ -2359,6 +2359,13 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/8.%20Unarmed/Unarmed.gif"/> |
 
 
+### [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/)
+
+#### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ### [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/)
 
 #### Weapons
@@ -2366,13 +2373,6 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/8.%20Unarmed/Unarmed.gif"/> |
-
-
-### [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/)
-
-#### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Rogue-Reskin\] \[M\] Trickster by Leo_Link](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/)
@@ -2454,6 +2454,13 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
 
 
+### [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/)
+
+#### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> |
+
+
 ### [\[Thief-Base\] \[M\] Matthew Repal by Eldritch](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch/)
 
 #### Weapons
@@ -2466,13 +2473,6 @@
 #### Weapons
 
 | <b>Knife</b><br/><img alt="Knife animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/8.%20Unarmed/Unarmed.gif"/> |
-
-
-### [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/)
-
-#### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> |
 
 
 ### [\[Thief-Base\] \[M\] Vanilla FE7 Legault](./Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault/)
@@ -2684,18 +2684,18 @@
 | <b>Lance</b><br/><img alt="Lance animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20Repal%20by%20FPZero/8.%20Unarmed/Unarmed.gif"/> |
 
 
-### [\[Knight-Custom\] \[U\] DS-Style Repal by MK404](./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/)
-
-#### Weapons
-
-| <b>Lance</b><br/><img alt="Lance animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/2.%20Lance/Lance.gif"/> |
-
-
 ### [\[Knight-Custom\] \[U\] DS-Style by MK404](./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/)
 
 #### Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20by%20MK404/8.%20Unarmed/Unarmed.gif"/> |
+
+
+### [\[Knight-Custom\] \[U\] DS-Style Repal by MK404](./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/)
+
+#### Weapons
+
+| <b>Lance</b><br/><img alt="Lance animation" src="./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20DS-Style%20Repal%20by%20MK404/2.%20Lance/Lance.gif"/> |
 
 
 ### [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](./Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Custom%5D%20%5BU%5D%20FE10-Style%20by%20Iscaneus/)
@@ -2924,15 +2924,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Magic%20by%20Skitty/8.%20Unarmed/Unarmed.gif"/> |
 
 
-### [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/)
-
-#### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe%20(Armads)/Axe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ### [\[Hector-Custom\] \[M\] T2 Brave Hector by Nuramon](./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/)
 
 #### Weapons
@@ -2940,6 +2931,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/3.%20Axe%20(Armads)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+
+
+### [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/)
+
+#### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe%20(Armads)/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Hector-Reskin\] \[F\] T1 FE7if Milia](./Lords%20-%20FE6,%20FE7%20Types/%5BHector-Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia/)
@@ -3793,18 +3793,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20+Staff%20by%20Teraspark/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20+Staff%20by%20Teraspark/7.%20Staff/Staff.gif"/> |
 
 
-### [\[Monk-Base\] \[M\] Repal by Eldritch](./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/)
-
-#### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic.gif"/> |
-
-
 ### [\[Monk-Base\] \[M\] Repal by eCut](./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20eCut/)
 
 #### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20eCut/6.%20Magic/Magic.gif"/> |
+
+
+### [\[Monk-Base\] \[M\] Repal by Eldritch](./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/)
+
+#### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic.gif"/> |
 
 
 ### [\[Monk-Base\] \[M\] Vanilla FE6-8](./Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/)
@@ -3879,13 +3879,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Magi%20-%20Holy-Type/%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/8.%20Unarmed/Unarmed.gif"/> |
 
 
-### [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/)
-
-#### Weapons
-
-| <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ### [\[Priest-Reskin\] \[M\] Bald by Vilkalizer](./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20by%20Vilkalizer/)
 
 #### Weapons
@@ -3893,11 +3886,11 @@
 | <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> |
 
 
-### [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/)
+### [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/)
 
 #### Weapons
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer](./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/)
@@ -3905,6 +3898,13 @@
 #### Weapons
 
 | <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/7.%20Staff%20(Buff%20Generic%20Priest)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Generic%20Priest)/Unarmed.gif"/> |
+
+
+### [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/)
+
+#### Weapons
+
+| <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](./Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/)
@@ -4093,18 +4093,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic.gif"/> |
 
 
-### [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/)
-
-#### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic.gif"/> |
-
-
 ### [\[Mage-Custom1\] \[F\] Light Mage by L95](./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95/)
 
 #### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif"/> |
+
+
+### [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/)
+
+#### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic.gif"/> |
 
 
 ### [\[Mage-Custom1\] \[M\] Light Mage by L95](./Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95/)
@@ -4163,18 +4163,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic%20(Fixed)/Magic.gif"/> |
 
 
-### [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/)
-
-#### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
-
-
 ### [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight](./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight/)
 
 #### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
+
+
+### [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/)
+
+#### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
 
 
 ### [\[Pupil-Base\] \[M\] Vanilla FE8 +Staff by Citrus](./Magi%20-%20Nature-Type/%5BPupil-Base%5D%20%5BM%5D%20Vanilla%20FE8%20+Staff%20by%20Citrus/)
@@ -4478,18 +4478,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BM%5D%20Vanilla%20FE7%20Kishuna%20+Magic/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BM%5D%20Vanilla%20FE7%20Kishuna%20+Magic/8.%20Unarmed/Unarmed.gif"/> |
 
 
-### [\[Custom Oracle\] \[F\] Oracle Repal +Staff](./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/)
-
-#### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/7.%20Staff/Staff.gif"/> |
-
-
 ### [\[Custom Oracle\] \[F\] Oracle by GabrielKnight](./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight/)
 
 #### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
+
+
+### [\[Custom Oracle\] \[F\] Oracle Repal +Staff](./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/)
+
+#### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BF%5D%20Oracle%20Repal%20+Staff/7.%20Staff/Staff.gif"/> |
 
 
 ### [\[Custom Oracle\] \[M\] Oracle by GabrielKnight](./Magi%20-%20Special/%5BCustom%20Oracle%5D%20%5BM%5D%20Oracle%20by%20GabrielKnight/)
@@ -4824,6 +4824,13 @@
 | <b>Monster</b><br/><img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound/8.%20Monster/Monster.gif"/> |
 
 
+### [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/)
+
+#### Weapons
+
+| <b>Monster</b><br/><img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
+
+
 ### [\[Wolf-Variant\] \[F\] Kitsune Ninetails by ZoramineFae](./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/)
 
 #### Weapons
@@ -4831,11 +4838,11 @@
 | <b>Monster</b><br/><img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
 
 
-### [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/)
+### [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/)
 
 #### Weapons
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
 
 
 ### [\[Wolf-Variant\] \[M\] Kitsune Ninetails by ZoramineFae](./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/)
@@ -4850,13 +4857,6 @@
 #### Weapons
 
 | <b>Monster</b><br/><img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Repal/8.%20Monster/Monster.gif"/> |
-
-
-### [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/)
-
-#### Weapons
-
-| <b>Monster</b><br/><img alt="Monster animation" src="./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
 
 
 ### [\[Wolf-Variant\] \[M\] Wolfskin by Chhhsfe](./Monsters%20-%20Basic%20Types/%5BWolf-Variant%5D%20%5BM%5D%20Wolfskin%20by%20Chhhsfe/)
@@ -5547,6 +5547,15 @@
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Kent%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
+### [\[Paladin-Variant\] \[M\] Sain by Greentea](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/)
+
+#### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/3.%20Axe/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ### [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20+Weapons/)
 
 #### Weapons
@@ -5564,15 +5573,6 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/8.%20Unarmed/Unarmed.gif"/> | <b>Palettes</b><br/><img alt="Palettes animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal/Palettes/Palettes.gif"/> |
-
-
-### [\[Paladin-Variant\] \[M\] Sain by Greentea](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/)
-
-#### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/3.%20Axe/Axe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Ranger-Base\] \[F\] Vanilla](./Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Base%5D%20%5BF%5D%20Vanilla/)
@@ -5665,15 +5665,6 @@
 | <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/2.%20Lance%20%7BRaspberry%7D/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/8.%20Unarmed%20%7BRaspberry%7D/Unarmed.gif"/> |
 
 
-### [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/)
-
-#### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/1.%20Sword%20(Possibly%20borked)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/4.%20Handaxe/Handaxe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ### [\[Griffon\] \[U\] Griffon v1 by Blue Druid](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/)
 
 #### Weapons
@@ -5681,6 +5672,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/8.%20Unarmed/Unarmed.gif"/> |
+
+
+### [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/)
+
+#### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/1.%20Sword%20(Possibly%20borked)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/)
@@ -5697,18 +5697,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Deva%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 
 
-### [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/)
-
-#### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/6.%20Magic/Magic.gif"/> |
-
-
 ### [\[Peg Custom\] \[F\] Harrier by Ayr](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/)
 
 #### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/6.%20Magic/Magic.gif"/> |
+
+
+### [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/)
+
+#### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 
 
 ### [\[Peg Custom\] \[F\] Nephilim by Ayr](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Nephilim%20by%20Ayr/)
@@ -5958,15 +5958,6 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
-### [\[WL Reskin\] \[M\] Heath Generic by Greentea](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/)
-
-#### Weapons
-
-| <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ### [\[WL Reskin\] \[M\] Heath by Greentea](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/)
 
 #### Weapons
@@ -5974,6 +5965,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+
+
+### [\[WL Reskin\] \[M\] Heath Generic by Greentea](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/)
+
+#### Weapons
+
+| <b>Lance</b><br/><img alt="Lance animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[WL Reskin\] \[M\] Helmetless +Axe](./Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20+Axe/)
@@ -6133,18 +6133,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/7.%20Staff/Staff.gif"/> |
 
 
-### [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/)
-
-#### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff.gif"/> |
-
-
 ### [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/)
 
 #### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/7.%20Staff/Staff.gif"/> |
+
+
+### [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/)
+
+#### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff.gif"/> |
 
 
 ### [\[MK-Variant\] \[F\] Holy Knight by Teraspark](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20%5BF%5D%20Holy%20Knight%20by%20Teraspark/)
@@ -6186,18 +6186,18 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-### [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/)
-
-#### Weapons
-
-| <b>Staff</b><br/><img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ### [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/)
 
 #### Weapons
 
 | <b>Staff</b><br/><img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/8.%20Unarmed/Unarmed.gif"/> |
+
+
+### [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/)
+
+#### Weapons
+
+| <b>Staff</b><br/><img alt="Staff animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ### [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo](./Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/)

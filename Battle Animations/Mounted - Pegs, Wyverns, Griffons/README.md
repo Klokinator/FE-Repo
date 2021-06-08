@@ -14,15 +14,6 @@
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/2.%20Lance%20%7BRaspberry%7D/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/8.%20Unarmed%20%7BRaspberry%7D/Unarmed.gif"/> |
 
 
-## [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/)
-
-### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/1.%20Sword%20(Possibly%20borked)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/4.%20Handaxe/Handaxe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Griffon\] \[U\] Griffon v1 by Blue Druid](./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/)
 
 ### Weapons
@@ -30,6 +21,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/8.%20Unarmed/Unarmed.gif"/> |
+
+
+## [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/)
+
+### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/1.%20Sword%20(Possibly%20borked)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](./%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/)
@@ -46,18 +46,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BPeg%20Custom%5D%20%5BF%5D%20Deva%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 
 
-## [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/)
-
-### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/6.%20Magic/Magic.gif"/> |
-
-
 ## [\[Peg Custom\] \[F\] Harrier by Ayr](./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/)
 
 ### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/6.%20Magic/Magic.gif"/> |
+
+
+## [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/)
+
+### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 
 
 ## [\[Peg Custom\] \[F\] Nephilim by Ayr](./%5BPeg%20Custom%5D%20%5BF%5D%20Nephilim%20by%20Ayr/)
@@ -307,15 +307,6 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[WL Reskin\] \[M\] Heath Generic by Greentea](./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/)
-
-### Weapons
-
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[WL Reskin\] \[M\] Heath by Greentea](./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/)
 
 ### Weapons
@@ -323,6 +314,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+
+
+## [\[WL Reskin\] \[M\] Heath Generic by Greentea](./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/)
+
+### Weapons
+
+| <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[WL Reskin\] \[M\] Helmetless +Axe](./%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20+Axe/)

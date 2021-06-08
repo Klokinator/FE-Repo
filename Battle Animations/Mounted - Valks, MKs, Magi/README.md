@@ -88,18 +88,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/7.%20Staff/Staff.gif"/> |
 
 
-## [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/)
-
-### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff.gif"/> |
-
-
 ## [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/)
 
 ### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20by%20BatimaTheBat/7.%20Staff/Staff.gif"/> |
+
+
+## [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/)
+
+### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMK-Reskin%5D%20%5BF%5D%20Short%20Hair%20Repal%20by%20BatimaTheBat/7.%20Staff/Staff.gif"/> |
 
 
 ## [\[MK-Variant\] \[F\] Holy Knight by Teraspark](./%5BMK-Variant%5D%20%5BF%5D%20Holy%20Knight%20by%20Teraspark/)
@@ -141,18 +141,18 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20FE7-Style%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/)
-
-### Weapons
-
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/)
 
 ### Weapons
 
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/8.%20Unarmed/Unarmed.gif"/> |
+
+
+## [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/)
+
+### Weapons
+
+| <b>Staff</b><br/><img alt="Staff animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo](./%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/)

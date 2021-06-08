@@ -132,15 +132,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHector-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Magic%20by%20Skitty/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/)
-
-### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe%20(Armads)/Axe.gif"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Hector-Custom\] \[M\] T2 Brave Hector by Nuramon](./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/)
 
 ### Weapons
@@ -148,6 +139,15 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/3.%20Axe%20(Armads)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+
+
+## [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/)
+
+### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/3.%20Axe%20(Armads)/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Hector-Reskin\] \[F\] T1 FE7if Milia](./%5BHector-Reskin%5D%20%5BF%5D%20T1%20FE7if%20Milia/)

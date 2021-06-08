@@ -109,18 +109,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMonk-Base%5D%20%5BM%5D%20Repal%20+Staff%20by%20Teraspark/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMonk-Base%5D%20%5BM%5D%20Repal%20+Staff%20by%20Teraspark/7.%20Staff/Staff.gif"/> |
 
 
-## [\[Monk-Base\] \[M\] Repal by Eldritch](./%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/)
-
-### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic.gif"/> |
-
-
 ## [\[Monk-Base\] \[M\] Repal by eCut](./%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20eCut/)
 
 ### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20eCut/6.%20Magic/Magic.gif"/> |
+
+
+## [\[Monk-Base\] \[M\] Repal by Eldritch](./%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/)
+
+### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMonk-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic.gif"/> |
 
 
 ## [\[Monk-Base\] \[M\] Vanilla FE6-8](./%5BMonk-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/)
@@ -195,13 +195,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/)
-
-### Weapons
-
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Priest-Reskin\] \[M\] Bald by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20by%20Vilkalizer/)
 
 ### Weapons
@@ -209,11 +202,11 @@
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> |
 
 
-## [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/)
+## [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/)
 
 ### Weapons
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Bald%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/)
@@ -221,6 +214,13 @@
 ### Weapons
 
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/7.%20Staff%20(Buff%20Generic%20Priest)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Generic%20Priest)/Unarmed.gif"/> |
+
+
+## [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/)
+
+### Weapons
+
+| <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20Repal%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/)

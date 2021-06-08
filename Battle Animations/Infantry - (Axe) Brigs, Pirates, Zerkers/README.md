@@ -250,6 +250,13 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Base%5D%20%5BM%5D%20Vanilla%20+Sword%20by%20Pimpstick/8.%20Unarmed/Unarmed.gif"/> |
 
 
+## [\[Pirate-Custom\] \[M\] DS-Style by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/)
+
+### Weapons
+
+| <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ## [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/)
 
 ### Weapons
@@ -257,13 +264,6 @@
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 | <b>Palettes</b><br/><img alt="Palettes animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20No-Bandana%20by%20Der/Palettes/Palettes.gif"/> |
-
-
-## [\[Pirate-Custom\] \[M\] DS-Style by Der](./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/)
-
-### Weapons
-
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPirate-Custom%5D%20%5BM%5D%20DS-Style%20by%20Der/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Pirate-Reskin\] \[F\] Fir-Head by Waleed](./%5BPirate-Reskin%5D%20%5BF%5D%20Fir-Head%20by%20Waleed/)

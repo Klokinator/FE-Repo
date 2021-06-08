@@ -223,6 +223,13 @@
 | <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Vampirehound/8.%20Monster/Monster.gif"/> |
 
 
+## [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/)
+
+### Weapons
+
+| <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
+
+
 ## [\[Wolf-Variant\] \[F\] Kitsune Ninetails by ZoramineFae](./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/)
 
 ### Weapons
@@ -230,11 +237,11 @@
 | <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
 
 
-## [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/)
+## [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/)
 
 ### Weapons
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BF%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
 
 
 ## [\[Wolf-Variant\] \[M\] Kitsune Ninetails by ZoramineFae](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Ninetails%20by%20ZoramineFae/)
@@ -249,13 +256,6 @@
 ### Weapons
 
 | <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20Repal/8.%20Monster/Monster.gif"/> |
-
-
-## [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/)
-
-### Weapons
-
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BM%5D%20Kitsune%20by%20ZoramineFae/8.%20Monster/Monster.gif"/> |
 
 
 ## [\[Wolf-Variant\] \[M\] Wolfskin by Chhhsfe](./%5BWolf-Variant%5D%20%5BM%5D%20Wolfskin%20by%20Chhhsfe/)

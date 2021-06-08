@@ -177,6 +177,13 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/8.%20Unarmed/Unarmed.gif"/> |
 
 
+## [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/)
+
+### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ## [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/)
 
 ### Weapons
@@ -184,13 +191,6 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/8.%20Unarmed/Unarmed.gif"/> |
-
-
-## [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/)
-
-### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Rogue-Reskin\] \[M\] Trickster by Leo_Link](./%5BRogue-Reskin%5D%20%5BM%5D%20Trickster%20by%20Leo_Link/)
@@ -272,6 +272,13 @@
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
 
 
+## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/)
+
+### Weapons
+
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> |
+
+
 ## [\[Thief-Base\] \[M\] Matthew Repal by Eldritch](./%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Eldritch/)
 
 ### Weapons
@@ -284,13 +291,6 @@
 ### Weapons
 
 | <b>Knife</b><br/><img alt="Knife animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife/8.%20Unarmed/Unarmed.gif"/> |
-
-
-## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/)
-
-### Weapons
-
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> |
 
 
 ## [\[Thief-Base\] \[M\] Vanilla FE7 Legault](./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault/)

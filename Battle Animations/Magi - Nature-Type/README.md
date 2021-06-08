@@ -42,18 +42,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma/6.%20Magic/Magic.gif"/> |
 
 
-## [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/)
-
-### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic.gif"/> |
-
-
 ## [\[Mage-Custom1\] \[F\] Light Mage by L95](./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95/)
 
 ### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif"/> |
+
+
+## [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/)
+
+### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20by%20L95/6.%20Magic/Magic.gif"/> |
 
 
 ## [\[Mage-Custom1\] \[M\] Light Mage by L95](./%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95/)
@@ -112,18 +112,18 @@
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic%20(Fixed)/Magic.gif"/> |
 
 
-## [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](./%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/)
-
-### Weapons
-
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
-
-
 ## [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight](./%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight/)
 
 ### Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
+
+
+## [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](./%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/)
+
+### Weapons
+
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
 
 
 ## [\[Pupil-Base\] \[M\] Vanilla FE8 +Staff by Citrus](./%5BPupil-Base%5D%20%5BM%5D%20Vanilla%20FE8%20+Staff%20by%20Citrus/)

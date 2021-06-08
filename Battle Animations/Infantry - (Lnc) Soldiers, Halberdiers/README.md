@@ -1,17 +1,17 @@
 # [Infantry - (Lnc) Soldiers, Halberdiers Battle Animations](./)
 
-## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/)
-
-### Weapons
-
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/)
 
 ### Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/8.%20Unarmed/Unarmed.gif"/> |
+
+
+## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/)
+
+### Weapons
+
+| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Custom Halb\] \[F\] Halberdier by Black Mage](./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/)

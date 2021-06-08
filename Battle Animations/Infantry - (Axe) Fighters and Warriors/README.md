@@ -175,6 +175,15 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
+## [\[Warrior-Reskin\] \[F\] Repal by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/)
+
+### Weapons
+
+| <b>Axe</b><br/><img alt="Axe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
+
+
 ## [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp/)
 
 ### Weapons
@@ -191,15 +200,6 @@
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
-
-
-## [\[Warrior-Reskin\] \[F\] Repal by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/)
-
-### Weapons
-
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/5.%20Bow/Bow.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Warrior-Reskin\] \[M\] Bartre Alt1 by Jey the Count](./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count/)

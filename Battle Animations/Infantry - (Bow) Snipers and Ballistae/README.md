@@ -7,13 +7,6 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
-## [\[Ballista\] \[F\] Louise Caped by Greentea](./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/)
-
-### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
-
-
 ## [\[Ballista\] \[F\] Louise by St Jack](./%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/)
 
 ### Weapons
@@ -21,25 +14,18 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
+## [\[Ballista\] \[F\] Louise Caped by Greentea](./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/)
+
+### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
 ## [\[Ballista\] \[F\] Neimi by Seal](./%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/)
 
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/5.%20Bow/Bow.gif"/> |
-
-
-## [\[Ballista\] \[F\] Rebecca Catapult](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/)
-
-### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
-
-
-## [\[Ballista\] \[F\] Rebecca Catapult Repal](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/)
-
-### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
 ## [\[Ballista\] \[F\] Rebecca by Greentea](./%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea/)
@@ -54,6 +40,20 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
+## [\[Ballista\] \[F\] Rebecca Catapult](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/)
+
+### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
+## [\[Ballista\] \[F\] Rebecca Catapult Repal](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/)
+
+### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
 ## [\[Ballista\] \[F\] Sniper by St Jack](./%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/)
@@ -105,6 +105,13 @@
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
+## [\[Ballista\] \[M\] Wolt by St Jack](./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/)
+
+### Weapons
+
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+
+
 ## [\[Ballista\] \[M\] Wolt Catapult](./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/)
 
 ### Weapons
@@ -117,13 +124,6 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal/5.%20Bow/Bow.gif"/> |
-
-
-## [\[Ballista\] \[M\] Wolt by St Jack](./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/)
-
-### Weapons
-
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 
 
 ## [\[Sniper-Base\] \[F\] Vanilla FE6](./%5BSniper-Base%5D%20%5BF%5D%20Vanilla%20FE6/)

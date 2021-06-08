@@ -14,6 +14,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20FEGirls%20Vanilla-Style/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20FEGirls%20Vanilla-Style/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20FEGirls%20Vanilla-Style/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Reskin\] \[F\] Long Haired by Black Mage](./%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage/)
@@ -21,6 +22,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20Long%20Haired%20by%20Black%20Mage/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Reskin\] \[F\] Short Haired by Black Mage](./%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage/)
@@ -28,6 +30,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BF%5D%20Short%20Haired%20by%20Black%20Mage/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Reskin\] \[M\] Bartre by Jey the Count](./%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count/)
@@ -35,6 +38,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Bartre%20by%20Jey%20the%20Count/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Reskin\] \[M\] Dorcas by Jey the Count](./%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/)
@@ -42,6 +46,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Jey%20the%20Count/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Reskin\] \[M\] Flashy Armored by Waleed](./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed/)
@@ -49,6 +54,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armored%20by%20Waleed/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Reskin\] \[M\] Flashy Armorless by Waleed](./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/)
@@ -56,6 +62,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Flashy%20Armorless%20by%20Waleed/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Reskin\] \[M\] Tellius-Style Clothing by Leo_Link](./%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/)
@@ -63,6 +70,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Reskin%5D%20%5BM%5D%20Tellius-Style%20Clothing%20by%20Leo_Link/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](./%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/)
@@ -70,6 +78,7 @@
 ### Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/5.%20Bow/Bow.gif"/> |
+| :---: |
 
 
 ## [\[Fighter-Variant\] \[F\] FE9 Variant by Pikmin](./%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin/)
@@ -77,6 +86,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Variant\] \[M\] FE9 Original by MK404](./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404/)
@@ -84,6 +94,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Original%20by%20MK404/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Fighter-Variant\] \[M\] FE9 Repal by Glenwing](./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing/)
@@ -91,6 +102,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFighter-Variant%5D%20%5BM%5D%20FE9%20Repal%20by%20Glenwing/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Journeyman-Base\] \[M\] Vanilla +Weapons](./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/)
@@ -107,6 +119,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/3.%20Axe%20(+Magic)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BJourneyman-Base%5D%20%5BM%5D%20Vanilla%20Repal%20by%20SamirPlayz/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Journeyman-Reskin\] \[F\] Long-Haired by Gav333](./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/)
@@ -114,6 +127,7 @@
 ### Weapons
 
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BJourneyman-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Gav333/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 ## [\[Journeyman-Type\] \[M\] Waleed's Squire](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/)
@@ -121,6 +135,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 ## [\[Journeyman-Type\] \[M\] Waleed's Squire v2 Repal](./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal/)
@@ -128,6 +143,7 @@
 ### Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BJourneyman-Type%5D%20%5BM%5D%20Waleed's%20Squire%20v2%20Repal/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 ## [\[Warrior-Base\] \[M\] Repal Leather by Pushwall](./%5BWarrior-Base%5D%20%5BM%5D%20Repal%20Leather%20by%20Pushwall/)
@@ -175,15 +191,6 @@
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Original%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
-## [\[Warrior-Reskin\] \[F\] Repal by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/)
-
-### Weapons
-
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/5.%20Bow/Bow.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
-
-
 ## [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp/)
 
 ### Weapons
@@ -200,6 +207,15 @@
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Long%20Hair%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
+
+
+## [\[Warrior-Reskin\] \[F\] Repal by Temp](./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/)
+
+### Weapons
+
+| <b>Axe</b><br/><img alt="Axe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20by%20Temp/8.%20Unarmed/Unarmed.gif"/> |
 
 
 ## [\[Warrior-Reskin\] \[M\] Bartre Alt1 by Jey the Count](./%5BWarrior-Reskin%5D%20%5BM%5D%20Bartre%20Alt1%20by%20Jey%20the%20Count/)

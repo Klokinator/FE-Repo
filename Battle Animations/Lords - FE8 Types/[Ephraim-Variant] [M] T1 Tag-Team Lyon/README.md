@@ -10,3 +10,4 @@ Believe it or not, this animation does actually fit within the 16 color limit of
 ## Weapons
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> |
+| :---: |

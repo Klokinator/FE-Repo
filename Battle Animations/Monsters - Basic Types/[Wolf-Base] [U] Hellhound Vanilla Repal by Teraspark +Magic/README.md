@@ -8,3 +8,4 @@ This repalette also includes a ranged animation so the monster can attack with m
 ## Weapons
 
 | <b>Monster</b><br/><img alt="Monster animation" src="./8.%20Monster/Monster.gif"/> |
+| :---: |

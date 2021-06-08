@@ -6,3 +6,4 @@ Devisian_Nights, Pikmin1211, Wan, Tsushima
 ## Weapons
 
 | <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> |
+| :---: |

@@ -8,3 +8,4 @@ This animation could use touchups and edits by the community to improve its qual
 ## Weapons
 
 | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> |
+| :---: |

@@ -8,3 +8,4 @@ Note that this animation is very old and needs touchups by the community. It cou
 ## Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> |
+| :---: |

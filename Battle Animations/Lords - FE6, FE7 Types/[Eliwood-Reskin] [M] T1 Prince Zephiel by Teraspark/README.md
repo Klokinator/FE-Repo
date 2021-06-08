@@ -10,3 +10,4 @@ This animation has some awkward body/anatomy inconsistencies, particularly with 
 ## Weapons
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> |
+| :---: |

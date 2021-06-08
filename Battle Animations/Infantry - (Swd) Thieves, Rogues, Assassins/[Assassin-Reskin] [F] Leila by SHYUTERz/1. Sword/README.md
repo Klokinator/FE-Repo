@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by SHYUTERz.
-	
+
 ## Sword
 
 | Still | Animation |

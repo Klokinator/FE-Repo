@@ -11,7 +11,7 @@ Palettes by Pikmin1211
 Map Sprite by Pikmin1211 and DerTheVaporeon
 
 Class Card by DerTheVaporeon
-	
+
 ## Magic
 
 | Still | Animation |

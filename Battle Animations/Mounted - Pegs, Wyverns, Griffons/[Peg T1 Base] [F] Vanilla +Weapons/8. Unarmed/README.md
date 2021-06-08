@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Sword by MK404.
 
 Staff by MakeFEGayer.
-	
+
 ## Unarmed
 
 | Still | Animation |

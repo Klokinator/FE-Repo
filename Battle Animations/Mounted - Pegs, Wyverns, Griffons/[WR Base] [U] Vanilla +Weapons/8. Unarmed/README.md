@@ -9,7 +9,7 @@ Axe and Handaxe by Mikey Seregon, Alfred Kamon.
 Bow by PrincessKilvas, Spud.
 
 Bow (Palette Fix) by PrincessKilvas, Spud, Blue Druid.
-	
+
 ## Unarmed
 
 | Still | Animation |

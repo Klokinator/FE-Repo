@@ -5,7 +5,7 @@
 Animations made by the FE7if devs.
 
 Fixes to the animations/palettes by Shin19.
-	
+
 ## Magic
 
 | Still | Animation |

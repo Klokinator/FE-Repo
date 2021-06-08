@@ -3,7 +3,7 @@
 ## Credit
 
 {MK404}
-	
+
 ## Handaxe
 
 | Still | Animation |

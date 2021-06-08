@@ -5,7 +5,7 @@
 Animation by Greentea.
 
 Scripting by DerTheVaporeon.
-	
+
 ## Magic
 
 | Still | Animation |

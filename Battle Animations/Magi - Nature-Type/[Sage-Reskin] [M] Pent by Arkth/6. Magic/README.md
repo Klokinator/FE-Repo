@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Arkth.
-	
+
 ## Magic
 
 | Still | Animation |

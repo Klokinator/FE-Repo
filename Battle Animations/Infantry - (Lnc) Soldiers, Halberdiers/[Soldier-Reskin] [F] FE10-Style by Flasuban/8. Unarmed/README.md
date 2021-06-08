@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Flasuban.
-	
+
 ## Unarmed
 
 | Still | Animation |

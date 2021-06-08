@@ -3,7 +3,7 @@
 ## Credit
 
 JonoTheRed, ZoramineFae
-	
+
 ## Axe
 
 | Still | Animation |

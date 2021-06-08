@@ -3,7 +3,7 @@
 ## Credit
 
 Made by .
-	
+
 ## Magic
 
 | Still | Animation |

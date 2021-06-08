@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Maiser6.
-	
+
 ## Unarmed
 
 | Still | Animation |

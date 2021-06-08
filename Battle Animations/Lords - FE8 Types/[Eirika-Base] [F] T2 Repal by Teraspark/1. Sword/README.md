@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Teraspark.
-	
+
 ## Sword
 
 | Still | Animation |

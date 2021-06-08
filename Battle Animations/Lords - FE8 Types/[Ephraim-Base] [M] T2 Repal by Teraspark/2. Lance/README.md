@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Repalette by Teraspark.
-	
+
 ## Lance
 
 | Still | Animation |

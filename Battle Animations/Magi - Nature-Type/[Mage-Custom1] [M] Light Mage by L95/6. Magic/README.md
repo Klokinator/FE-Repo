@@ -5,7 +5,7 @@
 Made by Leo_Link and L95.
 
 Male variant by Flasuban.
-	
+
 ## Magic
 
 | Still | Animation |

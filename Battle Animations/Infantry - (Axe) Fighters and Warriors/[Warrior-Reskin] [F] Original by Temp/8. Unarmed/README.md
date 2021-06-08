@@ -5,7 +5,7 @@
 Base Warrior by IS.
 
 Female variant by Temp.
-	
+
 ## Unarmed
 
 | Still | Animation |

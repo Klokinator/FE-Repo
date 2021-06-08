@@ -7,7 +7,7 @@ Made by Red Bean.
 Scripted by Jeorge_Reds.
 
 Eirika-Style variant made by EA.
-	
+
 ## Unarmed
 
 | Still | Animation |

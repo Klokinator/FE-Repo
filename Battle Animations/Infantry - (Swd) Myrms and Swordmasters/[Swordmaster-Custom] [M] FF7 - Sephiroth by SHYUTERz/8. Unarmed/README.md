@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Trooper, AKA, and SHYUTERz.
-	
+
 ## Unarmed
 
 | Still | Animation |

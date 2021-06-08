@@ -5,7 +5,7 @@
 Sprited by Spud.
 
 Scripted/Animated by HyperGammaSpaces.
-	
+
 ## Bow
 
 | Still | Animation |

@@ -7,7 +7,7 @@ Base animation by Greentea.
 Scripting for Base animation by RobertFPY.
 
 Generic variant by Flasuban.
-	
+
 ## Magic
 
 | Still | Animation |

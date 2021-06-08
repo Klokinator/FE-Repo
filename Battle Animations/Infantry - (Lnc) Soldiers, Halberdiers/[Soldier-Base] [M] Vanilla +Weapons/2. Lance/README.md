@@ -7,7 +7,7 @@ Base Soldier by IS.
 Sword animation by Arthur Pendragon.
 
 Staff by Orihara_Saki.
-	
+
 ## Lance
 
 | Still | Animation |

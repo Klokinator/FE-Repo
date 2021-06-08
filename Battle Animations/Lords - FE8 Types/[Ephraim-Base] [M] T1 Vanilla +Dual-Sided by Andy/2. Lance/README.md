@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Dual Lance by Andy.
-	
+
 ## Lance
 
 | Still | Animation |

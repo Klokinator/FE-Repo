@@ -5,7 +5,7 @@
 Animation by Melia.
 
 Note that this animation lacks a shadow, making it appear to 'float' on battle platforms.
-	
+
 ## Staff
 
 | Still | Animation |

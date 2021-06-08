@@ -3,7 +3,7 @@
 ## Credit
 
 {Jj09, Pikmin1211}
-	
+
 ## Magic
 
 | Still | Animation |

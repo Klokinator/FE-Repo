@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Oswin variant by JeyTheCount.
-	
+
 ## Unarmed
 
 | Still | Animation |

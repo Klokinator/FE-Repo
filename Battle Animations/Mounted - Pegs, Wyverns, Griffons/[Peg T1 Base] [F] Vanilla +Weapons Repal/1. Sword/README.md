@@ -7,7 +7,7 @@ Repalette by OreoStyx.
 Sword by MK404.
 
 Staff by MakeFEGayer.
-	
+
 ## Sword
 
 | Still | Animation |

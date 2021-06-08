@@ -5,7 +5,7 @@
 Made by FlyingAce24.
 
 Scripted by Primefusion.
-	
+
 ## Handaxe
 
 | Still | Animation |

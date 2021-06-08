@@ -5,7 +5,7 @@
 Cavalier custom by SALVAGED.
 
 Female version by Flasuban.
-	
+
 ## Axe
 
 | Still | Animation |

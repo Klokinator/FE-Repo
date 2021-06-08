@@ -5,7 +5,7 @@
 Base animation by Team SALVAGED. 
 
 Helmetless variant by BoneManSeth.
-	
+
 ## Handaxe
 
 | Still | Animation |

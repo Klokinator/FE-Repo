@@ -3,7 +3,7 @@
 ## Credit
 
 Made by the FE7if devs.
-	
+
 ## Unarmed
 
 | Still | Animation |

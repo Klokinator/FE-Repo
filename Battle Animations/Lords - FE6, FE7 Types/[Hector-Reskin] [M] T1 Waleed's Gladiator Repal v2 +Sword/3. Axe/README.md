@@ -9,7 +9,7 @@ Repalette by Pushwall.
 Axe anim error fixes by Lord_Tweed.
 
 Sword anim by Lord_Tweed, Zane Avernathy.
-	
+
 ## Axe
 
 | Still | Animation |

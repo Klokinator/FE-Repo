@@ -3,7 +3,7 @@
 ## Credit
 
 Devisian_Nights, Pikmin1211, Wan, Tsushima
-	
+
 ## Magic
 
 | Still | Animation |

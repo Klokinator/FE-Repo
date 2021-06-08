@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Russell Clark.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by seergiioo.
-	
+
 ## Magic
 
 | Still | Animation |

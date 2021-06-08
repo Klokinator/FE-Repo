@@ -5,7 +5,7 @@
 Caped Variant made by Yangfly Master.
 
 Previously called the Lord-Style Archer.
-	
+
 ## Bow
 
 | Still | Animation |

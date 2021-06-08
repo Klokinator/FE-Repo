@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Teraspark.
-	
+
 ## Staff
 
 | Still | Animation |

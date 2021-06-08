@@ -5,7 +5,7 @@
 Made by Redbean.
 
 Scripted by Marlon0024.
-	
+
 ## Unarmed
 
 | Still | Animation |

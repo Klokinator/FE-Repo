@@ -5,7 +5,7 @@
 Winged SM crit by Watching Dog.
 
 SM-only crit by Pikmin1211.
-	
+
 ## Monster
 
 | Still | Animation |

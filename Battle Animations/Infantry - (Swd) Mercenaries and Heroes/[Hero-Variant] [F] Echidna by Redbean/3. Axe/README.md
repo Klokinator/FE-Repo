@@ -3,7 +3,7 @@
 ## Credit
 
 {Red Bean, Zelix}
-	
+
 ## Axe
 
 | Still | Animation |

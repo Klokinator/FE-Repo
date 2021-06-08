@@ -5,7 +5,7 @@
 Made by Seal.
 
 Magic animation by Yera.
-	
+
 ## Magic
 
 | Still | Animation |

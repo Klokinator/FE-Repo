@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Skitty.
-	
+
 ## Unarmed
 
 | Still | Animation |

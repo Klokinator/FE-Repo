@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Aruka, Kenpuhu.
-	
+
 ## Handaxe
 
 | Still | Animation |

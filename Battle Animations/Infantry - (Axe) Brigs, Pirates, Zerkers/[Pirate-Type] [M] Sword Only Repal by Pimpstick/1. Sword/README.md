@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Pimpstick.
-	
+
 ## Sword
 
 | Still | Animation |

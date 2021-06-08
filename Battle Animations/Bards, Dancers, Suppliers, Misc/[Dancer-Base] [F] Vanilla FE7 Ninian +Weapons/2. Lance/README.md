@@ -9,7 +9,7 @@ Lance by MeatOfJustice.
 Staff by Mikey_Seregon.
 
 Dragonstone by Marlon0024.
-	
+
 ## Lance
 
 | Still | Animation |

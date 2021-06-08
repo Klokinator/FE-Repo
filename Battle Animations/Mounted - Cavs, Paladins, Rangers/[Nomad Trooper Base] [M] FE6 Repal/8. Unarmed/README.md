@@ -3,7 +3,7 @@
 ## Credit
 
 {Pikmin1211, Maiser6}
-	
+
 ## Unarmed
 
 | Still | Animation |

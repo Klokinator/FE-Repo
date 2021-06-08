@@ -3,7 +3,7 @@
 ## Credit
 
 Version 2 Mage Lord by Eldritch Abomination.
-	
+
 ## Magic
 
 | Still | Animation |

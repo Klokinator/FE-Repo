@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Keks_Krebs, Beccarte, SD9K
-	
+
 ## Unarmed
 
 | Still | Animation |

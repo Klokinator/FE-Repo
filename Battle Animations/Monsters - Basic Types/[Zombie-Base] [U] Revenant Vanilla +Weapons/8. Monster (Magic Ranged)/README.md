@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Goop Attack by Sme.
 
 Magic Ranged by Teraspark.
-	
+
 ## Monster
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {Aruka, Kenpuhu}
-	
+
 ## Staff
 
 | Still | Animation |

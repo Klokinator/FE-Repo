@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Knabepicer.
-	
+
 ## Unarmed
 
 | Still | Animation |

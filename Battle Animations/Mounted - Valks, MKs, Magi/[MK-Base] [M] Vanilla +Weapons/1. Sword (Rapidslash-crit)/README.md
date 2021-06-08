@@ -13,7 +13,7 @@ Lance by Teraspark.
 Magic (+FE7 Compatible) by ???
 
 Magic (Sword) by Seal, Sacred War.
-	
+
 ## Sword
 
 | Still | Animation |

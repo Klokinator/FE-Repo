@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Aruka, Kenpuhu.
-	
+
 ## Staff
 
 | Still | Animation |

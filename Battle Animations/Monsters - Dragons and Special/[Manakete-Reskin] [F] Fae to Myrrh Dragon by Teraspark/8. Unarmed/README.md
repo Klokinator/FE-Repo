@@ -3,7 +3,7 @@
 ## Credit
 
 Beansy, Teraspark
-	
+
 ## Unarmed
 
 | Still | Animation |

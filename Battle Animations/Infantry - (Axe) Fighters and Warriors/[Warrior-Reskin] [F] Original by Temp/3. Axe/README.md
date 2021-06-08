@@ -5,7 +5,7 @@
 Base Warrior by IS.
 
 Female variant by Temp.
-	
+
 ## Axe
 
 | Still | Animation |

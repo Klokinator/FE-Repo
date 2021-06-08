@@ -3,7 +3,7 @@
 ## Credit
 
 {Skitty}
-	
+
 ## Handaxe
 
 | Still | Animation |

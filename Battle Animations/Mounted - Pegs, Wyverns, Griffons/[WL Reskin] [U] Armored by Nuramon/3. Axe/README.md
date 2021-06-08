@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Nuramon.
-	
+
 ## Axe
 
 | Still | Animation |

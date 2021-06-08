@@ -3,7 +3,7 @@
 ## Credit
 
 {Gavvv333}
-	
+
 ## Axe
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Improved Falcoknight by Flasuban.
 
 Bow by Knabepicer, Nuramon.
-	
+
 ## Staff
 
 | Still | Animation |

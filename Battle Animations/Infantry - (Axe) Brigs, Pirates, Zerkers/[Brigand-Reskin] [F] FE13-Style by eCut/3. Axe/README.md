@@ -3,7 +3,7 @@
 ## Credit
 
 Hoodie, Leo_Link, Iscaneus, eCut, Skitty
-	
+
 ## Axe
 
 | Still | Animation |

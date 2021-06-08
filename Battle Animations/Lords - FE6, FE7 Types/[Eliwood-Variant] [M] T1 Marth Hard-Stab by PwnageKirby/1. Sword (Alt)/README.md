@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Pwnagekirby, aka Charlotte.
-	
+
 ## Sword
 
 | Still | Animation |

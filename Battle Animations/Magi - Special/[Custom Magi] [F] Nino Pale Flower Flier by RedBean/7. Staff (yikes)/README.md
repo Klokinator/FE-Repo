@@ -3,7 +3,7 @@
 ## Credit
 
 RedBean, Mikey Seregon, Marlon0024, yikes
-	
+
 ## Staff
 
 | Still | Animation |

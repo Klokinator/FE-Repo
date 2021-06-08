@@ -13,7 +13,7 @@ Jojo-Jaffar and Knife Alt by DerTheVaporeon.
 Knife by JJ09.
 
 Bow by Andy and SD9K.
-	
+
 ## Sword
 
 | Still | Animation |

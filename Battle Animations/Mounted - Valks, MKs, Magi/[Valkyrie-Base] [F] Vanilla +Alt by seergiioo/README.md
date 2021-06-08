@@ -1,8 +1,4 @@
 # [\[Valkyrie-Base\] \[F\] Vanilla +Alt by seergiioo](./)
- 
-
-<img src="./6.%20Magic/Magic_000.png" alt="[Valkyrie-Base] [F] Vanilla +Alt by seergiioo standing" />
-
 ## Credits
 
 Vanilla animation by IS.
@@ -10,8 +6,5 @@ Vanilla animation by IS.
 Magic w/staff animation by seergiioo.
 
 ## Weapons
- 
 
-|Magic |Magic |Staff |
-|  :---: | :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Magic%20(Staff)/Magic.gif" /> | <img alt="Staff animation" src="./7.%20Staff/Staff.gif" /> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> |

@@ -5,7 +5,7 @@
 Animation by Nuramon.
 
 Spinning Handaxe by Sax-Marine.
-	
+
 ## Sword
 
 | Still | Animation |

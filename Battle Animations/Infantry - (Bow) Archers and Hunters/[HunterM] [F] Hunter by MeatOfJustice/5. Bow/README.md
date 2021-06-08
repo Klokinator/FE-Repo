@@ -3,7 +3,7 @@
 ## Credit
 
 Leo_link, Spud, MeatOfJustice
-	
+
 ## Bow
 
 | Still | Animation |

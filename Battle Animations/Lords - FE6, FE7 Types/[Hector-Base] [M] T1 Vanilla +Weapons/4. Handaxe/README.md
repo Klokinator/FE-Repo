@@ -7,7 +7,7 @@ Original animation by IS.
 Sword by Zane Avernathy.
 
 Axe (Punch Crit) by Vilkalizer.
-	
+
 ## Handaxe
 
 | Still | Animation |

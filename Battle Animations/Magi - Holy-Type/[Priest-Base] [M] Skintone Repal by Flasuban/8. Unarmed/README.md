@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Eldritch, Flasuban, Sme}
-	
+
 ## Unarmed
 
 | Still | Animation |

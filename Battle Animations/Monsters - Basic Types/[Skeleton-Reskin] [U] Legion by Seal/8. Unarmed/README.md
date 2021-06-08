@@ -7,7 +7,7 @@ Variant by Seal.
 Unarmed by Blood.
 
 Unarmed +Shield by SaxMarine.
-	
+
 ## Unarmed
 
 | Still | Animation |

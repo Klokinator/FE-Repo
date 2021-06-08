@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Wan/Eliwan.
-	
+
 ## Unarmed
 
 | Still | Animation |

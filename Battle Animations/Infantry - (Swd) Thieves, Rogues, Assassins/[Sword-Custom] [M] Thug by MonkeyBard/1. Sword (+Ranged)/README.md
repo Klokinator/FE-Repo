@@ -3,7 +3,7 @@
 ## Credit
 
 Monkeybard, Miguel-Rojo
-	
+
 ## Sword
 
 | Still | Animation |

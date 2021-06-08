@@ -5,7 +5,7 @@
 Pikmin1211, Maiser6, Ukelele, SD9k, Temp, Black Mage, Wan, Orihara_Saki, ltranc
 
 Knife by Orihara_Saki, ltranc.
-	
+
 ## Knife
 
 | Still | Animation |

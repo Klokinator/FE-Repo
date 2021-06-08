@@ -5,7 +5,7 @@
 Vanilla base animation by IS.
 
 Variant by Mikey Seregon.
-	
+
 ## Magic
 
 | Still | Animation |

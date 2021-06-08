@@ -9,7 +9,7 @@ Lance by Flasuban.
 Magic by Sme, Lisandra_Brave.
 
 Magic Alt by FaerieFruit.
-	
+
 ## Sword
 
 | Still | Animation |

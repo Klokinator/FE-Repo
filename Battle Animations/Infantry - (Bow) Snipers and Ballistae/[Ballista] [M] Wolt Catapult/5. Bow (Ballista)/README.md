@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Spud, Ren_Ookami}
-	
+
 ## Bow
 
 | Still | Animation |

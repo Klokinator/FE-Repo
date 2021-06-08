@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Jeorge_Reds, Brunhilda.
-	
+
 ## Sword
 
 | Still | Animation |

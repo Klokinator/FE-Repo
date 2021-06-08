@@ -3,7 +3,7 @@
 ## Credit
 
 {Nuramon}
-	
+
 ## Handaxe
 
 | Still | Animation |

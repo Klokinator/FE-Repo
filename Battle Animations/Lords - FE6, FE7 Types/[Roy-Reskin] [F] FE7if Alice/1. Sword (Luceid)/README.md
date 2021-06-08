@@ -5,7 +5,7 @@
 Animation made by the FE7if devs.
 
 Fixed animations by (???)
-	
+
 ## Sword
 
 | Still | Animation |

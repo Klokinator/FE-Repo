@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Alternate attack by Glenwing. 
-	
+
 ## Sword
 
 | Still | Animation |

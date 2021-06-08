@@ -1,15 +1,8 @@
 # [\[Cleric-Reskin\] \[F\] Less Religious by Mariah](./)
- 
-
-<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] Less Religious by Mariah standing" />
-
 ## Credits
 
 Made by Mariah the Magician.
 
 ## Weapons
- 
 
-|Staff |
-|  :---: |
-| <img alt="Staff animation" src="./7.%20Staff/Staff.gif" /> |
+| <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> |

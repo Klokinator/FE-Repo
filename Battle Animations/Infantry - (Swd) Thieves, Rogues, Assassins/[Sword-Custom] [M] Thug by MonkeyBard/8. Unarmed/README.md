@@ -3,7 +3,7 @@
 ## Credit
 
 Monkeybard, Miguel-Rojo
-	
+
 ## Unarmed
 
 | Still | Animation |

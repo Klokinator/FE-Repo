@@ -3,7 +3,7 @@
 ## Credit
 
 {Lenh}
-	
+
 ## Axe
 
 | Still | Animation |

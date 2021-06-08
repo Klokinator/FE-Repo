@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by {Swain}
-	
+
 ## Sword
 
 | Still | Animation |

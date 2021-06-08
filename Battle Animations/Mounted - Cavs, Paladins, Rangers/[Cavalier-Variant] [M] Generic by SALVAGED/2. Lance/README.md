@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Team SALVAGED.
-	
+
 ## Lance
 
 | Still | Animation |

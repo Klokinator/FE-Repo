@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Nuramon.
-	
+
 ## Magic
 
 | Still | Animation |

@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Magic Staff by seergioo.
 
 Magic by Lisandra_Brave.
-	
+
 ## Magic
 
 | Still | Animation |

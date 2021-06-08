@@ -1,8 +1,4 @@
 # [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](./)
- 
-
-<img src="./8.%20Dragonstone%20(FE7)/Dragonstone_000.png" alt="[Manakete-Base] [F] Vanilla FE6 Fire Dragon +FE7 standing" />
-
 ## Credits
 
 IS, Marlon0024, Eldritch Abomination, SHYUTERz
@@ -14,8 +10,7 @@ IS, Marlon0024, Eldritch Abomination, SHYUTERz
 8. Dragonstone (Vanilla) (Disembodied Head)
 
 ## Weapons
- 
 
-|Dragonstone |Dragonstone |Dragonstone |Dragonstone |Dragonstone |Unarmed |
-|  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE7)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE7)%20(Shorter%20Alt)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE8)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FEx)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Vanilla)%20(No%20Body)/Dragonstone.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed%20(Vanilla)/Unarmed.gif" /> |
+| <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE7)/Dragonstone.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE7)%20(Shorter%20Alt)/Dragonstone.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FE8)/Dragonstone.gif"/> |
+| :---: | :---: | :---: |
+| <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(FEx)/Dragonstone.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Vanilla)%20(No%20Body)/Dragonstone.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed%20(Vanilla)/Unarmed.gif"/> |

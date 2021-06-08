@@ -3,7 +3,7 @@
 ## Credit
 
 {DerTheVaporeon, Isaac, Pikmin1211}
-	
+
 ## Magic
 
 | Still | Animation |

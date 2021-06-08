@@ -5,7 +5,7 @@
 Animation by cybaster, Luerock.
 
 GBA Port by SHYUTERz.
-	
+
 ## Unarmed
 
 | Still | Animation |

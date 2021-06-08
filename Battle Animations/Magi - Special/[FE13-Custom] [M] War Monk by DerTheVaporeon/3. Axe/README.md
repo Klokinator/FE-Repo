@@ -3,7 +3,7 @@
 ## Credit
 
 DerTheVaporeon, Pikmin1211
-	
+
 ## Axe
 
 | Still | Animation |

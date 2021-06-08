@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Sword animations both added by Maiser6 and Raiden.
-	
+
 ## Staff
 
 | Still | Animation |

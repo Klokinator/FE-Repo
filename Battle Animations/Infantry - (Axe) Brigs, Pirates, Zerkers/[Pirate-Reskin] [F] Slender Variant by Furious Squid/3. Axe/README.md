@@ -5,7 +5,7 @@
 Animation by Furious Squid.
 
 Scripting by Jj09.
-	
+
 ## Axe
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Helmetless version by Flasuban.
 
 Axe and Handaxe by TBA.
-	
+
 ## Lance
 
 | Still | Animation |

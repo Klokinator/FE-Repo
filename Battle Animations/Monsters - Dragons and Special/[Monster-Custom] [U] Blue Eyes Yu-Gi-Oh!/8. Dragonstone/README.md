@@ -5,7 +5,7 @@
 Made by Yangfly Master.
 
 Rips taken from Jump Ultimate.
-	
+
 ## Dragonstone
 
 | Still | Animation |

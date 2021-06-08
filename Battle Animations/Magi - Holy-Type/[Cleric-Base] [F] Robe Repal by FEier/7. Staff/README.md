@@ -3,7 +3,7 @@
 ## Credit
 
 Made by FEier.
-	
+
 ## Staff
 
 | Still | Animation |

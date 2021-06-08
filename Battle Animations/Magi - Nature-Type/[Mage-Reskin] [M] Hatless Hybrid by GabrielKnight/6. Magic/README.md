@@ -5,7 +5,7 @@
 Made by GabrielKnight.
 
 Scripted by SamirPlayz.
-	
+
 ## Magic
 
 | Still | Animation |

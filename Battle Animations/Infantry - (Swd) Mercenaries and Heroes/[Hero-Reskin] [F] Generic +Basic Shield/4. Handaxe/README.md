@@ -3,7 +3,7 @@
 ## Credit
 
 (St jack}
-	
+
 ## Handaxe
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Vanilla animation made by IS.
-	
+
 ## Unarmed
 
 | Still | Animation |

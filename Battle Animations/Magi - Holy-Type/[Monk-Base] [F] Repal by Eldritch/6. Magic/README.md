@@ -3,7 +3,7 @@
 ## Credit
 
 {Eldritch Abomination}
-	
+
 ## Magic
 
 | Still | Animation |

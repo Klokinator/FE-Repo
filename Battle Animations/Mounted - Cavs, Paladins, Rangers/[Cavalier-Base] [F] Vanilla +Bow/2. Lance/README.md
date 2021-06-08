@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Bow by DerTheVaporeon, Kao, and Aurora.
-	
+
 ## Lance
 
 | Still | Animation |

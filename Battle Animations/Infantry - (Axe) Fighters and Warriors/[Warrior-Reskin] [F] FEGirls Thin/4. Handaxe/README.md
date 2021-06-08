@@ -3,7 +3,7 @@
 ## Credit
 
 Made for the FEGirls hack.
-	
+
 ## Handaxe
 
 | Still | Animation |

@@ -7,7 +7,7 @@ Base still made by Iscaneus.
 Animation and scripting by Nuramon and Jeorge Reds.
 
 Magic by flasuban.
-	
+
 ## Axe
 
 | Still | Animation |

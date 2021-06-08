@@ -5,7 +5,7 @@
 Base animation by Aruka, Kenpuhu.
 
 Long-hair variant by Nuramon.
-	
+
 ## Staff
 
 | Still | Animation |

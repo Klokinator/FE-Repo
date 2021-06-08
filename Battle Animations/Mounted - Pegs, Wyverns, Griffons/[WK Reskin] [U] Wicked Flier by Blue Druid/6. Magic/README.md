@@ -3,7 +3,7 @@
 ## Credit
 
 {Blue Druid, Alfred Kamon}
-	
+
 ## Magic
 
 | Still | Animation |

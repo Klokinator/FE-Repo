@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Tykky.ryu.
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Sme.
-	
+
 ## Bow
 
 | Still | Animation |

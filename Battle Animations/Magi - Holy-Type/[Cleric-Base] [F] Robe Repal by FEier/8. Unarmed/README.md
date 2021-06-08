@@ -3,7 +3,7 @@
 ## Credit
 
 Made by FEier.
-	
+
 ## Unarmed
 
 | Still | Animation |

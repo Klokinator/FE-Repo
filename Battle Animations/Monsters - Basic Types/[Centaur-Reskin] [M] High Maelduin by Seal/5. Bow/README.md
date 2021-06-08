@@ -5,7 +5,7 @@
 Vanilla Maelduin by IS.
 
 Reskin by Seal.
-	
+
 ## Bow
 
 | Still | Animation |

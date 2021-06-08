@@ -7,7 +7,7 @@ Original animations by IS.
 Sword by Pimpstick.
 
 Sword scripting by Maiser6.
-	
+
 ## Sword
 
 | Still | Animation |

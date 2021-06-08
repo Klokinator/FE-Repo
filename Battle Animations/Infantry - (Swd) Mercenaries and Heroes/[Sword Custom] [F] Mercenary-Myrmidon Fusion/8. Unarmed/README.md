@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Max.
-	
+
 ## Unarmed
 
 | Still | Animation |

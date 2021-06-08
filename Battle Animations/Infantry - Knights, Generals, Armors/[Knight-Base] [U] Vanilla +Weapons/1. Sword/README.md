@@ -15,7 +15,7 @@ Magic by Orihari_Saki and TheBlindArcher.
 Staff by knabepicer.
 
 Unarmed (Bow) by TheBlindArcher.
-	
+
 ## Sword
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Vanilla FE8 Mercenary Male animation by IS.
 
 Female variant by TheBlindArcher.
-	
+
 ## Unarmed
 
 | Still | Animation |

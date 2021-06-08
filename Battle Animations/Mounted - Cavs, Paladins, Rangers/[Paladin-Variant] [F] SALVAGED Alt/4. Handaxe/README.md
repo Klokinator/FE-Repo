@@ -5,7 +5,7 @@
 SALVAGED, Leo_link, Flasuban.
 
 Axe Fix by The_Big_Dededester.
-	
+
 ## Handaxe
 
 | Still | Animation |

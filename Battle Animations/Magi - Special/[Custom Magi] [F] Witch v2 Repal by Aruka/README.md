@@ -1,8 +1,4 @@
 # [\[Custom Magi\] \[F\] Witch v2 Repal by Aruka](./)
- 
-
-<img src="./6.%20Magic/Magic_000.png" alt="[Custom Magi] [F] Witch v2 Repal by Aruka standing" />
-
 ## Credits
 
 Aruka, Kenpuhu, Orihara_Saki, Venno
@@ -10,8 +6,5 @@ Aruka, Kenpuhu, Orihara_Saki, Venno
 7. Staff (Venno)
 
 ## Weapons
- 
 
-|Magic |Staff |
-|  :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Staff animation" src="./7.%20Staff/Staff.gif" /> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> |

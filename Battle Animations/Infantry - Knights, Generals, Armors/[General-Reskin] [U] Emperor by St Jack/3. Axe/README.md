@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {TBA, St jack}
-	
+
 ## Axe
 
 | Still | Animation |

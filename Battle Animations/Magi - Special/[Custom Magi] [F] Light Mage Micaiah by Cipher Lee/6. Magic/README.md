@@ -3,7 +3,7 @@
 ## Credit
 
 Cipher Lee, Mikey Seregon
-	
+
 ## Magic
 
 | Still | Animation |

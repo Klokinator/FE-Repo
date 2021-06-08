@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by HyperGammaSpace, Jono.
-	
+
 ## Sword
 
 | Still | Animation |

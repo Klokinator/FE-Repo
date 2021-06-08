@@ -5,7 +5,7 @@
 Animation by Mycahel. 
 
 Removed Text and Fixed Miss by Dededester.
-	
+
 ## Magic
 
 | Still | Animation |

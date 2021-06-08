@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Sax-Marine.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Animation by eCut.
 
 Scripting by Flasuban.
-	
+
 ## Axe
 
 | Still | Animation |

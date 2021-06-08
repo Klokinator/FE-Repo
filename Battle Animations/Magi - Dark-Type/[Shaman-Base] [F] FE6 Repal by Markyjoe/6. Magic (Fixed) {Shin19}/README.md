@@ -3,7 +3,7 @@
 ## Credit
 
 {Markyjoe, Feaw, Shin19}
-	
+
 ## Magic
 
 | Still | Animation |

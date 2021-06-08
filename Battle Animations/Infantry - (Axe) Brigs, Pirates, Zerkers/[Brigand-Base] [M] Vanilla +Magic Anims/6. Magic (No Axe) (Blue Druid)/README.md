@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Magic animations by Blue Druid.
-	
+
 ## Magic
 
 | Still | Animation |

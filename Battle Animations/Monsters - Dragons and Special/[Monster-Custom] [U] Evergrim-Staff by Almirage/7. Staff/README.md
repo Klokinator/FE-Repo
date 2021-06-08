@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Almirage, EldritchAbomination.
-	
+
 ## Staff
 
 | Still | Animation |

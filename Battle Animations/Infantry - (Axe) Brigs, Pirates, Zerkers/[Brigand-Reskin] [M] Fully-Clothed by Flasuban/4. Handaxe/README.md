@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Flasuban.
-	
+
 ## Handaxe
 
 | Still | Animation |

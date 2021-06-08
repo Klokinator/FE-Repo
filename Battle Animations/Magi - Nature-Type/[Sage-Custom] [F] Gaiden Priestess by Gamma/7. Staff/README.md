@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by HyperGammaSpace, Jono.
-	
+
 ## Staff
 
 | Still | Animation |

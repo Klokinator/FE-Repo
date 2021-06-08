@@ -5,7 +5,7 @@
 Made by Mercenary Lord. 
 
 Scripted and improved by FaerieFruit.
-	
+
 ## Monster
 
 | Still | Animation |

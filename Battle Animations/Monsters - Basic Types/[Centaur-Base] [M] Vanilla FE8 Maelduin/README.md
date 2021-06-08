@@ -1,15 +1,10 @@
 # [\[Centaur-Base\] \[M\] Vanilla FE8 Maelduin](./)
- 
-
-<img src="./3.%20Axe/Axe_000.png" alt="[Centaur-Base] [M] Vanilla FE8 Maelduin standing" />
-
 ## Credits
 
 Vanilla animation by IS.
 
 ## Weapons
- 
 
-|Axe |Handaxe |Bow |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

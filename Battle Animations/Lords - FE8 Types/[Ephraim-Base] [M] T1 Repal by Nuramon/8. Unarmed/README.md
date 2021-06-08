@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Nuramon.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Yangfly Master.
-	
+
 ## Sword
 
 | Still | Animation |

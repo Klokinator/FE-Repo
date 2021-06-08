@@ -3,7 +3,7 @@
 ## Credit
 
 Made by JonoTheRed.
-	
+
 ## Unarmed
 
 | Still | Animation |

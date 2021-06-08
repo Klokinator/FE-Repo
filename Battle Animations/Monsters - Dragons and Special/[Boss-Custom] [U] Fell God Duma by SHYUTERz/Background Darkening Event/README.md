@@ -3,7 +3,7 @@
 ## Credit
 
 SHYUTERz, HIRITO, SHIRMER
-	
+
 ## Background
 
 | Still | Animation |

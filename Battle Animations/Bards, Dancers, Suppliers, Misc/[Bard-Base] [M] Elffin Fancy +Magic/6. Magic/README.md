@@ -5,7 +5,7 @@
 Animation by MeatOfJustice.
 
 Unique map sprites and Class Card also by MeatOfJustice.
-	
+
 ## Magic
 
 | Still | Animation |

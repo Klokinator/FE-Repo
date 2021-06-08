@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Seal.
-	
+
 ## Magic
 
 | Still | Animation |

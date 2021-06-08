@@ -1,15 +1,8 @@
 # [\[Fighter-Reskin\] \[M\] Bartre by Jey the Count](./)
- 
-
-<img src="./3.%20Axe/Axe_000.png" alt="[Fighter-Reskin] [M] Bartre by Jey the Count standing" />
-
 ## Credits
 
 Made by Jey the Count.
 
 ## Weapons
- 
 
-|Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

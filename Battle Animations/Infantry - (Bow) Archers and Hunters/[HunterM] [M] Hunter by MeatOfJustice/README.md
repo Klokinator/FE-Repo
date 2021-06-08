@@ -1,15 +1,8 @@
 # [\[HunterM\] \[M\] Hunter by MeatOfJustice](./)
- 
-
-<img src="./5.%20Bow/Bow_000.png" alt="[HunterM] [M] Hunter by MeatOfJustice standing" />
-
 ## Credits
 
 Leo_link, Spud, MeatOfJustice
 
 ## Weapons
- 
 
-|Bow |Unarmed |
-|  :---: | :---: |
-| <img alt="Bow animation" src="./5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

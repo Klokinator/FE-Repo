@@ -3,7 +3,7 @@
 ## Credit
 
 Masde by Nuramon.
-	
+
 ## Unarmed
 
 | Still | Animation |

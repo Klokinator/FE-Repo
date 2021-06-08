@@ -13,7 +13,7 @@ Magic (FEx) by SHYUTERz.
 Fixed magic by Shin19.
 
 Fixed staff by Shin19.
-	
+
 ## Magic
 
 | Still | Animation |

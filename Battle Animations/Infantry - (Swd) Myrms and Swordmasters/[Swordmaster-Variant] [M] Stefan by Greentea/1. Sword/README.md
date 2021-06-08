@@ -7,7 +7,7 @@ Made by Greentea.
 Scripted by RobertFPY, ltranc.
 
 Note that the Unarmed animation has glitchy frames when dodging. I'm not sure how to fix this, so someone in the community will have to work on it.
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Teraspark, Wan.
-	
+
 ## Bow
 
 | Still | Animation |

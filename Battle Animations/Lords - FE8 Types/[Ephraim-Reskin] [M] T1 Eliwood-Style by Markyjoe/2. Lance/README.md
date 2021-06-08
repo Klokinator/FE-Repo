@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Markyjoe, Jubby.
-	
+
 ## Lance
 
 | Still | Animation |

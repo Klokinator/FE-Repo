@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Feaw.
-	
+
 ## Unarmed
 
 | Still | Animation |

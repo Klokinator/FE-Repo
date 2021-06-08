@@ -11,7 +11,7 @@ Sword (Magic Flash) by The_Big_Dededester.
 Chainless Lance by Pushwall, spliced from knabepicer's work.
 
 Magic by DerTheVaporeon.
-	
+
 ## Unarmed
 
 | Still | Animation |

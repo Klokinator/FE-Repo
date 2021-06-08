@@ -3,7 +3,7 @@
 ## Credit
 
 Ripped by SurfingKyogre.
-	
+
 ## Magic
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Base sword/unarmed animations by IS.
 
 Bow by N426.
-	
+
 ## Unarmed
 
 | Still | Animation |

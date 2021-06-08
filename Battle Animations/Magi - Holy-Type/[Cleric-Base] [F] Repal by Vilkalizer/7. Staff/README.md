@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Vilkalizer.
-	
+
 ## Staff
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by (Mikey Séregon)
-	
+
 ## Magic
 
 | Still | Animation |

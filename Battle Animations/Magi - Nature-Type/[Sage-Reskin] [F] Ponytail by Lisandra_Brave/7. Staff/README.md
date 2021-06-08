@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Lisandra_Brave.
-	
+
 ## Staff
 
 | Still | Animation |

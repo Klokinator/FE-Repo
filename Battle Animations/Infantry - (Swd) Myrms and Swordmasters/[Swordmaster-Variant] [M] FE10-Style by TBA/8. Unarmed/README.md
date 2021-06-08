@@ -5,7 +5,7 @@
 Original FE10 SM by TheBlindArcher.
 
 Alternate Sword crit by Greentea, Kenpuhu.
-	
+
 ## Unarmed
 
 | Still | Animation |

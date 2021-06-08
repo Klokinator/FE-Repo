@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Iscaneus, Leo_link.
-	
+
 ## Unarmed
 
 | Still | Animation |

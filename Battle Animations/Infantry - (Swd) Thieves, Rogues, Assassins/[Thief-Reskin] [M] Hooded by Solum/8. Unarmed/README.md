@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Solum.
-	
+
 ## Unarmed
 
 | Still | Animation |

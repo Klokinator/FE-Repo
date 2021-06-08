@@ -3,7 +3,7 @@
 ## Credit
 
 Female variant by Pikmin1211.
-	
+
 ## Magic
 
 | Still | Animation |

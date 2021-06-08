@@ -9,7 +9,7 @@ Staff by Vilkalizer.
 Refresh (Fixed SFX) by Eldritch Abomination.
 
 Refresh (Heart FE8 Compatible) by SHYUTERz.
-	
+
 ## Refresh
 
 | Still | Animation |

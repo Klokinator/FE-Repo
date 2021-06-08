@@ -5,7 +5,7 @@
 Arbalest Bow by Ayr.
 
 Lance and Unarmed by Raspberry.
-	
+
 ## Lance
 
 | Still | Animation |

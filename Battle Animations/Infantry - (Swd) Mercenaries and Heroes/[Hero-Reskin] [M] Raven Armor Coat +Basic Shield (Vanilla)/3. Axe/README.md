@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by IS.
-	
+
 ## Axe
 
 | Still | Animation |

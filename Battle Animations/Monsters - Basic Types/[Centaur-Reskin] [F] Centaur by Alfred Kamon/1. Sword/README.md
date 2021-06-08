@@ -7,7 +7,7 @@ Base Sword by Alfred Kamon.
 Improvements (???) by Starter.
 
 Magic and Staff by Pikmin1211.
-	
+
 ## Sword
 
 | Still | Animation |

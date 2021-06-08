@@ -5,7 +5,7 @@
 Original sprite by Iscaneus.
 
 Animated by Leo_Link.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 FE7 Dragonstone by Circleseverywhere.
-	
+
 ## Unarmed
 
 | Still | Animation |

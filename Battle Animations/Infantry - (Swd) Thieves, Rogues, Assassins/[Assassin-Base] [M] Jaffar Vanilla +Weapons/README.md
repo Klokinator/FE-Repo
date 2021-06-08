@@ -1,8 +1,4 @@
 # [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./)
- 
-
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Base] [M] Jaffar Vanilla +Weapons standing" />
-
 ## Credits
 
 Sword and Unarmed Vanilla animations by IS.
@@ -18,8 +14,8 @@ Knife by JJ09.
 Bow by Andy and SD9K.
 
 ## Weapons
- 
 
-|Sword |Sword |Sword |Sword |Sword |Sword |Bow |Unarmed |Unarmed |
-|  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Alt)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Fixed%20Animation)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Jojaffar)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Knife%20Alt)/Sword.gif" /> | <img alt="Sword animation" src="./1.%20Sword%20(Knife)/Sword.gif" /> | <img alt="Bow animation" src="./5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed%20(Fixed%20Animation)/Unarmed.gif" /> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Alt)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Fixed%20Animation)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Jojaffar)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Knife%20Alt)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Knife)/Sword.gif"/> |
+| <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed%20(Fixed%20Animation)/Unarmed.gif"/> |

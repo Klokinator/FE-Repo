@@ -5,7 +5,7 @@
 Vanilla animations by IS.
 
 Staff and Magic by Primefusion.
-	
+
 ## Staff
 
 | Still | Animation |

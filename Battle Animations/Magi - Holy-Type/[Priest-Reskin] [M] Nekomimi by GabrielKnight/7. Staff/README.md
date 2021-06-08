@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Gabrielknight.
-	
+
 ## Staff
 
 | Still | Animation |

@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Staff by Temp. 
 
 Fixed Magic by Shin19.
-	
+
 ## Magic
 
 | Still | Animation |

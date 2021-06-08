@@ -5,7 +5,7 @@
 Original male version by Eldritch Abomination.
 
 Female variant by N426.
-	
+
 ## Magic
 
 | Still | Animation |

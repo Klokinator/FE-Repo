@@ -7,7 +7,7 @@ Vanilla animation by IS.
 FE8 Fixes by SHYUTERz.
 
 Fixed magic by Shin19.
-	
+
 ## Staff
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Yangfly Master and Kramnaugh.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Spud.
-	
+
 ## Magic
 
 | Still | Animation |

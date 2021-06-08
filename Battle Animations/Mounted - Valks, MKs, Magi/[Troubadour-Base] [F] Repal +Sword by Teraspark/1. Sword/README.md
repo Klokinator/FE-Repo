@@ -3,7 +3,7 @@
 ## Credit
 
 {Teraspark}
-	
+
 ## Sword
 
 | Still | Animation |

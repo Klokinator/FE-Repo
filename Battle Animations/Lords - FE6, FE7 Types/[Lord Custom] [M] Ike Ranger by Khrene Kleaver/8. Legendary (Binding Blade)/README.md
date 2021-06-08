@@ -5,7 +5,7 @@
 Mikey Seregon, Khrene Kleaver, Khardros
 
 8. Legendary (Binding Blade) {Khardros}
-	
+
 ## Legendary
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Memae, Skitty, BwdYeti, MeatOfJustice
-	
+
 ## Lance
 
 | Still | Animation |

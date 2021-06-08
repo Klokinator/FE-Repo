@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by JonoTheRed.
-	
+
 ## Lance
 
 | Still | Animation |

@@ -1,8 +1,4 @@
 # [\[General-Reskin\] \[M\] Wallace by JeyTheCount](./)
- 
-
-<img src="./2.%20Lance/Lance_000.png" alt="[General-Reskin] [M] Wallace by JeyTheCount standing" />
-
 ## Credits
 
 Vanilla animation by IS.
@@ -10,8 +6,7 @@ Vanilla animation by IS.
 Wallace variant by JeyTheCount.
 
 ## Weapons
- 
 
-|Lance |Axe |Handaxe |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Lance animation" src="./2.%20Lance/Lance.gif" /> | <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

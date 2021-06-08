@@ -3,7 +3,7 @@
 ## Credit
 
 {MK404}
-	
+
 ## Axe
 
 | Still | Animation |

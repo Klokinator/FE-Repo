@@ -3,7 +3,7 @@
 ## Credit
 
 Leo_link, Iscaneus, DerTheVaporeon
-	
+
 ## Axe
 
 | Still | Animation |

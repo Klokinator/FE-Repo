@@ -3,7 +3,7 @@
 ## Credit
 
 {Jey the Count}
-	
+
 ## Bow
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Original animation by IS.
 
 Repalette by Eldritch Abomination.
-	
+
 ## Unarmed
 
 | Still | Animation |

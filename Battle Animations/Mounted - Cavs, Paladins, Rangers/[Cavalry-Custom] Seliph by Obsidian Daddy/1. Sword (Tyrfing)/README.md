@@ -5,7 +5,7 @@
 Animation by Obsidian Daddy.
 
 Scripting by ZoramineFae.
-	
+
 ## Sword
 
 | Still | Animation |

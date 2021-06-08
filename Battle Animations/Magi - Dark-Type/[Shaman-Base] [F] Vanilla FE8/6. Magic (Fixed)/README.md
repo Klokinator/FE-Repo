@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Fixed Magic by Shin19.
-	
+
 ## Magic
 
 | Still | Animation |

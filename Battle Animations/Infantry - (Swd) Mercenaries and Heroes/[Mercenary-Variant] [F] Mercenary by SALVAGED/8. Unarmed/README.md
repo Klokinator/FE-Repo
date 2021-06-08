@@ -5,7 +5,7 @@
 Male base made by Team SALVAGED.
 
 Female variant by Jey the Count.
-	
+
 ## Unarmed
 
 | Still | Animation |

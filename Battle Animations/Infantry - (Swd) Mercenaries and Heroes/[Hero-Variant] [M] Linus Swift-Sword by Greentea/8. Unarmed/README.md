@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Greentea, SHYUTERz, Dis.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Devisian_Nights.
-	
+
 ## Staff
 
 | Still | Animation |

@@ -1,8 +1,4 @@
 # [\[Boss-Base\] \[U\] Vanilla FE6 Idunn +FE7-8](./)
- 
-
-<img src="./6.%20Magic%20(Druid%20Idunn)/Magic_000.png" alt="[Boss-Base] [U] Vanilla FE6 Idunn +FE7-8 standing" />
-
 ## Credits
 
 IS, Marlon0024, SHYUTERz
@@ -14,8 +10,7 @@ IS, Marlon0024, SHYUTERz
 8. Dragonstone (FEx, Claw Attack + Transform) {SHYUTERz}
 
 ## Weapons
- 
 
-|Magic |Staff |Dragonstone |Dragonstone |Dragonstone |Dragonstone |
-|  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Magic%20(Druid%20Idunn)/Magic.gif" /> | <img alt="Staff animation" src="./7.%20Staff%20(Druid%20Idunn)/Staff.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Claw%20+%20Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Transform)/Dragonstone.gif" /> | <img alt="Dragonstone animation" src="./8.%20Dragonstone%20%7BMarlon0024%7D/Dragonstone.gif" /> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Druid%20Idunn)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Druid%20Idunn)/Staff.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone/Dragonstone.gif"/> |
+| :---: | :---: | :---: |
+| <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Claw%20+%20Transform)/Dragonstone.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20(Transform)/Dragonstone.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone%20%7BMarlon0024%7D/Dragonstone.gif"/> |

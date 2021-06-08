@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Bonestorm.
-	
+
 ## Unarmed
 
 | Still | Animation |

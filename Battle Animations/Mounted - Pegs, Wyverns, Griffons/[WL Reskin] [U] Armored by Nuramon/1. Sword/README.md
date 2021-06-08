@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Nuramon.
-	
+
 ## Sword
 
 | Still | Animation |

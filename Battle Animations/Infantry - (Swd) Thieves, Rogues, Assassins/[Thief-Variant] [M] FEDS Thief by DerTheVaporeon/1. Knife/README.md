@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {DerTheVaporeon}
-	
+
 ## Knife
 
 | Still | Animation |

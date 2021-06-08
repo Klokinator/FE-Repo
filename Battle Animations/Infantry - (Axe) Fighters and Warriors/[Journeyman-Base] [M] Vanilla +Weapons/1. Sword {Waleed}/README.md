@@ -3,7 +3,7 @@
 ## Credit
 
 IS, Waleed, blood
-	
+
 ## Sword
 
 | Still | Animation |

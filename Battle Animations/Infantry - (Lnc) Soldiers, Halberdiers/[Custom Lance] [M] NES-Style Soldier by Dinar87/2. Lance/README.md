@@ -3,7 +3,7 @@
 ## Credit
 
 Full Custom anim by Dinar87.
-	
+
 ## Lance
 
 | Still | Animation |

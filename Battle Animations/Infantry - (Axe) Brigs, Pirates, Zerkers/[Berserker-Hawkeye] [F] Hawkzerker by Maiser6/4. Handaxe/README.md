@@ -15,7 +15,7 @@ Unarmed Animation by Maiser6
 Map Sprite by Pikmin1211 and DerTheVaporeon
 
 Class Card by DerTheVaporeon
-	
+
 ## Handaxe
 
 | Still | Animation |

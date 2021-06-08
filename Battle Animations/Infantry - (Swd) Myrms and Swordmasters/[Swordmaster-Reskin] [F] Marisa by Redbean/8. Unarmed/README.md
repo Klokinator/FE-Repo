@@ -5,7 +5,7 @@
 Animation by Red Bean.
 
 Scripting by Marlon0024.
-	
+
 ## Unarmed
 
 | Still | Animation |

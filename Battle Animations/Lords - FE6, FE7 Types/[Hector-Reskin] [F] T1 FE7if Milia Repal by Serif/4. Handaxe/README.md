@@ -5,7 +5,7 @@
 Animation by the devs of FE7if.
 
 Repalette by serif.
-	
+
 ## Handaxe
 
 | Still | Animation |

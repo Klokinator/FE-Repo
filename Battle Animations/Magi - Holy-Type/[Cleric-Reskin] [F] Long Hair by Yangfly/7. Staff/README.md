@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Yangfly Master.
-	
+
 ## Staff
 
 | Still | Animation |

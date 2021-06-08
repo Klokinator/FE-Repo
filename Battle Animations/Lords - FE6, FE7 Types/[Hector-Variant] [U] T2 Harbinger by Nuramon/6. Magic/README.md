@@ -9,7 +9,7 @@ Special credit to Linkain Arakeist for the magical orb.
 Female variant by Mycahel.
 
 Fixes by JJ09.
-	
+
 ## Magic
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Animation by Yazuki.
 
 Needs an unarmed animation.
-	
+
 ## Lance
 
 | Still | Animation |

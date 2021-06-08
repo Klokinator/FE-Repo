@@ -3,7 +3,7 @@
 ## Credit
 
 {Aruka, Kenpuhu}
-	
+
 ## Magic
 
 | Still | Animation |

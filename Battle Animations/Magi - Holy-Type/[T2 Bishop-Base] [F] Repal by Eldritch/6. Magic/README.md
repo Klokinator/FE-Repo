@@ -3,7 +3,7 @@
 ## Credit
 
 Eldritch Abomination, Mikey Seregon
-	
+
 ## Magic
 
 | Still | Animation |

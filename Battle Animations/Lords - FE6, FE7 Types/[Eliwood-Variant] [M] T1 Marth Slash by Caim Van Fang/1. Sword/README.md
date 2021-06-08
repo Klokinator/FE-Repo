@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Caim Van Fang.
-	
+
 ## Sword
 
 | Still | Animation |

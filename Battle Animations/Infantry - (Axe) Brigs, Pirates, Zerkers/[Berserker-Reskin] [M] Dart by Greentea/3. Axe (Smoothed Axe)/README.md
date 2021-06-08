@@ -11,7 +11,7 @@ Sword added by Spud.
 Smoothed Axe base made by BwdYeti, modified by Raspberry.
 
 Scripted by DerTheVaporeon and Spud?
-	
+
 ## Axe
 
 | Still | Animation |

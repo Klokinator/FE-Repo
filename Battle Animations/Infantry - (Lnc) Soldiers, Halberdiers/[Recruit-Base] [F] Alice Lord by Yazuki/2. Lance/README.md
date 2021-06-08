@@ -5,7 +5,7 @@
 Made by Yazuki.
 
 Missing an Unarmed animation.
-	
+
 ## Lance
 
 | Still | Animation |

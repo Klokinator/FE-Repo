@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Magic and Staff by Skitty.
-	
+
 ## Magic
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Flasuban, Temp.
-	
+
 ## Sword
 
 | Still | Animation |

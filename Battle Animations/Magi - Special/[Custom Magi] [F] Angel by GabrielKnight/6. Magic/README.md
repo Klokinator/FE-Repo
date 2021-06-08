@@ -5,7 +5,7 @@
 Made by GabrielKnight.
 
 Scripted by Skitty.
-	
+
 ## Magic
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {Marlon0024}
-	
+
 ## Magic
 
 | Still | Animation |

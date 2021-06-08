@@ -3,7 +3,7 @@
 ## Credit
 
 Non-Sacaen Nomad by eCut.
-	
+
 ## Bow
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Greentea, DerTheVaporeon, Nuramon.
-	
+
 ## Unarmed
 
 | Still | Animation |

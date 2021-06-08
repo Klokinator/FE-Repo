@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Seal.
-	
+
 ## Bow
 
 | Still | Animation |

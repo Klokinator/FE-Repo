@@ -5,7 +5,7 @@
 Animation by Alusq. 
 
 Female variant by Maiser6, JeyTheCount.
-	
+
 ## Unarmed
 
 | Still | Animation |

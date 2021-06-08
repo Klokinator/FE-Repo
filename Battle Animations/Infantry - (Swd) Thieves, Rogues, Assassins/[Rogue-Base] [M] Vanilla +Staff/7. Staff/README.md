@@ -7,7 +7,7 @@ Vanilla animations by IS.
 Knife by Orihara_Saki.
 
 Staff by Ukulele, SD9k.
-	
+
 ## Staff
 
 | Still | Animation |

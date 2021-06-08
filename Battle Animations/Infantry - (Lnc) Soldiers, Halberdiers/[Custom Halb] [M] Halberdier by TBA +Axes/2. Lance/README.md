@@ -13,7 +13,7 @@ Axe Swing by Spud and MeatOfJustice.
 Handaxe by Spud.
 
 Unarmed by TheBlindArcher.
-	
+
 ## Lance
 
 | Still | Animation |

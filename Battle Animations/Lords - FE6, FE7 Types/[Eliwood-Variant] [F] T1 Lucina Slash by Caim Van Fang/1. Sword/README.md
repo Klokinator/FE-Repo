@@ -5,7 +5,7 @@
 Original male version by Caim Van Fang.
 
 Female Variant by MysteriousDancer
-	
+
 ## Sword
 
 | Still | Animation |

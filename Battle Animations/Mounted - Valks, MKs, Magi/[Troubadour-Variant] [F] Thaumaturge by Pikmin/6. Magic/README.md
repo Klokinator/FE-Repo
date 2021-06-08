@@ -5,7 +5,7 @@
 Pikmin1211, Maiser6, GabrielKnight, DerTheVaporeon
 
 6. Magic (Maiser6, DerTheVaporeon)
-	
+
 ## Magic
 
 | Still | Animation |

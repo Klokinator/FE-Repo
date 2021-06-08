@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by FPZero, Moocavo, Riku.
-	
+
 ## Unarmed
 
 | Still | Animation |

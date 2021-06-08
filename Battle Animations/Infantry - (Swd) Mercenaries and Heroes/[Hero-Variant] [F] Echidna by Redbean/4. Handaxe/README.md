@@ -3,7 +3,7 @@
 ## Credit
 
 {Red Bean, Zelix}
-	
+
 ## Handaxe
 
 | Still | Animation |

@@ -9,7 +9,7 @@ Shield General by TheBlindArcher, DerTheVaporeon, Nuramon.
 Sword (Magic Flash) by The_Big_Dededester.
 
 Magic by DerTheVaporeon.
-	
+
 ## Sword
 
 | Still | Animation |

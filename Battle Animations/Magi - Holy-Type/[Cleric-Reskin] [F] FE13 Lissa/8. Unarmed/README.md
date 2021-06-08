@@ -3,7 +3,7 @@
 ## Credit
 
 Made by BatimaTheBat.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -1,15 +1,10 @@
 # [\[Warrior-Reskin\] \[F\] FEGirls Thin](./)
- 
-
-<img src="./3.%20Axe/Axe_000.png" alt="[Warrior-Reskin] [F] FEGirls Thin standing" />
-
 ## Credits
 
 Made for the FEGirls hack.
 
 ## Weapons
- 
 
-|Axe |Handaxe |Bow |Unarmed |
-|  :---: | :---: | :---: | :---: |
-| <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> | <img alt="Bow animation" src="./5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

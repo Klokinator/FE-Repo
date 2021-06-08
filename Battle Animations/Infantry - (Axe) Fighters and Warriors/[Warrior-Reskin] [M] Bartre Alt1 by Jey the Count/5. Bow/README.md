@@ -5,7 +5,7 @@
 Base Warrior animation by IS. 
 
 Bartre variant by Jey the Count.
-	
+
 ## Bow
 
 | Still | Animation |

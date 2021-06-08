@@ -3,7 +3,7 @@
 ## Credit
 
 Flasuban, DerTheVaporeon
-	
+
 ## Bow
 
 | Still | Animation |

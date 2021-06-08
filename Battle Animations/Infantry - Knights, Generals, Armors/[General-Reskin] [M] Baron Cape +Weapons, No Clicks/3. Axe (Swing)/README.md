@@ -3,7 +3,7 @@
 ## Credit
 
 Leo_link, Nuramon, Iscaneus
-	
+
 ## Axe
 
 | Still | Animation |

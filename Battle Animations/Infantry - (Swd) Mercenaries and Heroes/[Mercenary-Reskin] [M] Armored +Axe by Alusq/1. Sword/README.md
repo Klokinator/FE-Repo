@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Alusq, Maiser6.
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {Teraspark}
-	
+
 ## Unarmed
 
 | Still | Animation |

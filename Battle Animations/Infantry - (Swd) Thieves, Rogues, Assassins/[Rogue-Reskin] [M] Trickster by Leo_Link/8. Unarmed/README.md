@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Leo_Link.
-	
+
 ## Unarmed
 
 | Still | Animation |

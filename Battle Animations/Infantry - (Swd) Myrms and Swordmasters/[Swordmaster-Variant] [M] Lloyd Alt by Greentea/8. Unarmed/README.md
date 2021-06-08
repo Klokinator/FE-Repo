@@ -5,7 +5,7 @@
 Made by Greentea. 
 
 Scripting by DerTheVaporeon.
-	
+
 ## Unarmed
 
 | Still | Animation |

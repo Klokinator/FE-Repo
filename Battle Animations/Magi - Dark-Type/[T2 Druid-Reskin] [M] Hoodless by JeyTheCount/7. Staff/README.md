@@ -5,7 +5,7 @@
 Original Druid by IS.
 
 Hoodless variant by Jey the Count.
-	
+
 ## Staff
 
 | Still | Animation |

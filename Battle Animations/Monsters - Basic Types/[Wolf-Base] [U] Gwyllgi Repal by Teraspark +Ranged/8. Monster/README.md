@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Teraspark.
-	
+
 ## Monster
 
 | Still | Animation |

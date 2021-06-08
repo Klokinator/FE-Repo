@@ -3,7 +3,7 @@
 ## Credit
 
 Made for the FEGirls project.
-	
+
 ## Magic
 
 | Still | Animation |

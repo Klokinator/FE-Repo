@@ -3,7 +3,7 @@
 ## Credit
 
 {Nuramon}
-	
+
 ## Axe
 
 | Still | Animation |

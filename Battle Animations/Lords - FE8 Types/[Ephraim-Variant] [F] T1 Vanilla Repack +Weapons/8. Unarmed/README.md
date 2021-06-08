@@ -9,7 +9,7 @@ Additional weapons (???) by DerTheVaporeon, Pikmin1211.
 Sword (Rapier) by ZoramineFae.
 
 Staff by ZoramineFae.
-	
+
 ## Unarmed
 
 | Still | Animation |

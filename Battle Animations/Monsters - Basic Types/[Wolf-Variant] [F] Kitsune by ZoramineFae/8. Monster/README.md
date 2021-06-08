@@ -3,7 +3,7 @@
 ## Credit
 
 Made by ZoramineFae, Clendo.
-	
+
 ## Monster
 
 | Still | Animation |

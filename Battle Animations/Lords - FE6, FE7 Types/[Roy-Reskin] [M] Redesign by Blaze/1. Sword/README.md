@@ -5,7 +5,7 @@
 Made by Blaze for Circleseverywhere's Ragefest submission.
 
 https://www.youtube.com/watch?v=Z_eTAGOmzqE
-	
+
 ## Sword
 
 | Still | Animation |

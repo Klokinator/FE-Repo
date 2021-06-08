@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Alusq.
-	
+
 ## Staff
 
 | Still | Animation |

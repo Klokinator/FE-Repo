@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Temp, Black Mage, Wan}
-	
+
 ## Sword
 
 | Still | Animation |

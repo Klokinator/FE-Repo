@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by GabrielKnight, Skitty.
-	
+
 ## Sword
 
 | Still | Animation |

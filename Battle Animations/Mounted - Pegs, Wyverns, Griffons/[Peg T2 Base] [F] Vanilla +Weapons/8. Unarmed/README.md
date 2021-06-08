@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Magic Jeorge_Reds.
 
 Staff by ShadowOfChaos.
-	
+
 ## Unarmed
 
 | Still | Animation |

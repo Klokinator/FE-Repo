@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Leo_Link and L95.
-	
+
 ## Magic
 
 | Still | Animation |

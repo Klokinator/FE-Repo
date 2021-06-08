@@ -1,8 +1,4 @@
 # [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](./)
- 
-
-<img src="./1.%20Sword/Sword_000.png" alt="[Griffon] [U] Griffon v2 SoA by Ayr standing" />
-
 ## Credits
 
 Hi! Ayr here. You probably don't know me, but I made this animation for use in the romhack Staff Of Ages.
@@ -16,8 +12,5 @@ Just a quick note, if you plan to release your hack out for the public to play, 
 Thank you!
 
 ## Weapons
- 
 
-|Sword |Axe |Handaxe |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> |

@@ -5,7 +5,7 @@
 {Pikmin1211, Maiser6, Valak}
 
 Axe by Valak.
-	
+
 ## Bow
 
 | Still | Animation |

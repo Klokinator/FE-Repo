@@ -5,7 +5,7 @@
 Made by Dinar87.
 
 Scripted(???) by SHYUTERz.
-	
+
 ## Magic
 
 | Still | Animation |

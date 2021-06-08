@@ -3,7 +3,7 @@
 ## Credit
 
 {CedAodh, Jeorge_Reds, Brunhilda, SurfingKyogre, Marlon0024}
-	
+
 ## Lance
 
 | Still | Animation |

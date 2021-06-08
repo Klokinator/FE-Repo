@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Fixed Magic by Shin19.
 
 Staff by Jeorge_Reds.
-	
+
 ## Staff
 
 | Still | Animation |

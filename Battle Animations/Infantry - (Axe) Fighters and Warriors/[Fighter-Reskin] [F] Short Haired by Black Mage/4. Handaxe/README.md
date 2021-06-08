@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Black Mage.
-	
+
 ## Handaxe
 
 | Still | Animation |

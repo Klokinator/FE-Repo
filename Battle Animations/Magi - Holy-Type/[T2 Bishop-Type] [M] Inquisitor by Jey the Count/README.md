@@ -1,15 +1,8 @@
 # [\[T2 Bishop-Type\] \[M\] Inquisitor by Jey the Count](./)
- 
-
-<img src="./3.%20Axe/Axe_000.png" alt="[T2 Bishop-Type] [M] Inquisitor by Jey the Count standing" />
-
 ## Credits
 
 
 
 ## Weapons
- 
 
-|Axe |Handaxe |Magic |
-|  :---: | :---: | :---: |
-| <img alt="Axe animation" src="./3.%20Axe/Axe.gif" /> | <img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif" /> | <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> |
+| <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> |

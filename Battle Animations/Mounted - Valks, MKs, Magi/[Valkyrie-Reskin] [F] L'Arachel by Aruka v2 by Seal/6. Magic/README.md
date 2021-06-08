@@ -7,7 +7,7 @@ Animation by Aruka, Kenpuhu.
 Fixed Staff by blood.
 
 v2 by Seal.
-	
+
 ## Magic
 
 | Still | Animation |

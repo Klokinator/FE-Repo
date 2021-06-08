@@ -5,7 +5,7 @@
 Animation by RedBean. 
 
 Scripting by Jj09.
-	
+
 ## Sword
 
 | Still | Animation |

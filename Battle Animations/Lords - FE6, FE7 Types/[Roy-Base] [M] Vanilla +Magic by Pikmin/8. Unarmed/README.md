@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Magic animation by Pikmin1211.
-	
+
 ## Unarmed
 
 | Still | Animation |

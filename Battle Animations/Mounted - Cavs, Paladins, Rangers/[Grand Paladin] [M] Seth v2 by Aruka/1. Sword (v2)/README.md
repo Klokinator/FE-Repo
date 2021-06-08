@@ -11,7 +11,7 @@ Sword v2 by Arkth.
 Lance by Seal.
 
 Axe/Handaxe/Unarmed by Aruka and Kenpuhu.
-	
+
 ## Sword
 
 | Still | Animation |

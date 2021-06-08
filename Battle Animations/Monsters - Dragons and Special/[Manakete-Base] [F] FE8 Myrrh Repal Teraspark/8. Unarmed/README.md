@@ -3,7 +3,7 @@
 ## Credit
 
 Made by .
-	
+
 ## Unarmed
 
 | Still | Animation |

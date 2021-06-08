@@ -3,7 +3,7 @@
 ## Credit
 
 {Redbean, Murata Masashi}
-	
+
 ## Handaxe
 
 | Still | Animation |

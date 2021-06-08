@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Tarantino500, FahadRashid327.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by HyperGammaSpace, Jono.
-	
+
 ## Magic
 
 | Still | Animation |

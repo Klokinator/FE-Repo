@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Repalette by Temp.
-	
+
 ## Unarmed
 
 | Still | Animation |

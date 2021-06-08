@@ -5,7 +5,7 @@
 Original FE9 Fighter by MK404.
 
 Repalette by Glenwing.
-	
+
 ## Axe
 
 | Still | Animation |

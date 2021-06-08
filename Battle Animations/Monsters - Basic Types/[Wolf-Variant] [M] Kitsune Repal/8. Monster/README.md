@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Smokeyguy77, ZoramineFae.
-	
+
 ## Monster
 
 | Still | Animation |

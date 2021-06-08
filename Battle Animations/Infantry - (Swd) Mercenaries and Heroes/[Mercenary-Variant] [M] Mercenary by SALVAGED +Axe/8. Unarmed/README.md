@@ -3,7 +3,7 @@
 ## Credit
 
 Made by SALVAGED.
-	
+
 ## Unarmed
 
 | Still | Animation |

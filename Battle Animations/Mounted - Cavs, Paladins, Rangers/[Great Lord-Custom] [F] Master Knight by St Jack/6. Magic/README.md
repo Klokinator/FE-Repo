@@ -3,7 +3,7 @@
 ## Credit
 
 {St jack}
-	
+
 ## Magic
 
 | Still | Animation |

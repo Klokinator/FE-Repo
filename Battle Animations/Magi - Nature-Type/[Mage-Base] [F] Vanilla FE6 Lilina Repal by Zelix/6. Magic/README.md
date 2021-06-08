@@ -3,7 +3,7 @@
 ## Credit
 
 {Zelix}
-	
+
 ## Magic
 
 | Still | Animation |

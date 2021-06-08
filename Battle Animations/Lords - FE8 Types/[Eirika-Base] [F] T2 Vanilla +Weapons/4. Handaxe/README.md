@@ -9,7 +9,7 @@ Staff by Sephie.
 Lance/Axe/Handaxe by St jack.
 
 Bow by Belle and St jack.
-	
+
 ## Handaxe
 
 | Still | Animation |

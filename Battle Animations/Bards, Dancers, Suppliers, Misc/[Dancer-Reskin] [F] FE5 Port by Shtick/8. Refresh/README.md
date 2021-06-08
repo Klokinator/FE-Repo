@@ -3,7 +3,7 @@
 ## Credit
 
 Animation ported from FE5 by Shtick.
-	
+
 ## Refresh
 
 | Still | Animation |

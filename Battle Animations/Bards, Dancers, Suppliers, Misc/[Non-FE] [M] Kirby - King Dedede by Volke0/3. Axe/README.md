@@ -3,7 +3,7 @@
 ## Credit
 
 Ripped by Volke0.
-	
+
 ## Axe
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by Glenwing. 
 
 Bow by SD9k.
-	
+
 ## Bow
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Original animation by IS.
 
 Fixed versions by Jono the Red.
-	
+
 ## Sword
 
 | Still | Animation |

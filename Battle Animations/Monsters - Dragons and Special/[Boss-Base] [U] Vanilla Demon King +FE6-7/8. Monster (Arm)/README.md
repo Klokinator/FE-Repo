@@ -8,7 +8,7 @@ IS, Marlon0024, SHYUTERz
 8. Monster (FE7) (Demon Light) {Marlon0024}
 8. Monster (FE7) (Ravager) {Marlon0024}
 8. Monster {SHYUTERz}
-	
+
 ## Monster
 
 | Still | Animation |

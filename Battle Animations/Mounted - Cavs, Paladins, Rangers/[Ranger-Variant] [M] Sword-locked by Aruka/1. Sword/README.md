@@ -3,7 +3,7 @@
 ## Credit
 
 {Aruka, Kenpuhu}
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Arkth.
-	
+
 ## Staff
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by ZoramineFae, Dsnoon.
-	
+
 ## Palettes
 
 | Still | Animation |

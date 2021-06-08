@@ -5,7 +5,7 @@
 Original Harbinger by Nuramon.
 
 Female variant by Mycahel.
-	
+
 ## Lance
 
 | Still | Animation |

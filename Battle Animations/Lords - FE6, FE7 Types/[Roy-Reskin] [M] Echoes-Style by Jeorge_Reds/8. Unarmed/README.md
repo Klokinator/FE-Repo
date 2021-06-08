@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Jeorge_Reds, Brunhilda.
-	
+
 ## Unarmed
 
 | Still | Animation |

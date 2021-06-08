@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Jeorge_Reds.
-	
+
 ## Lance
 
 | Still | Animation |

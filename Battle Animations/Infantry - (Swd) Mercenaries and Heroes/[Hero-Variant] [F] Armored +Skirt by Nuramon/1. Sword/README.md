@@ -3,7 +3,7 @@
 ## Credit
 
 {Nuramon}
-	
+
 ## Sword
 
 | Still | Animation |

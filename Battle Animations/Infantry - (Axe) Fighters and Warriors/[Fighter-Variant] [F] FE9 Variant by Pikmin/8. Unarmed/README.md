@@ -18,7 +18,7 @@ Map Sprite by Pikmin1211
 
 Class Card by flasuban and Pikmin1211
 
-	
+
 ## Unarmed
 
 | Still | Animation |

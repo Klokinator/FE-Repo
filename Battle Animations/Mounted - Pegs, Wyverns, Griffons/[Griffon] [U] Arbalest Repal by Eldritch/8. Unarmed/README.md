@@ -3,7 +3,7 @@
 ## Credit
 
 EldritchAbomination, Raspberry, Ary
-	
+
 ## Unarmed
 
 | Still | Animation |

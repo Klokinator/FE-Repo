@@ -3,7 +3,7 @@
 ## Credit
 
 Swain, Pikmin1211, ltranc
-	
+
 ## Unarmed
 
 | Still | Animation |

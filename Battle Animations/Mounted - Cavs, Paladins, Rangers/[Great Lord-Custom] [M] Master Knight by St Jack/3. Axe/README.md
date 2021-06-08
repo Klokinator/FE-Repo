@@ -5,7 +5,7 @@
 Master Knight by St jack.
 
 Magic with Staff and Staff Alt by Mycahel.
-	
+
 ## Axe
 
 | Still | Animation |

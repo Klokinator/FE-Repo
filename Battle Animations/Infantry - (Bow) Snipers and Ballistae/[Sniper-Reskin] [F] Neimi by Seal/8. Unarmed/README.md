@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Seal.
-	
+
 ## Unarmed
 
 | Still | Animation |

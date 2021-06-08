@@ -3,7 +3,7 @@
 ## Credit
 
 {Flasuban, TBA, Marlon}
-	
+
 ## Unarmed
 
 | Still | Animation |

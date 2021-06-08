@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Sword by Beansy.
-	
+
 ## Staff
 
 | Still | Animation |

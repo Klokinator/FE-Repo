@@ -3,7 +3,7 @@
 ## Credit
 
 {IS, ltranc, Valak}
-	
+
 ## Sword
 
 | Still | Animation |

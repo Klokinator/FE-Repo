@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Magic Jeorge_Reds.
 
 Staff by ShadowOfChaos.
-	
+
 ## Magic
 
 | Still | Animation |

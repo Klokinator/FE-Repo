@@ -3,7 +3,7 @@
 ## Credit
 
 Team SALVAGED, HGS, Levin64, RJ_Exists, Obsidian_Daddy
-	
+
 ## Sword
 
 | Still | Animation |

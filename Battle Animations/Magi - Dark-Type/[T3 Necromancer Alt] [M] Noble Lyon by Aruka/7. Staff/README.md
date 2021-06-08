@@ -5,7 +5,7 @@
 Sword by Aruka, Kenpuhu. 
 
 Staff by N426.
-	
+
 ## Staff
 
 | Still | Animation |

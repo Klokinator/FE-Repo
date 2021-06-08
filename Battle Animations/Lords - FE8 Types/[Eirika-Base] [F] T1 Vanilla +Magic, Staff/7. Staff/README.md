@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Sword (Backflip) by SamirPlayz.
 
 Magic and Staff by Lisandra_Brave.
-	
+
 ## Staff
 
 | Still | Animation |

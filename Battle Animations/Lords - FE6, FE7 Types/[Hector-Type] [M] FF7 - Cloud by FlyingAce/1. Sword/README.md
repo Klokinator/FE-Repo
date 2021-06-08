@@ -5,7 +5,7 @@
 Made by FlyingAce24.
 
 Improved by Dark Seraph.
-	
+
 ## Sword
 
 | Still | Animation |

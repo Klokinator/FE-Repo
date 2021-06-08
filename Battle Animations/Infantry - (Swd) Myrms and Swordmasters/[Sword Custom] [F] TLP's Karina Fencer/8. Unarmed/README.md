@@ -3,7 +3,7 @@
 ## Credit
 
 The Last Promise, DH_Ninja
-	
+
 ## Unarmed
 
 | Still | Animation |

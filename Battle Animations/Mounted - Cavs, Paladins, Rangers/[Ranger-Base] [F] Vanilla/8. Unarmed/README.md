@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Lance by ???
-	
+
 ## Unarmed
 
 | Still | Animation |

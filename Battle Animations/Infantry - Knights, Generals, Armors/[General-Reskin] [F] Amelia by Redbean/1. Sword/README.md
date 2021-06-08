@@ -3,7 +3,7 @@
 ## Credit
 
 {Redbean, Murata Masashi}
-	
+
 ## Sword
 
 | Still | Animation |

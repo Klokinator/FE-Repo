@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Memae.
-	
+
 ## Magic
 
 | Still | Animation |

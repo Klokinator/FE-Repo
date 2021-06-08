@@ -5,7 +5,7 @@
 Base animation by IS.
 
 Bow by Andy, SD9K.
-	
+
 ## Bow
 
 | Still | Animation |

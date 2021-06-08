@@ -5,7 +5,7 @@
 Made by MatonMx, FE Latino.
 
 This animation could use touchups and edits by the community to improve its quality.
-	
+
 ## Bow
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Base animation by IS.
 
 Repalette by Temp.
-	
+
 ## Handaxe
 
 | Still | Animation |

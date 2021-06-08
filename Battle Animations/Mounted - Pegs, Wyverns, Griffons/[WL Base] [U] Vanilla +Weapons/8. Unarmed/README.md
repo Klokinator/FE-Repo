@@ -11,7 +11,7 @@ Bow by PrincessKilvas, Spud.
 Bow (Fixed Palette) by PrincessKilvas, Spud, Blue Druid.
 
 
-	
+
 ## Unarmed
 
 | Still | Animation |

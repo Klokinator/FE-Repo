@@ -15,7 +15,7 @@ Palettes by DerTheVaporeon and Pikmin1211
 Map Sprites by DerTheVaporeon
 
 Class Card by DerTheVaporeon
-	
+
 ## Knife
 
 | Still | Animation |

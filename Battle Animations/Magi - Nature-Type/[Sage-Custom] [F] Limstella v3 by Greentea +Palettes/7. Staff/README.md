@@ -7,7 +7,7 @@ Animation by Greentea.
 Scripting(???) by Zoisite.
 
 This animation has a bunch of extra palette options for the player/etc types. To get all the palette options, import via bin.
-	
+
 ## Staff
 
 | Still | Animation |

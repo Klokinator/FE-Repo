@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by SHYUTERz.
-	
+
 ## Magic
 
 | Still | Animation |

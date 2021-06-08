@@ -3,7 +3,7 @@
 ## Credit
 
 {Skitty}
-	
+
 ## Lance
 
 | Still | Animation |

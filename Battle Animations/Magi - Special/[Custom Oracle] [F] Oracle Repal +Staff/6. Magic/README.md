@@ -3,7 +3,7 @@
 ## Credit
 
 GabrielKnight, Seal, Sacred War
-	
+
 ## Magic
 
 | Still | Animation |

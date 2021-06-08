@@ -32,7 +32,7 @@ const makeWeaponReadmeText = (anim, weapon) => (
 ## Credit
 
 ${anim.credits}
-	
+
 ## ${weapon.type}
 
 | Still | Animation |
@@ -79,14 +79,9 @@ ${anim.credits}
 	}
 
 	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)}
- 
-${showPreviewBlock ? `
-<img src="${encodeURI(currentDir +anim.weapons[0].dir + '/' + anim.weapons[0].static)}" alt="${anim.name} standing" />
-`: ''}
 ${creditsBlock}
 ${showWeaponsHeading ? `${getHeading(headingDepth +1)} Weapons
-` : ''} 
-
+` : ''}
 ${weaponHeaders}
 | ${anim.weapons.map(() => ' :---: |').join('')}
 ${weaponContents}

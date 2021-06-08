@@ -1,4 +1,4 @@
-# [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](./) [![Download](https://img.shields.io/badge/Download-%5BMage--Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight)
+# [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Hybrid%20by%20GabrielKnight)
 ## Credits
 
 Made by GabrielKnight.

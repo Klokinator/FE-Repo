@@ -1,4 +1,4 @@
-# [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./) [![Download](https://img.shields.io/badge/Download-%5BCavalry--Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki)
+# [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki)
 ## Credits
 
 制作者/Creator

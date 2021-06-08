@@ -1,4 +1,4 @@
-# [\[Nomad-Reskin\] \[M\] Non-Sacaen by eCut](./) [![Download](https://img.shields.io/badge/Download-%5BNomad--Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut)
+# [\[Nomad-Reskin\] \[M\] Non-Sacaen by eCut](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BNomad-Reskin%5D%20%5BM%5D%20Non-Sacaen%20by%20eCut)
 ## Credits
 
 Non-Sacaen Nomad by eCut.

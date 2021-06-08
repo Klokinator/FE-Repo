@@ -1,4 +1,4 @@
-# [\[Monster Custom\] \[M\] Wanderer - Blade by Chhhsfe](./) [![Download](https://img.shields.io/badge/Download-%5BMonster%20Custom%5D%20%5BM%5D%20Wanderer%20--%20Blade%20by%20Chhhsfe-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster%20Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe)
+# [\[Monster Custom\] \[M\] Wanderer - Blade by Chhhsfe](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BMonster%20Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe)
 ## Credits
 
 Made by chhhsfe.

@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka](./) [![Download](https://img.shields.io/badge/Download-%5BBerserker--Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka)
+# [\[Berserker-Variant\] \[M\] Sideslash Dozla by Aruka](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Variant%5D%20%5BM%5D%20Sideslash%20Dozla%20by%20Aruka)
 ## Credits
 
 Dozlazerker base made by Aruka and Kenpuhu.

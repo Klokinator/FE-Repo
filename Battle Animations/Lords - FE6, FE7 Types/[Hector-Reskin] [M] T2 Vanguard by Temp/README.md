@@ -1,4 +1,4 @@
-# [\[Hector-Reskin\] \[M\] T2 Vanguard by Temp](./) [![Download](https://img.shields.io/badge/Download-%5BHector--Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE6,%20FE7%20Types/%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp)
+# [\[Hector-Reskin\] \[M\] T2 Vanguard by Temp](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BHector-Reskin%5D%20%5BM%5D%20T2%20Vanguard%20by%20Temp)
 ## Credits
 
 Made by Flasuban, Temp.

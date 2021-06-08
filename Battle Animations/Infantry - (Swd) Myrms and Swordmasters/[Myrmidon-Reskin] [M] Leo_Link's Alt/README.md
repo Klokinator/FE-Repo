@@ -1,4 +1,4 @@
-# [\[Myrmidon-Reskin\] \[M\] Leo_Link's Alt](./) [![Download](https://img.shields.io/badge/Download-%5BMyrmidon--Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt)
+# [\[Myrmidon-Reskin\] \[M\] Leo_Link's Alt](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Myrms%20and%20Swordmasters%2F%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt)
 ## Credits
 
 Made by Leo_Link.

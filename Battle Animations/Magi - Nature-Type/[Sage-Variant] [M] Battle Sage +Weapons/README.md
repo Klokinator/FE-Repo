@@ -1,4 +1,4 @@
-# [\[Sage-Variant\] \[M\] Battle Sage +Weapons](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Variant%5D%20%5BM%5D%20Battle%20Sage%20+Weapons-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BM%5D%20Battle%20Sage%20+Weapons)
+# [\[Sage-Variant\] \[M\] Battle Sage +Weapons](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BSage-Variant%5D%20%5BM%5D%20Battle%20Sage%20%2BWeapons)
 ## Credits
 
 St jack, The_Big_Dededester, Dolkar

@@ -1,4 +1,4 @@
-# [\[Sage-Custom\] \[F\] Yggdra Lute by Aruka \(Long Hair\)](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka%20(Long%20Hair)-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka%20(Long%20Hair))
+# [\[Sage-Custom\] \[F\] Yggdra Lute by Aruka \(Long Hair\)](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka%20(Long%20Hair))
 ## Credits
 
 Base animation by Aruka, Kenpuhu.

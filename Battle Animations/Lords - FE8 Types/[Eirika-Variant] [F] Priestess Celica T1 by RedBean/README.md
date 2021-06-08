@@ -1,4 +1,4 @@
-# [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](./) [![Download](https://img.shields.io/badge/Download-%5BEirika--Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE8%20Types/%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean)
+# [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE8%20Types%2F%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean)
 ## Credits
 
 Made by Red Bean.

@@ -1,4 +1,4 @@
-# [\[Fighter-Variant\] \[F\] FE9 Variant by Pikmin](./) [![Download](https://img.shields.io/badge/Download-%5BFighter--Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin)
+# [\[Fighter-Variant\] \[F\] FE9 Variant by Pikmin](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Fighters%20and%20Warriors%2F%5BFighter-Variant%5D%20%5BF%5D%20FE9%20Variant%20by%20Pikmin)
 ## Credits
 
 Original Tellius Fighter by MK404

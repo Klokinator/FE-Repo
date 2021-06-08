@@ -1,4 +1,4 @@
-# [\[Thief-Base\] \[F\] Cath Vanilla FE6](./) [![Download](https://img.shields.io/badge/Download-%5BThief--Base%5D%20%5BF%5D%20Cath%20Vanilla%20FE6-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Vanilla%20FE6)
+# [\[Thief-Base\] \[F\] Cath Vanilla FE6](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Thieves%2C%20Rogues%2C%20Assassins%2F%5BThief-Base%5D%20%5BF%5D%20Cath%20Vanilla%20FE6)
 ## Credits
 
 Vanilla animation by IS.

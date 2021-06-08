@@ -1,4 +1,4 @@
-# [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](./) [![Download](https://img.shields.io/badge/Download-%5BSoldier--Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz)
+# [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers%2F%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz)
 ## Credits
 
 Base Soldier by IS.

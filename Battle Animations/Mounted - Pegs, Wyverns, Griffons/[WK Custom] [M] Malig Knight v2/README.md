@@ -1,4 +1,4 @@
-# [\[WK Custom\] \[M\] Malig Knight v2](./) [![Download](https://img.shields.io/badge/Download-%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2)
+# [\[WK Custom\] \[M\] Malig Knight v2](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2F%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2)
 ## Credits
 
 Pikmin1211, Jj09, 7743, Jey the Count

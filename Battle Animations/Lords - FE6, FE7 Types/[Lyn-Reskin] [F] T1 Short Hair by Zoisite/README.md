@@ -1,4 +1,4 @@
-# [\[Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite](./) [![Download](https://img.shields.io/badge/Download-%5BLyn--Reskin%5D%20%5BF%5D%20T1%20Short%20Hair%20by%20Zoisite-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20FE6,%20FE7%20Types/%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Short%20Hair%20by%20Zoisite)
+# [\[Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BLyn-Reskin%5D%20%5BF%5D%20T1%20Short%20Hair%20by%20Zoisite)
 ## Credits
 
 Made by Zoisite.

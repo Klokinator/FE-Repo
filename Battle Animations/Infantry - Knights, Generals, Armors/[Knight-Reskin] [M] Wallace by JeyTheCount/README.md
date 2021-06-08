@@ -1,4 +1,4 @@
-# [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](./) [![Download](https://img.shields.io/badge/Download-%5BKnight--Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount)
+# [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount)
 ## Credits
 
 Vanilla animation by IS.

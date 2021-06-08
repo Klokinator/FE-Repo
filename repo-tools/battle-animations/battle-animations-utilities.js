@@ -68,7 +68,8 @@ ${anim.credits}
 
     let downloadButton = ""
     if(path != undefined) {
-        downloadButton = `[![Download](https://img.shields.io/badge/Download-${encodeURI(anim.name).replace("-", "--")}-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURI(path)})`
+        // Shields-safe name: encodeURI(anim.name).replace("-", "--")
+        downloadButton = `[![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})`
     }
 
 	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)} ${downloadButton}
@@ -148,7 +149,8 @@ const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth 
             "anim": anim,
             "addCredits": false,
             "currentDir": `${currentDir}${anim.name}/`,
-            "headingDepth": headingDepth + 1
+            "headingDepth": headingDepth + 1,
+            "path": path.join("Battle Animations", `${currentDir}${anim.name}`)
         });
 	}).join(`
 

@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](./) [![Download](https://img.shields.io/badge/Download-%5BCleric--Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword)
+# [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Holy-Type%2F%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20%2BSword)
 ## Credits
 
 Vanilla animation by IS.

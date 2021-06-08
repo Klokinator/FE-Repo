@@ -1,4 +1,4 @@
-# [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](./) [![Download](https://img.shields.io/badge/Download-%5BMyrmidon--Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby)
+# [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Myrms%20and%20Swordmasters%2F%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby)
 ## Credits
 
 Animation by Jubby, fuzz94.

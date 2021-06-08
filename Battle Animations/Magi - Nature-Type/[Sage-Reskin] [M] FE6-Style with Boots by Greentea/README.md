@@ -1,4 +1,4 @@
-# [\[Sage-Reskin\] \[M\] FE6-Style with Boots by Greentea](./) [![Download](https://img.shields.io/badge/Download-%5BSage--Reskin%5D%20%5BM%5D%20FE6-Style%20with%20Boots%20by%20Greentea-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20FE6-Style%20with%20Boots%20by%20Greentea)
+# [\[Sage-Reskin\] \[M\] FE6-Style with Boots by Greentea](./) [![Download](https://img.shields.io/badge/Download-Click%20Here!-red)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BSage-Reskin%5D%20%5BM%5D%20FE6-Style%20with%20Boots%20by%20Greentea)
 ## Credits
 
 Erk Base animation by Greentea.

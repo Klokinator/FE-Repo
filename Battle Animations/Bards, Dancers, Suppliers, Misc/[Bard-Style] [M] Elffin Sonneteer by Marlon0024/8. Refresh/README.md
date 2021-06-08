@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Marlon0024.
-	
+
 ## Refresh
 
 | Still | Animation |

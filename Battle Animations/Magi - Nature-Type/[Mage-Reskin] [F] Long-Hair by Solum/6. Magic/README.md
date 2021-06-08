@@ -3,7 +3,7 @@
 ## Credit
 
 {Solum}
-	
+
 ## Magic
 
 | Still | Animation |

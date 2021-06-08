@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Eldritch Abomination.
-	
+
 ## Sword
 
 | Still | Animation |

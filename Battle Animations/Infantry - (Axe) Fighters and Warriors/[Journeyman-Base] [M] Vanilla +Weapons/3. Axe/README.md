@@ -3,7 +3,7 @@
 ## Credit
 
 IS, Waleed, blood
-	
+
 ## Axe
 
 | Still | Animation |

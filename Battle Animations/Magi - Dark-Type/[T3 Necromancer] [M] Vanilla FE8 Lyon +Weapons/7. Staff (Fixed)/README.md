@@ -15,7 +15,7 @@
 7. Staff (Vanilla)
 
 Also credit to Big_Dedester for... something? Wasn't listed so I'm not sure.
-	
+
 ## Staff
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by IS
-	
+
 ## Handaxe
 
 | Still | Animation |

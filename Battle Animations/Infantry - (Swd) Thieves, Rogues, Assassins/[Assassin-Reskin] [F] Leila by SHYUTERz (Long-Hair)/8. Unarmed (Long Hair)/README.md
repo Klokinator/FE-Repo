@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by SHYUTERz.
-	
+
 ## Unarmed
 
 | Still | Animation |

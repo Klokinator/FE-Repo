@@ -5,7 +5,7 @@
 Aruka, Kenpuhu, Orihara_Saki, Venno
 
 7. Staff (Venno)
-	
+
 ## Staff
 
 | Still | Animation |

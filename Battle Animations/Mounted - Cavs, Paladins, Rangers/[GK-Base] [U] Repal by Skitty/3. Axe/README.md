@@ -3,7 +3,7 @@
 ## Credit
 
 
-	
+
 ## Axe
 
 | Still | Animation |

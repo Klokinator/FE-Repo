@@ -3,7 +3,7 @@
 ## Credit
 
 Made by St jack, Seal, Sacred War.
-	
+
 ## Bow
 
 | Still | Animation |

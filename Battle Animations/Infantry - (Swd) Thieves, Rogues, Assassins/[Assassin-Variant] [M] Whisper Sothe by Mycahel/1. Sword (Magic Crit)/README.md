@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Mycahel}
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {Feaw}
-	
+
 ## Unarmed
 
 | Still | Animation |

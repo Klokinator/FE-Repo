@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Eldritch Abomination.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Aruka and Kenpuhu.
-	
+
 ## Lance
 
 | Still | Animation |

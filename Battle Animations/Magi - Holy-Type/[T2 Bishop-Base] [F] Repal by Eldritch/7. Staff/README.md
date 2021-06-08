@@ -3,7 +3,7 @@
 ## Credit
 
 Eldritch Abomination, Mikey Seregon
-	
+
 ## Staff
 
 | Still | Animation |

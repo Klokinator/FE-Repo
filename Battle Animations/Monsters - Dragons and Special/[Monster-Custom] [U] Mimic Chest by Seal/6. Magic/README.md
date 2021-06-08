@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Seal, Sacred War.
-	
+
 ## Magic
 
 | Still | Animation |

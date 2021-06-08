@@ -3,7 +3,7 @@
 ## Credit
 
 IS, Waleed, blood
-	
+
 ## Handaxe
 
 | Still | Animation |

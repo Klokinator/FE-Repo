@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Variant by Jey the Count.
-	
+
 ## Unarmed
 
 | Still | Animation |

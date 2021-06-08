@@ -3,7 +3,7 @@
 ## Credit
 
 Marlon0024, Asael, MysteriousDancer
-	
+
 ## Sword
 
 | Still | Animation |

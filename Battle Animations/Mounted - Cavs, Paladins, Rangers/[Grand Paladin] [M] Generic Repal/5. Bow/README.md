@@ -11,7 +11,7 @@ Nuramon for:
 	- Axe, Handaxe and unarmed animation
 	
 Magic by Spud.
-	
+
 ## Bow
 
 | Still | Animation |

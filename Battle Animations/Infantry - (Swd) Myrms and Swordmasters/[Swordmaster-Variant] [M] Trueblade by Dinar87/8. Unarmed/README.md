@@ -5,7 +5,7 @@
 Animation by Dinar87.
 
 Scripting by RobertFPY.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Beansy, Teraspark
-	
+
 ## Dragonstone
 
 | Still | Animation |

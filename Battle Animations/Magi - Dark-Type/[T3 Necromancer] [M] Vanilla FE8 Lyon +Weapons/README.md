@@ -1,8 +1,4 @@
 # [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](./)
- 
-
-<img src="./6.%20Magic%20(Blood%20Tome%20Critfix)/Magic_000.png" alt="[T3 Necromancer] [M] Vanilla FE8 Lyon +Weapons standing" />
-
 ## Credits
 
 6. Magic (Blood Tome Critfix) {SHYUTERz}
@@ -20,8 +16,7 @@
 Also credit to Big_Dedester for... something? Wasn't listed so I'm not sure.
 
 ## Weapons
- 
 
-|Magic |Magic |Magic |Magic |Staff |Staff |
-|  :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Magic animation" src="./6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Magic%20(Fixed)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Magic%20(Minigun%20Melee)/Magic.gif" /> | <img alt="Magic animation" src="./6.%20Magic%20(Vanilla)/Magic.gif" /> | <img alt="Staff animation" src="./7.%20Staff%20(Fixed)/Staff.gif" /> | <img alt="Staff animation" src="./7.%20Staff%20(Vanilla)/Staff.gif" /> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Minigun%20Melee)/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Vanilla)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Vanilla)/Staff.gif"/> |

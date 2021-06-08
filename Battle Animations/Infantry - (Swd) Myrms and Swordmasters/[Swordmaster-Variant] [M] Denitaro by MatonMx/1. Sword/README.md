@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {MatonMx, FE Latino}
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by L95.
-	
+
 ## Refresh
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by Retrogamer.
 
 Scripted by Pikmin1211.
-	
+
 ## Magic
 
 | Still | Animation |

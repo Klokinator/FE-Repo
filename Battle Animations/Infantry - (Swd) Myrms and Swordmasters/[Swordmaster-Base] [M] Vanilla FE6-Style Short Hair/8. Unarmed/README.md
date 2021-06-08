@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Shtick.
-	
+
 ## Unarmed
 
 | Still | Animation |

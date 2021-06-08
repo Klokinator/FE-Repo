@@ -15,7 +15,7 @@ Re-used graphics:
 - Class card: Credit to Natsume (Medabots: Metabee/Rokusho) for the hook (I used Rokusho's bladethingy from a cutscene) & Demonlemon for ripping it.
 
 Everything else was made by me, Huichelaar.
-	
+
 ## Magic
 
 | Still | Animation |

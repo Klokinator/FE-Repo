@@ -5,7 +5,7 @@
 Repalette by Jeorge_Reds.
 
 Staff by ShadowOfChaos.
-	
+
 ## Magic
 
 | Still | Animation |

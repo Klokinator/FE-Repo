@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Nuramon.
-	
+
 ## Lance
 
 | Still | Animation |

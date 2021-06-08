@@ -4,7 +4,7 @@
 
 Animation by Aruka, Kenpuhu.
 
-	
+
 ## Bow
 
 | Still | Animation |

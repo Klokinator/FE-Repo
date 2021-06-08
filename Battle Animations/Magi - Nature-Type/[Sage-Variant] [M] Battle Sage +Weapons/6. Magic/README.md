@@ -4,7 +4,7 @@
 
 St jack, The_Big_Dededester, Dolkar
 7. Staff {The_Big_Dededester, Dolkar}
-	
+
 ## Magic
 
 | Still | Animation |

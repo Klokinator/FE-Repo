@@ -9,7 +9,7 @@ Teraspark
 Obsidian_Daddy
 
 Devisian_Nights
-	
+
 ## Magic
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Iscaneus, Leo_link, Intestine
-	
+
 ## Sword
 
 | Still | Animation |

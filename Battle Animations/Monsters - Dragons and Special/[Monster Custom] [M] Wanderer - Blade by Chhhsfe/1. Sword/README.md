@@ -7,7 +7,7 @@ Made by chhhsfe.
 Scripting by DerTheVaporeon.
 
 This is an animation which replaces an existing Manakete, including their transform and revert frames.
-	
+
 ## Sword
 
 | Still | Animation |

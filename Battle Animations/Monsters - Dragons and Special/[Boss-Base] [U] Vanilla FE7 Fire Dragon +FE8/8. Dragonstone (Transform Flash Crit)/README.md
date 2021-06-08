@@ -11,7 +11,7 @@ IS, Marlon0024, SHYUTERz
 8. Dragonstone (FEx + Transform) {SHYUTERz}
 
 8. Dragonstone {Marlon0024}
-	
+
 ## Dragonstone
 
 | Still | Animation |

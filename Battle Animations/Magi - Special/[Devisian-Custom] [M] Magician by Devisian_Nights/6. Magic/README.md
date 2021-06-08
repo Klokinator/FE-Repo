@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Devisian_Nights, Pikmin1211}
-	
+
 ## Magic
 
 | Still | Animation |

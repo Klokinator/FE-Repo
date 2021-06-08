@@ -3,7 +3,7 @@
 ## Credit
 
 Made by DerTheVaporeon, Team SALVAGED.
-	
+
 ## Sword
 
 | Still | Animation |

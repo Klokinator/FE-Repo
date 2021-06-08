@@ -3,7 +3,7 @@
 ## Credit
 
 {IS, Jey the Count}
-	
+
 ## Axe
 
 | Still | Animation |

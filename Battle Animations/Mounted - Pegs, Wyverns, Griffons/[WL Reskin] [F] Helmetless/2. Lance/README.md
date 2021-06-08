@@ -3,7 +3,7 @@
 ## Credit
 
 {Flasuban, TBA, Marlon}
-	
+
 ## Lance
 
 | Still | Animation |

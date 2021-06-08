@@ -21,7 +21,7 @@ This animation uses CUSTOM SOUND EFFECTS in order to function. To successfully i
 Song Table = 026D (FE8 JPN_SHYUTERz Sub PATCH) _ 20200724184104
 
 -----------------------------------------------------------------------------
-	
+
 ## Lance
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by Red Bean.
 
 Scripted by Jeorge_Reds.
-	
+
 ## Sword
 
 | Still | Animation |

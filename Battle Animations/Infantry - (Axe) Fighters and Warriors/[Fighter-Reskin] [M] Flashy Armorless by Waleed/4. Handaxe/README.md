@@ -3,7 +3,7 @@
 ## Credit
 
 {Waleed, Flasuban}
-	
+
 ## Handaxe
 
 | Still | Animation |

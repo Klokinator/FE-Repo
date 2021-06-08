@@ -3,7 +3,7 @@
 ## Credit
 
 Vanilla animation by IS.
-	
+
 ## Monster
 
 | Still | Animation |

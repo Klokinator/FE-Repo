@@ -3,7 +3,7 @@
 ## Credit
 
 {Feaw}
-	
+
 ## Staff
 
 | Still | Animation |

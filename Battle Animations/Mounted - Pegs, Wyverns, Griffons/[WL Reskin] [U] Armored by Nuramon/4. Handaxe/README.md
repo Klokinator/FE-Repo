@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Nuramon.
-	
+
 ## Handaxe
 
 | Still | Animation |

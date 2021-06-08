@@ -3,7 +3,7 @@
 ## Credit
 
 FEGirls Female Berserker. (Some people call this the 'Boobzerker' or 'Tittyzerker' because they... bounce.)
-	
+
 ## Handaxe
 
 | Still | Animation |

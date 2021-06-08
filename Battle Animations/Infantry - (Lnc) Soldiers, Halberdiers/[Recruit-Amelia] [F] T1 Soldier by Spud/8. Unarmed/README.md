@@ -5,7 +5,7 @@
 Ephraim base by IS.
 
 Animation by Spud.
-	
+
 ## Unarmed
 
 | Still | Animation |

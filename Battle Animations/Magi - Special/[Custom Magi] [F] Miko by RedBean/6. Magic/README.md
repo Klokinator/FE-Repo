@@ -5,7 +5,7 @@
 Made by Red Bean.
 
 Scripted by Dolkar.
-	
+
 ## Magic
 
 | Still | Animation |

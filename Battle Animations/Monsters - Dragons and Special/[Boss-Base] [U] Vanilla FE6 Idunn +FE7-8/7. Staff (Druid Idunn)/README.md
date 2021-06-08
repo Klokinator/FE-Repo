@@ -9,7 +9,7 @@ IS, Marlon0024, SHYUTERz
 8. Dragonstone (FEx + Transform) {SHYUTERz}
 8. Dragonstone (FEx) {Marlon0024}
 8. Dragonstone (FEx, Claw Attack + Transform) {SHYUTERz}
-	
+
 ## Staff
 
 | Still | Animation |

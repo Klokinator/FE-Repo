@@ -3,7 +3,7 @@
 ## Credit
 
  Jj09, Leo_Link, DerTheVaporeon, flashuban
-	
+
 ## Sword
 
 | Still | Animation |

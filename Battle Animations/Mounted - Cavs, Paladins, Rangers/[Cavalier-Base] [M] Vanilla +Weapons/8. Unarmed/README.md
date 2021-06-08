@@ -15,7 +15,7 @@ Handaxe Alt2 by Skitty.
 Bow by Orihara_Saki, DerTheVaporeon, Kao, and Aurora.
 
 Magic by Orihara_Saki.
-	
+
 ## Unarmed
 
 | Still | Animation |

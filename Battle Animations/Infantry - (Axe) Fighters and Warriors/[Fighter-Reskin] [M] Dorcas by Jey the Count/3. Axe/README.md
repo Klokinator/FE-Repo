@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Jey the Count.
-	
+
 ## Axe
 
 | Still | Animation |

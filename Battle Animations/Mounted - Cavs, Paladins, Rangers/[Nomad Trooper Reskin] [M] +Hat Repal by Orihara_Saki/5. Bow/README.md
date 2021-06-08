@@ -3,7 +3,7 @@
 ## Credit
 
 Orihara_Saki, Pikmin1211, Maiser6
-	
+
 ## Bow
 
 | Still | Animation |

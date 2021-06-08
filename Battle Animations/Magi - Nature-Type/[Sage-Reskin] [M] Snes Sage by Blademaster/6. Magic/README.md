@@ -5,7 +5,7 @@
 Made by Blademaster.
 
 This folder could use a staff animation.
-	
+
 ## Magic
 
 | Still | Animation |

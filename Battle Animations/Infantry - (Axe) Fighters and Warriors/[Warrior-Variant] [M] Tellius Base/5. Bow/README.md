@@ -3,7 +3,7 @@
 ## Credit
 
 Leo_Link, Nuramon, Spud, Jey the Count
-	
+
 ## Bow
 
 | Still | Animation |

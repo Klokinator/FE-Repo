@@ -5,7 +5,7 @@
 Animation by Pikmin1211, Jj09, 7743.
 
 Lance by JeyTheCount.
-	
+
 ## Magic
 
 | Still | Animation |

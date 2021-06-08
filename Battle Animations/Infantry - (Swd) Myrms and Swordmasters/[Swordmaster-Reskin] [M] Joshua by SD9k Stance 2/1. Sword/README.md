@@ -3,7 +3,7 @@
 ## Credit
 
 Made by SD9K.
-	
+
 ## Sword
 
 | Still | Animation |

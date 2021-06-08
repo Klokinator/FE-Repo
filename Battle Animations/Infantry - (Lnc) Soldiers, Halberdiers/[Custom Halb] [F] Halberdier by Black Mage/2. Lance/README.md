@@ -5,7 +5,7 @@
 Base animation by TheBlindArcher.
 
 Female variant by Black Mage.
-	
+
 ## Lance
 
 | Still | Animation |

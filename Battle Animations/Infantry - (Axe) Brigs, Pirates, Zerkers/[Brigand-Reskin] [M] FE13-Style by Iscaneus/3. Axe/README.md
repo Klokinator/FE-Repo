@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Leo_Link, Iscaneus.
-	
+
 ## Axe
 
 | Still | Animation |

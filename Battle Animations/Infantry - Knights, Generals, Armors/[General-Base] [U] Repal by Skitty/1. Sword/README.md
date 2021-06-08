@@ -3,7 +3,7 @@
 ## Credit
 
 {Skitty}
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Flasuban, Eldritch Abomination.
-	
+
 ## Unarmed
 
 | Still | Animation |

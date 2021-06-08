@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Sword by TheBlindArcher.
-	
+
 ## Staff
 
 | Still | Animation |

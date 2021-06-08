@@ -5,7 +5,7 @@
 Original Berserker by IS.
 
 Repalette by Blue Druid.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -18,7 +18,7 @@ Map Sprite by Pikmin1211, Nuramon, and DerTheVaporeon
 
 Class Card by Pikmin1211
 
-	
+
 ## Staff
 
 | Still | Animation |

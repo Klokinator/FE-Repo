@@ -7,7 +7,7 @@ Base animation by SALVAGED.
 Bow by Obsidian Daddy.
 
 Magic by Zoramine Fae.
-	
+
 ## Axe
 
 | Still | Animation |

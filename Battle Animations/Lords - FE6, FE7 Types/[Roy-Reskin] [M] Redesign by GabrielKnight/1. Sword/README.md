@@ -5,7 +5,7 @@
 Redesign by GabrielKnight. 
 
 Scripting by flasuban.
-	
+
 ## Sword
 
 | Still | Animation |

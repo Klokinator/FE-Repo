@@ -5,7 +5,7 @@
 Animation by Aruka, Kenpuhu.
 
 Unarmed by Blood.
-	
+
 ## Sword
 
 | Still | Animation |

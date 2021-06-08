@@ -3,7 +3,7 @@
 ## Credit
 
 Made by TheBlindArcher.
-	
+
 ## Handaxe
 
 | Still | Animation |

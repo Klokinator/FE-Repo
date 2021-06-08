@@ -1,8 +1,4 @@
 # [\[Berserker-Custom\] \[U\] Bushido Doogzerker](./)
- 
-
-<img src="./Sword/Sword_000.png" alt="[Berserker-Custom] [U] Bushido Doogzerker standing" />
-
 ## Credits
 
 Base animation taken from the Bushido Swordzerker by Intestine.
@@ -20,8 +16,5 @@ Full credits:
 IS, Maiser6, TBA, Intestine, Aruka, Kenpuhu, Greentea, RobertFPY, DerTheVaporeon, Team SALVAGED.
 
 ## Weapons
- 
 
-|Sword |
-|  :---: |
-| <img alt="Sword animation" src="./Sword/Sword.gif" /> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./Sword/Sword.gif"/> |

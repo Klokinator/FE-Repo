@@ -32,7 +32,7 @@ const makeWeaponReadmeText = (anim, weapon) => (
 ## Credit
 
 ${anim.credits}
-	
+
 ## ${weapon.type}
 
 | Still | Animation |
@@ -52,18 +52,6 @@ ${anim.credits}
  * @returns {String}
  */
 const makeAnimReadmeText = (anim, addCredits = true, currentDir = './', headingDepth = 1) => {
-	let weaponHeaders = '|'
-	let weaponContents = '|'
-	anim.weapons.forEach(weapon => {
-		let weaponDir = ''
-		if (weapon.dir) weaponDir = weapon.dir + '/'
-		weaponHeaders += `${weapon.type} |`
-		weaponContents +=
-			` <img alt="${weapon.type} animation" src="${encodeURI(currentDir + weaponDir + weapon.active)}" /> |`
-	})
-	// NOTE: if exact dimensions are desired, pass height="160" and width="248" to the <img tags in this file
-	// I am not currently doing this because I do not know what github will default to.
-
 	let creditsBlock = ''
 	if (addCredits) {
 		creditsBlock = `${getHeading(headingDepth + 1)} Credits
@@ -73,24 +61,60 @@ ${anim.credits}
 	}
 
 	let showPreviewBlock, showWeaponsHeading
-	if (anim.weapons[0].dir) {
+	if (anim.weapons && anim.weapons[0] && anim.weapons[0].dir) {
 		showPreviewBlock = true
 		showWeaponsHeading = true
 	}
 
 	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)}
- 
-${showPreviewBlock ? `
-<img src="${encodeURI(currentDir +anim.weapons[0].dir + '/' + anim.weapons[0].static)}" alt="${anim.name} standing" />
-`: ''}
 ${creditsBlock}
 ${showWeaponsHeading ? `${getHeading(headingDepth +1)} Weapons
-` : ''} 
-
-${weaponHeaders}
-| ${anim.weapons.map(() => ' :---: |').join('')}
-${weaponContents}
+` : ''}
+${makeWeaponsContent({anim, currentDir})}
 `)
+}
+
+const MAXIMUM_CELLS_PER_LINE = 3
+const makeWeaponsContent = ({anim, currentDir}) => {
+    if(anim.weapons == undefined) return ""
+    if(anim.weapons[0] == undefined) return ""
+
+    const cellsPerRow = Math.min(MAXIMUM_CELLS_PER_LINE, anim.weapons.length)
+
+    let content = "|"
+
+    anim.weapons.forEach((weapon, index) => {
+        // Whenever the grid gets too
+        // wide, drop to a new line.
+        if(index != 0 && index % cellsPerRow == 0) {
+            content += "\n"
+            content += "|"
+
+            // If this is the first new line,
+            // make sure to add a divider. Like this:
+            // |  :---: | :---: | :---: |
+            if(index == cellsPerRow) {
+                for(let i = 0; i < cellsPerRow; i += 1) {
+                    content += " :---: |"
+                }
+                content += "\n"
+                content += "|"
+            }
+        }
+
+        content += " "
+        content += makeWeaponContent({weapon, currentDir})
+        content += " |"
+    })
+
+    return content
+}
+
+const makeWeaponContent = ({weapon, currentDir}) => {
+    let content = ""
+    content += `<b>${weapon.type}</b><br/>`
+    content += `<img alt="${weapon.type} animation" src="${encodeURI(currentDir + (weapon.dir ? weapon.dir + "/" : "") + weapon.active)}"/>`
+    return content
 }
 
 /**

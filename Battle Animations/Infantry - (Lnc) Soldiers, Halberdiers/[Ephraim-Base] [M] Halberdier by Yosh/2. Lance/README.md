@@ -5,7 +5,7 @@
 Made by Yosh, Aruka, Kenpuhu.
 
 Missing an Unarmed animation.
-	
+
 ## Lance
 
 | Still | Animation |

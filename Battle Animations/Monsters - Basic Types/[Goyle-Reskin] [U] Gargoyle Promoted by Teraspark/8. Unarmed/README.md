@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Teraspark, L95.
-	
+
 ## Unarmed
 
 | Still | Animation |

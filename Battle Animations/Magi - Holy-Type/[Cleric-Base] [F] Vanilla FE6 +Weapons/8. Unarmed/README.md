@@ -9,7 +9,7 @@ Sword (Heartseeker) by Maiser6, Raiden.
 Sword (Prayer) by Maiser6, Raiden.
 
 Magic by Jeorge_Reds.
-	
+
 ## Unarmed
 
 | Still | Animation |

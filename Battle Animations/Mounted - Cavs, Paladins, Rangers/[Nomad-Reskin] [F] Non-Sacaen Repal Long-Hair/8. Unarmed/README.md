@@ -5,7 +5,7 @@
 Non-Sacaen Nomad by eCut.
 
 Repalette by Pikmin1211 and Maiser6.
-	
+
 ## Unarmed
 
 | Still | Animation |

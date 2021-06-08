@@ -3,7 +3,7 @@
 ## Credit
 
 Made by .
-	
+
 ## Lance
 
 | Still | Animation |

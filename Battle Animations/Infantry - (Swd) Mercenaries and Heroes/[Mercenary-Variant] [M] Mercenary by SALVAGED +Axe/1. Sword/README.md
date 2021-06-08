@@ -3,7 +3,7 @@
 ## Credit
 
 Made by SALVAGED.
-	
+
 ## Sword
 
 | Still | Animation |

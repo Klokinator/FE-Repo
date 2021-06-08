@@ -1,8 +1,4 @@
 # [\[Lyn-Style\] \[F\] Brave Lyn Nomad by RedBean](./)
- 
-
-<img src="./1.%20Sword/Sword_000.png" alt="[Lyn-Style] [F] Brave Lyn Nomad by RedBean standing" />
-
 ## Credits
 
 Made by Red Bean. 
@@ -10,8 +6,5 @@ Made by Red Bean.
 Scripted by Marlon0024.
 
 ## Weapons
- 
 
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

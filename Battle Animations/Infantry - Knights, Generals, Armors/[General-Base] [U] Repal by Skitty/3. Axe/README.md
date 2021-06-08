@@ -3,7 +3,7 @@
 ## Credit
 
 {Skitty}
-	
+
 ## Axe
 
 | Still | Animation |

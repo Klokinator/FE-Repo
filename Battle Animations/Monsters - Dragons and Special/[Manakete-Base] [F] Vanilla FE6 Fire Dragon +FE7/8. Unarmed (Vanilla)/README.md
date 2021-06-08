@@ -9,7 +9,7 @@ IS, Marlon0024, Eldritch Abomination, SHYUTERz
 8. Dragonstone (FE8) {Eldritch Abomination}
 8. Dragonstone (FEx) {SHYUTERz}
 8. Dragonstone (Vanilla) (Disembodied Head)
-	
+
 ## Unarmed
 
 | Still | Animation |

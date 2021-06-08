@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Arkth.
-	
+
 ## Lance
 
 | Still | Animation |

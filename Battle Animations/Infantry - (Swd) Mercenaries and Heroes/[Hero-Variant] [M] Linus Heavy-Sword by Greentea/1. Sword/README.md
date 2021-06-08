@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Greentea, DerTheVaporeon, Nuramon.
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {Lenh}
-	
+
 ## Handaxe
 
 | Still | Animation |

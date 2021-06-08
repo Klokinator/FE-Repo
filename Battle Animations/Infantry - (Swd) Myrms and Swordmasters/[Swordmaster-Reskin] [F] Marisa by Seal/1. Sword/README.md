@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Seal.
-	
+
 ## Sword
 
 | Still | Animation |

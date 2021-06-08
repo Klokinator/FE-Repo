@@ -3,7 +3,7 @@
 ## Credit
 
 Made by BatimaTheBat.
-	
+
 ## Staff
 
 | Still | Animation |

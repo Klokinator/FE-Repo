@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Knabepicer.
-	
+
 ## Refresh
 
 | Still | Animation |

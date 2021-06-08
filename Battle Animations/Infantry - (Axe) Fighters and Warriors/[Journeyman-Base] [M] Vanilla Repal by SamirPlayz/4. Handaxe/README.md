@@ -3,7 +3,7 @@
 ## Credit
 
 SamirPlayz
-	
+
 ## Handaxe
 
 | Still | Animation |

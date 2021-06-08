@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Zoisite.
-	
+
 ## Unarmed
 
 | Still | Animation |

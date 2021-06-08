@@ -3,7 +3,7 @@
 ## Credit
 
 SamirPlayz
-	
+
 ## Unarmed
 
 | Still | Animation |

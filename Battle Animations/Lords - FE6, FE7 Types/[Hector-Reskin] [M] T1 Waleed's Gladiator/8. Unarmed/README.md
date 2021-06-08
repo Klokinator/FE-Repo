@@ -3,7 +3,7 @@
 ## Credit
 
 Base for Gladiator by Waleed.
-	
+
 ## Unarmed
 
 | Still | Animation |

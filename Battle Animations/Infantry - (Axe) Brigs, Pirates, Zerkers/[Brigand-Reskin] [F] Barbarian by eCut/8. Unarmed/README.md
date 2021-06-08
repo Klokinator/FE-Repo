@@ -5,7 +5,7 @@
 Made by eCut.
 
 Scripted by Skitty.
-	
+
 ## Unarmed
 
 | Still | Animation |

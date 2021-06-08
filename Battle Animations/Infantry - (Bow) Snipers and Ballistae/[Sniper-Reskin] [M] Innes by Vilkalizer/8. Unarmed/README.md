@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Vilkalizer.
-	
+
 ## Unarmed
 
 | Still | Animation |

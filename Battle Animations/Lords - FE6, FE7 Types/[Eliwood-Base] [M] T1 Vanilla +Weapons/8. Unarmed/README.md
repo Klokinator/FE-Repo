@@ -11,7 +11,7 @@ Jojowood by Vilkalizer.
 Bow by Jj09, PrincessKilvas, Spud.
 
 Durandal by Mercenary Lord.
-	
+
 ## Unarmed
 
 | Still | Animation |

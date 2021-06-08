@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by GabrielKnight, BigMood.
-	
+
 ## Sword
 
 | Still | Animation |

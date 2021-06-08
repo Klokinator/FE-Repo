@@ -3,7 +3,7 @@
 ## Credit
 
 Memae, Skitty, BwdYeti, MeatOfJustice
-	
+
 ## Unarmed
 
 | Still | Animation |

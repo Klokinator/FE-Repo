@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Magic w/staff animation by seergiioo.
-	
+
 ## Magic
 
 | Still | Animation |

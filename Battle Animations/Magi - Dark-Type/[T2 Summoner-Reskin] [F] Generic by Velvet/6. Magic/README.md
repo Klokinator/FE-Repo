@@ -3,7 +3,7 @@
 ## Credit
 
 {Velvet Kitsune, Author_Pendragon}
-	
+
 ## Magic
 
 | Still | Animation |

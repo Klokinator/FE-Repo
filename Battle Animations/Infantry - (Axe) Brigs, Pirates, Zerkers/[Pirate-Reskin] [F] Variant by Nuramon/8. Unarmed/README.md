@@ -3,7 +3,7 @@
 ## Credit
 
 Nuramon, MarioKirby, Wan
-	
+
 ## Unarmed
 
 | Still | Animation |

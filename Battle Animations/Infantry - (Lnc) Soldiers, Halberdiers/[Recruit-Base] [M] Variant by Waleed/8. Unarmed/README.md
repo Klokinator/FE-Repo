@@ -5,7 +5,7 @@
 Original female Amelia by IS.
 
 Male variant by Waleed.
-	
+
 ## Unarmed
 
 | Still | Animation |

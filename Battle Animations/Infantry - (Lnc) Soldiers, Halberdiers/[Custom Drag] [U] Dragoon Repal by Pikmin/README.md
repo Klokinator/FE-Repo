@@ -1,8 +1,4 @@
 # [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](./)
- 
-
-<img src="./2.%20Lance/Lance_000.png" alt="[Custom Drag] [U] Dragoon Repal by Pikmin standing" />
-
 ## Credits
 
 Original Dragoon by Mercenary Lord and NYZGamer
@@ -18,8 +14,5 @@ Map Sprites by Pikmin1211 (Original Uncredited)
 Class Card by Pikmin1211 (Original Uncredited)
 
 ## Weapons
- 
 
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

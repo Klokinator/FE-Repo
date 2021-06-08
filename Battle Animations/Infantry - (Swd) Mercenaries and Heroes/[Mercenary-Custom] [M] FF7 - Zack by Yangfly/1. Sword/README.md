@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Lord Zymeth, Yangfly Master.
-	
+
 ## Sword
 
 | Still | Animation |

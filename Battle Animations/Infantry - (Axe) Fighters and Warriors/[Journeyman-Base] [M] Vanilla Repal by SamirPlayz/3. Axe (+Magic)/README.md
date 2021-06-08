@@ -3,7 +3,7 @@
 ## Credit
 
 SamirPlayz
-	
+
 ## Axe
 
 | Still | Animation |

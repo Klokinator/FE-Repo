@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Teraspark, Wan.
-	
+
 ## Axe
 
 | Still | Animation |

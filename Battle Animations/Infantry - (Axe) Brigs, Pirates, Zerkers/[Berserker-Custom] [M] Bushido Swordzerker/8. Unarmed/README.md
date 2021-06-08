@@ -3,7 +3,7 @@
 ## Credit
 
 Intestine, IS, Maiser6, TBA, The_Big_Dededester
-	
+
 ## Unarmed
 
 | Still | Animation |

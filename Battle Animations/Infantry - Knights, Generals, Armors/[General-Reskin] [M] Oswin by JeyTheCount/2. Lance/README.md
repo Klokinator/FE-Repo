@@ -3,7 +3,7 @@
 ## Credit
 
 {IS, Jey the Count}
-	
+
 ## Lance
 
 | Still | Animation |

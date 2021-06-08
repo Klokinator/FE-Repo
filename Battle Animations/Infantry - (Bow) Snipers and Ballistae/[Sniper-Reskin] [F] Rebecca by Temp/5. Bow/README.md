@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Temp, Wan.
-	
+
 ## Bow
 
 | Still | Animation |

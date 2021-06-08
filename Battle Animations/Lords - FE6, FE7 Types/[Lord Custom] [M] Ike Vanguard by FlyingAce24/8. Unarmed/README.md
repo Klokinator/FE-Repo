@@ -5,7 +5,7 @@
 Made by FlyingAce24.
 
 Scripted by Primefusion.
-	
+
 ## Unarmed
 
 | Still | Animation |

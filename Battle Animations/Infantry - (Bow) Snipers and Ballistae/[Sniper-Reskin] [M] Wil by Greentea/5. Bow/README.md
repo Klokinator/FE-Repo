@@ -5,7 +5,7 @@
 Made by Greentea.
 
 Scripted by...??
-	
+
 ## Bow
 
 | Still | Animation |

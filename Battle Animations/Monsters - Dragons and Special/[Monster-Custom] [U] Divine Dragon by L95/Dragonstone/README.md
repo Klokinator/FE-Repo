@@ -5,7 +5,7 @@
 Dragonstone by L95.
 
 Modeled after the FE3 Book 2 dragons.
-	
+
 ## Dragonstone
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Base for Gladiator by Waleed.
-	
+
 ## Axe
 
 | Still | Animation |

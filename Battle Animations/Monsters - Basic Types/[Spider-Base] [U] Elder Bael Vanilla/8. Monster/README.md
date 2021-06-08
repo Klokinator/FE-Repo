@@ -3,7 +3,7 @@
 ## Credit
 
 Made by IS.
-	
+
 ## Monster
 
 | Still | Animation |

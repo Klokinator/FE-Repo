@@ -16,7 +16,7 @@ Map Sprite by DerTheVaporeon
 
 Class Card by DerTheVaporeon
 
-	
+
 ## Unarmed
 
 | Still | Animation |

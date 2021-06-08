@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Chhhsfe.
-	
+
 ## Monster
 
 | Still | Animation |

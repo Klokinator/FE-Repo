@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Memae.
-	
+
 ## Unarmed
 
 | Still | Animation |

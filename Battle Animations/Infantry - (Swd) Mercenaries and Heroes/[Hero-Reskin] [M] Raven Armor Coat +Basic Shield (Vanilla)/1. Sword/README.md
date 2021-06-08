@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by IS.
-	
+
 ## Sword
 
 | Still | Animation |

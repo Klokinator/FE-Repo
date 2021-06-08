@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {DerTheVaporeon}
-	
+
 ## Sword
 
 | Still | Animation |

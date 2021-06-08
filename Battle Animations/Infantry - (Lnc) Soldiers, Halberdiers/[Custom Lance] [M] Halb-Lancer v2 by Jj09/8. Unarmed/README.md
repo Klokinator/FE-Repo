@@ -5,7 +5,7 @@
 Base Halberdier by TBA.
 
 Lancer variant by Jj09.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Magic animation by Teraspark.
-	
+
 ## Monster
 
 | Still | Animation |

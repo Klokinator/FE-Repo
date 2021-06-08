@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Memae, SD9K.
-	
+
 ## Bow
 
 | Still | Animation |

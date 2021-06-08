@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Magic fixed by Blazer.
 
 Staff by Citrus.
-	
+
 ## Staff
 
 | Still | Animation |

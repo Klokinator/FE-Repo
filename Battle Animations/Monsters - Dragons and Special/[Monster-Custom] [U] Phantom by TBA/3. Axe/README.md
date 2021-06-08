@@ -5,7 +5,7 @@
 Made by TheBlindArcher.
 
 Improvements and scripting by Arch, Skitty, Temp.
-	
+
 ## Axe
 
 | Still | Animation |

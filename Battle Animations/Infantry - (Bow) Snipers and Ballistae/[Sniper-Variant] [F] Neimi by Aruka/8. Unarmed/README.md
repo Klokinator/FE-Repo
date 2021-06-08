@@ -5,7 +5,7 @@
 Made by Aruka, Kenpuhu.
 
 Alt Bow/Unarmed by Frostlax.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Axe and Handaxe by Vilkalizer.
-	
+
 ## Unarmed
 
 | Still | Animation |

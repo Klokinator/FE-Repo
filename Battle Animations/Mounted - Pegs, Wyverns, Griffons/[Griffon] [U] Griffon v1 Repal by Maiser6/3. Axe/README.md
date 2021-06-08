@@ -5,7 +5,7 @@
 Griffon by Blue Druid.
 
 Repalette by Maiser6.
-	
+
 ## Axe
 
 | Still | Animation |

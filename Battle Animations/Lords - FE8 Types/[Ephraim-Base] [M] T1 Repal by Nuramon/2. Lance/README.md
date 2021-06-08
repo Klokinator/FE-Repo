@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Nuramon.
-	
+
 ## Lance
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by Lisandra_Brave.
 
 Fixed version by Shin19.
-	
+
 ## Magic
 
 | Still | Animation |

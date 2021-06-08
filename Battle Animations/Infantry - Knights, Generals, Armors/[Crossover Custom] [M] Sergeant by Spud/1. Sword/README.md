@@ -3,7 +3,7 @@
 ## Credit
 
 Spud, Leolink, Iscaneous, Nuramon
-	
+
 ## Sword
 
 | Still | Animation |

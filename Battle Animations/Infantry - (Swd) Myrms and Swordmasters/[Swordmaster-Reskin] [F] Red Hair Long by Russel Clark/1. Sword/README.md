@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Russell Clark.
-	
+
 ## Sword
 
 | Still | Animation |

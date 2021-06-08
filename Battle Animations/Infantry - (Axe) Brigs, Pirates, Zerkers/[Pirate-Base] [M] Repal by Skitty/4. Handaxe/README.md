@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Skitty.
-	
+
 ## Handaxe
 
 | Still | Animation |

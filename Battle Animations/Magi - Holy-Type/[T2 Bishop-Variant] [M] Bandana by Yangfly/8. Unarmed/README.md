@@ -3,7 +3,7 @@
 ## Credit
 
 {Yangfly Master}
-	
+
 ## Unarmed
 
 | Still | Animation |

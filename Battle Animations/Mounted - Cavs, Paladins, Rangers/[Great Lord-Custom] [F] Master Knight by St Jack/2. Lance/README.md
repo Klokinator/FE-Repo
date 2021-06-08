@@ -3,7 +3,7 @@
 ## Credit
 
 {St jack}
-	
+
 ## Lance
 
 | Still | Animation |

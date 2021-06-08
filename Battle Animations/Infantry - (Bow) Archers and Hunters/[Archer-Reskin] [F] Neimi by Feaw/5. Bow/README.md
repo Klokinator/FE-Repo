@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Feaw.
-	
+
 ## Bow
 
 | Still | Animation |

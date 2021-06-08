@@ -3,7 +3,7 @@
 ## Credit
 
 Pikmin1211, Maiser6, Skitty, GabrielKnight
-	
+
 ## Sword
 
 | Still | Animation |

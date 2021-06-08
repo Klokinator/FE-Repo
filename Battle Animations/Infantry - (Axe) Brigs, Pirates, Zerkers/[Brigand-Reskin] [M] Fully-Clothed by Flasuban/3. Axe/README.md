@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Flasuban.
-	
+
 ## Axe
 
 | Still | Animation |

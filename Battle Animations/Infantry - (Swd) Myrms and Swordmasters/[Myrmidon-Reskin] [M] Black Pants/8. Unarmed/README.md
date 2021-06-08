@@ -5,7 +5,7 @@
 Made by Halberdier.
 
 Scripted by Leo_Link.
-	
+
 ## Unarmed
 
 | Still | Animation |

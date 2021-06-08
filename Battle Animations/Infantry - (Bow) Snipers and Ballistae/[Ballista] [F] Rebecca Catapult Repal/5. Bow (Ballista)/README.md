@@ -3,7 +3,7 @@
 ## Credit
 
 Spud, Ren_Ookami, St. jack
-	
+
 ## Bow
 
 | Still | Animation |

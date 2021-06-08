@@ -5,7 +5,7 @@
 Custom animation by Obsidian Daddy. 
 
 Scripting by Rexacuse, Leo Link.
-	
+
 ## Magic
 
 | Still | Animation |

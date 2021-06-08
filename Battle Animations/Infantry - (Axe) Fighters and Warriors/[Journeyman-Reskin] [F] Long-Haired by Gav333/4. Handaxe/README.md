@@ -3,7 +3,7 @@
 ## Credit
 
 {Gavvv333}
-	
+
 ## Handaxe
 
 | Still | Animation |

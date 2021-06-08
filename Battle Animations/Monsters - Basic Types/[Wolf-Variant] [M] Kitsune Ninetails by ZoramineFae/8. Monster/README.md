@@ -3,7 +3,7 @@
 ## Credit
 
 Made by ZoramineFae.
-	
+
 ## Monster
 
 | Still | Animation |

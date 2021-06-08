@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Mariah the Magician.
-	
+
 ## Staff
 
 | Still | Animation |

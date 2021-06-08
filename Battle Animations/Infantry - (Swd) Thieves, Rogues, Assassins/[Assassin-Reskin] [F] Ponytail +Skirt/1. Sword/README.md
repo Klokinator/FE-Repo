@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by FPZero, Moocavo, Riku.
-	
+
 ## Sword
 
 | Still | Animation |

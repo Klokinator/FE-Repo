@@ -3,7 +3,7 @@
 ## Credit
 
 {Skitty}
-	
+
 ## Unarmed
 
 | Still | Animation |

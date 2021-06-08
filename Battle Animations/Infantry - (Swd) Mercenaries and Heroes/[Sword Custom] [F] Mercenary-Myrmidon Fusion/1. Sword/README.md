@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Max.
-	
+
 ## Sword
 
 | Still | Animation |

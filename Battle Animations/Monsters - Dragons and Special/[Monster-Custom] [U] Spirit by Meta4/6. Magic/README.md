@@ -3,7 +3,7 @@
 ## Credit
 
 Made by meta4.
-	
+
 ## Magic
 
 | Still | Animation |

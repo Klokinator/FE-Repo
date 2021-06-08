@@ -3,7 +3,7 @@
 ## Credit
 
 {Orihara_Saki, Pikmin1211, Maiser6}
-	
+
 ## Sword
 
 | Still | Animation |

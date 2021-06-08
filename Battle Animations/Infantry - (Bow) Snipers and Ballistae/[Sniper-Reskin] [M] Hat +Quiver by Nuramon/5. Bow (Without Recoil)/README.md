@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Nuramon, Swain, Temp.
-	
+
 ## Bow
 
 | Still | Animation |

@@ -10,7 +10,7 @@ JPN
 Knabepicer
 
 2. Lance (No Chain) {knabepicer, Dabmaster110}
-	
+
 ## Sword
 
 | Still | Animation |

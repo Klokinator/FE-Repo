@@ -5,7 +5,7 @@
 Base Warrior animation by IS. 
 
 Dorcas variant by Jey the Count.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -9,7 +9,7 @@ Magic (Gran Caster) {Seal, Sacred War}
 Magic {Seal, Sacred War}
 
 Dragonstone (FE7) {Circleseverywhere}
-	
+
 ## Magic
 
 | Still | Animation |

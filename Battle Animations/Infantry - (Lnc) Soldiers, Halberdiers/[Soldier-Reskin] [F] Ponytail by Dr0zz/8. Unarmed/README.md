@@ -5,7 +5,7 @@
 Base Soldier by IS.
 
 Female variant by Dr0zz.
-	
+
 ## Unarmed
 
 | Still | Animation |

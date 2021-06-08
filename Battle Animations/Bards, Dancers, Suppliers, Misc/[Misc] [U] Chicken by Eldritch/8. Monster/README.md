@@ -3,7 +3,7 @@
 ## Credit
 
 
-	
+
 ## Monster
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by Leo_Link and L95.
 
 Long-haired variant by Flasuban.
-	
+
 ## Magic
 
 | Still | Animation |

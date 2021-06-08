@@ -9,7 +9,7 @@ Bow {ltranc, Genocike, Kao, DerTheVaporeon}
 Magic {Primefusion}
 
 Staff {Primefusion}
-	
+
 ## Handaxe
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by {Swain}
-	
+
 ## Handaxe
 
 | Still | Animation |

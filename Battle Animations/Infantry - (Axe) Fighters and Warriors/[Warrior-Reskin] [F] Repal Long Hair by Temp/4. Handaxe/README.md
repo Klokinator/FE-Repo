@@ -7,7 +7,7 @@ Base Warrior by IS.
 Female variant by Temp.
 
 Repalette and Long-Haired edit by Pushwall.
-	
+
 ## Handaxe
 
 | Still | Animation |

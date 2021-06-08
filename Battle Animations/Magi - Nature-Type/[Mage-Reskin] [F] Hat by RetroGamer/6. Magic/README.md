@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Retrogamer, 7743}
-	
+
 ## Magic
 
 | Still | Animation |

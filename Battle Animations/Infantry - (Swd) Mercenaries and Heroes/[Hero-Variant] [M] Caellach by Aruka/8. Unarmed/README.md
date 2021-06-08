@@ -10,7 +10,7 @@ Error with Axe animation fixed by JJ09.
 
 Note that this animation is very choppy and could use community improvement.
 
-	
+
 ## Unarmed
 
 | Still | Animation |

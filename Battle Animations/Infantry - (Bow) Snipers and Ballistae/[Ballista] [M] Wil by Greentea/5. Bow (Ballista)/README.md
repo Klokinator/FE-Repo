@@ -5,7 +5,7 @@
 Made by Greentea.
 
 Scripting by qiuzf007.
-	
+
 ## Bow
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Russell Clark, Orihara_Saki.
-	
+
 ## Sword
 
 | Still | Animation |

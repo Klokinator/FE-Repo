@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Nuramon.
-	
+
 ## Dragonstone
 
 | Still | Animation |

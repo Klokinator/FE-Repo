@@ -3,7 +3,7 @@
 ## Credit
 
 {IS, Vilkalizer}
-	
+
 ## Handaxe
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by the FE7if devs.
 
 This folder needs unarmed frames.
-	
+
 ## Sword
 
 | Still | Animation |

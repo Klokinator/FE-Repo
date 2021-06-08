@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {ZoramineFae}
-	
+
 ## Sword
 
 | Still | Animation |

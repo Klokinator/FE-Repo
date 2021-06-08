@@ -5,7 +5,7 @@
 Vanilla animation by IS.
 
 Wallace variant by JeyTheCount.
-	
+
 ## Handaxe
 
 | Still | Animation |

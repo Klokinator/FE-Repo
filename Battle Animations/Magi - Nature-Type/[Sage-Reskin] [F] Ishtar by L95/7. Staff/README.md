@@ -5,7 +5,7 @@
 Made by L95.
 
 Scripted by Brendor.
-	
+
 ## Staff
 
 | Still | Animation |

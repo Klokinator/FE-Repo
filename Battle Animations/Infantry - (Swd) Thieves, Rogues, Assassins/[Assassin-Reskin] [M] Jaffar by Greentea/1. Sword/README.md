@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Greentea, Nuramon.
-	
+
 ## Sword
 
 | Still | Animation |

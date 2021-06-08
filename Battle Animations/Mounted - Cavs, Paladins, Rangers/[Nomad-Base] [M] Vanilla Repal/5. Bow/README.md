@@ -3,7 +3,7 @@
 ## Credit
 
 Nomad Repalette by Pikmin1211 and Maiser6.
-	
+
 ## Bow
 
 | Still | Animation |

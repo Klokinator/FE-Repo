@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Glenwing.
-	
+
 ## Lance
 
 | Still | Animation |

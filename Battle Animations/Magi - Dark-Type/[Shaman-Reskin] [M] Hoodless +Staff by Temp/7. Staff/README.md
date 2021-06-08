@@ -5,7 +5,7 @@
 Hoodless by Temp.
 
 Fixed Magic by Shin19.
-	
+
 ## Staff
 
 | Still | Animation |

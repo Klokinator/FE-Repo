@@ -1,15 +1,8 @@
 # [\[Cleric-Reskin\] \[F\] FE13 Lissa](./)
- 
-
-<img src="./7.%20Staff/Staff_000.png" alt="[Cleric-Reskin] [F] FE13 Lissa standing" />
-
 ## Credits
 
 Made by BatimaTheBat.
 
 ## Weapons
- 
 
-|Staff |Unarmed |
-|  :---: | :---: |
-| <img alt="Staff animation" src="./7.%20Staff/Staff.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

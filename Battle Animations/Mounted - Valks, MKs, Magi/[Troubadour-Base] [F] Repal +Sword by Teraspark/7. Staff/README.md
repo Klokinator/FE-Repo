@@ -3,7 +3,7 @@
 ## Credit
 
 {Teraspark}
-	
+
 ## Staff
 
 | Still | Animation |

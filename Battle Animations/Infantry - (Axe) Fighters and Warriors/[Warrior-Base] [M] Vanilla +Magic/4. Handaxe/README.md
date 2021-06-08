@@ -5,7 +5,7 @@
 Original Warrior by IS. 
 
 Magic and Staff by Orihara_Saki.
-	
+
 ## Handaxe
 
 | Still | Animation |

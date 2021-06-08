@@ -1,15 +1,8 @@
 # [\[Mage-Reskin\] \[F\] Long-Hair by Solum](./)
- 
-
-<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Reskin] [F] Long-Hair by Solum standing" />
-
 ## Credits
 
 {Solum}
 
 ## Weapons
- 
 
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> |

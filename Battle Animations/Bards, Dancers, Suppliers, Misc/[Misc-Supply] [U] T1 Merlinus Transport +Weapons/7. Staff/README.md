@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Bow by Spud.
 
 Staff by N426.
-	
+
 ## Staff
 
 | Still | Animation |

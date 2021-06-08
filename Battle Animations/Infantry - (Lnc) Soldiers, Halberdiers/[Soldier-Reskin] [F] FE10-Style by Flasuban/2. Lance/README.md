@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Flasuban.
-	
+
 ## Lance
 
 | Still | Animation |

@@ -1,8 +1,4 @@
 # [\[Recruit-Base\] \[M\] Variant by Waleed](./)
- 
-
-<img src="./2.%20Lance/Lance_000.png" alt="[Recruit-Base] [M] Variant by Waleed standing" />
-
 ## Credits
 
 Original female Amelia by IS.
@@ -10,8 +6,5 @@ Original female Amelia by IS.
 Male variant by Waleed.
 
 ## Weapons
- 
 
-|Lance |Unarmed |
-|  :---: | :---: |
-| <img alt="Lance animation" src="./2.%20Lance/Lance.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

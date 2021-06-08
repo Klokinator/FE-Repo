@@ -15,7 +15,7 @@ Fire palette referenced from DerTheVaporeon's Cursed Sword.
 Full credits:
 
 IS, Maiser6, TBA, Intestine, Aruka, Kenpuhu, Greentea, RobertFPY, DerTheVaporeon, Team SALVAGED.
-	
+
 ## Sword
 
 | Still | Animation |

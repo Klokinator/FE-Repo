@@ -3,7 +3,7 @@
 ## Credit
 
 Made by DerTheVaporeon.
-	
+
 ## Palettes
 
 | Still | Animation |

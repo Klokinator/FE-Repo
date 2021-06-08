@@ -25,7 +25,7 @@
 7. Staff (Fixed) (Athos-Style) {Orihara_Saki}
 
 Please note that there are many variants of this animation. The Dark Druid was once an absolute enigma for modders, to the point where getting his rotating crit effect into FE6 or FE8 was damn near impossible. There are many alternate crits as a result, making some animations flashier or simpler than others. As per the repo's primary directives, I have retained all of them for future purposes.
-	
+
 ## Magic
 
 | Still | Animation |

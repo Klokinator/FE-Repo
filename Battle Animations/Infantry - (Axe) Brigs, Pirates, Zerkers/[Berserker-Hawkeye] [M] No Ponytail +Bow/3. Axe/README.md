@@ -5,7 +5,7 @@
 Made by Orihara_Saki.
 
 Bow by HGS.
-	
+
 ## Axe
 
 | Still | Animation |

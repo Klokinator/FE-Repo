@@ -3,7 +3,7 @@
 ## Credit
 
 IS, Mysterious Dancer, Sax Marine
-	
+
 ## Sword
 
 | Still | Animation |

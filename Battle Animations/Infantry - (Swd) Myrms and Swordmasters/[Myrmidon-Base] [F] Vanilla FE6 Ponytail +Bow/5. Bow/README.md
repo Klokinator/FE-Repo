@@ -5,7 +5,7 @@
 Base animation by IS.
 
 Bow by N426.
-	
+
 ## Bow
 
 | Still | Animation |

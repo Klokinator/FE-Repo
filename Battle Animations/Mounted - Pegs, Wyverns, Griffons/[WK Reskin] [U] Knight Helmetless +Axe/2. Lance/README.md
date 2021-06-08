@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by St Jack.
-	
+
 ## Lance
 
 | Still | Animation |

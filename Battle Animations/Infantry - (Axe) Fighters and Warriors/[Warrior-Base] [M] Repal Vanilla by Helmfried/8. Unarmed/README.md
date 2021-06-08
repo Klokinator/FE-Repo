@@ -5,7 +5,7 @@
 Original Warrior by IS.
 
 Repalette by helmfried.
-	
+
 ## Unarmed
 
 | Still | Animation |

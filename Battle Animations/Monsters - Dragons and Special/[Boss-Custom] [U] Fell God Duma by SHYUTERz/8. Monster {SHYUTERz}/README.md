@@ -3,7 +3,7 @@
 ## Credit
 
 SHYUTERz, HIRITO, SHIRMER
-	
+
 ## Monster
 
 | Still | Animation |

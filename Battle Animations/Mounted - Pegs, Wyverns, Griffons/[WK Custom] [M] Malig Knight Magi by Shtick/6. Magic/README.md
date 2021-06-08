@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Shtick.
-	
+
 ## Magic
 
 | Still | Animation |

@@ -11,7 +11,7 @@ Unarmed by Russell Clark, A Random Player, Kobazco.
 Updated Sword by Maiser6, Russell Clark.
 
 Updated Unarmed animation by Maiser6, Russell Clark.
-	
+
 ## Unarmed
 
 | Still | Animation |

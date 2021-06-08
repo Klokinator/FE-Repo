@@ -7,7 +7,7 @@ Base ballista by IS.
 Catapult variant by Spud, Ren_Ookami.
 
 Repalette and helmeted by Pushwall.
-	
+
 ## Bow
 
 | Still | Animation |

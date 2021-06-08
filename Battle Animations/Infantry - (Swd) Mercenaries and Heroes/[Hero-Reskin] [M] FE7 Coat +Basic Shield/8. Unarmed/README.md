@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by {Swain}
-	
+
 ## Unarmed
 
 | Still | Animation |

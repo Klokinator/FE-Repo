@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Waleed.
-	
+
 ## Sword
 
 | Still | Animation |

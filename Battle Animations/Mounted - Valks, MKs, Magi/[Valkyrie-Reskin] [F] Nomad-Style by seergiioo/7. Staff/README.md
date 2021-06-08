@@ -3,7 +3,7 @@
 ## Credit
 
 Made by seergiioo.
-	
+
 ## Staff
 
 | Still | Animation |

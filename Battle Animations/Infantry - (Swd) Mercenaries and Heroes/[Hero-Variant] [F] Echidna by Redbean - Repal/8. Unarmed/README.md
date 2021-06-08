@@ -3,7 +3,7 @@
 ## Credit
 
 {WarPath, Red Bean}
-	
+
 ## Unarmed
 
 | Still | Animation |

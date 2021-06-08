@@ -5,7 +5,7 @@
 Full Custom Sorcerer by Huichelaar. 
 
 Additional contributions by JonoTheRed.
-	
+
 ## Staff
 
 | Still | Animation |

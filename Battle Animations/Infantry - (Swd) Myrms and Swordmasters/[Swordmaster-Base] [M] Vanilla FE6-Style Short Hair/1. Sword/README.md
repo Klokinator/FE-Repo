@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Shtick.
-	
+
 ## Sword
 
 | Still | Animation |

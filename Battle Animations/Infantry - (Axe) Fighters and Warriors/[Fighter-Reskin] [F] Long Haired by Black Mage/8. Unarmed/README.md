@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Black Mage.
-	
+
 ## Unarmed
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by RedBean. 
 
 Scripted by Zelix.
-	
+
 ## Unarmed
 
 | Still | Animation |

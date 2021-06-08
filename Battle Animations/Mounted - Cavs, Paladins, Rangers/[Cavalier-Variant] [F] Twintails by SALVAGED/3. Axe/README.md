@@ -18,7 +18,7 @@ Unarmed animation by Maiser6
 
 Palettes by Team SALVAGED
 
-	
+
 ## Axe
 
 | Still | Animation |

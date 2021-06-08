@@ -3,7 +3,7 @@
 ## Credit
 
 Made by SurfingKyogre.
-	
+
 ## Monster
 
 | Still | Animation |

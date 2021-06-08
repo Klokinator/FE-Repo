@@ -7,7 +7,7 @@ Base Halberdier made by TheBlindArcher.
 Further alterations by Temp, Black Mage, Wan.
 
 Amelia variant by Spud.
-	
+
 ## Lance
 
 | Still | Animation |

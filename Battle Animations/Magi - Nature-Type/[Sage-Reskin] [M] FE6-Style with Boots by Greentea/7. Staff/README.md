@@ -5,7 +5,7 @@
 Erk Base animation by Greentea.
 
 Generic FE6 Variant by tristan_hollow. 
-	
+
 ## Staff
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Made by RedBean. 
 
 Scripted by Zelix.
-	
+
 ## Sword
 
 | Still | Animation |

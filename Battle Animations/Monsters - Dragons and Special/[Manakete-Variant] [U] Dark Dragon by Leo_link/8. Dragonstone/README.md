@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Leo_link.
-	
+
 ## Dragonstone
 
 | Still | Animation |

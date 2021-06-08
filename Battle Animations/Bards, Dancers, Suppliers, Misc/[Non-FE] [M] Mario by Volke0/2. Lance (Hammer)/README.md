@@ -3,7 +3,7 @@
 ## Credit
 
 Ripped from Superstar Saga by Volke0.
-	
+
 ## Lance
 
 | Still | Animation |

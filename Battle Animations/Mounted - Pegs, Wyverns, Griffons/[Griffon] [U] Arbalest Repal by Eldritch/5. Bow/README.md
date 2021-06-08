@@ -3,7 +3,7 @@
 ## Credit
 
 EldritchAbomination, Raspberry, Ary
-	
+
 ## Bow
 
 | Still | Animation |

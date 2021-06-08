@@ -5,7 +5,7 @@
 Sprited by Spud.
 
 Scripted/Animated by HyperGammaSpaces.
-	
+
 ## Unarmed
 
 | Still | Animation |

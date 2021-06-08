@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Teraspark. Also includes a ranged animation for magic attacks.
-	
+
 ## Monster
 
 | Still | Animation |

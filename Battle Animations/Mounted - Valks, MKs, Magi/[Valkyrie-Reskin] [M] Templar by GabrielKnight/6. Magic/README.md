@@ -3,7 +3,7 @@
 ## Credit
 
 Made by GabrielKnight.
-	
+
 ## Magic
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Dozlazerker base made by Aruka and Kenpuhu.
 
 Unarmed animation made by Blood.
-	
+
 ## Handaxe
 
 | Still | Animation |

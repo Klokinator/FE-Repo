@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Marlon0024, Asael}
-	
+
 ## Magic
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {Lisandra_Brave, Inkling, Genocike}
-	
+
 ## Unarmed
 
 | Still | Animation |

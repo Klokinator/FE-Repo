@@ -5,7 +5,7 @@
 Vanilla unarmed by IS.
 
 Magic by Spud, noonog.
-	
+
 ## Unarmed
 
 | Still | Animation |

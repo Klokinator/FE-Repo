@@ -3,7 +3,7 @@
 ## Credit
 
 {MK404}
-	
+
 ## Unarmed
 
 | Still | Animation |

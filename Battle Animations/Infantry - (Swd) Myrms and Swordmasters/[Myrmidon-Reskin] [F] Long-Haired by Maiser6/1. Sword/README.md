@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Maiser6.
-	
+
 ## Sword
 
 | Still | Animation |

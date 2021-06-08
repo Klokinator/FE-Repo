@@ -3,7 +3,7 @@
 ## Credit
 
 Made by St jack.
-	
+
 ## Bow
 
 | Still | Animation |

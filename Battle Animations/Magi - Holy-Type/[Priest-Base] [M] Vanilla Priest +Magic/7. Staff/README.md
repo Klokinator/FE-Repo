@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Staff Magic by Shtick.
 
 Magic animation by Jeorge_Reds.
-	
+
 ## Staff
 
 | Still | Animation |

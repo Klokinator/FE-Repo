@@ -5,7 +5,7 @@
 Harrier by Ayr.
 
 Tethys variant by Marlon0024.
-	
+
 ## Sword
 
 | Still | Animation |

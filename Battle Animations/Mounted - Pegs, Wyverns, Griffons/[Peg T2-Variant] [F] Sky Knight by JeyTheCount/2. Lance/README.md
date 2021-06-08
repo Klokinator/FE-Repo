@@ -3,7 +3,7 @@
 ## Credit
 
 Variant by JeyTheCount.
-	
+
 ## Lance
 
 | Still | Animation |

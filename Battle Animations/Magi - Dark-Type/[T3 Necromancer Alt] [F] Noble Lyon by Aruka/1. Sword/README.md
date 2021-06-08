@@ -7,7 +7,7 @@ Sword by Aruka, Kenpuhu.
 Staff by N426.
 
 Female Variant also by N426(???)
-	
+
 ## Sword
 
 | Still | Animation |

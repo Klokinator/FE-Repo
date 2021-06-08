@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Bonestorm.
-	
+
 ## Lance
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 {TBA, St jack, Flasuban, Sax-Marine}
 
 Staff (Visible) by Flasuban.
-	
+
 ## Magic
 
 | Still | Animation |

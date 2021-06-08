@@ -7,7 +7,7 @@ Original animation by shadowofchaos. (???)
 Sword by TheBlindArcher. (???)
 
 Magic by Sme, Shtick.
-	
+
 ## Magic
 
 | Still | Animation |

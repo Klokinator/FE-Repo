@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Black Mage.
-	
+
 ## Axe
 
 | Still | Animation |

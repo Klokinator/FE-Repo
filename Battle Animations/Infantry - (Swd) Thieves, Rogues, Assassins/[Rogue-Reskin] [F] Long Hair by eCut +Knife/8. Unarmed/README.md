@@ -5,7 +5,7 @@
 Animation by eCut, Skitty. 
 
 Knife by Mikey Séregon.
-	
+
 ## Unarmed
 
 | Still | Animation |

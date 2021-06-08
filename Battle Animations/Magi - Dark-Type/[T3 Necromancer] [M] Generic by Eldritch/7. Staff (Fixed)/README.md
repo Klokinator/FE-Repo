@@ -5,7 +5,7 @@
 Generic Necromancer by Eldritch Abomination. 
 
 Fixed magic/staff by Shin19.
-	
+
 ## Staff
 
 | Still | Animation |

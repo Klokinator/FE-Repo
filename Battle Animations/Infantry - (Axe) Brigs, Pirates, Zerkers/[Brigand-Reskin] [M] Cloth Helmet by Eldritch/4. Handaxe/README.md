@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Eldritch Abomination.
-	
+
 ## Handaxe
 
 | Still | Animation |

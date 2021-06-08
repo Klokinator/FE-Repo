@@ -1,8 +1,4 @@
 # [\[Assassin-Reskin\] \[M\] Jaffar +Shirt by Glenwing](./)
- 
-
-<img src="./1.%20Sword/Sword_000.png" alt="[Assassin-Reskin] [M] Jaffar +Shirt by Glenwing standing" />
-
 ## Credits
 
 Made by Glenwing. 
@@ -10,8 +6,5 @@ Made by Glenwing.
 Bow by SD9k.
 
 ## Weapons
- 
 
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

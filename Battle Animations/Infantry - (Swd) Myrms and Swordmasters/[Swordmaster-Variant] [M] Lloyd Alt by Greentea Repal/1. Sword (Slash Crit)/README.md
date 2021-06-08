@@ -3,7 +3,7 @@
 ## Credit
 
 Greentea, DerTheVaporeon, ltranc.
-	
+
 ## Sword
 
 | Still | Animation |

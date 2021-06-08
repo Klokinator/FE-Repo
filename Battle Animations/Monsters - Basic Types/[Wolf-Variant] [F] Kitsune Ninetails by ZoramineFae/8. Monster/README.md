@@ -5,7 +5,7 @@
 Made by ZoramineFae.
 
 Female variant by Clendo.
-	
+
 ## Monster
 
 | Still | Animation |

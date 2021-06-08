@@ -5,7 +5,7 @@
 Made by Luerock.
 
 Scripted by Pikmin1211.
-	
+
 ## Magic
 
 | Still | Animation |

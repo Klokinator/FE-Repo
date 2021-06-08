@@ -5,7 +5,7 @@
 Cavalier custom by SALVAGED.
 
 This is an upgraded version of the original SALVAGED cavalier. There is currently no female equivalent for it.
-	
+
 ## Axe
 
 | Still | Animation |

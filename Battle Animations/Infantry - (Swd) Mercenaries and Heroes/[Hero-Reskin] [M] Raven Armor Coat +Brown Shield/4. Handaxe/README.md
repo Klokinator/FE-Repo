@@ -3,7 +3,7 @@
 ## Credit
 
 IS, Pikmin1211, Pushwall
-	
+
 ## Handaxe
 
 | Still | Animation |

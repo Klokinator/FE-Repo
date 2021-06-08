@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Serragirl, scripted by Maiser6.
-	
+
 ## Sword
 
 | Still | Animation |

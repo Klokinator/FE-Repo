@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Blaze for use in GFE1R.
-	
+
 ## Unarmed
 
 | Still | Animation |

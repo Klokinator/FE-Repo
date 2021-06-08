@@ -3,7 +3,7 @@
 ## Credit
 
 Lyn+Rebecca variant made by Jeorge_Reds.
-	
+
 ## Unarmed
 
 | Still | Animation |

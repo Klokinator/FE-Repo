@@ -3,7 +3,7 @@
 ## Credit
 
 
-	
+
 ## Sword
 
 | Still | Animation |

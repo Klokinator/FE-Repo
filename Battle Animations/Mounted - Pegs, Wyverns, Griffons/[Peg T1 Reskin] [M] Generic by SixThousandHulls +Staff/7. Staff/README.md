@@ -5,7 +5,7 @@
 Animation by SixThousandHulls.
 
 Staff by MakeFEGayer.
-	
+
 ## Staff
 
 | Still | Animation |

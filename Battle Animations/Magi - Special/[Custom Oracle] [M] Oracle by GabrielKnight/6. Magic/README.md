@@ -5,7 +5,7 @@
 Made by GabrielKnight. 
 
 Male variant by Flasuban, Jj09.
-	
+
 ## Magic
 
 | Still | Animation |

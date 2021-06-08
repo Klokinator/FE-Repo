@@ -3,7 +3,7 @@
 ## Credit
 
 Dragonstone by L95.
-	
+
 ## Dragonstone
 
 | Still | Animation |

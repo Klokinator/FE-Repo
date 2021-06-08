@@ -5,7 +5,7 @@
 Repalette by Feaw.
 
 Axe and Handaxe by TheBlindArcher.
-	
+
 ## Handaxe
 
 | Still | Animation |

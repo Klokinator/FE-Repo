@@ -7,7 +7,7 @@ Vanilla animation by IS.
 Magic by Shin19 and SHYUTERz.
 
 Staff by Jeorge_Reds.
-	
+
 ## Magic
 
 | Still | Animation |

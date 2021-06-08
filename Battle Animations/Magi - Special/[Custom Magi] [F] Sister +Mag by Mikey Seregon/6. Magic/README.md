@@ -5,7 +5,7 @@
 Staff by Mikey Seregon. 
 
 Magic by Aviv.
-	
+
 ## Magic
 
 | Still | Animation |

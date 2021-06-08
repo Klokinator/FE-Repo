@@ -3,7 +3,7 @@
 ## Credit
 
 Repalette by Teraspark.
-	
+
 ## Unarmed
 
 | Still | Animation |

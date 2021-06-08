@@ -3,7 +3,7 @@
 ## Credit
 
 {Nuramon}
-	
+
 ## Unarmed
 
 | Still | Animation |

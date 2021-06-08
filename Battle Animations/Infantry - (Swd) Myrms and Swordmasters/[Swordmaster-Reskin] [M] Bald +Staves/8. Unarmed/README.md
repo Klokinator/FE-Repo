@@ -11,7 +11,7 @@ Unarmed by L95
 Map Sprites by Pikmin1211, L95
 
 Class Card by Pikmin1211
-	
+
 ## Unarmed
 
 | Still | Animation |

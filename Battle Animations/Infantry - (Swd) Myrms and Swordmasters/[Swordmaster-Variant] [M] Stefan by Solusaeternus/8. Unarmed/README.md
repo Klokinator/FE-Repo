@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Solusaeternus, SHYUTERz}
-	
+
 ## Unarmed
 
 | Still | Animation |

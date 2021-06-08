@@ -3,7 +3,7 @@
 ## Credit
 
 {IS, Vilkalizer}
-	
+
 ## Axe
 
 | Still | Animation |

@@ -5,7 +5,7 @@
 Original animation by IS.
 
 Repalette by Kermy, Jeorge_Reds.
-	
+
 ## Unarmed
 
 | Still | Animation |

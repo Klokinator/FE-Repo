@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Jubby, fuzz94.
-	
+
 ## Unarmed
 
 | Still | Animation |

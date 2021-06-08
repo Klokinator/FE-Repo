@@ -3,7 +3,7 @@
 ## Credit
 
 Marlon0024, Asael, Jj09, Huichelaar
-	
+
 ## Magic
 
 | Still | Animation |

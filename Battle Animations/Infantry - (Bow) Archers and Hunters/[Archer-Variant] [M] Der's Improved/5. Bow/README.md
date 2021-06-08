@@ -5,7 +5,7 @@
 Original animation by IS.
 
 Archer Variant by Flasuban and DerTheVaporeon.
-	
+
 ## Bow
 
 | Still | Animation |

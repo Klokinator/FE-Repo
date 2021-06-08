@@ -15,7 +15,7 @@ Handaxe (Slim) {Vilkalizer, Orihara_Saki}
 Note that MrNight's basic Axe seems to have an issue with random pixels during the crit. Vilk's is probably better.
 
 Their handaxes have their own merits.
-	
+
 ## Axe
 
 | Still | Animation |

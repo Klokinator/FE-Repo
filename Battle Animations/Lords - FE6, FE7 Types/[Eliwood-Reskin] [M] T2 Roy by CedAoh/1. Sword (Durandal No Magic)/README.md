@@ -3,7 +3,7 @@
 ## Credit
 
 {CedAodh, Jeorge_Reds, Brunhilda, SurfingKyogre, Marlon0024}
-	
+
 ## Sword
 
 | Still | Animation |

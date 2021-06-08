@@ -5,7 +5,7 @@
 Animation by Aruka, Kenpuhu.
 
 Fixed Magic by SD9k.
-	
+
 ## Staff
 
 | Still | Animation |

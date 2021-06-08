@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Xenith.
-	
+
 ## Sword
 
 | Still | Animation |

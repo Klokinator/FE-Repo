@@ -5,7 +5,7 @@
 Original animation by Nuramon.
 
 Repalette by Sax-Marine.
-	
+
 ## Handaxe
 
 | Still | Animation |

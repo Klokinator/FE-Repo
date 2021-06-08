@@ -3,7 +3,7 @@
 ## Credit
 
 Spud, Leolink, Iscaneous, Nuramon
-	
+
 ## Lance
 
 | Still | Animation |

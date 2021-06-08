@@ -1,8 +1,4 @@
 # [\[Mage-Custom1\] \[F\] Gaiden-Style by Gamma](./)
- 
-
-<img src="./6.%20Magic/Magic_000.png" alt="[Mage-Custom1] [F] Gaiden-Style by Gamma standing" />
-
 ## Credits
 
 HyperGammaSpaces
@@ -14,8 +10,5 @@ Obsidian_Daddy
 Devisian_Nights
 
 ## Weapons
- 
 
-|Magic |
-|  :---: |
-| <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> |

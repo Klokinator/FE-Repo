@@ -3,7 +3,7 @@
 ## Credit
 
 Made by SurfingKyogre.
-	
+
 ## Lance
 
 | Still | Animation |

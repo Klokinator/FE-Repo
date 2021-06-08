@@ -1,8 +1,4 @@
 # [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](./)
- 
-
-<img src="./1.%20Sword/Sword_000.png" alt="[Myrmidon-Base] [F] Vanilla FE6 Ponytail +Bow standing" />
-
 ## Credits
 
 Base animation by IS.
@@ -10,8 +6,5 @@ Base animation by IS.
 Bow by N426.
 
 ## Weapons
- 
 
-|Sword |Bow |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Bow animation" src="./5.%20Bow/Bow.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

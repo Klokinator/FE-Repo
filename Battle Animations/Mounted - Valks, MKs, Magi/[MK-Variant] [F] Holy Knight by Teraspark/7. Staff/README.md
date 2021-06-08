@@ -3,7 +3,7 @@
 ## Credit
 
 Made by Teraspark, Jey the Count.
-	
+
 ## Staff
 
 | Still | Animation |

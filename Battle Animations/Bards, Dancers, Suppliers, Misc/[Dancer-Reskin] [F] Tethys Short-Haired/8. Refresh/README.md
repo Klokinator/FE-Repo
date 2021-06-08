@@ -3,7 +3,7 @@
 ## Credit
 
 Animation by Its_Just_Jay.
-	
+
 ## Refresh
 
 | Still | Animation |

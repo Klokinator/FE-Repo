@@ -1,8 +1,4 @@
 # [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](./)
- 
-
-<img src="./1.%20Sword/Sword_000.png" alt="[T3 Custom] [U] Executioner (Assassin+Druid) standing" />
-
 ## Credits
 
 Credit: Huichelaar, Konami
@@ -20,8 +16,5 @@ Re-used graphics:
 Everything else was made by me, Huichelaar.
 
 ## Weapons
- 
 
-|Sword |Magic |Unarmed |
-|  :---: | :---: | :---: |
-| <img alt="Sword animation" src="./1.%20Sword/Sword.gif" /> | <img alt="Magic animation" src="./6.%20Magic/Magic.gif" /> | <img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif" /> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |

@@ -9,7 +9,7 @@ Binding Blade by Marlon0024.
 Bow by Spud.
 
 
-	
+
 ## Unarmed
 
 | Still | Animation |

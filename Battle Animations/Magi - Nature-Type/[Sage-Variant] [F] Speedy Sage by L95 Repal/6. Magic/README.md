@@ -5,7 +5,7 @@
 Made by Shtick, L95.
 
 Repalette by Rexacuse.
-	
+
 ## Magic
 
 | Still | Animation |

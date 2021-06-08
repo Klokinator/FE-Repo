@@ -3,7 +3,7 @@
 ## Credit
 
 Made by the developers of FE7if.
-	
+
 ## Monster
 
 | Still | Animation |

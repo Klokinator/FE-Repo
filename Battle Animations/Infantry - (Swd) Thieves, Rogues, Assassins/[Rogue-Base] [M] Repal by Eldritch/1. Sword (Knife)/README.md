@@ -5,7 +5,7 @@
 Repalette by Eldritch Abomination.
 
 Knife by Mikey Séregon.
-	
+
 ## Sword
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {Waleed, Flasuban}
-	
+
 ## Axe
 
 | Still | Animation |

@@ -3,7 +3,7 @@
 ## Credit
 
 {seergiioo}
-	
+
 ## Unarmed
 
 | Still | Animation |

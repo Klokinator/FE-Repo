@@ -7,7 +7,7 @@ Soldier base still image by Flasuban and Nuramon.
 Primary animation effort done by Flasuban.
 
 Critical animation by Leo_Link.
-	
+
 ## Unarmed
 
 | Still | Animation |

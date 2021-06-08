@@ -3,7 +3,7 @@
 ## Credit
 
 Made by {Flasuban, Nuramon}
-	
+
 ## Sword
 
 | Still | Animation |

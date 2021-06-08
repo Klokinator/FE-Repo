@@ -5,7 +5,7 @@
 Animation by IS.
 
 Lance by Pushwall.
-	
+
 ## Sword
 
 | Still | Animation |

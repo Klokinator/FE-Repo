@@ -3,7 +3,7 @@
 ## Credit
 
 Pikmin1211, Jj09, 7743, Jey the Count
-	
+
 ## Handaxe
 
 | Still | Animation |

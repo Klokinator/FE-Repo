@@ -5,7 +5,7 @@
 Base for Gladiator by Waleed.
 
 Repalette by Pushwall.
-	
+
 ## Unarmed
 
 | Still | Animation |

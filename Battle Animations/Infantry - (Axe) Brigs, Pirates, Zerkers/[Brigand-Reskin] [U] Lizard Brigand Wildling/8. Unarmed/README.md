@@ -3,7 +3,7 @@
 ## Credit
 
 {Lenh}
-	
+
 ## Unarmed
 
 | Still | Animation |

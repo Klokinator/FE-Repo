@@ -13,7 +13,7 @@ Unarmed animation by Maiser6
 Map Sprites by Pikmin1211 (Original Uncredited)
 
 Class Card by Pikmin1211 (Original Uncredited)
-	
+
 ## Unarmed
 
 | Still | Animation |

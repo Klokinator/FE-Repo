@@ -10,7 +10,7 @@
 
 ## [\[Griffon\] \[U\] Arbalest v1 by Ayr](./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/2.%20Lance%20%7BRaspberry%7D/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/8.%20Unarmed%20%7BRaspberry%7D/Unarmed.gif"/> |
+| <b>Lance {Raspberry}</b><br/><img alt="Lance animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/2.%20Lance%20%7BRaspberry%7D/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/5.%20Bow/Bow.gif"/> | <b>Unarmed {Raspberry}</b><br/><img alt="Unarmed animation" src="./%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/8.%20Unarmed%20%7BRaspberry%7D/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -18,7 +18,7 @@
 
 ## [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/1.%20Sword%20(Possibly%20borked)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/4.%20Handaxe/Handaxe.gif"/> |
+| <b>Sword (Possibly borked)</b><br/><img alt="Sword animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/1.%20Sword%20(Possibly%20borked)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -247,7 +247,7 @@
 
 ## [\[WK Custom\] \[M\] Malig Knight v1 +Lance](./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20%2BLance)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/2.%20Lance%20%7BJey%20the%20Count%7D/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/4.%20Handaxe/Handaxe.gif"/> |
+| <b>Lance {Jey the Count}</b><br/><img alt="Lance animation" src="./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/2.%20Lance%20%7BJey%20the%20Count%7D/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Magic</b><br/><img alt="Magic animation" src="./%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20+Lance/6.%20Magic/Magic.gif"/> |
 
@@ -292,7 +292,7 @@
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow%20(Fixed%20Palette)/Bow.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Bow (Fixed Palette)</b><br/><img alt="Bow animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow%20(Fixed%20Palette)/Bow.gif"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
@@ -368,9 +368,9 @@
 
 ## [\[WL Reskin\] \[U\] Dragoon Rider by Nuramon](./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/1.%20Sword%20(No%20Bounce)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/2.%20Lance/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword (No Bounce)</b><br/><img alt="Sword animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/1.%20Sword%20(No%20Bounce)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/2.%20Lance%20(No%20Bounce)/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/3.%20Axe%20(No%20Bounce)/Axe.gif"/> |
+| <b>Lance (No Bounce)</b><br/><img alt="Lance animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/2.%20Lance%20(No%20Bounce)/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Axe (No Bounce)</b><br/><img alt="Axe animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/3.%20Axe%20(No%20Bounce)/Axe.gif"/> |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/6.%20Unarmed/Unarmed.gif"/> |
 
 
@@ -380,7 +380,7 @@
 
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow%20(Palette%20Fix)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Bow (Palette Fix)</b><br/><img alt="Bow animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow%20(Palette%20Fix)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

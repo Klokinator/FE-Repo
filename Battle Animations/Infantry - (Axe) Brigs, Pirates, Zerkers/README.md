@@ -63,7 +63,7 @@
 
 ## [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons](./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe%20(Magic)/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif"/> | <b>Axe (Magic)</b><br/><img alt="Axe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe%20(Magic)/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Hawkeye%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -104,7 +104,7 @@
 
 ## [\[Berserker-Reskin\] \[M\] Dart by Greentea](./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/3.%20Axe%20(Smoothed%20Axe)/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Axe (Smoothed Axe)</b><br/><img alt="Axe animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/3.%20Axe%20(Smoothed%20Axe)/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -161,7 +161,7 @@
 
 ## [\[Berserker-Variant\] \[M\] Yetizerker Smoothed-Axe](./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe)
 
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Red%20Variant)/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Yetizerker%20Smoothed)/Axe.gif"/> |
+| <b>Axe (Red Variant)</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Red%20Variant)/Axe.gif"/> | <b>Axe (Yetizerker Smoothed)</b><br/><img alt="Axe animation" src="./%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe/3.%20Axe%20(Yetizerker%20Smoothed)/Axe.gif"/> |
 | :---: | :---: |
 
 
@@ -177,9 +177,9 @@
 
 ## [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20%2BMagic%20Anims)
 
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/6.%20Magic%20(No%20Axe)%20(Blue%20Druid)/Magic.gif"/> |
+| <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/4.%20Handaxe/Handaxe.gif"/> | <b>Magic (No Axe) (Blue Druid)</b><br/><img alt="Magic animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/6.%20Magic%20(No%20Axe)%20(Blue%20Druid)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/6.%20Magic%20(Using%20Axe)%20(Blue%20Druid)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Magic (Using Axe) (Blue Druid)</b><br/><img alt="Magic animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/6.%20Magic%20(Using%20Axe)%20(Blue%20Druid)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Base%5D%20%5BM%5D%20Vanilla%20+Magic%20Anims/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -242,7 +242,7 @@
 
 ## [\[Brigand-Style\] \[M\] Mounted Marauder by Spud](./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud)
 
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe%20with%20Scream%20Critical/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/4.%20Handaxe/Handaxe.gif"/> |
+| <b>Axe</b><br/><img alt="Axe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe/Axe.gif"/> | <b>Axe with Scream Critical</b><br/><img alt="Axe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/3.%20Axe%20with%20Scream%20Critical/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BBrigand-Style%5D%20%5BM%5D%20Mounted%20Marauder%20by%20Spud/8.%20Unarmed/Unarmed.gif"/> |
 

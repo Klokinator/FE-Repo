@@ -26,7 +26,7 @@
 
 ## [\[Custom Magi\] \[F\] Nino Pale Flower Flier by RedBean](./%5BCustom%20Magi%5D%20%5BF%5D%20Nino%20Pale%20Flower%20Flier%20by%20RedBean/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Magi%5D%20%5BF%5D%20Nino%20Pale%20Flower%20Flier%20by%20RedBean)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BCustom%20Magi%5D%20%5BF%5D%20Nino%20Pale%20Flower%20Flier%20by%20RedBean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BCustom%20Magi%5D%20%5BF%5D%20Nino%20Pale%20Flower%20Flier%20by%20RedBean/7.%20Staff%20(yikes)/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BCustom%20Magi%5D%20%5BF%5D%20Nino%20Pale%20Flower%20Flier%20by%20RedBean/6.%20Magic/Magic.gif"/> | <b>Staff (yikes)</b><br/><img alt="Staff animation" src="./%5BCustom%20Magi%5D%20%5BF%5D%20Nino%20Pale%20Flower%20Flier%20by%20RedBean/7.%20Staff%20(yikes)/Staff.gif"/> |
 | :---: | :---: |
 
 
@@ -138,7 +138,7 @@
 
 ## [\[Devisian-Custom\] \[M\] Winter Priest by Devisian_Nights](./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff%20(Constant%20timing)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Staff</b><br/><img alt="Staff animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff/Staff.gif"/> | <b>Staff (Constant timing)</b><br/><img alt="Staff animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/7.%20Staff%20(Constant%20timing)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -188,7 +188,7 @@
 
 ## [\[T3 Custom\] \[M\] Red Mage by Mycahel](./%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel/1.%20Sword%20(Removed%20Text)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel/6.%20Magic%20(Fixed%20Miss)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel/7.%20Staff/Staff.gif"/> |
+| <b>Sword (Removed Text)</b><br/><img alt="Sword animation" src="./%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel/1.%20Sword%20(Removed%20Text)/Sword.gif"/> | <b>Magic (Fixed Miss)</b><br/><img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel/6.%20Magic%20(Fixed%20Miss)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -196,7 +196,7 @@
 
 ## [\[T3 Custom\] \[U\] Brammimond by Dinar87](./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic%20(Too%20Much%20OAM)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic/Magic.gif"/> | <b>Magic (Too Much OAM)</b><br/><img alt="Magic animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/6.%20Magic%20(Too%20Much%20OAM)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Custom%5D%20%5BU%5D%20Brammimond%20by%20Dinar87/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 

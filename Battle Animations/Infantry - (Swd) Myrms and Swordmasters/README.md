@@ -186,7 +186,7 @@
 
 ## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Lloyd +Alt Pal](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20%2BAlt%20Pal)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword/Sword.gif"/> | <b>Sword (Alt)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -274,7 +274,7 @@
 
 ## [\[Swordmaster-Variant\] \[F\] FE7if and BwdYeti](./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%201)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%202)/Sword.gif"/> |
+| <b>Sword (Astra Crit 1)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%201)/Sword.gif"/> | <b>Sword (Astra Crit 2)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%202)/Sword.gif"/> |
 | :---: | :---: |
 
 
@@ -290,7 +290,7 @@
 
 ## [\[Swordmaster-Variant\] \[F\] Marisa by Aruka](./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Sword (Alt)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -306,7 +306,7 @@
 
 ## [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword%20(Alt%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword%20(Alt%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -322,18 +322,18 @@
 
 ## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%201)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%202)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20Shaky%201/Sword.gif"/> |
+| <b>Sword (Backslash 1)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%201)/Sword.gif"/> | <b>Sword (Backslash 2)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%202)/Sword.gif"/> | <b>Sword Shaky 1</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20Shaky%201/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20Shaky%202/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword Shaky 2</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20Shaky%202/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
 ## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea Repal](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Shaky%20Critical)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Crit)/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword/Sword.gif"/> | <b>Sword (Shaky Critical)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Shaky%20Critical)/Sword.gif"/> | <b>Sword (Slash Crit)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Crit)/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Shaky%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword (Slash Shaky Crit)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Shaky%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

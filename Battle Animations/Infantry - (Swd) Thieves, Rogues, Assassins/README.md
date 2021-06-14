@@ -2,17 +2,17 @@
 
 ## [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Fixed%20Animation)/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Alt)</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Sword (Fixed Animation)</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Fixed%20Animation)/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Jojaffar)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Knife%20Alt)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Knife)/Sword.gif"/> |
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/8.%20Unarmed%20(Fixed%20Animation)/Unarmed.gif"/> |
+| <b>Sword (Jojaffar)</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Jojaffar)/Sword.gif"/> | <b>Sword (Knife Alt)</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Knife%20Alt)/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/1.%20Sword%20(Knife)/Sword.gif"/> |
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Fixed Animation)</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20+Weapons/8.%20Unarmed%20(Fixed%20Animation)/Unarmed.gif"/> |
 
 
 
 
 ## [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](./%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20%2BBow)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20%7BAndy,%20SD9K%7D/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/1.%20Sword/Sword.gif"/> | <b>Bow {Andy, SD9K}</b><br/><img alt="Bow animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20%7BAndy,%20SD9K%7D/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -44,7 +44,7 @@
 
 ## [\[Assassin-Reskin\] \[F\] Leila by SHYUTERz \(Long-Hair\)](./%5BAssassin-Reskin%5D%20%5BF%5D%20Leila%20by%20SHYUTERz%20(Long-Hair)/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BAssassin-Reskin%5D%20%5BF%5D%20Leila%20by%20SHYUTERz%20(Long-Hair))
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Reskin%5D%20%5BF%5D%20Leila%20by%20SHYUTERz%20(Long-Hair)/1.%20Sword%20(Long%20Hair)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Reskin%5D%20%5BF%5D%20Leila%20by%20SHYUTERz%20(Long-Hair)/8.%20Unarmed%20(Long%20Hair)/Unarmed.gif"/> |
+| <b>Sword (Long Hair)</b><br/><img alt="Sword animation" src="./%5BAssassin-Reskin%5D%20%5BF%5D%20Leila%20by%20SHYUTERz%20(Long-Hair)/1.%20Sword%20(Long%20Hair)/Sword.gif"/> | <b>Unarmed (Long Hair)</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Reskin%5D%20%5BF%5D%20Leila%20by%20SHYUTERz%20(Long-Hair)/8.%20Unarmed%20(Long%20Hair)/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -68,7 +68,7 @@
 
 ## [\[Assassin-Reskin\] \[M\] Hoodless +Bow](./%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20+Bow/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20%2BBow)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20+Bow/1.%20Sword%20(Fixed)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20+Bow/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword (Fixed)</b><br/><img alt="Sword animation" src="./%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20+Bow/1.%20Sword%20(Fixed)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20+Bow/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BAssassin-Reskin%5D%20%5BM%5D%20Hoodless%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -116,7 +116,7 @@
 
 ## [\[Assassin-Variant\] \[F\] Whisper by Mycahel](./%5BAssassin-Variant%5D%20%5BF%5D%20Whisper%20by%20Mycahel/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BAssassin-Variant%5D%20%5BF%5D%20Whisper%20by%20Mycahel)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BF%5D%20Whisper%20by%20Mycahel/1.%20Sword%20(Knife%20Crit)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BF%5D%20Whisper%20by%20Mycahel/1.%20Sword%20(Magic%20Crit)/Sword.gif"/> |
+| <b>Sword (Knife Crit)</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BF%5D%20Whisper%20by%20Mycahel/1.%20Sword%20(Knife%20Crit)/Sword.gif"/> | <b>Sword (Magic Crit)</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BF%5D%20Whisper%20by%20Mycahel/1.%20Sword%20(Magic%20Crit)/Sword.gif"/> |
 | :---: | :---: |
 
 
@@ -124,7 +124,7 @@
 
 ## [\[Assassin-Variant\] \[M\] Colm by Aruka](./%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/1.%20Sword%20(Fixed)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/5.%20Bow/Bow.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Sword (Fixed)</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/1.%20Sword%20(Fixed)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -132,7 +132,7 @@
 
 ## [\[Assassin-Variant\] \[M\] Whisper Sothe by Mycahel](./%5BAssassin-Variant%5D%20%5BM%5D%20Whisper%20Sothe%20by%20Mycahel/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BAssassin-Variant%5D%20%5BM%5D%20Whisper%20Sothe%20by%20Mycahel)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Whisper%20Sothe%20by%20Mycahel/1.%20Sword%20(Knife%20Crit)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Whisper%20Sothe%20by%20Mycahel/1.%20Sword%20(Magic%20Crit)/Sword.gif"/> |
+| <b>Sword (Knife Crit)</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Whisper%20Sothe%20by%20Mycahel/1.%20Sword%20(Knife%20Crit)/Sword.gif"/> | <b>Sword (Magic Crit)</b><br/><img alt="Sword animation" src="./%5BAssassin-Variant%5D%20%5BM%5D%20Whisper%20Sothe%20by%20Mycahel/1.%20Sword%20(Magic%20Crit)/Sword.gif"/> |
 | :---: | :---: |
 
 
@@ -149,7 +149,7 @@
 
 ## [\[Rogue-Base\] \[M\] Repal by Eldritch](./%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Base%5D%20%5BM%5D%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -166,7 +166,7 @@
 
 ## [\[Rogue-Reskin\] \[F\] FE7if Katt](./%5BRogue-Reskin%5D%20%5BF%5D%20FE7if%20Katt/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRogue-Reskin%5D%20%5BF%5D%20FE7if%20Katt)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20FE7if%20Katt/1.%20Sword%20(Short%20Bo%20Staff)/Sword.gif"/> |
+| <b>Sword (Short Bo Staff)</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20FE7if%20Katt/1.%20Sword%20(Short%20Bo%20Staff)/Sword.gif"/> |
 | :---: |
 
 
@@ -174,7 +174,7 @@
 
 ## [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife](./%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20+Knife/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20%2BKnife)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20+Knife/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20+Knife/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20+Knife/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20+Knife/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -190,7 +190,7 @@
 
 ## [\[Rogue-Reskin\] \[F\] Repal +Staff](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20%2BStaff)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/7.%20Staff/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -199,7 +199,7 @@
 
 ## [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20%2BStaff%20Catgirl)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/7.%20Staff/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BRogue-Reskin%5D%20%5BF%5D%20Repal%20+Staff%20Catgirl/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -249,7 +249,7 @@
 
 ## [\[Sword-Custom\] \[M\] Thug by MonkeyBard](./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/1.%20Sword%20(+Ranged)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/1.%20Sword/Sword.gif"/> | <b>Sword (+Ranged)</b><br/><img alt="Sword animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/1.%20Sword%20(+Ranged)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword-Custom%5D%20%5BM%5D%20Thug%20by%20MonkeyBard/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -321,7 +321,7 @@
 
 ## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20%2BKnife)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> |
+| <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Matthew%20by%20GabrielKnight%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> |
 | :---: |
 
 
@@ -337,7 +337,7 @@
 
 ## [\[Thief-Base\] \[M\] Vanilla FE7 Legault Repal +Knife](./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20+Knife/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20%2BKnife)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20+Knife/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20+Knife/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20+Knife/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20+Knife/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BThief-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Legault%20Repal%20+Knife/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 

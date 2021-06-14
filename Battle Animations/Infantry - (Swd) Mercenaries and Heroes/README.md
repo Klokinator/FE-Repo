@@ -184,7 +184,7 @@
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Handaxe (Spin)</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/4.%20Handaxe%20(Spin)/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Armored%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -207,9 +207,9 @@
 
 ## [\[Hero-Variant\] \[M\] Linus Heavy-Sword by Greentea](./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/1.%20Sword%20(Durandal)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/3.%20Axe/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Sword (Durandal)</b><br/><img alt="Sword animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/1.%20Sword%20(Durandal)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/3.%20Axe%20(Basilikos)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Axe (Basilikos)</b><br/><img alt="Axe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/3.%20Axe%20(Basilikos)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BHero-Variant%5D%20%5BM%5D%20Linus%20Heavy-Sword%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -249,7 +249,7 @@
 
 ## [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword%20(Greatsword)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/3.%20Axe/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Greatsword)</b><br/><img alt="Sword animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/1.%20Sword%20(Greatsword)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 

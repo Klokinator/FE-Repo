@@ -2,7 +2,7 @@
 
 ## [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff](./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20%2BStaff)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Staff/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -18,7 +18,7 @@
 
 ## [\[Mage-Base\] \[F\] Vanilla FE7-8 +Fix by Shin19](./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE7-8%20%2BFix%20by%20Shin19)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BF%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif"/> |
 | :---: | :---: |
 
 
@@ -26,7 +26,7 @@
 
 ## [\[Mage-Base\] \[M\] Vanilla FE6 +Fix by Shin19](./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fix%20by%20Shin19/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20%2BFix%20by%20Shin19)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif"/> |
 | :---: | :---: |
 
 
@@ -34,7 +34,7 @@
 
 ## [\[Mage-Base\] \[M\] Vanilla FE7-8 +Fix by Shin19](./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20%2BFix%20by%20Shin19)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif"/> |
 | :---: | :---: |
 
 
@@ -122,7 +122,7 @@
 
 ## [\[Mage-Reskin\] \[F\] Ponytail by Lisandra_Brave](./%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic%20(Fixed)/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BMage-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Lisandra_Brave/6.%20Magic%20(Fixed)/Magic.gif"/> |
 | :---: | :---: |
 
 
@@ -162,7 +162,7 @@
 
 ## [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20%2BFixes)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> |
 | :---: | :---: | :---: |
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/7.%20Staff/Staff.gif"/> |
 
@@ -171,7 +171,7 @@
 
 ## [\[Sage-Base\] \[F\] Vanilla FE7 Nino +Fixes](./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20+Fixes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20%2BFixes)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20+Fixes/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Nino%20+Fixes/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -179,7 +179,7 @@
 
 ## [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20%2BFixes)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -187,7 +187,7 @@
 
 ## [\[Sage-Base\] \[M\] Vanilla FE6 +Fixes](./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fixes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20%2BFixes)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fixes/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fixes/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -195,7 +195,7 @@
 
 ## [\[Sage-Base\] \[M\] Vanilla FE8](./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Base%5D%20%5BM%5D%20Vanilla%20FE8/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -211,7 +211,7 @@
 
 ## [\[Sage-Custom\] \[F\] Limstella v1 by FE7if](./%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic%20(Dark)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic/Magic.gif"/> | <b>Magic (Dark)</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/6.%20Magic%20(Dark)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -251,9 +251,9 @@
 
 ## [\[Sage-Custom\] \[M\] Gaiden-Style by Spud](./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/6.%20Magic%20(Sans%20Cape%20Flap)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/6.%20Magic/Magic.gif"/> | <b>Magic (Sans Cape Flap)</b><br/><img alt="Magic animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/6.%20Magic%20(Sans%20Cape%20Flap)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/7.%20Staff%20(Sans%20Cape%20Flap)/Staff.gif"/> |
+| <b>Staff (Sans Cape Flap)</b><br/><img alt="Staff animation" src="./%5BSage-Custom%5D%20%5BM%5D%20Gaiden-Style%20by%20Spud/7.%20Staff%20(Sans%20Cape%20Flap)/Staff.gif"/> |
 
 
 
@@ -380,10 +380,10 @@
 
 ## [\[T3 FE7\] \[M\] Archsage Athos +Fixes](./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20%2BFixes)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(Alt%20Particles)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(FE8)/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (Alt Particles)</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(Alt%20Particles)/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(FE8)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(FEx)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff/Staff.gif"/> |
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif"/> |
+| <b>Magic (FEx)</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(FEx)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff/Staff.gif"/> |
+| <b>Staff (Fixed)</b><br/><img alt="Staff animation" src="./%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif"/> |
 
 
 

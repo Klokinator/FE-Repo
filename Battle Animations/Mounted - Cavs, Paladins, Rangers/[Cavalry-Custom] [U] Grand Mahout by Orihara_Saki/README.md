@@ -2,9 +2,9 @@
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow%20(Tusk%20Attack)/Bow.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Bld%20Tusk%20Crit)/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Bld%20Tusk%20Fcs%20Atk)/Monster.gif"/> |
-| <b>Monster</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Bld%20Tusk%20Trunk)/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Trunk%20Swing)/Monster.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed%20(Basic%20Melee%20Attack)/Unarmed.gif"/> | <b>Sound</b><br/><img alt="Sound animation" src="./Sound%20Effects/Sound.gif"/> |
+| <b>Bow (Tusk Attack)</b><br/><img alt="Bow animation" src="./5.%20Bow%20(Tusk%20Attack)/Bow.gif"/> | <b>Monster (Bld Tusk Crit)</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Bld%20Tusk%20Crit)/Monster.gif"/> | <b>Monster (Bld Tusk Fcs Atk)</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Bld%20Tusk%20Fcs%20Atk)/Monster.gif"/> |
+| <b>Monster (Bld Tusk Trunk)</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Bld%20Tusk%20Trunk)/Monster.gif"/> | <b>Monster (Trunk Swing)</b><br/><img alt="Monster animation" src="./8.%20Monster%20(Trunk%20Swing)/Monster.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed (Basic Melee Attack)</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed%20(Basic%20Melee%20Attack)/Unarmed.gif"/> | <b>Sound Effects</b><br/><img alt="Sound animation" src="./Sound%20Effects/Sound.gif"/> |
 
 ## Credits
 

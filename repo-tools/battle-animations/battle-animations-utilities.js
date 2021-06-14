@@ -130,7 +130,7 @@ const makeWeaponsContent = ({anim, currentDir}) => {
 
 const makeWeaponContent = ({weapon, currentDir}) => {
     let content = ""
-    content += `<b>${weapon.type}</b><br/>`
+    content += `<b>${weapon.dir.replace(/^[0-9]+.\s+/, "")}</b><br/>`
     content += `<img alt="${weapon.type} animation" src="${encodeURI(currentDir + (weapon.dir ? weapon.dir + "/" : "") + weapon.active)}"/>`
     return content
 }

@@ -2,7 +2,7 @@
 
 ## [\[Ballista\] \[F\] Long Hair by St Jack](./%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -10,7 +10,7 @@
 
 ## [\[Ballista\] \[F\] Louise Caped by Greentea](./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -18,7 +18,7 @@
 
 ## [\[Ballista\] \[F\] Louise by St Jack](./%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -34,7 +34,7 @@
 
 ## [\[Ballista\] \[F\] Rebecca Catapult](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -42,7 +42,7 @@
 
 ## [\[Ballista\] \[F\] Rebecca Catapult Repal](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -58,7 +58,7 @@
 
 ## [\[Ballista\] \[F\] Rebecca by St Jack](./%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -66,7 +66,7 @@
 
 ## [\[Ballista\] \[F\] Sniper by St Jack](./%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -74,7 +74,7 @@
 
 ## [\[Ballista\] \[M\] FE5 Ballista by Spud](./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/5.%20Bow%20(Catapult)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/5.%20Bow%20(Ballista)/Bow.gif"/> | <b>Bow (Catapult)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/5.%20Bow%20(Catapult)/Bow.gif"/> |
 | :---: | :---: |
 
 
@@ -90,7 +90,7 @@
 
 ## [\[Ballista\] \[M\] Sniper by Seal](./%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -98,7 +98,7 @@
 
 ## [\[Ballista\] \[M\] Vanilla GBA Ballistae](./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE6%20Ballista)/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE7%20Ballista)/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE8%20Ballista)/Bow.gif"/> |
+| <b>Bow (FE6 Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE6%20Ballista)/Bow.gif"/> | <b>Bow (FE7 Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE7%20Ballista)/Bow.gif"/> | <b>Bow (FE8 Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE8%20Ballista)/Bow.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -106,7 +106,7 @@
 
 ## [\[Ballista\] \[M\] Wil by Greentea](./%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -114,7 +114,7 @@
 
 ## [\[Ballista\] \[M\] Wolt Armored by St Jack](./%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -122,7 +122,7 @@
 
 ## [\[Ballista\] \[M\] Wolt Catapult](./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -138,7 +138,7 @@
 
 ## [\[Ballista\] \[M\] Wolt by St Jack](./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/5.%20Bow%20(Ballista)/Bow.gif"/> |
 | :---: |
 
 
@@ -210,18 +210,18 @@
 
 ## [\[Sniper-Reskin\] \[F\] Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
+| <b>Bow (With Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
+| <b>Unarmed (Without Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
 
 
 
 
 ## [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20%2BQuiver%20by%20Nuramon)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
+| <b>Bow (With Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
+| <b>Unarmed (Without Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
 
 
 
@@ -252,9 +252,9 @@
 
 ## [\[Sniper-Reskin\] \[M\] Hat +Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20%2BQuiver%20by%20Nuramon)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
+| <b>Bow (With Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
+| <b>Unarmed (Without Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
 
 
 
@@ -285,9 +285,9 @@
 
 ## [\[Sniper-Reskin\] \[M\] Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
+| <b>Bow (With Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(With%20Recoil)/Bow.gif"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/5.%20Bow%20(Without%20Recoil)/Bow.gif"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(With%20Quiver)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
+| <b>Unarmed (Without Quiver)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/8.%20Unarmed%20(Without%20Quiver)/Unarmed.gif"/> |
 
 
 
@@ -310,9 +310,9 @@
 
 ## [\[Sniper-Variant\] \[F\] Neimi by Aruka](./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow%20(Alt%20Crit)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow</b><br/><img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow/Bow.gif"/> | <b>Bow (Alt Crit)</b><br/><img alt="Bow animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/5.%20Bow%20(Alt%20Crit)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed%20(Alt)/Unarmed.gif"/> |
+| <b>Unarmed (Alt)</b><br/><img alt="Unarmed animation" src="./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/8.%20Unarmed%20(Alt)/Unarmed.gif"/> |
 
 
 

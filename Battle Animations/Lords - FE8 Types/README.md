@@ -10,9 +10,9 @@
 
 ## [\[Eirika-Base\] \[F\] T1 Beta Eirika Fixed by Jono the Red](./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/1.%20Sword%20(Fixed)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/1.%20Sword/Sword.gif"/> | <b>Sword (Fixed)</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/1.%20Sword%20(Fixed)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/8.%20Unarmed%20(Fixed)/Unarmed.gif"/> |
+| <b>Unarmed (Fixed)</b><br/><img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Beta%20Eirika%20Fixed%20by%20Jono%20the%20Red/8.%20Unarmed%20(Fixed)/Unarmed.gif"/> |
 
 
 
@@ -21,7 +21,7 @@
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/6.%20Magic%20Alt/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Magic Alt</b><br/><img alt="Magic animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/6.%20Magic%20Alt/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -36,7 +36,7 @@
 
 ## [\[Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20%2BMagic%2C%20Staff)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/1.%20Sword%20(Backflip)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/6.%20Magic/Magic.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/1.%20Sword/Sword.gif"/> | <b>Sword (Backflip)</b><br/><img alt="Sword animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/1.%20Sword%20(Backflip)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Base%5D%20%5BF%5D%20T1%20Vanilla%20+Magic,%20Staff/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -79,7 +79,7 @@
 
 ## [\[Eirika-Reskin\] \[F\] T2 FE7if Isadora Doubleblade](./%5BEirika-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Isadora%20Doubleblade/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEirika-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Isadora%20Doubleblade)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Isadora%20Doubleblade/1.%20Sword%20(Hauteclere)/Sword.gif"/> |
+| <b>Sword (Hauteclere)</b><br/><img alt="Sword animation" src="./%5BEirika-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Isadora%20Doubleblade/1.%20Sword%20(Hauteclere)/Sword.gif"/> |
 | :---: |
 
 
@@ -87,7 +87,7 @@
 
 ## [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/1.%20Sword%20(T1)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/6.%20Magic%20(T1)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/8.%20Unarmed%20(T1)/Unarmed.gif"/> |
+| <b>Sword (T1)</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/1.%20Sword%20(T1)/Sword.gif"/> | <b>Magic (T1)</b><br/><img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/6.%20Magic%20(T1)/Magic.gif"/> | <b>Unarmed (T1)</b><br/><img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T1%20by%20RedBean/8.%20Unarmed%20(T1)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -95,9 +95,9 @@
 
 ## [\[Eirika-Variant\] \[F\] Priestess Celica T2 by RedBean](./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Basic)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%201)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%202)/Sword.gif"/> |
+| <b>Sword (T2 Basic)</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Basic)/Sword.gif"/> | <b>Sword (T2 Thunder 1)</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%201)/Sword.gif"/> | <b>Sword (T2 Thunder 2)</b><br/><img alt="Sword animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/1.%20Sword%20(T2%20Thunder%202)/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/6.%20Magic%20(T2)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/8.%20Unarmed%20(T2)/Unarmed.gif"/> |
+| <b>Magic (T2)</b><br/><img alt="Magic animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/6.%20Magic%20(T2)/Magic.gif"/> | <b>Unarmed (T2)</b><br/><img alt="Unarmed animation" src="./%5BEirika-Variant%5D%20%5BF%5D%20Priestess%20Celica%20T2%20by%20RedBean/8.%20Unarmed%20(T2)/Unarmed.gif"/> |
 
 
 
@@ -128,7 +128,7 @@
 
 ## [\[Ephraim-Base\] \[M\] T1 Vanilla +Dual-Sided by Andy](./%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Dual-Sided%20by%20Andy/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20%2BDual-Sided%20by%20Andy)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Dual-Sided%20by%20Andy/2.%20Lance/Lance.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Dual-Sided%20by%20Andy/2.%20Lance%20(Dual)/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Dual-Sided%20by%20Andy/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Dual-Sided%20by%20Andy/2.%20Lance/Lance.gif"/> | <b>Lance (Dual)</b><br/><img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Dual-Sided%20by%20Andy/2.%20Lance%20(Dual)/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T1%20Vanilla%20+Dual-Sided%20by%20Andy/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -144,7 +144,7 @@
 
 ## [\[Ephraim-Base\] \[M\] T2 Vanilla +Weapons](./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/1.%20Sword%20(Eirika%20Motion)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Eirika Motion)</b><br/><img alt="Sword animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/1.%20Sword%20(Eirika%20Motion)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> | <b>Palettes</b><br/><img alt="Palettes animation" src="./%5BEphraim-Base%5D%20%5BM%5D%20T2%20Vanilla%20+Weapons/Palettes/Palettes.gif"/> |
@@ -154,7 +154,7 @@
 
 ## [\[Ephraim-Custom\] \[F\] T2 Heavy Infantry by Nuramon](./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword%20(Artoria%20Excalibur%20Recolor)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword%20(Artoria%20Flashy%20Crit)/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword (Artoria Excalibur Recolor)</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword%20(Artoria%20Excalibur%20Recolor)/Sword.gif"/> | <b>Sword (Artoria Flashy Crit)</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword%20(Artoria%20Flashy%20Crit)/Sword.gif"/> |
 | :---: | :---: | :---: |
 | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> | <b>Palettes</b><br/><img alt="Palettes animation" src="./%5BEphraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/Palettes/Palettes.gif"/> |
@@ -164,7 +164,7 @@
 
 ## [\[Ephraim-Custom\] \[M\] T2 Heavy Infantry by Nuramon](./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/2.%20Lance%20(Siegmund)/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Lance (Siegmund)</b><br/><img alt="Lance animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/2.%20Lance%20(Siegmund)/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Custom%5D%20%5BM%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -221,10 +221,10 @@
 
 ## [\[Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Rapier)</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif"/> |
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow (Crossbow)</b><br/><img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -247,10 +247,10 @@
 
 ## [\[Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Rapier)</b><br/><img alt="Sword animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/1.%20Sword%20(Rapier)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow/Bow.gif"/> |
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow (Crossbow)</b><br/><img alt="Bow animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/5.%20Bow%20(Crossbow)/Bow.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 | <b>Palettes</b><br/><img alt="Palettes animation" src="./%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20+Weapons/Palettes/Palettes.gif"/> |
 
 

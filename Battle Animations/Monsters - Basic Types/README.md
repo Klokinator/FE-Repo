@@ -101,9 +101,9 @@
 
 ## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BMrNight%7D/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe {MrNight}</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BMrNight%7D/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BVilkalizeR%7D/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20(Big)/Handaxe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20(Slim)/Handaxe.gif"/> |
+| <b>Axe {VilkalizeR}</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BVilkalizeR%7D/Axe.gif"/> | <b>Handaxe (Big)</b><br/><img alt="Handaxe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20(Big)/Handaxe.gif"/> | <b>Handaxe (Slim)</b><br/><img alt="Handaxe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/4.%20Handaxe%20(Slim)/Handaxe.gif"/> |
 | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
@@ -119,9 +119,9 @@
 
 ## [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/3.%20Axe%20(Handaxe%20Ranged)/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe (Handaxe Ranged)</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/3.%20Axe%20(Handaxe%20Ranged)/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/3.%20Axe%20(Magic%20Ranged)/Axe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Axe (Magic Ranged)</b><br/><img alt="Axe animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/3.%20Axe%20(Magic%20Ranged)/Axe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -130,7 +130,7 @@
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/8.%20Unarmed%20(Shield)/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Shield)</b><br/><img alt="Unarmed animation" src="./%5BSkeleton-Reskin%5D%20%5BU%5D%20Legion%20by%20Seal/8.%20Unarmed%20(Shield)/Unarmed.gif"/> |
 
 
 
@@ -233,7 +233,7 @@
 
 ## [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20%2BSM%20Crit)
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster.gif"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster animation" src="./%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif"/> |
 | :---: | :---: |
 
 
@@ -297,7 +297,7 @@
 
 ## [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20%2BWings)
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/8.%20Monster%20(SM%20Crit)/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/8.%20Monster%20(Wings%20Crit)/Monster.gif"/> |
+| <b>Monster (SM Crit)</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/8.%20Monster%20(SM%20Crit)/Monster.gif"/> | <b>Monster (Wings Crit)</b><br/><img alt="Monster animation" src="./%5BWolf-Variant%5D%20%5BU%5D%20Hellhound%20SM%20Crit%20+Wings/8.%20Monster%20(Wings%20Crit)/Monster.gif"/> |
 | :---: | :---: |
 
 
@@ -305,7 +305,7 @@
 
 ## [\[Zombie-Base\] \[U\] Revenant Vanilla +Weapons](./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20%2BWeapons)
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/8.%20Monster/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/8.%20Monster%20(Goop%20Attack)/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/8.%20Monster%20(Magic%20Ranged)/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/8.%20Monster/Monster.gif"/> | <b>Monster (Goop Attack)</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/8.%20Monster%20(Goop%20Attack)/Monster.gif"/> | <b>Monster (Magic Ranged)</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20+Weapons/8.%20Monster%20(Magic%20Ranged)/Monster.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -321,7 +321,7 @@
 
 ## [\[Zombie-Base\] \[U\] Vanilla Entombed +Ranged](./%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20%2BRanged)
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/8.%20Monster/Monster.gif"/> | <b>Monster</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/8.%20Monster%20(Magic%20Ranged)/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/8.%20Monster/Monster.gif"/> | <b>Monster (Magic Ranged)</b><br/><img alt="Monster animation" src="./%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/8.%20Monster%20(Magic%20Ranged)/Monster.gif"/> |
 | :---: | :---: |
 
 

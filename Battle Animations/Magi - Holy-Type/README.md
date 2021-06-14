@@ -34,7 +34,7 @@
 
 ## [\[Cleric-Base\] \[F\] Vanilla FE6 +Weapons](./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Heartseeker)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Prayer)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/6.%20Magic/Magic.gif"/> |
+| <b>Sword (Heartseeker)</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Heartseeker)/Sword.gif"/> | <b>Sword (Prayer)</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Prayer)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
 | <b>Staff</b><br/><img alt="Staff animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -43,7 +43,7 @@
 
 ## [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20%2BSword)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Heartseeker)/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Prayer)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/7.%20Staff/Staff.gif"/> |
+| <b>Sword (Heartseeker)</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Heartseeker)/Sword.gif"/> | <b>Sword (Prayer)</b><br/><img alt="Sword animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Prayer)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -204,7 +204,7 @@
 
 ## [\[Priest-Base\] \[M\] Skintone Repal by Flasuban](./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/7.%20Staff%20(+Magic)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Staff (+Magic)</b><br/><img alt="Staff animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/7.%20Staff%20(+Magic)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Skintone%20Repal%20by%20Flasuban/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -212,7 +212,7 @@
 
 ## [\[Priest-Base\] \[M\] Vanilla Priest +Magic](./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20%2BMagic)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/6.%20Magic/Magic.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20+Magic/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -245,7 +245,7 @@
 
 ## [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/7.%20Staff%20(Buff%20Generic%20Priest)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Generic%20Priest)/Unarmed.gif"/> |
+| <b>Staff (Buff Generic Priest)</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/7.%20Staff%20(Buff%20Generic%20Priest)/Staff.gif"/> | <b>Unarmed (Buff Generic Priest)</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Generic%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Generic%20Priest)/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -253,7 +253,7 @@
 
 ## [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20%2BMuscles%20by%20Vilkalizer)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/7.%20Staff%20(Buff%20Moulder)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Moulder)/Unarmed.gif"/> |
+| <b>Staff (Buff Moulder Muscles)</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/7.%20Staff%20(Buff%20Moulder%20Muscles)/Staff.gif"/> | <b>Staff (Buff Moulder)</b><br/><img alt="Staff animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/7.%20Staff%20(Buff%20Moulder)/Staff.gif"/> | <b>Unarmed (Buff Moulder)</b><br/><img alt="Unarmed animation" src="./%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Moulder)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -293,9 +293,9 @@
 
 ## [\[T2 Bishop-Base\] \[F\] Vanilla FE6-8](./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/6.%20Magic%20(+Staff%20FE8)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/6.%20Magic%20(FE6)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/7.%20Staff%20(FE6)/Staff.gif"/> |
+| <b>Magic (+Staff FE8)</b><br/><img alt="Magic animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/6.%20Magic%20(+Staff%20FE8)/Magic.gif"/> | <b>Magic (FE6)</b><br/><img alt="Magic animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/6.%20Magic%20(FE6)/Magic.gif"/> | <b>Staff (FE6)</b><br/><img alt="Staff animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/7.%20Staff%20(FE6)/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/7.%20Staff%20(Unarmed%20FE8)/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/8.%20Unarmed%20(FE6)/Unarmed.gif"/> |
+| <b>Staff (Unarmed FE8)</b><br/><img alt="Staff animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/7.%20Staff%20(Unarmed%20FE8)/Staff.gif"/> | <b>Unarmed (FE6)</b><br/><img alt="Unarmed animation" src="./%5BT2%20Bishop-Base%5D%20%5BF%5D%20Vanilla%20FE6-8/8.%20Unarmed%20(FE6)/Unarmed.gif"/> |
 
 
 
@@ -334,7 +334,7 @@
 
 ## [\[T2 Bishop-Base\] \[M\] Vanilla FE7-8 +Sword by Beansy](./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20%2BSword%20by%20Beansy)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/6.%20Magic%20(+Staff%20FE8)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/7.%20Staff%20(FE7)/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/1.%20Sword/Sword.gif"/> | <b>Magic (+Staff FE8)</b><br/><img alt="Magic animation" src="./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/6.%20Magic%20(+Staff%20FE8)/Magic.gif"/> | <b>Staff (FE7)</b><br/><img alt="Staff animation" src="./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/7.%20Staff%20(FE7)/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BT2%20Bishop-Base%5D%20%5BM%5D%20Vanilla%20FE7-8%20+Sword%20by%20Beansy/8.%20Unarmed/Unarmed.gif"/> |
 

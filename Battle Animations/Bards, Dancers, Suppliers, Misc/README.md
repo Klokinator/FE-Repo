@@ -2,9 +2,9 @@
 
 ## [\[Bard-Base\] \[M\] Elffin +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBard-Base%5D%20%5BM%5D%20Elffin%20%2BWeapons)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh/Refresh.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE6)(Bird%20Sfx)/Refresh.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh/Refresh.gif"/> | <b>Refresh (FE6)(Bird Sfx)</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE6)(Bird%20Sfx)/Refresh.gif"/> |
 | :---: | :---: | :---: |
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE7-8)/Refresh.gif"/> |
+| <b>Refresh (FE7-8)</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE7-8)/Refresh.gif"/> |
 
 
 
@@ -19,7 +19,7 @@
 
 ## [\[Bard-Base\] \[M\] Nils +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBard-Base%5D%20%5BM%5D%20Nils%20%2BWeapons)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff%20(+Magic)/Staff.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Dragonstone/Dragonstone.gif"/> |
+| <b>Staff</b><br/><img alt="Staff animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Staff (+Magic)</b><br/><img alt="Staff animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff%20(+Magic)/Staff.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Dragonstone/Dragonstone.gif"/> |
 | :---: | :---: | :---: |
 | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Refresh/Refresh.gif"/> |
 
@@ -52,9 +52,9 @@
 
 ## [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20%2BFE7-8%2C%20Staff)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh/Refresh.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Fixed%20SFX)/Refresh.gif"/> |
+| <b>Staff</b><br/><img alt="Staff animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh/Refresh.gif"/> | <b>Refresh (Fixed SFX)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Fixed%20SFX)/Refresh.gif"/> |
 | :---: | :---: | :---: |
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Heart%20FE8)/Refresh.gif"/> |
+| <b>Refresh (Heart FE8)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Heart%20FE8)/Refresh.gif"/> |
 
 
 
@@ -72,7 +72,7 @@
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh/Refresh.gif"/> |
 | :---: | :---: | :---: |
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(FE7)/Refresh.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(Fixed)/Refresh.gif"/> |
+| <b>Refresh (FE7)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(FE7)/Refresh.gif"/> | <b>Refresh (Fixed)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(Fixed)/Refresh.gif"/> |
 
 
 
@@ -135,7 +135,7 @@
 
 ## [\[Misc-Supply\] \[U\] T2 Merlinus Hot Air Ballon](./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon)
 
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed%20(Checkered)/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Checkered)</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed%20(Checkered)/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -143,7 +143,7 @@
 
 ## [\[Misc\] \[M\] Rifleman by Dolkar](./%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow.gif"/> |
+| <b>Bow (Gun)</b><br/><img alt="Bow animation" src="./%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: |
 
 
@@ -199,7 +199,7 @@
 
 ## [\[Non-FE\] \[M\] Mario by Volke0](./%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance.gif"/> |
+| <b>Lance (Hammer)</b><br/><img alt="Lance animation" src="./%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance.gif"/> |
 | :---: |
 
 
@@ -215,9 +215,9 @@
 
 ## [\[Sword Custom\] \[M\] Squire by Russel Clark](./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Sword (Updated)</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif"/> |
+| <b>Unarmed (Updated)</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif"/> |
 
 
 

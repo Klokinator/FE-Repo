@@ -18,7 +18,7 @@
 
 ## [\[Shaman-Base\] \[F\] FE6 Repal by Markyjoe](./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif"/> |
 | :---: | :---: |
 
 
@@ -26,7 +26,7 @@
 
 ## [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20%2BStaff)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -34,7 +34,7 @@
 
 ## [\[Shaman-Base\] \[F\] Vanilla FE8](./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(Fixed)/Magic.gif"/> |
+| <b>Magic (FE8)</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(Fixed)/Magic.gif"/> |
 | :---: | :---: |
 
 
@@ -42,7 +42,7 @@
 
 ## [\[Shaman-Base\] \[M\] Vanilla +Staff](./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20%2BStaff)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -50,7 +50,7 @@
 
 ## [\[Shaman-Reskin\] \[F\] Poised by Markyjoe](./%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/6.%20Magic%20(Fix)/Magic.gif"/> |
+| <b>Magic (FE7)</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic (Fix)</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/6.%20Magic%20(Fix)/Magic.gif"/> |
 | :---: | :---: |
 
 
@@ -58,7 +58,7 @@
 
 ## [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20%2BStaff%20by%20Temp)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -148,28 +148,28 @@
 
 ## [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20%2BWeapons)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20Critical%20Sigil)/Magic.gif"/> |
+| <b>Magic (FE7)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic (Sorcress, Critical Sigil)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20Critical%20Sigil)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20No%20Critical%20Sigil/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(CamusZekeSirius)/Staff.gif"/> |
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE7%20Dark%20Effect)/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE8%20Dark%20Effect)/Staff.gif"/> |
+| <b>Magic (Sorcress, No Critical Sigil</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20No%20Critical%20Sigil/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Staff (CamusZekeSirius)</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(CamusZekeSirius)/Staff.gif"/> |
+| <b>Staff (FE7 Dark Effect)</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE7%20Dark%20Effect)/Staff.gif"/> | <b>Staff (FE8 Dark Effect)</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE8%20Dark%20Effect)/Staff.gif"/> |
 
 
 
 
 ## [\[T3 Dark Druid\] \[M\] Nergal +Fixes](./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20%2BFixes)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Adv)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Basic)/Magic.gif"/> |
+| <b>Magic (Dark)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic.gif"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Adv)/Magic.gif"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Basic)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Light)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Freeze%20Fix)/Magic.gif"/> |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Light)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla%20Fixed)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla)/Magic.gif"/> |
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif"/> |
+| <b>Magic (FE8 JP Dark)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif"/> | <b>Magic (FE8 JP Light)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Light)/Magic.gif"/> | <b>Magic (Freeze Fix)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Freeze%20Fix)/Magic.gif"/> |
+| <b>Magic (Light)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Light)/Magic.gif"/> | <b>Magic (Vanilla Fixed)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla%20Fixed)/Magic.gif"/> | <b>Magic (Vanilla)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla)/Magic.gif"/> |
+| <b>Staff (Fixed)</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff (Fixed) (Athos-Style)</b><br/><img alt="Staff animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif"/> |
 
 
 
 
 ## [\[T3 Dark Druid\] \[M\] Nergal Repal by SHYUTERz](./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic.gif"/> |
+| <b>Magic (FE8)</b><br/><img alt="Magic animation" src="./%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic.gif"/> |
 | :---: |
 
 
@@ -195,26 +195,26 @@
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/7.%20Staff/Staff.gif"/> | <b>Legendary</b><br/><img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Axe%20(Armads)/Legendary.gif"/> |
-| <b>Legendary</b><br/><img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Magic%20(Armads)/Legendary.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/7.%20Staff/Staff.gif"/> | <b>Legendary Axe (Armads)</b><br/><img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Axe%20(Armads)/Legendary.gif"/> |
+| <b>Legendary Magic (Armads)</b><br/><img alt="Legendary animation" src="./%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Magic%20(Armads)/Legendary.gif"/> |
 
 
 
 
 ## [\[T3 Necromancer\] \[M\] Generic by Eldritch](./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff%20(Fixed)/Staff.gif"/> |
+| <b>Staff (Fixed)</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff%20(Fixed)/Staff.gif"/> |
 
 
 
 
 ## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20%2BWeapons)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Minigun%20Melee)/Magic.gif"/> |
+| <b>Magic (Blood Tome Critfix)</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Magic (Minigun Melee)</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Minigun%20Melee)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Vanilla)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Vanilla)/Staff.gif"/> |
+| <b>Magic (Vanilla)</b><br/><img alt="Magic animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Vanilla)/Magic.gif"/> | <b>Staff (Fixed)</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff (Vanilla)</b><br/><img alt="Staff animation" src="./%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Vanilla)/Staff.gif"/> |
 
 
 

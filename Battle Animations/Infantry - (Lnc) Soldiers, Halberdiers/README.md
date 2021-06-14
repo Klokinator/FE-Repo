@@ -18,7 +18,7 @@
 
 ## [\[Custom Halb\] \[F\] Halberdier by Black Mage](./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance/Lance.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance%20(Ting)/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance/Lance.gif"/> | <b>Lance (Ting)</b><br/><img alt="Lance animation" src="./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance%20(Ting)/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -26,7 +26,7 @@
 
 ## [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif"/> |
+| <b>Lance</b><br/><img alt="Lance animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif"/> | <b>Axe (Stab)</b><br/><img alt="Axe animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif"/> | <b>Axe (Swing)</b><br/><img alt="Axe animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -188,7 +188,7 @@
 
 ## [\[Soldier-Variant\] \[M\] Lightweight Lancer by Alusq](./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/1.%20Sword%20%7BJeyTheCount%7D/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword {JeyTheCount}</b><br/><img alt="Sword animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/1.%20Sword%20%7BJeyTheCount%7D/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 

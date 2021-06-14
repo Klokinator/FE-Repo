@@ -8,9 +8,9 @@
 |<img alt="Baron (U) Axe no chain {SamirPlayz}" src="Baron (U) Axe no chain {SamirPlayz}.png" />|<img alt="Baron (U) Axe {SamirPlayz}" src="Baron (U) Axe {SamirPlayz}.png" />|<img alt="Baron (U) Bow {SamirPlayz}" src="Baron (U) Bow {SamirPlayz}.png" />|<img alt="Baron (U) Lance {SamirPlayz}" src="Baron (U) Lance {SamirPlayz}.png" />|
 
 
-|Baron (U) Lance <br> {St jack}|Baron (U) Magic <br> {flasuban}|Baron (U) Magic <br> {SamirPlayz}|Baron (U) Sword <br> {SamirPlayz}|
+|Baron (U) Lance <br> {St jack}|Baron (U) Magic <br> {SamirPlayz}|Baron (U) Magic <br> {flasuban}|Baron (U) Sword <br> {SamirPlayz}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Baron (U) Lance {St jack}" src="Baron (U) Lance {St jack}.png" />|<img alt="Baron (U) Magic {flasuban}" src="Baron (U) Magic {flasuban}.png" />|<img alt="Baron (U) Magic {SamirPlayz}" src="Baron (U) Magic {SamirPlayz}.png" />|<img alt="Baron (U) Sword {SamirPlayz}" src="Baron (U) Sword {SamirPlayz}.png" />|
+|<img alt="Baron (U) Lance {St jack}" src="Baron (U) Lance {St jack}.png" />|<img alt="Baron (U) Magic {SamirPlayz}" src="Baron (U) Magic {SamirPlayz}.png" />|<img alt="Baron (U) Magic {flasuban}" src="Baron (U) Magic {flasuban}.png" />|<img alt="Baron (U) Sword {SamirPlayz}" src="Baron (U) Sword {SamirPlayz}.png" />|
 
 
 |General (U) Axe +Chain <br> {Pushwall, SamirPlayz}|General (U) Axe -Chain <br> {Pushwall, SamirPlayz}|General (U) Lance +Shield Unchained (SamirPlayz, Pushwall) <br> |General (U) Lance Alt <br> {Pushwall, SamirPlayz}|

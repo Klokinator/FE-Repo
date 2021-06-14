@@ -77,10 +77,10 @@ ${anim.credits}
     }
 
 	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)} ${downloadButton}
-${creditsBlock}
-${showWeaponsHeading ? `${getHeading(headingDepth +1)} Weapons
-` : ''}
+
 ${makeWeaponsContent({anim, currentDir})}
+
+${creditsBlock}
 `)
 }
 

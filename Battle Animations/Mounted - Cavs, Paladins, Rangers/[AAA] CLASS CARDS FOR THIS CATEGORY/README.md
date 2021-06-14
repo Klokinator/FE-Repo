@@ -48,18 +48,18 @@
 |<img alt="Nomad (M) Sword {Pushwall}" src="Nomad (M) Sword {Pushwall}.png" />|<img alt="Nomad Trooper (M) Bow {IS}" src="Nomad Trooper (M) Bow {IS}.png" />|<img alt="Paladin (F) Lance {flasuban}" src="Paladin (F) Lance {flasuban}.png" />|<img alt="Paladin (F) SALVAGED Axe {Shtick, SALVAGED}" src="Paladin (F) SALVAGED Axe {Shtick, SALVAGED}.png" />|
 
 
-|Paladin (F) SALVAGED Sword <br> {Shtick, SALVAGED}|Paladin (F) SALVAGED-style Lance <br> {flasuban, RobertFPY}|Paladin (M) Axe <br> {MeatOfJustice}|Paladin (M) Lance <br> {IS}|
+|Paladin (F) SALVAGED Sword <br> {Shtick, SALVAGED}|Paladin (F) SALVAGED-style Lance <br> {flasuban, RobertFPY}|Paladin (M) Axe <br> {MeatOfJustice}|Paladin (M) Bow <br> {Leif}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (F) SALVAGED Sword {Shtick, SALVAGED}" src="Paladin (F) SALVAGED Sword {Shtick, SALVAGED}.png" />|<img alt="Paladin (F) SALVAGED-style Lance {flasuban, RobertFPY}" src="Paladin (F) SALVAGED-style Lance {flasuban, RobertFPY}.png" />|<img alt="Paladin (M) Axe {MeatOfJustice}" src="Paladin (M) Axe {MeatOfJustice}.png" />|<img alt="Paladin (M) Lance {IS}" src="Paladin (M) Lance {IS}.png" />|
+|<img alt="Paladin (F) SALVAGED Sword {Shtick, SALVAGED}" src="Paladin (F) SALVAGED Sword {Shtick, SALVAGED}.png" />|<img alt="Paladin (F) SALVAGED-style Lance {flasuban, RobertFPY}" src="Paladin (F) SALVAGED-style Lance {flasuban, RobertFPY}.png" />|<img alt="Paladin (M) Axe {MeatOfJustice}" src="Paladin (M) Axe {MeatOfJustice}.png" />|<img alt="Paladin (M) Bow {Leif}" src="Paladin (M) Bow {Leif}.png" />|
 
 
-|Paladin (M) SALVAGED Axe <br> {Shtick, SALVAGED}|Paladin (M) SALVAGED Sword <br> {Shtick, SALVAGED}|Paladin (M) SALVAGED-style Lance <br> {flasuban, RobertFPY}|Paladin (M) Sword <br> {FPzero}|
+|Paladin (M) Lance <br> {IS}|Paladin (M) SALVAGED Axe <br> {Shtick, SALVAGED}|Paladin (M) SALVAGED Sword <br> {Shtick, SALVAGED}|Paladin (M) SALVAGED-style Lance <br> {flasuban, RobertFPY}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (M) SALVAGED Axe {Shtick, SALVAGED}" src="Paladin (M) SALVAGED Axe {Shtick, SALVAGED}.png" />|<img alt="Paladin (M) SALVAGED Sword {Shtick, SALVAGED}" src="Paladin (M) SALVAGED Sword {Shtick, SALVAGED}.png" />|<img alt="Paladin (M) SALVAGED-style Lance {flasuban, RobertFPY}" src="Paladin (M) SALVAGED-style Lance {flasuban, RobertFPY}.png" />|<img alt="Paladin (M) Sword {FPzero}" src="Paladin (M) Sword {FPzero}.png" />|
+|<img alt="Paladin (M) Lance {IS}" src="Paladin (M) Lance {IS}.png" />|<img alt="Paladin (M) SALVAGED Axe {Shtick, SALVAGED}" src="Paladin (M) SALVAGED Axe {Shtick, SALVAGED}.png" />|<img alt="Paladin (M) SALVAGED Sword {Shtick, SALVAGED}" src="Paladin (M) SALVAGED Sword {Shtick, SALVAGED}.png" />|<img alt="Paladin (M) SALVAGED-style Lance {flasuban, RobertFPY}" src="Paladin (M) SALVAGED-style Lance {flasuban, RobertFPY}.png" />|
 
 
-|Ranger (F) Bow <br> {RobertFPY}|Ranger (M) Bow <br> {IS}|
-| :---: | :---: |
-|<img alt="Ranger (F) Bow {RobertFPY}" src="Ranger (F) Bow {RobertFPY}.png" />|<img alt="Ranger (M) Bow {IS}" src="Ranger (M) Bow {IS}.png" />|
+|Paladin (M) Sword <br> {FPzero}|Paladin (M) Sword <br> {Leif}|Ranger (F) Bow <br> {RobertFPY}|Ranger (M) Bow <br> {IS}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Paladin (M) Sword {FPzero}" src="Paladin (M) Sword {FPzero}.png" />|<img alt="Paladin (M) Sword {Leif}" src="Paladin (M) Sword {Leif}.png" />|<img alt="Ranger (F) Bow {RobertFPY}" src="Ranger (F) Bow {RobertFPY}.png" />|<img alt="Ranger (M) Bow {IS}" src="Ranger (M) Bow {IS}.png" />|
 
 

@@ -18,9 +18,9 @@
 |<img alt="Griffon Rider (U) Sword {N426}-stand" src="Griffon Rider (U) Sword {N426}-stand.png" />|<img alt="Malig Knight (M) Axe {Pikmin}-stand" src="Malig Knight (M) Axe {Pikmin}-stand.png" />|<img alt="Pegasi (F) T1 Axe (Flasuban)-stand" src="Pegasi (F) T1 Axe (Flasuban)-stand.png" />|<img alt="Pegasi (F) T1 Black Beauty Lance {L95}-stand" src="Pegasi (F) T1 Black Beauty Lance {L95}-stand.png" />|
 
 
-|Pegasi (F) T1 Helmless Sword <br> {Sephie}|Pegasi (F) T1 Lance (Flasuban) <br> |Pegasi (F) T1 Lance <br> {IS}|Pegasi (F) T1 Lance <br> {flasuban}|
+|Pegasi (F) T1 Helmless Sword <br> {Sephie}|Pegasi (F) T1 Lance (Flasuban) <br> |Pegasi (F) T1 Lance <br> {flasuban}|Pegasi (F) T1 Lance <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Pegasi (F) T1 Helmless Sword {Sephie}-stand" src="Pegasi (F) T1 Helmless Sword {Sephie}-stand.png" />|<img alt="Pegasi (F) T1 Lance (Flasuban)-stand" src="Pegasi (F) T1 Lance (Flasuban)-stand.png" />|<img alt="Pegasi (F) T1 Lance {IS}-stand" src="Pegasi (F) T1 Lance {IS}-stand.png" />|<img alt="Pegasi (F) T1 Lance {flasuban}-stand" src="Pegasi (F) T1 Lance {flasuban}-stand.png" />|
+|<img alt="Pegasi (F) T1 Helmless Sword {Sephie}-stand" src="Pegasi (F) T1 Helmless Sword {Sephie}-stand.png" />|<img alt="Pegasi (F) T1 Lance (Flasuban)-stand" src="Pegasi (F) T1 Lance (Flasuban)-stand.png" />|<img alt="Pegasi (F) T1 Lance {flasuban}-stand" src="Pegasi (F) T1 Lance {flasuban}-stand.png" />|<img alt="Pegasi (F) T1 Lance {IS}-stand" src="Pegasi (F) T1 Lance {IS}-stand.png" />|
 
 
 |Pegasi (F) T1 Staff <br> {WarPath}|Pegasi (F) T1 Sword (Flasuban) <br> |Pegasi (F) T2 Black Beauty Lance <br> {L95}|Pegasi (F) T2 Lance <br> {IS}|

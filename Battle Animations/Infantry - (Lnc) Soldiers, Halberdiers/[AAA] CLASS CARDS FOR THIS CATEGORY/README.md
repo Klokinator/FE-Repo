@@ -13,8 +13,8 @@
 |<img alt="Halberdier (M) Lance {TBA}" src="Halberdier (M) Lance {TBA}.png" />|<img alt="Militia (M) Deserter Lance {Rasdel}" src="Militia (M) Deserter Lance {Rasdel}.png" />|<img alt="Soldier (F) Lance {flasuban}" src="Soldier (F) Lance {flasuban}.png" />|<img alt="Soldier (M) FE10-Style Lance {flasuban}" src="Soldier (M) FE10-Style Lance {flasuban}.png" />|
 
 
-|Soldier (M) Lance <br> {IS}|Spartan (M) Lance <br> {Der}|
-| :---: | :---: |
-|<img alt="Soldier (M) Lance {IS}" src="Soldier (M) Lance {IS}.png" />|<img alt="Spartan (M) Lance {Der}" src="Spartan (M) Lance {Der}.png" />|
+|Soldier (M) Lance <br> {IS}|Soldier (U) Sword <br> {Sir_Dadou, SamirPlayz}|Spartan (M) Lance <br> {Der}|
+| :---: | :---: | :---: |
+|<img alt="Soldier (M) Lance {IS}" src="Soldier (M) Lance {IS}.png" />|<img alt="Soldier (U) Sword {Sir_Dadou, SamirPlayz}" src="Soldier (U) Sword {Sir_Dadou, SamirPlayz}" />|<img alt="Spartan (M) Lance {Der}" src="Spartan (M) Lance {Der}.png" />|
 
 

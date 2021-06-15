@@ -1,9 +1,12 @@
-const fs = require('fs').promises;
-const { logMissingFile } = require('../utilities')
-const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText, makeClassCardReadMe, makeMapSpritesReadMe } = require('./battle-animations-utilities')
+const fs = require("fs").promises
+const { logMissingFile, hasFile, gitio } = require("../utilities")
+const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText, makeClassCardReadMe, makeMapSpritesReadMe } = require("./battle-animations-utilities")
 
-const ROOT_DIR = './Battle Animations'
-const README_FILENAME = 'README.md';
+const ROOT_DIR_SLUG = "Battle Animations"
+const ROOT_DIR = "./" + ROOT_DIR_SLUG
+const REPO_URL = "https://github.com/Klokinator/FE-Repo/tree/main"
+const ASSET_URL = "https://raw.githubusercontent.com/Klokinator/FE-Repo/main"
+const README_FILENAME = "README.md"
 
 /**
  * Parses the "Battle Animations" dirs and gathers all the animations in a flat list.
@@ -85,6 +88,7 @@ const searchAnimations = async () => {
 				}
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${static}`)
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${active}`)
+
 				anim.weapons = [weapon]
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeWeaponReadmeText(anim, weapon))
 				return anim
@@ -97,18 +101,28 @@ const searchAnimations = async () => {
 				return accumulator
 			}, [])
 
-			return Promise.all(weaponDirs.map(weaponDir => {
-				const type = weaponDir.replace(/\d*?\.\s/, "").split(" ")[0]
-				const static = `${type}_000.png`
-				const active = `${type}.gif`
+			return Promise.all(weaponDirs.map(async (weaponDir) => {
 				const weapon = {
-					active,
-					dir: weaponDir,
-					static,
-					type,
+					"dir": weaponDir,
 				}
-				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${static}`)
-				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${active}`)
+
+				weapon.type = weaponDir.replace(/\d*?\.\s/, "").split(" ")[0]
+				weapon.name = weaponDir.replace(/^[0-9]+.\s+/, "")
+
+				weapon.static = `${weapon.type}_000.png`
+				weapon.active = `${weapon.type}.gif`
+
+				weapon.gif = `${weapon.type}.gif`
+				// weapon.gifFromAnimDir = `./${weaponDir}/${weapon.type}.gif`
+				// weapon.gifFromCatDir = `./${animDir}/${weaponDir}/${weapon.type}.gif`
+				weapon.gifPath = `${weaponDir}/${weapon.gif}`
+				weapon.gifRootPath = `${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${weapon.gif}`
+				if(hasFile(weapon.gifRootPath) == false) {
+					return undefined
+				}
+
+				weapon.gifUri = encodeURI(`${ASSET_URL}/${ROOT_DIR_SLUG}/${categoryDir}/${animDir}/${weaponDir}/${weapon.gif}`)
+				weapon.gifGitio = await gitio(weapon.gifUri)
 
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${README_FILENAME}`, makeWeaponReadmeText({
 					"anim": anim,
@@ -117,10 +131,18 @@ const searchAnimations = async () => {
 				}))
 
 				return weapon
-			})).then(weapons => {
+			})).then(async (weapons) => {
 				anim.weapons = weapons
+				anim.weapons = anim.weapons.filter((weapon) => !!weapon)
 
-				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText({
+				anim.path = `${ROOT_DIR_SLUG}/${categoryDir}/${animDir}`
+				anim.uri = encodeURI(`${REPO_URL}/${anim.path}`)
+				anim.gitio = await gitio(anim.uri)
+
+				anim.downloadUri = "https://minhaskamal.github.io/DownGit/#/home?url=" + anim.uri
+				anim.downloadGitio = await gitio(anim.downloadUri)
+
+				fs.writeFile(`./${anim.path}/${README_FILENAME}`, makeAnimReadmeText({
 					"anim": anim,
 					"path": `${ROOT_DIR.substring(2)}/${categoryDir}/${animDir}`,
 				}))

@@ -1,8 +1,8 @@
-# [\[Priest-Base\] \[M\] Vanilla Priest +Magic](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Holy-Type%2F%5BPriest-Base%5D%20%5BM%5D%20Vanilla%20Priest%20%2BMagic)
+# [\[Priest-Base\] \[M\] Vanilla Priest +Magic](https://git.io/Jn3Lt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cg)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOro"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://git.io/JnOwZ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOR6"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO2S"/> |
 
 ## Credits
 

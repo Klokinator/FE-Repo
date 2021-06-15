@@ -1,378 +1,378 @@
 # [Infantry - (Swd) Myrms and Swordmasters Battle Animations](./)
 
-## [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon)
+## [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](https://git.io/Jn3kB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34S)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFE13%20Custom%5D%20%5BF%5D%20Dread%20Fighter%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7E"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOSi"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHy"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[FE13 Custom\] \[M\] Dread Fighter by Nuramon](./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon)
+## [\[FE13 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/Jn3Tu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bf)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic animation" src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BFE13%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiK"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnONb"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSw"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20%2BBow)
+## [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](https://git.io/Jn3Tm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BI)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Ponytail%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHr"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOSa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7a"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Base\] \[M\] Vanilla FE6-8 Generic](./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic)
+## [\[Myrmidon-Base\] \[M\] Vanilla FE6-8 Generic](https://git.io/Jn3kT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn349)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONu"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO2C"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Base\] \[M\] Vanilla FE7 Guy +Bow](./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20%2BBow)
+## [\[Myrmidon-Base\] \[M\] Vanilla FE7 Guy +Bow](https://git.io/Jn3T8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn341)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON8"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODO"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[F\] Fir by Leo_Link](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Leo_Link/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Leo_Link)
+## [\[Myrmidon-Reskin\] \[F\] Fir by Leo_Link](https://git.io/Jn3TT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn346)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Leo_Link/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Leo_Link/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOVU"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO23"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[F\] Fir by Redbean](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Redbean/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Redbean)
+## [\[Myrmidon-Reskin\] \[F\] Fir by Redbean](https://git.io/Jn3Uw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ct)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5F"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONz"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[F\] Karla by Greentea](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea)
+## [\[Myrmidon-Reskin\] \[F\] Karla by Greentea](https://git.io/Jn3Uh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn347)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOi6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHI"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6)
+## [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://git.io/Jn3kG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAu"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[F\] Marisa by Arkth](./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Marisa%20by%20Arkth/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BF%5D%20Marisa%20by%20Arkth)
+## [\[Myrmidon-Reskin\] \[F\] Marisa by Arkth](https://git.io/Jn3IY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34b)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Marisa%20by%20Arkth/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BF%5D%20Marisa%20by%20Arkth/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnObG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHD"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[M\] Black Pants](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Black%20Pants/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BM%5D%20Black%20Pants)
+## [\[Myrmidon-Reskin\] \[M\] Black Pants](https://git.io/Jn3U2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3W9)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Black%20Pants/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Black%20Pants/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9Y"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby)
+## [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](https://git.io/Jn3ke) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34K)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSH"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9G"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94)
+## [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](https://git.io/Jn3kK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34X)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7w"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHj"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[M\] Joshua Hat](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Joshua%20Hat/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BM%5D%20Joshua%20Hat)
+## [\[Myrmidon-Reskin\] \[M\] Joshua Hat](https://git.io/Jn3kJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3W6)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Joshua%20Hat/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Joshua%20Hat/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQ6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO79"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Myrmidon-Reskin\] \[M\] Leo_Link's Alt](./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt)
+## [\[Myrmidon-Reskin\] \[M\] Leo_Link's Alt](https://git.io/Jn3td) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34A)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMyrmidon-Reskin%5D%20%5BM%5D%20Leo_Link's%20Alt/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHp"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Sword Custom\] \[F\] Fencer by GabrielKnight](./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight)
+## [\[Sword Custom\] \[F\] Fencer by GabrielKnight](https://git.io/Jn3fC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3El)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20Fencer%20by%20GabrielKnight/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2h"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgN"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Sword Custom\] \[F\] TLP's Karina Fencer](./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer)
+## [\[Sword Custom\] \[F\] TLP's Karina Fencer](https://git.io/Jn3IT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34p)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BF%5D%20TLP's%20Karina%20Fencer/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4a"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQG"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Base\] \[F\] Vanilla FE6](./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6)
+## [\[Swordmaster-Base\] \[F\] Vanilla FE6](https://git.io/Jn3kE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BH)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONq"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Base\] \[F\] Vanilla FE7](./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7)
+## [\[Swordmaster-Base\] \[F\] Vanilla FE7](https://git.io/Jn3kN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cc)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOAc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMw"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Base\] \[M\] Vanilla FE6](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6)
+## [\[Swordmaster-Base\] \[M\] Vanilla FE6](https://git.io/Jn3kg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30X)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2d"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7s"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Base\] \[M\] Vanilla FE6-Style Short Hair](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6-Style%20Short%20Hair/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6-Style%20Short%20Hair)
+## [\[Swordmaster-Base\] \[M\] Vanilla FE6-Style Short Hair](https://git.io/Jn3kM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cO)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6-Style%20Short%20Hair/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE6-Style%20Short%20Hair/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO17"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQT"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Guy](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy)
+## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Guy](https://git.io/Jn3Im) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30S)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOis"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO6h"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Karel](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel)
+## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Karel](https://git.io/Jn3kC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn309)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODQ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOyf"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Lloyd +Alt Pal](./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20%2BAlt%20Pal)
+## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Lloyd +Alt Pal](https://git.io/Jn3I8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30Q)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword/Sword.gif"/> | <b>Sword (Alt)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Lloyd%20+Alt%20Pal/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONl"/> | <b>Sword (Alt)</b><br/><img alt="Sword (Alt)" src="https://git.io/JnOFa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7V"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Custom\] \[M\] FF7 - Sephiroth by SHYUTERz](./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz)
+## [\[Swordmaster-Custom\] \[M\] FF7 - Sephiroth by SHYUTERz](https://git.io/Jn3Tq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cm)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Custom%5D%20%5BM%5D%20FF7%20-%20Sephiroth%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQ3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO5l"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[F\] Karla by Greentea](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea)
+## [\[Swordmaster-Reskin\] \[F\] Karla by Greentea](https://git.io/Jn3TL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ct)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Karla%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOiE"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[F\] Marisa by Redbean](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Redbean/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Redbean)
+## [\[Swordmaster-Reskin\] \[F\] Marisa by Redbean](https://git.io/Jn3kZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ef)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9L"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOFm"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[F\] Marisa by Seal](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Seal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Seal)
+## [\[Swordmaster-Reskin\] \[F\] Marisa by Seal](https://git.io/Jn3k0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cT)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Seal/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Marisa%20by%20Seal/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdY"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[F\] Red Hair Long by Russel Clark](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Long%20by%20Russel%20Clark/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Long%20by%20Russel%20Clark)
+## [\[Swordmaster-Reskin\] \[F\] Red Hair Long by Russel Clark](https://git.io/Jn3tS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cE)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Long%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Long%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOaz"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHV"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[F\] Red Hair Short by Russel Clark](./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark)
+## [\[Swordmaster-Reskin\] \[F\] Red Hair Short by Russel Clark](https://git.io/Jn3Tr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cY)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BF%5D%20Red%20Hair%20Short%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOal"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[M\] Bald +Staves](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20%2BStaves)
+## [\[Swordmaster-Reskin\] \[M\] Bald +Staves](https://git.io/Jn3kl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cv)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOd5"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb9"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[M\] Guy by Eldritch](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Eldritch/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Eldritch)
+## [\[Swordmaster-Reskin\] \[M\] Guy by Eldritch](https://git.io/Jn3kL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3En)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Eldritch/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Eldritch/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMy"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSS"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[M\] Joshua by SD9K Stance 1](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201)
+## [\[Swordmaster-Reskin\] \[M\] Joshua by SD9K Stance 1](https://git.io/Jn3kc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c4)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9e"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOD6"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Reskin\] \[M\] Joshua by SD9k Stance 2](./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202)
+## [\[Swordmaster-Reskin\] \[M\] Joshua by SD9k Stance 2](https://git.io/Jn3Th) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c2)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMA"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[F\] FE7if and BwdYeti](./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti)
+## [\[Swordmaster-Variant\] \[F\] FE7if and BwdYeti](https://git.io/Jn3U7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EJ)
 
-| <b>Sword (Astra Crit 1)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%201)/Sword.gif"/> | <b>Sword (Astra Crit 2)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20FE7if%20and%20BwdYeti/1.%20Sword%20(Astra%20Crit%202)/Sword.gif"/> |
+| <b>Sword (Astra Crit 1)</b><br/><img alt="Sword (Astra Crit 1)" src="https://git.io/JnOio"/> | <b>Sword (Astra Crit 2)</b><br/><img alt="Sword (Astra Crit 2)" src="https://git.io/JnOiU"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[F\] Fir by Redbean](./%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean)
+## [\[Swordmaster-Variant\] \[F\] Fir by Redbean](https://git.io/Jn3TQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cL)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Fir%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSr"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSu"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[F\] Marisa by Aruka](./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka)
+## [\[Swordmaster-Variant\] \[F\] Marisa by Aruka](https://git.io/Jn3Tn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EI)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Sword (Alt)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BF%5D%20Marisa%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiD"/> | <b>Sword (Alt)</b><br/><img alt="Sword (Alt)" src="https://git.io/JnODD"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOS5"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Denitaro by MatonMx](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx)
+## [\[Swordmaster-Variant\] \[M\] Denitaro by MatonMx](https://git.io/Jn3ku) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cJ)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Denitaro%20by%20MatonMx/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiw"/> |
 | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA)
+## [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](https://git.io/Jn3ty) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3W7)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword%20(Alt%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSK"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://git.io/JnOim"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOik"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Joshua by Aruka](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka)
+## [\[Swordmaster-Variant\] \[M\] Joshua by Aruka](https://git.io/Jn3UA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cz)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Aruka/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQE"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHw"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea)
+## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea](https://git.io/Jn3IJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ck)
 
-| <b>Sword (Backslash 1)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%201)/Sword.gif"/> | <b>Sword (Backslash 2)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%202)/Sword.gif"/> | <b>Sword Shaky 1</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20Shaky%201/Sword.gif"/> |
+| <b>Sword (Backslash 1)</b><br/><img alt="Sword (Backslash 1)" src="https://git.io/JnOzL"/> | <b>Sword (Backslash 2)</b><br/><img alt="Sword (Backslash 2)" src="https://git.io/JnOiO"/> | <b>Sword Shaky 1</b><br/><img alt="Sword Shaky 1" src="https://git.io/JnOSQ"/> |
 | :---: | :---: | :---: |
-| <b>Sword Shaky 2</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20Shaky%202/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword Shaky 2</b><br/><img alt="Sword Shaky 2" src="https://git.io/JnOHc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1F"/> |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea Repal](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal)
+## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea Repal](https://git.io/Jn3kV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cW)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword/Sword.gif"/> | <b>Sword (Shaky Critical)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Shaky%20Critical)/Sword.gif"/> | <b>Sword (Slash Crit)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Crit)/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOAv"/> | <b>Sword (Shaky Critical)</b><br/><img alt="Sword (Shaky Critical)" src="https://git.io/JnOAs"/> | <b>Sword (Slash Crit)</b><br/><img alt="Sword (Slash Crit)" src="https://git.io/JnO5r"/> |
 | :---: | :---: | :---: |
-| <b>Sword (Slash Shaky Crit)</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Shaky%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword (Slash Shaky Crit)</b><br/><img alt="Sword (Slash Shaky Crit)" src="https://git.io/JnOQg"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObl"/> |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Stefan by Greentea](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea)
+## [\[Swordmaster-Variant\] \[M\] Stefan by Greentea](https://git.io/Jn3kh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cB)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO6p"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOiq"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Stefan by Solusaeternus](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus)
+## [\[Swordmaster-Variant\] \[M\] Stefan by Solusaeternus](https://git.io/Jn3kF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CE)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Stefan%20by%20Solusaeternus/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOAX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnON7"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Trueblade by Cybaster](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster)
+## [\[Swordmaster-Variant\] \[M\] Trueblade by Cybaster](https://git.io/Jn3It) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cV)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSh"/> |
 | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Trueblade by Dinar87](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87)
+## [\[Swordmaster-Variant\] \[M\] Trueblade by Dinar87](https://git.io/Jn3Ti) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cr)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Dinar87/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFq"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQ4"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Swordmaster-Variant\] \[M\] Trueblade by Mycahel](./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel)
+## [\[Swordmaster-Variant\] \[M\] Trueblade by Mycahel](https://git.io/Jn3IG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cR)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Mycahel/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhY"/> |
 | :---: |
 
 

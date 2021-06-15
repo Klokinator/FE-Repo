@@ -1,10 +1,10 @@
-# [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BEliwood-Base%5D%20%5BM%5D%20T2%20Vanilla%20%2BWeapons)
+# [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/Jn3kt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30b)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Binding%20Blade)%20%7BMarlon0024%7D/Sword.gif"/> | <b>Sword (Durandal Beta)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Durandal%20Beta)/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> |
 | :---: | :---: | :---: |
-| <b>Sword (Durandal)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Durandal)/Sword.gif"/> | <b>Sword (Jojowood)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Jojowood)/Sword.gif"/> | <b>Sword (Slash)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Slash)/Sword.gif"/> |
-| <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> | <b>Lance {Spud}</b><br/><img alt="Lance animation" src="./2.%20Lance%20%7BSpud%7D/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> |
-| <b>Bow {Spud}</b><br/><img alt="Bow animation" src="./5.%20Bow%20%7BSpud%7D/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Sword (Jojowood)</b><br/><img alt="Sword (Jojowood)" src="https://git.io/JnO9K"/> | <b>Sword (Slash)</b><br/><img alt="Sword (Slash)" src="https://git.io/JnOy5"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> | <b>Lance {Spud}</b><br/><img alt="Lance {Spud}" src="https://git.io/JnOA1"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO7N"/> |
+| <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
 
 ## Credits
 

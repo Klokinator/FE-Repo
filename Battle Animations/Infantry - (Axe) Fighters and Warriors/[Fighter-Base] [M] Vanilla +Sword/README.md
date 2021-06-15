@@ -1,8 +1,8 @@
-# [\[Fighter-Base\] \[M\] Vanilla +Sword](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Fighters%20and%20Warriors%2F%5BFighter-Base%5D%20%5BM%5D%20Vanilla%20%2BSword)
+# [\[Fighter-Base\] \[M\] Vanilla +Sword](https://git.io/Jn3UO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zv)
 
-| <b>Sword (Hector) (Vilkalizer)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Hector)%20(Vilkalizer)/Sword.gif"/> | <b>Sword (Vilkalizer)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Vilkalizer)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> |
+| <b>Sword (Hector) (Vilkalizer)</b><br/><img alt="Sword (Hector) (Vilkalizer)" src="https://git.io/JnO0J"/> | <b>Sword (Vilkalizer)</b><br/><img alt="Sword (Vilkalizer)" src="https://git.io/JnORo"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOwu"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOBB"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOR1"/> |
 
 ## Credits
 

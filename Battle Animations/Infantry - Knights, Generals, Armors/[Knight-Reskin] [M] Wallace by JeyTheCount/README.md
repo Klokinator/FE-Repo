@@ -1,6 +1,6 @@
-# [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount)
+# [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](https://git.io/Jn3IH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cf)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOF8"/> |
 | :---: | :---: |
 
 ## Credits

@@ -18,9 +18,7 @@ const getHeading = (depth = 1) => '#'.repeat(depth)
  */
 const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
 
-const DOWNLOAD_BUTTON = "![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)"
-// const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download-red?style=social&logo=github)"
-// const DOWNLOAD_BUTTON = "(download)"
+const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)"
 
 /**
  * Given anim and weapon objects, generates the README text for an anim weapon folder.
@@ -33,15 +31,15 @@ const DOWNLOAD_BUTTON = "![Downlod](https://img.shields.io/badge/Download--red?s
 const makeWeaponReadmeText = ({anim, weapon, path}) => (
 	`# [${escapeParens(anim.name)}](./) [${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})
 
-## Credit
-
-${anim.credits}
-
 ## ${weapon.type}
 
 | Still | Animation |
 | :---: | :-------: |
-| ![${weapon.type} still](./${encodeURI(weapon.static)}) | ![${weapon.type} animation](./${encodeURI(weapon.active)}) |
+| ![${weapon.type} still](./${encodeURI(weapon.static)}) | ![${weapon.type}](./${encodeURI(weapon.active)}) |
+
+## Credit
+
+${anim.credits}
 `
 )
 
@@ -70,18 +68,14 @@ ${anim.credits}
 		showWeaponsHeading = true
 	}
 
-    let downloadButton = ""
-    if(path != undefined) {
-        // Shields-safe name: encodeURI(anim.name).replace("-", "--")
-        downloadButton = `[${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})`
-    }
+    let downloadButton = `[${DOWNLOAD_BUTTON}](${anim.downloadGitio || anim.downloadUri})`
 
-	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${encodeURI(`${currentDir})`)} ${downloadButton}
+	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${anim.gitio || anim.uri}) ${downloadButton}
 
 ${makeWeaponsContent({anim, currentDir})}
 
 ${creditsBlock}
-`)
+`) // HERE (header for animation section (a single unit and their moves))
 }
 
 const MAXIMUM_CELLS_PER_ROW = 3
@@ -130,8 +124,8 @@ const makeWeaponsContent = ({anim, currentDir}) => {
 
 const makeWeaponContent = ({weapon, currentDir}) => {
     let content = ""
-    content += `<b>${weapon.dir.replace(/^[0-9]+.\s+/, "")}</b><br/>`
-    content += `<img alt="${weapon.type} animation" src="${encodeURI(currentDir + (weapon.dir ? weapon.dir + "/" : "") + weapon.active)}"/>`
+    content += `<b>${weapon.name}</b><br/>`
+    content += `<img alt="${weapon.name}" src="${weapon.gifGitio || weapon.gifUri || currentDir + "/" + weapon.gifPath}"/>`
     return content
 }
 
@@ -147,7 +141,6 @@ const makeWeaponContent = ({weapon, currentDir}) => {
  * @returns {String}
  */
 const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth = 1) => {
-
 	const animContents = catAnims.map(anim => {
 		return makeAnimReadmeText({
             "anim": anim,
@@ -168,7 +161,7 @@ const makeCategoryReadmeText = (catAnims, catDir, currentDir='./', headingDepth 
 		`${getHeading(headingDepth)} [${catDir} Battle Animations](${encodeURI(`${currentDir}`)})
 
 ${contents}
-`)
+`) // HERE - entire categories of animations
 }
 
 /**

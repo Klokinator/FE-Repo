@@ -1,4 +1,10 @@
-# [\[WL Reskin\] \[F\] Vaida by Greentea](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2F%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea%2F8.%20Unarmed)
+# [\[WL Reskin\] \[F\] Vaida by Greentea](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2F%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea%2F8.%20Unarmed)
+
+## Unarmed
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Unarmed still](./Unarmed_000.png) | ![Unarmed](./Unarmed.gif) |
 
 ## Credit
 
@@ -7,9 +13,3 @@ Animation by Greentea.
 Scripting by RobertFPY.
 
 T1 Port of the T2 animations by Jey the Count.
-
-## Unarmed
-
-| Still | Animation |
-| :---: | :-------: |
-| ![Unarmed still](./Unarmed_000.png) | ![Unarmed animation](./Unarmed.gif) |

@@ -1,4 +1,10 @@
-# [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki%2F2.%20Lance)
+# [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki%2F2.%20Lance)
+
+## Lance
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Lance still](./Lance_000.png) | ![Lance](./Lance.gif) |
 
 ## Credit
 
@@ -21,9 +27,3 @@ This animation uses CUSTOM SOUND EFFECTS in order to function. To successfully i
 Song Table = 026D (FE8 JPN_SHYUTERz Sub PATCH) _ 20200724184104
 
 -----------------------------------------------------------------------------
-
-## Lance
-
-| Still | Animation |
-| :---: | :-------: |
-| ![Lance still](./Lance_000.png) | ![Lance animation](./Lance.gif) |

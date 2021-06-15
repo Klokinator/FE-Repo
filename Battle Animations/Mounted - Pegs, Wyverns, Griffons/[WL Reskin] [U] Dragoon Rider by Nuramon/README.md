@@ -1,9 +1,9 @@
-# [\[WL Reskin\] \[U\] Dragoon Rider by Nuramon](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2F%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon)
+# [\[WL Reskin\] \[U\] Dragoon Rider by Nuramon](https://git.io/Jn3O2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z1)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Sword (No Bounce)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(No%20Bounce)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOoq"/> | <b>Sword (No Bounce)</b><br/><img alt="Sword (No Bounce)" src="https://git.io/JnOzd"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOr1"/> |
 | :---: | :---: | :---: |
-| <b>Lance (No Bounce)</b><br/><img alt="Lance animation" src="./2.%20Lance%20(No%20Bounce)/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Axe (No Bounce)</b><br/><img alt="Axe animation" src="./3.%20Axe%20(No%20Bounce)/Axe.gif"/> |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./6.%20Unarmed/Unarmed.gif"/> |
+| <b>Lance (No Bounce)</b><br/><img alt="Lance (No Bounce)" src="https://git.io/JnOzN"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOz6"/> | <b>Axe (No Bounce)</b><br/><img alt="Axe (No Bounce)" src="https://git.io/JnOzK"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOom"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOKy"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKg"/> |
 
 ## Credits
 

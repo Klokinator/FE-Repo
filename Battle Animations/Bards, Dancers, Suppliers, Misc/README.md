@@ -1,223 +1,223 @@
 # [Bards, Dancers, Suppliers, Misc Battle Animations](./)
 
-## [\[Bard-Base\] \[M\] Elffin +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BBard-Base%5D%20%5BM%5D%20Elffin%20%2BWeapons)
+## [\[Bard-Base\] \[M\] Elffin +Weapons](https://git.io/Jn3q7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3B5)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh/Refresh.gif"/> | <b>Refresh (FE6)(Bird Sfx)</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE6)(Bird%20Sfx)/Refresh.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyg"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOFV"/> | <b>Refresh (FE6)(Bird Sfx)</b><br/><img alt="Refresh (FE6)(Bird Sfx)" src="https://git.io/JnONM"/> |
 | :---: | :---: | :---: |
-| <b>Refresh (FE7-8)</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE7-8)/Refresh.gif"/> |
+| <b>Refresh (FE7-8)</b><br/><img alt="Refresh (FE7-8)" src="https://git.io/JnO5e"/> |
 
 
 
 
-## [\[Bard-Base\] \[M\] Elffin Fancy +Magic](./%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20%2BMagic)
+## [\[Bard-Base\] \[M\] Elffin Fancy +Magic](https://git.io/Jn3IR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rs)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/6.%20Magic/Magic.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20+Magic/8.%20Refresh/Refresh.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO5W"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnO5c"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Bard-Base\] \[M\] Nils +Weapons](./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BBard-Base%5D%20%5BM%5D%20Nils%20%2BWeapons)
+## [\[Bard-Base\] \[M\] Nils +Weapons](https://git.io/Jn3Lz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RZ)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Staff (+Magic)</b><br/><img alt="Staff animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/7.%20Staff%20(+Magic)/Staff.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Dragonstone/Dragonstone.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnON4"/> | <b>Staff (+Magic)</b><br/><img alt="Staff (+Magic)" src="https://git.io/JnOQq"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnONJ"/> |
 | :---: | :---: | :---: |
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Base%5D%20%5BM%5D%20Nils%20+Weapons/8.%20Refresh/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOQf"/> |
 
 
 
 
-## [\[Bard-Reskin\] \[F\] Nils Generic](./%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic)
+## [\[Bard-Reskin\] \[F\] Nils Generic](https://git.io/Jn3ko) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G6)
 
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Reskin%5D%20%5BF%5D%20Nils%20Generic/8.%20Refresh/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOyi"/> |
 | :---: |
 
 
 
 
-## [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](./%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024)
+## [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](https://git.io/Jn3qb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RY)
 
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BBard-Style%5D%20%5BM%5D%20Elffin%20Sonneteer%20by%20Marlon0024/8.%20Refresh/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOHB"/> |
 | :---: |
 
 
 
 
-## [\[Bard-Type\] \[F\] Elffin Magic-Only](./%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only)
+## [\[Bard-Type\] \[F\] Elffin Magic-Only](https://git.io/Jn3th) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30n)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BBard-Type%5D%20%5BF%5D%20Elffin%20Magic-Only/6.%20Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO5L"/> |
 | :---: |
 
 
 
 
-## [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20%2BFE7-8%2C%20Staff)
+## [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](https://git.io/Jn3qd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EV)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh/Refresh.gif"/> | <b>Refresh (Fixed SFX)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Fixed%20SFX)/Refresh.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOHo"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnO5S"/> | <b>Refresh (Fixed SFX)</b><br/><img alt="Refresh (Fixed SFX)" src="https://git.io/JnOdR"/> |
 | :---: | :---: | :---: |
-| <b>Refresh (Heart FE8)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Heart%20FE8)/Refresh.gif"/> |
+| <b>Refresh (Heart FE8)</b><br/><img alt="Refresh (Heart FE8)" src="https://git.io/JnOyy"/> |
 
 
 
 
-## [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20%2BWeapons)
+## [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](https://git.io/Jn3IV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gb)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/8.%20Dragonstone/Dragonstone.gif"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO9o"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFr"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO9r"/> |
 | :---: | :---: | :---: |
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20+Weapons/8.%20Refresh/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnO7J"/> |
 
 
 
 
-## [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20%2BWeapons)
+## [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](https://git.io/Jn3k7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G9)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh/Refresh.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO55"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5b"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOQb"/> |
 | :---: | :---: | :---: |
-| <b>Refresh (FE7)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(FE7)/Refresh.gif"/> | <b>Refresh (Fixed)</b><br/><img alt="Refresh animation" src="./%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(Fixed)/Refresh.gif"/> |
+| <b>Refresh (FE7)</b><br/><img alt="Refresh (FE7)" src="https://git.io/JnO7i"/> | <b>Refresh (Fixed)</b><br/><img alt="Refresh (Fixed)" src="https://git.io/JnObR"/> |
 
 
 
 
-## [\[Dancer-Reskin\] \[F\] FE5 Port by Shtick](./%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick)
+## [\[Dancer-Reskin\] \[F\] FE5 Port by Shtick](https://git.io/Jn3me) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RG)
 
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/8.%20Refresh/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnODg"/> |
 | :---: |
 
 
 
 
-## [\[Dancer-Reskin\] \[F\] Tethys Short-Haired](./%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired)
+## [\[Dancer-Reskin\] \[F\] Tethys Short-Haired](https://git.io/Jn3mI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34s)
 
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Reskin%5D%20%5BF%5D%20Tethys%20Short-Haired/8.%20Refresh/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOya"/> |
 | :---: |
 
 
 
 
-## [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95](./%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95)
+## [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95](https://git.io/Jn3kS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rk)
 
-| <b>Refresh</b><br/><img alt="Refresh animation" src="./%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/8.%20Refresh/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOy2"/> |
 | :---: |
 
 
 
 
-## [\[Misc-Supplier\] \[F\] Supplier by JonoTheRed](./%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed)
+## [\[Misc-Supplier\] \[F\] Supplier by JonoTheRed](https://git.io/Jn3mn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3R6)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMisc-Supplier%5D%20%5BF%5D%20Supplier%20by%20JonoTheRed/7.%20Staff/Staff.gif"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOQy"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOHe"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Misc-Supplier\] \[M\] Supplier](./%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc-Supplier%5D%20%5BM%5D%20Supplier)
+## [\[Misc-Supplier\] \[M\] Supplier](https://git.io/Jn3qH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gy)
 
-| <b>Staff</b><br/><img alt="Staff animation" src="./%5BMisc-Supplier%5D%20%5BM%5D%20Supplier/7.%20Staff/Staff.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO57"/> |
 | :---: |
 
 
 
 
-## [\[Misc-Supply\] \[U\] T0 Merlinus Tent Vanilla](./%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla)
+## [\[Misc-Supply\] \[U\] T0 Merlinus Tent Vanilla](https://git.io/Jn3vV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38c)
 
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T0%20Merlinus%20Tent%20Vanilla/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0s"/> |
 | :---: |
 
 
 
 
-## [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](./%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20%2BWeapons)
+## [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](https://git.io/Jn3I2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gw)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO94"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Misc-Supply\] \[U\] T2 Merlinus Hot Air Ballon](./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon)
+## [\[Misc-Supply\] \[U\] T2 Merlinus Hot Air Ballon](https://git.io/Jn3q5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Es)
 
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Checkered)</b><br/><img alt="Unarmed animation" src="./%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed%20(Checkered)/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHf"/> | <b>Unarmed (Checkered)</b><br/><img alt="Unarmed (Checkered)" src="https://git.io/JnOHM"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Misc\] \[M\] Rifleman by Dolkar](./%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar)
+## [\[Misc\] \[M\] Rifleman by Dolkar](https://git.io/Jn3f4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bb)
 
-| <b>Bow (Gun)</b><br/><img alt="Bow animation" src="./%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow.gif"/> |
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://git.io/JnOz0"/> |
 | :---: |
 
 
 
 
-## [\[Misc\] \[U\] Chicken by Eldritch](./%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch)
+## [\[Misc\] \[U\] Chicken by Eldritch](https://git.io/Jn3fe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RP)
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BMisc%5D%20%5BU%5D%20Chicken%20by%20Eldritch/8.%20Monster/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOzb"/> |
 | :---: |
 
 
 
 
-## [\[Misc\] \[U\] Sandbag by SHYUTERz](./%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz)
+## [\[Misc\] \[U\] Sandbag by SHYUTERz](https://git.io/Jn3vh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3B9)
 
-| <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgk"/> |
 | :---: |
 
 
 
 
-## [\[Non-FE\] \[F\] Metroid - Samus by SurfingKyogre](./%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre)
+## [\[Non-FE\] \[F\] Metroid - Samus by SurfingKyogre](https://git.io/Jn3Ix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rz)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./%5BNon-FE%5D%20%5BF%5D%20Metroid%20-%20Samus%20by%20SurfingKyogre/6.%20Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO9B"/> |
 | :---: |
 
 
 
 
-## [\[Non-FE\] \[F\] Yggdra Yuril Artwaltz by Aruka](./%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka)
+## [\[Non-FE\] \[F\] Yggdra Yuril Artwaltz by Aruka](https://git.io/Jn3ka) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BK)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1Z"/> |
 | :---: |
 
 
 
 
-## [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](./%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre)
+## [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](https://git.io/Jn3qx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ra)
 
-| <b>Monster</b><br/><img alt="Monster animation" src="./%5BNon-FE%5D%20%5BM%5D%20Jojo%20BA%20-%20Giorno%20by%20SurfingKyogre/8.%20Monster/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO9l"/> |
 | :---: |
 
 
 
 
-## [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](./%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0)
+## [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](https://git.io/Jn3k6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34f)
 
-| <b>Axe</b><br/><img alt="Axe animation" src="./%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe.gif"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOyQ"/> |
 | :---: |
 
 
 
 
-## [\[Non-FE\] \[M\] Mario by Volke0](./%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0)
+## [\[Non-FE\] \[M\] Mario by Volke0](https://git.io/Jn3mT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34T)
 
-| <b>Lance (Hammer)</b><br/><img alt="Lance animation" src="./%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance.gif"/> |
+| <b>Lance (Hammer)</b><br/><img alt="Lance (Hammer)" src="https://git.io/JnO1r"/> |
 | :---: |
 
 
 
 
-## [\[Non-FE\] \[M\] Salamander Rider by Aruka](./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka)
+## [\[Non-FE\] \[M\] Salamander Rider by Aruka](https://git.io/Jn3IL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn386)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHP"/> |
 | :---: |
 
 
 
 
-## [\[Sword Custom\] \[M\] Squire by Russel Clark](./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%5C%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark)
+## [\[Sword Custom\] \[M\] Squire by Russel Clark](https://git.io/Jn3qj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lP)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Sword (Updated)</b><br/><img alt="Sword animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyU"/> | <b>Sword (Updated)</b><br/><img alt="Sword (Updated)" src="https://git.io/JnOyT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSI"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed (Updated)</b><br/><img alt="Unarmed animation" src="./%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif"/> |
+| <b>Unarmed (Updated)</b><br/><img alt="Unarmed (Updated)" src="https://git.io/JnODd"/> |
 
 
 

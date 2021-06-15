@@ -1,11 +1,11 @@
-# [\[Non-FE\] \[U\] Salamander by Memae](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BNon-FE%5D%20%5BU%5D%20Salamander%20by%20Memae%2F8.%20Unarmed)
-
-## Credit
-
-Made by Memae.
+# [\[Non-FE\] \[U\] Salamander by Memae](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BNon-FE%5D%20%5BU%5D%20Salamander%20by%20Memae%2F8.%20Unarmed)
 
 ## Unarmed
 
 | Still | Animation |
 | :---: | :-------: |
-| ![Unarmed still](./Unarmed_000.png) | ![Unarmed animation](./Unarmed.gif) |
+| ![Unarmed still](./Unarmed_000.png) | ![Unarmed](./Unarmed.gif) |
+
+## Credit
+
+Made by Memae.

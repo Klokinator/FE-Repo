@@ -1,6 +1,6 @@
-# [\[Berserker-Custom\] \[U\] Bushido Doogzerker](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Custom%5D%20%5BU%5D%20Bushido%20Doogzerker)
+# [\[Berserker-Custom\] \[U\] Bushido Doogzerker](https://git.io/Jn3fA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZT)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOED"/> |
 | :---: |
 
 ## Credits

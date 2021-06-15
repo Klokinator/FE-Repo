@@ -1,6 +1,6 @@
-# [\[Ballista\] \[M\] Wolt by St Jack](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Bow)%20Snipers%20and%20Ballistae%2F%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack)
+# [\[Ballista\] \[M\] Wolt by St Jack](https://git.io/Jn3TG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38b)
 
-| <b>Bow (Ballista)</b><br/><img alt="Bow animation" src="./5.%20Bow%20(Ballista)/Bow.gif"/> |
+| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOM1"/> |
 | :---: |
 
 ## Credits

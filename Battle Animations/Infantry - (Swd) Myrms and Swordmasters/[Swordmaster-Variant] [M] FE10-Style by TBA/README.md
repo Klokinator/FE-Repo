@@ -1,6 +1,6 @@
-# [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Myrms%20and%20Swordmasters%2F%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA)
+# [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](https://git.io/Jn3ty) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3W7)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Alt%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSK"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://git.io/JnOim"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOik"/> |
 | :---: | :---: | :---: |
 
 ## Credits

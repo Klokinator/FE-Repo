@@ -1,6 +1,6 @@
-# [\[Mage-Custom1\] \[F\] Gaiden-Style by Gamma](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BMage-Custom1%5D%20%5BF%5D%20Gaiden-Style%20by%20Gamma)
+# [\[Mage-Custom1\] \[F\] Gaiden-Style by Gamma](https://git.io/Jn3k1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zg)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXk"/> |
 | :---: |
 
 ## Credits

@@ -1,6 +1,6 @@
-# [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Fighters%20and%20Warriors%2F%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only)
+# [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](https://git.io/Jn3fH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3C3)
 
-| <b>Bow</b><br/><img alt="Bow animation" src="./5.%20Bow/Bow.gif"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOuE"/> |
 | :---: |
 
 ## Credits

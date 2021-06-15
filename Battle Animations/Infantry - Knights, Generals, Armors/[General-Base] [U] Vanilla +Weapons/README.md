@@ -1,10 +1,10 @@
-# [\[General-Base\] \[U\] Vanilla +Weapons](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BGeneral-Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
+# [\[General-Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3kP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CU)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Sword (Greatsword) {JPN}</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Greatsword)%20%7BJPN%7D/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2K"/> | <b>Sword (Greatsword) {JPN}</b><br/><img alt="Sword (Greatsword) {JPN}" src="https://git.io/JnOxa"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOp8"/> |
 | :---: | :---: | :---: |
-| <b>Lance (No Chain)</b><br/><img alt="Lance animation" src="./2.%20Lance%20(No%20Chain)/Lance.gif"/> | <b>Axe (Chain)</b><br/><img alt="Axe animation" src="./3.%20Axe%20(Chain)/Axe.gif"/> | <b>Axe (Swing) {TBA}</b><br/><img alt="Axe animation" src="./3.%20Axe%20(Swing)%20%7BTBA%7D/Axe.gif"/> |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Bow (Cannon) {GabrielKnight}</b><br/><img alt="Bow animation" src="./5.%20Bow%20(Cannon)%20%7BGabrielKnight%7D/Bow.gif"/> | <b>Bow {TBA}</b><br/><img alt="Bow animation" src="./5.%20Bow%20%7BTBA%7D/Bow.gif"/> |
-| <b>Magic {DerTheVaporeon}</b><br/><img alt="Magic animation" src="./6.%20Magic%20%7BDerTheVaporeon%7D/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Lance (No Chain)</b><br/><img alt="Lance (No Chain)" src="https://git.io/JnO99"/> | <b>Axe (Chain)</b><br/><img alt="Axe (Chain)" src="https://git.io/JnO2o"/> | <b>Axe (Swing) {TBA}</b><br/><img alt="Axe (Swing) {TBA}" src="https://git.io/JnOoo"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOKx"/> | <b>Bow (Cannon) {GabrielKnight}</b><br/><img alt="Bow (Cannon) {GabrielKnight}" src="https://git.io/JnOor"/> | <b>Bow {TBA}</b><br/><img alt="Bow {TBA}" src="https://git.io/JnO7u"/> |
+| <b>Magic {DerTheVaporeon}</b><br/><img alt="Magic {DerTheVaporeon}" src="https://git.io/JnO9t"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQw"/> |
 
 ## Credits
 

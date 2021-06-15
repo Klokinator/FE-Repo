@@ -1,6 +1,6 @@
-# [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Thieves%2C%20Rogues%2C%20Assassins%2F%5BRogue-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20eCut%20%2BKnife)
+# [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife](https://git.io/Jn3t6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cu)
 
-| <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOST"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOwG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOiS"/> |
 | :---: | :---: | :---: |
 
 ## Credits

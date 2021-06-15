@@ -1,6 +1,6 @@
-# [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka v2 by Seal](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2F%5BValkyrie-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20Aruka%20v2%20by%20Seal)
+# [\[Valkyrie-Reskin\] \[F\] L'Arachel by Aruka v2 by Seal](https://git.io/Jn33U) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bu)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> | <b>Staff (Fixed)</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Fixed)/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOdo"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOXK"/> | <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://git.io/JnO1c"/> |
 | :---: | :---: | :---: |
 
 ## Credits

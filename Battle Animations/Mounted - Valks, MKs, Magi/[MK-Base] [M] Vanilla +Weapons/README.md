@@ -1,8 +1,8 @@
-# [\[MK-Base\] \[M\] Vanilla +Weapons](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2F%5BMK-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons)
+# [\[MK-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3OD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn304)
 
-| <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Rapidslash-crit)/Sword.gif"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Thunder-crit)/Sword.gif"/> | <b>Lance {Teraspark}</b><br/><img alt="Lance animation" src="./2.%20Lance%20%7BTeraspark%7D/Lance.gif"/> |
+| <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://git.io/JnOQS"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://git.io/JnOXU"/> | <b>Lance {Teraspark}</b><br/><img alt="Lance {Teraspark}" src="https://git.io/JnOX1"/> |
 | :---: | :---: | :---: |
-| <b>Magic (+FE7 Compatible)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(+FE7%20Compatible)/Magic.gif"/> | <b>Magic (Sword)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Sword)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> |
+| <b>Magic (+FE7 Compatible)</b><br/><img alt="Magic (+FE7 Compatible)" src="https://git.io/JnOdW"/> | <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://git.io/JnOHJ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5B"/> |
 
 ## Credits
 

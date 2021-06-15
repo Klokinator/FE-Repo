@@ -1,10 +1,10 @@
-# [\[T3 Dark Druid\] \[M\] Nergal +Fixes](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20%2BFixes)
+# [\[T3 Dark Druid\] \[M\] Nergal +Fixes](https://git.io/Jn3qn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CG)
 
-| <b>Magic (Dark)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Dark)/Magic.gif"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FE8%20Adv)/Magic.gif"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FE8%20Basic)/Magic.gif"/> |
+| <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://git.io/JnOdH"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic (FE8 Adv)" src="https://git.io/JnOdM"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic (FE8 Basic)" src="https://git.io/JnO7Q"/> |
 | :---: | :---: | :---: |
-| <b>Magic (FE8 JP Dark)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif"/> | <b>Magic (FE8 JP Light)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FE8%20JP%20Light)/Magic.gif"/> | <b>Magic (Freeze Fix)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Freeze%20Fix)/Magic.gif"/> |
-| <b>Magic (Light)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Light)/Magic.gif"/> | <b>Magic (Vanilla Fixed)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Vanilla%20Fixed)/Magic.gif"/> | <b>Magic (Vanilla)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Vanilla)/Magic.gif"/> |
-| <b>Staff (Fixed)</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff (Fixed) (Athos-Style)</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif"/> |
+| <b>Magic (FE8 JP Dark)</b><br/><img alt="Magic (FE8 JP Dark)" src="https://git.io/JnODS"/> | <b>Magic (FE8 JP Light)</b><br/><img alt="Magic (FE8 JP Light)" src="https://git.io/JnO1j"/> | <b>Magic (Freeze Fix)</b><br/><img alt="Magic (Freeze Fix)" src="https://git.io/JnODF"/> |
+| <b>Magic (Light)</b><br/><img alt="Magic (Light)" src="https://git.io/JnOyc"/> | <b>Magic (Vanilla Fixed)</b><br/><img alt="Magic (Vanilla Fixed)" src="https://git.io/JnOyu"/> | <b>Magic (Vanilla)</b><br/><img alt="Magic (Vanilla)" src="https://git.io/JnODA"/> |
+| <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://git.io/JnONi"/> | <b>Staff (Fixed) (Athos-Style)</b><br/><img alt="Staff (Fixed) (Athos-Style)" src="https://git.io/JnOy0"/> |
 
 ## Credits
 

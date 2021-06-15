@@ -508,17 +508,17 @@
 
 
 
-### [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](https://git.io/Jn3L4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rw)
+### [\[Pirate-Custom\] \[M\] DS-Style by Der](https://git.io/Jn3fo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34G)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2q"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgi"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOga"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOay"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaJ"/> |
 | :---: | :---: | :---: |
 
 
 
 
-### [\[Pirate-Custom\] \[M\] DS-Style by Der](https://git.io/Jn3fo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34G)
+### [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](https://git.io/Jn3L4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rw)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOga"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOay"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaJ"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2q"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgi"/> |
 | :---: | :---: | :---: |
 
 
@@ -754,6 +754,15 @@
 
 
 
+### [\[Warrior-Reskin\] \[F\] Repal by Temp](https://git.io/Jn3JY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38Q)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOaD"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO0u"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0l"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOE4"/> |
+
+
+
+
 ### [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](https://git.io/Jn3fl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38d)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2p"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOag"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0B"/> |
@@ -768,15 +777,6 @@
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOgF"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOuo"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO2k"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgX"/> |
-
-
-
-
-### [\[Warrior-Reskin\] \[F\] Repal by Temp](https://git.io/Jn3JY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38Q)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOaD"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO0u"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0l"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOE4"/> |
 
 
 
@@ -1120,14 +1120,6 @@
 
 
 
-### [\[Ballista\] \[F\] Louise Caped by Greentea](https://git.io/Jn3Jc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zn)
-
-| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOAh"/> |
-| :---: |
-
-
-
-
 ### [\[Ballista\] \[F\] Louise by St Jack](https://git.io/Jn3Jz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38j)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOpY"/> |
@@ -1136,25 +1128,17 @@
 
 
 
+### [\[Ballista\] \[F\] Louise Caped by Greentea](https://git.io/Jn3Jc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zn)
+
+| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOAh"/> |
+| :---: |
+
+
+
+
 ### [\[Ballista\] \[F\] Neimi by Seal](https://git.io/Jn3JI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34a)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxt"/> |
-| :---: |
-
-
-
-
-### [\[Ballista\] \[F\] Rebecca Catapult](https://git.io/Jn3Jb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn345)
-
-| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOxq"/> |
-| :---: |
-
-
-
-
-### [\[Ballista\] \[F\] Rebecca Catapult Repal](https://git.io/Jn3J5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E9)
-
-| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOFl"/> |
 | :---: |
 
 
@@ -1171,6 +1155,22 @@
 ### [\[Ballista\] \[F\] Rebecca by St Jack](https://git.io/Jn3Ux) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38A)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnO9f"/> |
+| :---: |
+
+
+
+
+### [\[Ballista\] \[F\] Rebecca Catapult](https://git.io/Jn3Jb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn345)
+
+| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOxq"/> |
+| :---: |
+
+
+
+
+### [\[Ballista\] \[F\] Rebecca Catapult Repal](https://git.io/Jn3J5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E9)
+
+| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOFl"/> |
 | :---: |
 
 
@@ -1232,6 +1232,14 @@
 
 
 
+### [\[Ballista\] \[M\] Wolt by St Jack](https://git.io/Jn3TG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38b)
+
+| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOM1"/> |
+| :---: |
+
+
+
+
 ### [\[Ballista\] \[M\] Wolt Catapult](https://git.io/Jn3Jh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ru)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOSP"/> |
@@ -1243,14 +1251,6 @@
 ### [\[Ballista\] \[M\] Wolt Catapult Repal](https://git.io/Jn3JA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zf)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOSL"/> |
-| :---: |
-
-
-
-
-### [\[Ballista\] \[M\] Wolt by St Jack](https://git.io/Jn3TG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38b)
-
-| <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOM1"/> |
 | :---: |
 
 
@@ -1452,17 +1452,17 @@
 <details>
 <summary>Click to expand!</summary>
 
-### [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://git.io/Jn3Ut) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38t)
+### [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](https://git.io/Jn3Un) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zq)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOie"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrQ"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOQI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwx"/> |
 | :---: | :---: |
 
 
 
 
-### [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](https://git.io/Jn3Un) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zq)
+### [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://git.io/Jn3Ut) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38t)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOQI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwx"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOie"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrQ"/> |
 | :---: | :---: |
 
 
@@ -1824,20 +1824,20 @@
 
 
 
-### [\[Hero-Variant\] \[M\] Armored Gerik by Nuramon](https://git.io/Jn3tJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30j)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9A"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOiZ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOi4"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOiI"/> |
-
-
-
-
 ### [\[Hero-Variant\] \[M\] Armored by Nuramon](https://git.io/Jn3t8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lB)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiy"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO9Q"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO9M"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe (Spin)</b><br/><img alt="Handaxe (Spin)" src="https://git.io/JnOHv"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSv"/> |
+
+
+
+
+### [\[Hero-Variant\] \[M\] Armored Gerik by Nuramon](https://git.io/Jn3tJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30j)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9A"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOiZ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOi4"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOiI"/> |
 
 
 
@@ -2596,19 +2596,19 @@
 
 
 
+### [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](https://git.io/Jn3TA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cK)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrq"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOAd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKl"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](https://git.io/Jn3T5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cg)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOig"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOAN"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnObz"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOx3"/> |
-
-
-
-
-### [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](https://git.io/Jn3TA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cK)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrq"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOAd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKl"/> |
-| :---: | :---: | :---: |
 
 
 
@@ -2702,6 +2702,14 @@
 
 
 
+### [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](https://git.io/Jn3t1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cy)
+
+| <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnO7P"/> |
+| :---: |
+
+
+
+
 ### [\[Thief-Base\] \[M\] Matthew Repal by Eldritch](https://git.io/Jn3T7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bd)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOD1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQH"/> |
@@ -2714,14 +2722,6 @@
 
 | <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnO5z"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb4"/> |
 | :---: | :---: | :---: |
-
-
-
-
-### [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](https://git.io/Jn3t1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cy)
-
-| <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnO7P"/> |
-| :---: |
 
 
 
@@ -2947,18 +2947,18 @@
 
 
 
-### [\[Knight-Custom\] \[U\] DS-Style Repal by MK404](https://git.io/Jn3vz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34C)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOux"/> |
-| :---: |
-
-
-
-
 ### [\[Knight-Custom\] \[U\] DS-Style by MK404](https://git.io/Jn3vI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E0)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOuF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVz"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Knight-Custom\] \[U\] DS-Style Repal by MK404](https://git.io/Jn3vz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34C)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOux"/> |
+| :---: |
 
 
 
@@ -3201,20 +3201,20 @@
 
 
 
-### [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](https://git.io/Jn3Uj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nb)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7v"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnObS"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JnOxG"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe (Spin)</b><br/><img alt="Handaxe (Spin)" src="https://git.io/JnOHX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHF"/> |
-
-
-
-
 ### [\[Hector-Custom\] \[M\] T2 Brave Hector by Nuramon](https://git.io/Jn3fG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34B)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnORi"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnORP"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnORg"/> |
 | :---: | :---: | :---: |
 | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JnOwW"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO4J"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4f"/> |
+
+
+
+
+### [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](https://git.io/Jn3Uj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nb)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7v"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnObS"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JnOxG"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe (Spin)</b><br/><img alt="Handaxe (Spin)" src="https://git.io/JnOHX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHF"/> |
 
 
 
@@ -4146,17 +4146,17 @@
 
 
 
-### [\[Monk-Base\] \[M\] Repal by Eldritch](https://git.io/Jn3mO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ca)
+### [\[Monk-Base\] \[M\] Repal by eCut](https://git.io/Jn3fD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOo9"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO24"/> |
 | :---: |
 
 
 
 
-### [\[Monk-Base\] \[M\] Repal by eCut](https://git.io/Jn3fD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GA)
+### [\[Monk-Base\] \[M\] Repal by Eldritch](https://git.io/Jn3mO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ca)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO24"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOo9"/> |
 | :---: |
 
 
@@ -4243,14 +4243,6 @@
 
 
 
-### [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](https://git.io/Jn3fg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3R3)
-
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOau"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0m"/> |
-| :---: | :---: |
-
-
-
-
 ### [\[Priest-Reskin\] \[M\] Bald by Vilkalizer](https://git.io/Jn3vr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rl)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO0t"/> |
@@ -4259,9 +4251,9 @@
 
 
 
-### [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](https://git.io/Jn3v9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E3)
+### [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](https://git.io/Jn3fg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3R3)
 
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0h"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOau"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0m"/> |
 | :---: | :---: |
 
 
@@ -4270,6 +4262,14 @@
 ### [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer](https://git.io/Jn3kv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EG)
 
 | <b>Staff (Buff Generic Priest)</b><br/><img alt="Staff (Buff Generic Priest)" src="https://git.io/JnOR5"/> | <b>Unarmed (Buff Generic Priest)</b><br/><img alt="Unarmed (Buff Generic Priest)" src="https://git.io/JnOE9"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](https://git.io/Jn3v9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E3)
+
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0h"/> |
 | :---: | :---: |
 
 
@@ -4484,17 +4484,17 @@
 
 
 
-### [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](https://git.io/Jn3LO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zt)
+### [\[Mage-Custom1\] \[F\] Light Mage by L95](https://git.io/Jn3If) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z8)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO5t"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXW"/> |
 | :---: |
 
 
 
 
-### [\[Mage-Custom1\] \[F\] Light Mage by L95](https://git.io/Jn3If) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z8)
+### [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](https://git.io/Jn3LO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zt)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXW"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO5t"/> |
 | :---: |
 
 
@@ -4564,17 +4564,17 @@
 
 
 
-### [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](https://git.io/Jn3qv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZY)
+### [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight](https://git.io/Jn3qQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uU)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXS"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXE"/> |
 | :---: |
 
 
 
 
-### [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight](https://git.io/Jn3qQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uU)
+### [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](https://git.io/Jn3qv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZY)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXE"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXS"/> |
 | :---: |
 
 
@@ -4919,18 +4919,18 @@
 
 
 
-### [\[Custom Oracle\] \[F\] Oracle Repal +Staff](https://git.io/Jn3IA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EW)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyb"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOyt"/> |
-| :---: | :---: |
-
-
-
-
 ### [\[Custom Oracle\] \[F\] Oracle by GabrielKnight](https://git.io/Jn3IP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WU)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnONw"/> |
 | :---: |
+
+
+
+
+### [\[Custom Oracle\] \[F\] Oracle Repal +Staff](https://git.io/Jn3IA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EW)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyb"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOyt"/> |
+| :---: | :---: |
 
 
 
@@ -5303,6 +5303,14 @@
 
 
 
+### [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](https://git.io/Jn3L7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30c)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPS"/> |
+| :---: |
+
+
+
+
 ### [\[Wolf-Variant\] \[F\] Kitsune Ninetails by ZoramineFae](https://git.io/Jn3qA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lD)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPv"/> |
@@ -5311,9 +5319,9 @@
 
 
 
-### [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](https://git.io/Jn3L7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30c)
+### [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](https://git.io/Jn3qF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30O)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPS"/> |
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPO"/> |
 | :---: |
 
 
@@ -5330,14 +5338,6 @@
 ### [\[Wolf-Variant\] \[M\] Kitsune Repal](https://git.io/Jn3qK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38R)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnODt"/> |
-| :---: |
-
-
-
-
-### [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](https://git.io/Jn3qF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30O)
-
-| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPO"/> |
 | :---: |
 
 
@@ -6091,6 +6091,15 @@
 
 
 
+### [\[Paladin-Variant\] \[M\] Sain by Greentea](https://git.io/Jn3mP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cb)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1D"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnONU"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO1E"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOQX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMJ"/> |
+
+
+
+
 ### [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](https://git.io/Jn3m6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nm)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOD4"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnODv"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnODf"/> |
@@ -6106,15 +6115,6 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7d"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOgl"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOoh"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOM0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMQ"/> |
-
-
-
-
-### [\[Paladin-Variant\] \[M\] Sain by Greentea](https://git.io/Jn3mP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cb)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1D"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnONU"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO1E"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOQX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMJ"/> |
 
 
 
@@ -6217,20 +6217,20 @@
 
 
 
-### [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](https://git.io/Jn3m5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nc)
-
-| <b>Sword (Possibly borked)</b><br/><img alt="Sword (Possibly borked)" src="https://git.io/JnOBP"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO6T"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO4Q"/> |
-| :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO4F"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBK"/> |
-
-
-
-
 ### [\[Griffon\] \[U\] Griffon v1 by Blue Druid](https://git.io/Jn3vN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34k)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOE7"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOEE"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOEX"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOE8"/> |
+
+
+
+
+### [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](https://git.io/Jn3m5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nc)
+
+| <b>Sword (Possibly borked)</b><br/><img alt="Sword (Possibly borked)" src="https://git.io/JnOBP"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO6T"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO4Q"/> |
+| :---: | :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO4F"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBK"/> |
 
 
 
@@ -6251,18 +6251,18 @@
 
 
 
-### [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](https://git.io/Jn3Ov) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nR)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOBs"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBc"/> |
-| :---: | :---: |
-
-
-
-
 ### [\[Peg Custom\] \[F\] Harrier by Ayr](https://git.io/Jn3fi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34r)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOuL"/> |
 | :---: |
+
+
+
+
+### [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](https://git.io/Jn3Ov) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nR)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOBs"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBc"/> |
+| :---: | :---: |
 
 
 
@@ -6531,20 +6531,20 @@
 
 
 
-### [\[WL Reskin\] \[M\] Heath Generic by Greentea](https://git.io/Jn3Ou) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nV)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO6f"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzW"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOBA"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKj"/> |
-
-
-
-
 ### [\[WL Reskin\] \[M\] Heath by Greentea](https://git.io/Jn3Og) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZP)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOoE"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOoC"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOV8"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOzP"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwL"/> |
+
+
+
+
+### [\[WL Reskin\] \[M\] Heath Generic by Greentea](https://git.io/Jn3Ou) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nV)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO6f"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzW"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOBA"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKj"/> |
 
 
 
@@ -6717,17 +6717,17 @@
 
 
 
-### [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](https://git.io/Jn3vP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bw)
+### [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](https://git.io/Jn3vu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38L)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEt"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEI"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEv"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEG"/> |
 | :---: | :---: |
 
 
 
 
-### [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](https://git.io/Jn3vu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38L)
+### [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](https://git.io/Jn3vP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bw)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEv"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEG"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEt"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEI"/> |
 | :---: | :---: |
 
 
@@ -6775,17 +6775,17 @@
 
 
 
-### [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](https://git.io/Jn3OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eu)
+### [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](https://git.io/Jn3vw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lK)
 
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORL"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORW"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEH"/> |
 | :---: | :---: |
 
 
 
 
-### [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](https://git.io/Jn3vw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lK)
+### [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](https://git.io/Jn3OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eu)
 
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEH"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORL"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORW"/> |
 | :---: | :---: |
 
 

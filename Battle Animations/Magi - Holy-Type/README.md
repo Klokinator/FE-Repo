@@ -122,17 +122,17 @@
 
 
 
-## [\[Monk-Base\] \[M\] Repal by Eldritch](https://git.io/Jn3mO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ca)
+## [\[Monk-Base\] \[M\] Repal by eCut](https://git.io/Jn3fD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOo9"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO24"/> |
 | :---: |
 
 
 
 
-## [\[Monk-Base\] \[M\] Repal by eCut](https://git.io/Jn3fD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GA)
+## [\[Monk-Base\] \[M\] Repal by Eldritch](https://git.io/Jn3mO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ca)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO24"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOo9"/> |
 | :---: |
 
 
@@ -219,14 +219,6 @@
 
 
 
-## [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](https://git.io/Jn3fg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3R3)
-
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOau"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0m"/> |
-| :---: | :---: |
-
-
-
-
 ## [\[Priest-Reskin\] \[M\] Bald by Vilkalizer](https://git.io/Jn3vr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rl)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO0t"/> |
@@ -235,9 +227,9 @@
 
 
 
-## [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](https://git.io/Jn3v9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E3)
+## [\[Priest-Reskin\] \[M\] Bald Repal by Vilkalizer](https://git.io/Jn3fg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3R3)
 
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0h"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOau"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0m"/> |
 | :---: | :---: |
 
 
@@ -246,6 +238,14 @@
 ## [\[Priest-Reskin\] \[M\] Buff Generic by Vilkalizer](https://git.io/Jn3kv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EG)
 
 | <b>Staff (Buff Generic Priest)</b><br/><img alt="Staff (Buff Generic Priest)" src="https://git.io/JnOR5"/> | <b>Unarmed (Buff Generic Priest)</b><br/><img alt="Unarmed (Buff Generic Priest)" src="https://git.io/JnOE9"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Priest-Reskin\] \[M\] Buff Generic Repal by Vilkalizer](https://git.io/Jn3v9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E3)
+
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0h"/> |
 | :---: | :---: |
 
 

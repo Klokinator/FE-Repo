@@ -274,17 +274,17 @@
 
 
 
-## [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](https://git.io/Jn3L4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rw)
+## [\[Pirate-Custom\] \[M\] DS-Style by Der](https://git.io/Jn3fo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34G)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2q"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgi"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOga"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOay"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaJ"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Pirate-Custom\] \[M\] DS-Style by Der](https://git.io/Jn3fo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34G)
+## [\[Pirate-Custom\] \[M\] DS-Style No-Bandana by Der](https://git.io/Jn3L4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rw)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOga"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOay"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaJ"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2q"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgi"/> |
 | :---: | :---: | :---: |
 
 

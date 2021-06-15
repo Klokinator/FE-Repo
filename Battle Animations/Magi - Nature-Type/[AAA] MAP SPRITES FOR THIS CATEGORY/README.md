@@ -23,14 +23,14 @@
 |<img alt="Mage (F) Long-Haired {flasuban}-stand" src="Mage (F) Long-Haired {flasuban}-stand.png" />|<img alt="Mage (F) Thief {FEGirls}-stand" src="Mage (F) Thief {FEGirls}-stand.png" />|<img alt="Mage (F) Thunder (Leif)-stand" src="Mage (F) Thunder (Leif)-stand.png" />|<img alt="Mage (F) {IS}-stand" src="Mage (F) {IS}-stand.png" />|
 
 
-|Mage (M) Alt (Leif, MeatofJustice) <br> |Mage (M) FE4-Style Fire Idle <br> {Ash3wl, L95}|Mage (M) FE4-Style Wind Idle <br> {Ash3wl, L95}|Mage (M) Fe4-Style Thunder Idle <br> {Ash3wl, L95}|
+|Mage (M) Alt (Leif, MeatofJustice) <br> |Mage (M) FE4-Style Fire Idle <br> {Ash3wl, L95}|Mage (M) Fe4-Style Thunder Idle <br> {Ash3wl, L95}|Mage (M) Fe4-Style Wind Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mage (M) Alt (Leif, MeatofJustice)-stand" src="Mage (M) Alt (Leif, MeatofJustice)-stand.png" />|<img alt="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand" src="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand.png" />|
+|<img alt="Mage (M) Alt (Leif, MeatofJustice)-stand" src="Mage (M) Alt (Leif, MeatofJustice)-stand.png" />|<img alt="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand" src="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|
 
 
-|Mage (M) Fe4-Style Wind Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|Mage (M) Hat Hybrid <br> {Pikmin, SamirPlayz}|Mage (M) Hatless <br> {Pikmin}|Mage (M) Thunder (Leif) <br> |
+|Mage (M) FE4-Style Wind Idle <br> {Ash3wl, L95}|Mage (M) Hat Hybrid <br> {Pikmin, SamirPlayz}|Mage (M) Hatless <br> {Pikmin}|Mage (M) Thunder (Leif) <br> |
 | :---: | :---: | :---: | :---: |
-|<img alt="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|<img alt="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand" src="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand.png" />|<img alt="Mage (M) Hatless {Pikmin}-stand" src="Mage (M) Hatless {Pikmin}-stand.png" />|<img alt="Mage (M) Thunder (Leif)-stand" src="Mage (M) Thunder (Leif)-stand.png" />|
+|<img alt="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand" src="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand.png" />|<img alt="Mage (M) Hatless {Pikmin}-stand" src="Mage (M) Hatless {Pikmin}-stand.png" />|<img alt="Mage (M) Thunder (Leif)-stand" src="Mage (M) Thunder (Leif)-stand.png" />|
 
 
 |Mage (M) <br> {IS}|Pupil (M) <br> {IS}|Sage (F) Alt <br> {IS, Blademaster}|Sage (F) Battle Sage Magic <br> {Smug_Mug, Unknown}|

@@ -25,7 +25,6 @@ async function gitio(github) {
 		"url": "https://git.io/create",
 		"form": {"url": github},
 	}).then((response) => {
-		console.log(github, " -> ", "https://git.io/" + response)
 		return "https://git.io/" + response
 	}).catch((error) => {
 		console.error("gitio could not parse:", github)

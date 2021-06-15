@@ -247,6 +247,14 @@
 
 
 
+## [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](https://git.io/Jn3L7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30c)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPS"/> |
+| :---: |
+
+
+
+
 ## [\[Wolf-Variant\] \[F\] Kitsune Ninetails by ZoramineFae](https://git.io/Jn3qA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lD)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPv"/> |
@@ -255,9 +263,9 @@
 
 
 
-## [\[Wolf-Variant\] \[F\] Kitsune by ZoramineFae](https://git.io/Jn3L7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30c)
+## [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](https://git.io/Jn3qF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30O)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPS"/> |
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPO"/> |
 | :---: |
 
 
@@ -274,14 +282,6 @@
 ## [\[Wolf-Variant\] \[M\] Kitsune Repal](https://git.io/Jn3qK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38R)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnODt"/> |
-| :---: |
-
-
-
-
-## [\[Wolf-Variant\] \[M\] Kitsune by ZoramineFae](https://git.io/Jn3qF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30O)
-
-| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPO"/> |
 | :---: |
 
 

@@ -98,17 +98,17 @@
 
 
 
-## [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](https://git.io/Jn3vP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bw)
+## [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](https://git.io/Jn3vu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38L)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEt"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEI"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEv"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEG"/> |
 | :---: | :---: |
 
 
 
 
-## [\[MK-Reskin\] \[F\] Short Hair by BatimaTheBat](https://git.io/Jn3vu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38L)
+## [\[MK-Reskin\] \[F\] Short Hair Repal by BatimaTheBat](https://git.io/Jn3vP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bw)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEv"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEG"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEt"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEI"/> |
 | :---: | :---: |
 
 
@@ -156,17 +156,17 @@
 
 
 
-## [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](https://git.io/Jn3OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eu)
+## [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](https://git.io/Jn3vw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lK)
 
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORL"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORW"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEH"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](https://git.io/Jn3vw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lK)
+## [\[Troubadour-Reskin\] \[F\] Long Hair Repal by Feaw](https://git.io/Jn3OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eu)
 
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEH"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORL"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORW"/> |
 | :---: | :---: |
 
 

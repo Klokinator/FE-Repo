@@ -13,9 +13,9 @@
 |<img alt="Arbalest (F) Sword T1 {EldritchAbomination, Jj09}" src="Arbalest (F) Sword T1 {EldritchAbomination, Jj09}.png" />|<img alt="Arbalest (F) Sword {EldritchAbomination, Jj09}" src="Arbalest (F) Sword {EldritchAbomination, Jj09}.png" />|<img alt="Dragon Ashnard (U) Sword CROPPED {SamirPlayz, Huichelaar, Jj09}" src="Dragon Ashnard (U) Sword CROPPED {SamirPlayz, Huichelaar, Jj09}.png" />|<img alt="Dragon Ashnard (U) Sword CROPPED {SamirPlayz, Huichelaar}" src="Dragon Ashnard (U) Sword CROPPED {SamirPlayz, Huichelaar}.png" />|
 
 
-|Dragon Ashnard (U) Sword <br> {SamirPlayz, Huichelaar, Jj09}|Dragon Ashnard (U) Sword <br> {SamirPlayz, Huichelaar}|Falcoknight (F) Lance <br> {IS}|Falcoknight (F) Lance <br> {flasuban}|
+|Dragon Ashnard (U) Sword <br> {SamirPlayz, Huichelaar, Jj09}|Dragon Ashnard (U) Sword <br> {SamirPlayz, Huichelaar}|Falcoknight (F) Lance <br> {flasuban}|Falcoknight (F) Lance <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar, Jj09}" src="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar, Jj09}.png" />|<img alt="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar}" src="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar}.png" />|<img alt="Falcoknight (F) Lance {IS}" src="Falcoknight (F) Lance {IS}.png" />|<img alt="Falcoknight (F) Lance {flasuban}" src="Falcoknight (F) Lance {flasuban}.png" />|
+|<img alt="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar, Jj09}" src="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar, Jj09}.png" />|<img alt="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar}" src="Dragon Ashnard (U) Sword {SamirPlayz, Huichelaar}.png" />|<img alt="Falcoknight (F) Lance {flasuban}" src="Falcoknight (F) Lance {flasuban}.png" />|<img alt="Falcoknight (F) Lance {IS}" src="Falcoknight (F) Lance {IS}.png" />|
 
 
 |Falcoknight (F) Sword <br> {Flasuban, ArcaneEli}|Harrier (F) Magic <br> {Melia}|Malig Knight (M) Magic <br> {Pikmin}|Malig Knight (M) Magic <br> {Shtick}|
@@ -23,14 +23,14 @@
 |<img alt="Falcoknight (F) Sword {Flasuban, ArcaneEli}" src="Falcoknight (F) Sword {Flasuban, ArcaneEli}.png" />|<img alt="Harrier (F) Magic {Melia}" src="Harrier (F) Magic {Melia}.png" />|<img alt="Malig Knight (M) Magic {Pikmin}" src="Malig Knight (M) Magic {Pikmin}.png" />|<img alt="Malig Knight (M) Magic {Shtick}" src="Malig Knight (M) Magic {Shtick}.png" />|
 
 
-|Nephilim (F) Magic <br> {Melia}|Pegasus Knight (F) Axe (Flasuban) <br> |Pegasus Knight (F) Lance (Flasuban) <br> |Pegasus Knight (F) Lance <br> {IS}|
+|Nephilim (F) Magic <br> {Melia}|Pegasus Knight (F) Axe (Flasuban) <br> |Pegasus Knight (F) Lance (Flasuban) <br> |Pegasus Knight (F) Lance <br> {flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Nephilim (F) Magic {Melia}" src="Nephilim (F) Magic {Melia}.png" />|<img alt="Pegasus Knight (F) Axe (Flasuban)" src="Pegasus Knight (F) Axe (Flasuban).png" />|<img alt="Pegasus Knight (F) Lance (Flasuban)" src="Pegasus Knight (F) Lance (Flasuban).png" />|<img alt="Pegasus Knight (F) Lance {IS}" src="Pegasus Knight (F) Lance {IS}.png" />|
+|<img alt="Nephilim (F) Magic {Melia}" src="Nephilim (F) Magic {Melia}.png" />|<img alt="Pegasus Knight (F) Axe (Flasuban)" src="Pegasus Knight (F) Axe (Flasuban).png" />|<img alt="Pegasus Knight (F) Lance (Flasuban)" src="Pegasus Knight (F) Lance (Flasuban).png" />|<img alt="Pegasus Knight (F) Lance {flasuban}" src="Pegasus Knight (F) Lance {flasuban}.png" />|
 
 
-|Pegasus Knight (F) Lance <br> {flasuban}|Pegasus Knight (F) Sword (Flasuban) <br> |Pegasus Knight (F) Sword <br> {Flasuban, ArcaneEli}|Pegasus Knight (M) Lance <br> {flasuban}|
+|Pegasus Knight (F) Lance <br> {IS}|Pegasus Knight (F) Sword (Flasuban) <br> |Pegasus Knight (F) Sword <br> {Flasuban, ArcaneEli}|Pegasus Knight (M) Lance <br> {flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Pegasus Knight (F) Lance {flasuban}" src="Pegasus Knight (F) Lance {flasuban}.png" />|<img alt="Pegasus Knight (F) Sword (Flasuban)" src="Pegasus Knight (F) Sword (Flasuban).png" />|<img alt="Pegasus Knight (F) Sword {Flasuban, ArcaneEli}" src="Pegasus Knight (F) Sword {Flasuban, ArcaneEli}.png" />|<img alt="Pegasus Knight (M) Lance {flasuban}" src="Pegasus Knight (M) Lance {flasuban}.png" />|
+|<img alt="Pegasus Knight (F) Lance {IS}" src="Pegasus Knight (F) Lance {IS}.png" />|<img alt="Pegasus Knight (F) Sword (Flasuban)" src="Pegasus Knight (F) Sword (Flasuban).png" />|<img alt="Pegasus Knight (F) Sword {Flasuban, ArcaneEli}" src="Pegasus Knight (F) Sword {Flasuban, ArcaneEli}.png" />|<img alt="Pegasus Knight (M) Lance {flasuban}" src="Pegasus Knight (M) Lance {flasuban}.png" />|
 
 
 |Pegasus <br> {WhydidImakethisaccount}|Seraph Knight (F) Lance <br> {CamusZekeSirius, flasuban}|Seraph Knight (F) Lance <br> {CamusZekeSirius}|Wyvern Knight (F) <br> {Pikmin}|

@@ -72,18 +72,18 @@
 
 
 
-## [\[Custom Oracle\] \[F\] Oracle Repal +Staff](https://git.io/Jn3IA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EW)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyb"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOyt"/> |
-| :---: | :---: |
-
-
-
-
 ## [\[Custom Oracle\] \[F\] Oracle by GabrielKnight](https://git.io/Jn3IP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WU)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnONw"/> |
 | :---: |
+
+
+
+
+## [\[Custom Oracle\] \[F\] Oracle Repal +Staff](https://git.io/Jn3IA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EW)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyb"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOyt"/> |
+| :---: | :---: |
 
 
 

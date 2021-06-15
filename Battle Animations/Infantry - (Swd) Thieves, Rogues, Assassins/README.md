@@ -197,19 +197,19 @@
 
 
 
+## [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](https://git.io/Jn3TA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cK)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrq"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOAd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKl"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](https://git.io/Jn3T5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cg)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOig"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOAN"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnObz"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOx3"/> |
-
-
-
-
-## [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](https://git.io/Jn3TA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cK)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrq"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOAd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKl"/> |
-| :---: | :---: | :---: |
 
 
 
@@ -303,6 +303,14 @@
 
 
 
+## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](https://git.io/Jn3t1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cy)
+
+| <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnO7P"/> |
+| :---: |
+
+
+
+
 ## [\[Thief-Base\] \[M\] Matthew Repal by Eldritch](https://git.io/Jn3T7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bd)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOD1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQH"/> |
@@ -315,14 +323,6 @@
 
 | <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnO5z"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb4"/> |
 | :---: | :---: | :---: |
-
-
-
-
-## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](https://git.io/Jn3t1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cy)
-
-| <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnO7P"/> |
-| :---: |
 
 
 

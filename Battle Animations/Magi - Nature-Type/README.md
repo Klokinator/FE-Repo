@@ -48,17 +48,17 @@
 
 
 
-## [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](https://git.io/Jn3LO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zt)
+## [\[Mage-Custom1\] \[F\] Light Mage by L95](https://git.io/Jn3If) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z8)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO5t"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXW"/> |
 | :---: |
 
 
 
 
-## [\[Mage-Custom1\] \[F\] Light Mage by L95](https://git.io/Jn3If) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z8)
+## [\[Mage-Custom1\] \[F\] Light Mage Long Hair by L95](https://git.io/Jn3LO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zt)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXW"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO5t"/> |
 | :---: |
 
 
@@ -128,17 +128,17 @@
 
 
 
-## [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](https://git.io/Jn3qv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZY)
+## [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight](https://git.io/Jn3qQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uU)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXS"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXE"/> |
 | :---: |
 
 
 
 
-## [\[Mage-Reskin\] \[M\] Hatless by GabrielKnight](https://git.io/Jn3qQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uU)
+## [\[Mage-Reskin\] \[M\] Hatless Hybrid by GabrielKnight](https://git.io/Jn3qv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZY)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXE"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXS"/> |
 | :---: |
 
 

@@ -1,8 +1,8 @@
 # [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers%2F%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> | <b>Axe (Stab)</b><br/><img alt="Axe animation" src="./3.%20Axe%20(Stab)/Axe.gif"/> | <b>Axe (Swing)</b><br/><img alt="Axe animation" src="./3.%20Axe%20(Swing)/Axe.gif"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOKW"/> | <b>Axe (Stab)</b><br/><img alt="Axe (Stab)" src="https://git.io/JnOKY"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://git.io/JnOKi"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe animation" src="./4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed animation" src="./8.%20Unarmed/Unarmed.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOKZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKw"/> |
 
 ## Credits
 

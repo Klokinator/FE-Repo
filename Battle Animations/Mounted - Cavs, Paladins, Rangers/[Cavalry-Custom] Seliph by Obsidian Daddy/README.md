@@ -1,6 +1,6 @@
 # [\[Cavalry-Custom\] Seliph by Obsidian Daddy](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalry-Custom%5D%20Seliph%20by%20Obsidian%20Daddy)
 
-| <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO15"/> |
 | :---: |
 
 ## Credits

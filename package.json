@@ -25,5 +25,10 @@
   "homepage": "https://github.com/Klokinator/Fire-Emblem-Graphics-Repository#readme",
   "devDependencies": {
     "husky": "^6.0.0"
+  },
+  "dependencies": {
+    "fetchquest": "^1.2.0",
+    "gitio": "^2.3.0",
+    "urrl": "^1.0.0"
   }
 }

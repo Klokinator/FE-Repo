@@ -1,5 +1,11 @@
 # [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Hawkeye%5D%20%5BF%5D%20Hawkzerker%20by%20Maiser6%2F8.%20Unarmed)
 
+## Unarmed
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Unarmed still](./Unarmed_000.png) | ![Unarmed](./Unarmed.gif) |
+
 ## Credit
 
 Design by Pikmin1211
@@ -15,9 +21,3 @@ Unarmed Animation by Maiser6
 Map Sprite by Pikmin1211 and DerTheVaporeon
 
 Class Card by DerTheVaporeon
-
-## Unarmed
-
-| Still | Animation |
-| :---: | :-------: |
-| ![Unarmed still](./Unarmed_000.png) | ![Unarmed animation](./Unarmed.gif) |

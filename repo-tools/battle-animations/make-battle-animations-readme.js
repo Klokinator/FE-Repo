@@ -1,9 +1,12 @@
-const fs = require('fs').promises;
-const { logMissingFile, hasFile } = require('../utilities')
-const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText, makeClassCardReadMe, makeMapSpritesReadMe } = require('./battle-animations-utilities')
+const fs = require("fs").promises
+const { logMissingFile, hasFile, gitio } = require("../utilities")
+const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText, makeClassCardReadMe, makeMapSpritesReadMe } = require("./battle-animations-utilities")
 
-const ROOT_DIR = './Battle Animations'
-const README_FILENAME = 'README.md';
+const ROOT_DIR_SLUG = "Battle Animations"
+const ROOT_DIR = "./" + ROOT_DIR_SLUG
+const REPO_URL = "https://github.com/Klokinator/FE-Repo/tree/main"
+const ASSET_URL = "https://raw.githubusercontent.com/Klokinator/FE-Repo/main"
+const README_FILENAME = "README.md"
 
 /**
  * Parses the "Battle Animations" dirs and gathers all the animations in a flat list.
@@ -98,20 +101,25 @@ const searchAnimations = async () => {
 				return accumulator
 			}, [])
 
-			return Promise.all(weaponDirs.map(weaponDir => {
-				const type = weaponDir.replace(/\d*?\.\s/, "").split(" ")[0]
-				const static = `${type}_000.png`
-				const active = `${type}.gif`
+			return Promise.all(weaponDirs.map(async (weaponDir) => {
 				const weapon = {
-					active,
-					dir: weaponDir,
-					static,
-					type,
+					"dir": weaponDir,
 				}
-				if(hasFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${static}`) == false
-				|| hasFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${active}`) == false) {
-					return
+
+				weapon.type = weaponDir.replace(/\d*?\.\s/, "").split(" ")[0]
+				weapon.name = weaponDir.replace(/^[0-9]+.\s+/, "")
+
+				weapon.static = `${weapon.type}_000.png`
+				weapon.active = `${weapon.type}.gif`
+
+				weapon.gif = weapon.active
+				weapon.gifPath = `${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${weapon.gif}`
+				if(hasFile(weapon.gifPath) == false) {
+					return undefined
 				}
+
+				weapon.gifUri = encodeURI(`${ASSET_URL}/${ROOT_DIR_SLUG}/${categoryDir}/${animDir}/${weaponDir}/${weapon.gif}`)
+				weapon.gifGitio = await gitio(weapon.gifUri)
 
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${README_FILENAME}`, makeWeaponReadmeText({
 					"anim": anim,

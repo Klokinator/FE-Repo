@@ -1,9 +1,9 @@
 # [\[T3 FE7\] \[M\] Archsage Athos +Fixes](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20%2BFixes)
 
-| <b>Magic</b><br/><img alt="Magic animation" src="./6.%20Magic/Magic.gif"/> | <b>Magic (Alt Particles)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Alt%20Particles)/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FE8)/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBm"/> | <b>Magic (Alt Particles)</b><br/><img alt="Magic (Alt Particles)" src="https://git.io/JnOBZ"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOrr"/> |
 | :---: | :---: | :---: |
-| <b>Magic (FEx)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FEx)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff animation" src="./7.%20Staff/Staff.gif"/> |
-| <b>Staff (Fixed)</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Fixed)/Staff.gif"/> |
+| <b>Magic (FEx)</b><br/><img alt="Magic (FEx)" src="https://git.io/JnO4A"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOKf"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOKh"/> |
+| <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://git.io/JnOBa"/> |
 
 ## Credits
 

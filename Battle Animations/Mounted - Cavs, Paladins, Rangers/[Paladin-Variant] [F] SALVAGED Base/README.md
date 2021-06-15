@@ -1,4 +1,4 @@
-# [\[Paladin-Variant\] \[F\] SALVAGED Base](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base)
+# [\[Paladin-Variant\] \[F\] SALVAGED Base](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base)
 
 | <b>Sword (RJ_Exists)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(RJ_Exists)/Sword.gif"/> | <b>Sword {Levin64}</b><br/><img alt="Sword animation" src="./1.%20Sword%20%7BLevin64%7D/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |

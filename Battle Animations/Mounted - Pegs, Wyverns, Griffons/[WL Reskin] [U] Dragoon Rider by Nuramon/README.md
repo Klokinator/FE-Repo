@@ -1,4 +1,4 @@
-# [\[WL Reskin\] \[U\] Dragoon Rider by Nuramon](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2F%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon)
+# [\[WL Reskin\] \[U\] Dragoon Rider by Nuramon](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2F%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon)
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Sword (No Bounce)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(No%20Bounce)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance animation" src="./2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |

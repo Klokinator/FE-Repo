@@ -1,5 +1,5 @@
 const fs = require('fs').promises;
-const { logMissingFile } = require('../utilities')
+const { logMissingFile, hasFile } = require('../utilities')
 const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText, makeClassCardReadMe, makeMapSpritesReadMe } = require('./battle-animations-utilities')
 
 const ROOT_DIR = './Battle Animations'
@@ -85,6 +85,7 @@ const searchAnimations = async () => {
 				}
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${static}`)
 				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${active}`)
+
 				anim.weapons = [weapon]
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeWeaponReadmeText(anim, weapon))
 				return anim
@@ -107,8 +108,10 @@ const searchAnimations = async () => {
 					static,
 					type,
 				}
-				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${static}`)
-				logMissingFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${active}`)
+				if(hasFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${static}`) == false
+				|| hasFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${active}`) == false) {
+					return
+				}
 
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${README_FILENAME}`, makeWeaponReadmeText({
 					"anim": anim,
@@ -119,6 +122,8 @@ const searchAnimations = async () => {
 				return weapon
 			})).then(weapons => {
 				anim.weapons = weapons
+
+				anim.weapons = anim.weapons.filter((weapon) => !!weapon)
 
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText({
 					"anim": anim,

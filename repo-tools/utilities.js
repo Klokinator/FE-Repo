@@ -1,4 +1,15 @@
-const fs = require('fs')
+const fs = require("fs")
+
+const hasFile = (file, options = {"log": true}) => {
+	const exists = fs.existsSync(file)
+
+	if(exists == false
+	&& options.log == true) {
+		console.log(`${file} does not exist! Please reference the name structure when adding new assets!`)
+	}
+
+	return exists
+}
 
 const logMissingFile = (file) => {
 	fs.access(file, (err) => {
@@ -7,5 +18,6 @@ const logMissingFile = (file) => {
 }
 
 module.exports = {
-	logMissingFile
+	logMissingFile,
+	hasFile
 }

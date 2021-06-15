@@ -1,4 +1,4 @@
-# [\[T3 Dark Druid\] \[M\] Nergal +Fixes](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20%2BFixes)
+# [\[T3 Dark Druid\] \[M\] Nergal +Fixes](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20%2BFixes)
 
 | <b>Magic (Dark)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Dark)/Magic.gif"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FE8%20Adv)/Magic.gif"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(FE8%20Basic)/Magic.gif"/> |
 | :---: | :---: | :---: |

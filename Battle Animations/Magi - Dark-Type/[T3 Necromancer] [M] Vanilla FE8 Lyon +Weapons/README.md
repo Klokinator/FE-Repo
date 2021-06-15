@@ -1,4 +1,4 @@
-# [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20%2BWeapons)
+# [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20%2BWeapons)
 
 | <b>Magic (Blood Tome Critfix)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Magic (Minigun Melee)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Minigun%20Melee)/Magic.gif"/> |
 | :---: | :---: | :---: |

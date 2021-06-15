@@ -18,7 +18,7 @@ const getHeading = (depth = 1) => '#'.repeat(depth)
  */
 const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
 
-const DOWNLOAD_BUTTON = "![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)"
+const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)"
 // const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download-red?style=social&logo=github)"
 // const DOWNLOAD_BUTTON = "(download)"
 

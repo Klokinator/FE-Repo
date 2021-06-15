@@ -1,4 +1,4 @@
-# [\[Boss-Base\] \[U\] Vanilla FE6 Idunn +FE7-8](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BBoss-Base%5D%20%5BU%5D%20Vanilla%20FE6%20Idunn%20%2BFE7-8)
+# [\[Boss-Base\] \[U\] Vanilla FE6 Idunn +FE7-8](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BBoss-Base%5D%20%5BU%5D%20Vanilla%20FE6%20Idunn%20%2BFE7-8)
 
 | <b>Magic (Druid Idunn)</b><br/><img alt="Magic animation" src="./6.%20Magic%20(Druid%20Idunn)/Magic.gif"/> | <b>Staff (Druid Idunn)</b><br/><img alt="Staff animation" src="./7.%20Staff%20(Druid%20Idunn)/Staff.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone animation" src="./8.%20Dragonstone/Dragonstone.gif"/> |
 | :---: | :---: | :---: |

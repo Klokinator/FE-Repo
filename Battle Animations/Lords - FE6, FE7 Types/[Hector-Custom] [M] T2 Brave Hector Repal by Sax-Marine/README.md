@@ -1,4 +1,4 @@
-# [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine)
+# [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BHector-Custom%5D%20%5BM%5D%20T2%20Brave%20Hector%20Repal%20by%20Sax-Marine)
 
 | <b>Sword</b><br/><img alt="Sword animation" src="./1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe animation" src="./3.%20Axe/Axe.gif"/> | <b>Axe (Armads)</b><br/><img alt="Axe animation" src="./3.%20Axe%20(Armads)/Axe.gif"/> |
 | :---: | :---: | :---: |

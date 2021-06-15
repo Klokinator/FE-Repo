@@ -1,4 +1,4 @@
-# [\[Roy-Reskin\] \[F\] FE7if Alice](./) [![Downlod](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BRoy-Reskin%5D%20%5BF%5D%20FE7if%20Alice)
+# [\[Roy-Reskin\] \[F\] FE7if Alice](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BRoy-Reskin%5D%20%5BF%5D%20FE7if%20Alice)
 
 | <b>Sword (Airgetlam - Fixed - Sans Luceid)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Airgetlam%20-%20Fixed%20-%20Sans%20Luceid)/Sword.gif"/> | <b>Sword (Airgetlam - Luceid Crit)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Airgetlam%20-%20Luceid%20Crit)/Sword.gif"/> | <b>Sword (Luceid)</b><br/><img alt="Sword animation" src="./1.%20Sword%20(Luceid)/Sword.gif"/> |
 | :---: | :---: | :---: |

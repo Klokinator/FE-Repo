@@ -1,4 +1,4 @@
-# [\[Paladin-Variant\] \[M\] Sain by Greentea](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BPaladin-Variant%5D%20%5BM%5D%20Sain%20by%20Greentea)
+# [\[Paladin-Variant\] \[M\] Sain by Greentea](https://git.io/Jn3mP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cb)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1D"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnONU"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO1E"/> |
 | :---: | :---: | :---: |

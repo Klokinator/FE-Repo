@@ -1,4 +1,4 @@
-# [\[Custom Magi\] \[F\] Sister +Mag by Mikey Seregon](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Special%2F%5BCustom%20Magi%5D%20%5BF%5D%20Sister%20%2BMag%20by%20Mikey%20Seregon)
+# [\[Custom Magi\] \[F\] Sister +Mag by Mikey Seregon](https://git.io/Jn3I5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30g)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOQ8"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOPX"/> |
 | :---: | :---: |

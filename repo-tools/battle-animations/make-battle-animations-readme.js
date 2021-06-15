@@ -112,9 +112,12 @@ const searchAnimations = async () => {
 				weapon.static = `${weapon.type}_000.png`
 				weapon.active = `${weapon.type}.gif`
 
-				weapon.gif = weapon.active
-				weapon.gifPath = `${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${weapon.gif}`
-				if(hasFile(weapon.gifPath) == false) {
+				weapon.gif = `${weapon.type}.gif`
+				// weapon.gifFromAnimDir = `./${weaponDir}/${weapon.type}.gif`
+				// weapon.gifFromCatDir = `./${animDir}/${weaponDir}/${weapon.type}.gif`
+				weapon.gifPath = `${weaponDir}/${weapon.gif}`
+				weapon.gifRootPath = `${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${weapon.gif}`
+				if(hasFile(weapon.gifRootPath) == false) {
 					return undefined
 				}
 
@@ -128,12 +131,18 @@ const searchAnimations = async () => {
 				}))
 
 				return weapon
-			})).then(weapons => {
+			})).then(async (weapons) => {
 				anim.weapons = weapons
-
 				anim.weapons = anim.weapons.filter((weapon) => !!weapon)
 
-				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${README_FILENAME}`, makeAnimReadmeText({
+				anim.path = `${ROOT_DIR_SLUG}/${categoryDir}/${animDir}`
+				anim.uri = encodeURI(`${REPO_URL}/${anim.path}`)
+				anim.gitio = await gitio(anim.uri)
+
+				anim.downloadUri = "https://minhaskamal.github.io/DownGit/#/home?url=" + anim.uri
+				anim.downloadGitio = await gitio(anim.downloadUri)
+
+				fs.writeFile(`./${anim.path}/${README_FILENAME}`, makeAnimReadmeText({
 					"anim": anim,
 					"path": `${ROOT_DIR.substring(2)}/${categoryDir}/${animDir}`,
 				}))

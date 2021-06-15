@@ -1,6 +1,6 @@
 # [Infantry - (Bow) Snipers and Ballistae Battle Animations](./)
 
-## [\[Ballista\] \[F\] Long Hair by St Jack](./%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Long%20Hair%20by%20St%20Jack)
+## [\[Ballista\] \[F\] Long Hair by St Jack](https://git.io/Jn3f5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E7)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnO7C"/> |
 | :---: |
@@ -8,7 +8,7 @@
 
 
 
-## [\[Ballista\] \[F\] Louise Caped by Greentea](./%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Louise%20Caped%20by%20Greentea)
+## [\[Ballista\] \[F\] Louise Caped by Greentea](https://git.io/Jn3Jc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zn)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOAh"/> |
 | :---: |
@@ -16,7 +16,7 @@
 
 
 
-## [\[Ballista\] \[F\] Louise by St Jack](./%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Louise%20by%20St%20Jack)
+## [\[Ballista\] \[F\] Louise by St Jack](https://git.io/Jn3Jz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38j)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOpY"/> |
 | :---: |
@@ -24,7 +24,7 @@
 
 
 
-## [\[Ballista\] \[F\] Neimi by Seal](./%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Neimi%20by%20Seal)
+## [\[Ballista\] \[F\] Neimi by Seal](https://git.io/Jn3JI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34a)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxt"/> |
 | :---: |
@@ -32,7 +32,7 @@
 
 
 
-## [\[Ballista\] \[F\] Rebecca Catapult](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult)
+## [\[Ballista\] \[F\] Rebecca Catapult](https://git.io/Jn3Jb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn345)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOxq"/> |
 | :---: |
@@ -40,7 +40,7 @@
 
 
 
-## [\[Ballista\] \[F\] Rebecca Catapult Repal](./%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Rebecca%20Catapult%20Repal)
+## [\[Ballista\] \[F\] Rebecca Catapult Repal](https://git.io/Jn3J5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E9)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOFl"/> |
 | :---: |
@@ -48,7 +48,7 @@
 
 
 
-## [\[Ballista\] \[F\] Rebecca by Greentea](./%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20Greentea)
+## [\[Ballista\] \[F\] Rebecca by Greentea](https://git.io/Jn3to) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RC)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxf"/> |
 | :---: |
@@ -56,7 +56,7 @@
 
 
 
-## [\[Ballista\] \[F\] Rebecca by St Jack](./%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Rebecca%20by%20St%20Jack)
+## [\[Ballista\] \[F\] Rebecca by St Jack](https://git.io/Jn3Ux) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38A)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnO9f"/> |
 | :---: |
@@ -64,7 +64,7 @@
 
 
 
-## [\[Ballista\] \[F\] Sniper by St Jack](./%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BF%5D%20Sniper%20by%20St%20Jack)
+## [\[Ballista\] \[F\] Sniper by St Jack](https://git.io/Jn3Ud) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RE)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOdk"/> |
 | :---: |
@@ -72,7 +72,7 @@
 
 
 
-## [\[Ballista\] \[M\] FE5 Ballista by Spud](./%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud)
+## [\[Ballista\] \[M\] FE5 Ballista by Spud](https://git.io/Jn3JK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38F)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOAb"/> | <b>Bow (Catapult)</b><br/><img alt="Bow (Catapult)" src="https://git.io/JnOp3"/> |
 | :---: | :---: |
@@ -80,7 +80,7 @@
 
 
 
-## [\[Ballista\] \[M\] Innes Alt by Seal](./%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Innes%20Alt%20by%20Seal)
+## [\[Ballista\] \[M\] Innes Alt by Seal](https://git.io/Jn3J8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38C)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOAk"/> |
 | :---: |
@@ -88,7 +88,7 @@
 
 
 
-## [\[Ballista\] \[M\] Sniper by Seal](./%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Sniper%20by%20Seal)
+## [\[Ballista\] \[M\] Sniper by Seal](https://git.io/Jn3Up) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38i)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOdi"/> |
 | :---: |
@@ -96,7 +96,7 @@
 
 
 
-## [\[Ballista\] \[M\] Vanilla GBA Ballistae](./%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae)
+## [\[Ballista\] \[M\] Vanilla GBA Ballistae](https://git.io/Jn3Jx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GQ)
 
 | <b>Bow (FE6 Ballista)</b><br/><img alt="Bow (FE6 Ballista)" src="https://git.io/JnO5x"/> | <b>Bow (FE7 Ballista)</b><br/><img alt="Bow (FE7 Ballista)" src="https://git.io/JnOM9"/> | <b>Bow (FE8 Ballista)</b><br/><img alt="Bow (FE8 Ballista)" src="https://git.io/JnOMx"/> |
 | :---: | :---: | :---: |
@@ -104,7 +104,7 @@
 
 
 
-## [\[Ballista\] \[M\] Wil by Greentea](./%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wil%20by%20Greentea)
+## [\[Ballista\] \[M\] Wil by Greentea](https://git.io/Jn3Ts) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn389)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOAj"/> |
 | :---: |
@@ -112,7 +112,7 @@
 
 
 
-## [\[Ballista\] \[M\] Wolt Armored by St Jack](./%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wolt%20Armored%20by%20St%20Jack)
+## [\[Ballista\] \[M\] Wolt Armored by St Jack](https://git.io/Jn3JG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38h)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOdp"/> |
 | :---: |
@@ -120,7 +120,7 @@
 
 
 
-## [\[Ballista\] \[M\] Wolt Catapult](./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult)
+## [\[Ballista\] \[M\] Wolt Catapult](https://git.io/Jn3Jh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ru)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOSP"/> |
 | :---: |
@@ -128,7 +128,7 @@
 
 
 
-## [\[Ballista\] \[M\] Wolt Catapult Repal](./%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wolt%20Catapult%20Repal)
+## [\[Ballista\] \[M\] Wolt Catapult Repal](https://git.io/Jn3JA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zf)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOSL"/> |
 | :---: |
@@ -136,7 +136,7 @@
 
 
 
-## [\[Ballista\] \[M\] Wolt by St Jack](./%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BBallista%5D%20%5BM%5D%20Wolt%20by%20St%20Jack)
+## [\[Ballista\] \[M\] Wolt by St Jack](https://git.io/Jn3TG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38b)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOM1"/> |
 | :---: |
@@ -144,7 +144,7 @@
 
 
 
-## [\[Sniper-Base\] \[F\] Vanilla FE6](./%5BSniper-Base%5D%20%5BF%5D%20Vanilla%20FE6/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Base%5D%20%5BF%5D%20Vanilla%20FE6)
+## [\[Sniper-Base\] \[F\] Vanilla FE6](https://git.io/Jn3ex) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G5)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOEp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwD"/> |
 | :---: | :---: |
@@ -152,7 +152,7 @@
 
 
 
-## [\[Sniper-Base\] \[F\] Vanilla FE7](./%5BSniper-Base%5D%20%5BF%5D%20Vanilla%20FE7/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Base%5D%20%5BF%5D%20Vanilla%20FE7)
+## [\[Sniper-Base\] \[F\] Vanilla FE7](https://git.io/Jn3eA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ri)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOEN"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOzT"/> |
 | :---: | :---: |
@@ -160,7 +160,7 @@
 
 
 
-## [\[Sniper-Base\] \[M\] Vanilla FE6](./%5BSniper-Base%5D%20%5BM%5D%20Vanilla%20FE6/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Base%5D%20%5BM%5D%20Vanilla%20FE6)
+## [\[Sniper-Base\] \[M\] Vanilla FE6](https://git.io/Jn3vH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ER)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOKH"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKD"/> |
 | :---: | :---: |
@@ -168,7 +168,7 @@
 
 
 
-## [\[Sniper-Base\] \[M\] Vanilla FE7](./%5BSniper-Base%5D%20%5BM%5D%20Vanilla%20FE7/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Base%5D%20%5BM%5D%20Vanilla%20FE7)
+## [\[Sniper-Base\] \[M\] Vanilla FE7](https://git.io/Jn3vq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lS)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEA"/> |
 | :---: | :---: |
@@ -176,7 +176,7 @@
 
 
 
-## [\[Sniper-Base\] \[M\] Vanilla With Hat](./%5BSniper-Base%5D%20%5BM%5D%20Vanilla%20With%20Hat/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Base%5D%20%5BM%5D%20Vanilla%20With%20Hat)
+## [\[Sniper-Base\] \[M\] Vanilla With Hat](https://git.io/Jn3vJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BF)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOE3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOoR"/> |
 | :---: | :---: |
@@ -184,7 +184,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Adventurer by ZoramineFae](./%5BSniper-Reskin%5D%20%5BF%5D%20Adventurer%20by%20ZoramineFae/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Adventurer%20by%20ZoramineFae)
+## [\[Sniper-Reskin\] \[F\] Adventurer by ZoramineFae](https://git.io/Jn3Ul) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38P)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOpu"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOxW"/> |
 | :---: | :---: |
@@ -192,7 +192,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Louise by Greentea](./%5BSniper-Reskin%5D%20%5BF%5D%20Louise%20by%20Greentea/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Louise%20by%20Greentea)
+## [\[Sniper-Reskin\] \[F\] Louise by Greentea](https://git.io/Jn3tV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZO)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOpz"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOp0"/> |
 | :---: | :---: |
@@ -200,7 +200,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Neimi by Seal](./%5BSniper-Reskin%5D%20%5BF%5D%20Neimi%20by%20Seal/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Neimi%20by%20Seal)
+## [\[Sniper-Reskin\] \[F\] Neimi by Seal](https://git.io/Jn3JC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BL)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnONd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAS"/> |
 | :---: | :---: |
@@ -208,7 +208,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Quiver%20by%20Nuramon)
+## [\[Sniper-Reskin\] \[F\] Quiver by Nuramon](https://git.io/Jn3Jf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uf)
 
 | <b>Bow (With Recoil)</b><br/><img alt="Bow (With Recoil)" src="https://git.io/JnOFt"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow (Without Recoil)" src="https://git.io/JnOdc"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed (With Quiver)" src="https://git.io/JnODp"/> |
 | :---: | :---: | :---: |
@@ -217,7 +217,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20+Quiver%20by%20Nuramon/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20%2BQuiver%20by%20Nuramon)
+## [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](https://git.io/Jn3TC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lr)
 
 | <b>Bow (With Recoil)</b><br/><img alt="Bow (With Recoil)" src="https://git.io/JnOxl"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow (Without Recoil)" src="https://git.io/JnOxH"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed (With Quiver)" src="https://git.io/JnOhW"/> |
 | :---: | :---: | :---: |
@@ -226,7 +226,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Rebecca by Greentea](./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Greentea/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Greentea)
+## [\[Sniper-Reskin\] \[F\] Rebecca by Greentea](https://git.io/Jn3U9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GP)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxe"/> |
 | :---: | :---: |
@@ -234,7 +234,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Rebecca by Temp](./%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Temp/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BF%5D%20Rebecca%20by%20Temp)
+## [\[Sniper-Reskin\] \[F\] Rebecca by Temp](https://git.io/Jn3Ue) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gi)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOA6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxU"/> |
 | :---: | :---: |
@@ -242,7 +242,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Adventurer by ZoramineFae](./%5BSniper-Reskin%5D%20%5BM%5D%20Adventurer%20by%20ZoramineFae/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Adventurer%20by%20ZoramineFae)
+## [\[Sniper-Reskin\] \[M\] Adventurer by ZoramineFae](https://git.io/Jn3Um) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34t)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnONg"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOxJ"/> |
 | :---: | :---: |
@@ -250,7 +250,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Hat +Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20+Quiver%20by%20Nuramon/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Hat%20%2BQuiver%20by%20Nuramon)
+## [\[Sniper-Reskin\] \[M\] Hat +Quiver by Nuramon](https://git.io/Jn3fx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GF)
 
 | <b>Bow (With Recoil)</b><br/><img alt="Bow (With Recoil)" src="https://git.io/JnOP3"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow (Without Recoil)" src="https://git.io/JnOA4"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed (With Quiver)" src="https://git.io/JnOi2"/> |
 | :---: | :---: | :---: |
@@ -259,7 +259,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Innes by Aruka](./%5BSniper-Reskin%5D%20%5BM%5D%20Innes%20by%20Aruka/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Innes%20by%20Aruka)
+## [\[Sniper-Reskin\] \[M\] Innes by Aruka](https://git.io/Jn3TM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ze)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO1p"/> |
 | :---: |
@@ -267,7 +267,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Innes by Seal](./%5BSniper-Reskin%5D%20%5BM%5D%20Innes%20by%20Seal/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Innes%20by%20Seal)
+## [\[Sniper-Reskin\] \[M\] Innes by Seal](https://git.io/Jn3J7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34Y)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOpc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxI"/> |
 | :---: | :---: |
@@ -275,7 +275,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Innes by Vilkalizer](./%5BSniper-Reskin%5D%20%5BM%5D%20Innes%20by%20Vilkalizer/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Innes%20by%20Vilkalizer)
+## [\[Sniper-Reskin\] \[M\] Innes by Vilkalizer](https://git.io/Jn3UI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38X)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxR"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxX"/> |
 | :---: | :---: |
@@ -283,7 +283,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Quiver by Nuramon](./%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Quiver%20by%20Nuramon)
+## [\[Sniper-Reskin\] \[M\] Quiver by Nuramon](https://git.io/Jn3ta) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ep)
 
 | <b>Bow (With Recoil)</b><br/><img alt="Bow (With Recoil)" src="https://git.io/JnOMZ"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow (Without Recoil)" src="https://git.io/JnOpE"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed (With Quiver)" src="https://git.io/JnOpX"/> |
 | :---: | :---: | :---: |
@@ -292,7 +292,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Wil by Greentea](./%5BSniper-Reskin%5D%20%5BM%5D%20Wil%20by%20Greentea/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Reskin%5D%20%5BM%5D%20Wil%20by%20Greentea)
+## [\[Sniper-Reskin\] \[M\] Wil by Greentea](https://git.io/Jn3Ug) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GX)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOpW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOx1"/> |
 | :---: | :---: |
@@ -300,7 +300,7 @@
 
 
 
-## [\[Sniper-Variant\] \[F\] Marksman by Nuramon](./%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Variant%5D%20%5BF%5D%20Marksman%20by%20Nuramon)
+## [\[Sniper-Variant\] \[F\] Marksman by Nuramon](https://git.io/Jn3Uu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wv)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxw"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxu"/> |
 | :---: | :---: |
@@ -308,7 +308,7 @@
 
 
 
-## [\[Sniper-Variant\] \[F\] Neimi by Aruka](./%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Variant%5D%20%5BF%5D%20Neimi%20by%20Aruka)
+## [\[Sniper-Variant\] \[F\] Neimi by Aruka](https://git.io/Jn3UG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn343)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOMv"/> | <b>Bow (Alt Crit)</b><br/><img alt="Bow (Alt Crit)" src="https://git.io/JnOxo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxr"/> |
 | :---: | :---: | :---: |
@@ -317,7 +317,7 @@
 
 
 
-## [\[Sniper-Variant\] \[M\] Marksman by Nuramon](./%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Variant%5D%20%5BM%5D%20Marksman%20by%20Nuramon)
+## [\[Sniper-Variant\] \[M\] Marksman by Nuramon](https://git.io/Jn3tM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34M)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH5"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxV"/> |
 | :---: | :---: |
@@ -325,7 +325,7 @@
 
 
 
-## [\[Sniper-Variant\] \[M\] Zackumi](./%5BSniper-Variant%5D%20%5BM%5D%20Zackumi/) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2F%5BSniper-Variant%5D%20%5BM%5D%20Zackumi)
+## [\[Sniper-Variant\] \[M\] Zackumi](https://git.io/Jn3UZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zm)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOHb"/> |
 | :---: |

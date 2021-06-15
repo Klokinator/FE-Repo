@@ -1,4 +1,4 @@
-# [\[Myrmidon-Reskin\] \[F\] Fir by Leo_Link](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Myrms%20and%20Swordmasters%2F%5BMyrmidon-Reskin%5D%20%5BF%5D%20Fir%20by%20Leo_Link)
+# [\[Myrmidon-Reskin\] \[F\] Fir by Leo_Link](https://git.io/Jn3TT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn346)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOVU"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO23"/> |
 | :---: | :---: |

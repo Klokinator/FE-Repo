@@ -1,4 +1,4 @@
-# [\[T3 FE7\] \[M\] Archsage Athos +Fixes](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20%2BFixes)
+# [\[T3 FE7\] \[M\] Archsage Athos +Fixes](https://git.io/Jn3Ll) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uC)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBm"/> | <b>Magic (Alt Particles)</b><br/><img alt="Magic (Alt Particles)" src="https://git.io/JnOBZ"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOrr"/> |
 | :---: | :---: | :---: |

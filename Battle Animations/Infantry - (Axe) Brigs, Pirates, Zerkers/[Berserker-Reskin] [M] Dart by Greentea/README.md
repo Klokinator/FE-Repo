@@ -1,4 +1,4 @@
-# [\[Berserker-Reskin\] \[M\] Dart by Greentea](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Reskin%5D%20%5BM%5D%20Dart%20by%20Greentea)
+# [\[Berserker-Reskin\] \[M\] Dart by Greentea](https://git.io/Jn3Jn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ua)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOVl"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOVV"/> | <b>Axe (Smoothed Axe)</b><br/><img alt="Axe (Smoothed Axe)" src="https://git.io/JnOw7"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE8%20Types%2F%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae)
+# [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](https://git.io/Jn3vT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EL)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0f"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO0G"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORQ"/> |
 | :---: | :---: | :---: |

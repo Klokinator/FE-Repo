@@ -1,4 +1,4 @@
-# [\[Great Lord-Custom\] \[F\] Master Knight by St Jack](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BGreat%20Lord-Custom%5D%20%5BF%5D%20Master%20Knight%20by%20St%20Jack)
+# [\[Great Lord-Custom\] \[F\] Master Knight by St Jack](https://git.io/Jn3m2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38Z)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOV6"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOMm"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOdu"/> |
 | :---: | :---: | :---: |

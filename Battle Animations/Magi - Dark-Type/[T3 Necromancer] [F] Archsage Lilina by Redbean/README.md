@@ -1,4 +1,4 @@
-# [\[T3 Necromancer\] \[F\] Archsage Lilina by Redbean](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean)
+# [\[T3 Necromancer\] \[F\] Archsage Lilina by Redbean](https://git.io/Jn3q4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BV)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODN"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOFH"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOME"/> |
 | :---: | :---: | :---: |

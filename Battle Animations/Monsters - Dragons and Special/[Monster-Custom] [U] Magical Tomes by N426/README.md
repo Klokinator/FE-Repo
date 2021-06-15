@@ -1,4 +1,4 @@
-# [\[Monster-Custom\] \[U\] Magical Tomes by N426](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BMonster-Custom%5D%20%5BU%5D%20Magical%20Tomes%20by%20N426)
+# [\[Monster-Custom\] \[U\] Magical Tomes by N426](https://git.io/Jn3Yo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uY)
 
 | <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://git.io/JnO6u"/> | <b>Magic (Fire)</b><br/><img alt="Magic (Fire)" src="https://git.io/JnObr"/> | <b>Magic (Ice)</b><br/><img alt="Magic (Ice)" src="https://git.io/JnOAP"/> |
 | :---: | :---: | :---: |

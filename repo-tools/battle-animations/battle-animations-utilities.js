@@ -68,13 +68,9 @@ ${anim.credits}
 		showWeaponsHeading = true
 	}
 
-    let downloadButton = ""
-    if(path != undefined) {
-        // Shields-safe name: encodeURI(anim.name).replace("-", "--")
-        downloadButton = `[${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})`
-    }
+    let downloadButton = `[${DOWNLOAD_BUTTON}](${anim.downloadGitio || anim.downloadUri})`
 
-	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${anim.uri} ${downloadButton}
+	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${anim.gitio || anim.uri}) ${downloadButton}
 
 ${makeWeaponsContent({anim, currentDir})}
 
@@ -129,7 +125,7 @@ const makeWeaponsContent = ({anim, currentDir}) => {
 const makeWeaponContent = ({weapon, currentDir}) => {
     let content = ""
     content += `<b>${weapon.name}</b><br/>`
-    content += `<img alt="${weapon.name}" src="${weapon.gifGitio || weapon.gitUri}"/>`
+    content += `<img alt="${weapon.name}" src="${weapon.gifGitio || weapon.gifUri || currentDir + "/" + weapon.gifPath}"/>`
     return content
 }
 

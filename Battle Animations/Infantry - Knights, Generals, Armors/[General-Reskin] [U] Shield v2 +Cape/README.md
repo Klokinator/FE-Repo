@@ -1,4 +1,4 @@
-# [\[General-Reskin\] \[U\] Shield v2 +Cape](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BGeneral-Reskin%5D%20%5BU%5D%20Shield%20v2%20%2BCape)
+# [\[General-Reskin\] \[U\] Shield v2 +Cape](https://git.io/Jn3Tj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cS)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpV"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOhR"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx5"/> |
 | :---: | :---: | :---: |

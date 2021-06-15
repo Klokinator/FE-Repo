@@ -1,4 +1,4 @@
-# [\[Sage-Custom\] \[F\] Limstella v1 by FE7if](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Nature-Type%2F%5BSage-Custom%5D%20%5BF%5D%20Limstella%20v1%20by%20FE7if)
+# [\[Sage-Custom\] \[F\] Limstella v1 by FE7if](https://git.io/Jn3I7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uE)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOPj"/> | <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://git.io/JnOVs"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd0"/> |
 | :---: | :---: | :---: |

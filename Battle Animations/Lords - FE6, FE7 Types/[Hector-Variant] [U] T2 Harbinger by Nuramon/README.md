@@ -1,4 +1,4 @@
-# [\[Hector-Variant\] \[U\] T2 Harbinger by Nuramon](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BHector-Variant%5D%20%5BU%5D%20T2%20Harbinger%20by%20Nuramon)
+# [\[Hector-Variant\] \[U\] T2 Harbinger by Nuramon](https://git.io/Jn3tF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3no)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON2"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOQY"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO9U"/> |
 | :---: | :---: | :---: |

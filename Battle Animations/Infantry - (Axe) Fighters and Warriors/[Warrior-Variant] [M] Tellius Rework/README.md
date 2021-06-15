@@ -1,4 +1,4 @@
-# [\[Warrior-Variant\] \[M\] Tellius Rework](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Fighters%20and%20Warriors%2F%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework)
+# [\[Warrior-Variant\] \[M\] Tellius Rework](https://git.io/Jn3JN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34D)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO08"/> | <b>Axe (Alt Attack)</b><br/><img alt="Axe (Alt Attack)" src="https://git.io/JnOrW"/> | <b>Axe (Vanilla Crit + Magic)</b><br/><img alt="Axe (Vanilla Crit + Magic)" src="https://git.io/JnO0X"/> |
 | :---: | :---: | :---: |

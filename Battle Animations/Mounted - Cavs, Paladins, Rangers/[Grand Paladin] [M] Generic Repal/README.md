@@ -1,4 +1,4 @@
-# [\[Grand Paladin\] \[M\] Generic Repal](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BGrand%20Paladin%5D%20%5BM%5D%20Generic%20Repal)
+# [\[Grand Paladin\] \[M\] Generic Repal](https://git.io/Jn3YD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38s)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOxi"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOxP"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO5g"/> |
 | :---: | :---: | :---: |

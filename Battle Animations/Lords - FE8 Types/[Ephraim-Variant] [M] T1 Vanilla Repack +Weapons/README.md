@@ -1,4 +1,4 @@
-# [\[Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE8%20Types%2F%5BEphraim-Variant%5D%20%5BM%5D%20T1%20Vanilla%20Repack%20%2BWeapons)
+# [\[Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](https://git.io/Jn3vk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eo)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOoZ"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JnOEf"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO2v"/> |
 | :---: | :---: | :---: |

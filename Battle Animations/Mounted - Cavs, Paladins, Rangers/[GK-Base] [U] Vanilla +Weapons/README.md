@@ -1,4 +1,4 @@
-# [\[GK-Base\] \[U\] Vanilla +Weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BGK-Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
+# [\[GK-Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3Ot) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WV)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOND"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpp"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOp9"/> |
 | :---: | :---: | :---: |

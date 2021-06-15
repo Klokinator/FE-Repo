@@ -1,4 +1,4 @@
-# [\[Paladin-Variant\] \[M\] SALVAGED Repal](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BPaladin-Variant%5D%20%5BM%5D%20SALVAGED%20Repal)
+# [\[Paladin-Variant\] \[M\] SALVAGED Repal](https://git.io/Jn3m7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cx)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7d"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOgl"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOoh"/> |
 | :---: | :---: | :---: |

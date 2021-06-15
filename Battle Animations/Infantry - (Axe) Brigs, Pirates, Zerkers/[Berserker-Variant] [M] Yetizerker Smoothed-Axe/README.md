@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[M\] Yetizerker Smoothed-Axe](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Variant%5D%20%5BM%5D%20Yetizerker%20Smoothed-Axe)
+# [\[Berserker-Variant\] \[M\] Yetizerker Smoothed-Axe](https://git.io/Jn3JR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GK)
 
 | <b>Axe (Red Variant)</b><br/><img alt="Axe (Red Variant)" src="https://git.io/JnOKE"/> | <b>Axe (Yetizerker Smoothed)</b><br/><img alt="Axe (Yetizerker Smoothed)" src="https://git.io/JnO6r"/> |
 | :---: | :---: |

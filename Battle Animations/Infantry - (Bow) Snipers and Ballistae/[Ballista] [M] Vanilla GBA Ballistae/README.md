@@ -1,4 +1,4 @@
-# [\[Ballista\] \[M\] Vanilla GBA Ballistae](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Bow)%20Snipers%20and%20Ballistae%2F%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae)
+# [\[Ballista\] \[M\] Vanilla GBA Ballistae](https://git.io/Jn3Jx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GQ)
 
 | <b>Bow (FE6 Ballista)</b><br/><img alt="Bow (FE6 Ballista)" src="https://git.io/JnO5x"/> | <b>Bow (FE7 Ballista)</b><br/><img alt="Bow (FE7 Ballista)" src="https://git.io/JnOM9"/> | <b>Bow (FE8 Ballista)</b><br/><img alt="Bow (FE8 Ballista)" src="https://git.io/JnOMx"/> |
 | :---: | :---: | :---: |

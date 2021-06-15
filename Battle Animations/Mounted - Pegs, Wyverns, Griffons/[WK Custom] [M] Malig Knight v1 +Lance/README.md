@@ -1,4 +1,4 @@
-# [\[WK Custom\] \[M\] Malig Knight v1 +Lance](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2F%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1%20%2BLance)
+# [\[WK Custom\] \[M\] Malig Knight v1 +Lance](https://git.io/Jn3Os) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zp)
 
 | <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://git.io/JnO4z"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhs"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO40"/> |
 | :---: | :---: | :---: |

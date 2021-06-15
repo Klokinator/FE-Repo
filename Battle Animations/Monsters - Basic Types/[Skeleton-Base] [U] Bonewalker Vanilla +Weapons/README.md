@@ -1,4 +1,4 @@
-# [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Basic%20Types%2F%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20%2BWeapons)
+# [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](https://git.io/Jn3mf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38k)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhw"/> | <b>Axe {MrNight}</b><br/><img alt="Axe {MrNight}" src="https://git.io/JnOyn"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[Sword Custom\] \[M\] Squire by Russel Clark](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark)
+# [\[Sword Custom\] \[M\] Squire by Russel Clark](https://git.io/Jn3qj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lP)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyU"/> | <b>Sword (Updated)</b><br/><img alt="Sword (Updated)" src="https://git.io/JnOyT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSI"/> |
 | :---: | :---: | :---: |

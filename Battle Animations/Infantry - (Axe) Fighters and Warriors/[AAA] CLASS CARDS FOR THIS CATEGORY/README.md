@@ -13,8 +13,8 @@
 |<img alt="Fighter (M) Axe {IS}" src="Fighter (M) Axe {IS}.png" />|<img alt="Fighter (M) Improved Axe {flasuban}" src="Fighter (M) Improved Axe {flasuban}.png" />|<img alt="Fighter (M) Sword {Vilkalizer}" src="Fighter (M) Sword {Vilkalizer}.png" />|<img alt="Fighter (M) Tellius-Style Axe {flasuban}" src="Fighter (M) Tellius-Style Axe {flasuban}.png" />|
 
 
-|Journeyman (M) Axe (SamirPlayz) <br> |Warrior (F) Axe <br> {Jj09}|Warrior (M) Axe <br> {IS}|
-| :---: | :---: | :---: |
-|<img alt="Journeyman (M) Axe (SamirPlayz)" src="Journeyman (M) Axe (SamirPlayz).png" />|<img alt="Warrior (F) Axe {Jj09}" src="Warrior (F) Axe {Jj09}.png" />|<img alt="Warrior (M) Axe {IS}" src="Warrior (M) Axe {IS}.png" />|
+|Journeyman (M) Axe (SamirPlayz) <br> |Warrior (F) Axe <br> {Jj09}|Warrior (M) Axe <br> {IS}|Warrior (M) Tellius <br> {Rasdel}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Journeyman (M) Axe (SamirPlayz)" src="Journeyman (M) Axe (SamirPlayz).png" />|<img alt="Warrior (F) Axe {Jj09}" src="Warrior (F) Axe {Jj09}.png" />|<img alt="Warrior (M) Axe {IS}" src="Warrior (M) Axe {IS}.png" />|<img alt="Warrior (M) Tellius {Rasdel}" src="Warrior (M) Tellius {Rasdel}.png" />|
 
 

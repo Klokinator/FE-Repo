@@ -13,8 +13,13 @@
 |<img alt="Fighter (M) FE10-Style Axe {L95}-stand" src="Fighter (M) FE10-Style Axe {L95}-stand.png" />|<img alt="Fighter (M) FE10-Style Sword {L95, Warpath}-stand" src="Fighter (M) FE10-Style Sword {L95, Warpath}-stand.png" />|<img alt="Fighter (M) Improved Axe {flasuban}-stand" src="Fighter (M) Improved Axe {flasuban}-stand.png" />|<img alt="Fighter (M) Revamped Axe {Alusq}-stand" src="Fighter (M) Revamped Axe {Alusq}-stand.png" />|
 
 
-|Journeyman (M) Axe <br> {IS}|Warrior (F) Axe <br> {FEGirls}|Warrior (M) Axe <br> {IS}|Warrior (M) Tellius <br> {Rasdel}|
+|Journeyman (M) Axe 16x16 <br> {IS}|Journeyman (M) Axe <br> {IS}|Warrior (F) Axe <br> {FEGirls}|Warrior (M) Axe <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Journeyman (M) Axe {IS}-stand" src="Journeyman (M) Axe {IS}-stand.png" />|<img alt="Warrior (F) Axe {FEGirls}-stand" src="Warrior (F) Axe {FEGirls}-stand.png" />|<img alt="Warrior (M) Axe {IS}-stand" src="Warrior (M) Axe {IS}-stand.png" />|<img alt="Warrior (M) Tellius {Rasdel}-stand" src="Warrior (M) Tellius {Rasdel}-stand.png" />|
+|<img alt="Journeyman (M) Axe 16x16 {IS}-stand" src="Journeyman (M) Axe 16x16 {IS}-stand.png" />|<img alt="Journeyman (M) Axe {IS}-stand" src="Journeyman (M) Axe {IS}-stand.png" />|<img alt="Warrior (F) Axe {FEGirls}-stand" src="Warrior (F) Axe {FEGirls}-stand.png" />|<img alt="Warrior (M) Axe {IS}-stand" src="Warrior (M) Axe {IS}-stand.png" />|
+
+
+|Warrior (M) Tellius <br> {Rasdel}|
+| :---: |
+|<img alt="Warrior (M) Tellius {Rasdel}-stand" src="Warrior (M) Tellius {Rasdel}-stand.png" />|
 
 

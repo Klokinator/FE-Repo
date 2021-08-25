@@ -1,0 +1,7 @@
+The animation used song track 3331, the Gorgan scream, to call the Stantler battle cry
+For the animation to sound correct, replace that with the audio file. 
+If you don't want you replace the Gorgan Scream, replace what code the animation calls for in the code, and then put the stanlter audio there
+
+FSE and FSU, just credit and all that
+
+

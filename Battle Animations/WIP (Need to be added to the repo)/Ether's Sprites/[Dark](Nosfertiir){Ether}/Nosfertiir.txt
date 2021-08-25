@@ -1,0 +1,233 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C100829
+C012448
+C40
+C010A48
+O  p- Nosfertiir_o_000.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_002.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_003.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_004.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_005.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_006.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_007.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_008.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_009.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_010.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_011.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_012.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_013.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_014.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_015.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_016.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_017.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_018.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_019.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_020.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_021.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_022.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_023.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_024.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_025.png
+B  p- Nosfertiir_b_001.png
+1
+C0C1A
+C0C1F
+C012648
+O  p- Nosfertiir_o_026.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_027.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_028.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_029.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_030.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_031.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_032.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_033.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_034.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_035.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_036.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_037.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_038.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_039.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_040.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_041.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_042.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_043.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_044.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_045.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_046.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_047.png
+B  p- Nosfertiir_b_001.png
+1
+C012648
+O  p- Nosfertiir_o_048.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_049.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_050.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_051.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_052.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_053.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_054.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_055.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_056.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_057.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_058.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_059.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_060.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_061.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_062.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_063.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_064.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_065.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_066.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_067.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_068.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_069.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_070.png
+B  p- Nosfertiir_b_001.png
+1
+O  p- Nosfertiir_o_071.png
+B  p- Nosfertiir_b_001.png
+1
+/// - End of animation

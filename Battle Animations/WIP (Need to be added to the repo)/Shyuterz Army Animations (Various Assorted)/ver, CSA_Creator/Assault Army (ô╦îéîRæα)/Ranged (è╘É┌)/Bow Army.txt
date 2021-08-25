@@ -1,0 +1,151 @@
+C000000
+C000000
+C000000
+C000000
+C000000
+C000040
+C001029
+C00E248
+C000153
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C051029
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C0A1029
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C101029
+C00002A
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C0A1029
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C051029
+O Bow Army_o_002.png
+B Bow Army_b_001.png
+1
+
+C011029
+O Bow Army_o_002.png
+B Bow Army_b_003.png
+1
+
+C100029
+O Bow Army_o_002.png
+B Bow Army_b_003.png
+1
+
+O Bow Army_o_004.png
+B Bow Army_b_003.png
+20
+
+O Bow Army_o_005.png
+B Bow Army_b_006.png
+1
+
+O Bow Army_o_005.png
+B Bow Army_b_001.png
+1
+
+C013648
+C00001A
+~~~
+C00001F
+C000051
+C101029
+O Bow Army_o_007.png
+B Bow Army_b_001.png
+3
+
+C000014
+O Bow Army_o_007.png
+B Bow Army_b_008.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_009.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_010.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_011.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_012.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_013.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_014.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_015.png
+1
+
+O Bow Army_o_007.png
+B Bow Army_b_003.png
+14
+
+O Bow Army_o_007.png
+B Bow Army_b_003.png
+2
+
+C001029
+O Bow Army_o_007.png
+B Bow Army_b_001.png
+1
+
+C000A29
+O Bow Army_o_007.png
+B Bow Army_b_001.png
+1
+
+C000529
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C000029
+C10102A
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C000129
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C000529
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C000A29
+O Bow Army_o_000.png
+B Bow Army_b_001.png
+1
+
+C001029
+C000053
+/// - End of animation

@@ -1,0 +1,108 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C51
+C011E48
+C1A
+C1F
+C14
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_001.png
+1
+C100029
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_002.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_003.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_004.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_005.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_006.png
+1
+C14
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_007.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_008.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_009.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_010.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_011.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_012.png
+1
+C14
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_013.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_014.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_015.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_016.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_017.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_018.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_019.png
+1
+C14
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_020.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_021.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_022.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_023.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_024.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_025.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_026.png
+1
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_027.png
+1
+C14
+C40
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_027.png
+7
+C14
+O  p- Without Effect_o_000.png
+B  p- Without Effect_b_027.png
+5
+C100029
+~~~
+/// - End of animation

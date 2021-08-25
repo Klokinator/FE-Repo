@@ -1,0 +1,146 @@
+/// - Mode 1
+C03
+C07
+1 p- lorf_sw1_000.png
+4 p- lorf_sw1_001.png
+C43
+2 p- lorf_sw1_002.png
+2 p- lorf_sw1_003.png
+10 p- lorf_sw1_004.png
+4 p- lorf_sw1_005.png
+4 p- lorf_sw1_006.png
+5 p- lorf_sw1_007.png
+C24
+C04
+C34
+2 p- lorf_sw1_018.png
+1 p- lorf_sw1_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- lorf_sw1_000.png
+2 p- lorf_sw1_019.png
+2 p- lorf_sw1_020.png
+C34
+3 p- lorf_sw1_021.png
+5 p- lorf_sw1_022.png
+4 p- lorf_sw1_023.png
+3 p- lorf_sw1_024.png
+10 p- lorf_sw1_025.png
+3 p- lorf_sw1_026.png
+C1B
+3 p- lorf_sw1_027.png
+3 p- lorf_sw1_028.png
+C43
+2 p- lorf_sw1_029.png
+3 p- lorf_sw1_030.png
+8 p- lorf_sw1_031.png
+2 p- lorf_sw1_032.png
+2 p- lorf_sw1_033.png
+2 p- lorf_sw1_034.png
+C24
+C04
+2 p- lorf_sw1_007.png
+~~~
+/// - Mode 5
+C03
+C07
+2 p- lorf_sw1_029.png
+3 p- lorf_sw1_030.png
+8 p- lorf_sw1_031.png
+2 p- lorf_sw1_032.png
+2 p- lorf_sw1_033.png
+2 p- lorf_sw1_034.png
+C05
+2 p- lorf_sw1_034.png
+C01
+C06
+2 p- lorf_sw1_033.png
+2 p- lorf_sw1_034.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+2 p- lorf_sw1_029.png
+3 p- lorf_sw1_030.png
+8 p- lorf_sw1_031.png
+2 p- lorf_sw1_032.png
+2 p- lorf_sw1_033.png
+2 p- lorf_sw1_034.png
+C05
+2 p- lorf_sw1_034.png
+C01
+C06
+2 p- lorf_sw1_033.png
+2 p- lorf_sw1_034.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- lorf_sw1_000.png
+C0E
+2 p- lorf_sw1_032.png
+2 p- lorf_sw1_033.png
+2 p- lorf_sw1_034.png
+C01
+2 p- lorf_sw1_034.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- lorf_sw1_000.png
+C0E
+2 p- lorf_sw1_032.png
+2 p- lorf_sw1_033.png
+2 p- lorf_sw1_034.png
+C01
+2 p- lorf_sw1_033.png
+C0D
+~~~
+/// - Mode 9
+1 p- lorf_sw1_000.png
+C01
+~~~
+/// - Mode 10
+1 p- lorf_sw1_000.png
+C01
+~~~
+/// - Mode 11
+1 p- lorf_sw1_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- lorf_sw1_000.png
+4 p- lorf_sw1_001.png
+C43
+2 p- lorf_sw1_002.png
+2 p- lorf_sw1_003.png
+10 p- lorf_sw1_004.png
+4 p- lorf_sw1_005.png
+4 p- lorf_sw1_006.png
+5 p- lorf_sw1_007.png
+C24
+C04
+3 p- lorf_sw1_004.png
+2 p- lorf_sw1_005.png
+2 p- lorf_sw1_006.png
+2 p- lorf_sw1_007.png
+C01
+3 p- lorf_sw1_004.png
+2 p- lorf_sw1_005.png
+2 p- lorf_sw1_006.png
+2 p- lorf_sw1_007.png
+C06
+2 p- lorf_sw1_006.png
+2 p- lorf_sw1_007.png
+C34
+2 p- lorf_sw1_018.png
+1 p- lorf_sw1_000.png
+C0D
+~~~
+/// - End of animation

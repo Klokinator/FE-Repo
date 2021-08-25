@@ -1,0 +1,227 @@
+/// - Mode 1
+C03
+C07
+1 p- Avat_sp_000.png
+4 p- Avat_sp_001.png
+20 p- Avat_sp_002.png
+S0332
+2 p- Avat_sp_003.png
+5 p- Avat_sp_004.png
+8 p- Avat_sp_005.png
+S0332
+2 p- Avat_sp_006.png
+5 p- Avat_sp_007.png
+2 p- Avat_sp_008.png
+20 p- Avat_sp_009.png
+3 p- Avat_sp_010.png
+C05
+L
+3 p- Avat_sp_011.png
+3 p- Avat_sp_012.png
+C01
+C06
+2 p- Avat_sp_013.png
+3 p- Avat_sp_014.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Avat_sp_015.png
+4 p- Avat_sp_016.png
+20 p- Avat_sp_017.png
+S0332
+2 p- Avat_sp_018.png
+5 p- Avat_sp_019.png
+8 p- Avat_sp_020.png
+S0332
+2 p- Avat_sp_021.png
+5 p- Avat_sp_022.png
+2 p- Avat_sp_023.png
+20 p- Avat_sp_024.png
+3 p- Avat_sp_025.png
+4 p- Avat_sp_026.png
+20 p- Avat_sp_027.png
+S03B3
+1 p- Avat_sp_028.png
+1 p- Avat_sp_029.png
+1 p- Avat_sp_030.png
+1 p- Avat_sp_031.png
+1 p- Avat_sp_032.png
+1 p- Avat_sp_033.png
+1 p- Avat_sp_034.png
+1 p- Avat_sp_035.png
+1 p- Avat_sp_036.png
+1 p- Avat_sp_037.png
+1 p- Avat_sp_038.png
+1 p- Avat_sp_039.png
+1 p- Avat_sp_040.png
+1 p- Avat_sp_041.png
+1 p- Avat_sp_042.png
+1 p- Avat_sp_043.png
+2 p- Avat_sp_044.png
+1 p- Avat_sp_045.png
+2 p- Avat_sp_046.png
+1 p- Avat_sp_047.png
+2 p- Avat_sp_048.png
+1 p- Avat_sp_049.png
+2 p- Avat_sp_050.png
+1 p- Avat_sp_051.png
+3 p- Avat_sp_052.png
+1 p- Avat_sp_053.png
+3 p- Avat_sp_054.png
+1 p- Avat_sp_055.png
+20 p- Avat_sp_056.png
+3 p- Avat_sp_057.png
+C05
+L
+3 p- Avat_sp_058.png
+3 p- Avat_sp_059.png
+C01
+C06
+2 p- Avat_sp_060.png
+3 p- Avat_sp_061.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Avat_sp_062.png
+4 p- Avat_sp_063.png
+20 p- Avat_sp_064.png
+S0332
+2 p- Avat_sp_065.png
+5 p- Avat_sp_066.png
+8 p- Avat_sp_067.png
+S0332
+2 p- Avat_sp_068.png
+5 p- Avat_sp_069.png
+2 p- Avat_sp_070.png
+20 p- Avat_sp_071.png
+3 p- Avat_sp_072.png
+C05
+L
+3 p- Avat_sp_073.png
+3 p- Avat_sp_074.png
+C01
+C06
+2 p- Avat_sp_075.png
+3 p- Avat_sp_076.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Avat_sp_077.png
+4 p- Avat_sp_078.png
+20 p- Avat_sp_079.png
+S0332
+2 p- Avat_sp_080.png
+5 p- Avat_sp_081.png
+8 p- Avat_sp_082.png
+S0332
+2 p- Avat_sp_083.png
+5 p- Avat_sp_084.png
+2 p- Avat_sp_085.png
+20 p- Avat_sp_086.png
+3 p- Avat_sp_087.png
+4 p- Avat_sp_088.png
+20 p- Avat_sp_089.png
+S03B3
+1 p- Avat_sp_090.png
+1 p- Avat_sp_091.png
+1 p- Avat_sp_092.png
+1 p- Avat_sp_093.png
+1 p- Avat_sp_094.png
+1 p- Avat_sp_095.png
+1 p- Avat_sp_096.png
+1 p- Avat_sp_097.png
+1 p- Avat_sp_098.png
+1 p- Avat_sp_099.png
+1 p- Avat_sp_100.png
+1 p- Avat_sp_101.png
+1 p- Avat_sp_102.png
+1 p- Avat_sp_103.png
+1 p- Avat_sp_104.png
+1 p- Avat_sp_105.png
+2 p- Avat_sp_106.png
+1 p- Avat_sp_107.png
+2 p- Avat_sp_108.png
+1 p- Avat_sp_109.png
+2 p- Avat_sp_110.png
+1 p- Avat_sp_111.png
+2 p- Avat_sp_112.png
+1 p- Avat_sp_113.png
+3 p- Avat_sp_114.png
+1 p- Avat_sp_115.png
+3 p- Avat_sp_116.png
+1 p- Avat_sp_117.png
+20 p- Avat_sp_118.png
+3 p- Avat_sp_119.png
+C05
+L
+3 p- Avat_sp_120.png
+3 p- Avat_sp_121.png
+C01
+C06
+2 p- Avat_sp_122.png
+3 p- Avat_sp_123.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Avat_sp_124.png
+3 p- Avat_sp_125.png
+1 p- Avat_sp_126.png
+C01
+3 p- Avat_sp_127.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Avat_sp_128.png
+3 p- Avat_sp_129.png
+1 p- Avat_sp_130.png
+C01
+3 p- Avat_sp_131.png
+C0D
+~~~
+/// - Mode 9
+1 p- Avat_sp_132.png
+C01
+~~~
+/// - Mode 10
+1 p- Avat_sp_133.png
+C01
+~~~
+/// - Mode 11
+1 p- Avat_sp_134.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Avat_sp_135.png
+4 p- Avat_sp_136.png
+20 p- Avat_sp_137.png
+S0332
+2 p- Avat_sp_138.png
+5 p- Avat_sp_139.png
+8 p- Avat_sp_140.png
+S0332
+2 p- Avat_sp_141.png
+5 p- Avat_sp_142.png
+2 p- Avat_sp_143.png
+20 p- Avat_sp_144.png
+3 p- Avat_sp_145.png
+C05
+L
+3 p- Avat_sp_146.png
+3 p- Avat_sp_147.png
+C01
+C06
+2 p- Avat_sp_148.png
+3 p- Avat_sp_149.png
+C0D
+~~~
+/// - End of animation

@@ -1,0 +1,113 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C100429
+C51
+O  p- Melee Breath_o_000.png
+B  p- Melee Breath_b_001.png
+1
+C011E48
+C1A
+C1F
+O  p- Melee Breath_o_000.png
+B  p- Melee Breath_b_002.png
+1
+C14
+O  p- Melee Breath_o_003.png
+B  p- Melee Breath_b_004.png
+1
+O  p- Melee Breath_o_005.png
+B  p- Melee Breath_b_006.png
+1
+O  p- Melee Breath_o_007.png
+B  p- Melee Breath_b_008.png
+1
+O  p- Melee Breath_o_009.png
+B  p- Melee Breath_b_010.png
+1
+O  p- Melee Breath_o_011.png
+B  p- Melee Breath_b_012.png
+1
+O  p- Melee Breath_o_013.png
+B  p- Melee Breath_b_014.png
+1
+O  p- Melee Breath_o_015.png
+B  p- Melee Breath_b_016.png
+1
+C14
+O  p- Melee Breath_o_017.png
+B  p- Melee Breath_b_018.png
+1
+O  p- Melee Breath_o_019.png
+B  p- Melee Breath_b_020.png
+1
+O  p- Melee Breath_o_021.png
+B  p- Melee Breath_b_022.png
+1
+O  p- Melee Breath_o_023.png
+B  p- Melee Breath_b_024.png
+1
+O  p- Melee Breath_o_025.png
+B  p- Melee Breath_b_026.png
+1
+O  p- Melee Breath_o_027.png
+B  p- Melee Breath_b_028.png
+1
+O  p- Melee Breath_o_029.png
+B  p- Melee Breath_b_030.png
+1
+O  p- Melee Breath_o_031.png
+B  p- Melee Breath_b_032.png
+1
+C14
+O  p- Melee Breath_o_033.png
+B  p- Melee Breath_b_034.png
+1
+O  p- Melee Breath_o_035.png
+B  p- Melee Breath_b_036.png
+1
+O  p- Melee Breath_o_037.png
+B  p- Melee Breath_b_038.png
+1
+O  p- Melee Breath_o_039.png
+B  p- Melee Breath_b_040.png
+1
+O  p- Melee Breath_o_041.png
+B  p- Melee Breath_b_042.png
+1
+O  p- Melee Breath_o_043.png
+B  p- Melee Breath_b_044.png
+1
+O  p- Melee Breath_o_045.png
+B  p- Melee Breath_b_046.png
+1
+O  p- Melee Breath_o_047.png
+B  p- Melee Breath_b_048.png
+1
+C14
+O  p- Melee Breath_o_049.png
+B  p- Melee Breath_b_050.png
+1
+O  p- Melee Breath_o_051.png
+B  p- Melee Breath_b_052.png
+1
+O  p- Melee Breath_o_000.png
+B  p- Melee Breath_b_053.png
+1
+C40
+O  p- Melee Breath_o_000.png
+B  p- Melee Breath_b_053.png
+14
+C14
+O  p- Melee Breath_o_000.png
+B  p- Melee Breath_b_053.png
+14
+C14
+O  p- Melee Breath_o_000.png
+B  p- Melee Breath_b_053.png
+2
+~~~
+/// - End of animation

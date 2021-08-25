@@ -1,0 +1,85 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C40
+C00
+C00
+C00
+C00
+C00
+C00
+C101029
+C03AC48
+O  p- Meteiir_o_000.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_002.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_003.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_004.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_005.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_006.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_007.png
+B  p- Meteiir_b_001.png
+2
+CAB48
+O  p- Meteiir_o_008.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_009.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_010.png
+B  p- Meteiir_b_001.png
+2
+C03AC48
+O  p- Meteiir_o_000.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_011.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_012.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_013.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_014.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_015.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_016.png
+B  p- Meteiir_b_001.png
+2
+CF848
+C1A
+C1F
+O  p- Meteiir_o_017.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_017.png
+B  p- Meteiir_b_001.png
+2
+O  p- Meteiir_o_017.png
+B  p- Meteiir_b_001.png
+2
+/// - End of animation

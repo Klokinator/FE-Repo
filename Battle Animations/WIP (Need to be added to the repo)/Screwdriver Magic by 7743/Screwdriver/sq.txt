@@ -1,0 +1,89 @@
+#######################################################
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+CDC48                               #Sound 220 SE:Mamkute transform
+C40                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+C100A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- sq_o_000.png
+B  p- sq_b_001.png
+2
+O  p- sq_o_000.png
+B  p- sq_b_002.png
+3
+O  p- sq_o_000.png
+B  p- sq_b_003.png
+1
+C1A                               #1Fまたはミス終端分岐の前に必要
+~~~                               #miss terminator
+C1F                               #ヒット音を鳴らす(直前に1Aが必要)
+O  p- sq_o_000.png
+B  p- sq_b_004.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_005.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_006.png
+1
+C101029                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- sq_o_000.png
+B  p- sq_b_007.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_008.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_009.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_010.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_011.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_012.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_013.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_014.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_015.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_016.png
+1
+C100A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- sq_o_000.png
+B  p- sq_b_017.png
+1
+O  p- sq_o_000.png
+B  p- sq_b_018.png
+1
+C0C0A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- sq_o_000.png
+B  p- sq_b_019.png
+1
+C0A0A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- sq_o_000.png
+B  p- sq_b_020.png
+1
+C080A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- sq_o_000.png
+B  p- sq_b_019.png
+1
+C040A29                               #背景の明るさと不透明度 引数XX 輝度レベル 0〜100%(0〜10) 引数YY 不透明度 100%〜50%(0〜10)
+O  p- sq_o_000.png
+B  p- sq_b_020.png
+1
+/// - End of animation

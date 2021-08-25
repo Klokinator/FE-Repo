@@ -1,0 +1,115 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C100829
+C40
+C012448
+O  p- Lunaire_o_000.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_000.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_002.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_003.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_000.png
+B  p- Lunaire_b_001.png
+1
+C02BE48
+O  p- Lunaire_o_004.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_005.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_004.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_005.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_004.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_005.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_004.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_005.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_004.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_005.png
+B  p- Lunaire_b_001.png
+1
+O  p- Lunaire_o_004.png
+B  p- Lunaire_b_001.png
+1
+C02E148
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_007.png
+1
+O  p- Lunaire_o_006.png
+B  p- Lunaire_b_008.png
+1
+C1A
+C1F
+/// - End of animation

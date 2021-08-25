@@ -1,0 +1,32 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C40
+C03AC48
+O  p- Shiir_o_000.png
+B  p- Shiir_b_001.png
+1
+O  p- Shiir_o_002.png
+B  p- Shiir_b_001.png
+1
+O  p- Shiir_o_003.png
+B  p- Shiir_b_001.png
+1
+O  p- Shiir_o_004.png
+B  p- Shiir_b_001.png
+1
+O  p- Shiir_o_005.png
+B  p- Shiir_b_001.png
+1
+O  p- Shiir_o_006.png
+B  p- Shiir_b_001.png
+1
+O  p- Shiir_o_006.png
+B  p- Shiir_b_001.png
+1
+C1A
+C1F
+/// - End of animation

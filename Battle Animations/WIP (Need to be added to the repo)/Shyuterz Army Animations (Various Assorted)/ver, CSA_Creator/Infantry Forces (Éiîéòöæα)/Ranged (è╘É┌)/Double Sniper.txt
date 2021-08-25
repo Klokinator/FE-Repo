@@ -1,0 +1,150 @@
+C000000
+C000000
+C000000
+C000000
+C000000
+C000040
+C001029
+C00E248
+C000153
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C051029
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C0A1029
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C101029
+C00002A
+O Double Sniper_o_002.png
+B Double Sniper_b_001.png
+1
+
+C0A1029
+O Double Sniper_o_002.png
+B Double Sniper_b_001.png
+1
+
+C051029
+O Double Sniper_o_002.png
+B Double Sniper_b_001.png
+1
+
+C011029
+O Double Sniper_o_002.png
+B Double Sniper_b_003.png
+1
+
+C101029
+O Double Sniper_o_002.png
+B Double Sniper_b_003.png
+1
+
+O Double Sniper_o_002.png
+B Double Sniper_b_003.png
+2
+
+O Double Sniper_o_004.png
+B Double Sniper_b_003.png
+20
+
+O Double Sniper_o_005.png
+B Double Sniper_b_003.png
+1
+
+O Double Sniper_o_005.png
+B Double Sniper_b_001.png
+1
+
+C013648
+C00001A
+~~~
+C00001F
+C000051
+O Double Sniper_o_006.png
+B Double Sniper_b_001.png
+2
+
+C000014
+O Double Sniper_o_006.png
+B Double Sniper_b_007.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_008.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_009.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_010.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_011.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_012.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_013.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_014.png
+1
+
+O Double Sniper_o_006.png
+B Double Sniper_b_003.png
+14
+
+C001029
+O Double Sniper_o_006.png
+B Double Sniper_b_001.png
+1
+
+C000A29
+O Double Sniper_o_006.png
+B Double Sniper_b_001.png
+1
+
+C000529
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C000029
+C10102A
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C000129
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C000529
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C000A29
+O Double Sniper_o_000.png
+B Double Sniper_b_001.png
+1
+
+C001029
+C000053
+/// - End of animation

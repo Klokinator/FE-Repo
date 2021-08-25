@@ -1,0 +1,97 @@
+/// - Mode 1
+C02
+5 p- lorm_sp1_000.png
+C15
+3 p- lorm_sp1_001.png
+C2B
+3 p- lorm_sp1_002.png
+7 p- lorm_sp1_003.png
+C01
+5 p- lorm_sp1_000.png
+C0D
+~~~
+/// - Mode 3
+C02
+5 p- lorm_sp1_000.png
+C15
+3 p- lorm_sp1_001.png
+C2B
+3 p- lorm_sp1_002.png
+7 p- lorm_sp1_003.png
+C01
+5 p- lorm_sp1_000.png
+C0D
+~~~
+/// - Mode 5
+C02
+5 p- lorm_sp1_000.png
+C15
+3 p- lorm_sp1_001.png
+C2B
+3 p- lorm_sp1_002.png
+7 p- lorm_sp1_003.png
+C01
+5 p- lorm_sp1_000.png
+C0D
+~~~
+/// - Mode 6
+C02
+5 p- lorm_sp1_000.png
+C15
+3 p- lorm_sp1_001.png
+C2B
+3 p- lorm_sp1_002.png
+7 p- lorm_sp1_003.png
+C01
+5 p- lorm_sp1_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+5 p- lorm_sp1_000.png
+C15
+3 p- lorm_sp1_001.png
+C2B
+3 p- lorm_sp1_002.png
+7 p- lorm_sp1_003.png
+C01
+5 p- lorm_sp1_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+5 p- lorm_sp1_000.png
+C15
+3 p- lorm_sp1_001.png
+C2B
+3 p- lorm_sp1_002.png
+7 p- lorm_sp1_003.png
+C01
+5 p- lorm_sp1_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- lorm_sp1_004.png
+C01
+~~~
+/// - Mode 10
+1 p- lorm_sp1_004.png
+C01
+~~~
+/// - Mode 11
+1 p- lorm_sp1_004.png
+C01
+~~~
+/// - Mode 12
+C02
+5 p- lorm_sp1_000.png
+C15
+3 p- lorm_sp1_001.png
+C2B
+3 p- lorm_sp1_002.png
+7 p- lorm_sp1_003.png
+C01
+5 p- lorm_sp1_000.png
+C0D
+~~~
+/// - End of animation

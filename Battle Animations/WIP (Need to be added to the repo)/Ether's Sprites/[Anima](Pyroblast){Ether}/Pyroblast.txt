@@ -1,0 +1,101 @@
+/// - Start Animation
+C00                               
+C00                               
+C00                               
+C00                               
+C00                               
+C40                               
+CF148                               
+O  p- 000.png
+B  p- 001.png
+1
+O  p- 002.png
+B  p- 001.png
+1
+O  p- 002.png
+B  p- 001.png
+1
+O  p- 003.png
+B  p- 001.png
+1
+O  p- 004.png
+B  p- 001.png
+1
+O  p- 005.png
+B  p- 001.png
+1
+O  p- 006.png
+B  p- 001.png
+1
+O  p- 006.png
+B  p- 001.png
+1
+O  p- 007.png
+B  p- 001.png
+1
+O  p- 008.png
+B  p- 001.png
+1
+O  p- 009.png
+B  p- 001.png
+1
+O  p- 010.png
+B  p- 001.png
+1
+O  p- 011.png
+B  p- 001.png
+1
+O  p- 012.png
+B  p- 001.png
+1
+O  p- 013.png
+B  p- 001.png
+1
+O  p- 014.png
+B  p- 001.png
+1
+O  p- 015.png
+B  p- 001.png
+1
+O  p- 016.png
+B  p- 001.png
+1
+O  p- 017.png
+B  p- 001.png
+1
+O  p- 018.png
+B  p- 001.png
+1
+O  p- 019.png
+B  p- 001.png
+1
+O  p- 020.png
+B  p- 001.png
+1
+O  p- 021.png
+B  p- 001.png
+1
+O  p- 022.png
+B  p- 001.png
+1
+O  p- 023.png
+B  p- 001.png
+1
+O  p- 024.png
+B  p- 001.png
+1
+O  p- 025.png
+B  p- 001.png
+1
+O  p- 026.png
+B  p- 001.png
+1
+O  p- 027.png
+B  p- 001.png
+1
+O  p- 028.png
+B  p- 001.png
+1
+C1A
+C1F
+/// - End of animation

@@ -1,0 +1,73 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C00
+C00
+C101029
+C000040
+C02BF48
+
+O p- blank.png
+B p- elwind01.PNG
+1
+O p- blank.png
+B p- elwind02.PNG
+1
+O p- blank.png
+B p- elwind03.PNG
+1
+O p- blank.png
+B p- elwind04.PNG
+1
+O p- blank.png
+B p- elwind05.PNG
+1
+O p- blank.png
+B p- elwind06.PNG
+2
+C00001A
+C1F
+~~~
+O p- blank.png
+B p- elwind21.PNG
+1 
+O p- blank.png
+B p- elwind22.PNG
+1 
+O p- blank.png
+B p- elwind23.PNG
+1 
+O p- blank.png
+B p- elwind24.PNG
+1 
+O p- blank.png
+B p- elwind25.PNG
+1 
+O p- blank.png
+B p- elwind26.PNG
+1 
+O p- blank.png
+B p- elwind27.PNG
+1 
+O p- blank.png
+B p- elwind28.PNG
+1 
+O p- blank.png
+B p- elwind29.PNG
+1 
+O p- blank.png
+B p- elwind30.PNG
+1 
+O p- blank.png
+B p- elwind31.PNG
+1 
+O p- blank.png
+B p- elwind32.PNG
+1 
+O p- blank.png
+B p- elwind33.PNG
+1 
+/// - End Animation

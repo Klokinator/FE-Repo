@@ -1,0 +1,82 @@
+C40                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+
+C00BD48                               #Sound
+O  p- magic_o_000.png
+B  p- a07346.png
+2
+O  p- magic_o_000.png
+B  p- a07348.png
+2
+C00BE48                               #Sound
+O  p- magic_o_000.png
+B  p- a07350.png
+2
+O  p- magic_o_000.png
+B  p- a07353.png
+1
+C1A                               #Required before 1F or miss termination branch
+~~~                               #miss terminator
+C1F                               #Play a hit tone (requires 1A just before)
+O  p- magic_o_000.png
+B  p- a07354.png
+1
+C012848                               #Sound
+O  p- magic_o_000.png
+B  p- a07355.png
+1
+O  p- magic_o_000.png
+B  p- a07356.png
+1
+C00BD48                               #Sound
+O  p- magic_o_000.png
+B  p- a07357.png
+1
+O  p- magic_o_000.png
+B  p- a07358.png
+1
+C00BE48                               #Sound
+O  p- magic_o_000.png
+B  p- a07359.png
+2
+O  p- magic_o_000.png
+B  p- a07361.png
+1
+O  p- magic_o_000.png
+B  p- a07362.png
+1
+C012848                               #Sound
+O  p- magic_o_000.png
+B  p- a07363.png
+1
+O  p- magic_o_000.png
+B  p- a07364.png
+2
+O  p- magic_o_000.png
+B  p- a07366.png
+1
+O  p- magic_o_000.png
+B  p- a07367.png
+2
+O  p- magic_o_000.png
+B  p- a07369.png
+1
+O  p- magic_o_000.png
+B  p- a07370.png
+1
+O  p- magic_o_000.png
+B  p- a07371.png
+1
+C012848                               #Sound
+O  p- magic_o_000.png
+B  p- a07372.png
+1
+O  p- magic_o_000.png
+B  p- a07373.png
+1
+O  p- magic_o_000.png
+B  p- a07374.png
+1
+O  p- magic_o_000.png
+B  p- a07375.png
+1
+/// - End of animation

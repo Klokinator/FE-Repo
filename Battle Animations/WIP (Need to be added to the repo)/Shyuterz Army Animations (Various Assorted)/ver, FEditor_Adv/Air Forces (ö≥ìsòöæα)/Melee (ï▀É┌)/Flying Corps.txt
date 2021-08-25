@@ -1,0 +1,279 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C40
+C1029
+CE248
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C051029
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C0A1029
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C101029
+C2A
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C0A1029
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C051029
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C011029
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_002.png
+1
+C101029
+O  p- Flying Corps_o_003.png
+B  p- Flying Corps_b_002.png
+1
+C24
+O  p- Flying Corps_o_003.png
+B  p- Flying Corps_b_002.png
+1
+C25
+O  p- Flying Corps_o_004.png
+B  p- Flying Corps_b_002.png
+2
+O  p- Flying Corps_o_004.png
+B  p- Flying Corps_b_001.png
+1
+C15
+C1F
+O  p- Flying Corps_o_005.png
+B  p- Flying Corps_b_006.png
+2
+O  p- Flying Corps_o_007.png
+B  p- Flying Corps_b_008.png
+1
+O  p- Flying Corps_o_009.png
+B  p- Flying Corps_b_010.png
+2
+O  p- Flying Corps_o_009.png
+B  p- Flying Corps_b_011.png
+1
+C101029
+O  p- Flying Corps_o_009.png
+B  p- Flying Corps_b_012.png
+1
+C101029
+O  p- Flying Corps_o_013.png
+B  p- Flying Corps_b_014.png
+1
+C23
+O  p- Flying Corps_o_013.png
+B  p- Flying Corps_b_015.png
+1
+C25
+O  p- Flying Corps_o_016.png
+B  p- Flying Corps_b_002.png
+1
+O  p- Flying Corps_o_016.png
+B  p- Flying Corps_b_001.png
+1
+C15
+C1F
+O  p- Flying Corps_o_017.png
+B  p- Flying Corps_b_006.png
+2
+O  p- Flying Corps_o_018.png
+B  p- Flying Corps_b_008.png
+1
+O  p- Flying Corps_o_018.png
+B  p- Flying Corps_b_010.png
+1
+O  p- Flying Corps_o_018.png
+B  p- Flying Corps_b_011.png
+1
+C101029
+O  p- Flying Corps_o_018.png
+B  p- Flying Corps_b_014.png
+1
+C101029
+O  p- Flying Corps_o_018.png
+B  p- Flying Corps_b_001.png
+1
+O  p- Flying Corps_o_019.png
+B  p- Flying Corps_b_002.png
+1
+C101029
+O  p- Flying Corps_o_019.png
+B  p- Flying Corps_b_002.png
+1
+C25
+O  p- Flying Corps_o_020.png
+B  p- Flying Corps_b_002.png
+1
+O  p- Flying Corps_o_020.png
+B  p- Flying Corps_b_001.png
+1
+C15
+C23
+C1F
+O  p- Flying Corps_o_021.png
+B  p- Flying Corps_b_006.png
+1
+O  p- Flying Corps_o_021.png
+B  p- Flying Corps_b_008.png
+1
+O  p- Flying Corps_o_021.png
+B  p- Flying Corps_b_010.png
+1
+O  p- Flying Corps_o_021.png
+B  p- Flying Corps_b_011.png
+1
+C101029
+O  p- Flying Corps_o_021.png
+B  p- Flying Corps_b_014.png
+1
+C101029
+O  p- Flying Corps_o_021.png
+B  p- Flying Corps_b_001.png
+1
+O  p- Flying Corps_o_022.png
+B  p- Flying Corps_b_002.png
+1
+C101029
+O  p- Flying Corps_o_022.png
+B  p- Flying Corps_b_002.png
+1
+C25
+O  p- Flying Corps_o_023.png
+B  p- Flying Corps_b_002.png
+1
+O  p- Flying Corps_o_023.png
+B  p- Flying Corps_b_001.png
+1
+C15
+C23
+C1F
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_006.png
+1
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_008.png
+1
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_010.png
+1
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_011.png
+1
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_012.png
+1
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_014.png
+1
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_025.png
+1
+C35
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_015.png
+1
+C101029
+O  p- Flying Corps_o_024.png
+B  p- Flying Corps_b_002.png
+1
+C101029
+O  p- Flying Corps_o_026.png
+B  p- Flying Corps_b_002.png
+1
+O  p- Flying Corps_o_026.png
+B  p- Flying Corps_b_001.png
+1
+C51
+C10102A
+C1A
+C03CF48
+C1F
+C14
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_028.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_029.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_030.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_031.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_032.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_033.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_034.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_035.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_036.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_037.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_038.png
+1
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_002.png
+9
+C1029
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_001.png
+1
+C0E29
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_001.png
+1
+C0A29
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_001.png
+1
+C0529
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_001.png
+1
+C29
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_001.png
+1
+C25
+O  p- Flying Corps_o_027.png
+B  p- Flying Corps_b_001.png
+11
+C15
+C0529
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C0A29
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C0D29
+O  p- Flying Corps_o_000.png
+B  p- Flying Corps_b_001.png
+1
+C1029
+~~~
+/// - End of animation

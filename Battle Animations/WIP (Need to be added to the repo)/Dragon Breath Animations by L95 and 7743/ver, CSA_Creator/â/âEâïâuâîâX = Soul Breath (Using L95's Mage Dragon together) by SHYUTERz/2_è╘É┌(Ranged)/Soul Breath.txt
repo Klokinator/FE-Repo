@@ -1,0 +1,146 @@
+C000040
+O Soul Breath_o_000.png
+B Soul Breath_b_001.png
+1
+
+C100029
+O Soul Breath_o_000.png
+B Soul Breath_b_001.png
+1
+
+C00002A
+C000051
+C011F48
+C00001A
+~~~
+C00001F
+C000014
+O Soul Breath_o_002.png
+B Soul Breath_b_003.png
+1
+
+O Soul Breath_o_002.png
+B Soul Breath_b_004.png
+1
+
+O Soul Breath_o_002.png
+B Soul Breath_b_005.png
+1
+
+O Soul Breath_o_002.png
+B Soul Breath_b_006.png
+1
+
+O Soul Breath_o_002.png
+B Soul Breath_b_007.png
+1
+
+O Soul Breath_o_002.png
+B Soul Breath_b_008.png
+1
+
+O Soul Breath_o_002.png
+B Soul Breath_b_009.png
+1
+
+O Soul Breath_o_002.png
+B Soul Breath_b_010.png
+1
+
+C000014
+O Soul Breath_o_002.png
+B Soul Breath_b_011.png
+1
+
+O Soul Breath_o_012.png
+B Soul Breath_b_013.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_014.png
+1
+
+C000014
+O Soul Breath_o_000.png
+B Soul Breath_b_015.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_016.png
+1
+
+O Soul Breath_o_017.png
+B Soul Breath_b_018.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_019.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_020.png
+1
+
+O Soul Breath_o_021.png
+B Soul Breath_b_022.png
+1
+
+C000014
+O Soul Breath_o_000.png
+B Soul Breath_b_023.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_024.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_025.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_026.png
+1
+
+O Soul Breath_o_021.png
+B Soul Breath_b_027.png
+1
+
+C000014
+O Soul Breath_o_000.png
+B Soul Breath_b_028.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_029.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_030.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_031.png
+1
+
+O Soul Breath_o_000.png
+B Soul Breath_b_032.png
+2
+
+C000014
+O Soul Breath_o_000.png
+B Soul Breath_b_032.png
+5
+
+C000014
+O Soul Breath_o_000.png
+B Soul Breath_b_032.png
+5
+
+C000014
+O Soul Breath_o_000.png
+B Soul Breath_b_032.png
+3
+
+C10102A
+/// - End of animation

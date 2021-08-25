@@ -1,0 +1,547 @@
+C000000
+C000000
+C000000
+C000000
+C000000
+C000040
+C001029
+C00E248
+C000153
+O Always Attack!!_o_000.png
+B Always Attack!!_b_001.png
+1
+
+C000A29
+O Always Attack!!_o_000.png
+B Always Attack!!_b_001.png
+1
+
+C000529
+O Always Attack!!_o_000.png
+B Always Attack!!_b_001.png
+1
+
+C000029
+C00002A
+O Always Attack!!_o_000.png
+B Always Attack!!_b_001.png
+1
+
+C000529
+O Always Attack!!_o_000.png
+B Always Attack!!_b_001.png
+1
+
+C000A29
+O Always Attack!!_o_000.png
+B Always Attack!!_b_001.png
+1
+
+C000F29
+O Always Attack!!_o_000.png
+B Always Attack!!_b_001.png
+1
+
+C001029
+C000022
+O Always Attack!!_o_002.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_004.png
+B Always Attack!!_b_003.png
+1
+
+C101029
+O Always Attack!!_o_005.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_006.png
+B Always Attack!!_b_001.png
+1
+
+C00001F
+C000015
+O Always Attack!!_o_006.png
+B Always Attack!!_b_007.png
+1
+
+O Always Attack!!_o_008.png
+B Always Attack!!_b_009.png
+1
+
+O Always Attack!!_o_010.png
+B Always Attack!!_b_011.png
+2
+
+O Always Attack!!_o_012.png
+B Always Attack!!_b_013.png
+1
+
+O Always Attack!!_o_012.png
+B Always Attack!!_b_014.png
+1
+
+O Always Attack!!_o_012.png
+B Always Attack!!_b_015.png
+1
+
+O Always Attack!!_o_012.png
+B Always Attack!!_b_016.png
+1
+
+O Always Attack!!_o_012.png
+B Always Attack!!_b_017.png
+1
+
+O Always Attack!!_o_000.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_012.png
+B Always Attack!!_b_017.png
+1
+
+O Always Attack!!_o_018.png
+B Always Attack!!_b_017.png
+1
+
+O Always Attack!!_o_018.png
+B Always Attack!!_b_001.png
+1
+
+C000022
+C00001F
+C000015
+O Always Attack!!_o_019.png
+B Always Attack!!_b_007.png
+1
+
+O Always Attack!!_o_020.png
+B Always Attack!!_b_009.png
+1
+
+O Always Attack!!_o_021.png
+B Always Attack!!_b_011.png
+1
+
+O Always Attack!!_o_022.png
+B Always Attack!!_b_013.png
+1
+
+O Always Attack!!_o_022.png
+B Always Attack!!_b_014.png
+1
+
+O Always Attack!!_o_022.png
+B Always Attack!!_b_015.png
+1
+
+C101029
+O Always Attack!!_o_022.png
+B Always Attack!!_b_016.png
+1
+
+C101029
+O Always Attack!!_o_022.png
+B Always Attack!!_b_017.png
+1
+
+C000025
+O Always Attack!!_o_023.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_024.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_025.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_025.png
+B Always Attack!!_b_001.png
+1
+
+C00001F
+C000015
+O Always Attack!!_o_026.png
+B Always Attack!!_b_007.png
+1
+
+O Always Attack!!_o_027.png
+B Always Attack!!_b_009.png
+1
+
+O Always Attack!!_o_028.png
+B Always Attack!!_b_011.png
+1
+
+O Always Attack!!_o_028.png
+B Always Attack!!_b_013.png
+1
+
+O Always Attack!!_o_029.png
+B Always Attack!!_b_014.png
+1
+
+O Always Attack!!_o_029.png
+B Always Attack!!_b_015.png
+1
+
+C101029
+O Always Attack!!_o_030.png
+B Always Attack!!_b_016.png
+1
+
+C101029
+O Always Attack!!_o_030.png
+B Always Attack!!_b_017.png
+1
+
+C101029
+O Always Attack!!_o_031.png
+B Always Attack!!_b_003.png
+1
+
+C000025
+O Always Attack!!_o_032.png
+B Always Attack!!_b_003.png
+1
+
+C101029
+O Always Attack!!_o_033.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_034.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_035.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_035.png
+B Always Attack!!_b_001.png
+1
+
+C000022
+C00001F
+C000015
+O Always Attack!!_o_036.png
+B Always Attack!!_b_007.png
+1
+
+O Always Attack!!_o_037.png
+B Always Attack!!_b_009.png
+1
+
+C000025
+O Always Attack!!_o_038.png
+B Always Attack!!_b_011.png
+1
+
+C101029
+O Always Attack!!_o_039.png
+B Always Attack!!_b_014.png
+1
+
+O Always Attack!!_o_040.png
+B Always Attack!!_b_016.png
+1
+
+C101029
+O Always Attack!!_o_040.png
+B Always Attack!!_b_017.png
+1
+
+C101029
+O Always Attack!!_o_040.png
+B Always Attack!!_b_003.png
+1
+
+C101029
+O Always Attack!!_o_041.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_041.png
+B Always Attack!!_b_001.png
+1
+
+C000036
+C00001F
+C000015
+O Always Attack!!_o_042.png
+B Always Attack!!_b_007.png
+1
+
+C101029
+O Always Attack!!_o_042.png
+B Always Attack!!_b_009.png
+1
+
+C101029
+O Always Attack!!_o_043.png
+B Always Attack!!_b_011.png
+1
+
+C101029
+O Always Attack!!_o_042.png
+B Always Attack!!_b_014.png
+1
+
+C101029
+O Always Attack!!_o_042.png
+B Always Attack!!_b_016.png
+1
+
+C101029
+O Always Attack!!_o_043.png
+B Always Attack!!_b_017.png
+1
+
+O Always Attack!!_o_043.png
+B Always Attack!!_b_003.png
+6
+
+O Always Attack!!_o_044.png
+B Always Attack!!_b_003.png
+2
+
+O Always Attack!!_o_044.png
+B Always Attack!!_b_001.png
+1
+
+C000022
+C00001F
+C000015
+O Always Attack!!_o_045.png
+B Always Attack!!_b_007.png
+1
+
+O Always Attack!!_o_045.png
+B Always Attack!!_b_009.png
+1
+
+O Always Attack!!_o_046.png
+B Always Attack!!_b_011.png
+1
+
+O Always Attack!!_o_046.png
+B Always Attack!!_b_013.png
+1
+
+O Always Attack!!_o_046.png
+B Always Attack!!_b_014.png
+1
+
+O Always Attack!!_o_046.png
+B Always Attack!!_b_015.png
+1
+
+C101029
+O Always Attack!!_o_046.png
+B Always Attack!!_b_016.png
+1
+
+C101029
+O Always Attack!!_o_046.png
+B Always Attack!!_b_017.png
+1
+
+C101029
+O Always Attack!!_o_047.png
+B Always Attack!!_b_003.png
+1
+
+C101029
+O Always Attack!!_o_047.png
+B Always Attack!!_b_003.png
+1
+
+C000041
+O Always Attack!!_o_048.png
+B Always Attack!!_b_003.png
+1
+
+C00001B
+O Always Attack!!_o_048.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_049.png
+B Always Attack!!_b_003.png
+3
+
+O Always Attack!!_o_049.png
+B Always Attack!!_b_001.png
+1
+
+C00001F
+C000015
+O Always Attack!!_o_050.png
+B Always Attack!!_b_001.png
+1
+
+O Always Attack!!_o_050.png
+B Always Attack!!_b_007.png
+1
+
+O Always Attack!!_o_050.png
+B Always Attack!!_b_009.png
+1
+
+O Always Attack!!_o_051.png
+B Always Attack!!_b_011.png
+1
+
+O Always Attack!!_o_051.png
+B Always Attack!!_b_013.png
+1
+
+O Always Attack!!_o_051.png
+B Always Attack!!_b_014.png
+1
+
+O Always Attack!!_o_051.png
+B Always Attack!!_b_015.png
+1
+
+C101029
+O Always Attack!!_o_051.png
+B Always Attack!!_b_016.png
+1
+
+C101029
+O Always Attack!!_o_051.png
+B Always Attack!!_b_017.png
+1
+
+C000041
+O Always Attack!!_o_052.png
+B Always Attack!!_b_003.png
+1
+
+O Always Attack!!_o_052.png
+B Always Attack!!_b_001.png
+1
+
+C000051
+C10102A
+C013348
+C00001A
+~~~
+C00001F
+C000014
+O Always Attack!!_o_053.png
+B Always Attack!!_b_054.png
+1
+
+O Always Attack!!_o_053.png
+B Always Attack!!_b_055.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_057.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_058.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_059.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_060.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_061.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_055.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_062.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_063.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_064.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_065.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_062.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_063.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_064.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_065.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_062.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_063.png
+1
+
+O Always Attack!!_o_056.png
+B Always Attack!!_b_064.png
+1
+
+C0C1029
+O Always Attack!!_o_056.png
+B Always Attack!!_b_065.png
+1
+
+C081029
+O Always Attack!!_o_056.png
+B Always Attack!!_b_062.png
+1
+
+C041029
+O Always Attack!!_o_056.png
+B Always Attack!!_b_063.png
+1
+
+C001029
+O Always Attack!!_o_056.png
+B Always Attack!!_b_003.png
+1
+
+C001029
+O Always Attack!!_o_056.png
+B Always Attack!!_b_003.png
+1
+
+C001029
+O Always Attack!!_o_000.png
+B Always Attack!!_b_003.png
+10
+
+C000053
+/// - End of animation

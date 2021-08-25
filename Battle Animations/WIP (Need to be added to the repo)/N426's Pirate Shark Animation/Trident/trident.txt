@@ -1,0 +1,147 @@
+/// - Mode 1
+C03
+C07
+1 p- trident_000.png
+8 p- trident_001.png
+10 p- trident_002.png
+4 p- trident_003.png
+C42
+16 p- trident_004.png
+C05
+C1F
+C01
+4 p- trident_000.png
+C06
+1 p- trident_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- trident_000.png
+8 p- trident_005.png
+10 p- trident_006.png
+4 p- trident_007.png
+3 p- trident_008.png
+3 p- trident_009.png
+4 p- trident_007.png
+C28
+3 p- trident_010.png
+3 p- trident_011.png
+3 p- trident_012.png
+3 p- trident_013.png
+3 p- trident_014.png
+3 p- trident_015.png
+C39
+3 p- trident_003.png
+C42
+16 p- trident_004.png
+C04
+C08
+C1F
+4 p- trident_000.png
+C01
+4 p- trident_000.png
+C06
+1 p- trident_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- trident_000.png
+8 p- trident_001.png
+10 p- trident_002.png
+4 p- trident_003.png
+C42
+16 p- trident_004.png
+C05
+C1F
+C01
+4 p- trident_000.png
+C06
+1 p- trident_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- trident_000.png
+8 p- trident_005.png
+10 p- trident_006.png
+4 p- trident_007.png
+3 p- trident_008.png
+3 p- trident_009.png
+4 p- trident_007.png
+C28
+3 p- trident_010.png
+3 p- trident_011.png
+3 p- trident_012.png
+3 p- trident_013.png
+3 p- trident_014.png
+3 p- trident_015.png
+C39
+3 p- trident_003.png
+C42
+16 p- trident_004.png
+C04
+C08
+C1F
+4 p- trident_000.png
+C01
+4 p- trident_000.png
+C06
+1 p- trident_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- trident_000.png
+C0E
+3 p- trident_016.png
+5 p- trident_017.png
+C01
+3 p- trident_016.png
+1 p- trident_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- trident_000.png
+C0E
+3 p- trident_016.png
+5 p- trident_017.png
+C01
+3 p- trident_016.png
+1 p- trident_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- trident_000.png
+C01
+~~~
+/// - Mode 10
+1 p- trident_000.png
+C01
+~~~
+/// - Mode 11
+1 p- trident_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- trident_000.png
+8 p- trident_001.png
+10 p- trident_002.png
+4 p- trident_003.png
+4 p- trident_004.png
+C05
+C13
+4 p- trident_000.png
+C06
+1 p- trident_000.png
+C01
+C0D
+~~~
+/// - End of animation

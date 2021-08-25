@@ -1,0 +1,32 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C40
+C02C748
+O  p- Toxiir_o_000.png
+B  p- Toxiir_b_001.png
+1
+O  p- Toxiir_o_002.png
+B  p- Toxiir_b_001.png
+1
+O  p- Toxiir_o_003.png
+B  p- Toxiir_b_001.png
+1
+O  p- Toxiir_o_004.png
+B  p- Toxiir_b_001.png
+1
+O  p- Toxiir_o_005.png
+B  p- Toxiir_b_001.png
+1
+O  p- Toxiir_o_006.png
+B  p- Toxiir_b_001.png
+1
+O  p- Toxiir_o_007.png
+B  p- Toxiir_b_001.png
+1
+C1A
+C1F
+/// - End of animation

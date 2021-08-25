@@ -1,0 +1,71 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C40
+C010A48
+O  p- Griir_o_000.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_002.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_003.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_004.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_005.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_006.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_007.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_008.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_008.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_009.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_010.png
+B  p- Griir_b_001.png
+1
+C1A
+C1F
+O  p- Griir_o_011.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_012.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_012.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_013.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_014.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_015.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_003.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_002.png
+B  p- Griir_b_001.png
+1
+O  p- Griir_o_000.png
+B  p- Griir_b_001.png
+1
+/// - End of animation

@@ -73,14 +73,6 @@
 
 
 
-## [GabrielKnight's Fencer \(Axe\) by Lord_Tweed](https://git.io/JElUy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU5)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JElJK"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JElfF"/> |
-| :---: | :---: |
-
-
-
-
 ## [Generic Zephiel by Huichelaar](https://git.io/JElJr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUR)
 
 
@@ -91,15 +83,6 @@
 ## [Its_Just_Jay's Myrmidon Fur Coat](https://git.io/JElJR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUm)
 
 
-
-
-
-
-## [Kenpuhu, Aruku, Nuramon, and Lord_Tweed's Grand Paladin \(Female\)](https://git.io/JElUW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUi)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JElJc"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JElJa"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JElfx"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JElJG"/> |
 
 
 

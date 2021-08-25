@@ -334,29 +334,6 @@
 
 
 
-## [\[T2\]\[BOW\]\[Ranger\]\(Leo style\)\[F\]{Leo_link, JeyTheCount\]](https://git.io/JElJu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUq)
-
-
-
-
-
-
-## [\[T2\]\[BOW\]\[Ranger\]\(Leo style\)\[F\]{Leo_link\]](https://git.io/JElUr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUS)
-
-| <b>BOW</b><br/><img alt="BOW" src="https://git.io/JElJt"/> | <b>SWORD</b><br/><img alt="SWORD" src="https://git.io/JElJH"/> |
-| :---: | :---: |
-
-
-
-
-## [\[T2\]\[BOW\]\[Ranger\]\(Leo style\)\[M\]{Leo_link\]](https://git.io/JElUU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUp)
-
-| <b>BOW</b><br/><img alt="BOW" src="https://git.io/JElJ3"/> | <b>SWORD</b><br/><img alt="SWORD" src="https://git.io/JElJW"/> |
-| :---: | :---: |
-
-
-
-
 ## [\[T2\]\[LRD\]\[Eirika-Base\]\(Brave Lucina\)\[F\]{Red Bean, Jeorge_Reds, EA,Smash,Marlon}](https://git.io/JElJy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUM)
 
 

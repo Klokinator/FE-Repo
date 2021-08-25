@@ -446,6 +446,15 @@
 
 
 
+## [\[Ranger-Reskin\] \[F\] Leo-Style +Lance](https://git.io/JEltY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElt3)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEltk"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JEltf"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JEltU"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JEltq"/> |
+
+
+
+
 ## [\[Ranger-Reskin\] \[F\] Rebecca by Teraspark](https://git.io/Jn3mM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wf)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSk"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnODL"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1O"/> |
@@ -466,6 +475,15 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHi"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO1C"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO18"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Ranger-Reskin\] \[M\] Leo-Style +Lance](https://git.io/JEltm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEltO)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEltI"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JEltt"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JEltJ"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JEltL"/> |
 
 
 

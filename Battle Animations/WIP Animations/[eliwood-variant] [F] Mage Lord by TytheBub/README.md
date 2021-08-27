@@ -1,6 +1,6 @@
-# [\[eliwood-variant\] \[F\] Mage Lord by TytheBub](https://git.io/JElUQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElTv)
+# [\[eliwood-variant\] \[F\] Mage Lord by TytheBub](https://git.io/JE230) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23p)
 
-| <b>magic</b><br/><img alt="magic" src="https://git.io/JElUP"/> |
+| <b>magic</b><br/><img alt="magic" src="https://git.io/JE23L"/> |
 | :---: |
 
 ## Credits

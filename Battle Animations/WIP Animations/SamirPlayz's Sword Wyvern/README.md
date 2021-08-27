@@ -1,4 +1,4 @@
-# [SamirPlayz's Sword Wyvern](https://git.io/JElU3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUu)
+# [SamirPlayz's Sword Wyvern](https://git.io/JE2Ou) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23Z)
 
 
 

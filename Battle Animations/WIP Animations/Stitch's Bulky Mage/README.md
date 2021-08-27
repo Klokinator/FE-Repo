@@ -1,4 +1,4 @@
-# [Stitch's Bulky Mage](https://git.io/JElJo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU4)
+# [Stitch's Bulky Mage](https://git.io/JE2OA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23W)
 
 
 

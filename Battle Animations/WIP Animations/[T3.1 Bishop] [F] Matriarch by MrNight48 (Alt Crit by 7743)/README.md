@@ -1,6 +1,6 @@
-# [\[T3.1 Bishop\] \[F\] Matriarch by MrNight48 \(Alt Crit by 7743\)](https://git.io/JElUJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUN)
+# [\[T3.1 Bishop\] \[F\] Matriarch by MrNight48 \(Alt Crit by 7743\)](https://git.io/JE23N) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sk)
 
-| <b>司祭新</b><br/><img alt="司祭新" src="https://git.io/JElJC"/> |
+| <b>司祭新</b><br/><img alt="司祭新" src="https://git.io/JE2O1"/> |
 | :---: |
 
 ## Credits

@@ -1,4 +1,4 @@
-# [Tykky's Tiki Avoid Frames](https://git.io/JElJZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJj)
+# [Tykky's Tiki Avoid Frames](https://git.io/JE2ON) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23Y)
 
 
 

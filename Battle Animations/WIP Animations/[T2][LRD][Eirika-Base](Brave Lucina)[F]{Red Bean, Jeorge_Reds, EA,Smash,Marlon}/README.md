@@ -1,4 +1,4 @@
-# [\[T2\]\[LRD\]\[Eirika-Base\]\(Brave Lucina\)\[F\]{Red Bean, Jeorge_Reds, EA,Smash,Marlon}](https://git.io/JElJy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUM)
+# [\[T2\]\[LRD\]\[Eirika-Base\]\(Brave Lucina\)\[F\]{Red Bean, Jeorge_Reds, EA,Smash,Marlon}](https://git.io/JE2O8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE231)
 
 
 

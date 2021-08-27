@@ -1,4 +1,4 @@
-# [Generic Zephiel by Huichelaar](https://git.io/JElJr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUR)
+# [Generic Zephiel by Huichelaar](https://git.io/JE2On) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23E)
 
 
 

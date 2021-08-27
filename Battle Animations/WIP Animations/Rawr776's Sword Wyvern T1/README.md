@@ -1,4 +1,4 @@
-# [Rawr776's Sword Wyvern T1](https://git.io/JElfd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUt)
+# [Rawr776's Sword Wyvern T1](https://git.io/JE2OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23d)
 
 
 

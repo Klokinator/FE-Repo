@@ -1,6 +1,6 @@
-# [1. Sword \(Chain\) {Knabepicer}](https://git.io/JElUc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUz)
+# [1. Sword \(Chain\) {Knabepicer}](https://git.io/JE239) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sT)
 
-| <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JElfy"/> |
+| <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JE2O7"/> |
 | :---: |
 
 ## Credits

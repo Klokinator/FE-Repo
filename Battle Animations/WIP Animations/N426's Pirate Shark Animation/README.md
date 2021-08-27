@@ -1,6 +1,6 @@
-# [N426's Pirate Shark Animation](https://git.io/JElUY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElU8)
+# [N426's Pirate Shark Animation](https://git.io/JE23M) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2se)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JElJJ"/> | <b>Trident</b><br/><img alt="Trident" src="https://git.io/JElJe"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JElJl"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JE2OH"/> | <b>Trident</b><br/><img alt="Trident" src="https://git.io/JE2OW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JE2OC"/> |
 | :---: | :---: | :---: |
 
 ## Credits

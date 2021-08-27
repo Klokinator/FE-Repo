@@ -1,4 +1,4 @@
-# [\[Archer-Reskin\] \[M\] Der's Hat {xCrowley}](https://git.io/JElf7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElJb)
+# [\[Archer-Reskin\] \[M\] Der's Hat {xCrowley}](https://git.io/JE2OZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23a)
 
 
 

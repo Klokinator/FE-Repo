@@ -3,9 +3,9 @@
 ### [AAA] CLASS CARDS FOR THIS CATEGORY
 
 
-|Halb-Lancer (M) <br> {Jj09}|Halberdier (M) Dragoon - Custom Lance <br> {Kenpuhu}|Halberdier (M) Dragoon Lance <br> {Unknown}|Halberdier (M) Dragoon v2 Lance <br> {Pikmin, Unknown}|
+|Halb-Lancer (M) <br> {Jj09}|Halberdier (M) Dragoon - Custom Lance <br> {Kenpuhu}|Halberdier (M) Dragoon Lance <br> {Uncredited}|Halberdier (M) Dragoon v2 Lance <br> {Pikmin, Uncredited}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Halb-Lancer (M) {Jj09}" src="Halb-Lancer (M) {Jj09}.png" />|<img alt="Halberdier (M) Dragoon - Custom Lance {Kenpuhu}" src="Halberdier (M) Dragoon - Custom Lance {Kenpuhu}.png" />|<img alt="Halberdier (M) Dragoon Lance {Unknown}" src="Halberdier (M) Dragoon Lance {Unknown}.png" />|<img alt="Halberdier (M) Dragoon v2 Lance {Pikmin, Unknown}" src="Halberdier (M) Dragoon v2 Lance {Pikmin, Unknown}.png" />|
+|<img alt="Halb-Lancer (M) {Jj09}" src="Halb-Lancer (M) {Jj09}.png" />|<img alt="Halberdier (M) Dragoon - Custom Lance {Kenpuhu}" src="Halberdier (M) Dragoon - Custom Lance {Kenpuhu}.png" />|<img alt="Halberdier (M) Dragoon Lance {Uncredited}" src="Halberdier (M) Dragoon Lance {Uncredited}.png" />|<img alt="Halberdier (M) Dragoon v2 Lance {Pikmin, Uncredited}" src="Halberdier (M) Dragoon v2 Lance {Pikmin, Uncredited}.png" />|
 
 
 |Halberdier (M) Lance <br> {TBA}|Militia (M) Deserter Lance <br> {Rasdel}|Soldier (F) Lance <br> {flasuban}|Soldier (M) FE10-Style Lance <br> {flasuban}|

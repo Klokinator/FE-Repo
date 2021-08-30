@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Bow by Spud.
 
 Staff by N426.
+
+Sword by knabepicer, spud (for some copied frames)

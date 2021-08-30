@@ -1,8 +1,17 @@
-# [Raulster's GaidenFMage\(Fixed\)](https://git.io/JE2OQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23C)
+# [\[Mage-Custom1\] \[F\] Gaiden-Style Frame Fix by Gamma](https://git.io/JEXaa) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaP)
 
-
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXag"/> |
+| :---: |
 
 ## Credits
 
-Credits are currently in the process of being implemented fully. Please use the names within {} in the title until the work is complete.
+HyperGammaSpaces
+
+Teraspark
+
+Obsidian_Daddy
+
+Devisian_Nights
+
+Raulster - Fixed some frames where the eye was misplaced
 

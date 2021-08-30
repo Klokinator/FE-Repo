@@ -17,3 +17,7 @@ Sword (Magic Flash) by The_Big_Dededester.
 Chainless Lance by Pushwall, spliced from knabepicer's work.
 
 Magic by DerTheVaporeon.
+
+Chainsword general by knabepicer, combined into Shield General by Pushwall.
+
+

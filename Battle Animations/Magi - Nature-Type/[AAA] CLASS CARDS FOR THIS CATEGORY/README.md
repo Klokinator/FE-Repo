@@ -8,9 +8,9 @@
 |<img alt="Archsage (M) Staff {Orihara_Saki}" src="Archsage (M) Staff {Orihara_Saki}.png" />|<img alt="Mage (F) Fire Magic {L95}" src="Mage (F) Fire Magic {L95}.png" />|<img alt="Mage (F) Hoodless  {L95}" src="Mage (F) Hoodless  {L95}.png" />|<img alt="Mage (F) Light Mage {Leo_Link, L95}" src="Mage (F) Light Mage {Leo_Link, L95}.png" />|
 
 
-|Mage (F) Magic <br> {Unkown}|Mage (F) Thunder (Leif) <br> |Mage (F) Wind Magic <br> {L95}|Mage (M) Alt Hoodless  <br> {L95}|
+|Mage (F) Magic <br> {Uncredited}|Mage (F) Thunder (Leif) <br> |Mage (F) Wind Magic <br> {L95}|Mage (M) Alt Hoodless  <br> {L95}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mage (F) Magic {Unkown}" src="Mage (F) Magic {Unkown}.png" />|<img alt="Mage (F) Thunder (Leif)" src="Mage (F) Thunder (Leif).png" />|<img alt="Mage (F) Wind Magic {L95}" src="Mage (F) Wind Magic {L95}.png" />|<img alt="Mage (M) Alt Hoodless  {L95}" src="Mage (M) Alt Hoodless  {L95}.png" />|
+|<img alt="Mage (F) Magic {Uncredited}" src="Mage (F) Magic {Uncredited}.png" />|<img alt="Mage (F) Thunder (Leif)" src="Mage (F) Thunder (Leif).png" />|<img alt="Mage (F) Wind Magic {L95}" src="Mage (F) Wind Magic {L95}.png" />|<img alt="Mage (M) Alt Hoodless  {L95}" src="Mage (M) Alt Hoodless  {L95}.png" />|
 
 
 |Mage (M) Fire Magic <br> {L95}|Mage (M) Hat Hybrid <br> {Jj09, SamirPlayz, IS}|Mage (M) Hatless Magic <br> {RobertFPY}|Mage (M) Hood Magic <br> {IS}|

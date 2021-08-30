@@ -39,9 +39,25 @@
 
 
 
+### [\[Bard-Style\] \[F\] Elffin Sonneteer](https://git.io/JEXao) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXai)
+
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JEXa0"/> |
+| :---: |
+
+
+
+
 ### [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](https://git.io/Jn3qb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RY)
 
 | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOHB"/> |
+| :---: |
+
+
+
+
+### [\[Bard-Style\] \[M\] Elffin Sonneteer Repal](https://git.io/JEXaQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXa7)
+
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JEXaH"/> |
 | :---: |
 
 
@@ -132,8 +148,9 @@
 
 ### [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](https://git.io/Jn3I2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gw)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO94"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEXaE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO94"/> |
 
 
 
@@ -876,6 +893,14 @@
 ### [\[Archer-Base\] \[M\] Vanilla FE7](https://git.io/Jn3eh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bo)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO2M"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVL"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Archer-Custom\] Fletchling by RenOokami](https://git.io/JEXaM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXay)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JEXaV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JEXau"/> |
 | :---: | :---: |
 
 
@@ -2911,10 +2936,11 @@
 
 ### [\[General-Reskin\] \[U\] Shield v2](https://git.io/Jn3TS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CY)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpB"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOFK"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpR"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpB"/> | <b>Sword (Chain)</b><br/><img alt="Sword (Chain)" src="https://git.io/JEXa9"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOFK"/> |
 | :---: | :---: | :---: |
-| <b>Lance (Chainless)</b><br/><img alt="Lance (Chainless)" src="https://git.io/JnOpn"/> | <b>Axe (Chain)</b><br/><img alt="Axe (Chain)" src="https://git.io/JnO1b"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://git.io/JnOSb"/> |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOxD"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO1d"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMj"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpR"/> | <b>Lance (Chainless)</b><br/><img alt="Lance (Chainless)" src="https://git.io/JnOpn"/> | <b>Axe (Chain)</b><br/><img alt="Axe (Chain)" src="https://git.io/JnO1b"/> |
+| <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://git.io/JnOSb"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOxD"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO1d"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMj"/> |
 
 
 
@@ -3135,9 +3161,25 @@
 
 
 
+### [\[Eliwood-Variant\] \[F\] Mage Lord by TytheBub](https://git.io/JEXa1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaD)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXa2"/> |
+| :---: |
+
+
+
+
 ### [\[Eliwood-Variant\] \[F\] T1 Lucina Slash by Caim Van Fang](https://git.io/Jn3Ic) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EU)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyC"/> |
+| :---: |
+
+
+
+
+### [\[Eliwood-Variant\] \[M\] Mage Lord by TytheBub](https://git.io/JEXaw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaK)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXaz"/> |
 | :---: |
 
 
@@ -4481,6 +4523,22 @@
 ### [\[Mage-Custom1\] \[F\] Gaiden-Style by Gamma](https://git.io/Jn3k1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zg)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXk"/> |
+| :---: |
+
+
+
+
+### [\[Mage-Custom1\] \[F\] Gaiden-Style Frame Fix by Gamma](https://git.io/JEXaa) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaP)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXag"/> |
+| :---: |
+
+
+
+
+### [\[Mage-Custom1\] \[F\] Gaiden-Style Ponytail by Gamma](https://git.io/JEXa6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaS)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXar"/> |
 | :---: |
 
 
@@ -7020,13 +7078,6 @@
 
 
 
-### [Chainsword Shield General {Pushwall}](https://git.io/JE2Oc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23l)
-
-
-
-
-
-
 ### [Devisian_Nights Magician V2](https://git.io/JE2OV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23b)
 
 
@@ -7085,27 +7136,6 @@
 
 
 
-### [Knabepicer's Sword transporter](https://git.io/JE2O0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23u)
-
-
-
-
-
-
-### [Mounted Bard \(Sonneteer\)](https://git.io/JE2Ol) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE238)
-
-
-
-
-
-
-### [Mounted Bard \(Sonneteer\) Female](https://git.io/JE2Od) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23O)
-
-
-
-
-
-
 ### [N426's Pirate Shark Animation](https://git.io/JE23M) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2se)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JE2OH"/> | <b>Trident</b><br/><img alt="Trident" src="https://git.io/JE2OW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JE2OC"/> |
@@ -7115,20 +7145,6 @@
 
 
 ### [Poisoned on Hit by 7743](https://git.io/JE2Oy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23K)
-
-
-
-
-
-
-### [Raulster's Gaiden FMage Ponytail](https://git.io/JE2OD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23i)
-
-
-
-
-
-
-### [Raulster's GaidenFMage\(Fixed\)](https://git.io/JE2OQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23C)
 
 
 
@@ -7178,13 +7194,6 @@
 
 
 ### [Tykky's Tiki Avoid Frames](https://git.io/JE2ON) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23Y)
-
-
-
-
-
-
-### [\[Archer-Custom\] Fletchling by knabepicer, RenOokami](https://git.io/JE2Ox) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23G)
 
 
 
@@ -7245,22 +7254,6 @@
 | <b>sword (durandal beta slash edit)</b><br/><img alt="sword (durandal beta slash edit)" src="https://git.io/JE2Oh"/> | <b>axe</b><br/><img alt="axe" src="https://git.io/JE23m"/> | <b>handaxe</b><br/><img alt="handaxe" src="https://git.io/JE23v"/> |
 | :---: | :---: | :---: |
 | <b>bow (spud) edit</b><br/><img alt="bow (spud) edit" src="https://git.io/JE2Oj"/> |
-
-
-
-
-### [\[eliwood-variant\] \[F\] Mage Lord by TytheBub](https://git.io/JE230) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23p)
-
-| <b>magic</b><br/><img alt="magic" src="https://git.io/JE23L"/> |
-| :---: |
-
-
-
-
-### [\[eliwood-variant\] \[M\] Mage Lord by TytheBub](https://git.io/JE234) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23x)
-
-| <b>magic</b><br/><img alt="magic" src="https://git.io/JE23k"/> |
-| :---: |
 
 
 

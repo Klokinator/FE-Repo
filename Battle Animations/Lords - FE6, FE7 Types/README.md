@@ -73,9 +73,25 @@
 
 
 
+## [\[Eliwood-Variant\] \[F\] Mage Lord by TytheBub](https://git.io/JEXa1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaD)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXa2"/> |
+| :---: |
+
+
+
+
 ## [\[Eliwood-Variant\] \[F\] T1 Lucina Slash by Caim Van Fang](https://git.io/Jn3Ic) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EU)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyC"/> |
+| :---: |
+
+
+
+
+## [\[Eliwood-Variant\] \[M\] Mage Lord by TytheBub](https://git.io/JEXaw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaK)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXaz"/> |
 | :---: |
 
 

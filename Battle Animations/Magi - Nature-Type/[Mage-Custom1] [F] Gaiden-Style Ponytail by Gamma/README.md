@@ -1,8 +1,17 @@
-# [Raulster's Gaiden FMage Ponytail](https://git.io/JE2OD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23i)
+# [\[Mage-Custom1\] \[F\] Gaiden-Style Ponytail by Gamma](https://git.io/JEXa6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaS)
 
-
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXar"/> |
+| :---: |
 
 ## Credits
 
-Credits are currently in the process of being implemented fully. Please use the names within {} in the title until the work is complete.
+HyperGammaSpaces
+
+Teraspark
+
+Obsidian_Daddy
+
+Devisian_Nights
+
+Raulster - Fixed some frames where the eye was misplaced, and added the Ponytail
 

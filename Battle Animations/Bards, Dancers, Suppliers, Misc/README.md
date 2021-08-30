@@ -34,9 +34,25 @@
 
 
 
+## [\[Bard-Style\] \[F\] Elffin Sonneteer](https://git.io/JEXao) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXai)
+
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JEXa0"/> |
+| :---: |
+
+
+
+
 ## [\[Bard-Style\] \[M\] Elffin Sonneteer by Marlon0024](https://git.io/Jn3qb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RY)
 
 | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOHB"/> |
+| :---: |
+
+
+
+
+## [\[Bard-Style\] \[M\] Elffin Sonneteer Repal](https://git.io/JEXaQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXa7)
+
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JEXaH"/> |
 | :---: |
 
 
@@ -127,8 +143,9 @@
 
 ## [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](https://git.io/Jn3I2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gw)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO94"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEXaE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO94"/> |
 
 
 

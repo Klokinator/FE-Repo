@@ -48,6 +48,22 @@
 
 
 
+## [\[Mage-Custom1\] \[F\] Gaiden-Style Frame Fix by Gamma](https://git.io/JEXaa) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaP)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXag"/> |
+| :---: |
+
+
+
+
+## [\[Mage-Custom1\] \[F\] Gaiden-Style Ponytail by Gamma](https://git.io/JEXa6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaS)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXar"/> |
+| :---: |
+
+
+
+
 ## [\[Mage-Custom1\] \[F\] Light Mage by L95](https://git.io/Jn3If) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z8)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXW"/> |

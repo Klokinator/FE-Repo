@@ -6280,20 +6280,12 @@
 
 
 
-### [\[Ranger-Variant\] \[M\] Leo-Style](https://git.io/JES9F) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JES9b)
+### [\[Ranger-Variant\] \[M\] Leo-Style +Weapons](https://git.io/JEQUc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEQUC)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JES95"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JES99"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JES97"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEQUY"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JEQUI"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JEQUL"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JES9S"/> |
-
-
-
-
-### [\[Ranger-Variant\] \[M\] Leo-Style +Lance](https://git.io/JElq6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElqP)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JElqu"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JElqV"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JElqz"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JElqr"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JEQUq"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JEQUO"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEQUk"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JEQUt"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JEQUm"/> |
 
 
 

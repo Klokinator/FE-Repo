@@ -2776,6 +2776,14 @@
 
 
 
+### [\[Thief-Reskin\] \[F\] Bandana Thief by Dutch Introvert](https://git.io/JEN1V) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEN1r)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEN1g"/> |
+| :---: |
+
+
+
+
 ### [\[Thief-Reskin\] \[F\] Sme's Catgirl](https://git.io/Jn3k3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RT)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQi"/> |
@@ -4656,6 +4664,14 @@
 
 
 
+### [\[Pupil-Reskin\] \[M\] Hat Pupil by Dutch Introvert](https://git.io/JEN1a) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEN1w)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEN1u"/> |
+| :---: |
+
+
+
+
 ### [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](https://git.io/Jn3Iu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z3)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXd"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnO5K"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPr"/> |
@@ -5161,7 +5177,7 @@
 
 ### [\[Gorgon-Base\] \[F\] Vanilla](https://git.io/Jn3tt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lh)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO7L"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
@@ -5954,6 +5970,14 @@
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOX4"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOb1"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO1g"/> |
 | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://git.io/JnOAz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOdb"/> | <b>Staff (Alt)</b><br/><img alt="Staff (Alt)" src="https://git.io/JnO1t"/> |
+
+
+
+
+### [\[Misc\] \[U\] Horse by Dutch introvert](https://git.io/JEN1o) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEN1P)
+
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JEN1z"/> |
+| :---: |
 
 
 

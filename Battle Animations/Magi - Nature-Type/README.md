@@ -176,6 +176,14 @@
 
 
 
+## [\[Pupil-Reskin\] \[M\] Hat Pupil by Dutch Introvert](https://git.io/JEN1a) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEN1w)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEN1u"/> |
+| :---: |
+
+
+
+
 ## [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](https://git.io/Jn3Iu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z3)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXd"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnO5K"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPr"/> |

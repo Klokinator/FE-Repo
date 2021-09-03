@@ -12,6 +12,8 @@ Vanilla animation by IS.
 
 Binding Blade by Marlon0024.
 
-Bow by Spud.
+Bow by Spud. Alternate dodge frame version by TytheBub.
 
+Durandal Beta Slash edit by TytheBub.
 
+Axe & Handaxe by TytheBub.

@@ -5,5 +5,5 @@
 
 ## Credits
 
-Hatted variant by Pikmin1211.
+Hatted variant by An odd Dutch Introvert.
 

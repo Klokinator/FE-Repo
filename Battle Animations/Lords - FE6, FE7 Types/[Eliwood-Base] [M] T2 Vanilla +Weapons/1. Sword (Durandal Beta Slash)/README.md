@@ -1,19 +1,19 @@
-# [\[Eliwood-Base\] \[M\] T2 Vanilla extra weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FWIP%20Animations%2F%5BEliwood-Base%5D%20%5BM%5D%20T2%20Vanilla%20extra%20weapons%2F1.%20sword%20(durandal%20beta%20slash%20edit))
+# [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20FE6%2C%20FE7%20Types%2F%5BEliwood-Base%5D%20%5BM%5D%20T2%20Vanilla%20%2BWeapons%2F1.%20Sword%20(Durandal%20Beta%20Slash))
 
-## sword
+## Sword
 
 | Still | Animation |
 | :---: | :-------: |
-| ![sword still](./sword_000.png) | ![sword](./sword.gif) |
+| ![Sword still](./Sword_000.png) | ![Sword](./Sword.gif) |
 
 ## Credit
 
-1. sword (durandal beta slash edit) by TytheBub
+Vanilla animation by IS.
 
-3. axe by TytheBub
+Binding Blade by Marlon0024.
 
-4. handaxe by TytheBub
+Bow by Spud. Alternate dodge frame version by TytheBub.
 
-5. bow (spud) edit by TytheBub
+Durandal Beta Slash edit by TytheBub.
 
-
+Axe & Handaxe by TytheBub.

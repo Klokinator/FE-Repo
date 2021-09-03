@@ -3117,10 +3117,11 @@
 
 ### [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/Jn3kt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30b)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta Slash)</b><br/><img alt="Sword (Durandal Beta Slash)" src="https://git.io/Juf2e"/> |
 | :---: | :---: | :---: |
-| <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> | <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
+| <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jufgj"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jufgx"/> | <b>Bow (Alternate Dodge)</b><br/><img alt="Bow (Alternate Dodge)" src="https://git.io/Jufgp"/> |
+| <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
 
 
 
@@ -5177,7 +5178,7 @@
 
 ### [\[Gorgon-Base\] \[F\] Vanilla](https://git.io/Jn3tt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lh)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla/6.%20Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO7L"/> |
 | :---: |
 
 
@@ -7270,15 +7271,6 @@
 ### [\[Dark\]\(Miasma\){MakeFEGayer} - Ranged](https://git.io/JE2OK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23B)
 
 
-
-
-
-
-### [\[Eliwood-Base\] \[M\] T2 Vanilla extra weapons](https://git.io/JE23z) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23j)
-
-| <b>sword (durandal beta slash edit)</b><br/><img alt="sword (durandal beta slash edit)" src="https://git.io/JE2Oh"/> | <b>axe</b><br/><img alt="axe" src="https://git.io/JE23m"/> | <b>handaxe</b><br/><img alt="handaxe" src="https://git.io/JE23v"/> |
-| :---: | :---: | :---: |
-| <b>bow (spud) edit</b><br/><img alt="bow (spud) edit" src="https://git.io/JE2Oj"/> |
 
 
 

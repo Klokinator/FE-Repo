@@ -914,7 +914,7 @@
 
 
 
-### [\[Archer-Reskin\] \[F\] Der's Headband](https://git.io/Jn3JW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WR)
+### [\[Archer-Reskin\] \[F\] Der's Headband](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Headband) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WR)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOB0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKo"/> |
 | :---: | :---: |
@@ -3117,11 +3117,10 @@
 
 ### [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/Jn3kt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30b)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta Slash)</b><br/><img alt="Sword (Durandal Beta Slash)" src="https://git.io/Juf2e"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> |
 | :---: | :---: | :---: |
-| <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jufgj"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jufgx"/> | <b>Bow (Alternate Dodge)</b><br/><img alt="Bow (Alternate Dodge)" src="https://git.io/Jufgp"/> |
-| <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
+| <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> | <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
 
 
 

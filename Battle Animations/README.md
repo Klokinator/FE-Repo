@@ -914,7 +914,7 @@
 
 
 
-### [\[Archer-Reskin\] \[F\] Der's Headband](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Headband) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WR)
+### [\[Archer-Reskin\] \[F\] Der's Headband](https://git.io/Jn3JW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WR)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOB0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKo"/> |
 | :---: | :---: |
@@ -6224,6 +6224,16 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7d"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOgl"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOoh"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOM0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMQ"/> |
+
+
+
+
+### [\[Paladin-Variant\] \[M\] SALVAGED Vanilla-Style Repal](https://git.io/Juqxi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JuqxP)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Juqxr"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Juqxo"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuqxK"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Juqx6"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/Juqxa"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/Juqxw"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuqxV"/> |
 
 
 

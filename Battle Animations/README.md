@@ -4810,7 +4810,7 @@
 
 
 
-### [\[Sage-Reskin\] \[M\] Lucius Hair v1 by Marlon](https://git.io/Jn3IF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3li)
+### [\[Sage-Reskin\] \[M\] Lucius Hair v1 by Marlon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v1%20by%20Marlon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3li)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXy"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOXn"/> |
 | :---: | :---: |
@@ -5769,6 +5769,14 @@
 
 
 
+### [\[Monster-Custom\] \[U\] Treant by Dutch Introvert](https://git.io/Jusb8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jusb4)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JusbW"/> |
+| :---: |
+
+
+
+
 ### [\[Monster-Custom\] \[U\] Wild Wyvern by ML](https://git.io/Jn3mU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rd)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOo3"/> |
@@ -6595,7 +6603,7 @@
 
 ### [\[WK Custom\] \[M\] Malig Knight v2](https://git.io/Jn3OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38u)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzH"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
 
 

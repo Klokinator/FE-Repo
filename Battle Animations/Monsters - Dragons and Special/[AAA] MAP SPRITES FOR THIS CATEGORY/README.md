@@ -58,8 +58,8 @@
 |<img alt="Tome (U) Blank {N426}-stand" src="Tome (U) Blank {N426}-stand.png" />|<img alt="Tome (U) Bow {N426}-stand" src="Tome (U) Bow {N426}-stand.png" />|<img alt="Tome (U) Dark {N426}-stand" src="Tome (U) Dark {N426}-stand.png" />|<img alt="Tome (U) Lance {N426}-stand" src="Tome (U) Lance {N426}-stand.png" />|
 
 
-|Tome (U) Light <br> {N426}|Tome (U) Sword <br> {N426}|Wyvern Wild (U) <br> {Faeriefruit}|
-| :---: | :---: | :---: |
-|<img alt="Tome (U) Light {N426}-stand" src="Tome (U) Light {N426}-stand.png" />|<img alt="Tome (U) Sword {N426}-stand" src="Tome (U) Sword {N426}-stand.png" />|<img alt="Wyvern Wild (U) {Faeriefruit}-stand" src="Wyvern Wild (U) {Faeriefruit}-stand.png" />|
+|Tome (U) Light <br> {N426}|Tome (U) Sword <br> {N426}|Treant <br> {U}|Wyvern Wild (U) <br> {Faeriefruit}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Tome (U) Light {N426}-stand" src="Tome (U) Light {N426}-stand.png" />|<img alt="Tome (U) Sword {N426}-stand" src="Tome (U) Sword {N426}-stand.png" />|<img alt="Treant {U} {An odd Dutch introvert}-stand" src="Treant {U} {An odd Dutch introvert}-stand.png" />|<img alt="Wyvern Wild (U) {Faeriefruit}-stand" src="Wyvern Wild (U) {Faeriefruit}-stand.png" />|
 
 

@@ -4691,7 +4691,7 @@
 
 ### [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](https://git.io/Jn3qS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3u8)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOHz"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQQ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO9I"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOHz"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQQ"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -4810,7 +4810,7 @@
 
 
 
-### [\[Sage-Reskin\] \[M\] Lucius Hair v1 by Marlon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Lucius%20Hair%20v1%20by%20Marlon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3li)
+### [\[Sage-Reskin\] \[M\] Lucius Hair v1 by Marlon](https://git.io/Jn3IF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3li)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXy"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOXn"/> |
 | :---: | :---: |
@@ -5847,7 +5847,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdL"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpr"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnODG"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOpF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1B"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOpF"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/Ju8LS"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1B"/> |
 
 
 
@@ -6257,9 +6257,9 @@
 
 ### [\[Ranger-Base\] \[M\] Vanilla +Lance](https://git.io/Jn3OO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wo)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMW"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOFI"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO9x"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMW"/> | <b>Sword (Smooth)</b><br/><img alt="Sword (Smooth)" src="https://git.io/Ju8L9"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOFI"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODY"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO9x"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODY"/> |
 
 
 
@@ -6603,7 +6603,7 @@
 
 ### [\[WK Custom\] \[M\] Malig Knight v2](https://git.io/Jn3OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38u)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2/6.%20Magic/Magic.gif"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzH"/> |
 | :---: | :---: | :---: |
 
 

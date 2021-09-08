@@ -11,3 +11,5 @@
 Cavalier custom by SALVAGED.
 
 Female version by Flasuban.
+
+Bow by Epicer.

@@ -3088,6 +3088,15 @@
 
 
 
+
+### [\[Zephiel-Reskin\] \[M\] King Zephiel Generic Repal by Huichelaar](https://git.io/JuuIb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JuuIN)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuId"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuIS"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuI7"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JuuIX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuuI9"/> |
+
+
+
 </details>
 
 
@@ -3117,10 +3126,11 @@
 
 ### [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/Jn3kt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30b)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta Slash)</b><br/><img alt="Sword (Durandal Beta Slash)" src="https://git.io/Juf2e"/> |
 | :---: | :---: | :---: |
-| <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> | <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
+| <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jufgj"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jufgx"/> | <b>Bow (Alternate Dodge)</b><br/><img alt="Bow (Alternate Dodge)" src="https://git.io/Jufgp"/> |
+| <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
 
 
 
@@ -4691,7 +4701,7 @@
 
 ### [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](https://git.io/Jn3qS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3u8)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOHz"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQQ"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOHz"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQQ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO9I"/> |
 | :---: | :---: | :---: |
 
 
@@ -6437,6 +6447,15 @@
 
 
 
+### [\[Peg T1 Base\] \[F\] Repal v2 + Weapons by Flasuban](https://git.io/JuuIA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JuuIp)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuIQ"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuI1"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuIH"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JuuIM"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuuI5"/> |
+
+
+
+
 ### [\[Peg T1 Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3mb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zy)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4j"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4d"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBF"/> |
@@ -6725,9 +6744,10 @@
 
 ### [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ne)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKn"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOw4"/> |
+| <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://git.io/JuuIy"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://git.io/JuuID"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> |
 | :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzy"/> | <b>Bow (Palette Fix)</b><br/><img alt="Bow (Palette Fix)" src="https://git.io/JnORf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrE"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKn"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOw4"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzy"/> |
+| <b>Bow (Palette Fix)</b><br/><img alt="Bow (Palette Fix)" src="https://git.io/JnORf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrE"/> |
 
 
 
@@ -7149,23 +7169,7 @@
 
 
 
-### [Flasuban's Pegasus Knight Improved](https://git.io/JE23H) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sf)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JE2O9"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JE2O6"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JE2Oa"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JE2OF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JE2Oz"/> |
-
-
-
-
 ### [Gabriel Knight's Nemesis](https://git.io/JE2O4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23R)
-
-
-
-
-
-
-### [Generic Zephiel by Huichelaar](https://git.io/JE2On) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23E)
 
 
 
@@ -7188,20 +7192,6 @@
 
 
 ### [Poisoned on Hit by 7743](https://git.io/JE2Oy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23K)
-
-
-
-
-
-
-### [Rawr776's Sword Wyvern T1](https://git.io/JE2OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23d)
-
-
-
-
-
-
-### [SamirPlayz's Sword Wyvern](https://git.io/JE2Ou) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23Z)
 
 
 

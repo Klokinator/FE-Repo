@@ -90,6 +90,15 @@
 
 
 
+## [\[Peg T1 Base\] \[F\] Repal v2 + Weapons by Flasuban](https://git.io/JuuIA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JuuIp)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuIQ"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuI1"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuIH"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JuuIM"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuuI5"/> |
+
+
+
+
 ## [\[Peg T1 Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3mb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zy)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4j"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4d"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBF"/> |
@@ -378,9 +387,10 @@
 
 ## [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ne)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKn"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOw4"/> |
+| <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://git.io/JuuIy"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://git.io/JuuID"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> |
 | :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzy"/> | <b>Bow (Palette Fix)</b><br/><img alt="Bow (Palette Fix)" src="https://git.io/JnORf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrE"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKn"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOw4"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzy"/> |
+| <b>Bow (Palette Fix)</b><br/><img alt="Bow (Palette Fix)" src="https://git.io/JnORf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrE"/> |
 
 
 

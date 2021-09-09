@@ -43,23 +43,7 @@
 
 
 
-## [Flasuban's Pegasus Knight Improved](https://git.io/JE23H) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sf)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JE2O9"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JE2O6"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JE2Oa"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JE2OF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JE2Oz"/> |
-
-
-
-
 ## [Gabriel Knight's Nemesis](https://git.io/JE2O4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23R)
-
-
-
-
-
-
-## [Generic Zephiel by Huichelaar](https://git.io/JE2On) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23E)
 
 
 
@@ -82,20 +66,6 @@
 
 
 ## [Poisoned on Hit by 7743](https://git.io/JE2Oy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23K)
-
-
-
-
-
-
-## [Rawr776's Sword Wyvern T1](https://git.io/JE2OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23d)
-
-
-
-
-
-
-## [SamirPlayz's Sword Wyvern](https://git.io/JE2Ou) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23Z)
 
 
 

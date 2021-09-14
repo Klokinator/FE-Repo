@@ -8,4 +8,5 @@
 
 ## Credit
 
-
+Ayr - Animation + Script
+Faolin - Fixed small mistake in script

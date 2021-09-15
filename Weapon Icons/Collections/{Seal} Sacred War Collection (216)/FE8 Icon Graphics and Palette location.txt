@@ -1,4 +1,0 @@
-FE8 Weapon Icon Graphics (Uncompressed): 5926F4
-
-FE8 Weapon Icon Palette: 5996F4
-

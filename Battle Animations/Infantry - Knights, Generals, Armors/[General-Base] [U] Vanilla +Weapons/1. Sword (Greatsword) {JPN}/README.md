@@ -16,3 +16,5 @@ JPN
 Knabepicer
 
 2. Lance (No Chain) {knabepicer, Dabmaster110}
+
+1. Sword (Chain) by knabepicer

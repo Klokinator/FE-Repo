@@ -1,13 +1,5 @@
 # [WIP Animations Battle Animations](./)
 
-## [1. Sword \(Chain\) {Knabepicer}](https://git.io/JE239) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sT)
-
-| <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JE2O7"/> |
-| :---: |
-
-
-
-
 ## [7743's T1AXEFighterGladiatorMWaleed](https://git.io/JE2Or) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE236)
 
 
@@ -44,13 +36,6 @@
 
 
 ## [Gabriel Knight's Nemesis](https://git.io/JE2O4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23R)
-
-
-
-
-
-
-## [Its_Just_Jay's Myrmidon Fur Coat](https://git.io/JE2OG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE235)
 
 
 

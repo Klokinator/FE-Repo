@@ -88,6 +88,14 @@
 
 
 
+## [\[Myrmidon-Reskin\] \[M\] Fur Coat by Its_Just_Jay](https://git.io/JzWeX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzWe1)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JzWeP"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JzWe6"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](https://git.io/Jn3ke) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34K)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSH"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9G"/> |

@@ -1,10 +1,10 @@
-# [\[T3 Necromancer-variant\] \[F\] by TytheBub](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FWIP%20Animations%2F%5BT3%20Necromancer-variant%5D%20%5BF%5D%20by%20TytheBub%2F6.%20magic%20FE7)
+# [\[T3 Necromancer\] \[F\] by TytheBub](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT3%20Necromancer%5D%20%5BF%5D%20by%20TytheBub%2F6.%20Magic%20(FE7))
 
-## magic
+## Magic
 
 | Still | Animation |
 | :---: | :-------: |
-| ![magic still](./magic_000.png) | ![magic](./magic.gif) |
+| ![Magic still](./Magic_000.png) | ![Magic](./Magic.gif) |
 
 ## Credit
 

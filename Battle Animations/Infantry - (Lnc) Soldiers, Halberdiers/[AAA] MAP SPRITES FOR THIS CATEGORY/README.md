@@ -13,28 +13,28 @@
 |<img alt="Halberdier (M) 1.0 {Unknown}-stand" src="Halberdier (M) 1.0 {Unknown}-stand.png" />|<img alt="Halberdier (M) 2.0 {TBA}-stand" src="Halberdier (M) 2.0 {TBA}-stand.png" />|<img alt="Halberdier (M) Alt A Lance {Aruka, Kenpuhu}-stand" src="Halberdier (M) Alt A Lance {Aruka, Kenpuhu}-stand.png" />|<img alt="Halberdier (U) Lance {Dei, dondon151}-stand" src="Halberdier (U) Lance {Dei, dondon151}-stand.png" />|
 
 
-|Lancer (M) Lance <br> {Unknown}|Militia (M) Deserter Lance <br> {Alusq}|Recruit (F) Amelia Lance <br> {IS}|Recruit (M) <br> {Waleed}|
+|Lancer (M) Lance <br> {Unknown}|Militia (F) Deserter Lance <br> {Alusq, Epicer}|Militia (M) Deserter Lance <br> {Alusq}|Recruit (F) Amelia Lance <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Lancer (M) Lance {Unknown}-stand" src="Lancer (M) Lance {Unknown}-stand.png" />|<img alt="Militia (M) Deserter Lance {Alusq}-stand" src="Militia (M) Deserter Lance {Alusq}-stand.png" />|<img alt="Recruit (F) Amelia Lance {IS}-stand" src="Recruit (F) Amelia Lance {IS}-stand.png" />|<img alt="Recruit (M) {Waleed}-stand" src="Recruit (M) {Waleed}-stand.png" />|
+|<img alt="Lancer (M) Lance {Unknown}-stand" src="Lancer (M) Lance {Unknown}-stand.png" />|<img alt="Militia (F) Deserter Lance {Alusq, Epicer}-stand" src="Militia (F) Deserter Lance {Alusq, Epicer}-stand.png" />|<img alt="Militia (M) Deserter Lance {Alusq}-stand" src="Militia (M) Deserter Lance {Alusq}-stand.png" />|<img alt="Recruit (F) Amelia Lance {IS}-stand" src="Recruit (F) Amelia Lance {IS}-stand.png" />|
 
 
-|Soldier (F) Echoes Lance <br> {FireEmblemier, flasuban}|Soldier (F) FE10-Style Lance <br> {flasuban}|Soldier (F) FE10-Style v2 Lance <br> {flasuban}|Soldier (F) Shield.png <br> {Rexacuse, Peerless, Alusq, WarPath}|
+|Recruit (M) <br> {Waleed}|Soldier (F) Echoes Lance <br> {FireEmblemier, flasuban}|Soldier (F) FE10-Style Lance <br> {flasuban}|Soldier (F) FE10-Style v2 Lance <br> {flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Soldier (F) Echoes Lance {FireEmblemier, flasuban}-stand" src="Soldier (F) Echoes Lance {FireEmblemier, flasuban}-stand.png" />|<img alt="Soldier (F) FE10-Style Lance {flasuban}-stand" src="Soldier (F) FE10-Style Lance {flasuban}-stand.png" />|<img alt="Soldier (F) FE10-Style v2 Lance {flasuban}-stand" src="Soldier (F) FE10-Style v2 Lance {flasuban}-stand.png" />|<img alt="Soldier (F) Shield {Rexacuse, Peerless, Alusq, WarPath}.png-stand" src="Soldier (F) Shield {Rexacuse, Peerless, Alusq, WarPath}.png-stand.png" />|
+|<img alt="Recruit (M) {Waleed}-stand" src="Recruit (M) {Waleed}-stand.png" />|<img alt="Soldier (F) Echoes Lance {FireEmblemier, flasuban}-stand" src="Soldier (F) Echoes Lance {FireEmblemier, flasuban}-stand.png" />|<img alt="Soldier (F) FE10-Style Lance {flasuban}-stand" src="Soldier (F) FE10-Style Lance {flasuban}-stand.png" />|<img alt="Soldier (F) FE10-Style v2 Lance {flasuban}-stand" src="Soldier (F) FE10-Style v2 Lance {flasuban}-stand.png" />|
 
 
-|Soldier (M) Alt Lance {Alusq <br> |Soldier (M) Echoes Lance <br> {FireEmblemier, flasuban}|Soldier (M) Ephraim-Style Lance <br> {Aruka, Kenpuhu}|Soldier (M) FE10-Style Lance <br> {flasuban}|
+|Soldier (F) Shield.png <br> {Rexacuse, Peerless, Alusq, WarPath}|Soldier (M) Alt Lance {Alusq <br> |Soldier (M) Echoes Lance <br> {FireEmblemier, flasuban}|Soldier (M) Ephraim-Style Lance <br> {Aruka, Kenpuhu}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Soldier (M) Alt Lance {Alusq-stand" src="Soldier (M) Alt Lance {Alusq-stand.png" />|<img alt="Soldier (M) Echoes Lance {FireEmblemier, flasuban}-stand" src="Soldier (M) Echoes Lance {FireEmblemier, flasuban}-stand.png" />|<img alt="Soldier (M) Ephraim-Style Lance {Aruka, Kenpuhu}-stand" src="Soldier (M) Ephraim-Style Lance {Aruka, Kenpuhu}-stand.png" />|<img alt="Soldier (M) FE10-Style Lance {flasuban}-stand" src="Soldier (M) FE10-Style Lance {flasuban}-stand.png" />|
+|<img alt="Soldier (F) Shield {Rexacuse, Peerless, Alusq, WarPath}.png-stand" src="Soldier (F) Shield {Rexacuse, Peerless, Alusq, WarPath}.png-stand.png" />|<img alt="Soldier (M) Alt Lance {Alusq-stand" src="Soldier (M) Alt Lance {Alusq-stand.png" />|<img alt="Soldier (M) Echoes Lance {FireEmblemier, flasuban}-stand" src="Soldier (M) Echoes Lance {FireEmblemier, flasuban}-stand.png" />|<img alt="Soldier (M) Ephraim-Style Lance {Aruka, Kenpuhu}-stand" src="Soldier (M) Ephraim-Style Lance {Aruka, Kenpuhu}-stand.png" />|
 
 
-|Soldier (M) FE10-Style v2 Lance <br> {flasuban}|Soldier (M) Lance <br> {IS}|Soldier (M) Shield Lance <br> {Rexacuse, Peerless, Alusq}|Spartan (M) Lance <br> {Der}|
+|Soldier (M) FE10-Style Lance <br> {flasuban}|Soldier (M) FE10-Style v2 Lance <br> {flasuban}|Soldier (M) Lance <br> {IS}|Soldier (M) Shield Lance <br> {Rexacuse, Peerless, Alusq}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Soldier (M) FE10-Style v2 Lance {flasuban}-stand" src="Soldier (M) FE10-Style v2 Lance {flasuban}-stand.png" />|<img alt="Soldier (M) Lance {IS}-stand" src="Soldier (M) Lance {IS}-stand.png" />|<img alt="Soldier (M) Shield Lance {Rexacuse, Peerless, Alusq}-stand" src="Soldier (M) Shield Lance {Rexacuse, Peerless, Alusq}-stand.png" />|<img alt="Spartan (M) Lance {Der}-stand" src="Spartan (M) Lance {Der}-stand.png" />|
+|<img alt="Soldier (M) FE10-Style Lance {flasuban}-stand" src="Soldier (M) FE10-Style Lance {flasuban}-stand.png" />|<img alt="Soldier (M) FE10-Style v2 Lance {flasuban}-stand" src="Soldier (M) FE10-Style v2 Lance {flasuban}-stand.png" />|<img alt="Soldier (M) Lance {IS}-stand" src="Soldier (M) Lance {IS}-stand.png" />|<img alt="Soldier (M) Shield Lance {Rexacuse, Peerless, Alusq}-stand" src="Soldier (M) Shield Lance {Rexacuse, Peerless, Alusq}-stand.png" />|
 
 
-|Spear Fighter (M) FE14 Hoshidan <br> {ArcherBias}|Squire (M) Sword <br> {Maiser6}|
-| :---: | :---: |
-|<img alt="Spear Fighter (M) FE14 Hoshidan {ArcherBias}-stand" src="Spear Fighter (M) FE14 Hoshidan {ArcherBias}-stand.png" />|<img alt="Squire (M) Sword {Maiser6}-stand" src="Squire (M) Sword {Maiser6}-stand.png" />|
+|Spartan (M) Lance <br> {Der}|Spear Fighter (M) FE14 Hoshidan <br> {ArcherBias}|Squire (M) Sword <br> {Maiser6}|
+| :---: | :---: | :---: |
+|<img alt="Spartan (M) Lance {Der}-stand" src="Spartan (M) Lance {Der}-stand.png" />|<img alt="Spear Fighter (M) FE14 Hoshidan {ArcherBias}-stand" src="Spear Fighter (M) FE14 Hoshidan {ArcherBias}-stand.png" />|<img alt="Squire (M) Sword {Maiser6}-stand" src="Squire (M) Sword {Maiser6}-stand.png" />|
 
 

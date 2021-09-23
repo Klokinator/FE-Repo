@@ -201,6 +201,14 @@
 
 
 
+## [\[T3 Necromancer\] \[F\] by TytheBub](https://git.io/JzzC1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzCy)
+
+| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JzzCu"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JzzCE"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JzzCz"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[T3 Necromancer\] \[M\] Generic by Eldritch](https://git.io/Jn3Ie) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BZ)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOSM"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOF7"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFF"/> |
@@ -215,6 +223,14 @@
 | <b>Magic (Blood Tome Critfix)</b><br/><img alt="Magic (Blood Tome Critfix)" src="https://git.io/JnOFj"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQP"/> | <b>Magic (Minigun Melee)</b><br/><img alt="Magic (Minigun Melee)" src="https://git.io/JnO5k"/> |
 | :---: | :---: | :---: |
 | <b>Magic (Vanilla)</b><br/><img alt="Magic (Vanilla)" src="https://git.io/JnOd8"/> | <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://git.io/JnOMt"/> | <b>Staff (Vanilla)</b><br/><img alt="Staff (Vanilla)" src="https://git.io/JnOSl"/> |
+
+
+
+
+## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon Repal by TytheBub](https://git.io/JzzCQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzC7)
+
+| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JzzCg"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JzzCW"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JzzCB"/> |
+| :---: | :---: | :---: |
 
 
 

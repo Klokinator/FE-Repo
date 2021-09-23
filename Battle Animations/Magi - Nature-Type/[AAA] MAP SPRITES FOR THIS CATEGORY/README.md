@@ -23,38 +23,38 @@
 |<img alt="Mage (F) Long-Haired {flasuban}-stand" src="Mage (F) Long-Haired {flasuban}-stand.png" />|<img alt="Mage (F) Thief {FEGirls}-stand" src="Mage (F) Thief {FEGirls}-stand.png" />|<img alt="Mage (F) Thunder (Leif)-stand" src="Mage (F) Thunder (Leif)-stand.png" />|<img alt="Mage (F) {IS}-stand" src="Mage (F) {IS}-stand.png" />|
 
 
-|Mage (M) Alt (Leif, MeatofJustice) <br> |Mage (M) Fe4-Style Fire Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|Mage (M) FE4-Style Fire Idle <br> {Ash3wl, L95}|Mage (M) Fe4-Style Thunder Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|
+|Mage (M) Alt (Leif, MeatofJustice) <br> |Mage (M) Bulky <br> {Stitch}|Mage (M) Fe4-Style Fire Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|Mage (M) FE4-Style Fire Idle <br> {Ash3wl, L95}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mage (M) Alt (Leif, MeatofJustice)-stand" src="Mage (M) Alt (Leif, MeatofJustice)-stand.png" />|<img alt="Mage (M) Fe4-Style Fire Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Fire Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|<img alt="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|
+|<img alt="Mage (M) Alt (Leif, MeatofJustice)-stand" src="Mage (M) Alt (Leif, MeatofJustice)-stand.png" />|<img alt="Mage (M) Bulky {Stitch}-stand" src="Mage (M) Bulky {Stitch}-stand.png" />|<img alt="Mage (M) Fe4-Style Fire Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Fire Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|<img alt="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Fire Idle {Ash3wl, L95}-stand.png" />|
 
 
-|Mage (M) Fe4-Style Thunder Idle <br> {Ash3wl, L95}|Mage (M) Fe4-Style Wind Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|Mage (M) FE4-Style Wind Idle <br> {Ash3wl, L95}|Mage (M) Hat Hybrid <br> {Pikmin, SamirPlayz}|
+|Mage (M) Fe4-Style Thunder Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|Mage (M) Fe4-Style Thunder Idle <br> {Ash3wl, L95}|Mage (M) Fe4-Style Wind Idle <br> {Ash3wl, L95, Dominus_Vobiscum}|Mage (M) FE4-Style Wind Idle <br> {Ash3wl, L95}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand" src="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|<img alt="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand" src="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand.png" />|
+|<img alt="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|<img alt="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand" src="Mage (M) Fe4-Style Thunder Idle {Ash3wl, L95}-stand.png" />|<img alt="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand" src="Mage (M) Fe4-Style Wind Idle {Ash3wl, L95, Dominus_Vobiscum}-stand.png" />|<img alt="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand" src="Mage (M) FE4-Style Wind Idle {Ash3wl, L95}-stand.png" />|
 
 
-|Mage (M) Hatless <br> {Pikmin}|Mage (M) Thunder (Leif) <br> |Mage (M) <br> {IS}|Pupil (M) <br> {IS}|
+|Mage (M) Hat Hybrid <br> {Pikmin, SamirPlayz}|Mage (M) Hatless <br> {Pikmin}|Mage (M) Thunder (Leif) <br> |Mage (M) <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mage (M) Hatless {Pikmin}-stand" src="Mage (M) Hatless {Pikmin}-stand.png" />|<img alt="Mage (M) Thunder (Leif)-stand" src="Mage (M) Thunder (Leif)-stand.png" />|<img alt="Mage (M) {IS}-stand" src="Mage (M) {IS}-stand.png" />|<img alt="Pupil (M) {IS}-stand" src="Pupil (M) {IS}-stand.png" />|
+|<img alt="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand" src="Mage (M) Hat Hybrid {Pikmin, SamirPlayz}-stand.png" />|<img alt="Mage (M) Hatless {Pikmin}-stand" src="Mage (M) Hatless {Pikmin}-stand.png" />|<img alt="Mage (M) Thunder (Leif)-stand" src="Mage (M) Thunder (Leif)-stand.png" />|<img alt="Mage (M) {IS}-stand" src="Mage (M) {IS}-stand.png" />|
 
 
-|Sage (F) Alt <br> {IS, Blademaster}|Sage (F) Battle Sage Magic <br> {Smug_Mug, Unknown}|Sage (F) Battle Sage Sword <br> {Unknown}|Sage (F) Better <br> {Shtick, L95}|
+|Pupil (M) <br> {IS}|Sage (F) Alt <br> {IS, Blademaster}|Sage (F) Battle Sage Magic <br> {Smug_Mug, Unknown}|Sage (F) Battle Sage Sword <br> {Unknown}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Sage (F) Alt {IS, Blademaster}-stand" src="Sage (F) Alt {IS, Blademaster}-stand.png" />|<img alt="Sage (F) Battle Sage Magic {Smug_Mug, Unknown}-stand" src="Sage (F) Battle Sage Magic {Smug_Mug, Unknown}-stand.png" />|<img alt="Sage (F) Battle Sage Sword {Unknown}-stand" src="Sage (F) Battle Sage Sword {Unknown}-stand.png" />|<img alt="Sage (F) Better {Shtick, L95}-stand" src="Sage (F) Better {Shtick, L95}-stand.png" />|
+|<img alt="Pupil (M) {IS}-stand" src="Pupil (M) {IS}-stand.png" />|<img alt="Sage (F) Alt {IS, Blademaster}-stand" src="Sage (F) Alt {IS, Blademaster}-stand.png" />|<img alt="Sage (F) Battle Sage Magic {Smug_Mug, Unknown}-stand" src="Sage (F) Battle Sage Magic {Smug_Mug, Unknown}-stand.png" />|<img alt="Sage (F) Battle Sage Sword {Unknown}-stand" src="Sage (F) Battle Sage Sword {Unknown}-stand.png" />|
 
 
-|Sage (F) Limstella <br> {FE7if}|Sage (F) Long-Haired <br> {Unknown}|Sage (F) Thief-Style <br> {FEGirls}|Sage (F) Vanilla <br> {IS}|
+|Sage (F) Better <br> {Shtick, L95}|Sage (F) Limstella <br> {FE7if}|Sage (F) Long-Haired <br> {Unknown}|Sage (F) Thief-Style <br> {FEGirls}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Sage (F) Limstella {FE7if}-stand" src="Sage (F) Limstella {FE7if}-stand.png" />|<img alt="Sage (F) Long-Haired {Unknown}-stand" src="Sage (F) Long-Haired {Unknown}-stand.png" />|<img alt="Sage (F) Thief-Style {FEGirls}-stand" src="Sage (F) Thief-Style {FEGirls}-stand.png" />|<img alt="Sage (F) Vanilla {IS}-stand" src="Sage (F) Vanilla {IS}-stand.png" />|
+|<img alt="Sage (F) Better {Shtick, L95}-stand" src="Sage (F) Better {Shtick, L95}-stand.png" />|<img alt="Sage (F) Limstella {FE7if}-stand" src="Sage (F) Limstella {FE7if}-stand.png" />|<img alt="Sage (F) Long-Haired {Unknown}-stand" src="Sage (F) Long-Haired {Unknown}-stand.png" />|<img alt="Sage (F) Thief-Style {FEGirls}-stand" src="Sage (F) Thief-Style {FEGirls}-stand.png" />|
 
 
-|Sage (M) Battle Sage Magic <br> {Smug_Mug, Unknown}|Sage (M) Battle Sage Sword <br> {L95}|Sage (M) Battle Sage <br> {Unknown}|Sage (M) FE2 (Leif, MeatofJustice) <br> |
+|Sage (F) Vanilla <br> {IS}|Sage (M) Battle Sage Magic <br> {Smug_Mug, Unknown}|Sage (M) Battle Sage Sword <br> {L95}|Sage (M) Battle Sage <br> {Unknown}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Sage (M) Battle Sage Magic {Smug_Mug, Unknown}-stand" src="Sage (M) Battle Sage Magic {Smug_Mug, Unknown}-stand.png" />|<img alt="Sage (M) Battle Sage Sword {L95}-stand" src="Sage (M) Battle Sage Sword {L95}-stand.png" />|<img alt="Sage (M) Battle Sage {Unknown}-stand" src="Sage (M) Battle Sage {Unknown}-stand.png" />|<img alt="Sage (M) FE2 (Leif, MeatofJustice)-stand" src="Sage (M) FE2 (Leif, MeatofJustice)-stand.png" />|
+|<img alt="Sage (F) Vanilla {IS}-stand" src="Sage (F) Vanilla {IS}-stand.png" />|<img alt="Sage (M) Battle Sage Magic {Smug_Mug, Unknown}-stand" src="Sage (M) Battle Sage Magic {Smug_Mug, Unknown}-stand.png" />|<img alt="Sage (M) Battle Sage Sword {L95}-stand" src="Sage (M) Battle Sage Sword {L95}-stand.png" />|<img alt="Sage (M) Battle Sage {Unknown}-stand" src="Sage (M) Battle Sage {Unknown}-stand.png" />|
 
 
-|Sage (M) Gaiden-Style <br> {Ryn}|Sage (M) <br> {IS}|
-| :---: | :---: |
-|<img alt="Sage (M) Gaiden-Style {Ryn}-stand" src="Sage (M) Gaiden-Style {Ryn}-stand.png" />|<img alt="Sage (M) {IS}-stand" src="Sage (M) {IS}-stand.png" />|
+|Sage (M) FE2 (Leif, MeatofJustice) <br> |Sage (M) Gaiden-Style <br> {Ryn}|Sage (M) <br> {IS}|
+| :---: | :---: | :---: |
+|<img alt="Sage (M) FE2 (Leif, MeatofJustice)-stand" src="Sage (M) FE2 (Leif, MeatofJustice)-stand.png" />|<img alt="Sage (M) Gaiden-Style {Ryn}-stand" src="Sage (M) Gaiden-Style {Ryn}-stand.png" />|<img alt="Sage (M) {IS}-stand" src="Sage (M) {IS}-stand.png" />|
 
 

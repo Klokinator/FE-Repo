@@ -85,6 +85,14 @@
 
 
 
+## [\[Eirika-Variant\] \[F\] Brave Lucina \(Celica T2\) by marlon0024](https://git.io/JzzCM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzC5)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JzzCC"/> |
+| :---: |
+
+
+
+
 ## [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](https://git.io/Jn3vU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G7)
 
 | <b>Sword (T1)</b><br/><img alt="Sword (T1)" src="https://git.io/JnOR9"/> | <b>Magic (T1)</b><br/><img alt="Magic (T1)" src="https://git.io/JnO0I"/> | <b>Unarmed (T1)</b><br/><img alt="Unarmed (T1)" src="https://git.io/JnORb"/> |

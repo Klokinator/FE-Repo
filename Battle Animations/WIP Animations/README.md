@@ -71,13 +71,6 @@
 
 
 
-## [Stitch's Bulky Mage](https://git.io/JE2OA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23W)
-
-
-
-
-
-
 ## [T0MISCMiscellaneousSupplierFJonoTheRed](https://git.io/JE2Og) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23g)
 
 
@@ -166,29 +159,6 @@
 ## [\[Ranger-Reskin\] \[F\] Bandana by WarPath](https://git.io/JE2OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23s)
 
 
-
-
-
-
-## [\[T2\]\[LRD\]\[Eirika-Base\]\(Brave Lucina\)\[F\]{Red Bean, Jeorge_Reds, EA,Smash,Marlon}](https://git.io/JE2O8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE231)
-
-
-
-
-
-
-## [\[T3 Necromancer-repalette\] \[M\] by TytheBub](https://git.io/JE23F) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sU)
-
-| <b>magic fe7</b><br/><img alt="magic fe7" src="https://git.io/JE23f"/> | <b>magic fe8</b><br/><img alt="magic fe8" src="https://git.io/JE23q"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JE2Op"/> |
-| :---: | :---: | :---: |
-
-
-
-
-## [\[T3 Necromancer-variant\] \[F\] by TytheBub](https://git.io/JE23S) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sv)
-
-| <b>magic FE7</b><br/><img alt="magic FE7" src="https://git.io/JE23t"/> | <b>magic FE8</b><br/><img alt="magic FE8" src="https://git.io/JE23U"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JE23J"/> |
-| :---: | :---: | :---: |
 
 
 

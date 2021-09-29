@@ -1235,7 +1235,7 @@
 
 ### [\[Ballista\] \[M\] Vanilla GBA Ballistae](https://git.io/Jn3Jx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GQ)
 
-| <b>Bow (FE6 Ballista)</b><br/><img alt="Bow (FE6 Ballista)" src="https://git.io/JnO5x"/> | <b>Bow (FE7 Ballista)</b><br/><img alt="Bow (FE7 Ballista)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20Vanilla%20GBA%20Ballistae/5.%20Bow%20(FE7%20Ballista)/Bow.gif"/> | <b>Bow (FE8 Ballista)</b><br/><img alt="Bow (FE8 Ballista)" src="https://git.io/JnOMx"/> |
+| <b>Bow (FE6 Ballista)</b><br/><img alt="Bow (FE6 Ballista)" src="https://git.io/JnO5x"/> | <b>Bow (FE7 Ballista)</b><br/><img alt="Bow (FE7 Ballista)" src="https://git.io/JnOM9"/> | <b>Bow (FE8 Ballista)</b><br/><img alt="Bow (FE8 Ballista)" src="https://git.io/JnOMx"/> |
 | :---: | :---: | :---: |
 
 
@@ -2810,7 +2810,7 @@
 
 ### [\[Thief-Reskin\] \[F\] Zora's Winged Thief](https://git.io/Jn3TN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3co)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5j"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Reskin%5D%20%5BF%5D%20Zora's%20Winged%20Thief/1.%20Sword/Sword.gif"/> |
 | :---: |
 
 
@@ -6836,7 +6836,7 @@
 
 ### [\[Dark Knight\] \[F\] Mageknight-Style by Teraspark](https://git.io/Jn3v4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn348)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBy"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEl"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BDark%20Knight%5D%20%5BF%5D%20Mageknight-Style%20by%20Teraspark/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEl"/> |
 | :---: | :---: |
 
 

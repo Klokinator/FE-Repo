@@ -2810,7 +2810,7 @@
 
 ### [\[Thief-Reskin\] \[F\] Zora's Winged Thief](https://git.io/Jn3TN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3co)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Reskin%5D%20%5BF%5D%20Zora's%20Winged%20Thief/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5j"/> |
 | :---: |
 
 
@@ -3413,6 +3413,14 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQs"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO5m"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO7y"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHU"/> |
+
+
+
+
+### [\[Lord Custom\] \[M\] Leif Lord by Obsidian Daddy](https://git.io/JwdIY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JwdI8)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jwdkg"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jwdko"/> |
+| :---: | :---: |
 
 
 
@@ -5820,7 +5828,7 @@
 
 
 
-### [\[Monster-Custom\] \[U\] Spirit by Meta4](https://git.io/Jn3Yy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38r)
+### [\[Monster-Custom\] \[U\] Spirit by Meta4](https://git.io/Jn3Yy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Spirit%20by%20Meta4)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOMn"/> |
 | :---: |
@@ -6836,7 +6844,7 @@
 
 ### [\[Dark Knight\] \[F\] Mageknight-Style by Teraspark](https://git.io/Jn3v4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn348)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BDark%20Knight%5D%20%5BF%5D%20Mageknight-Style%20by%20Teraspark/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEl"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBy"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEl"/> |
 | :---: | :---: |
 
 

@@ -23,18 +23,18 @@
 |<img alt="Mercenary (F) {FEGirls}-stand" src="Mercenary (F) {FEGirls}-stand.png" />|<img alt="Mercenary (M) Armored {Unknown}-stand" src="Mercenary (M) Armored {Unknown}-stand.png" />|<img alt="Mercenary (M) Axe (Flasuban, ArcherBias)-stand" src="Mercenary (M) Axe (Flasuban, ArcherBias)-stand.png" />|<img alt="Mercenary (M) Axe {Unknown}-stand" src="Mercenary (M) Axe {Unknown}-stand.png" />|
 
 
-|Mercenary (M) Beta Edit <br> {Unknown}|Mercenary (M) Beta <br> {IS}|Mercenary (M) Improved Sword <br> {flasuban}|Mercenary (M) Sword Improved <br> {Flasuban}|
+|Mercenary (M) Beta Edit <br> {Unknown}|Mercenary (M) Beta <br> {IS}|Mercenary (M) Sword Improved <br> {Flasuban}|Mercenary (M) <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mercenary (M) Beta Edit {Unknown}-stand" src="Mercenary (M) Beta Edit {Unknown}-stand.png" />|<img alt="Mercenary (M) Beta {IS}-stand" src="Mercenary (M) Beta {IS}-stand.png" />|<img alt="Mercenary (M) Improved Sword {flasuban}-stand" src="Mercenary (M) Improved Sword {flasuban}-stand.png" />|<img alt="Mercenary (M) Sword Improved {Flasuban}-stand" src="Mercenary (M) Sword Improved {Flasuban}-stand.png" />|
+|<img alt="Mercenary (M) Beta Edit {Unknown}-stand" src="Mercenary (M) Beta Edit {Unknown}-stand.png" />|<img alt="Mercenary (M) Beta {IS}-stand" src="Mercenary (M) Beta {IS}-stand.png" />|<img alt="Mercenary (M) Sword Improved {Flasuban}-stand" src="Mercenary (M) Sword Improved {Flasuban}-stand.png" />|<img alt="Mercenary (M) {IS}-stand" src="Mercenary (M) {IS}-stand.png" />|
 
 
-|Mercenary (M) <br> {IS}|Outlander (M) <br> {J-Treecko}|Villager (F) Sword <br> {HyperGammaSpaces}|Villager (F) v2 Sword <br> {HyperGammaSpaces}|
+|Outlander (M) <br> {J-Treecko}|Villager (F) Sword <br> {HyperGammaSpaces}|Villager (F) v2 Sword <br> {HyperGammaSpaces}|Villager (M) Sword <br> {HyperGammaSpaces}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mercenary (M) {IS}-stand" src="Mercenary (M) {IS}-stand.png" />|<img alt="Outlander (M) {J-Treecko}-stand" src="Outlander (M) {J-Treecko}-stand.png" />|<img alt="Villager (F) Sword {HyperGammaSpaces}-stand" src="Villager (F) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-stand" src="Villager (F) v2 Sword {HyperGammaSpaces}-stand.png" />|
+|<img alt="Outlander (M) {J-Treecko}-stand" src="Outlander (M) {J-Treecko}-stand.png" />|<img alt="Villager (F) Sword {HyperGammaSpaces}-stand" src="Villager (F) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-stand" src="Villager (F) v2 Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (M) Sword {HyperGammaSpaces}-stand" src="Villager (M) Sword {HyperGammaSpaces}-stand.png" />|
 
 
-|Villager (M) Sword <br> {HyperGammaSpaces}|Villager (M) v2 Sword <br> {HyperGammaSpaces}|
-| :---: | :---: |
-|<img alt="Villager (M) Sword {HyperGammaSpaces}-stand" src="Villager (M) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-stand" src="Villager (M) v2 Sword {HyperGammaSpaces}-stand.png" />|
+|Villager (M) v2 Sword <br> {HyperGammaSpaces}|
+| :---: |
+|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-stand" src="Villager (M) v2 Sword {HyperGammaSpaces}-stand.png" />|
 
 

@@ -8,6 +8,8 @@ All battle animations are F2E. Many other resources are F2E, but some are only F
 
 https://feuniverse.us/t/regarding-graphics-assets/11550/5
 
+Note that if something is not listed as F2E, it's probably F2U. That being said, I am a busy person and really don't have a lot of time to update thousands of files or compile walls of credits, hence you should view that topic if you're uncertain regarding some resource's usability. You can just assume a resource is F2U to be safe, but checking with the original creator for F2E permissions is preferable when unlisted.
+
 Want to download stuff from this repository? New to Github and don't know how it works? Visit this link to learn more:
 
 https://feuniverse.us/t/github-and-you-maximizing-your-usage-of-the-new-graphics-repository/11815

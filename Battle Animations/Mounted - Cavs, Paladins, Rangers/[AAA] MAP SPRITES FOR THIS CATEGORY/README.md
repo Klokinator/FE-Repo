@@ -38,9 +38,14 @@
 |<img alt="Gold Knight (M) Axe {Pikmin, Der}-stand" src="Gold Knight (M) Axe {Pikmin, Der}-stand.png" />|<img alt="Gold Knight (U) Lance {Hypergammaspaces}-stand" src="Gold Knight (U) Lance {Hypergammaspaces}-stand.png" />|<img alt="Grand Mahout (U) {CamusZekeSirius, SHYUTERz, Orihara_Saki}-stand" src="Grand Mahout (U) {CamusZekeSirius, SHYUTERz, Orihara_Saki}-stand.png" />|<img alt="Great Knight (F) {IS, Blood}-stand" src="Great Knight (F) {IS, Blood}-stand.png" />|
 
 
-|Great Knight (M) Alt Axe <br> {Pikmin, L95, Der}|Great Knight (M) Axe <br> {IS}|Master Knight (F) Lance <br> {Unknown}|Master Knight (M) Bow Knight Bow <br> {blood}|
+|Great Knight (M) Alt Axe <br> {Pikmin, L95, Der}|Great Knight (M) Axe <br> {IS}|Horse (White) Moving <br> {N426}|Horse (White) Standing <br> {N426}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Great Knight (M) Alt Axe {Pikmin, L95, Der}-stand" src="Great Knight (M) Alt Axe {Pikmin, L95, Der}-stand.png" />|<img alt="Great Knight (M) Axe {IS}-stand" src="Great Knight (M) Axe {IS}-stand.png" />|<img alt="Master Knight (F) Lance {Unknown}-stand" src="Master Knight (F) Lance {Unknown}-stand.png" />|<img alt="Master Knight (M) Bow Knight Bow {blood}-stand" src="Master Knight (M) Bow Knight Bow {blood}-stand.png" />|
+|<img alt="Great Knight (M) Alt Axe {Pikmin, L95, Der}-stand" src="Great Knight (M) Alt Axe {Pikmin, L95, Der}-stand.png" />|<img alt="Great Knight (M) Axe {IS}-stand" src="Great Knight (M) Axe {IS}-stand.png" />|<img alt="Horse (White) Moving {N426}" src="Horse (White) Moving {N426}.png" />|<img alt="Horse (White) Standing {N426}" src="Horse (White) Standing {N426}.png" />|
+
+
+|Horse Moving <br> {L95}|Horse Standing <br> {L95}|Master Knight (F) Lance <br> {Unknown}|Master Knight (M) Bow Knight Bow <br> {blood}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Horse Moving {L95}" src="Horse Moving {L95}.bmp" />|<img alt="Horse Standing {L95}" src="Horse Standing {L95}.bmp" />|<img alt="Master Knight (F) Lance {Unknown}-stand" src="Master Knight (F) Lance {Unknown}-stand.png" />|<img alt="Master Knight (M) Bow Knight Bow {blood}-stand" src="Master Knight (M) Bow Knight Bow {blood}-stand.png" />|
 
 
 |Master Knight (M) Lance <br> {Unknown}|Nomad (F) <br> {IS}|Nomad (M) <br> {IS}|Nomad Trooper (F) <br> {IS}|

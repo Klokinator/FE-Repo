@@ -850,7 +850,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-### [\[Archer-Base\] \[F\] Repal by Der](https://git.io/Jn3J9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ws)
+### [\[Archer-Base\] \[F\] Repal by Der](https://git.io/Jn3J9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Base%5D%20%5BF%5D%20Repal%20by%20Der)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO04"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOa8"/> |
 | :---: | :---: |
@@ -2047,22 +2047,6 @@
 <details>
 <summary>Click to expand!</summary>
 
-### [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](https://git.io/Jn3kB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34S)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7E"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOSi"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHy"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[FE13 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/Jn3Tu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bf)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiK"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnONb"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSw"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ### [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](https://git.io/Jn3Tm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BI)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHr"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOSa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7a"/> |
@@ -2184,10 +2168,26 @@
 
 
 
-### [\[Sword Custom\] \[F\] TLP's Karina Fencer](https://git.io/Jn3IT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34p)
+### [\[Sword Custom\] \[F\] Fencer Karina from TLP](https://git.io/JK3D4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3D0)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4a"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQG"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3DZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3De"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Sword FE16 Custom\] \[F\] Dread Fighter by Nuramon](https://git.io/JK3Du) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3Dg)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3DT"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Dv"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3DG"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Sword FE16 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/JK3DR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3Dz)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dn"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Ds"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3D3"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -3014,13 +3014,13 @@
 
 
 
-### [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](https://git.io/Jn3kr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WA)
+### [\[Knight-Custom\] \[U\] FE10-Style by Nuramon](https://git.io/JK3DB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3DE)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpa"/> | <b>Sword (Broadsword)</b><br/><img alt="Sword (Broadsword)" src="https://git.io/JnO5J"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx9"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dt"/> | <b>Sword (Broadsword)</b><br/><img alt="Sword (Broadsword)" src="https://git.io/JK3Dq"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JK3DL"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnONm"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOxC"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxx"/> |
-| <b>Bow (No Recoil)</b><br/><img alt="Bow (No Recoil)" src="https://git.io/JnOpe"/> | <b>Bow (Recoil)</b><br/><img alt="Bow (Recoil)" src="https://git.io/JnOx0"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOxp"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODH"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JK3Dc"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JK3DJ"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JK3DO"/> |
+| <b>Bow (No Recoil)</b><br/><img alt="Bow (No Recoil)" src="https://git.io/JK3DC"/> | <b>Bow (Recoil)</b><br/><img alt="Bow (Recoil)" src="https://git.io/JK3DI"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3DY"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3Df"/> |
 
 
 
@@ -3069,9 +3069,9 @@
 
 
 
-### [\[Marshall\] \[M\] Zelgius v1 by Luerock](https://git.io/Jn3Oq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3C1)
+### [\[Marshall\] \[M\] Zelgius v1 by Nuramon](https://git.io/JK3Dl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3D8)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHg"/> | <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://git.io/JnO5X"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOyM"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dk"/> | <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://git.io/JK3Dm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3DU"/> |
 | :---: | :---: | :---: |
 
 

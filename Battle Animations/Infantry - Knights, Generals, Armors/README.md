@@ -151,13 +151,13 @@
 
 
 
-## [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](https://git.io/Jn3kr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WA)
+## [\[Knight-Custom\] \[U\] FE10-Style by Nuramon](https://git.io/JK3DB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3DE)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpa"/> | <b>Sword (Broadsword)</b><br/><img alt="Sword (Broadsword)" src="https://git.io/JnO5J"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx9"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dt"/> | <b>Sword (Broadsword)</b><br/><img alt="Sword (Broadsword)" src="https://git.io/JK3Dq"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JK3DL"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnONm"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOxC"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxx"/> |
-| <b>Bow (No Recoil)</b><br/><img alt="Bow (No Recoil)" src="https://git.io/JnOpe"/> | <b>Bow (Recoil)</b><br/><img alt="Bow (Recoil)" src="https://git.io/JnOx0"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOxp"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODH"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JK3Dc"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JK3DJ"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JK3DO"/> |
+| <b>Bow (No Recoil)</b><br/><img alt="Bow (No Recoil)" src="https://git.io/JK3DC"/> | <b>Bow (Recoil)</b><br/><img alt="Bow (Recoil)" src="https://git.io/JK3DI"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3DY"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3Df"/> |
 
 
 
@@ -206,9 +206,9 @@
 
 
 
-## [\[Marshall\] \[M\] Zelgius v1 by Luerock](https://git.io/Jn3Oq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3C1)
+## [\[Marshall\] \[M\] Zelgius v1 by Nuramon](https://git.io/JK3Dl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3D8)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHg"/> | <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://git.io/JnO5X"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOyM"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dk"/> | <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://git.io/JK3Dm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3DU"/> |
 | :---: | :---: | :---: |
 
 

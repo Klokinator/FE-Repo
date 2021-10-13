@@ -1,21 +1,5 @@
 # [Infantry - (Swd) Myrms and Swordmasters Battle Animations](./)
 
-## [\[FE13 Custom\] \[F\] Dread Fighter by Nuramon](https://git.io/Jn3kB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34S)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7E"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOSi"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHy"/> |
-| :---: | :---: | :---: |
-
-
-
-
-## [\[FE13 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/Jn3Tu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bf)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiK"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnONb"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSw"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ## [\[Myrmidon-Base\] \[F\] Vanilla FE6 Ponytail +Bow](https://git.io/Jn3Tm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BI)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHr"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOSa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7a"/> |
@@ -137,10 +121,26 @@
 
 
 
-## [\[Sword Custom\] \[F\] TLP's Karina Fencer](https://git.io/Jn3IT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34p)
+## [\[Sword Custom\] \[F\] Fencer Karina from TLP](https://git.io/JK3D4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3D0)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4a"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQG"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3DZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3De"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Sword FE16 Custom\] \[F\] Dread Fighter by Nuramon](https://git.io/JK3Du) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3Dg)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3DT"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Dv"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3DG"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Sword FE16 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/JK3DR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3Dz)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dn"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Ds"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3D3"/> |
+| :---: | :---: | :---: |
 
 
 

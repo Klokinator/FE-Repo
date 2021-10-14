@@ -235,6 +235,14 @@
 
 
 
+### [\[Non-FE\] \[U\] Star Wars Clone Trooper by WAve](https://git.io/JKGfZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf8)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JKGvS"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvj"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Sword Custom\] \[M\] Squire by Russel Clark](https://git.io/Jn3qj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lP)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyU"/> | <b>Sword (Updated)</b><br/><img alt="Sword (Updated)" src="https://git.io/JnOyT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSI"/> |
@@ -483,6 +491,14 @@
 
 
 
+### [\[Brigand-Reskin\] \[M\] Wolf by CookieMaster](https://git.io/JKGfU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf3)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JKGvD"/> |
+| :---: |
+
+
+
+
 ### [\[Brigand-Reskin\] \[U\] Lizard Brigand Wildling](https://git.io/Jn3t2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BU)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOgt"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgn"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgR"/> |
@@ -557,7 +573,7 @@
 
 
 
-### [\[Pirate-Reskin\] \[F\] Variant by Nuramon](https://git.io/Jn3JU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3B3)
+### [\[Pirate-Reskin\] \[F\] Variant by Nuramon](https://git.io/Jn3JU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO4W"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOak"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgV"/> |
 | :---: | :---: | :---: |
@@ -850,7 +866,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-### [\[Archer-Base\] \[F\] Repal by Der](https://git.io/Jn3J9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Base%5D%20%5BF%5D%20Repal%20by%20Der)
+### [\[Archer-Base\] \[F\] Repal by Der](https://git.io/Jn3J9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ws)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO04"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOa8"/> |
 | :---: | :---: |
@@ -1013,6 +1029,14 @@
 ### [\[Archer-Reskin\] \[M\] Der's Bandana C](https://git.io/Jn3Uq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wz)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOjf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOo0"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Archer-Reskin\] \[M\] Der's Hat](https://git.io/JKGfO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfz)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JKGv9"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGfv"/> |
 | :---: | :---: |
 
 
@@ -2958,6 +2982,15 @@
 
 
 
+### [\[General-Reskin\] \[U\] Long-Haired General by RiriK](https://git.io/JKGfG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf0)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JKGvH"/> | <b>Sword (Chain)</b><br/><img alt="Sword (Chain)" src="https://git.io/JKGfT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JKGfe"/> |
+| :---: | :---: | :---: |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JKGvQ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JKGfI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGfk"/> |
+
+
+
+
 ### [\[General-Reskin\] \[U\] Shield v2](https://git.io/Jn3TS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CY)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpB"/> | <b>Sword (Chain)</b><br/><img alt="Sword (Chain)" src="https://git.io/JEXa9"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOFK"/> |
@@ -3036,6 +3069,14 @@
 ### [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](https://git.io/Jn3IH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cf)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOF8"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Knight-Reskin\] \[U\] Helmetless Repal by Raulster](https://git.io/JKGfs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfW)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JKGv7"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGfL"/> |
 | :---: | :---: |
 
 
@@ -3325,8 +3366,9 @@
 
 ### [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator](https://git.io/Jn3Lv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z4)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnObF"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOyR"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObL"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnObF"/> | <b>Axe (Berserker Spin Crit)</b><br/><img alt="Axe (Berserker Spin Crit)" src="https://git.io/JKGft"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOyR"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObL"/> |
 
 
 
@@ -4526,8 +4568,8 @@
 
 ### [\[T3.1 Bishop\] \[F\] Matriarch by MrNight48](https://git.io/Jn3kd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cw)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOQA"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOHL"/> |
-| :---: | :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOQA"/> | <b>Magic (Alt Crit)</b><br/><img alt="Magic (Alt Crit)" src="https://git.io/JKGff"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOHL"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -4659,10 +4701,10 @@
 
 
 
-### [\[Mage-Reskin\] \[F\] Hat by RetroGamer](https://git.io/Jn3Lu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3us)
+### [\[Mage-Reskin\] \[F\] Hat +Staff by RetroGamer](https://git.io/JKGfc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf4)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO56"/> |
-| :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JKGvd"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JKGv5"/> |
+| :---: | :---: |
 
 
 
@@ -5102,9 +5144,17 @@
 
 
 
-### [\[Devisian-Custom\] \[M\] Magician by Devisian_Nights](https://git.io/Jn3Le) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lJ)
+### [\[Devisian-Custom\] \[M\] Magician v1 by Devisian_Nights](https://git.io/JKGfC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfB)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOix"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSm"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JKGvN"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvb"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Devisian-Custom\] \[M\] Magician v2 by Devisian_Nights](https://git.io/JKGfE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfu)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JKGfJ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvF"/> |
 | :---: | :---: |
 
 
@@ -6266,7 +6316,7 @@
 
 ### [\[Paladin-Variant\] \[F\] SALVAGED Base](https://git.io/Jn3mV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cj)
 
-| <b>Sword (RJ_Exists)</b><br/><img alt="Sword (RJ_Exists)" src="https://git.io/JnOMC"/> | <b>Sword {Levin64}</b><br/><img alt="Sword {Levin64}" src="https://git.io/JnOQ1"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOyd"/> |
+| <b>Sword (RJ_Exists)</b><br/><img alt="Sword (RJ_Exists)" src="https://git.io/JnOMC"/> | <b>Sword {Levin64}</b><br/><img alt="Sword {Levin64}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base/1.%20Sword%20%7BLevin64%7D/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOyd"/> |
 | :---: | :---: | :---: |
 | <b>Axe {Levin64}</b><br/><img alt="Axe {Levin64}" src="https://git.io/JnOFU"/> | <b>Handaxe {Levin64}</b><br/><img alt="Handaxe {Levin64}" src="https://git.io/JnOMB"/> | <b>Bow (RJ_Exists, Obsidian_Daddy)</b><br/><img alt="Bow (RJ_Exists, Obsidian_Daddy)" src="https://git.io/JnO1h"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOFk"/> |
@@ -6344,6 +6394,14 @@
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO7Y"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO7I"/> | <b>Bow (Alt)</b><br/><img alt="Bow (Alt)" src="https://git.io/JnOMY"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOH9"/> |
+
+
+
+
+### [\[Ranger-Reskin\] \[F\] Bandana Ranger by WarPath](https://git.io/JKGfl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfR)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JKGvA"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvx"/> |
+| :---: | :---: |
 
 
 
@@ -7063,6 +7121,14 @@
 
 
 
+### [\[Troubadour-Reskin\] \[M\] Deacon Repal by Eldritch](https://git.io/JKGfY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfn)
+
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JKGvp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvh"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Troubadour-Reskin\] \[M\] Deacon v1 by GabrielKnight](https://git.io/Jn3OH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bl)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOVW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrJ"/> |
@@ -7191,20 +7257,6 @@
 <details>
 <summary>Click to expand!</summary>
 
-### [7743's T1AXEFighterGladiatorMWaleed](https://git.io/JE2Or) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE236)
-
-
-
-
-
-
-### [Devisian_Nights Magician V2](https://git.io/JE2OV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23b)
-
-
-
-
-
-
 ### [Dinar87's NES-Style Knight](https://git.io/JE2OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23X)
 
 
@@ -7213,20 +7265,6 @@
 
 
 ### [Ether's Sprites](https://git.io/JE2Oi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE237)
-
-
-
-
-
-
-### [Female General {RiriK, Redbean, Knabepicer, Marlon}](https://git.io/JE2OM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23r)
-
-
-
-
-
-
-### [Gabriel Knight's Nemesis](https://git.io/JE2O4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23R)
 
 
 
@@ -7276,34 +7314,6 @@
 
 
 
-### [\[Archer-Reskin\] \[M\] Der's Hat {xCrowley}](https://git.io/JE2OZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23a)
-
-
-
-
-
-
-### [\[Brigand -Wolf\]\[T1\]\[Claw\]{CookieMaster}](https://git.io/JE2O5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sI)
-
-
-
-
-
-
-### [\[Cleric-Base\]\[F\] Repal Fix by Eldritch](https://git.io/JE2Ow) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23A)
-
-
-
-
-
-
-### [\[Clone_Trooper-Custom\] \[M\] by WAve](https://git.io/JE2Ob) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23P)
-
-
-
-
-
-
 ### [\[Custom-Magic\]Stantler\(Magic\) by SirSpencer](https://git.io/JE23e) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23n)
 
 
@@ -7321,51 +7331,6 @@
 ### [\[Dark\]\(Miasma\){MakeFEGayer} - Ranged](https://git.io/JE2OK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23B)
 
 
-
-
-
-
-### [\[Knight-Base\] \[U\] Vanilla Repal Helmetless by FPZero, Raulster](https://git.io/JE2Oo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23V)
-
-
-
-
-
-
-### [\[Mage-Reskin\] \[F\] Hat by RetroGamer \(7.Staff\)](https://git.io/JE23w) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23h)
-
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JE2OP"/> |
-| :---: |
-
-
-
-
-### [\[Priest-Base\]\[M\] Repal Fix by Eldritch](https://git.io/JE2OB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23o)
-
-
-
-
-
-
-### [\[Ranger-Reskin\] \[F\] Bandana by WarPath](https://git.io/JE2OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23s)
-
-
-
-
-
-
-### [\[T3.1 Bishop\] \[F\] Matriarch by MrNight48 \(Alt Crit by 7743\)](https://git.io/JE23N) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sk)
-
-| <b>司祭新</b><br/><img alt="司祭新" src="https://git.io/JE2O1"/> |
-| :---: |
-
-
-
-
-### [\[Troubadour-Reskin\] \[M\] Deacon Repal](https://git.io/JE23Q) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sJ)
-
-| <b>Disarmed</b><br/><img alt="Disarmed" src="https://git.io/JE233"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JE23T"/> |
-| :---: | :---: |
 
 
 

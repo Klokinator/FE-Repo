@@ -9,3 +9,5 @@
 ## Credit
 
 Base for Gladiator by Waleed.
+
+Berserker Axe Crit by 7743. (Throws axe in the air and it spins)

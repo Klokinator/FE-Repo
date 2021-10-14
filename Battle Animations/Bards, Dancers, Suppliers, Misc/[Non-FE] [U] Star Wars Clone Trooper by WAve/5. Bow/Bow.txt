@@ -1,0 +1,173 @@
+#######################################################
+#CA lorm_sp1 Archer Ballista
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+12 p- Bow_000.png
+2 p- Bow_001.png
+12 p- Bow_002.png
+2 p- Bow_003.png
+2 p- Bow_004.png
+C43                               #Play weapon stance SFE (Clicking noise)
+12 p- Bow_004.png
+S0147                               #Sound 327 SE:Single lightning strike (promotion/Bolting)
+2 p- Bow_005.png
+2 p- Bow_006.png
+C05                               #Call spell associated with equipped weapon
+2 p- Bow_004.png
+2 p- Bow_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Bow_008.png
+2 p- Bow_009.png
+4 p- Bow_010.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+12 p- Bow_000.png
+2 p- Bow_001.png
+12 p- Bow_002.png
+2 p- Bow_003.png
+2 p- Bow_004.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Bow_004.png
+12 p- Bow_011.png
+S02D0                               #Sound 720 SE:Eliwood's sword shining @C85_44
+20 p- Bow_012.png
+12 p- Bow_004.png
+S0147                               #Sound 327 SE:Single lightning strike (promotion/Bolting)
+2 p- Bow_005.png
+2 p- Bow_006.png
+C05                               #Call spell associated with equipped weapon
+2 p- Bow_004.png
+2 p- Bow_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Bow_008.png
+2 p- Bow_009.png
+4 p- Bow_010.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C53                               #?
+12 p- Bow_000.png
+2 p- Bow_001.png
+12 p- Bow_002.png
+2 p- Bow_003.png
+2 p- Bow_004.png
+C43                               #Play weapon stance SFE (Clicking noise)
+12 p- Bow_004.png
+S0147                               #Sound 327 SE:Single lightning strike (promotion/Bolting)
+2 p- Bow_005.png
+2 p- Bow_006.png
+C05                               #Call spell associated with equipped weapon
+2 p- Bow_004.png
+2 p- Bow_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Bow_008.png
+2 p- Bow_009.png
+4 p- Bow_010.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C53                               #?
+12 p- Bow_000.png
+2 p- Bow_001.png
+12 p- Bow_002.png
+2 p- Bow_003.png
+2 p- Bow_004.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Bow_004.png
+12 p- Bow_011.png
+S02D0                               #Sound 720 SE:Eliwood's sword shining @C85_44
+20 p- Bow_012.png
+12 p- Bow_004.png
+S0147                               #Sound 327 SE:Single lightning strike (promotion/Bolting)
+2 p- Bow_005.png
+2 p- Bow_006.png
+C05                               #Call spell associated with equipped weapon
+2 p- Bow_004.png
+2 p- Bow_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Bow_008.png
+2 p- Bow_009.png
+4 p- Bow_010.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- Bow_013.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Bow_014.png
+1 p- Bow_015.png
+2 p- Bow_016.png
+C01                               #NOP
+12 p- Bow_017.png
+6 p- Bow_016.png
+1 p- Bow_015.png
+1 p- Bow_014.png
+1 p- Bow_000.png
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- Bow_013.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Bow_014.png
+1 p- Bow_015.png
+2 p- Bow_016.png
+C01                               #NOP
+12 p- Bow_017.png
+6 p- Bow_016.png
+1 p- Bow_015.png
+1 p- Bow_014.png
+1 p- Bow_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C53                               #?
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+12 p- Bow_000.png
+2 p- Bow_001.png
+12 p- Bow_002.png
+2 p- Bow_003.png
+2 p- Bow_004.png
+C43                               #Play weapon stance SFE (Clicking noise)
+12 p- Bow_004.png
+S0147                               #Sound 327 SE:Single lightning strike (promotion/Bolting)
+2 p- Bow_005.png
+2 p- Bow_006.png
+C05                               #Call spell associated with equipped weapon
+2 p- Bow_004.png
+2 p- Bow_007.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Bow_008.png
+2 p- Bow_009.png
+4 p- Bow_010.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

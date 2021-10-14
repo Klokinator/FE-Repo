@@ -232,6 +232,14 @@
 
 
 
+## [\[Brigand-Reskin\] \[M\] Wolf by CookieMaster](https://git.io/JKGfU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf3)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JKGvD"/> |
+| :---: |
+
+
+
+
 ## [\[Brigand-Reskin\] \[U\] Lizard Brigand Wildling](https://git.io/Jn3t2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BU)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOgt"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgn"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgR"/> |
@@ -306,7 +314,7 @@
 
 
 
-## [\[Pirate-Reskin\] \[F\] Variant by Nuramon](https://git.io/Jn3JU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3B3)
+## [\[Pirate-Reskin\] \[F\] Variant by Nuramon](https://git.io/Jn3JU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BPirate-Reskin%5D%20%5BF%5D%20Variant%20by%20Nuramon)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO4W"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOak"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgV"/> |
 | :---: | :---: | :---: |

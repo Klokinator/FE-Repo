@@ -95,6 +95,15 @@
 
 
 
+## [\[General-Reskin\] \[U\] Long-Haired General by RiriK](https://git.io/JKGfG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf0)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JKGvH"/> | <b>Sword (Chain)</b><br/><img alt="Sword (Chain)" src="https://git.io/JKGfT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JKGfe"/> |
+| :---: | :---: | :---: |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JKGvQ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JKGfI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGfk"/> |
+
+
+
+
 ## [\[General-Reskin\] \[U\] Shield v2](https://git.io/Jn3TS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CY)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpB"/> | <b>Sword (Chain)</b><br/><img alt="Sword (Chain)" src="https://git.io/JEXa9"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOFK"/> |
@@ -173,6 +182,14 @@
 ## [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](https://git.io/Jn3IH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cf)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOF8"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Knight-Reskin\] \[U\] Helmetless Repal by Raulster](https://git.io/JKGfs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfW)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JKGv7"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGfL"/> |
 | :---: | :---: |
 
 

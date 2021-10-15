@@ -13,48 +13,48 @@
 |<img alt="Baron (U) Lance {St jack}" src="Baron (U) Lance {St jack}.png" />|<img alt="Baron (U) Magic {flasuban}" src="Baron (U) Magic {flasuban}.png" />|<img alt="Baron (U) Magic {SamirPlayz}" src="Baron (U) Magic {SamirPlayz}.png" />|<img alt="Baron (U) Sword {SamirPlayz}" src="Baron (U) Sword {SamirPlayz}.png" />|
 
 
-|General (U) Axe +Chain <br> {Pushwall, SamirPlayz}|General (U) Axe -Chain <br> {Pushwall, SamirPlayz}|General (U) Lance +Shield Unchained (SamirPlayz, Pushwall) <br> |General (U) Lance Alt <br> {Pushwall, SamirPlayz}|
+|General (U) Axe +Chain <br> {Pushwall, SamirPlayz}|General (U) Axe -Chain <br> {Pushwall, SamirPlayz}|General (U) Cape Lance <br> {IS}|General (U) Lance +Shield Unchained (SamirPlayz, Pushwall) <br> |
 | :---: | :---: | :---: | :---: |
-|<img alt="General (U) Axe +Chain {Pushwall, SamirPlayz}" src="General (U) Axe +Chain {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Axe -Chain {Pushwall, SamirPlayz}" src="General (U) Axe -Chain {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Lance +Shield Unchained (SamirPlayz, Pushwall)" src="General (U) Lance +Shield Unchained (SamirPlayz, Pushwall).png" />|<img alt="General (U) Lance Alt {Pushwall, SamirPlayz}" src="General (U) Lance Alt {Pushwall, SamirPlayz}.png" />|
+|<img alt="General (U) Axe +Chain {Pushwall, SamirPlayz}" src="General (U) Axe +Chain {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Axe -Chain {Pushwall, SamirPlayz}" src="General (U) Axe -Chain {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Cape Lance {IS}" src="General (U) Cape Lance {IS}.png" />|<img alt="General (U) Lance +Shield Unchained (SamirPlayz, Pushwall)" src="General (U) Lance +Shield Unchained (SamirPlayz, Pushwall).png" />|
 
 
-|General (U) Lance Upright <br> {Pushwall, SamirPlayz}|General (U) Lance <br> {IS}|General (U) Magic <br> {Pushwall, SamirPlayz}|General (U) Sword <br> {Pushwall, SamirPlayz}|
+|General (U) Lance Alt <br> {Pushwall, SamirPlayz}|General (U) Lance Upright <br> {Pushwall, SamirPlayz}|General (U) Lance <br> {IS}|General (U) Magic <br> {Pushwall, SamirPlayz}|
 | :---: | :---: | :---: | :---: |
-|<img alt="General (U) Lance Upright {Pushwall, SamirPlayz}" src="General (U) Lance Upright {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Lance {IS}" src="General (U) Lance {IS}.png" />|<img alt="General (U) Magic {Pushwall, SamirPlayz}" src="General (U) Magic {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Sword {Pushwall, SamirPlayz}" src="General (U) Sword {Pushwall, SamirPlayz}.png" />|
+|<img alt="General (U) Lance Alt {Pushwall, SamirPlayz}" src="General (U) Lance Alt {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Lance Upright {Pushwall, SamirPlayz}" src="General (U) Lance Upright {Pushwall, SamirPlayz}.png" />|<img alt="General (U) Lance {IS}" src="General (U) Lance {IS}.png" />|<img alt="General (U) Magic {Pushwall, SamirPlayz}" src="General (U) Magic {Pushwall, SamirPlayz}.png" />|
 
 
-|General Shield (U) Axe +Chain <br> {Pushwall, SamirPlayz}|General Shield (U) Axe -Chain <br> {Pushwall, SamirPlayz}|General Shield (U) Bow <br> {Pushwall, SamirPlayz}|General Shield (U) Lance <br> {Pushwall, SamirPlayz}|
+|General (U) Sword <br> {Pushwall, SamirPlayz}|General Shield (U) Axe +Chain <br> {Pushwall, SamirPlayz}|General Shield (U) Axe -Chain <br> {Pushwall, SamirPlayz}|General Shield (U) Bow <br> {Pushwall, SamirPlayz}|
 | :---: | :---: | :---: | :---: |
-|<img alt="General Shield (U) Axe +Chain {Pushwall, SamirPlayz}" src="General Shield (U) Axe +Chain {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Axe -Chain {Pushwall, SamirPlayz}" src="General Shield (U) Axe -Chain {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Bow {Pushwall, SamirPlayz}" src="General Shield (U) Bow {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Lance {Pushwall, SamirPlayz}" src="General Shield (U) Lance {Pushwall, SamirPlayz}.png" />|
+|<img alt="General (U) Sword {Pushwall, SamirPlayz}" src="General (U) Sword {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Axe +Chain {Pushwall, SamirPlayz}" src="General Shield (U) Axe +Chain {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Axe -Chain {Pushwall, SamirPlayz}" src="General Shield (U) Axe -Chain {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Bow {Pushwall, SamirPlayz}" src="General Shield (U) Bow {Pushwall, SamirPlayz}.png" />|
 
 
-|General Shield (U) Magic <br> {Pushwall, SamirPlayz}|General Shield (U) Sword <br> {Pushwall, SamirPlayz}|King (U) T1 Style v1 <br> {Huichelaar, Seal, Der, Mobile21}|King (U) T1 Style v2 <br> {Huichelaar, Seal, Der, Mobile21}|
+|General Shield (U) Lance <br> {Pushwall, SamirPlayz}|General Shield (U) Magic <br> {Pushwall, SamirPlayz}|General Shield (U) Sword <br> {Pushwall, SamirPlayz}|King (U) T1 Style v1 <br> {Huichelaar, Seal, Der, Mobile21}|
 | :---: | :---: | :---: | :---: |
-|<img alt="General Shield (U) Magic {Pushwall, SamirPlayz}" src="General Shield (U) Magic {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Sword {Pushwall, SamirPlayz}" src="General Shield (U) Sword {Pushwall, SamirPlayz}.png" />|<img alt="King (U) T1 Style v1 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T1 Style v1 {Huichelaar, Seal, Der, Mobile21}.png" />|<img alt="King (U) T1 Style v2 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T1 Style v2 {Huichelaar, Seal, Der, Mobile21}.png" />|
+|<img alt="General Shield (U) Lance {Pushwall, SamirPlayz}" src="General Shield (U) Lance {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Magic {Pushwall, SamirPlayz}" src="General Shield (U) Magic {Pushwall, SamirPlayz}.png" />|<img alt="General Shield (U) Sword {Pushwall, SamirPlayz}" src="General Shield (U) Sword {Pushwall, SamirPlayz}.png" />|<img alt="King (U) T1 Style v1 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T1 Style v1 {Huichelaar, Seal, Der, Mobile21}.png" />|
 
 
-|King (U) T2 Style v1 <br> {Huichelaar, Seal, Der, Mobile21}|King (U) T2 Style v2 <br> {Huichelaar, Seal, Der, Mobile21}|King (U) T3 Style v1 <br> {Huichelaar, Seal, Der, Mobile21, flasuban}|King (U) T3 Style v2 <br> {Huichelaar, Seal, Der, Mobile21, flasuban}|
+|King (U) T1 Style v2 <br> {Huichelaar, Seal, Der, Mobile21}|King (U) T2 Style v1 <br> {Huichelaar, Seal, Der, Mobile21}|King (U) T2 Style v2 <br> {Huichelaar, Seal, Der, Mobile21}|King (U) T3 Style v1 <br> {Huichelaar, Seal, Der, Mobile21, flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="King (U) T2 Style v1 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T2 Style v1 {Huichelaar, Seal, Der, Mobile21}.png" />|<img alt="King (U) T2 Style v2 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T2 Style v2 {Huichelaar, Seal, Der, Mobile21}.png" />|<img alt="King (U) T3 Style v1 {Huichelaar, Seal, Der, Mobile21, flasuban}" src="King (U) T3 Style v1 {Huichelaar, Seal, Der, Mobile21, flasuban}.png" />|<img alt="King (U) T3 Style v2 {Huichelaar, Seal, Der, Mobile21, flasuban}" src="King (U) T3 Style v2 {Huichelaar, Seal, Der, Mobile21, flasuban}.png" />|
+|<img alt="King (U) T1 Style v2 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T1 Style v2 {Huichelaar, Seal, Der, Mobile21}.png" />|<img alt="King (U) T2 Style v1 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T2 Style v1 {Huichelaar, Seal, Der, Mobile21}.png" />|<img alt="King (U) T2 Style v2 {Huichelaar, Seal, Der, Mobile21}" src="King (U) T2 Style v2 {Huichelaar, Seal, Der, Mobile21}.png" />|<img alt="King (U) T3 Style v1 {Huichelaar, Seal, Der, Mobile21, flasuban}" src="King (U) T3 Style v1 {Huichelaar, Seal, Der, Mobile21, flasuban}.png" />|
 
 
-|Knight (M) FE10-Style <br> {flasuban}|Knight (M) SALVAGED Axe <br> {SALVAGED}|Knight (M) SALVAGED Bow Shield Back <br> {SALVAGED}|Knight (M) SALVAGED Bow <br> {SALVAGED}|
+|King (U) T3 Style v2 <br> {Huichelaar, Seal, Der, Mobile21, flasuban}|Knight (M) FE10-Style <br> {flasuban}|Knight (M) SALVAGED Axe <br> {SALVAGED}|Knight (M) SALVAGED Bow Shield Back <br> {SALVAGED}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Knight (M) FE10-Style {flasuban}" src="Knight (M) FE10-Style {flasuban}.png" />|<img alt="Knight (M) SALVAGED Axe {SALVAGED}" src="Knight (M) SALVAGED Axe {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Bow Shield Back {SALVAGED}" src="Knight (M) SALVAGED Bow Shield Back {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Bow {SALVAGED}" src="Knight (M) SALVAGED Bow {SALVAGED}.png" />|
+|<img alt="King (U) T3 Style v2 {Huichelaar, Seal, Der, Mobile21, flasuban}" src="King (U) T3 Style v2 {Huichelaar, Seal, Der, Mobile21, flasuban}.png" />|<img alt="Knight (M) FE10-Style {flasuban}" src="Knight (M) FE10-Style {flasuban}.png" />|<img alt="Knight (M) SALVAGED Axe {SALVAGED}" src="Knight (M) SALVAGED Axe {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Bow Shield Back {SALVAGED}" src="Knight (M) SALVAGED Bow Shield Back {SALVAGED}.png" />|
 
 
-|Knight (M) SALVAGED Lance <br> {SALVAGED}|Knight (M) SALVAGED Sword <br> {SALVAGED}|Knight (U) FE10-Style Magic <br> {Flasuban}|Knight (U) Lance <br> {IS}|
+|Knight (M) SALVAGED Bow <br> {SALVAGED}|Knight (M) SALVAGED Lance <br> {SALVAGED}|Knight (M) SALVAGED Sword <br> {SALVAGED}|Knight (U) FE10-Style Magic <br> {Flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Knight (M) SALVAGED Lance {SALVAGED}" src="Knight (M) SALVAGED Lance {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Sword {SALVAGED}" src="Knight (M) SALVAGED Sword {SALVAGED}.png" />|<img alt="Knight (U) FE10-Style Magic {Flasuban}" src="Knight (U) FE10-Style Magic {Flasuban}.png" />|<img alt="Knight (U) Lance {IS}" src="Knight (U) Lance {IS}.png" />|
+|<img alt="Knight (M) SALVAGED Bow {SALVAGED}" src="Knight (M) SALVAGED Bow {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Lance {SALVAGED}" src="Knight (M) SALVAGED Lance {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Sword {SALVAGED}" src="Knight (M) SALVAGED Sword {SALVAGED}.png" />|<img alt="Knight (U) FE10-Style Magic {Flasuban}" src="Knight (U) FE10-Style Magic {Flasuban}.png" />|
 
 
-|Knight Helmetless (U) Axe <br> {BoneManSeth}|Knight Helmetless (U) Bow <br> {BoneManSeth}|Knight Helmetless (U) Lance <br> {BoneManSeth}|Knight Helmetless (U) Sword <br> {BoneManSeth}|
+|Knight (U) Lance <br> {IS}|Knight Helmetless (U) Axe <br> {BoneManSeth}|Knight Helmetless (U) Bow <br> {BoneManSeth}|Knight Helmetless (U) Lance <br> {BoneManSeth}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Knight Helmetless (U) Axe {BoneManSeth}" src="Knight Helmetless (U) Axe {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Bow {BoneManSeth}" src="Knight Helmetless (U) Bow {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Lance {BoneManSeth}" src="Knight Helmetless (U) Lance {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Sword {BoneManSeth}" src="Knight Helmetless (U) Sword {BoneManSeth}.png" />|
+|<img alt="Knight (U) Lance {IS}" src="Knight (U) Lance {IS}.png" />|<img alt="Knight Helmetless (U) Axe {BoneManSeth}" src="Knight Helmetless (U) Axe {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Bow {BoneManSeth}" src="Knight Helmetless (U) Bow {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Lance {BoneManSeth}" src="Knight Helmetless (U) Lance {BoneManSeth}.png" />|
 
 
-|Knight Helmetless Shield on Back (U) Bow <br> {BoneManSeth}|Sergeant (M)  1 <br> {Jj09, Der, Spud}|Sergeant (M) <br> {Spud, Rasdel}|
-| :---: | :---: | :---: |
-|<img alt="Knight Helmetless Shield on Back (U) Bow {BoneManSeth}" src="Knight Helmetless Shield on Back (U) Bow {BoneManSeth}.png" />|<img alt="Sergeant (M)  {Jj09, Der, Spud} 1" src="Sergeant (M)  {Jj09, Der, Spud} 1.png" />|<img alt="Sergeant (M) {Spud, Rasdel}" src="Sergeant (M) {Spud, Rasdel}.png" />|
+|Knight Helmetless (U) Sword <br> {BoneManSeth}|Knight Helmetless Shield on Back (U) Bow <br> {BoneManSeth}|Sergeant (M)  1 <br> {Jj09, Der, Spud}|Sergeant (M) <br> {Spud, Rasdel}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Knight Helmetless (U) Sword {BoneManSeth}" src="Knight Helmetless (U) Sword {BoneManSeth}.png" />|<img alt="Knight Helmetless Shield on Back (U) Bow {BoneManSeth}" src="Knight Helmetless Shield on Back (U) Bow {BoneManSeth}.png" />|<img alt="Sergeant (M)  {Jj09, Der, Spud} 1" src="Sergeant (M)  {Jj09, Der, Spud} 1.png" />|<img alt="Sergeant (M) {Spud, Rasdel}" src="Sergeant (M) {Spud, Rasdel}.png" />|
 
 

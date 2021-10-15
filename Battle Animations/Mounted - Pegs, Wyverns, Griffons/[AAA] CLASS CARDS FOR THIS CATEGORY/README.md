@@ -38,28 +38,33 @@
 |<img alt="Pegasus {WhydidImakethisaccount}" src="Pegasus {WhydidImakethisaccount}.png" />|<img alt="Seraph Knight (F) Lance {CamusZekeSirius, flasuban}" src="Seraph Knight (F) Lance {CamusZekeSirius, flasuban}.png" />|<img alt="Seraph Knight (F) Lance {CamusZekeSirius}" src="Seraph Knight (F) Lance {CamusZekeSirius}.png" />|<img alt="Wyvern Knight (F) {Pikmin}" src="Wyvern Knight (F) {Pikmin}.png" />|
 
 
-|Wyvern Knight (U) Bow <br> {N426}|Wyvern Knight (U) Lance <br> {IS}|Wyvern Knight (U) Wicked Flier Magic <br> {MeatOfJustice}|Wyvern Lord (F) Helmless Axe <br> {Flasuban, Yikes!}|
+|Wyvern Knight (U) Axe <br> {topazlight}|Wyvern Knight (U) Bow <br> {N426}|Wyvern Knight (U) Lance <br> {IS}|Wyvern Knight (U) Wicked Flier Magic <br> {MeatOfJustice}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Wyvern Knight (U) Bow {N426}" src="Wyvern Knight (U) Bow {N426}.png" />|<img alt="Wyvern Knight (U) Lance {IS}" src="Wyvern Knight (U) Lance {IS}.png" />|<img alt="Wyvern Knight (U) Wicked Flier Magic {MeatOfJustice}" src="Wyvern Knight (U) Wicked Flier Magic {MeatOfJustice}.png" />|<img alt="Wyvern Lord (F) Helmless Axe {Flasuban, Yikes!}" src="Wyvern Lord (F) Helmless Axe {Flasuban, Yikes!}.png" />|
+|<img alt="Wyvern Knight (U) Axe {topazlight}" src="Wyvern Knight (U) Axe {topazlight}.png" />|<img alt="Wyvern Knight (U) Bow {N426}" src="Wyvern Knight (U) Bow {N426}.png" />|<img alt="Wyvern Knight (U) Lance {IS}" src="Wyvern Knight (U) Lance {IS}.png" />|<img alt="Wyvern Knight (U) Wicked Flier Magic {MeatOfJustice}" src="Wyvern Knight (U) Wicked Flier Magic {MeatOfJustice}.png" />|
 
 
-|Wyvern Lord (M) Bow <br> {Flasuban, Yikes!, N426}|Wyvern Lord (M) Helmless Axe <br> {flasuban}|Wyvern Lord (M) Helmless Bow <br> {Flasuban, Yikes!, N426}|Wyvern Lord (M) Helmless Lance <br> {flasuban}|
+|Wyvern Lord (F) Helmless Axe <br> {Flasuban, Yikes!}|Wyvern Lord (M) Bow <br> {Flasuban, Yikes!, N426}|Wyvern Lord (M) Helmless Axe <br> {flasuban}|Wyvern Lord (M) Helmless Bow <br> {Flasuban, Yikes!, N426}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Wyvern Lord (M) Bow {Flasuban, Yikes!, N426}" src="Wyvern Lord (M) Bow {Flasuban, Yikes!, N426}.png" />|<img alt="Wyvern Lord (M) Helmless Axe {flasuban}" src="Wyvern Lord (M) Helmless Axe {flasuban}.png" />|<img alt="Wyvern Lord (M) Helmless Bow {Flasuban, Yikes!, N426}" src="Wyvern Lord (M) Helmless Bow {Flasuban, Yikes!, N426}.png" />|<img alt="Wyvern Lord (M) Helmless Lance {flasuban}" src="Wyvern Lord (M) Helmless Lance {flasuban}.png" />|
+|<img alt="Wyvern Lord (F) Helmless Axe {Flasuban, Yikes!}" src="Wyvern Lord (F) Helmless Axe {Flasuban, Yikes!}.png" />|<img alt="Wyvern Lord (M) Bow {Flasuban, Yikes!, N426}" src="Wyvern Lord (M) Bow {Flasuban, Yikes!, N426}.png" />|<img alt="Wyvern Lord (M) Helmless Axe {flasuban}" src="Wyvern Lord (M) Helmless Axe {flasuban}.png" />|<img alt="Wyvern Lord (M) Helmless Bow {Flasuban, Yikes!, N426}" src="Wyvern Lord (M) Helmless Bow {Flasuban, Yikes!, N426}.png" />|
 
 
-|Wyvern Lord (U) Axe <br> {flasuban}|Wyvern Lord (U) Lance <br> {IS}|Wyvern Rider (F) Helmless Axe <br> {flasuban}|Wyvern Rider (F) Helmless Bow <br> {Flasuban, N426, Yikes!}|
+|Wyvern Lord (M) Helmless Lance <br> {flasuban}|Wyvern Lord (U) Axe <br> {flasuban}|Wyvern Lord (U) Axe <br> {topazlight}|Wyvern Lord (U) Lance <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Wyvern Lord (U) Axe {flasuban}" src="Wyvern Lord (U) Axe {flasuban}.png" />|<img alt="Wyvern Lord (U) Lance {IS}" src="Wyvern Lord (U) Lance {IS}.png" />|<img alt="Wyvern Rider (F) Helmless Axe {flasuban}" src="Wyvern Rider (F) Helmless Axe {flasuban}.png" />|<img alt="Wyvern Rider (F) Helmless Bow {Flasuban, N426, Yikes!}" src="Wyvern Rider (F) Helmless Bow {Flasuban, N426, Yikes!}.png" />|
+|<img alt="Wyvern Lord (M) Helmless Lance {flasuban}" src="Wyvern Lord (M) Helmless Lance {flasuban}.png" />|<img alt="Wyvern Lord (U) Axe {flasuban}" src="Wyvern Lord (U) Axe {flasuban}.png" />|<img alt="Wyvern Lord (U) Axe {topazlight}" src="Wyvern Lord (U) Axe {topazlight}.png" />|<img alt="Wyvern Lord (U) Lance {IS}" src="Wyvern Lord (U) Lance {IS}.png" />|
 
 
-|Wyvern Rider (F) Helmless Lance <br> {flasuban}|Wyvern Rider (M) Bow <br> {flasuban}|Wyvern Rider (M) Helmless Axe <br> {flasuban}|Wyvern Rider (M) Helmless Bow <br> {flasuban, N426}|
+|Wyvern Rider (F) Helmless Axe <br> {flasuban}|Wyvern Rider (F) Helmless Bow <br> {Flasuban, N426, Yikes!}|Wyvern Rider (F) Helmless Lance <br> {flasuban}|Wyvern Rider (M) Bow <br> {flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Wyvern Rider (F) Helmless Lance {flasuban}" src="Wyvern Rider (F) Helmless Lance {flasuban}.png" />|<img alt="Wyvern Rider (M) Bow {flasuban}" src="Wyvern Rider (M) Bow {flasuban}.png" />|<img alt="Wyvern Rider (M) Helmless Axe {flasuban}" src="Wyvern Rider (M) Helmless Axe {flasuban}.png" />|<img alt="Wyvern Rider (M) Helmless Bow {flasuban, N426}" src="Wyvern Rider (M) Helmless Bow {flasuban, N426}.png" />|
+|<img alt="Wyvern Rider (F) Helmless Axe {flasuban}" src="Wyvern Rider (F) Helmless Axe {flasuban}.png" />|<img alt="Wyvern Rider (F) Helmless Bow {Flasuban, N426, Yikes!}" src="Wyvern Rider (F) Helmless Bow {Flasuban, N426, Yikes!}.png" />|<img alt="Wyvern Rider (F) Helmless Lance {flasuban}" src="Wyvern Rider (F) Helmless Lance {flasuban}.png" />|<img alt="Wyvern Rider (M) Bow {flasuban}" src="Wyvern Rider (M) Bow {flasuban}.png" />|
 
 
-|Wyvern Rider (M) Helmless Lance <br> {flasuban}|Wyvern Rider (U) Axe <br> {flasuban}|Wyvern Rider (U) Lance <br> {IS}|
-| :---: | :---: | :---: |
-|<img alt="Wyvern Rider (M) Helmless Lance {flasuban}" src="Wyvern Rider (M) Helmless Lance {flasuban}.png" />|<img alt="Wyvern Rider (U) Axe {flasuban}" src="Wyvern Rider (U) Axe {flasuban}.png" />|<img alt="Wyvern Rider (U) Lance {IS}" src="Wyvern Rider (U) Lance {IS}.png" />|
+|Wyvern Rider (M) Helmless Axe <br> {flasuban}|Wyvern Rider (M) Helmless Bow <br> {flasuban, N426}|Wyvern Rider (M) Helmless Lance <br> {flasuban}|Wyvern Rider (U) Axe <br> {flasuban}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Wyvern Rider (M) Helmless Axe {flasuban}" src="Wyvern Rider (M) Helmless Axe {flasuban}.png" />|<img alt="Wyvern Rider (M) Helmless Bow {flasuban, N426}" src="Wyvern Rider (M) Helmless Bow {flasuban, N426}.png" />|<img alt="Wyvern Rider (M) Helmless Lance {flasuban}" src="Wyvern Rider (M) Helmless Lance {flasuban}.png" />|<img alt="Wyvern Rider (U) Axe {flasuban}" src="Wyvern Rider (U) Axe {flasuban}.png" />|
+
+
+|Wyvern Rider (U) Axe <br> {topazlight}|Wyvern Rider (U) Lance <br> {IS}|
+| :---: | :---: |
+|<img alt="Wyvern Rider (U) Axe {topazlight}" src="Wyvern Rider (U) Axe {topazlight}.png" />|<img alt="Wyvern Rider (U) Lance {IS}" src="Wyvern Rider (U) Lance {IS}.png" />|
 
 

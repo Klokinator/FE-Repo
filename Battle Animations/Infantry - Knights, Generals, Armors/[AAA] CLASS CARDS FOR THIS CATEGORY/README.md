@@ -43,14 +43,19 @@
 |<img alt="King (U) T3 Style v2 {Huichelaar, Seal, Der, Mobile21, flasuban}" src="King (U) T3 Style v2 {Huichelaar, Seal, Der, Mobile21, flasuban}.png" />|<img alt="Knight (M) FE10-Style {flasuban}" src="Knight (M) FE10-Style {flasuban}.png" />|<img alt="Knight (M) SALVAGED Axe {SALVAGED}" src="Knight (M) SALVAGED Axe {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Bow Shield Back {SALVAGED}" src="Knight (M) SALVAGED Bow Shield Back {SALVAGED}.png" />|
 
 
-|Knight (M) SALVAGED Bow <br> {SALVAGED}|Knight (M) SALVAGED Lance <br> {SALVAGED}|Knight (M) SALVAGED Sword <br> {SALVAGED}|Knight (U) FE10-Style Magic <br> {Flasuban}|
+|Knight (M) SALVAGED Bow <br> {SALVAGED}|Knight (M) SALVAGED Lance <br> {SALVAGED}|Knight (M) SALVAGED Sword <br> {SALVAGED}|Knight (U) Axe <br> {Der, Epicer}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Knight (M) SALVAGED Bow {SALVAGED}" src="Knight (M) SALVAGED Bow {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Lance {SALVAGED}" src="Knight (M) SALVAGED Lance {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Sword {SALVAGED}" src="Knight (M) SALVAGED Sword {SALVAGED}.png" />|<img alt="Knight (U) FE10-Style Magic {Flasuban}" src="Knight (U) FE10-Style Magic {Flasuban}.png" />|
+|<img alt="Knight (M) SALVAGED Bow {SALVAGED}" src="Knight (M) SALVAGED Bow {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Lance {SALVAGED}" src="Knight (M) SALVAGED Lance {SALVAGED}.png" />|<img alt="Knight (M) SALVAGED Sword {SALVAGED}" src="Knight (M) SALVAGED Sword {SALVAGED}.png" />|<img alt="Knight (U) Axe {Der, Epicer}" src="Knight (U) Axe {Der, Epicer}.png" />|
 
 
-|Knight (U) Lance <br> {IS}|Knight Helmetless (U) Axe <br> {BoneManSeth}|Knight Helmetless (U) Bow <br> {BoneManSeth}|Knight Helmetless (U) Lance <br> {BoneManSeth}|
+|Knight (U) Bow <br> {Der, Epicer}|Knight (U) FE10-Style Magic <br> {Flasuban}|Knight (U) Lance <br> {IS}|Knight (U) Magic <br> {Der, Epicer}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Knight (U) Lance {IS}" src="Knight (U) Lance {IS}.png" />|<img alt="Knight Helmetless (U) Axe {BoneManSeth}" src="Knight Helmetless (U) Axe {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Bow {BoneManSeth}" src="Knight Helmetless (U) Bow {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Lance {BoneManSeth}" src="Knight Helmetless (U) Lance {BoneManSeth}.png" />|
+|<img alt="Knight (U) Bow {Der, Epicer}" src="Knight (U) Bow {Der, Epicer}.png" />|<img alt="Knight (U) FE10-Style Magic {Flasuban}" src="Knight (U) FE10-Style Magic {Flasuban}.png" />|<img alt="Knight (U) Lance {IS}" src="Knight (U) Lance {IS}.png" />|<img alt="Knight (U) Magic {Der, Epicer}" src="Knight (U) Magic {Der, Epicer}.png" />|
+
+
+|Knight (U) Sword <br> {Der, Epicer}|Knight Helmetless (U) Axe <br> {BoneManSeth}|Knight Helmetless (U) Bow <br> {BoneManSeth}|Knight Helmetless (U) Lance <br> {BoneManSeth}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Knight (U) Sword {Der, Epicer}" src="Knight (U) Sword {Der, Epicer}.png" />|<img alt="Knight Helmetless (U) Axe {BoneManSeth}" src="Knight Helmetless (U) Axe {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Bow {BoneManSeth}" src="Knight Helmetless (U) Bow {BoneManSeth}.png" />|<img alt="Knight Helmetless (U) Lance {BoneManSeth}" src="Knight Helmetless (U) Lance {BoneManSeth}.png" />|
 
 
 |Knight Helmetless (U) Sword <br> {BoneManSeth}|Knight Helmetless Shield on Back (U) Bow <br> {BoneManSeth}|Sergeant (M)  1 <br> {Jj09, Der, Spud}|Sergeant (M) <br> {Spud, Rasdel}|

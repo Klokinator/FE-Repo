@@ -38,18 +38,23 @@
 |<img alt="Lord (F) Red Bean's Celica {Blood}-stand" src="Lord (F) Red Bean's Celica {Blood}-stand.png" />|<img alt="Lord (M) Alfonse Sword {Circleseverywhere}-stand" src="Lord (M) Alfonse Sword {Circleseverywhere}-stand.png" />|<img alt="Lord (M) Eliwood Lance {ArcaneEli}-stand" src="Lord (M) Eliwood Lance {ArcaneEli}-stand.png" />|<img alt="Lord (M) Eliwood Marth {Dominus_Vobiscum}-stand" src="Lord (M) Eliwood Marth {Dominus_Vobiscum}-stand.png" />|
 
 
-|Lord (M) Eliwood Sword <br> {IS}|Lord (M) Hector Axe <br> {IS}|Lord (M) Marth Roy v1 Sword <br> {Dominus_Vobiscum}|Lord (M) Roy Knight (ZoramineFae) <br> |
+|Lord (M) Eliwood Sword <br> {IS}|Lord (M) FE3 Marth <br> {ThyAnarchists}|Lord (M) Hector Axe <br> {IS}|Lord (M) Marth Roy v1 Sword <br> {Dominus_Vobiscum}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Lord (M) Eliwood Sword {IS}-stand" src="Lord (M) Eliwood Sword {IS}-stand.png" />|<img alt="Lord (M) Hector Axe {IS}-stand" src="Lord (M) Hector Axe {IS}-stand.png" />|<img alt="Lord (M) Marth Roy v1 Sword {Dominus_Vobiscum}-stand" src="Lord (M) Marth Roy v1 Sword {Dominus_Vobiscum}-stand.png" />|<img alt="Lord (M) Roy Knight (ZoramineFae)-stand" src="Lord (M) Roy Knight (ZoramineFae)-stand.png" />|
+|<img alt="Lord (M) Eliwood Sword {IS}-stand" src="Lord (M) Eliwood Sword {IS}-stand.png" />|<img alt="Lord (M) FE3 Marth {ThyAnarchists}-stand" src="Lord (M) FE3 Marth {ThyAnarchists}-stand.png" />|<img alt="Lord (M) Hector Axe {IS}-stand" src="Lord (M) Hector Axe {IS}-stand.png" />|<img alt="Lord (M) Marth Roy v1 Sword {Dominus_Vobiscum}-stand" src="Lord (M) Marth Roy v1 Sword {Dominus_Vobiscum}-stand.png" />|
 
 
-|Lord (M) Roy T1 Generic <br> {AnnoyingAnon}|Lord (M) Roy T1 <br> {IS}|Lord (M) Roy T2 Redesign <br> {Jeorge Reds}|Lord (M) Roy T2 <br> {IS}|
+|Lord (M) Roy Knight (ZoramineFae) <br> |Lord (M) Roy T1 Generic <br> {AnnoyingAnon}|Lord (M) Roy T1 <br> {IS}|Lord (M) Roy T2 Redesign <br> {Jeorge Reds}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Lord (M) Roy T1 Generic {AnnoyingAnon}-stand" src="Lord (M) Roy T1 Generic {AnnoyingAnon}-stand.png" />|<img alt="Lord (M) Roy T1 {IS}-stand" src="Lord (M) Roy T1 {IS}-stand.png" />|<img alt="Lord (M) Roy T2 Redesign {Jeorge Reds}-stand" src="Lord (M) Roy T2 Redesign {Jeorge Reds}-stand.png" />|<img alt="Lord (M) Roy T2 {IS}-stand" src="Lord (M) Roy T2 {IS}-stand.png" />|
+|<img alt="Lord (M) Roy Knight (ZoramineFae)-stand" src="Lord (M) Roy Knight (ZoramineFae)-stand.png" />|<img alt="Lord (M) Roy T1 Generic {AnnoyingAnon}-stand" src="Lord (M) Roy T1 Generic {AnnoyingAnon}-stand.png" />|<img alt="Lord (M) Roy T1 {IS}-stand" src="Lord (M) Roy T1 {IS}-stand.png" />|<img alt="Lord (M) Roy T2 Redesign {Jeorge Reds}-stand" src="Lord (M) Roy T2 Redesign {Jeorge Reds}-stand.png" />|
 
 
-|Lord (M) Sword Generic (Leif) <br> |Mage Lord (F) Eliwood <br> {TyTheBub}|Mage Lord (M) Eliwood <br> {TyTheBub}|Oracle v2 <br> {Sacred War}|
+|Lord (M) Roy T2 <br> {IS}|Lord (M) Sword Generic (Leif) <br> |Mage Lord (F) Eliwood <br> {TyTheBub}|Mage Lord (M) Eliwood <br> {TyTheBub}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Lord (M) Sword Generic (Leif)-stand" src="Lord (M) Sword Generic (Leif)-stand.png" />|<img alt="Mage Lord (F) Eliwood {TyTheBub}-stand" src="Mage Lord (F) Eliwood {TyTheBub}-stand.png" />|<img alt="Mage Lord (M) Eliwood {TyTheBub}-stand" src="Mage Lord (M) Eliwood {TyTheBub}-stand.png" />|<img alt="Oracle v2 {Sacred War}-stand" src="Oracle v2 {Sacred War}-stand.png" />|
+|<img alt="Lord (M) Roy T2 {IS}-stand" src="Lord (M) Roy T2 {IS}-stand.png" />|<img alt="Lord (M) Sword Generic (Leif)-stand" src="Lord (M) Sword Generic (Leif)-stand.png" />|<img alt="Mage Lord (F) Eliwood {TyTheBub}-stand" src="Mage Lord (F) Eliwood {TyTheBub}-stand.png" />|<img alt="Mage Lord (M) Eliwood {TyTheBub}-stand" src="Mage Lord (M) Eliwood {TyTheBub}-stand.png" />|
+
+
+|Oracle v2 <br> {Sacred War}|
+| :---: |
+|<img alt="Oracle v2 {Sacred War}-stand" src="Oracle v2 {Sacred War}-stand.png" />|
 
 

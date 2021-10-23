@@ -171,6 +171,14 @@
 
 
 
+## [\[Knight-Custom\] \[U\] NES-Style by Dinar87](https://git.io/JiOXt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JiOXq)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JiOXI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JiOXL"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Knight-Reskin\] \[M\] Oswin by JeyTheCount](https://git.io/Jn3qe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cv)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnODV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdy"/> |

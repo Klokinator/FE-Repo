@@ -1,12 +1,5 @@
 # [WIP Animations Battle Animations](./)
 
-## [Dinar87's NES-Style Knight](https://git.io/JE2OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23X)
-
-
-
-
-
-
 ## [Ether's Sprites](https://git.io/JE2Oi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE237)
 
 

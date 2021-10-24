@@ -4247,7 +4247,7 @@
 
 | <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://git.io/JnO5y"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://git.io/JnORZ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOKS"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORs"/> |
 
 
 
@@ -5209,7 +5209,7 @@
 
 
 
-### [\[Devisian-Custom\] \[M\] Winter Priest by Devisian_Nights](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30x)
+### [\[Devisian-Custom\] \[M\] Winter Priest by Devisian_Nights](https://git.io/Jn3LU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30x)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5E"/> | <b>Staff (Constant timing)</b><br/><img alt="Staff (Constant timing)" src="https://git.io/JnOh0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdE"/> |
 | :---: | :---: | :---: |
@@ -5515,7 +5515,7 @@
 
 ### [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](https://git.io/Jn3LF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ES)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO95"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif"/> |
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO95"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://git.io/JnOPw"/> |
 | :---: | :---: |
 
 

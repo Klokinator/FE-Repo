@@ -2200,6 +2200,30 @@
 
 
 
+### [\[Sword FE15 Custom\] \[F\] Myrmidon by Nuramon](https://git.io/Ji35n) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Ji35C)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Ji35m"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Ji35I"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Sword FE15 Custom\] \[M\] Myrmidon by Nuramon](https://git.io/Ji35Z) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Ji35c)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Ji35t"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Ji35k"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Sword FE15 Custom\] \[U\] Myrmidon by Nuramon](https://git.io/Ji35s) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Ji35G)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Ji35q"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Ji35L"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Sword FE16 Custom\] \[F\] Dread Fighter by Nuramon](https://git.io/JK3Du) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3Dg)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3DT"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Dv"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3DG"/> |

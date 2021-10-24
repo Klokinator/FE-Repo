@@ -203,6 +203,14 @@
 
 
 
+### [\[Non-FE\] \[M\] Fate - Nobunaga by ZoramineFae](https://git.io/JisM4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyH)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPw"/> |
+| :---: |
+
+
+
+
 ### [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](https://git.io/Jn3qx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ra)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO9l"/> |
@@ -512,6 +520,32 @@
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOgs"/> | <b>Axe with Scream Critical</b><br/><img alt="Axe with Scream Critical" src="https://git.io/JnOgy"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOg9"/> |
 | :---: | :---: | :---: |
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOz3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgG"/> |
+
+
+
+
+### [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator](https://git.io/JisMy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDo)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis6M"/> | <b>Axe (Berserker Spin Crit)</b><br/><img alt="Axe (Berserker Spin Crit)" src="https://git.io/Jis65"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6Q"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis69"/> |
+
+
+
+
+### [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal by Pushwall](https://git.io/JisX4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisMR)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis67"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6D"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis61"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](https://git.io/JisMD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDs)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis6S"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis6H"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6d"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6y"/> |
 
 
 
@@ -1582,6 +1616,14 @@
 
 
 
+### [\[Custom Polearm\] \[M\] Sergeant by Spud](https://git.io/JisYF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisYb)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisY7"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisYd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisY5"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](https://git.io/Jn3Jy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30D)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOAG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO6t"/> |
@@ -1594,6 +1636,14 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO6X"/> |
 | :---: |
+
+
+
+
+### [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](https://git.io/JisM1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyS)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPx"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis6b"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6F"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -2911,14 +2961,6 @@
 <details>
 <summary>Click to expand!</summary>
 
-### [\[Crossover Custom\] \[M\] Sergeant by Spud](https://git.io/Jn3tH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CR)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpD"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOx2"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ### [\[General-Base\] \[U\] Repal by Skitty](https://git.io/Jn3kb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cm)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpl"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpC"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO5f"/> |
@@ -3189,773 +3231,724 @@
 </details>
 
 
-## [Lords - FE6, FE7 Types Battle Animations](./Lords%20-%20FE6,%20FE7%20Types/)
+## [Lords - Vanilla and Custom Battle Animations](./Lords%20-%20Vanilla%20and%20Custom/)
 
 <details>
 <summary>Click to expand!</summary>
 
-### [\[Eliwood-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/Jn3TB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BP)
+### [\[Eirika-Base\] \[F\] T1 Beta Eirika](https://git.io/Jisyp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSU)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9O"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnO9y"/> | <b>Sword (Jojowood)</b><br/><img alt="Sword (Jojowood)" src="https://git.io/J0JUH"/> |
-| :---: | :---: | :---: |
-| <b>Sword (Slash)</b><br/><img alt="Sword (Slash)" src="https://git.io/J0JUQ"/> | <b>Lance {Spud}</b><br/><img alt="Lance {Spud}" src="https://git.io/J0JU9"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/J0JUS"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObB"/> |
-
-
-
-
-### [\[Eliwood-Base\] \[M\] T2 Repal by Temp](https://git.io/Jn3I4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34V)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOAL"/> | <b>Sword (Durandal Magic)</b><br/><img alt="Sword (Durandal Magic)" src="https://git.io/JnOde"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOAU"/> |
-| :---: | :---: | :---: |
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO7S"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7O"/> |
-
-
-
-
-### [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/Jn3kt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30b)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5Y"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JnObh"/> | <b>Sword (Durandal Beta Slash)</b><br/><img alt="Sword (Durandal Beta Slash)" src="https://git.io/Juf2e"/> |
-| :---: | :---: | :---: |
-| <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JnObw"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnOdC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO92"/> |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jufgj"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jufgx"/> | <b>Bow (Alternate Dodge)</b><br/><img alt="Bow (Alternate Dodge)" src="https://git.io/Jufgp"/> |
-| <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JnO98"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAf"/> |
-
-
-
-
-### [\[Eliwood-Reskin\] \[M\] T1 Long-Haired by Xenith](https://git.io/Jn3qY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zs)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQM"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObu"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisMx"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6h"/> |
 | :---: | :---: |
 
 
 
 
-### [\[Eliwood-Reskin\] \[M\] T1 Prince Zephiel by Teraspark](https://git.io/Jn3qq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cp)
+### [\[Eirika-Base\] \[F\] T1 Beta Eirika Fixed by Jono the Red](https://git.io/JisDO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisD7)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODm"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis6p"/> | <b>Sword (Fixed)</b><br/><img alt="Sword (Fixed)" src="https://git.io/JisMi"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6x"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed (Fixed)</b><br/><img alt="Unarmed (Fixed)" src="https://git.io/Jis6N"/> |
+
+
+
+
+### [\[Eirika-Base\] \[F\] T1 Repal +Weapons](https://git.io/JisMM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyF)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis6A"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXe"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisXL"/> |
+| :---: | :---: | :---: |
+| <b>Magic Alt</b><br/><img alt="Magic Alt" src="https://git.io/JisXv"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXq"/> |
+
+
+
+
+### [\[Eirika-Base\] \[F\] T1 Repal FEH-Style](https://git.io/JisMQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDP)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisX3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisiJ"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](https://git.io/JisSk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSs)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXm"/> | <b>Sword (Backflip)</b><br/><img alt="Sword (Backflip)" src="https://git.io/JisMp"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisPh"/> |
+| :---: | :---: | :---: |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisPp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisie"/> |
+
+
+
+
+### [\[Eirika-Base\] \[F\] T2 Repal by Teraspark](https://git.io/JisMS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDa)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPj"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisXU"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXY"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Eirika-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/JisyZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisy6)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXV"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXc"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisMA"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6j"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisXt"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisXJ"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisiU"/> |
+
+
+
+
+### [\[Eirika-Reskin\] \[F\] T1 Artoria Pendragon Repal](https://git.io/JisMd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDM)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXG"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Eirika-Reskin\] \[F\] T1 Custom Dress by Teraspark](https://git.io/JisM5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisD6)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPB"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/Jis6r"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6i"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Eirika-Reskin\] \[F\] T2 FE7if Isadora Doubleblade](https://git.io/JisMb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyN)
+
+| <b>Sword (Hauteclere)</b><br/><img alt="Sword (Hauteclere)" src="https://git.io/JisPo"/> |
 | :---: |
 
 
 
 
-### [\[Eliwood-Reskin\] \[M\] T2 Brave by RedBean](https://git.io/Jn3q3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30B)
+### [\[Eirika-Variant\] \[F\] Brave Lucina \(Celica T2\) by marlon0024](https://git.io/JisMu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyu)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO73"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnONr"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO9n"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9u"/> |
-
-
-
-
-### [\[Eliwood-Reskin\] \[M\] T2 Roy by CedAoh](https://git.io/Jn3ks) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bm)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1Y"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JnOyw"/> | <b>Sword (Durandal No Magic)</b><br/><img alt="Sword (Durandal No Magic)" src="https://git.io/JnOyv"/> |
-| :---: | :---: | :---: |
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnODc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONo"/> |
-
-
-
-
-### [\[Eliwood-Reskin\] \[M\] T2 Roy by SurfingKyogre](https://git.io/Jn3qO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n7)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOF2"/> | <b>Sword (Binding Blade Updated)</b><br/><img alt="Sword (Binding Blade Updated)" src="https://git.io/JnO5p"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JnO9C"/> |
-| :---: | :---: | :---: |
-| <b>Sword (Durandal Repalette +Ranged)</b><br/><img alt="Sword (Durandal Repalette +Ranged)" src="https://git.io/JnOdv"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnO7h"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO7e"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOyr"/> |
-
-
-
-
-### [\[Eliwood-Variant\] \[F\] Mage Lord by TytheBub](https://git.io/JEXa1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaD)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXa2"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXE"/> |
 | :---: |
 
 
 
 
-### [\[Eliwood-Variant\] \[F\] T1 Lucina Slash by Caim Van Fang](https://git.io/Jn3Ic) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EU)
+### [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](https://git.io/JisSm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSc)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyC"/> |
+| <b>Sword (T1)</b><br/><img alt="Sword (T1)" src="https://git.io/Jisif"/> | <b>Magic (T1)</b><br/><img alt="Magic (T1)" src="https://git.io/JisDe"/> | <b>Unarmed (T1)</b><br/><img alt="Unarmed (T1)" src="https://git.io/JisXw"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Eirika-Variant\] \[F\] Priestess Celica T2 by RedBean](https://git.io/JisST) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSO)
+
+| <b>Sword (T2 Basic)</b><br/><img alt="Sword (T2 Basic)" src="https://git.io/JisDT"/> | <b>Sword (T2 Thunder 1)</b><br/><img alt="Sword (T2 Thunder 1)" src="https://git.io/JisXI"/> | <b>Sword (T2 Thunder 2)</b><br/><img alt="Sword (T2 Thunder 2)" src="https://git.io/JisXf"/> |
+| :---: | :---: | :---: |
+| <b>Magic (T2)</b><br/><img alt="Magic (T2)" src="https://git.io/Jisiq"/> | <b>Unarmed (T2)</b><br/><img alt="Unarmed (T2)" src="https://git.io/JisDf"/> |
+
+
+
+
+### [\[Eirika-Variant\] \[F\] Priestess Celica T2-Style by EA](https://git.io/Jisy4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyX)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXk"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisX2"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisDk"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Eliwood-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/JisSI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisS3)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXs"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JisXT"/> | <b>Sword (Jojowood)</b><br/><img alt="Sword (Jojowood)" src="https://git.io/JisXg"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Slash)</b><br/><img alt="Sword (Slash)" src="https://git.io/JisXn"/> | <b>Lance {Spud}</b><br/><img alt="Lance {Spud}" src="https://git.io/JisXz"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisDU"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPu"/> |
+
+
+
+
+### [\[Eliwood-Base\] \[M\] T2 Repal by Temp](https://git.io/Jisyb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSv)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXR"/> | <b>Sword (Durandal Magic)</b><br/><img alt="Sword (Durandal Magic)" src="https://git.io/Jisiv"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JisDJ"/> |
+| :---: | :---: | :---: |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1R"/> |
+
+
+
+
+### [\[Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/JisDX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSe)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisDv"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/JisXO"/> | <b>Sword (Durandal Beta Slash)</b><br/><img alt="Sword (Durandal Beta Slash)" src="https://git.io/JisiL"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Durandal Beta)</b><br/><img alt="Sword (Durandal Beta)" src="https://git.io/JisiT"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JisXa"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisX0"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisXC"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisMj"/> | <b>Bow (Alternate Dodge)</b><br/><img alt="Bow (Alternate Dodge)" src="https://git.io/JisM6"/> |
+| <b>Bow {Spud}</b><br/><img alt="Bow {Spud}" src="https://git.io/JisX8"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXB"/> |
+
+
+
+
+### [\[Eliwood-Reskin\] \[M\] T1 Long-Haired by Xenith](https://git.io/JisME) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDq)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXu"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXl"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Eliwood-Reskin\] \[M\] T1 Prince Zephiel by Teraspark](https://git.io/JisMH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDw)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisik"/> |
 | :---: |
 
 
 
 
-### [\[Eliwood-Variant\] \[M\] Mage Lord by TytheBub](https://git.io/JEXaw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEXaK)
+### [\[Eliwood-Reskin\] \[M\] T2 Brave by RedBean](https://git.io/JisyC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyP)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEXaz"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis14"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/Jis13"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1u"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1a"/> |
+
+
+
+
+### [\[Eliwood-Reskin\] \[M\] T2 Roy by CedAoh](https://git.io/JisMz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDy)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXP"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisXM"/> | <b>Sword (Durandal No Magic)</b><br/><img alt="Sword (Durandal No Magic)" src="https://git.io/JisX1"/> |
+| :---: | :---: | :---: |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXD"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisit"/> |
+
+
+
+
+### [\[Eliwood-Reskin\] \[M\] T2 Roy by SurfingKyogre](https://git.io/Jisyz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisy1)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis12"/> | <b>Sword (Binding Blade Updated)</b><br/><img alt="Sword (Binding Blade Updated)" src="https://git.io/JisXi"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisXX"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Durandal Repalette +Ranged)</b><br/><img alt="Sword (Durandal Repalette +Ranged)" src="https://git.io/Jis1g"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JisXo"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1z"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1C"/> |
+
+
+
+
+### [\[Eliwood-Variant\] \[F\] Mage Lord by TytheBub](https://git.io/JisM0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDY)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisXr"/> |
 | :---: |
 
 
 
 
-### [\[Eliwood-Variant\] \[M\] T1 Marth Hard-Stab by PwnageKirby](https://git.io/Jn3ki) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3W3)
+### [\[Eliwood-Variant\] \[F\] T1 Lucina Slash by Caim Van Fang](https://git.io/JisMC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyM)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOM8"/> | <b>Sword (Alt)</b><br/><img alt="Sword (Alt)" src="https://git.io/JnOyJ"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Eliwood-Variant\] \[M\] T1 Marth Slash by Caim Van Fang](https://git.io/Jn3Yj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nH)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFR"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisim"/> |
 | :---: |
 
 
 
 
-### [\[Eliwood-Variant\] \[M\] T1 Marth Thrust-Stab by Blaze](https://git.io/Jn3kn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ch)
+### [\[Eliwood-Variant\] \[M\] Mage Lord by TytheBub](https://git.io/JisyO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyE)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO91"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdI"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Hector-Base\] \[M\] T1 Repal by Temp](https://git.io/Jn3Ta) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n9)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOdt"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOyX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOFy"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Hector-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/Jn3qm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n5)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5d"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOdZ"/> | <b>Axe (Punch Crit)</b><br/><img alt="Axe (Punch Crit)" src="https://git.io/JnO5N"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOdP"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOA3"/> |
-
-
-
-
-### [\[Hector-Base\] \[M\] T2 Repal by Temp](https://git.io/Jn3IZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nd)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnObK"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnONI"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JnOAO"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnONK"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOpT"/> |
-
-
-
-
-### [\[Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](https://git.io/Jn3Io) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nQ)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnObA"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnONh"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JnObj"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnObd"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOpL"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnObb"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObQ"/> |
-
-
-
-
-### [\[Hector-Custom\] \[M\] T2 Brave Hector by Nuramon](https://git.io/Jn3fG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34B)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnORi"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnORP"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnORg"/> |
-| :---: | :---: | :---: |
-| <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JnOwW"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO4J"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4f"/> |
-
-
-
-
-### [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](https://git.io/Jn3Uj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nb)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7v"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnObS"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JnOxG"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe (Spin)</b><br/><img alt="Handaxe (Spin)" src="https://git.io/JnOHX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHF"/> |
-
-
-
-
-### [\[Hector-Reskin\] \[F\] T1 FE7if Milia](https://git.io/Jn3kp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZR)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOFZ"/> | <b>Axe (Scythe - Dreadnought)</b><br/><img alt="Axe (Scythe - Dreadnought)" src="https://git.io/JnOyI"/> | <b>Axe (Yggdrasil)</b><br/><img alt="Axe (Yggdrasil)" src="https://git.io/JnOMg"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnObp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb7"/> |
-
-
-
-
-### [\[Hector-Reskin\] \[F\] T1 FE7if Milia Repal by Serif](https://git.io/Jn3Iq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZX)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOAC"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOyW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQW"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://git.io/Jn3TE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nF)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHs"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOdl"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnONP"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObX"/> |
-
-
-
-
-### [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator](https://git.io/Jn3Lv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z4)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnObF"/> | <b>Axe (Berserker Spin Crit)</b><br/><img alt="Axe (Berserker Spin Crit)" src="https://git.io/JKGft"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOyR"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObL"/> |
-
-
-
-
-### [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal by Pushwall](https://git.io/Jn3t5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z7)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO9q"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO9d"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODZ"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](https://git.io/Jn3kY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ng)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODX"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO1S"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOSs"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO90"/> |
-
-
-
-
-### [\[Hector-Reskin\] \[M\] T2 Vanguard by Temp](https://git.io/Jn3Lf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38E)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONv"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnODj"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnONF"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMG"/> |
-
-
-
-
-### [\[Hector-Reskin\] \[M\] T2 Yggdra Milanor by Aruka](https://git.io/Jn3LT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZN)
-
-| <b>Axe (Chain)</b><br/><img alt="Axe (Chain)" src="https://git.io/JnOF0"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOHh"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Hector-Type\] \[M\] FF7 - Cloud by FlyingAce](https://git.io/Jn3IU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZF)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODC"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisMI"/> |
 | :---: |
 
 
 
 
-### [\[Hector-Variant\] \[F\] T2 Harbinger Helmetless](https://git.io/Jn3IO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n4)
+### [\[Eliwood-Variant\] \[M\] T1 Marth Hard-Stab by PwnageKirby](https://git.io/JisMV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyB)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnONS"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyV"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXy"/> | <b>Sword (Alt)</b><br/><img alt="Sword (Alt)" src="https://git.io/JisXS"/> |
 | :---: | :---: |
 
 
 
 
-### [\[Hector-Variant\] \[U\] T2 Harbinger by Nuramon](https://git.io/Jn3tF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3no)
+### [\[Eliwood-Variant\] \[M\] T1 Marth Slash by Caim Van Fang](https://git.io/JisMa) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisy9)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON2"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOQY"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO9U"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnONk"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOb5"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONp"/> |
-
-
-
-
-### [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee](https://git.io/Jn3t7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zh)
-
-| <b>Sword (Alondite)</b><br/><img alt="Sword (Alondite)" src="https://git.io/JnOyE"/> | <b>Sword (C48, FE7, and FE8)</b><br/><img alt="Sword (C48, FE7, and FE8)" src="https://git.io/JnONj"/> | <b>Axe (C47, FE7, and FE8)</b><br/><img alt="Axe (C47, FE7, and FE8)" src="https://git.io/JnOQZ"/> |
-| :---: | :---: | :---: |
-| <b>Axe (Urvan)</b><br/><img alt="Axe (Urvan)" src="https://git.io/JnO9W"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOQo"/> | <b>Handaxe (Alt)</b><br/><img alt="Handaxe (Alt)" src="https://git.io/JnOHq"/> |
-| <b>Handaxe (Hatchet Alt)</b><br/><img alt="Handaxe (Hatchet Alt)" src="https://git.io/JnOQa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOhJ"/> |
-
-
-
-
-### [\[Lord Custom\] \[M\] Ike Ranger by Khrene Kleaver](https://git.io/Jn3In) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z0)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQR"/> | <b>Legendary (Binding Blade)</b><br/><img alt="Legendary (Binding Blade)" src="https://git.io/JnOAr"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONG"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Lord Custom\] \[M\] Ike Vanguard by FlyingAce24](https://git.io/Jn3I0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nY)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQs"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO5m"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO7y"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHU"/> |
-
-
-
-
-### [\[Lord Custom\] \[M\] Leif Lord by Obsidian Daddy](https://git.io/JwdIY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JwdI8)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jwdkg"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jwdko"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Base\] \[F\] T1 Vanilla +Axes by Vilkalizer](https://git.io/Jn3kj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n1)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOPi"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOip"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOD5"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1e"/> |
-
-
-
-
-### [\[Lyn-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/Jn3IW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n3)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO76"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JnOQu"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JnO71"/> |
-| :---: | :---: | :---: |
-| <b>Sword (Sol Katti Magic Fix)</b><br/><img alt="Sword (Sol Katti Magic Fix)" src="https://git.io/JnOjs"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/JnOFs"/> | <b>Axe {Vilkalizer}</b><br/><img alt="Axe {Vilkalizer}" src="https://git.io/JnONa"/> |
-| <b>Handaxe {Vilkalizer}</b><br/><img alt="Handaxe {Vilkalizer}" src="https://git.io/JnOjY"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOQe"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7H"/> |
-
-
-
-
-### [\[Lyn-Base\] \[F\] T2 Vanilla Repal by Sax-Marine](https://git.io/Jn3Tb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zd)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhU"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/JnOhu"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOiF"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOPU"/> |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] Kawaii Blader by Yangfly](https://git.io/Jn3tA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nW)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOy1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQn"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] T1 Awakening-Style Myrmidon](https://git.io/Jn3IN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nZ)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHG"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite](https://git.io/Jn3kO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nO)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHx"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONB"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] T1 Tsukage by Yangfly](https://git.io/Jn3k4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZB)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFE"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONH"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] T2 FE7if Elena](https://git.io/Jn3kD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nG)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOwP"/> | <b>Sword (Beta Durandal)</b><br/><img alt="Sword (Beta Durandal)" src="https://git.io/JnOw8"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] T2 FE7if Karla](https://git.io/Jn3qz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Za)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnObt"/> | <b>Sword (Shirayuki)</b><br/><img alt="Sword (Shirayuki)" src="https://git.io/JnO5Z"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOHA"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] T2 Short Hair by Zoisite](https://git.io/Jn3TD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZV)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONQ"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/JnObM"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JzPKF"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObO"/> |
-
-
-
-
-### [\[Lyn-Reskin\] \[F\] T2 Variant by Jey the Count](https://git.io/Jn3IS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nn)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHT"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnObD"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9m"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon](https://git.io/Jn3I6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZK)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOw0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwE"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon Alt](https://git.io/Jn3q8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n8)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQO"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://git.io/JnOHl"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7A"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Lyn-Style\] \[F\] Brave Lyn Nomad by RedBean](https://git.io/Jn3LY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ns)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQN"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFg"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAe"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Lyn-Variant\] \[M\] Izarck by Yangfly](https://git.io/Jn3qw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zb)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFC"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAI"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Lyn-Variant\] \[M\] T1 Blader Myrmidon](https://git.io/Jn3qE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nT)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO6M"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORc"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Roy-Base\] \[M\] Vanilla +Magic by Pikmin](https://git.io/Jn3Yp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n0)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOo8"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JnOwi"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOrn"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOoz"/> |
-
-
-
-
-### [\[Roy-Reskin\] \[F\] FE7if Alice](https://git.io/Jn3qW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zw)
-
-| <b>Sword (Airgetlam - Fixed - Sans Luceid)</b><br/><img alt="Sword (Airgetlam - Fixed - Sans Luceid)" src="https://git.io/JnObY"/> | <b>Sword (Airgetlam - Luceid Crit)</b><br/><img alt="Sword (Airgetlam - Luceid Crit)" src="https://git.io/JnOdT"/> | <b>Sword (Luceid)</b><br/><img alt="Sword (Luceid)" src="https://git.io/JnO53"/> |
-| :---: | :---: | :---: |
-| <b>Sword (Sol Katti Design - Luceid)</b><br/><img alt="Sword (Sol Katti Design - Luceid)" src="https://git.io/JnOQz"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOAm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQ5"/> |
-
-
-
-
-### [\[Roy-Reskin\] \[M\] Echoes-Style by Jeorge_Reds](https://git.io/Jn3qB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nq)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOH3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObx"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Roy-Reskin\] \[M\] Redesign by Blaze](https://git.io/Jn3qg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nf)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7F"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Roy-Reskin\] \[M\] Redesign by GabrielKnight](https://git.io/Jn3qo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nr)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5n"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9z"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Roy-Reskin\] \[M\] Squire by Yangfly](https://git.io/Jn3qu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nX)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5T"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnObZ"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Sword-Custom\] \[M\] Fate - Nobunaga by ZoramineFae](https://git.io/Jn3Lm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nv)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnObE"/> |
-| :---: |
-
-
-
-</details>
-
-
-## [Lords - FE8 Types Battle Animations](./Lords%20-%20FE8%20Types/)
-
-<details>
-<summary>Click to expand!</summary>
-
-### [\[Eirika-Base\] \[F\] T1 Beta Eirika](https://git.io/Jn3fO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E2)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOgZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgm"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Eirika-Base\] \[F\] T1 Beta Eirika Fixed by Jono the Red](https://git.io/Jn3vE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30a)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0Y"/> | <b>Sword (Fixed)</b><br/><img alt="Sword (Fixed)" src="https://git.io/JnO0Z"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0n"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed (Fixed)</b><br/><img alt="Unarmed (Fixed)" src="https://git.io/JnO0O"/> |
-
-
-
-
-### [\[Eirika-Base\] \[F\] T1 Repal +Weapons](https://git.io/Jn3UV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30H)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2J"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOgO"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO4T"/> |
-| :---: | :---: | :---: |
-| <b>Magic Alt</b><br/><img alt="Magic Alt" src="https://git.io/JnOg5"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4k"/> |
-
-
-
-
-### [\[Eirika-Base\] \[F\] T1 Repal FEH-Style](https://git.io/Jn3fY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lv)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOg1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4L"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](https://git.io/Jn3vt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ee)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0M"/> | <b>Sword (Backflip)</b><br/><img alt="Sword (Backflip)" src="https://git.io/JnOwK"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO2R"/> |
-| :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOaf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgh"/> |
-
-
-
-
-### [\[Eirika-Base\] \[F\] T2 Repal by Teraspark](https://git.io/Jn3vi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bs)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOaq"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOVR"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaP"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Eirika-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/Jn3fb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30d)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOaT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOam"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOaa"/> |
-| :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOaF"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOan"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOa9"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOov"/> |
-
-
-
-
-### [\[Eirika-Reskin\] \[F\] T1 Artoria Pendragon Repal](https://git.io/Jn3vo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Et)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOaM"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO2T"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Eirika-Reskin\] \[F\] T1 Custom Dress by Teraspark](https://git.io/Jn3ej) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BA)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2F"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO29"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO28"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Eirika-Reskin\] \[F\] T2 FE7if Isadora Doubleblade](https://git.io/Jn3v2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GN)
-
-| <b>Sword (Hauteclere)</b><br/><img alt="Sword (Hauteclere)" src="https://git.io/JnOVT"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisX9"/> |
 | :---: |
 
 
 
 
-### [\[Eirika-Variant\] \[F\] Brave Lucina \(Celica T2\) by marlon0024](https://git.io/JzzCM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzC5)
+### [\[Eliwood-Variant\] \[M\] T1 Marth Thrust-Stab by Blaze](https://git.io/JisMg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyr)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JzzCC"/> |
-| :---: |
-
-
-
-
-### [\[Eirika-Variant\] \[F\] Priestess Celica T1 by RedBean](https://git.io/Jn3vU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G7)
-
-| <b>Sword (T1)</b><br/><img alt="Sword (T1)" src="https://git.io/JnOR9"/> | <b>Magic (T1)</b><br/><img alt="Magic (T1)" src="https://git.io/JnO0I"/> | <b>Unarmed (T1)</b><br/><img alt="Unarmed (T1)" src="https://git.io/JnORb"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Eirika-Variant\] \[F\] Priestess Celica T2 by RedBean](https://git.io/Jn3vY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lz)
-
-| <b>Sword (T2 Basic)</b><br/><img alt="Sword (T2 Basic)" src="https://git.io/JnOaV"/> | <b>Sword (T2 Thunder 1)</b><br/><img alt="Sword (T2 Thunder 1)" src="https://git.io/JnOKA"/> | <b>Sword (T2 Thunder 2)</b><br/><img alt="Sword (T2 Thunder 2)" src="https://git.io/JnOoc"/> |
-| :---: | :---: | :---: |
-| <b>Magic (T2)</b><br/><img alt="Magic (T2)" src="https://git.io/JnOoG"/> | <b>Unarmed (T2)</b><br/><img alt="Unarmed (T2)" src="https://git.io/JnOaY"/> |
-
-
-
-
-### [\[Eirika-Variant\] \[F\] Priestess Celica T2-Style by EA](https://git.io/Jn3vn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34R)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0e"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO6V"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO00"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Ephraim-Base\] \[M\] T1 Repal +Sword by Teraspark](https://git.io/Jn3fy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34l)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrk"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOwH"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVk"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Ephraim-Base\] \[M\] T1 Repal by Nuramon](https://git.io/Jn3vG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30P)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOaR"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaB"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisX6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXK"/> |
 | :---: | :---: |
 
 
 
 
-### [\[Ephraim-Base\] \[M\] T1 Vanilla +Dual-Sided by Andy](https://git.io/Jn3vd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lM)
+### [\[Ephraim-Base\] \[M\] T1 Repal +Sword by Teraspark](https://git.io/Jisyh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSJ)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOVx"/> | <b>Lance (Dual)</b><br/><img alt="Lance (Dual)" src="https://git.io/JnOaE"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOao"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisiO"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisMr"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisML"/> |
 | :---: | :---: | :---: |
 
 
 
 
-### [\[Ephraim-Base\] \[M\] T2 Repal by Teraspark](https://git.io/Jn3vL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZW)
+### [\[Ephraim-Base\] \[M\] T1 Repal by Nuramon](https://git.io/JisM7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDi)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOaK"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOaC"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVt"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Ephraim-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/Jn3vx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bz)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOa1"/> | <b>Sword (Eirika Motion)</b><br/><img alt="Sword (Eirika Motion)" src="https://git.io/JnO2O"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOaZ"/> |
-| :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOon"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOVr"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnORd"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOat"/> |
-
-
-
-
-### [\[Ephraim-Custom\] \[F\] T2 Heavy Infantry by Nuramon](https://git.io/Jn3vW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zz)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOaI"/> | <b>Sword (Artoria Excalibur Recolor)</b><br/><img alt="Sword (Artoria Excalibur Recolor)" src="https://git.io/JnOhC"/> | <b>Sword (Artoria Flashy Crit)</b><br/><img alt="Sword (Artoria Flashy Crit)" src="https://git.io/JnOaA"/> |
-| :---: | :---: | :---: |
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOVn"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO0q"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO03"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaL"/> |
-
-
-
-
-### [\[Ephraim-Custom\] \[M\] T2 Heavy Infantry by Nuramon](https://git.io/Jn3vv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lu)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2U"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO2D"/> | <b>Lance (Siegmund)</b><br/><img alt="Lance (Siegmund)" src="https://git.io/JnO2N"/> |
-| :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2W"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOah"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOV4"/> |
-
-
-
-
-### [\[Ephraim-Reskin\] \[F\] T1 Alice by Yazuki](https://git.io/Jn3vl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rn)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO2B"/> |
-| :---: |
-
-
-
-
-### [\[Ephraim-Reskin\] \[F\] T1 Long-Haired by Circleseverywhere](https://git.io/Jn3vy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZJ)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOR7"/> |
-| :---: |
-
-
-
-
-### [\[Ephraim-Reskin\] \[M\] T1 Eliwood-Style by Markyjoe](https://git.io/Jn3v3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30Z)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOVh"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwO"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisPA"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPX"/> |
 | :---: | :---: |
 
 
 
 
-### [\[Ephraim-Reskin\] \[M\] T1 FE7if Ash Double-Lance](https://git.io/Jn3v8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rq)
+### [\[Ephraim-Base\] \[M\] T1 Vanilla +Dual-Sided by Andy](https://git.io/JisDL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyg)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4t"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOaN"/> |
-| :---: | :---: |
-
-
-
-
-### [\[Ephraim-Reskin\] \[M\] T2 Eliwood by Glenwing](https://git.io/Jn3vc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EK)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOE1"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4V"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEh"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1E"/> | <b>Lance (Dual)</b><br/><img alt="Lance (Dual)" src="https://git.io/Jis1Q"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis16"/> |
 | :---: | :---: | :---: |
 
 
 
 
-### [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](https://git.io/Jn3vT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EL)
+### [\[Ephraim-Base\] \[M\] T2 Repal by Teraspark](https://git.io/JisM2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisD3)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0f"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO0G"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORQ"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXN"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisXH"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXF"/> |
 | :---: | :---: | :---: |
 
 
 
 
-### [\[Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](https://git.io/Jn3fk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30z)
+### [\[Ephraim-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/JisSL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSG)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO46"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JnO4y"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4X"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisXb"/> | <b>Sword (Eirika Motion)</b><br/><img alt="Sword (Eirika Motion)" src="https://git.io/JisX5"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisMk"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOBS"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO4r"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0j"/> |
-| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/JnOzp"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOES"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEr"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisP6"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis1r"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisMP"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisP7"/> |
 
 
 
 
-### [\[Ephraim-Variant\] \[M\] T1 Flail Knight by Jono the Red](https://git.io/Jn3v1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EX)
+### [\[Ephraim-Custom\] \[F\] T2 Heavy Infantry by Nuramon](https://git.io/JisDI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyV)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO0U"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORy"/> |
-| :---: | :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis1J"/> | <b>Sword (Artoria Excalibur Recolor)</b><br/><img alt="Sword (Artoria Excalibur Recolor)" src="https://git.io/JisiI"/> | <b>Sword (Artoria Flashy Crit)</b><br/><img alt="Sword (Artoria Flashy Crit)" src="https://git.io/Jis1i"/> |
+| :---: | :---: | :---: |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisPK"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisiY"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisXh"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1v"/> |
 
 
 
 
-### [\[Ephraim-Variant\] \[M\] T1 Tag-Team Lyon](https://git.io/Jn3v6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wh)
+### [\[Ephraim-Custom\] \[M\] T2 Heavy Infantry by Nuramon](https://git.io/Jisyd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyj)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO05"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis6V"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis6o"/> | <b>Lance (Siegmund)</b><br/><img alt="Lance (Siegmund)" src="https://git.io/Jis6K"/> |
+| :---: | :---: | :---: |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisPr"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisPV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPR"/> |
+
+
+
+
+### [\[Ephraim-Reskin\] \[F\] T1 Alice by Yazuki](https://git.io/JisMF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisD1)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisPF"/> |
 | :---: |
 
 
 
 
-### [\[Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](https://git.io/Jn3vk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eo)
+### [\[Ephraim-Reskin\] \[F\] T1 Long-Haired by Circleseverywhere](https://git.io/JisMw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyQ)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOoZ"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JnOEf"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO2v"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXd"/> |
+| :---: |
+
+
+
+
+### [\[Ephraim-Reskin\] \[M\] T1 Eliwood-Style by Markyjoe](https://git.io/JisDG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDH)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisMX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXQ"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Ephraim-Reskin\] \[M\] T1 FE7if Ash Double-Lance](https://git.io/Jisy3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisy2)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisXj"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1I"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Ephraim-Reskin\] \[M\] T2 Eliwood by Glenwing](https://git.io/JisMB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDm)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPP"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisPD"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisi3"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO0A"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOuc"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0p"/> |
-| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/JnOEy"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEP"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO0d"/> |
+
+
+
+
+### [\[Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](https://git.io/JisDD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyG)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisX7"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/Jis1D"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1Y"/> |
+| :---: | :---: | :---: |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis1e"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jisis"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisXx"/> |
+| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/JisXp"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisPS"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisin"/> |
+
+
+
+
+### [\[Ephraim-Variant\] \[M\] T1 Flail Knight by Jono the Red](https://git.io/JisyI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyl)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisMs"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1t"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Ephraim-Variant\] \[M\] T1 Tag-Team Lyon](https://git.io/Jisyw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyD)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1O"/> |
+| :---: |
+
+
+
+
+### [\[Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](https://git.io/Jisys) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyo)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPb"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JisPd"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisPi"/> |
+| :---: | :---: | :---: |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisPH"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis1m"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisXA"/> |
+| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/JisPN"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/Jis1U"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1T"/> |
+
+
+
+
+### [\[Hector-Base\] \[M\] T1 Repal by Temp](https://git.io/JisDd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyW)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis1L"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisP9"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisi8"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Hector-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/JisDn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDb)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisMt"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis1f"/> | <b>Axe (Punch Crit)</b><br/><img alt="Axe (Punch Crit)" src="https://git.io/JisP1"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis1k"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisMo"/> |
+
+
+
+
+### [\[Hector-Base\] \[M\] T2 Repal by Temp](https://git.io/JisSR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSu)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis1s"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisPy"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JisP5"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis1W"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisiG"/> |
+
+
+
+
+### [\[Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](https://git.io/JisS4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSE)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis1j"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisPQ"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JisiZ"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis1q"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jis1d"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisPM"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisP0"/> |
+
+
+
+
+### [\[Hector-Custom\] \[M\] T2 Brave Hector by Nuramon](https://git.io/JisMN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyx)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPa"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis66"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis6a"/> |
+| :---: | :---: | :---: |
+| <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/Jis6w"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6P"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6X"/> |
+
+
+
+
+### [\[Hector-Custom\] \[M\] T2 Brave Hector Repal by Sax-Marine](https://git.io/JisD9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyn)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisic"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisMK"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JisiC"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe (Spin)</b><br/><img alt="Handaxe (Spin)" src="https://git.io/Jis1c"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1Z"/> |
+
+
+
+
+### [\[Hector-Reskin\] \[F\] T1 FE7if Milia](https://git.io/JisSW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSl)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis1n"/> | <b>Axe (Scythe - Dreadnought)</b><br/><img alt="Axe (Scythe - Dreadnought)" src="https://git.io/Jis10"/> | <b>Axe (Yggdrasil)</b><br/><img alt="Axe (Yggdrasil)" src="https://git.io/Jis1H"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis11"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisMm"/> |
+
+
+
+
+### [\[Hector-Reskin\] \[F\] T1 FE7if Milia Repal by Serif](https://git.io/Jisyt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisy8)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis1G"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisiW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisMT"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://git.io/JisD4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDx)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis1B"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisiK"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisPz"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis18"/> |
+
+
+
+
+### [\[Hector-Reskin\] \[M\] T2 Vanguard by Temp](https://git.io/JisDZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDj)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis1K"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis1o"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis1l"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisiE"/> |
+
+
+
+
+### [\[Hector-Reskin\] \[M\] T2 Yggdra Milanor by Aruka](https://git.io/JisyA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSf)
+
+| <b>Axe (Chain)</b><br/><img alt="Axe (Chain)" src="https://git.io/Jis1N"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisMq"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Hector-Type\] \[M\] FF7 - Cloud by FlyingAce](https://git.io/JisM8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyL)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisi0"/> |
+| :---: |
+
+
+
+
+### [\[Hector-Variant\] \[F\] T2 Harbinger Helmetless](https://git.io/JisS0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSz)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1F"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jis1M"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Hector-Variant\] \[U\] T2 Harbinger by Nuramon](https://git.io/JisSt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSZ)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis19"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1V"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis1S"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisMO"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jis1y"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisir"/> |
+
+
+
+
+### [\[Lord Custom\] \[M\] Greil Hero by Cipher Lee](https://git.io/JisyY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyR)
+
+| <b>Sword (Alondite)</b><br/><img alt="Sword (Alondite)" src="https://git.io/Jis1P"/> | <b>Sword (C48, FE7, and FE8)</b><br/><img alt="Sword (C48, FE7, and FE8)" src="https://git.io/Jisil"/> | <b>Axe (C47, FE7, and FE8)</b><br/><img alt="Axe (C47, FE7, and FE8)" src="https://git.io/Jisiu"/> |
+| :---: | :---: | :---: |
+| <b>Axe (Urvan)</b><br/><img alt="Axe (Urvan)" src="https://git.io/Jis17"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis1X"/> | <b>Handaxe (Alt)</b><br/><img alt="Handaxe (Alt)" src="https://git.io/Jisia"/> |
+| <b>Handaxe (Hatchet Alt)</b><br/><img alt="Handaxe (Hatchet Alt)" src="https://git.io/Jis1b"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1w"/> |
+
+
+
+
+### [\[Lord Custom\] \[M\] Ike Ranger by Khrene Kleaver](https://git.io/JisDt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisya)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis1x"/> | <b>Legendary (Binding Blade)</b><br/><img alt="Legendary (Binding Blade)" src="https://git.io/Jis1h"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis1p"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Lord Custom\] \[M\] Ike Vanguard by FlyingAce24](https://git.io/JisS8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSB)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis15"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisMe"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisMv"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisMG"/> |
+
+
+
+
+### [\[Lord Custom\] \[M\] Leif Lord by Obsidian Daddy](https://git.io/JisDK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyq)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisMf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisMU"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Base\] \[F\] T1 Vanilla +Axes by Vilkalizer](https://git.io/Jisym) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisy0)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisiz"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jisi2"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisPg"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisio"/> |
+
+
+
+
+### [\[Lyn-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/JisD8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisye)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis1A"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisiS"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JisMJ"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Sol Katti Magic Fix)</b><br/><img alt="Sword (Sol Katti Magic Fix)" src="https://git.io/Jisid"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/JisiM"/> | <b>Axe {Vilkalizer}</b><br/><img alt="Axe {Vilkalizer}" src="https://git.io/JisiF"/> |
+| <b>Handaxe {Vilkalizer}</b><br/><img alt="Handaxe {Vilkalizer}" src="https://git.io/Jisi4"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisiB"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisiw"/> |
+
+
+
+
+### [\[Lyn-Base\] \[F\] T2 Vanilla Repal by Sax-Marine](https://git.io/JisDc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDQ)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisig"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/Jisi9"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisiR"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisi7"/> |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] Kawaii Blader by Yangfly](https://git.io/JisM9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDr)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisii"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisiV"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] T1 Awakening-Style Myrmidon](https://git.io/JisMW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDS)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisiX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisi1"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite](https://git.io/JisDl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyv)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisiP"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisi5"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] T1 Tsukage by Yangfly](https://git.io/JisDV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyk)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisi6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisiD"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] T2 FE7if Elena](https://git.io/JisDE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyf)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPE"/> | <b>Sword (Beta Durandal)</b><br/><img alt="Sword (Beta Durandal)" src="https://git.io/JisiN"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] T2 FE7if Karla](https://git.io/JisD0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDF)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisiy"/> | <b>Sword (Shirayuki)</b><br/><img alt="Sword (Shirayuki)" src="https://git.io/Jisib"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisiH"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] T2 Short Hair by Zoisite](https://git.io/JisDB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDh)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPf"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/JisiQ"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/Jisip"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisij"/> |
+
+
+
+
+### [\[Lyn-Reskin\] \[F\] T2 Variant by Jey the Count](https://git.io/JisDg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyU)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPk"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisPJ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPq"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon](https://git.io/JisDC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDN)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisih"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPT"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon Alt](https://git.io/JisDW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisiA"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://git.io/JisPI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPL"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Lyn-Style\] \[F\] Brave Lyn Nomad by RedBean](https://git.io/JisDu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyT)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisP2"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisPU"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPt"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Lyn-Variant\] \[M\] Izarck by Yangfly](https://git.io/JisyK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyy)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPe"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Lyn-Variant\] \[M\] T1 Blader Myrmidon](https://git.io/JisD2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyJ)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisix"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPY"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Roy-Base\] \[M\] Vanilla +Magic by Pikmin](https://git.io/JisSq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSn)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisMY"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisPO"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisPW"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPs"/> |
+
+
+
+
+### [\[Roy-Reskin\] \[F\] FE7if Alice](https://git.io/JisDz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDp)
+
+| <b>Sword (Airgetlam - Fixed - Sans Luceid)</b><br/><img alt="Sword (Airgetlam - Fixed - Sans Luceid)" src="https://git.io/JisMc"/> | <b>Sword (Airgetlam - Luceid Crit)</b><br/><img alt="Sword (Airgetlam - Luceid Crit)" src="https://git.io/JisMn"/> | <b>Sword (Luceid)</b><br/><img alt="Sword (Luceid)" src="https://git.io/JisPv"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Sol Katti Design - Luceid)</b><br/><img alt="Sword (Sol Katti Design - Luceid)" src="https://git.io/JisP3"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisPc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPl"/> |
+
+
+
+
+### [\[Roy-Reskin\] \[M\] Echoes-Style by Jeorge_Reds](https://git.io/JisDR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisD5)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPn"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Roy-Reskin\] \[M\] Redesign by Blaze](https://git.io/JisSY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisSC)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisM3"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Roy-Reskin\] \[M\] Redesign by GabrielKnight](https://git.io/Jisyc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisyi)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisP4"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisMZ"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Roy-Reskin\] \[M\] Squire by Yangfly](https://git.io/JisMl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisy7)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisP8"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisPC"/> |
+| :---: | :---: |
 
 
 
@@ -4254,7 +4247,7 @@
 
 | <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://git.io/JnO5y"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://git.io/JnORZ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOKS"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORs"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -5216,7 +5209,7 @@
 
 
 
-### [\[Devisian-Custom\] \[M\] Winter Priest by Devisian_Nights](https://git.io/Jn3LU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30x)
+### [\[Devisian-Custom\] \[M\] Winter Priest by Devisian_Nights](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BDevisian-Custom%5D%20%5BM%5D%20Winter%20Priest%20by%20Devisian_Nights) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30x)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5E"/> | <b>Staff (Constant timing)</b><br/><img alt="Staff (Constant timing)" src="https://git.io/JnOh0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdE"/> |
 | :---: | :---: | :---: |
@@ -5522,7 +5515,7 @@
 
 ### [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](https://git.io/Jn3LF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ES)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO95"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://git.io/JnOPw"/> |
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO95"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif"/> |
 | :---: | :---: |
 
 

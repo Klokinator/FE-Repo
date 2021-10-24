@@ -81,6 +81,14 @@
 
 
 
+## [\[Custom Polearm\] \[M\] Sergeant by Spud](https://git.io/JisYF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisYb)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisY7"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisYd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisY5"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](https://git.io/Jn3Jy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30D)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOAG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO6t"/> |
@@ -93,6 +101,14 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO6X"/> |
 | :---: |
+
+
+
+
+## [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](https://git.io/JisM1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyS)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPx"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis6b"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6F"/> |
+| :---: | :---: | :---: |
 
 
 

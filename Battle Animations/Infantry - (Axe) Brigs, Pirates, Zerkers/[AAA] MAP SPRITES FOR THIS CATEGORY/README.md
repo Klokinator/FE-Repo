@@ -28,23 +28,23 @@
 |<img alt="Brigand (M) Armored {NYZGamer3}-stand" src="Brigand (M) Armored {NYZGamer3}-stand.png" />|<img alt="Brigand (M) Axe 16x16 {Alusq}-stand" src="Brigand (M) Axe 16x16 {Alusq}-stand.png" />|<img alt="Brigand (M) Axe {IS}-stand" src="Brigand (M) Axe {IS}-stand.png" />|<img alt="Brigand (M) Barbarian Axe {Glaceo}-stand" src="Brigand (M) Barbarian Axe {Glaceo}-stand.png" />|
 
 
-|Brigand (M) Clothed Axe <br> {Yangfly Master}|Brigand (M) Improved +Clothing <br> {Flasuban}|Marauder (M) Axe <br> {Author_Pendragon}|Marauder (M) Basic Axe <br> {Blademaster}|
+|Brigand (M) Clothed Axe <br> {Yangfly Master}|Brigand (M) Improved +Clothing <br> {Flasuban}|Gladiator (M) <br> {Pikmin, L95}|Gladiator (M) <br> {SSHX}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Brigand (M) Clothed Axe {Yangfly Master}-stand" src="Brigand (M) Clothed Axe {Yangfly Master}-stand.png" />|<img alt="Brigand (M) Improved +Clothing {Flasuban}-stand" src="Brigand (M) Improved +Clothing {Flasuban}-stand.png" />|<img alt="Marauder (M) Axe {Author_Pendragon}-stand" src="Marauder (M) Axe {Author_Pendragon}-stand.png" />|<img alt="Marauder (M) Basic Axe {Blademaster}-stand" src="Marauder (M) Basic Axe {Blademaster}-stand.png" />|
+|<img alt="Brigand (M) Clothed Axe {Yangfly Master}-stand" src="Brigand (M) Clothed Axe {Yangfly Master}-stand.png" />|<img alt="Brigand (M) Improved +Clothing {Flasuban}-stand" src="Brigand (M) Improved +Clothing {Flasuban}-stand.png" />|<img alt="Gladiator (M) {Pikmin, L95}-stand" src="Gladiator (M) {Pikmin, L95}-stand.png" />|<img alt="Gladiator (M) {SSHX}-stand" src="Gladiator (M) {SSHX}-stand.png" />|
 
 
-|Marauder (M) Spud's <br> {LonkFC}|Pirate (F) Axe <br> {flasuban, Mikey_Seregon}|Pirate (F) Axe <br> {StreetHero}|Pirate (F) Hat Axe <br> {Glaceo, Skitty, blood}|
+|Marauder (M) Axe <br> {Author_Pendragon}|Marauder (M) Basic Axe <br> {Blademaster}|Marauder (M) Spud's <br> {LonkFC}|Pirate (F) Axe <br> {flasuban, Mikey_Seregon}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Marauder (M) Spud's {LonkFC}-stand" src="Marauder (M) Spud's {LonkFC}-stand.png" />|<img alt="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand" src="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand.png" />|<img alt="Pirate (F) Axe {StreetHero}-stand" src="Pirate (F) Axe {StreetHero}-stand.png" />|<img alt="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand" src="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand.png" />|
+|<img alt="Marauder (M) Axe {Author_Pendragon}-stand" src="Marauder (M) Axe {Author_Pendragon}-stand.png" />|<img alt="Marauder (M) Basic Axe {Blademaster}-stand" src="Marauder (M) Basic Axe {Blademaster}-stand.png" />|<img alt="Marauder (M) Spud's {LonkFC}-stand" src="Marauder (M) Spud's {LonkFC}-stand.png" />|<img alt="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand" src="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand.png" />|
 
 
-|Pirate (M) Axe <br> {IS}|Pirate (M) DS-Style Axe <br> {Der}|Pirate (M) DS-Style No-Bandana Axe <br> {Der}|Pirate (M) Hat Axe <br> {7743}|
+|Pirate (F) Axe <br> {StreetHero}|Pirate (F) Hat Axe <br> {Glaceo, Skitty, blood}|Pirate (M) Axe <br> {IS}|Pirate (M) DS-Style Axe <br> {Der}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Pirate (M) Axe {IS}-stand" src="Pirate (M) Axe {IS}-stand.png" />|<img alt="Pirate (M) DS-Style Axe {Der}-stand" src="Pirate (M) DS-Style Axe {Der}-stand.png" />|<img alt="Pirate (M) DS-Style No-Bandana Axe {Der}-stand" src="Pirate (M) DS-Style No-Bandana Axe {Der}-stand.png" />|<img alt="Pirate (M) Hat Axe {7743}-stand" src="Pirate (M) Hat Axe {7743}-stand.png" />|
+|<img alt="Pirate (F) Axe {StreetHero}-stand" src="Pirate (F) Axe {StreetHero}-stand.png" />|<img alt="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand" src="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand.png" />|<img alt="Pirate (M) Axe {IS}-stand" src="Pirate (M) Axe {IS}-stand.png" />|<img alt="Pirate (M) DS-Style Axe {Der}-stand" src="Pirate (M) DS-Style Axe {Der}-stand.png" />|
 
 
-|Shark Rider (F) <br> {N426}|Shark Rider (M) <br> {N426}|
-| :---: | :---: |
-|<img alt="Shark Rider (F) {N426}-stand" src="Shark Rider (F) {N426}-stand.png" />|<img alt="Shark Rider (M) {N426}-stand" src="Shark Rider (M) {N426}-stand.png" />|
+|Pirate (M) DS-Style No-Bandana Axe <br> {Der}|Pirate (M) Hat Axe <br> {7743}|Shark Rider (F) <br> {N426}|Shark Rider (M) <br> {N426}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Pirate (M) DS-Style No-Bandana Axe {Der}-stand" src="Pirate (M) DS-Style No-Bandana Axe {Der}-stand.png" />|<img alt="Pirate (M) Hat Axe {7743}-stand" src="Pirate (M) Hat Axe {7743}-stand.png" />|<img alt="Shark Rider (F) {N426}-stand" src="Shark Rider (F) {N426}-stand.png" />|<img alt="Shark Rider (M) {N426}-stand" src="Shark Rider (M) {N426}-stand.png" />|
 
 

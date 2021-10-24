@@ -13,8 +13,8 @@
 |<img alt="Brigand (M) Axe {IS}" src="Brigand (M) Axe {IS}.png" />|<img alt="Brigand (M) Clothed {Flasuban}" src="Brigand (M) Clothed {Flasuban}.png" />|<img alt="Brigand FE-13 (F) Axe {SamirPlayz}" src="Brigand FE-13 (F) Axe {SamirPlayz}.png" />|<img alt="Brigand FE-13 (M) Axe {SamirPlayz}" src="Brigand FE-13 (M) Axe {SamirPlayz}.png" />|
 
 
-|Pirate (F) Axe <br> {HyperGammaSpaces}|Pirate (M) Axe <br> {IS}|Pirate (M) DS-Style <br> {Der}|
-| :---: | :---: | :---: |
-|<img alt="Pirate (F) Axe {HyperGammaSpaces}" src="Pirate (F) Axe {HyperGammaSpaces}.png" />|<img alt="Pirate (M) Axe {IS}" src="Pirate (M) Axe {IS}.png" />|<img alt="Pirate (M) DS-Style {Der}" src="Pirate (M) DS-Style {Der}.png" />|
+|Gladiator (M) <br> {L95}|Pirate (F) Axe <br> {HyperGammaSpaces}|Pirate (M) Axe <br> {IS}|Pirate (M) DS-Style <br> {Der}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Gladiator (M) {L95}" src="Gladiator (M) {L95}.png" />|<img alt="Pirate (F) Axe {HyperGammaSpaces}" src="Pirate (F) Axe {HyperGammaSpaces}.png" />|<img alt="Pirate (M) Axe {IS}" src="Pirate (M) Axe {IS}.png" />|<img alt="Pirate (M) DS-Style {Der}" src="Pirate (M) DS-Style {Der}.png" />|
 
 

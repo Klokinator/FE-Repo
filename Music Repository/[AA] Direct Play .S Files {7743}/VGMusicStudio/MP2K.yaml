@@ -1,0 +1,1429 @@
+A2UJ_00:
+  Name: "Mother 1 + 2 (Japan)"
+  SongTableOffsets: 0x10B530
+  SongTableSizes: 451
+  SampleRate: 2
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+A3UJ_00:
+  Name: "Mother 3 (Japan)"
+  SongTableOffsets: 0x120E94
+  SongTableSizes: 1968
+  SampleRate: 4
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+A7KE_00:
+  Name: "Kirby: Nightmare in Dream Land (USA)"
+  SongTableOffsets: 0x60B460
+  SongTableSizes: 579
+  SampleRate: 4
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+  Playlists:
+    Sound Test (Music):
+      26: "0 - Title Screen"
+      40: "1 - File Select"
+      0: "2 - Vegetable Valley"
+      21: "3 - Ice Cream Island"
+      11: "4 - Butter Building"
+      17: "5 - Grape Garden"
+      22: "6 - Yogurt Yard"
+      12: "7 - Orange Ocean"
+      18: "8 - Rainbow Resort"
+      15: "9 - Fortified Fronts"
+      2: "10 - Sky Stages"
+      37: "11 - Mini-Boss Fight"
+      30: "12 - Boss Fight"
+      1: "13 - Boss Defeated!"
+      14: "14 - Victory Dance 1"
+      13: "15 - Victory Dance 2"
+      39: "16 - Arena"
+      25: "17 - Museum"
+      38: "18 - King Dedede's Theme"
+      20: "19 - Green Greens Theme"
+      27: "20 - Fountain of Dreams"
+      31: "21 - Returning the Star Rod!"
+      32: "22 - Nightmare's Power Orb"
+      33: "23 - Nightmare's Pursuit"
+      34: "24 - Fighting the Nightmare!"
+      24: "25 - The End!"
+      3: "26 - Down!"
+      4: "27 - Level 1: Vegetable Valley"
+      5: "28 - Level 2: Ice Cream Island"
+      6: "29 - Level 3: Butter Building"
+      7: "30 - Level 4: Grape Garden"
+      8: "31 - Level 5: Yogurt Yard"
+      9: "32 - Level 6: Orange Ocean"
+      10: "33 - Level 7: Rainbow Resort"
+      35: "34 - Minigame: Quick Draw"
+      46: "35 - Minigame: Bomb Rally"
+      42: "36 - Minigame: Kirby's Air Grind"
+      43: "37 - Minigame: Kirby's Air Grind (Goal!)"
+      44: "38 - Minigame: Kirby's Air Grind (Results)"
+      23: "39 - Minigame Result: Bad!"
+      28: "40 - Minigame Result: Good!"
+      29: "41 - Minigame Result: Perfect!"
+      19: "42 - Invincible Candy"
+      16: "43 - Game Over"
+    Other Music:
+      47: "Vegetable Valley (No Intro)"
+      53: "Ice Cream Island (No Intro)"
+      48: "Butter Building (No Intro)"
+      50: "Grape Garden (No Intro)"
+      54: "Yogurt Yard (No Intro)"
+      49: "Orange Ocean (No Intro)"
+      51: "Rainbow Resort (No Intro)"
+      55: "Fortified Fronts (No Intro)"
+      52: "Green Greens (No Intro)"
+      41: "Building of Battles (Outside)"
+      56: "Nightmare Appears!"
+A7KJ_00:
+  Name: "Kirby: Nightmare in Dream Land (Japan)"
+  SongTableOffsets: 0x60F36C
+  Copy: "A7KE_00"
+A7KP_00:
+  Name: "Kirby: Nightmare in Dream Land (Europe)"
+  SongTableOffsets: 0x843B50
+  Copy: "A7KE_00"
+A88E_00:
+  Name: "Mario & Luigi - Superstar Saga (USA)"
+  SongTableOffsets: 0xFB5DA4
+  SongTableSizes: 323
+  SampleRate: 2
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+A88J_00:
+  Name: "Mario & Luigi - Superstar Saga (Japan)"
+  SongTableOffsets: 0xFB5E00
+  Copy: "A88E_00"
+A88P_00:
+  Name: "Mario & Luigi - Superstar Saga (Europe)"
+  Copy: "A88E_00"
+AE7E_00:
+  Name: "Fire Emblem: The Blazing Blade (USA)"
+  SongTableOffsets: 0x69D6D8
+  SongTableSizes: 1001
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 13
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+AE7J_00:
+  Name: "Fire Emblem: The Blazing Blade (Japan)"
+  SongTableOffsets: 0x6EA8C8
+  Copy: "AE7E_00"
+AE7X_00:
+  Name: "Fire Emblem: The Blazing Blade (Europe)"
+  SongTableOffsets: 0x6805F4
+  Copy: "AE7E_00"
+AE7Y_00:
+  SongTableOffsets: 0x67F1F4
+  Copy: "AE7X_00"
+AEFJ_00:
+  Name: "Fire Emblem: The Binding Blade (Japan)"
+  SongTableOffsets: 0x3994D8
+  SongTableSizes: 621
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 13
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+AFXE_00:
+  Name: "Final Fantasy Tactics Advance (USA)"
+  SongTableOffsets: 0x14BB48
+  SongTableSizes: 640
+  SampleRate: 4
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+  Playlists:
+    Music (OST Order):
+      42: "Main Theme"
+      24: "Snow Dancing in the Schoolyard"
+      33: "Companions That Surpassed Their Tribe"
+      20: "Magic Beast Farm"
+      17: "Crystal"
+      25: "Undeniable Anxiety"
+      36: "Amber Valley"
+      6: "Bell of Victory (Fanfare)"
+      15: "At the Bar"
+      12: "Different World Ivalice"
+      10: "Engange (Fanfare)"
+      0: "Gathering Allies"
+      11: "Walking in Ivalice"
+      4: "Wind of Hope (Fanfare)"
+      14: "Teach Me, Mont Blanc"
+      9: "Wounded Comrades (Fanfare)"
+      39: "Undefeated Heart"
+      2: "Gained Fruit (Fanfare)"
+      28: "Marche"
+      37: "Painful Battle"
+      5: "Notice of Retreat (Fanfare)"
+      7: "Sleep of Defeat (Fanfare)"
+      21: "Prison"
+      40: "Surpassing The Wall"
+      3: "Exhausted Ones (Fanfare)"
+      29: "Mewt"
+      35: "Battle Of Hope"
+      8: "Level Up (Fanfare)"
+      22: "Law Card"
+      30: "Ritz"
+      19: "Mysterious Shop"
+      34: "The Road We Both Aim For"
+      16: "Wind of Liberation (Fanfare)"
+      27: "Confusion"
+      23: "Judge (Fanfare)"
+      38: "Beyond The Wasteland"
+      26: "The World Starting To Move"
+      41: "Unavoidable Destiny"
+      45: "Incarnation"
+      31: "Vanishing World"
+      32: "A Place We Should Return To"
+      47: "Fulfilled Dream Segment"
+    Music (Bonus):
+      13: "Main Theme (Beta Version)"
+      48: "St Ivalice Turns Into Ivalice"
+      49: "Save Menu Theme"
+AFXJ_00:
+  Name: "Final Fantasy Tactics Advance (Japan)"
+  SongTableOffsets: 0x1401A8
+  Copy: "AFXE_00"
+AFXP_00:
+  Name: "Final Fantasy Tactics Advance (Europe)"
+  SongTableOffsets: 0x14F540
+  Copy: "AFXE_00"
+AGFD_00:
+  Name: "Golden Sun: The Lost Age (Germany)"
+  Copy: "AGFE_00"
+AGFE_00:
+  Name: "Golden Sun: The Lost Age (USA)"
+  SongTableOffsets: 0x1C4530
+  SongTableSizes: 800
+  SampleRate: 8
+  ReverbType: "Camelot2"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: True
+  HasPokemonCompression: False
+AGFF_00:
+  Name: "Golden Sun: The Lost Age (France)"
+  Copy: "AGFE_00"
+AGFI_00:
+  Name: "Golden Sun: The Lost Age (Italy)"
+  Copy: "AGFE_00"
+AGFJ_00:
+  Name: "Golden Sun: The Lost Age (Japan)"
+  Copy: "AGFE_00"
+AGFS_00:
+  Name: "Golden Sun: The Lost Age (Spain)"
+  Copy: "AGFE_00"
+AGLJ_00:
+  Name: "Tomato Adventure (Japan)"
+  SongTableOffsets: 0x4B11A4
+  SongTableSizes: 244
+  SampleRate: 4
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+AGSD_00:
+  Name: "Golden Sun (Germany)"
+  SongTableOffsets: 0xFD484
+  Copy: "AGSE_00"
+AGSE_00:
+  Name: "Golden Sun (USA)"
+  SongTableOffsets: 0xFC684
+  SongTableSizes: 312
+  SampleRate: 6
+  ReverbType: "Camelot1"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: True
+  HasPokemonCompression: False
+AGSF_00:
+  Name: "Golden Sun (France)"
+  SongTableOffsets: 0xFEE84
+  Copy: "AGSE_00"
+AGSI_00:
+  Name: "Golden Sun (Italy)"
+  Copy: "AGSE_00"
+AGSJ_00:
+  Name: "Golden Sun (Japan)"
+  SongTableOffsets: 0xF3684
+  Copy: "AGSE_00"
+AGSS_00:
+  Name: "Golden Sun (Spain)"
+  SongTableOffsets: 0xFEE84
+  Copy: "AGSE_00"
+AINJ_00:
+  Name: "Initial D: Another Stage (Japan)"
+  SongTableOffsets: 0x648B38
+  SongTableSizes: 88
+  SampleRate: 2
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 13
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+AMAC_00:
+  Name: "Super Mario Advance (China)"
+  SongTableOffsets: 0xF64C4
+  Copy: "AMZE_00"
+AMAE_00:
+  Name: "Super Mario Advance (Europe)"
+  SongTableOffsets: 0xF4368
+  Copy: "AMZE_00"
+AMAJ_00:
+  Name: "Super Mario Advance (Japan)"
+  SongTableOffsets: 0xF3F18
+  Copy: "AMZE_00"
+AMKE_00:
+  Name: "Mario Kart: Super Circuit (USA)"
+  SongTableOffsets: 0x102498
+  SongTableSizes: 403
+  SampleRate: 2
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+  Playlists:
+    Music:
+      2: "Main Menu"
+      3: "Race Intro (Grand Prix)"
+      4: "Race Intro (Time Trial / Quick Race)"
+      5: "1st Place"
+      6: "2nd-4th Place"
+      7: "5th Place and Under"
+      10: "Starman"
+      11: "Lightning"
+      12: "Ghost"
+      13: "Double Ghost"
+      14: "1st Place Results"
+      15: "2nd-4th Place Results"
+      16: "5th Place and Under Results"
+      17: "Quick Race Results"
+      18: "Battle Mode"
+      19: "Final Lap"
+      20: "20"
+      21: "Shy Guy Beach / Cheep-Cheep Island"
+      22: "Bowser's Castles"
+      23: "Cheese Land"
+      24: "Riverside Park"
+      25: "Mario/Peach/Luigi Circuit"
+      26: "Sunset Wilds"
+      27: "Boo Lake / Broken Pier"
+      28: "Rainbow Road"
+      29: "Yoshi Desert"
+      30: "Ribbon Road"
+      31: "Snow Land"
+      32: "Lakeside Park"
+      33: "Battle Mode Win"
+      34: "Battle Mode Lose"
+      35: "Sky Garden"
+      36: "Rainbow Road (Intro)"
+      37: "Ghost Data Trading"
+      40: "Connection Screen"
+      41: "SNES Mario Circuit"
+      42: "SNES Donut Plains"
+      43: "SNES Choco Island"
+      44: "SNES Vanilla Lake"
+      45: "SNES Ghost Valley"
+      46: "SNES Rainbow Road"
+      47: "SNES Bowser's Castle"
+      48: "SNES Koopa Beach"
+      51: "Night Opening"
+      52: "Title Screen"
+      53: "Opening"
+      54: "Credits"
+      55: "Award Ceremony (Intro)"
+      56: "Award Ceremony"
+      57: "Award Ceremony Lose"
+      59: "59"
+      60: "60"
+AMKJ_00:
+  Name: "Mario Kart: Super Circuit (Japan)"
+  SongTableOffsets: 0x1245C8
+  Copy: "AMKE_00"
+AMKP_00:
+  Name: "Mario Kart: Super Circuit (Europe)"
+  Copy: "AMKE_00"
+AMTC_00:
+  Name: "Metroid Fusion (China)"
+  SongTableOffsets: 0xAB0E4
+  Copy: "AMTE_00"
+AMTE_00:
+  Name: "Metroid Fusion (USA)"
+  SongTableOffsets: 0xA8D3C
+  SongTableSizes: 745
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+AMTJ_00:
+  Name: "Metroid Fusion (Japan)"
+  SongTableOffsets: 0xAB0A0
+  Copy: "AMTE_00"
+AMTP_00:
+  Name: "Metroid Fusion (Europe)"
+  SongTableOffsets: 0xA9398
+  Copy: "AMTE_00"
+AMZE_00:
+  Name: "Super Mario Advance (USA)"
+  SongTableOffsets: 0xF40D4
+  SongTableSizes: 447
+  SampleRate: 2
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+AWAC_00:
+  Name: "Wario Land 4 (China)"
+  SongTableOffsets: 0x98CB8
+  Copy: "AWAE_00"
+AWAE_00:
+  Name: "Wario Land 4 (USA)"
+  SongTableOffsets: 0x98028
+  SongTableSizes: 819
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+  Playlists:
+    Music:
+      635: "Intro"
+      636: "Work It!"
+      638: "Enter the Pyramid"
+      639: "Map"
+      672: "Hall of Hieroglyphs"
+      651: "Palm Tree Paradise"
+      652: "Palm Tree Paradise (Caves)"
+      653: "Palm Tree Paradise (Back From Caves)"
+      654: "Wildflower Fields"
+      655: "Mystic Lake (Lakeside)"
+      656: "Mystic Lake (Inside Jungle)"
+      657: "Mystic Lake (Back to Lakeside)"
+      658: "Monsoon Jungle"
+      659: "The Curious Factory"
+      660: "The Toxic Landfill"
+      662: "40 Below Fridge"
+      661: "Pinball Zone"
+      663: "Toy Block Tower"
+      664: "The Big Board"
+      665: "Doodle Woods"
+      666: "Domino Row"
+      667: "Crescent Moon Village"
+      668: "Arabian Night"
+      670: "Fiery Cavern"
+      669: "Hotel Horror"
+      671: "Golden Passage"
+      617: "Wario's Workout"
+      673: "Puzzle Room"
+      674: "Puzzle Room (2)"
+      217: "Hurry Up Time Limit"
+      681: "Hurry Up!!!"
+      450: "Only a Few Seconds Left!!!"
+      452: "Coin Loss..."
+      642: "Inside the Void"
+      342: "Four Pieces"
+      594: "High Score"
+      448: "Door to Next Stage Opens"
+      457: "Door to Next Stage Opens (2)"
+      421: "Stage Already Clear"
+      447: "Stage Already Clear (2)"
+      475: "Can't Enter Boss Room"
+      425: "Boss Room Opens"
+      473: "Enter Boss Room"
+      474: "Track 37"
+      640: "Boss Room"
+      682: "Item Shop"
+      493: "Boss's Presence"
+      683: "Here Comes the Mystery Man"
+      684: "Here Comes the Mystery Man (Shorter Version)"
+      508: "Bugle"
+      511: "Large Lips"
+      512: "Large Lips (Longer Version)"
+      513: "Random Damage Sound"
+      124: "Boss is Ready"
+      207: "Boss is Ready (Shorter Version)"
+      687: "Boss"
+      429: "Treasures (Part 1)"
+      430: "Treasures (Part 2)"
+      431: "Treasures (Part 3)"
+      422: "Victory"
+      432: "Victory (2)"
+      701: "Mini Game Shop"
+      709: "Wario's Homerun Derby"
+      710: "Homerun!"
+      715: "Cheerleaders (Part 1)"
+      716: "Cheerleaders (Part 2)"
+      702: "The Wario Hop Begins"
+      707: "The Wario Hop Begins (No Loop)"
+      703: "The Wario Hop 1"
+      704: "The Wario Hop 2"
+      705: "The Wario Hop 3"
+      706: "The Wario Hop 4"
+      708: "Wario's Roulette"
+      711: "Failure 1"
+      712: "Failure 2"
+      713: "Failure 3"
+      714: "Failure 4"
+      593: "Mini Game High Score"
+      191: "Golden Diva Appears"
+      183: "Golden Diva is Ready"
+      688: "Golden Diva"
+      689: "Golden Diva's Lip is Left"
+      489: "All of my Treasures!"
+      800: "Escape from the Pyramid"
+      801: "Track 68"
+      802: "Thank You Wario"
+      803: "Japanese Ending Song"
+      806: "Japanese Ending Song (2)"
+      809: "Japanese Ending Song (3)"
+      812: "Japanese Ending Song (4)"
+      815: "English Ending Song"
+      816: "English Ending Song (2)"
+      817: "English Ending Song (3)"
+      818: "English Engind Song (4)"
+      814: "The Big Board (Ending Mix)"
+      813: "Mystic Lake (Ending Mix)"
+      811: "Wildflower Fields (Ending Mix)"
+      810: "Hall of Hieroglyphs (Ending Mix)"
+      808: "Doodle Woods (Ending Mix)"
+      807: "Crescent Moon Village (Ending Mix)"
+      805: "Monsoon Jungle (Ending Mix)"
+      804: "Toy Blick Tower (Ending Mix)"
+      618: "Sound Room"
+      619: "About That Shepherd"
+      620: "Things That Never Change"
+      621: "Tomorrow's Blood Pressure"
+      622: "Beyond the Headrush"
+      623: "Driftwood & The Island Dog"
+      624: "The Judge's Feet"
+      625: "The Moon's Lamppost"
+      626: "Soft Shell"
+      627: "So Sleepy"
+      628: "The Short Futon"
+      629: "Avocado Song"
+      630: "Mr. Fly"
+      631: "Yesterday's Words"
+      632: "The Errand"
+      633: "You and Your Shoes"
+      634: "Mr. Ether and Planaria"
+      727: "Medamayaki (Karaoke)"
+      728: "Medamayaki (Karaoke) (2)"
+      729: "Medamayaki (Voice)"
+AWAJ_00:
+  Name: "Wario Land 4 (Japan)"
+  Copy: "AWAE_00"
+AXPD_00:
+  Name: "Pokémon Sapphire Version (Germany)"
+  SongTableOffsets: 0x463394
+  Copy: "AXVD_00"
+AXPD_01:
+  Copy: "AXPD_00"
+AXPE_00:
+  Name: "Pokémon Sapphire Version (USA)"
+  SongTableOffsets: 0x4554E8
+  Copy: "AXVE_00"
+AXPE_01:
+  SongTableOffsets: 0x455500
+  Copy: "AXPE_00"
+AXPE_02:
+  Copy: "AXPE_01"
+AXPF_00:
+  Name: "Pokémon Sapphire Version (France)"
+  SongTableOffsets: 0x45E094
+  Copy: "AXVF_00"
+AXPF_01:
+  Copy: "AXPF_00"
+AXPI_00:
+  Name: "Pokémon Sapphire Version (Italy)"
+  SongTableOffsets: 0x4574B4
+  Copy: "AXVI_00"
+AXPI_01:
+  Copy: "AXPI_00"
+AXPJ_00:
+  Name: "Pokémon Sapphire Version (Japan)"
+  SongTableOffsets: 0x416ECC
+  Copy: "AXVJ_00"
+AXPS_00:
+  Name: "Pokémon Sapphire Version (Spain)"
+  SongTableOffsets: 0x45A660
+  Copy: "AXVS_00"
+AXPS_01:
+  Copy: "AXPS_00"
+AXVD_00:
+  Name: "Pokémon Ruby Version (Germany)"
+  SongTableOffsets: 0x463428
+  Copy: "AXVE_00"
+AXVD_01:
+  Copy: "AXVD_00"
+AXVE_00:
+  Name: "Pokémon Ruby Version (USA)"
+  SongTableOffsets: 0x45548C
+  SongTableSizes: 468
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 12
+  HasGoldenSunSynths: False
+  HasPokemonCompression: True
+  Playlists:
+    Disc 1:
+      414: "Opening Movie: Setting out on a Journey in the Hoenn Region"
+      442: "Opening Movie: Double Battles"
+      413: "Title Screen"
+      374: "Introductions"
+      405: "Littleroot Town"
+      383: "Birch Pokémon Lab"
+      415: "May"
+      410: "H-Help Me!"
+      457: "Battle! (Wild Pokémon)"
+      353: "Victory! (Wild Pokémon)"
+      359: "Route 101"
+      363: "Oldale Town"
+      400: "Pokémon Center"
+      368: "Pokémon Healed"
+      380: "Trainers' Eyes Meet (Youngster)"
+      407: "Trainers' Eyes Meet (Lass)"
+      459: "Battle! (Trainer Battle)"
+      412: "Victory! (Trainer Battle)"
+      367: "Level Up!"
+      362: "Petalburg City"
+      420: "Hurry Along"
+      401: "Route 104"
+      366: "Petalburg Woods"
+      441: "Team Magma Appears!"
+      458: "Battle! (Team Aqua / Team Magma)"
+      424: "Victory! (Team Aqua / Team Magma)"
+      399: "Rustboro City"
+      435: "Trainers' School"
+      431: "Crossing the Sea"
+      427: "Dewford Town"
+      379: "Trainers' Eyes Meet (Tuber♀)"
+      433: "Slateport City"
+      375: "Oceanic Museum"
+      360: "Route 110"
+      403: "Cycling"
+      426: "Game Corner"
+      390: "Win"
+      391: "Lose"
+      392: "Reel Time"
+      389: "Jackpot"
+      398: "Verdanturf Town"
+      418: "Route 113"
+      449: "Twins"
+      437: "Fallarbor Town"
+      425: "Cable Car"
+      406: "Mt. Chimney"
+      451: "Trainers' Eyes Meet (Hiker)"
+      409: "Route 111"
+      364: "Pokémon Gym"
+      460: "Battle! (Gym Leader)"
+      354: "Victory! (Gym Leader)"
+      369: "Obtained a Badge!"
+      372: "Obtained a TM!"
+      365: "Surf"
+    Disc 2:
+      402: "Route 119"
+      382: "Fortree City"
+      361: "Route 120"
+      453: "Interviewers"
+      428: "Safari Zone"
+      397: "Trainers' Eyes Meet (Gentleman)"
+      408: "Lilycove City"
+      373: "Museum"
+      378: "Move Deleted"
+      421: "Brendan"
+      464: "Battle! (Brendan/May)"
+      376: "Evolution (Intro)"
+      377: "Evolution"
+      371: "Congratulations! Your Pokémon Evolved!"
+      404: "Poké Mart"
+      432: "Mt. Pyre"
+      416: "Trainers' Eyes Meet (Psychic)"
+      423: "Trainers' Eyes Meet (Hex Maniac)"
+      434: "Mt. Pyre Exterior"
+      430: "Hideout"
+      370: "Obtained an Item!"
+      419: "Team Aqua Appears!"
+      466: "Battle! (Team Aqua/Team Magma Leaders)"
+      388: "The Super-Ancient Pokémon Awaken!"
+      444: "Drought"
+      443: "Heavy Rain"
+      411: "Dive"
+      445: "Sootopolis City"
+      386: "Cave of Origin"
+      463: "Battle! (Super-Ancient Pokémon)"
+      385: "Trainers' Eyes Meet (Swimmer♀)"
+      422: "Evergrande City"
+      387: "Obtained a Berry!"
+      452: "Contest Lobby"
+      440: "Pokémon Contest!"
+      446: "Results Announcement"
+      439: "Contest Winner"
+      438: "Sealed Chamber"
+      462: "Battle! (Regirock/Regice/Registeel)"
+      448: "The Trick House"
+      381: "Abandoned Ship"
+      384: "Battle Tower"
+      429: "Victory Road"
+      417: "Trainers' Eyes Meet (Cooltrainer)"
+      450: "The Elite Four Appear!"
+      465: "Battle! (Elite Four)"
+      454: "Champion Steven"
+      461: "Battle! (Steven)"
+      355: "Victory! (Steven)"
+      447: "Room of Glory"
+      436: "The Hall of Fame"
+      455: "Ending Theme"
+      456: "The End"
+    Other Music:
+      350: "Unused - TETSUJI"
+      351: "Unused - Route 38"
+      352: "Victory! (Wild Pokémon) (No Intro)"
+      356: "Unused - Pokémon Center (2)"
+      357: "Unused - Viridian City"
+      358: "Unused - Battle! (Entei/Raikou/Suicune)"
+      393: "Pokémon Contest! (Multiplayer - Player 1)"
+      394: "Pokémon Contest! (Multiplayer - Player 2)"
+      395: "Pokémon Contest! (Multiplayer - Player 3)"
+      396: "Pokémon Contest! (Multiplayer - Player 4)"
+      467: "Unused - Team Rocket Appears!"
+AXVE_01:
+  SongTableOffsets: 0x4554A0
+  Copy: "AXVE_00"
+AXVE_02:
+  Copy: "AXVE_01"
+AXVF_00:
+  Name: "Pokémon Ruby Version (France)"
+  SongTableOffsets: 0x45E564
+  Copy: "AXVE_00"
+AXVF_01:
+  Copy: "AXVF_00"
+AXVI_00:
+  Name: "Pokémon Ruby Version (Italy)"
+  SongTableOffsets: 0x457810
+  Copy: "AXVE_00"
+AXVI_01:
+  Copy: "AXVI_00"
+AXVJ_00:
+  Name: "Pokémon Ruby Version (Japan)"
+  SongTableOffsets: 0x416EE4
+  Copy: "AXVE_00"
+AXVS_00:
+  Name: "Pokémon Ruby Version (Spain)"
+  SongTableOffsets: 0x45A924
+  Copy: "AXVE_00"
+AXVS_01:
+  Copy: "AXVS_00"
+AZLE_00:
+  Name: "The Legend of Zelda: A Link to the Past and Four Swords (USA)"
+  SongTableOffsets: 0x3C3BBC
+  SongTableSizes: 545
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+AZLJ_00:
+  Name: "The Legend of Zelda: A Link to the Past and Four Swords (Japan)"
+  SongTableOffsets: 0x3E7A54
+  Copy: "AZLE_00"
+AZLP_00:
+  Name: "The Legend of Zelda: A Link to the Past and Four Swords (Europe)"
+  SongTableOffsets: 0x43F8AC
+  Copy: "AZLE_00"
+B24E_00:
+  Name: "Pokémon Mystery Dungeon: Red Rescue Team (USA)"
+  SongTableOffsets: 0x1E866BC
+  SongTableSizes: 940
+  SampleRate: 5
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 14
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+  Playlists:
+    Disc 1:
+      40: "Intro"
+      43: "Title"
+      8: "File Select"
+      4: "Personality Test"
+      101: "Awakening"
+      10: "There's Trouble!"
+      125: "Tiny Woods"
+      114: "At the End of the Road"
+      103: "Happiness"
+      1: "Rescue Team Base"
+      46: "Insert Title"
+      14: "Thunderwave Cave"
+      12: "Dream"
+      7: "Pokémon Plaza"
+      107: "Friend Area ~ Field"
+      105: "Friend Area ~ Steppe"
+      121: "Friend Area ~ Forest"
+      116: "Friend Area ~ Wilds"
+      2: "Friend Area ~ Swamp"
+      16: "Friend Area ~ Pond"
+      120: "Mt. Steel"
+      11: "Versus Boss"
+      112: "Friend Area ~ Lab"
+      110: "Makuhita Dojo"
+      15: "Sinister Woods"
+      9: "Danger"
+      113: "Silent Chasm"
+      111: "Mt. Thunder"
+      126: "Mt. Thunder Peak"
+      20: "Great Canyon"
+      6: "The Legend of Ninetales"
+      24: "Run Away"
+    Disc 2:
+      102: "Lapis Cave"
+      38: "The Mountain of Fire"
+      25: "Mt. Blaze"
+      17: "Kecleon Shop"
+      18: "Stop! Thief!"
+      33: "Mt. Blaze Peak"
+      36: "Escape Through the Snow"
+      104: "Frosty Forest"
+      39: "Frosty Grotto"
+      5: "Benevolent Spirit"
+      115: "Mt. Freeze"
+      123: "Mt. Freeze Peak"
+      108: "Magma Cavern"
+      128: "Monster House!"
+      124: "Magma Cavern Pit"
+      19: "World Calamity"
+      29: "Dream Eater"
+      22: "Sky Tower"
+      23: "Sky Tower Summit"
+      26: "Rayquaza's Domain"
+      32: "Versus Legendary"
+      37: "The Other Side"
+      42: "Farewell"
+      44: "Staff Roll"
+      45: "Time of Reunion"
+      106: "Friend Area ~ Oceanic"
+      28: "Friend Area ~ Rainbow Peak"
+      3: "Friend Area ~ Caves"
+      35: "Friend Area ~ Cryptic Cave"
+      118: "Friend Area ~ Southern Island"
+      122: "Friend Area ~ Final Island"
+      21: "Stormy Sea"
+      13: "Buried Relic"
+      117: "Friend Area ~ Legendary Island"
+      30: "Friend Area ~ Deep-Sea Current"
+      127: "Friend Area ~ Healing Forest"
+      31: "Friend Area ~ Seafloor Cave"
+      34: "Friend Area ~ Volcanic Pit"
+      27: "Friend Area ~ Stratos Lookout"
+      119: "Friend Area ~ Enclosed Island"
+      100: "Unused 1"
+      109: "Unused 2"
+    Other Music:
+      41: "41"
+      51: "Exploration Failed"
+      52: "Exploration Complete!"
+    Dungeon Music:
+      125: "Tiny Woods"
+      14: "Thunderwave Cave"
+      120: "Mt. Steel"
+      110: "Makuhita Dojo"
+      15: "Sinister Woods"
+      113: "Silent Chasm"
+      111: "Mt. Thunder"
+      126: "Mt. Thunder Peak"
+      20: "Great Canyon"
+      102: "Lapis Cave"
+      25: "Mt. Blaze"
+      33: "Mt. Blaze Peak"
+      104: "Frosty Forest"
+      39: "Frosty Grotto"
+      115: "Mt. Freeze"
+      123: "Mt. Freeze Peak"
+      108: "Magma Cavern"
+      124: "Magma Cavern Pit"
+      22: "Sky Tower"
+      23: "Sky Tower Summit"
+      21: "Stormy Sea"
+      13: "Buried Relic"
+B24J_00:
+  Name: "Pokémon Mystery Dungeon: Red Rescue Team (Japan)"
+  SongTableOffsets: 0x1DC66BC
+  Copy: "B24E_00"
+B24P_00:
+  Name: "Pokémon Mystery Dungeon: Red Rescue Team (Europe)"
+  Copy: "B24E_00"
+BE8E_00:
+  Name: "Fire Emblem: The Sacred Stones (USA)"
+  SongTableOffsets: 0x224470
+  SongTableSizes: 1000
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 13
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+BE8J_00:
+  Name: "Fire Emblem: The Sacred Stones (Japan)"
+  SongTableOffsets: 0x214120
+  Copy: "BE8E_00"
+BE8P_00:
+  Name: "Fire Emblem: The Sacred Stones (Europe)"
+  SongTableOffsets: 0x42FFB0
+  Copy: "BE8E_00"
+AFEJ_01:
+  Name: "Fire Emblem 6: The Sealed Sword(Japan)"
+  SongTableOffsets: 0x3994D8
+  Copy: "AFEJ_01"
+AE7J_01:
+  Name: "Fire Emblem 7: (Japan)"
+  SongTableOffsets: 0x6EA8D0
+  Copy: "AE7J_01"
+AE7E_01:
+  Name: "Fire Emblem 7: (USA)"
+  SongTableOffsets: 0x69D6E0
+  Copy: "AE7E_01"
+BMXC_00:
+  Name: "Metroid: Zero Mission (China)"
+  SongTableOffsets: 0xA8AAC
+  Copy: "BMXE_00"
+BMXE_00:
+  Name: "Metroid: Zero Mission (USA)"
+  SongTableOffsets: 0x8F2C0
+  SongTableSizes: 708
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+BMXJ_00:
+  Name: "Metroid: Zero Mission (Japan)"
+  SongTableOffsets: 0x8F31C
+  Copy: "BMXE_00"
+BMXP_00:
+  Name: "Metroid: Zero Mission (Europe)"
+  SongTableOffsets: 0x8FF4C
+  Copy: "BMXE_00"
+BPED_00:
+  Name: "Pokémon Emerald Version (Germany)"
+  SongTableOffsets: 0x6C5BDC
+  Copy: "BPEE_00"
+BPEE_00:
+  Name: "Pokémon Emerald Version (USA)"
+  SongTableOffsets: 0x6B49F0
+  SongTableSizes: 610
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 12
+  HasGoldenSunSynths: False
+  HasPokemonCompression: True
+  Playlists:
+    Music:
+      350: "Unused - TETSUJI"
+      351: "Unused - Route 38"
+      352: "Victory! (Wild Pokémon) (No Intro)"
+      353: "Victory! (Wild Pokémon)"
+      354: "Victory! (Gym Leader)"
+      355: "Victory! (Wallace)"
+      356: "Unused - Pokémon Center (2)"
+      357: "Unused - Viridian City"
+      358: "Unused - Battle! (Entei/Raikou/Suicune)"
+      359: "Route 101"
+      360: "Route 110"
+      361: "Route 120"
+      362: "Petalburg City"
+      363: "Oldale Town"
+      364: "Pokémon Gym"
+      365: "Surf"
+      366: "Petalburg Woods"
+      367: "Level Up!"
+      368: "Pokémon Healed"
+      369: "Obtained a Badge!"
+      370: "Obtained an Item!"
+      371: "Congratulations! Your Pokémon Evolved!"
+      372: "Obtained a TM!"
+      373: "Museum"
+      374: "Introductions"
+      375: "Oceanic Museum"
+      376: "Evolution (Intro)"
+      377: "Evolution"
+      378: "Move Deleted"
+      379: "Trainers' Eyes Meet (Tuber♀)"
+      380: "Trainers' Eyes Meet (Youngster)"
+      381: "Abandoned Ship"
+      382: "Fortree City"
+      383: "Birch Pokémon Lab"
+      384: "Battle Tower (RS)"
+      385: "Trainers' Eyes Meet (Swimmer♀)"
+      386: "Cave of Origin"
+      387: "Obtained a Berry!"
+      388: "The Super-Ancient Pokémon Awaken!"
+      389: "Jackpot"
+      390: "Win"
+      391: "Lose"
+      392: "Reel Time"
+      393: "Pokémon Contest! (Multiplayer - Player 1)"
+      394: "Pokémon Contest! (Multiplayer - Player 2)"
+      395: "Pokémon Contest! (Multiplayer - Player 3)"
+      396: "Pokémon Contest! (Multiplayer - Player 4)"
+      397: "Trainers' Eyes Meet (Gentleman)"
+      398: "Verdanturf Town"
+      399: "Rustboro City"
+      400: "Pokémon Center"
+      401: "Route 104"
+      402: "Route 119"
+      403: "Cycling"
+      404: "Poké Mart"
+      405: "Littleroot Town"
+      406: "Mt. Chimney"
+      407: "Trainers' Eyes Meet (Lass)"
+      408: "Lilycove City"
+      409: "Route 111"
+      410: "H-Help Me!"
+      411: "Dive"
+      412: "Victory! (Trainer Battle)"
+      413: "Title Screen"
+      414: "Opening Movie: Setting out on a Journey in the Hoenn Region"
+      415: "May"
+      416: "Trainers' Eyes Meet (Psychic)"
+      417: "Trainers' Eyes Meet (Cooltrainer)"
+      418: "Route 113"
+      419: "Team Aqua Appears!"
+      420: "Hurry Along"
+      421: "Brendan"
+      422: "Evergrande City"
+      423: "Trainers' Eyes Meet (Hex Maniac)"
+      424: "Victory! (Team Aqua / Team Magma)"
+      425: "Cable Car"
+      426: "Game Corner"
+      427: "Dewford Town"
+      428: "Safari Zone"
+      429: "Victory Road"
+      430: "Hideout"
+      431: "Crossing the Sea"
+      432: "Mt. Pyre"
+      433: "Slateport City"
+      434: "Mt. Pyre Exterior"
+      435: "Trainers' School"
+      436: "The Hall of Fame"
+      437: "Fallarbor Town"
+      438: "Sealed Chamber"
+      439: "Contest Winner"
+      440: "Pokémon Contest!"
+      441: "Team Magma Appears!"
+      442: "Opening Movie: Double Battles"
+      443: "Heavy Rain"
+      444: "The Drought"
+      445: "Sootopolis City"
+      446: "Results Announcement"
+      447: "Room of Glory"
+      448: "The Trick House"
+      449: "Twins"
+      450: "The Elite Four Appear!"
+      451: "Trainers' Eyes Meet (Hiker)"
+      452: "Contest Lobby"
+      453: "Interviewers"
+      454: "Champion Wallace"
+      455: "Ending Theme"
+      456: "The End"
+      457: "Battle Frontier"
+      458: "Battle Arena"
+      459: "Obtained a Battle Point!"
+      460: "Registered Trainer!"
+      461: "Battle Pyramid"
+      462: "Battle Pyramid Summit"
+      463: "Battle Palace"
+      464: "Rayquaza Enters!"
+      465: "Battle Tower"
+      466: "Obtained a Frontier Symbol!"
+      467: "Battle Dome"
+      468: "Battle Pike"
+      469: "Battle Factory"
+      470: "Battle! (Rayquaza)"
+      471: "Battle! (Frontier Brain)"
+      472: "Battle! (Mew)"
+      473: "Battle Dome Lobby"
+      474: "Battle! (Wild Pokémon)"
+      475: "Battle! (Team Aqua / Team Magma)"
+      476: "Battle! (Trainer Battle)"
+      477: "Battle! (Gym Leader)"
+      478: "Battle! (Champion Wallace)"
+      479: "Battle! (Regirock/Regice/Registeel)"
+      480: "Battle! (Groudon/Kyogre)"
+      481: "Battle! (Brendan/May/Steven)"
+      482: "Battle! (Elite Four)"
+      483: "Battle! (Team Aqua/Team Magma Leaders)"
+      484: "Guide (FRLG)"
+      485: "Rocket Game Corner (FRLG)"
+      486: "Rocket Hideout (FRLG)"
+      487: "Pokémon Gym (FRLG)"
+      488: "Jigglypuff's Song (FRLG)"
+      489: "Opening Movie (FRLG)"
+      490: "Title Screen (FRLG)"
+      491: "Cinnabar Island Theme (FRLG)"
+      492: "Lavender Town Theme (FRLG)"
+      493: "Pokémon Healed (FRLG)"
+      494: "Cycling (FRLG)"
+      495: "A Trainer Appears (Bad Guy Version) (FRLG)"
+      496: "A Trainer Appears (Girl Version) (FRLG)"
+      497: "A Trainer Appears (Boy Version) (FRLG)"
+      498: "Hall of Fame (FRLG)"
+      499: "Viridian Forest (FRLG)"
+      500: "Navel Rock"
+      501: "Pokémon Mansion (FRLG)"
+      502: "Ending Theme (FRLG)"
+      503: "Road to Viridian City: Leaving Pallet Town (FRLG)"
+      504: "Welcome to the World of Pokémon! (FRLG)"
+      505: "Road to Cerulean City: Leaving Mt. Moon (FRLG)"
+      506: "Road to Fuchsia City: Leaving Lavender Town (FRLG)"
+      507: "The Final Road (FRLG)"
+      508: "Battle! (Gym Leader Battle) (FRLG)"
+      509: "Battle! (Trainer Battle) (FRLG)"
+      510: "Battle! (Wild Pokémon) (FRLG)"
+      511: "Final Battle! (Rival) (FRLG)"
+      512: "Pallet Town Theme (FRLG)"
+      513: "Professor Oak's Laboratory (FRLG)"
+      514: "Professor Oak (FRLG)"
+      515: "Pokémon Center (FRLG)"
+      516: "The S.S. Anne (FRLG)"
+      517: "The Sea (FRLG)"
+      518: "Pokémon Tower (FRLG)"
+      519: "Silph Co. (FRLG)"
+      520: "Fuchsia City Theme (FRLG)"
+      521: "Celadon City Theme (FRLG)"
+      522: "Victory! (Trainer Battle) (FRLG)"
+      523: "Victory! (Wild Pokémon) (FRLG)"
+      524: "Victory! (Gym Leader Battle) (FRLG)"
+      525: "Vermillion City Theme (FRLG)"
+      526: "Pewter City Theme (FRLG)"
+      527: "A Rival Appears (FRLG)"
+      528: "A Rival Appears (No Intro) (FRLG)"
+      529: "Fanfare: Professor Oak's Evaluation (FRLG)"
+      530: "Fanfare: Pokémon Obtained (FRLG)"
+      531: "Fanfare: Pokémon Caught"
+      532: "Pokémon Printer (FRLG)"
+      533: "Game Freak Logo (FRLG)"
+      534: "Fanfare: Pokémon Caught (No Intro) (FRLG)"
+      535: "Game Tutorial (1) (FRLG)"
+      536: "Game Tutorial (2) (FRLG)"
+      537: "Game Tutorial (3) (FRLG)"
+      538: "Pokémon Jump (FRLG)"
+      539: "The Union Room (FRLG)"
+      540: "Pokémon Net Center (FRLG)"
+      541: "Mystery Gift (FRLG)"
+      542: "Dodrio Berry Picking (FRLG)"
+      543: "Mt. Ember (FRLG)"
+      544: "Teachy TV Lesson (FRLG)"
+      545: "Sevii Islands (FRLG)"
+      546: "Tanoby Chambers (FRLG)"
+      547: "Sevii Islands: One, Two & Three Islands (FRLG)"
+      548: "Sevii Islands: Four & Five Islands (FRLG)"
+      549: "Sevii Islands: Six & Seven Islands (FRLG)"
+      550: "The Poké Flute (FRLG)"
+      551: "Battle! (Deoxys)"
+      552: "Battle! (Mewtwo) (FRLG)"
+      553: "Battle! (Ho-Oh/Lugia)"
+      554: "Tense Battle! (FRLG)"
+      555: "Deoxys Appears"
+      556: "Trainer Tower (FRLG)"
+      557: "Epilogue (FRLG)"
+      558: "Teachy TV Menu (FRLG)"
+    Battle Music:
+      358: "Unused - Battle! (Entei/Raikou/Suicune)"
+      470: "Battle! (Rayquaza)"
+      471: "Battle! (Frontier Brain)"
+      472: "Battle! (Mew)"
+      474: "Battle! (Wild Pokémon)"
+      475: "Battle! (Team Aqua / Team Magma)"
+      476: "Battle! (Trainer Battle)"
+      477: "Battle! (Gym Leader)"
+      478: "Battle! (Champion Wallace)"
+      479: "Battle! (Regirock/Regice/Registeel)"
+      481: "Battle! (Brendan/May/Steven)"
+      482: "Battle! (Elite Four)"
+      483: "Battle! (Team Aqua/Team Magma Leaders)"
+      508: "Battle! (Gym Leader Battle) (FRLG)"
+      509: "Battle! (Trainer Battle) (FRLG)"
+      510: "Battle! (Wild Pokémon) (FRLG)"
+      511: "Final Battle! (Rival) (FRLG)"
+      551: "Battle! (Deoxys)"
+      552: "Battle! (Mewtwo) (FRLG)"
+      553: "Battle! (Ho-Oh/Lugia)"
+BPEF_00:
+  Name: "Pokémon Emerald Version (France)"
+  SongTableOffsets: 0x6B890C
+  Copy: "BPEE_00"
+BPEI_00:
+  Name: "Pokémon Emerald Version (Italy)"
+  SongTableOffsets: 0x6B1004
+  Copy: "BPEE_00"
+BPEJ_00:
+  Name: "Pokémon Emerald Version (Japan)"
+  SongTableOffsets: 0x63C2AC
+  Copy: "BPEE_00"
+BPES_00:
+  Name: "Pokémon Emerald Version (Spain)"
+  SongTableOffsets: 0x6B6FA4
+  Copy: "BPEE_00"
+BPGD_00:
+  Name: "Pokémon Leaf Green Version (Germany)"
+  SongTableOffsets: 0x4A0A5C
+  Copy: "BPRD_00"
+BPGE_00:
+  Name: "Pokémon Leaf Green Version (USA)"
+  SongTableOffsets: 0x4A2BA8
+  Copy: "BPRE_00"
+BPGE_01:
+  SongTableOffsets: 0x4A2C18
+  Copy: "BPGE_00"
+BPGF_00:
+  Name: "Pokémon Leaf Green Version (France)"
+  SongTableOffsets: 0x4980BC
+  Copy: "BPRF_00"
+BPGI_00:
+  Name: "Pokémon Leaf Green Version (Italy)"
+  SongTableOffsets: 0x4964B8
+  Copy: "BPRI_00"
+BPGJ_00:
+  Name: "Pokémon Leaf Green Version (Japan)"
+  SongTableOffsets: 0x467D50
+  Copy: "BPRJ_00"
+BPGS_00:
+  Name: "Pokémon Leaf Green Version (Spain)"
+  SongTableOffsets: 0x4992C0
+  Copy: "BPRS_00"
+BPPE_00:
+  Name: "Pokémon Pinball: Ruby and Sapphire (USA)"
+  SongTableOffsets: 0x534E04
+  SongTableSizes: 333
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 14
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+BPPJ_00:
+  Name: "Pokémon Pinball: Ruby & Sapphire (Japan)"
+  SongTableOffsets: 0x51B9BC
+  Copy: "BPPE_00"
+BPPJ_01:
+  SongTableOffsets: 0x51B708
+  Copy: "BPPJ_00"
+BPPP_00:
+  Name: "Pokémon Pinball: Ruby & Sapphire (Europe)"
+  SongTableOffsets: 0x7C67A4
+  Copy: "BPPE_00"
+BPRD_00:
+  Name: "Pokémon Fire Red Version (Germany)"
+  SongTableOffsets: 0x4A18F0
+  Copy: "BPRE_00"
+BPRE_00:
+  Name: "Pokémon Fire Red Version (USA)"
+  SongTableOffsets: 0x4A32CC
+  SongTableSizes: 347
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 12
+  HasGoldenSunSynths: False
+  HasPokemonCompression: True
+  Playlists:
+    Disc 1:
+      321: "Game Freak Logo"
+      277: "Opening Movie"
+      278: "Title Screen"
+      323: "Game Tutorial (1)"
+      324: "Game Tutorial (2)"
+      325: "Game Tutorial (3)"
+      292: "Welcome to the World of Pokémon!"
+      300: "Pallet Town Theme"
+      302: "Professor Oak"
+      301: "Professor Oak's Laboratory"
+      318: "Fanfare: Pokémon Obtained"
+      315: "A Rival Appears"
+      297: "Battle! (Trainer Battle)"
+      310: "Victory! (Trainer Battle)"
+      291: "Road to Viridian City: Leaving Pallet Town"
+      257: "Fanfare: Item Obtained (Version 1)"
+      314: "Pewter City Theme"
+      346: "Teachy TV Menu"
+      287: "Viridian Forest"
+      298: "Battle! (Wild Pokémon)"
+      311: "Victory! (Wild Pokémon)"
+      285: "A Trainer Appears (Boy Version)"
+      303: "Pokémon Center"
+      276: "Jigglypuff's Song"
+      256: "Pokémon Healed"
+      272: "Guide"
+      275: "Pokémon Gym"
+      342: "Tense Battle!"
+      296: "Battle! (Gym Leader Battle)"
+      312: "Victory! (Gym Leader Battle)"
+      260: "Fanfare: Badge Obtained"
+      263: "Evolution (Intro)"
+      264: "Evolution"
+      259: "Fanfare: Evolution"
+      293: "Road to Cerulean City: Leaving Mt. Moon"
+      284: "A Trainer Appears (Girl Version)"
+      288: "Caves of Mt. Moon"
+      313: "Vermilion City Theme"
+      304: "The S.S. Anne"
+      282: "Cycling"
+      280: "Lavender Town Theme"
+      306: "Pokémon Tower"
+      309: "Celadon City Theme"
+      273: "Rocket Game Corner"
+      268: "Fanfare: Winning"
+      269: "Fanfare: Jackpot"
+      320: "Pokémon Printer"
+      274: "Rocket Hideout"
+      283: "A Trainer Appears (Bad Guy Version)"
+      307: "Silph Co."
+      294: "Road to Fuchsia City: Leaving Lavender Town"
+      338: "The Poké Flute"
+      308: "Fuchsia City Theme"
+      270: "Move Deleted"
+      305: "The Sea"
+      341: "Battle! (Legendary Pokémon)"
+      319: "Fanfare: Pokémon Caught"
+      279: "Cinnabar Island Theme"
+      289: "Pokémon Mansion"
+      328: "Pokémon Net Center"
+      317: "Fanfare: Professor Oak's Evaluation"
+      336: "Sevii Islands: Four & Five Islands"
+      326: "Pokémon Jump"
+      330: "Dodrio Berry Picking"
+      271: "Too Bad..."
+      333: "Sevii Islands"
+      337: "Sevii Islands: Six & Seven Islands"
+      327: "The Union Room"
+      329: "Mystery Gift"
+      258: "Fanfare: Item Obtained (Version 2)"
+      340: "Battle! (Mewtwo)"
+      295: "The Final Road"
+      299: "Final Battle! (Rival)"
+      345: "Epilogue"
+      286: "Hall of Fame"
+      290: "Ending Theme"
+    Disc 2:
+      343: "Deoxys Appears"
+      339: "Battle! (Deoxys)"
+    Other Music:
+      261: "Unused - Obtained a TM! (RS)"
+      262: "Unused - Obtained a Berry! (RS)"
+      265: "Battle! (Link Battle) (1)"
+      266: "Battle! (Link Battle) (2)"
+      267: "Unused - Trainers' School (RS)"
+      281: "Unused - Pokémon Healed (2)"
+      316: "A Rival Appears (No Intro)"
+      322: "Fanfare: Pokémon Caught (No Intro)"
+      331: "Mt. Ember"
+      332: "Teachy TV Lesson"
+      334: "Tanoby Chambers"
+      335: "Sevii Islands: One, Two & Three Islands"
+      344: "Trainer Tower"
+BPRE_01:
+  Copy: "BPRE_00"
+BPRF_00:
+  Name: "Pokémon Fire Red Version (France)"
+  SongTableOffsets: 0x499394
+  Copy: "BPRE_00"
+BPRI_00:
+  Name: "Pokémon Fire Red Version (Italy)"
+  SongTableOffsets: 0x496D20
+  Copy: "BPRE_00"
+BPRJ_00:
+  Name: "Pokémon Fire Red Version (Japan)"
+  SongTableOffsets: 0x467F0C
+  Copy: "BPRE_00"
+BPRJ_01:
+  SongTableOffsets: 0x463708
+  Copy: "BPRJ_00"
+BPRS_00:
+  Name: "Pokémon Fire Red Version (Spain)"
+  SongTableOffsets: 0x499BC8
+  Copy: "BPRE_00"
+BZME_00:
+  Name: "The Legend of Zelda: The Minish Cap (USA)"
+  SongTableOffsets: 0xA11DBC
+  SongTableSizes: 546
+  SampleRate: 3
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+BZMJ_00:
+  Name: "The Legend of Zelda: The Minish Cap (Japan)"
+  SongTableOffsets: 0x9F3D3C
+  Copy: "BZME_00"
+BZMP_00:
+  Name: "The Legend of Zelda: The Minish Cap (Europe)"
+  SongTableOffsets: 0xB1D414
+  Copy: "BZME_00"
+U32E_00:
+  Name: "Boktai 2 - Solar Boy Django (USA)"
+  SongTableOffsets: 0x25EEA8
+  SongTableSizes: 1000
+  SampleRate: 6
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+U32P_00:
+  Name: "Boktai 2 - Solar Boy Django (Europe)"
+  SongTableOffsets: 0x264758
+  Copy: "U32E_00"
+U3IE_00:
+  Name: "Boktai - The Sun is in Your Hand (USA)"
+  SongTableOffsets: 0x1EC904
+  SongTableSizes: 906
+  SampleRate: 6
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False
+U3IP_00:
+  Name: "Boktai - The Sun is in Your Hand (Europe)"
+  SongTableOffsets: 0x1E7604
+  Copy: "U3IE_00"
+U33J_00:
+  Name: "Boktai 3 - Sabata's Counterattack (Japan)"
+  SongTableOffsets: 0x26456C
+  SongTableSizes: 1483
+  SampleRate: 6
+  ReverbType: "Normal"
+  Reverb: 0
+  Volume: 15
+  HasGoldenSunSynths: False
+  HasPokemonCompression: False

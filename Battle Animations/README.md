@@ -3392,14 +3392,6 @@
 
 
 
-### [\[Eliwood-Reskin\] \[M\] T1 Prince Zephiel by Teraspark](https://git.io/JisMH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDw)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisik"/> |
-| :---: |
-
-
-
-
 ### [\[Eliwood-Reskin\] \[M\] T2 Brave by RedBean](https://git.io/JisyC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyP)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis14"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/Jis13"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis1u"/> |
@@ -3428,25 +3420,9 @@
 
 
 
-### [\[Eliwood-Variant\] \[F\] Mage Lord by TytheBub](https://git.io/JisM0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDY)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisXr"/> |
-| :---: |
-
-
-
-
 ### [\[Eliwood-Variant\] \[F\] T1 Lucina Slash by Caim Van Fang](https://git.io/JisMC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyM)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisim"/> |
-| :---: |
-
-
-
-
-### [\[Eliwood-Variant\] \[M\] Mage Lord by TytheBub](https://git.io/JisyO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyE)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisMI"/> |
 | :---: |
 
 
@@ -3472,6 +3448,14 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisX6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisXK"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Eliwood-Variant\] \[M\] T1 Prince Zephiel by Teraspark](https://git.io/Jis7d) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jis7N)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis7S"/> |
+| :---: |
 
 
 
@@ -5213,6 +5197,22 @@
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5E"/> | <b>Staff (Constant timing)</b><br/><img alt="Staff (Constant timing)" src="https://git.io/JnOh0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdE"/> |
 | :---: | :---: | :---: |
+
+
+
+
+### [\[Eliwood-Variant\] \[F\] Mage Lord by TytheBub](https://git.io/Jis75) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jis7F)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jis77"/> |
+| :---: |
+
+
+
+
+### [\[Eliwood-Variant\] \[M\] Mage Lord by TytheBub](https://git.io/Jis7H) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jis7Q)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jis79"/> |
+| :---: |
 
 
 

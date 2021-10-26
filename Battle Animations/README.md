@@ -830,7 +830,7 @@
 
 
 
-### [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](https://git.io/Jn3fl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38d)
+### [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38d)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2p"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOag"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0B"/> |
 | :---: | :---: | :---: |
@@ -1497,8 +1497,8 @@
 
 ### [\[Sniper-Variant\] \[F\] Marksman by Nuramon](https://git.io/Jn3Uu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wv)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxw"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxu"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxw"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JiWY6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxu"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -1514,8 +1514,8 @@
 
 ### [\[Sniper-Variant\] \[M\] Marksman by Nuramon](https://git.io/Jn3tM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34M)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH5"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxV"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH5"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JiWYi"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxV"/> |
+| :---: | :---: | :---: |
 
 
 

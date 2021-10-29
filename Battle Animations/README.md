@@ -679,22 +679,6 @@
 
 
 
-### [\[Fighter-Reskin\] \[M\] Flashy Armored by Waleed](https://git.io/Jn3vp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34I)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2L"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO49"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO01"/> |
-| :---: | :---: | :---: |
-
-
-
-
-### [\[Fighter-Reskin\] \[M\] Flashy Armorless by Waleed](https://git.io/Jn3Ip) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34L)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOB6"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOur"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOub"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ### [\[Fighter-Reskin\] \[M\] Tellius-Style Clothing by Leo_Link](https://git.io/Jn3fM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34O)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOu9"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOum"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOu4"/> |
@@ -730,6 +714,22 @@
 ### [\[Fighter-Variant\] \[M\] FE9 Repal by Glenwing](https://git.io/Jn3Je) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RR)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOwU"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOKr"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOoH"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Fighter-Variant\] \[M\] Flashy Armored by Waleed](https://git.io/JPBBL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPBBq)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JPBBf"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JPBBT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JPBBk"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Fighter-Variant\] \[M\] Flashy Armorless by Waleed](https://git.io/JPBBm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPBBY)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JPBBJ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JPBBI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JPBBU"/> |
 | :---: | :---: | :---: |
 
 
@@ -2557,7 +2557,7 @@
 
 
 
-### [\[Assassin-Reskin\] \[F\] Full Shirt \(Bow Only\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WS)
+### [\[Assassin-Reskin\] \[F\] Full Shirt \(Bow Only\)](https://git.io/Jn3UF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WS)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOhk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAn"/> |
 | :---: | :---: |
@@ -3206,7 +3206,7 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpI"/> | <b>Sword (Eckesachs FE6)</b><br/><img alt="Sword (Eckesachs FE6)" src="https://git.io/JnOpU"/> | <b>Sword (Eckesachs FE7-8)</b><br/><img alt="Sword (Eckesachs FE7-8)" src="https://git.io/JnOxN"/> |
 | :---: | :---: | :---: |
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpf"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOys"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnObH"/> |
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnODh"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOPV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9D"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnODh"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9D"/> |
 
 
 

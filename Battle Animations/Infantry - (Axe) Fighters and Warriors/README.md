@@ -49,22 +49,6 @@
 
 
 
-## [\[Fighter-Reskin\] \[M\] Flashy Armored by Waleed](https://git.io/Jn3vp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34I)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2L"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO49"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO01"/> |
-| :---: | :---: | :---: |
-
-
-
-
-## [\[Fighter-Reskin\] \[M\] Flashy Armorless by Waleed](https://git.io/Jn3Ip) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34L)
-
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOB6"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOur"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOub"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ## [\[Fighter-Reskin\] \[M\] Tellius-Style Clothing by Leo_Link](https://git.io/Jn3fM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34O)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOu9"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOum"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOu4"/> |
@@ -100,6 +84,22 @@
 ## [\[Fighter-Variant\] \[M\] FE9 Repal by Glenwing](https://git.io/Jn3Je) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RR)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOwU"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOKr"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOoH"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Fighter-Variant\] \[M\] Flashy Armored by Waleed](https://git.io/JPBBL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPBBq)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JPBBf"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JPBBT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JPBBk"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Fighter-Variant\] \[M\] Flashy Armorless by Waleed](https://git.io/JPBBm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPBBY)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JPBBJ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JPBBI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JPBBU"/> |
 | :---: | :---: | :---: |
 
 

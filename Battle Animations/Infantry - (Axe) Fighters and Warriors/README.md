@@ -200,7 +200,7 @@
 
 
 
-## [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38d)
+## [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](https://git.io/Jn3fl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38d)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2p"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOag"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0B"/> |
 | :---: | :---: | :---: |

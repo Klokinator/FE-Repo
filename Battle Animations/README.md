@@ -830,7 +830,7 @@
 
 
 
-### [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20%5BF%5D%20Repal%20Leather%20by%20Temp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38d)
+### [\[Warrior-Reskin\] \[F\] Repal Leather by Temp](https://git.io/Jn3fl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38d)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2p"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOag"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0B"/> |
 | :---: | :---: | :---: |
@@ -2557,7 +2557,7 @@
 
 
 
-### [\[Assassin-Reskin\] \[F\] Full Shirt \(Bow Only\)](https://git.io/Jn3UF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WS)
+### [\[Assassin-Reskin\] \[F\] Full Shirt \(Bow Only\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BF%5D%20Full%20Shirt%20(Bow%20Only)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WS)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOhk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAn"/> |
 | :---: | :---: |
@@ -3225,6 +3225,14 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuId"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuIS"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuI7"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JuuIX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuuI9"/> |
+
+
+
+
+### [\[Zephiel-Variant\] \[M\] Black Knight by Victor](https://git.io/JPlTe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPlTU)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JPlUh"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JPlUp"/> |
+| :---: | :---: |
 
 
 

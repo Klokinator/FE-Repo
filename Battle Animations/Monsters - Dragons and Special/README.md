@@ -133,9 +133,9 @@
 
 
 
-## [\[Monster Custom\] \[M\] Wanderer - Blade by Chhhsfe](https://git.io/Jn3Yu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rb)
+## [\[Monster-Custom\] \[F\] Fairy \(Ogre Battle\)](https://git.io/JPXae) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPXaJ)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7r"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JPX2A"/> |
 | :---: |
 
 
@@ -170,6 +170,14 @@
 | <b>Sword (Flashy crit)</b><br/><img alt="Sword (Flashy crit)" src="https://git.io/JnObo"/> | <b>Sword (Normal Crit)</b><br/><img alt="Sword (Normal Crit)" src="https://git.io/JnOAK"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOVv"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4I"/> |
+
+
+
+
+## [\[Monster-Custom\] \[M\] Wanderer - Blade by Chhhsfe](https://git.io/JPXav) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPXaf)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JPX2p"/> |
+| :---: |
 
 
 
@@ -242,6 +250,13 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnORK"/> |
 | :---: |
+
+
+
+
+## [\[Monster-Custom\] \[U\] Kerendu](https://git.io/JPX2x) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPX2j)
+
+
 
 
 

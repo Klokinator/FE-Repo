@@ -28,43 +28,43 @@
 |<img alt="Dragon (U) Magic {L95}-stand" src="Dragon (U) Magic {L95}-stand.png" />|<img alt="Dragon (U) Myrrh Generic [Kemui52]-stand" src="Dragon (U) Myrrh Generic [Kemui52]-stand.png" />|<img alt="Dragon (U) Super {SHYUTER}-stand" src="Dragon (U) Super {SHYUTER}-stand.png" />|<img alt="Duma (U) {SHYUTERz, HIRITO, SHIRMER}-stand" src="Duma (U) {SHYUTERz, HIRITO, SHIRMER}-stand.png" />|
 
 
-|Evergrim (U) <br> {Almirage, Jj09}|Ghost (U) <br> {Eldritch Abomination}|Kraken (U) Sea Monster <br> {Xenith}|Manakete (F) Fae <br> {IS}|
+|Evergrim (U) <br> {Almirage, Jj09}|Fairy (U) Ogre Battle <br> {Eldritch}|Ghost (U) <br> {Eldritch Abomination}|Kerendu (U) <br> {Eldritch}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Evergrim (U) {Almirage, Jj09}-stand" src="Evergrim (U) {Almirage, Jj09}-stand.png" />|<img alt="Ghost (U) {Eldritch Abomination}-stand" src="Ghost (U) {Eldritch Abomination}-stand.png" />|<img alt="Kraken (U) Sea Monster {Xenith}-stand" src="Kraken (U) Sea Monster {Xenith}-stand.png" />|<img alt="Manakete (F) Fae {IS}-stand" src="Manakete (F) Fae {IS}-stand.png" />|
+|<img alt="Evergrim (U) {Almirage, Jj09}-stand" src="Evergrim (U) {Almirage, Jj09}-stand.png" />|<img alt="Fairy (U) Ogre Battle {Eldritch}-stand" src="Fairy (U) Ogre Battle {Eldritch}-stand.png" />|<img alt="Ghost (U) {Eldritch Abomination}-stand" src="Ghost (U) {Eldritch Abomination}-stand.png" />|<img alt="Kerendu (U) {Eldritch}-stand" src="Kerendu (U) {Eldritch}-stand.png" />|
 
 
-|Manakete (F) Myrrh <br> {IS}|Manakete (U) FE6 Generic <br> {IS}|Manakete (U) <br> {MeatOfJustice}|Mermaid (F) <br> {N426}|
+|Kraken (U) Sea Monster <br> {Xenith}|Manakete (F) Fae <br> {IS}|Manakete (F) Myrrh <br> {IS}|Manakete (U) FE6 Generic <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Manakete (F) Myrrh {IS}-stand" src="Manakete (F) Myrrh {IS}-stand.png" />|<img alt="Manakete (U) FE6 Generic {IS}-stand" src="Manakete (U) FE6 Generic {IS}-stand.png" />|<img alt="Manakete (U) {MeatOfJustice}-stand" src="Manakete (U) {MeatOfJustice}-stand.png" />|<img alt="Mermaid (F) {N426}-stand" src="Mermaid (F) {N426}-stand.png" />|
+|<img alt="Kraken (U) Sea Monster {Xenith}-stand" src="Kraken (U) Sea Monster {Xenith}-stand.png" />|<img alt="Manakete (F) Fae {IS}-stand" src="Manakete (F) Fae {IS}-stand.png" />|<img alt="Manakete (F) Myrrh {IS}-stand" src="Manakete (F) Myrrh {IS}-stand.png" />|<img alt="Manakete (U) FE6 Generic {IS}-stand" src="Manakete (U) FE6 Generic {IS}-stand.png" />|
 
 
-|Mermaid (F)  <br> {ZoramineFae}|Mimic (U) <br> {Seal}|Phantom (U) <br> {IS, Pushwall}|Phantom (U) <br> {IS}|
+|Manakete (U) <br> {MeatOfJustice}|Mermaid (F) <br> {N426}|Mermaid (F)  <br> {ZoramineFae}|Mimic (U) <br> {Seal}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mermaid (F) {ZoramineFae} -stand" src="Mermaid (F) {ZoramineFae} -stand.png" />|<img alt="Mimic (U) {Seal}-stand" src="Mimic (U) {Seal}-stand.png" />|<img alt="Phantom (U) {IS, Pushwall}-stand" src="Phantom (U) {IS, Pushwall}-stand.png" />|<img alt="Phantom (U) {IS}-stand" src="Phantom (U) {IS}-stand.png" />|
+|<img alt="Manakete (U) {MeatOfJustice}-stand" src="Manakete (U) {MeatOfJustice}-stand.png" />|<img alt="Mermaid (F) {N426}-stand" src="Mermaid (F) {N426}-stand.png" />|<img alt="Mermaid (F) {ZoramineFae} -stand" src="Mermaid (F) {ZoramineFae} -stand.png" />|<img alt="Mimic (U) {Seal}-stand" src="Mimic (U) {Seal}-stand.png" />|
 
 
-|Salamander (U) Hat <br> {Memae}|Salamander (U) <br> {Memai}|Shark (U) <br> {N426}|Shield Blank <br> {N426}|
+|Phantom (U) <br> {IS, Pushwall}|Phantom (U) <br> {IS}|Salamander (U) Hat <br> {Memae}|Salamander (U) <br> {Memai}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Salamander (U) Hat {Memae}-stand" src="Salamander (U) Hat {Memae}-stand.png" />|<img alt="Salamander (U) {Memai}-stand" src="Salamander (U) {Memai}-stand.png" />|<img alt="Shark (U) {N426}-stand" src="Shark (U) {N426}-stand.png" />|<img alt="Shield Blank {N426}-stand" src="Shield Blank {N426}-stand.png" />|
+|<img alt="Phantom (U) {IS, Pushwall}-stand" src="Phantom (U) {IS, Pushwall}-stand.png" />|<img alt="Phantom (U) {IS}-stand" src="Phantom (U) {IS}-stand.png" />|<img alt="Salamander (U) Hat {Memae}-stand" src="Salamander (U) Hat {Memae}-stand.png" />|<img alt="Salamander (U) {Memai}-stand" src="Salamander (U) {Memai}-stand.png" />|
 
 
-|Shield <br> {N426}|Succubus (F) <br> {SkidMarc25}|Tiger (U) <br> {RandomWizard, Squaresoft}|Tome (U) Anima <br> {N426}|
+|Shark (U) <br> {N426}|Shield Blank <br> {N426}|Shield <br> {N426}|Succubus (F) <br> {SkidMarc25}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Shield {N426}-stand" src="Shield {N426}-stand.png" />|<img alt="Succubus (F) {SkidMarc25}-stand" src="Succubus (F) {SkidMarc25}-stand.png" />|<img alt="Tiger (U) {RandomWizard, Squaresoft}-stand" src="Tiger (U) {RandomWizard, Squaresoft}-stand.png" />|<img alt="Tome (U) Anima {N426}-stand" src="Tome (U) Anima {N426}-stand.png" />|
+|<img alt="Shark (U) {N426}-stand" src="Shark (U) {N426}-stand.png" />|<img alt="Shield Blank {N426}-stand" src="Shield Blank {N426}-stand.png" />|<img alt="Shield {N426}-stand" src="Shield {N426}-stand.png" />|<img alt="Succubus (F) {SkidMarc25}-stand" src="Succubus (F) {SkidMarc25}-stand.png" />|
 
 
-|Tome (U) Axe <br> {N426}|Tome (U) Blank <br> {N426}|Tome (U) Bow <br> {N426}|Tome (U) Dark <br> {N426}|
+|Tiger (U) <br> {RandomWizard, Squaresoft}|Tome (U) Anima <br> {N426}|Tome (U) Axe <br> {N426}|Tome (U) Blank <br> {N426}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Tome (U) Axe {N426}-stand" src="Tome (U) Axe {N426}-stand.png" />|<img alt="Tome (U) Blank {N426}-stand" src="Tome (U) Blank {N426}-stand.png" />|<img alt="Tome (U) Bow {N426}-stand" src="Tome (U) Bow {N426}-stand.png" />|<img alt="Tome (U) Dark {N426}-stand" src="Tome (U) Dark {N426}-stand.png" />|
+|<img alt="Tiger (U) {RandomWizard, Squaresoft}-stand" src="Tiger (U) {RandomWizard, Squaresoft}-stand.png" />|<img alt="Tome (U) Anima {N426}-stand" src="Tome (U) Anima {N426}-stand.png" />|<img alt="Tome (U) Axe {N426}-stand" src="Tome (U) Axe {N426}-stand.png" />|<img alt="Tome (U) Blank {N426}-stand" src="Tome (U) Blank {N426}-stand.png" />|
 
 
-|Tome (U) Lance <br> {N426}|Tome (U) Light <br> {N426}|Tome (U) Sword <br> {N426}|Treant <br> {U}|
+|Tome (U) Bow <br> {N426}|Tome (U) Dark <br> {N426}|Tome (U) Lance <br> {N426}|Tome (U) Light <br> {N426}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Tome (U) Lance {N426}-stand" src="Tome (U) Lance {N426}-stand.png" />|<img alt="Tome (U) Light {N426}-stand" src="Tome (U) Light {N426}-stand.png" />|<img alt="Tome (U) Sword {N426}-stand" src="Tome (U) Sword {N426}-stand.png" />|<img alt="Treant {U} {An odd Dutch introvert}-stand" src="Treant {U} {An odd Dutch introvert}-stand.png" />|
+|<img alt="Tome (U) Bow {N426}-stand" src="Tome (U) Bow {N426}-stand.png" />|<img alt="Tome (U) Dark {N426}-stand" src="Tome (U) Dark {N426}-stand.png" />|<img alt="Tome (U) Lance {N426}-stand" src="Tome (U) Lance {N426}-stand.png" />|<img alt="Tome (U) Light {N426}-stand" src="Tome (U) Light {N426}-stand.png" />|
 
 
-|Wyvern Wild (U) <br> {Faeriefruit}|
-| :---: |
-|<img alt="Wyvern Wild (U) {Faeriefruit}-stand" src="Wyvern Wild (U) {Faeriefruit}-stand.png" />|
+|Tome (U) Sword <br> {N426}|Treant <br> {U}|Wyvern Wild (U) <br> {Faeriefruit}|
+| :---: | :---: | :---: |
+|<img alt="Tome (U) Sword {N426}-stand" src="Tome (U) Sword {N426}-stand.png" />|<img alt="Treant {U} {An odd Dutch introvert}-stand" src="Treant {U} {An odd Dutch introvert}-stand.png" />|<img alt="Wyvern Wild (U) {Faeriefruit}-stand" src="Wyvern Wild (U) {Faeriefruit}-stand.png" />|
 
 

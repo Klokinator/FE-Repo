@@ -53,28 +53,28 @@
 |<img alt="Knight (U) Helmetless Bow Shield Back {SALVAGED, BoneSethMan}-stand" src="Knight (U) Helmetless Bow Shield Back {SALVAGED, BoneSethMan}-stand.png" />|<img alt="Knight (U) Helmetless Bow {SALVAGED, BoneSethMan}-stand" src="Knight (U) Helmetless Bow {SALVAGED, BoneSethMan}-stand.png" />|<img alt="Knight (U) Helmetless Lance {SALVAGED, BoneSethMan}-stand" src="Knight (U) Helmetless Lance {SALVAGED, BoneSethMan}-stand.png" />|<img alt="Knight (U) Helmetless Sword {SALVAGED, BoneSethMan}-stand" src="Knight (U) Helmetless Sword {SALVAGED, BoneSethMan}-stand.png" />|
 
 
-|Knight (U) Lance Alt <br> {Agro}|Knight (U) Lance <br> {IS}|Knight (U) Lance <br> {SALVAGED}|Knight (U) Staff <br> {knabepicer, IS}|
+|Knight (U) Lance Alt 16x16 <br> {Agro}|Knight (U) Lance Alt <br> {Agro}|Knight (U) Lance <br> {IS}|Knight (U) Lance <br> {SALVAGED}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Knight (U) Lance Alt {Agro}-stand" src="Knight (U) Lance Alt {Agro}-stand.png" />|<img alt="Knight (U) Lance {IS}-stand" src="Knight (U) Lance {IS}-stand.png" />|<img alt="Knight (U) Lance {SALVAGED}-stand" src="Knight (U) Lance {SALVAGED}-stand.png" />|<img alt="Knight (U) Staff {knabepicer, IS}-stand" src="Knight (U) Staff {knabepicer, IS}-stand.png" />|
+|<img alt="Knight (U) Lance Alt 16x16 {Agro}-stand" src="Knight (U) Lance Alt 16x16 {Agro}-stand.png" />|<img alt="Knight (U) Lance Alt {Agro}-stand" src="Knight (U) Lance Alt {Agro}-stand.png" />|<img alt="Knight (U) Lance {IS}-stand" src="Knight (U) Lance {IS}-stand.png" />|<img alt="Knight (U) Lance {SALVAGED}-stand" src="Knight (U) Lance {SALVAGED}-stand.png" />|
 
 
-|Knight (U) Sword <br> {Agro}|Knight (U) Sword <br> {SALVAGED}|Marshall (M) Zelgius Helmless Sword <br> {Nuramon}|Marshall (M) Zelgius Sword <br> {Nuramon}|
+|Knight (U) Staff <br> {knabepicer, IS}|Knight (U) Sword 16x16 <br> {Agro}|Knight (U) Sword <br> {Agro}|Knight (U) Sword <br> {SALVAGED}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Knight (U) Sword {Agro}-stand" src="Knight (U) Sword {Agro}-stand.png" />|<img alt="Knight (U) Sword {SALVAGED}-stand" src="Knight (U) Sword {SALVAGED}-stand.png" />|<img alt="Marshall (M) Zelgius Helmless Sword {Nuramon}-stand" src="Marshall (M) Zelgius Helmless Sword {Nuramon}-stand.png" />|<img alt="Marshall (M) Zelgius Sword {Nuramon}-stand" src="Marshall (M) Zelgius Sword {Nuramon}-stand.png" />|
+|<img alt="Knight (U) Staff {knabepicer, IS}-stand" src="Knight (U) Staff {knabepicer, IS}-stand.png" />|<img alt="Knight (U) Sword 16x16 {Agro}-stand" src="Knight (U) Sword 16x16 {Agro}-stand.png" />|<img alt="Knight (U) Sword {Agro}-stand" src="Knight (U) Sword {Agro}-stand.png" />|<img alt="Knight (U) Sword {SALVAGED}-stand" src="Knight (U) Sword {SALVAGED}-stand.png" />|
 
 
-|Marshall (U) Axe <br> {Nuramon}|Marshall (U) Capeless Axe <br> {Nuramon}|Marshall (U) Capeless Lance <br> {Nuramon}|Marshall (U) Capeless Sword <br> {Nuramon}|
+|Marshall (M) Zelgius Helmless Sword <br> {Nuramon}|Marshall (M) Zelgius Sword <br> {Nuramon}|Marshall (U) Axe <br> {Nuramon}|Marshall (U) Capeless Axe <br> {Nuramon}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Marshall (U) Axe {Nuramon}-stand" src="Marshall (U) Axe {Nuramon}-stand.png" />|<img alt="Marshall (U) Capeless Axe {Nuramon}-stand" src="Marshall (U) Capeless Axe {Nuramon}-stand.png" />|<img alt="Marshall (U) Capeless Lance {Nuramon}-stand" src="Marshall (U) Capeless Lance {Nuramon}-stand.png" />|<img alt="Marshall (U) Capeless Sword {Nuramon}-stand" src="Marshall (U) Capeless Sword {Nuramon}-stand.png" />|
+|<img alt="Marshall (M) Zelgius Helmless Sword {Nuramon}-stand" src="Marshall (M) Zelgius Helmless Sword {Nuramon}-stand.png" />|<img alt="Marshall (M) Zelgius Sword {Nuramon}-stand" src="Marshall (M) Zelgius Sword {Nuramon}-stand.png" />|<img alt="Marshall (U) Axe {Nuramon}-stand" src="Marshall (U) Axe {Nuramon}-stand.png" />|<img alt="Marshall (U) Capeless Axe {Nuramon}-stand" src="Marshall (U) Capeless Axe {Nuramon}-stand.png" />|
 
 
-|Marshall (U) Lance <br> {Nuramon}|Marshall (U) Sword Alt <br> {Nuramon}|Marshall (U) Sword <br> {Nuramon}|Priest (M) Caped Staff <br> {topazlight}|
+|Marshall (U) Capeless Lance <br> {Nuramon}|Marshall (U) Capeless Sword <br> {Nuramon}|Marshall (U) Lance <br> {Nuramon}|Marshall (U) Sword Alt <br> {Nuramon}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Marshall (U) Lance {Nuramon}-stand" src="Marshall (U) Lance {Nuramon}-stand.png" />|<img alt="Marshall (U) Sword Alt {Nuramon}-stand" src="Marshall (U) Sword Alt {Nuramon}-stand.png" />|<img alt="Marshall (U) Sword {Nuramon}-stand" src="Marshall (U) Sword {Nuramon}-stand.png" />|<img alt="Priest (M) Caped Staff {topazlight}-stand" src="Priest (M) Caped Staff {topazlight}-stand.png" />|
+|<img alt="Marshall (U) Capeless Lance {Nuramon}-stand" src="Marshall (U) Capeless Lance {Nuramon}-stand.png" />|<img alt="Marshall (U) Capeless Sword {Nuramon}-stand" src="Marshall (U) Capeless Sword {Nuramon}-stand.png" />|<img alt="Marshall (U) Lance {Nuramon}-stand" src="Marshall (U) Lance {Nuramon}-stand.png" />|<img alt="Marshall (U) Sword Alt {Nuramon}-stand" src="Marshall (U) Sword Alt {Nuramon}-stand.png" />|
 
 
-|Sergeant (M) <br> {Spud}|
-| :---: |
-|<img alt="Sergeant (M) {Spud}-stand" src="Sergeant (M) {Spud}-stand.png" />|
+|Marshall (U) Sword <br> {Nuramon}|Priest (M) Caped Staff <br> {topazlight}|Sergeant (M) <br> {Spud}|
+| :---: | :---: | :---: |
+|<img alt="Marshall (U) Sword {Nuramon}-stand" src="Marshall (U) Sword {Nuramon}-stand.png" />|<img alt="Priest (M) Caped Staff {topazlight}-stand" src="Priest (M) Caped Staff {topazlight}-stand.png" />|<img alt="Sergeant (M) {Spud}-stand" src="Sergeant (M) {Spud}-stand.png" />|
 
 

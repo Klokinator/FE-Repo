@@ -43,33 +43,33 @@
 |<img alt="Great Knight (M) Alt Axe {Pikmin, L95, Der}-stand" src="Great Knight (M) Alt Axe {Pikmin, L95, Der}-stand.png" />|<img alt="Great Knight (M) Axe {IS}-stand" src="Great Knight (M) Axe {IS}-stand.png" />|<img alt="Horse (White) Moving {N426}" src="Horse (White) Moving {N426}.png" />|<img alt="Horse (White) Standing {N426}" src="Horse (White) Standing {N426}.png" />|
 
 
-|Horse Moving <br> {L95}|Horse Standing <br> {L95}|Master Knight (F) Lance <br> {Unknown}|Master Knight (M) Bow Knight Bow <br> {blood}|
+|Horse Moving <br> {L95}|Horse Standing 16x16 <br> {L95}|Horse Standing <br> {L95}|Master Knight (F) Lance <br> {Unknown}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Horse Moving {L95}" src="Horse Moving {L95}.bmp" />|<img alt="Horse Standing {L95}" src="Horse Standing {L95}.bmp" />|<img alt="Master Knight (F) Lance {Unknown}-stand" src="Master Knight (F) Lance {Unknown}-stand.png" />|<img alt="Master Knight (M) Bow Knight Bow {blood}-stand" src="Master Knight (M) Bow Knight Bow {blood}-stand.png" />|
+|<img alt="Horse Moving {L95}" src="Horse Moving {L95}.bmp" />|<img alt="Horse Standing 16x16 {L95}" src="Horse Standing 16x16 {L95}.png" />|<img alt="Horse Standing {L95}" src="Horse Standing {L95}.bmp" />|<img alt="Master Knight (F) Lance {Unknown}-stand" src="Master Knight (F) Lance {Unknown}-stand.png" />|
 
 
-|Master Knight (M) Lance <br> {Unknown}|Nomad (F) <br> {IS}|Nomad (M) <br> {IS}|Nomad Trooper (F) <br> {IS}|
+|Master Knight (M) Bow Knight Bow <br> {blood}|Master Knight (M) Lance <br> {Unknown}|Nomad (F) <br> {IS}|Nomad (M) <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Master Knight (M) Lance {Unknown}-stand" src="Master Knight (M) Lance {Unknown}-stand.png" />|<img alt="Nomad (F) {IS}-stand" src="Nomad (F) {IS}-stand.png" />|<img alt="Nomad (M) {IS}-stand" src="Nomad (M) {IS}-stand.png" />|<img alt="Nomad Trooper (F) {IS}-stand" src="Nomad Trooper (F) {IS}-stand.png" />|
+|<img alt="Master Knight (M) Bow Knight Bow {blood}-stand" src="Master Knight (M) Bow Knight Bow {blood}-stand.png" />|<img alt="Master Knight (M) Lance {Unknown}-stand" src="Master Knight (M) Lance {Unknown}-stand.png" />|<img alt="Nomad (F) {IS}-stand" src="Nomad (F) {IS}-stand.png" />|<img alt="Nomad (M) {IS}-stand" src="Nomad (M) {IS}-stand.png" />|
 
 
-|Nomad Trooper (M) <br> {IS}|Paladin (F) Axe <br> {L95}|Paladin (F) Lance <br> {L95}|Paladin (F) Ponytail Lance <br> {Tordo45}|
+|Nomad Trooper (F) <br> {IS}|Nomad Trooper (M) <br> {IS}|Paladin (F) Axe <br> {L95}|Paladin (F) Lance <br> {L95}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Nomad Trooper (M) {IS}-stand" src="Nomad Trooper (M) {IS}-stand.png" />|<img alt="Paladin (F) Axe {L95}-stand" src="Paladin (F) Axe {L95}-stand.png" />|<img alt="Paladin (F) Lance {L95}-stand" src="Paladin (F) Lance {L95}-stand.png" />|<img alt="Paladin (F) Ponytail Lance {Tordo45}-stand" src="Paladin (F) Ponytail Lance {Tordo45}-stand.png" />|
+|<img alt="Nomad Trooper (F) {IS}-stand" src="Nomad Trooper (F) {IS}-stand.png" />|<img alt="Nomad Trooper (M) {IS}-stand" src="Nomad Trooper (M) {IS}-stand.png" />|<img alt="Paladin (F) Axe {L95}-stand" src="Paladin (F) Axe {L95}-stand.png" />|<img alt="Paladin (F) Lance {L95}-stand" src="Paladin (F) Lance {L95}-stand.png" />|
 
 
-|Paladin (F) Ponytail Sword <br> {Unknown}|Paladin (F) Revision Lance <br> {flasuban, Tordo45}|Paladin (F) Sword <br> {RobertFPY}|Paladin (M) Bow <br> {Leif}|
+|Paladin (F) Ponytail Lance <br> {Tordo45}|Paladin (F) Ponytail Sword <br> {Unknown}|Paladin (F) Revision Lance <br> {flasuban, Tordo45}|Paladin (F) Sword <br> {RobertFPY}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (F) Ponytail Sword {Unknown}-stand" src="Paladin (F) Ponytail Sword {Unknown}-stand.png" />|<img alt="Paladin (F) Revision Lance {flasuban, Tordo45}-stand" src="Paladin (F) Revision Lance {flasuban, Tordo45}-stand.png" />|<img alt="Paladin (F) Sword {RobertFPY}-stand" src="Paladin (F) Sword {RobertFPY}-stand.png" />|<img alt="Paladin (M) Bow {Leif}-stand" src="Paladin (M) Bow {Leif}-stand.png" />|
+|<img alt="Paladin (F) Ponytail Lance {Tordo45}-stand" src="Paladin (F) Ponytail Lance {Tordo45}-stand.png" />|<img alt="Paladin (F) Ponytail Sword {Unknown}-stand" src="Paladin (F) Ponytail Sword {Unknown}-stand.png" />|<img alt="Paladin (F) Revision Lance {flasuban, Tordo45}-stand" src="Paladin (F) Revision Lance {flasuban, Tordo45}-stand.png" />|<img alt="Paladin (F) Sword {RobertFPY}-stand" src="Paladin (F) Sword {RobertFPY}-stand.png" />|
 
 
-|Paladin (M) Lance <br> {IS}|Paladin (M) v2 Axe <br> {RobertFPY}|Paladin (M) v2 Lance <br> {Pikmin}|Paladin (M) v2 Sword <br> {RobertFPY}|
+|Paladin (M) Bow <br> {Leif}|Paladin (M) Lance <br> {IS}|Paladin (M) v2 Axe <br> {RobertFPY}|Paladin (M) v2 Lance <br> {Pikmin}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (M) Lance {IS}-stand" src="Paladin (M) Lance {IS}-stand.png" />|<img alt="Paladin (M) v2 Axe {RobertFPY}-stand" src="Paladin (M) v2 Axe {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Lance {Pikmin}-stand" src="Paladin (M) v2 Lance {Pikmin}-stand.png" />|<img alt="Paladin (M) v2 Sword {RobertFPY}-stand" src="Paladin (M) v2 Sword {RobertFPY}-stand.png" />|
+|<img alt="Paladin (M) Bow {Leif}-stand" src="Paladin (M) Bow {Leif}-stand.png" />|<img alt="Paladin (M) Lance {IS}-stand" src="Paladin (M) Lance {IS}-stand.png" />|<img alt="Paladin (M) v2 Axe {RobertFPY}-stand" src="Paladin (M) v2 Axe {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Lance {Pikmin}-stand" src="Paladin (M) v2 Lance {Pikmin}-stand.png" />|
 
 
-|Ranger (F) Improved Bow <br> {flasuban}|Ranger (F) Rebecca Bow <br> {Teraspark}|Ranger (M) <br> {IS}|
-| :---: | :---: | :---: |
-|<img alt="Ranger (F) Improved Bow {flasuban}-stand" src="Ranger (F) Improved Bow {flasuban}-stand.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-stand" src="Ranger (F) Rebecca Bow {Teraspark}-stand.png" />|<img alt="Ranger (M) {IS}-stand" src="Ranger (M) {IS}-stand.png" />|
+|Paladin (M) v2 Sword <br> {RobertFPY}|Ranger (F) Improved Bow <br> {flasuban}|Ranger (F) Rebecca Bow <br> {Teraspark}|Ranger (M) <br> {IS}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Paladin (M) v2 Sword {RobertFPY}-stand" src="Paladin (M) v2 Sword {RobertFPY}-stand.png" />|<img alt="Ranger (F) Improved Bow {flasuban}-stand" src="Ranger (F) Improved Bow {flasuban}-stand.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-stand" src="Ranger (F) Rebecca Bow {Teraspark}-stand.png" />|<img alt="Ranger (M) {IS}-stand" src="Ranger (M) {IS}-stand.png" />|
 
 

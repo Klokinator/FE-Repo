@@ -53,8 +53,8 @@
 |<img alt="Wyvern Rider (F) Axe {flasuban}-stand" src="Wyvern Rider (F) Axe {flasuban}-stand.png" />|<img alt="Wyvern Rider (F) Lance {flasuban}-stand" src="Wyvern Rider (F) Lance {flasuban}-stand.png" />|<img alt="Wyvern Rider (M) Axe {flasuban}-stand" src="Wyvern Rider (M) Axe {flasuban}-stand.png" />|<img alt="Wyvern Rider (M) Lance {flasuban}-stand" src="Wyvern Rider (M) Lance {flasuban}-stand.png" />|
 
 
-|Wyvern Rider (U) Axe <br> {Unknown}|Wyvern Rider (U) Lance <br> {IS}|
-| :---: | :---: |
-|<img alt="Wyvern Rider (U) Axe {Unknown}-stand" src="Wyvern Rider (U) Axe {Unknown}-stand.png" />|<img alt="Wyvern Rider (U) Lance {IS}-stand" src="Wyvern Rider (U) Lance {IS}-stand.png" />|
+|Wyvern Rider (U) Axe <br> {Unknown}|Wyvern Rider (U) Lance <br> {IS}|Wyvern Wild (U) 16x16 <br> {Faeriefruit}|
+| :---: | :---: | :---: |
+|<img alt="Wyvern Rider (U) Axe {Unknown}-stand" src="Wyvern Rider (U) Axe {Unknown}-stand.png" />|<img alt="Wyvern Rider (U) Lance {IS}-stand" src="Wyvern Rider (U) Lance {IS}-stand.png" />|<img alt="Wyvern Wild (U) 16x16 {Faeriefruit}-stand" src="Wyvern Wild (U) 16x16 {Faeriefruit}-stand.png" />|
 
 

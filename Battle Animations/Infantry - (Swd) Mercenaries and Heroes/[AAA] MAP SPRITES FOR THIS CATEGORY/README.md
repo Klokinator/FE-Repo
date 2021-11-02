@@ -28,13 +28,13 @@
 |<img alt="Mercenary (M) Beta Edit {Unknown}-stand" src="Mercenary (M) Beta Edit {Unknown}-stand.png" />|<img alt="Mercenary (M) Beta {IS}-stand" src="Mercenary (M) Beta {IS}-stand.png" />|<img alt="Mercenary (M) Sword Improved {Flasuban}-stand" src="Mercenary (M) Sword Improved {Flasuban}-stand.png" />|<img alt="Mercenary (M) {IS}-stand" src="Mercenary (M) {IS}-stand.png" />|
 
 
-|Outlander (M) <br> {J-Treecko}|Villager (F) Sword <br> {HyperGammaSpaces}|Villager (F) v2 Sword <br> {HyperGammaSpaces}|Villager (M) Sword <br> {HyperGammaSpaces}|
+|Outlander (M) 16x16 <br> {J-Treecko}|Outlander (M) <br> {J-Treecko}|Villager (F) Sword <br> {HyperGammaSpaces}|Villager (F) v2 Sword <br> {HyperGammaSpaces}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Outlander (M) {J-Treecko}-stand" src="Outlander (M) {J-Treecko}-stand.png" />|<img alt="Villager (F) Sword {HyperGammaSpaces}-stand" src="Villager (F) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-stand" src="Villager (F) v2 Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (M) Sword {HyperGammaSpaces}-stand" src="Villager (M) Sword {HyperGammaSpaces}-stand.png" />|
+|<img alt="Outlander (M) 16x16 {J-Treecko}-stand" src="Outlander (M) 16x16 {J-Treecko}-stand.png" />|<img alt="Outlander (M) {J-Treecko}-stand" src="Outlander (M) {J-Treecko}-stand.png" />|<img alt="Villager (F) Sword {HyperGammaSpaces}-stand" src="Villager (F) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-stand" src="Villager (F) v2 Sword {HyperGammaSpaces}-stand.png" />|
 
 
-|Villager (M) v2 Sword <br> {HyperGammaSpaces}|
-| :---: |
-|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-stand" src="Villager (M) v2 Sword {HyperGammaSpaces}-stand.png" />|
+|Villager (M) Sword <br> {HyperGammaSpaces}|Villager (M) v2 Sword <br> {HyperGammaSpaces}|
+| :---: | :---: |
+|<img alt="Villager (M) Sword {HyperGammaSpaces}-stand" src="Villager (M) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-stand" src="Villager (M) v2 Sword {HyperGammaSpaces}-stand.png" />|
 
 

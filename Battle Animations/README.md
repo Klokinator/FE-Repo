@@ -2916,7 +2916,7 @@
 
 ### [\[Thief-Reskin\] \[F\] Zora's Winged Thief](https://git.io/Jn3TN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3co)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Reskin%5D%20%5BF%5D%20Zora's%20Winged%20Thief/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO5j"/> |
 | :---: |
 
 
@@ -3148,7 +3148,7 @@
 
 
 
-### [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Reskin%5D%20%5BM%5D%20Wallace%20by%20JeyTheCount) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cf)
+### [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](https://git.io/Jn3IH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cf)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOF8"/> |
 | :---: | :---: |
@@ -3616,7 +3616,7 @@
 
 ### [\[FE7 Lyn-Reskin\] \[F\] T2 Short Hair by Zoisite](https://git.io/JispK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jish4)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20Short%20Hair%20by%20Zoisite/1.%20Sword/Sword.gif"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/JisAU"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisxQ"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisxw"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://git.io/JisAU"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisxQ"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisb4"/> |
 
@@ -5341,6 +5341,14 @@
 
 
 
+### [\[Gorgon-Custom\] \[U\] Gorgon Eggs by Ryn](https://git.io/JPxxB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPxxR)
+
+| <b>Unarmed (Large)</b><br/><img alt="Unarmed (Large)" src="https://git.io/JPxx4"/> | <b>Unarmed (Medium)</b><br/><img alt="Unarmed (Medium)" src="https://git.io/JPxx8"/> | <b>Unarmed (Small)</b><br/><img alt="Unarmed (Small)" src="https://git.io/JPxxl"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Goyle-Base\] \[U\] Vanilla FE8 Deathgoyle](https://git.io/Jn3Yc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn384)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO9s"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO5D"/> |
@@ -6070,7 +6078,7 @@
 
 ### [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](https://git.io/Jn3YF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CH)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdK"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalry-Custom%5D%20Sigurd%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdK"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1l"/> |
 | :---: | :---: |
 
 

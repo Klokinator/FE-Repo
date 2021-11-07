@@ -1543,7 +1543,7 @@
 
 
 
-### [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38t)
+### [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://git.io/Jn3Ut) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38t)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOie"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrQ"/> |
 | :---: | :---: |
@@ -2186,7 +2186,7 @@
 
 
 
-### [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://git.io/Jn3kG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
+### [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAu"/> |
 | :---: | :---: |
@@ -2226,7 +2226,7 @@
 
 
 
-### [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](https://git.io/Jn3kK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94)
+### [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](https://git.io/Jn3kK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34X)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7w"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHj"/> |
 | :---: | :---: |
@@ -6940,7 +6940,7 @@
 
 ### [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ne)
 
-| <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/1.%20Sword%20%7BRawr776%7D/Sword.gif"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://git.io/JuuID"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> |
+| <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://git.io/JuuIy"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://git.io/JuuID"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKn"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOw4"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzy"/> |
 | <b>Bow (Palette Fix)</b><br/><img alt="Bow (Palette Fix)" src="https://git.io/JnORf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrE"/> |

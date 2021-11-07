@@ -48,7 +48,7 @@
 
 
 
-## [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://git.io/Jn3kG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
+## [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAu"/> |
 | :---: | :---: |
@@ -88,7 +88,7 @@
 
 
 
-## [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](https://git.io/Jn3kK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v2%20by%20Fuzz94)
+## [\[Myrmidon-Reskin\] \[M\] Jacket v2 by Fuzz94](https://git.io/Jn3kK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34X)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7w"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHj"/> |
 | :---: | :---: |

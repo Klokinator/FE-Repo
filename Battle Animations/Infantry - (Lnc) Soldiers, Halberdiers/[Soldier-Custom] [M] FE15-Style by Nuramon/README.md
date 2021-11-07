@@ -5,11 +5,9 @@
 
 ## Credits
 
-Original FE10-Style Soldier still by Jeorge Reds.
-
 FE10 Soldier animated by Flasuban.
 
-FE10 Revision by Nuramon.
+FE10 Enhanced Revision by Nuramon.
 
-FE15-Style Reskin by Nuramon.
+FE15-Style Reskin by Nuramon, based on Jeorge Red's still.
 

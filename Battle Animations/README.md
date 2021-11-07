@@ -2186,7 +2186,7 @@
 
 
 
-### [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BF%5D%20Long-Haired%20by%20Maiser6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
+### [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://git.io/Jn3kG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAu"/> |
 | :---: | :---: |
@@ -2853,7 +2853,7 @@
 
 ### [\[Thief-Base\] \[M\] Chad Vanilla FE6](https://git.io/Jn3kq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c1)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQc"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -5392,8 +5392,8 @@
 
 ### [\[Mogall-Base\] \[U\] Vanilla FE8 Arch Mogall](https://git.io/Jn3Yt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uo)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyG"/> |
-| :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyG"/> | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JX4d2"/> |
+| :---: | :---: |
 
 
 

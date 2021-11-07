@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by .
+Vanilla animation by IS.
+
+Melee Mogall by Epicer.

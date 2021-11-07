@@ -8,7 +8,7 @@
 
 
 
-## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://git.io/Jn3Ut) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38t)
+## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38t)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOie"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrQ"/> |
 | :---: | :---: |
@@ -178,9 +178,18 @@
 
 
 
-## [\[Soldier-Custom\] \[M\] FE10-Style by Flasuban](https://git.io/Jn3JS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn301)
+## [\[Soldier-Custom\] \[M\] FE10-Style by Nuramon](https://git.io/JX44W) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX44l)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOdD"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAg"/> |
+| <b>Lance (Angled, Slow)</b><br/><img alt="Lance (Angled, Slow)" src="https://git.io/JX4RH"/> | <b>Lance (Straight, Fast)</b><br/><img alt="Lance (Straight, Fast)" src="https://git.io/JX4RQ"/> | <b>Unarmed (Angled, Slow)</b><br/><img alt="Unarmed (Angled, Slow)" src="https://git.io/JX4R5"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed (Straight, Fast)</b><br/><img alt="Unarmed (Straight, Fast)" src="https://git.io/JX4R7"/> |
+
+
+
+
+## [\[Soldier-Custom\] \[M\] FE15-Style by Nuramon](https://git.io/JX4Cd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX4CN)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JX4CS"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX4CD"/> |
 | :---: | :---: |
 
 

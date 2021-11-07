@@ -8,4 +8,6 @@
 
 ## Credit
 
+Original FE10 Soldier still image by Jeorge Reds.
 
+Full Animation by Flasuban.

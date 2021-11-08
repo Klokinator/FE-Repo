@@ -1267,7 +1267,7 @@
 
 
 
-### [\[Ballista\] \[M\] FE5 Ballista by Spud](https://git.io/Jn3JK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38F)
+### [\[Ballista\] \[M\] FE5 Ballista by Spud](https://git.io/Jn3JK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOAb"/> | <b>Bow (Catapult)</b><br/><img alt="Bow (Catapult)" src="https://git.io/JnOp3"/> |
 | :---: | :---: |
@@ -2853,7 +2853,7 @@
 
 ### [\[Thief-Base\] \[M\] Chad Vanilla FE6](https://git.io/Jn3kq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c1)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Chad%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnONO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQc"/> |
 | :---: | :---: |
 
 
@@ -4464,7 +4464,7 @@
 
 ### [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](https://git.io/Jn3fz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34u)
 
-| <b>Staff (Buff Moulder Muscles)</b><br/><img alt="Staff (Buff Moulder Muscles)" src="https://git.io/JnOzZ"/> | <b>Staff (Buff Moulder)</b><br/><img alt="Staff (Buff Moulder)" src="https://git.io/JnORN"/> | <b>Unarmed (Buff Moulder)</b><br/><img alt="Unarmed (Buff Moulder)" src="https://git.io/JnOgg"/> |
+| <b>Staff (Buff Moulder Muscles)</b><br/><img alt="Staff (Buff Moulder Muscles)" src="https://git.io/JnOzZ"/> | <b>Staff (Buff Moulder)</b><br/><img alt="Staff (Buff Moulder)" src="https://git.io/JnORN"/> | <b>Unarmed (Buff Moulder)</b><br/><img alt="Unarmed (Buff Moulder)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Moulder)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -4940,6 +4940,14 @@
 ### [\[Sage-Reskin\] \[M\] Erk by Greentea](https://git.io/Jn3Id) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uT)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOPC"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOPW"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Sage-Reskin\] \[M\] FE6-FE7-Style +Pants by Levin64](https://git.io/JX2qo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX2q6)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JX2qw"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JX2qV"/> |
 | :---: | :---: |
 
 

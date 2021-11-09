@@ -2194,14 +2194,6 @@
 
 
 
-### [\[Myrmidon-Reskin\] \[F\] Lyn Lord-Style by Epicer](https://git.io/JX2cn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX2cW)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JX2cZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX2cG"/> |
-| :---: | :---: |
-
-
-
-
 ### [\[Myrmidon-Reskin\] \[F\] Marisa by Arkth](https://git.io/Jn3IY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34b)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnObG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHD"/> |
@@ -2253,6 +2245,14 @@
 ### [\[Myrmidon-Reskin\] \[M\] Leo_Link's Alt](https://git.io/Jn3td) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34A)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOHp"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Myrmidon-Style\] \[F\] Lyndis Reskin by Epicer](https://git.io/JX28H) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX28Q)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JX281"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX28y"/> |
 | :---: | :---: |
 
 

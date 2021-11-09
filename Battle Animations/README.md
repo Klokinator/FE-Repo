@@ -1267,7 +1267,7 @@
 
 
 
-### [\[Ballista\] \[M\] FE5 Ballista by Spud](https://git.io/Jn3JK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BBallista%5D%20%5BM%5D%20FE5%20Ballista%20by%20Spud)
+### [\[Ballista\] \[M\] FE5 Ballista by Spud](https://git.io/Jn3JK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38F)
 
 | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://git.io/JnOAb"/> | <b>Bow (Catapult)</b><br/><img alt="Bow (Catapult)" src="https://git.io/JnOp3"/> |
 | :---: | :---: |
@@ -2189,6 +2189,14 @@
 ### [\[Myrmidon-Reskin\] \[F\] Long-Haired by Maiser6](https://git.io/Jn3kG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ce)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAu"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Myrmidon-Reskin\] \[F\] Lyn Lord-Style by Epicer](https://git.io/JX2cn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX2cW)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JX2cZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX2cG"/> |
 | :---: | :---: |
 
 
@@ -4464,7 +4472,7 @@
 
 ### [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](https://git.io/Jn3fz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34u)
 
-| <b>Staff (Buff Moulder Muscles)</b><br/><img alt="Staff (Buff Moulder Muscles)" src="https://git.io/JnOzZ"/> | <b>Staff (Buff Moulder)</b><br/><img alt="Staff (Buff Moulder)" src="https://git.io/JnORN"/> | <b>Unarmed (Buff Moulder)</b><br/><img alt="Unarmed (Buff Moulder)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BPriest-Reskin%5D%20%5BM%5D%20Buff%20Moulder%20+Muscles%20by%20Vilkalizer/8.%20Unarmed%20(Buff%20Moulder)/Unarmed.gif"/> |
+| <b>Staff (Buff Moulder Muscles)</b><br/><img alt="Staff (Buff Moulder Muscles)" src="https://git.io/JnOzZ"/> | <b>Staff (Buff Moulder)</b><br/><img alt="Staff (Buff Moulder)" src="https://git.io/JnORN"/> | <b>Unarmed (Buff Moulder)</b><br/><img alt="Unarmed (Buff Moulder)" src="https://git.io/JnOgg"/> |
 | :---: | :---: | :---: |
 
 

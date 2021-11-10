@@ -173,8 +173,6 @@ C44                               #Play short "light emission" SFE
 C25                               #Play wing flap SFE
 C05                               #Call spell associated with equipped weapon
 2 p- Sword_026.png
-C1A                               #Normal hit
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
 C14                               #Heavy vibration of screen
 2 p- Sword_058.png
 2 p- Sword_059.png
@@ -240,7 +238,6 @@ C44                               #Play short "light emission" SFE
 C25                               #Play wing flap SFE
 C05                               #Call spell associated with equipped weapon
 2 p- Sword_052.png
-C1A                               #Normal hit
 C14                               #Heavy vibration of screen
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
 L                                 #LOOPSTART {

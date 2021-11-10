@@ -11,3 +11,5 @@
 Made by Blaze for Circleseverywhere's Ragefest submission.
 
 https://www.youtube.com/watch?v=Z_eTAGOmzqE
+
+This animation is ONLY free to use, not edit.

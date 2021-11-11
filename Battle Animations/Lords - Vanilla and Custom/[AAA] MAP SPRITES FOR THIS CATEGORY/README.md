@@ -8,9 +8,9 @@
 |<img alt="Blade Lord (F) Brave Lyn Bow {StreetHero}-stand" src="Blade Lord (F) Brave Lyn Bow {StreetHero}-stand.png" />|<img alt="Blade Lord (F) Brave Lyn Bow {StreetHero}-walk" src="Blade Lord (F) Brave Lyn Bow {StreetHero}-walk.png" />|<img alt="Blade Lord (F) Exalt Magic {FE7if}-stand" src="Blade Lord (F) Exalt Magic {FE7if}-stand.png" />|<img alt="Blade Lord (F) Exalt Magic {FE7if}-walk" src="Blade Lord (F) Exalt Magic {FE7if}-walk.png" />|
 
 
-|Blade Lord (F) Generic Sword <br> {AnnoyingAnon}|Blade Lord (F) Generic Sword.png-walk <br> {AnnoyingAnon}|Blade Lord (F) Kawaii Blader Sword <br> {blood}|Blade Lord (F) Kawaii Blader Sword-walk <br> {blood}|
+|Blade Lord (F) Generic Sword <br> {AnnoyingAnon}|Blade Lord (F) Generic Sword-walk <br> {AnnoyingAnon}|Blade Lord (F) Kawaii Blader Sword <br> {blood}|Blade Lord (F) Kawaii Blader Sword-walk <br> {blood}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Blade Lord (F) Generic Sword {AnnoyingAnon}-stand" src="Blade Lord (F) Generic Sword {AnnoyingAnon}-stand.png" />|<img alt="Blade Lord (F) Generic Sword {AnnoyingAnon}.png-walk" src="Blade Lord (F) Generic Sword {AnnoyingAnon}.png-walk.png" />|<img alt="Blade Lord (F) Kawaii Blader Sword {blood}-stand" src="Blade Lord (F) Kawaii Blader Sword {blood}-stand.png" />|<img alt="Blade Lord (F) Kawaii Blader Sword {blood}-walk" src="Blade Lord (F) Kawaii Blader Sword {blood}-walk.png" />|
+|<img alt="Blade Lord (F) Generic Sword {AnnoyingAnon}-stand" src="Blade Lord (F) Generic Sword {AnnoyingAnon}-stand.png" />|<img alt="Blade Lord (F) Generic Sword {AnnoyingAnon}-walk" src="Blade Lord (F) Generic Sword {AnnoyingAnon}-walk.png" />|<img alt="Blade Lord (F) Kawaii Blader Sword {blood}-stand" src="Blade Lord (F) Kawaii Blader Sword {blood}-stand.png" />|<img alt="Blade Lord (F) Kawaii Blader Sword {blood}-walk" src="Blade Lord (F) Kawaii Blader Sword {blood}-walk.png" />|
 
 
 |Blade Lord (F) Lyn Axe <br> {Vilkalizer, Morth}|Blade Lord (F) Lyn Axe-walk <br> {Vilkalizer, Morth}|Blade Lord (F) Lyn Sword <br> {IS}|Blade Lord (F) Lyn Sword-walk <br> {IS}|
@@ -78,9 +78,9 @@
 |<img alt="Lord (F) Hector Axe {Shin19}-stand" src="Lord (F) Hector Axe {Shin19}-stand.png" />|<img alt="Lord (F) Hector Axe {Shin19}-walk" src="Lord (F) Hector Axe {Shin19}-walk.png" />|<img alt="Lord (F) Lucina Sword {BatimaTheBat}-stand" src="Lord (F) Lucina Sword {BatimaTheBat}-stand.png" />|<img alt="Lord (F) Lucina Sword {BatimaTheBat}-walk" src="Lord (F) Lucina Sword {BatimaTheBat}-walk.png" />|
 
 
-|Lord (F) Lyn Axe 16x16.png <br> {Vilkalizer, Morth}|Lord (F) Lyn Axe-walk <br> {Vilkalizer, Morth}|Lord (F) Lyn Axe.png <br> {Vilkalizer, Morth}|Lord (F) Lyn Bow <br> {StreetHero}|
+|Lord (F) Lyn Axe 16x16 <br> {Vilkalizer, Morth}|Lord (F) Lyn Axe <br> {Vilkalizer, Morth}|Lord (F) Lyn Axe-walk <br> {Vilkalizer, Morth}|Lord (F) Lyn Bow <br> {StreetHero}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Lord (F) Lyn Axe 16x16 {Vilkalizer, Morth}.png-stand" src="Lord (F) Lyn Axe 16x16 {Vilkalizer, Morth}.png-stand.png" />|<img alt="Lord (F) Lyn Axe {Vilkalizer, Morth}-walk" src="Lord (F) Lyn Axe {Vilkalizer, Morth}-walk.png" />|<img alt="Lord (F) Lyn Axe {Vilkalizer, Morth}.png-stand" src="Lord (F) Lyn Axe {Vilkalizer, Morth}.png-stand.png" />|<img alt="Lord (F) Lyn Bow {StreetHero}-stand" src="Lord (F) Lyn Bow {StreetHero}-stand.png" />|
+|<img alt="Lord (F) Lyn Axe 16x16 {Vilkalizer, Morth}-stand" src="Lord (F) Lyn Axe 16x16 {Vilkalizer, Morth}-stand.png" />|<img alt="Lord (F) Lyn Axe {Vilkalizer, Morth}-stand" src="Lord (F) Lyn Axe {Vilkalizer, Morth}-stand.png" />|<img alt="Lord (F) Lyn Axe {Vilkalizer, Morth}-walk" src="Lord (F) Lyn Axe {Vilkalizer, Morth}-walk.png" />|<img alt="Lord (F) Lyn Bow {StreetHero}-stand" src="Lord (F) Lyn Bow {StreetHero}-stand.png" />|
 
 
 |Lord (F) Lyn Bow-walk <br> {StreetHero}|Lord (F) Lyn Sword <br> {IS}|Lord (F) Lyn Sword-walk <br> {IS}|Lord (F) Lyn T1 Short-Hair <br> {Merpin}|

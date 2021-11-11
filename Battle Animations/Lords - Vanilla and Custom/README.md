@@ -322,14 +322,6 @@
 
 
 
-## [\[FE7 Lyn-Reskin\] \[F\] T1 Awakening-Style Myrmidon](https://git.io/Jisxn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jispq)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNx"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFj"/> |
-| :---: | :---: |
-
-
-
-
 ## [\[FE7 Lyn-Reskin\] \[F\] T1 Short Hair by Zoisite](https://git.io/JispI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JispF)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbn"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisdA"/> |
@@ -379,22 +371,6 @@
 
 
 
-## [\[FE7 Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon](https://git.io/JisxO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jishw)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisN5"/> |
-| :---: | :---: |
-
-
-
-
-## [\[FE7 Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon Alt](https://git.io/JisAb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisxU)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisAI"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://git.io/JisbZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFv"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ## [\[FE7 Lyn-Style\] \[F\] Brave Lyn Nomad by RedBean](https://git.io/Jisp9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jishc)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisxy"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/Jisbs"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisx2"/> |
@@ -406,14 +382,6 @@
 ## [\[FE7 Lyn-Variant\] \[M\] Izarck by Yangfly](https://git.io/JispV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jishv)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisxa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisx7"/> |
-| :---: | :---: |
-
-
-
-
-## [\[FE7 Lyn-Variant\] \[M\] T1 Blader Myrmidon](https://git.io/JisA5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisxT)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisAT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisba"/> |
 | :---: | :---: |
 
 

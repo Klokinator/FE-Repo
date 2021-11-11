@@ -113,28 +113,28 @@
 |<img alt="Paladin (F) Ponytail Sword {Unknown}-stand" src="Paladin (F) Ponytail Sword {Unknown}-stand.png" />|<img alt="Paladin (F) Ponytail Sword {Unknown}-walk" src="Paladin (F) Ponytail Sword {Unknown}-walk.png" />|<img alt="Paladin (F) Revision Lance {flasuban, Tordo45}-stand" src="Paladin (F) Revision Lance {flasuban, Tordo45}-stand.png" />|<img alt="Paladin (F) Revision Lance {flasuban, Tordo45}-walk" src="Paladin (F) Revision Lance {flasuban, Tordo45}-walk.png" />|
 
 
-|Paladin (F) Sword <br> {RobertFPY}|Paladin (F) Sword-walk <br> {RobertFPY}|Paladin (M) Bow <br> {Leif}|Paladin (M) Bow-walk <br> {Leif}|
+|Paladin (F) Revision Sword <br> {Permafrost}|Paladin (F) Revision Sword-walk <br> {Permafrost}|Paladin (F) Sword <br> {RobertFPY}|Paladin (F) Sword-walk <br> {RobertFPY}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (F) Sword {RobertFPY}-stand" src="Paladin (F) Sword {RobertFPY}-stand.png" />|<img alt="Paladin (F) Sword {RobertFPY}-walk" src="Paladin (F) Sword {RobertFPY}-walk.png" />|<img alt="Paladin (M) Bow {Leif}-stand" src="Paladin (M) Bow {Leif}-stand.png" />|<img alt="Paladin (M) Bow {Leif}-walk" src="Paladin (M) Bow {Leif}-walk.png" />|
+|<img alt="Paladin (F) Revision Sword {Permafrost}-stand" src="Paladin (F) Revision Sword {Permafrost}-stand.png" />|<img alt="Paladin (F) Revision Sword {Permafrost}-walk" src="Paladin (F) Revision Sword {Permafrost}-walk.png" />|<img alt="Paladin (F) Sword {RobertFPY}-stand" src="Paladin (F) Sword {RobertFPY}-stand.png" />|<img alt="Paladin (F) Sword {RobertFPY}-walk" src="Paladin (F) Sword {RobertFPY}-walk.png" />|
 
 
-|Paladin (M) Lance <br> {IS}|Paladin (M) Lance-walk <br> {IS}|Paladin (M) v2 Axe <br> {RobertFPY}|Paladin (M) v2 Axe-walk <br> {RobertFPY}|
+|Paladin (M) Bow <br> {Leif}|Paladin (M) Bow-walk <br> {Leif}|Paladin (M) Lance <br> {IS}|Paladin (M) Lance-walk <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (M) Lance {IS}-stand" src="Paladin (M) Lance {IS}-stand.png" />|<img alt="Paladin (M) Lance {IS}-walk" src="Paladin (M) Lance {IS}-walk.png" />|<img alt="Paladin (M) v2 Axe {RobertFPY}-stand" src="Paladin (M) v2 Axe {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Axe {RobertFPY}-walk" src="Paladin (M) v2 Axe {RobertFPY}-walk.png" />|
+|<img alt="Paladin (M) Bow {Leif}-stand" src="Paladin (M) Bow {Leif}-stand.png" />|<img alt="Paladin (M) Bow {Leif}-walk" src="Paladin (M) Bow {Leif}-walk.png" />|<img alt="Paladin (M) Lance {IS}-stand" src="Paladin (M) Lance {IS}-stand.png" />|<img alt="Paladin (M) Lance {IS}-walk" src="Paladin (M) Lance {IS}-walk.png" />|
 
 
-|Paladin (M) v2 Lance <br> {Pikmin}|Paladin (M) v2 Lance-walk <br> {Pikmin}|Paladin (M) v2 Sword <br> {RobertFPY}|Paladin (M) v2 Sword-walk <br> {RobertFPY}|
+|Paladin (M) v2 Axe <br> {RobertFPY}|Paladin (M) v2 Axe-walk <br> {RobertFPY}|Paladin (M) v2 Lance <br> {Pikmin}|Paladin (M) v2 Lance-walk <br> {Pikmin}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (M) v2 Lance {Pikmin}-stand" src="Paladin (M) v2 Lance {Pikmin}-stand.png" />|<img alt="Paladin (M) v2 Lance {Pikmin}-walk" src="Paladin (M) v2 Lance {Pikmin}-walk.png" />|<img alt="Paladin (M) v2 Sword {RobertFPY}-stand" src="Paladin (M) v2 Sword {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Sword {RobertFPY}-walk" src="Paladin (M) v2 Sword {RobertFPY}-walk.png" />|
+|<img alt="Paladin (M) v2 Axe {RobertFPY}-stand" src="Paladin (M) v2 Axe {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Axe {RobertFPY}-walk" src="Paladin (M) v2 Axe {RobertFPY}-walk.png" />|<img alt="Paladin (M) v2 Lance {Pikmin}-stand" src="Paladin (M) v2 Lance {Pikmin}-stand.png" />|<img alt="Paladin (M) v2 Lance {Pikmin}-walk" src="Paladin (M) v2 Lance {Pikmin}-walk.png" />|
 
 
-|Ranger (F) Improved Bow <br> {flasuban}|Ranger (F) Improved Bow-walk <br> {flasuban}|Ranger (F) Rebecca Bow <br> {Teraspark}|Ranger (F) Rebecca Bow-walk <br> {Teraspark}|
+|Paladin (M) v2 Sword <br> {RobertFPY}|Paladin (M) v2 Sword-walk <br> {RobertFPY}|Ranger (F) Improved Bow <br> {flasuban}|Ranger (F) Improved Bow-walk <br> {flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Ranger (F) Improved Bow {flasuban}-stand" src="Ranger (F) Improved Bow {flasuban}-stand.png" />|<img alt="Ranger (F) Improved Bow {flasuban}-walk" src="Ranger (F) Improved Bow {flasuban}-walk.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-stand" src="Ranger (F) Rebecca Bow {Teraspark}-stand.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-walk" src="Ranger (F) Rebecca Bow {Teraspark}-walk.png" />|
+|<img alt="Paladin (M) v2 Sword {RobertFPY}-stand" src="Paladin (M) v2 Sword {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Sword {RobertFPY}-walk" src="Paladin (M) v2 Sword {RobertFPY}-walk.png" />|<img alt="Ranger (F) Improved Bow {flasuban}-stand" src="Ranger (F) Improved Bow {flasuban}-stand.png" />|<img alt="Ranger (F) Improved Bow {flasuban}-walk" src="Ranger (F) Improved Bow {flasuban}-walk.png" />|
 
 
-|Ranger (M) <br> {IS}|Ranger (M)-walk <br> {IS}|
-| :---: | :---: |
-|<img alt="Ranger (M) {IS}-stand" src="Ranger (M) {IS}-stand.png" />|<img alt="Ranger (M) {IS}-walk" src="Ranger (M) {IS}-walk.png" />|
+|Ranger (F) Rebecca Bow <br> {Teraspark}|Ranger (F) Rebecca Bow-walk <br> {Teraspark}|Ranger (M) <br> {IS}|Ranger (M)-walk <br> {IS}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Ranger (F) Rebecca Bow {Teraspark}-stand" src="Ranger (F) Rebecca Bow {Teraspark}-stand.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-walk" src="Ranger (F) Rebecca Bow {Teraspark}-walk.png" />|<img alt="Ranger (M) {IS}-stand" src="Ranger (M) {IS}-stand.png" />|<img alt="Ranger (M) {IS}-walk" src="Ranger (M) {IS}-walk.png" />|
 
 

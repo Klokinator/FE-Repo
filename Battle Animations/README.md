@@ -3254,7 +3254,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnORB"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnORV"/> | <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://git.io/JnO0T"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BM%5D%20Zelgius%20v2%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwa"/> |
 
 
 
@@ -3269,20 +3269,29 @@
 
 
 
-### [\[Zephiel-Reskin\] \[M\] King Zephiel Generic by Huichelaar](https://git.io/Jn3tQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CB)
+### [\[Zephiel-Reskin\] \[U\] Bulwark King by Leo Link](https://git.io/JX7Ja) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX7JV)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7m"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO1x"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOPP"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JX7Jm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JX7JW"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JX7J3"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOFP"/> | <b>Magic (With Sword)</b><br/><img alt="Magic (With Sword)" src="https://git.io/JnOM4"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOFT"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JX7Jl"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JX7Jn"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX7Jc"/> |
 
 
 
 
-### [\[Zephiel-Reskin\] \[M\] King Zephiel Generic Repal by Huichelaar](https://git.io/JuuIb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JuuIN)
+### [\[Zephiel-Reskin\] \[U\] Legion King by Huichelaar](https://git.io/JX7Jz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX7J2)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuId"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuIS"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuI7"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JX7JC"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JX7JG"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JX7Jt"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JuuIX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuuI9"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JX7Js"/> | <b>Magic (With Sword)</b><br/><img alt="Magic (With Sword)" src="https://git.io/JX7JO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX7JY"/> |
+
+
+
+
+### [\[Zephiel-Reskin\] \[U\] Legion King Repal by Huichelaar](https://git.io/JX7Ju) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX7Jg)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JX7JZ"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JX7JL"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JX7JI"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JX7Jq"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX7Jk"/> |
 
 
 
@@ -5515,7 +5524,7 @@
 
 
 
-### [\[Spider-Variant\] \[U\] Tarantula Wizard by Shtick](https://git.io/Jn3L5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20%5BU%5D%20Tarantula%20Wizard%20by%20Shtick)
+### [\[Spider-Variant\] \[U\] Tarantula Wizard by Shtick](https://git.io/Jn3L5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOVi"/> |
 | :---: |

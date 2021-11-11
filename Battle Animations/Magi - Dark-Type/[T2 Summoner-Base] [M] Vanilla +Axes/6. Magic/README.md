@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Axe and handaxe by Spud, TBA.
 
 Fixes to the magic animation(???) by Eldritch Abomination.
+
+Skeleton Bow summon by Jotari.

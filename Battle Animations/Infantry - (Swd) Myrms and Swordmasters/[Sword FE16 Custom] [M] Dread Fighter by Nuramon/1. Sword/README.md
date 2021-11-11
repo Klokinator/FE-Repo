@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Nuramon.
+
+Axe animation added by Jotari. Currently lacks a Handaxe.

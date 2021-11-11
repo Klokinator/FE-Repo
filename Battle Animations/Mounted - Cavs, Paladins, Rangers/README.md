@@ -99,9 +99,9 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1P"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnODE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOda"/> |
 | :---: | :---: | :---: |
-| <b>Bow (Tusk Attack)</b><br/><img alt="Bow (Tusk Attack)" src="https://git.io/JnO1o"/> | <b>Monster (Bld Tusk Crit)</b><br/><img alt="Monster (Bld Tusk Crit)" src="https://git.io/JnOQ0"/> | <b>Monster (Bld Tusk Fcs Atk)</b><br/><img alt="Monster (Bld Tusk Fcs Atk)" src="https://git.io/JnO9p"/> |
-| <b>Monster (Bld Tusk Trunk)</b><br/><img alt="Monster (Bld Tusk Trunk)" src="https://git.io/JnOxB"/> | <b>Monster (Trunk Swing)</b><br/><img alt="Monster (Trunk Swing)" src="https://git.io/JnOSW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMX"/> |
-| <b>Unarmed (Basic Melee Attack)</b><br/><img alt="Unarmed (Basic Melee Attack)" src="https://git.io/JnODI"/> |
+| <b>Bow (Tusk Attack)</b><br/><img alt="Bow (Tusk Attack)" src="https://git.io/JnO1o"/> | <b>Bow (Volley)</b><br/><img alt="Bow (Volley)" src="https://git.io/JXSSD"/> | <b>Monster (Bld Tusk Crit)</b><br/><img alt="Monster (Bld Tusk Crit)" src="https://git.io/JnOQ0"/> |
+| <b>Monster (Bld Tusk Fcs Atk)</b><br/><img alt="Monster (Bld Tusk Fcs Atk)" src="https://git.io/JnO9p"/> | <b>Monster (Bld Tusk Trunk)</b><br/><img alt="Monster (Bld Tusk Trunk)" src="https://git.io/JnOxB"/> | <b>Monster (Trunk Swing)</b><br/><img alt="Monster (Trunk Swing)" src="https://git.io/JnOSW"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMX"/> | <b>Unarmed (Basic Melee Attack)</b><br/><img alt="Unarmed (Basic Melee Attack)" src="https://git.io/JnODI"/> |
 
 
 

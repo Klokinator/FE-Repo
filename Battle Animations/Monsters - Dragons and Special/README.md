@@ -35,6 +35,38 @@
 
 
 
+## [\[Dragon-L95\] \[U\] Divine Dragon](https://git.io/JXSS7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSF)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSSH"/> |
+| :---: |
+
+
+
+
+## [\[Dragon-L95\] \[U\] Divine Dragon Tiki by Jotari](https://git.io/JXSSb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSS5"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JXSSM"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Dragon-L95\] \[U\] Earth Dragon](https://git.io/JXSSd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSp)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSS9"/> |
+| :---: |
+
+
+
+
+## [\[Dragon-L95\] \[U\] Mage Dragon](https://git.io/JXSSQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSx)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSSS"/> |
+| :---: |
+
+
+
+
 ## [\[Manakete-Base\] \[F\] FE8 Myrrh Repal Teraspark](https://git.io/Jn3Y4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30q)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO7W"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOD3"/> |
@@ -214,22 +246,6 @@
 
 
 
-## [\[Monster-Custom\] \[U\] Divine Dragon by L95](https://git.io/Jn3Y6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ey)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnObe"/> |
-| :---: |
-
-
-
-
-## [\[Monster-Custom\] \[U\] Earth Dragon by L95](https://git.io/Jn3Yg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ed)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnObT"/> |
-| :---: |
-
-
-
-
 ## [\[Monster-Custom\] \[U\] Elibian Nights Ice Dragon](https://git.io/Jn3OL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30k)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO7x"/> |
@@ -257,14 +273,6 @@
 ## [\[Monster-Custom\] \[U\] Kerendu](https://git.io/JPX2x) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPX2j)
 
 
-
-
-
-
-## [\[Monster-Custom\] \[U\] Mage Dragon by L95](https://git.io/Jn3YK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30f)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnOwm"/> |
-| :---: |
 
 
 

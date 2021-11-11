@@ -302,9 +302,9 @@
 
 ### [\[Berserker-Hawkeye\] \[F\] Hawkzerker by Maiser6](https://git.io/Jn3fs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EM)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOEo"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOEz"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO6m"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOEo"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JXSyk"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOEz"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOu5"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO6m"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JXSyI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOu5"/> |
 
 
 
@@ -2309,8 +2309,9 @@
 
 ### [\[Sword FE16 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/JK3DR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3Dz)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dn"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Ds"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3D3"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dn"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JXSSy"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Ds"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3D3"/> |
 
 
 
@@ -4075,9 +4076,9 @@
 
 ### [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](https://git.io/Jn3Lg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cs)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOyZ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOMh"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOMc"/> |
+| <b>Axe (Skeleton)</b><br/><img alt="Axe (Skeleton)" src="https://git.io/JXSSP"/> | <b>Handaxe (Skeleton)</b><br/><img alt="Handaxe (Skeleton)" src="https://git.io/JXSS1"/> | <b>Bow (Skeleton)</b><br/><img alt="Bow (Skeleton)" src="https://git.io/JXSSX"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOH4"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOMc"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOH4"/> |
 
 
 
@@ -5708,6 +5709,38 @@
 
 
 
+### [\[Dragon-L95\] \[U\] Divine Dragon](https://git.io/JXSS7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSF)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSSH"/> |
+| :---: |
+
+
+
+
+### [\[Dragon-L95\] \[U\] Divine Dragon Tiki by Jotari](https://git.io/JXSSb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSS5"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JXSSM"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Dragon-L95\] \[U\] Earth Dragon](https://git.io/JXSSd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSp)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSS9"/> |
+| :---: |
+
+
+
+
+### [\[Dragon-L95\] \[U\] Mage Dragon](https://git.io/JXSSQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSx)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSSS"/> |
+| :---: |
+
+
+
+
 ### [\[Manakete-Base\] \[F\] FE8 Myrrh Repal Teraspark](https://git.io/Jn3Y4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30q)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO7W"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOD3"/> |
@@ -5887,22 +5920,6 @@
 
 
 
-### [\[Monster-Custom\] \[U\] Divine Dragon by L95](https://git.io/Jn3Y6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ey)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnObe"/> |
-| :---: |
-
-
-
-
-### [\[Monster-Custom\] \[U\] Earth Dragon by L95](https://git.io/Jn3Yg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ed)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnObT"/> |
-| :---: |
-
-
-
-
 ### [\[Monster-Custom\] \[U\] Elibian Nights Ice Dragon](https://git.io/Jn3OL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30k)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO7x"/> |
@@ -5930,14 +5947,6 @@
 ### [\[Monster-Custom\] \[U\] Kerendu](https://git.io/JPX2x) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPX2j)
 
 
-
-
-
-
-### [\[Monster-Custom\] \[U\] Mage Dragon by L95](https://git.io/Jn3YK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30f)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnOwm"/> |
-| :---: |
 
 
 
@@ -6113,9 +6122,9 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1P"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnODE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOda"/> |
 | :---: | :---: | :---: |
-| <b>Bow (Tusk Attack)</b><br/><img alt="Bow (Tusk Attack)" src="https://git.io/JnO1o"/> | <b>Monster (Bld Tusk Crit)</b><br/><img alt="Monster (Bld Tusk Crit)" src="https://git.io/JnOQ0"/> | <b>Monster (Bld Tusk Fcs Atk)</b><br/><img alt="Monster (Bld Tusk Fcs Atk)" src="https://git.io/JnO9p"/> |
-| <b>Monster (Bld Tusk Trunk)</b><br/><img alt="Monster (Bld Tusk Trunk)" src="https://git.io/JnOxB"/> | <b>Monster (Trunk Swing)</b><br/><img alt="Monster (Trunk Swing)" src="https://git.io/JnOSW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMX"/> |
-| <b>Unarmed (Basic Melee Attack)</b><br/><img alt="Unarmed (Basic Melee Attack)" src="https://git.io/JnODI"/> |
+| <b>Bow (Tusk Attack)</b><br/><img alt="Bow (Tusk Attack)" src="https://git.io/JnO1o"/> | <b>Bow (Volley)</b><br/><img alt="Bow (Volley)" src="https://git.io/JXSSD"/> | <b>Monster (Bld Tusk Crit)</b><br/><img alt="Monster (Bld Tusk Crit)" src="https://git.io/JnOQ0"/> |
+| <b>Monster (Bld Tusk Fcs Atk)</b><br/><img alt="Monster (Bld Tusk Fcs Atk)" src="https://git.io/JnO9p"/> | <b>Monster (Bld Tusk Trunk)</b><br/><img alt="Monster (Bld Tusk Trunk)" src="https://git.io/JnOxB"/> | <b>Monster (Trunk Swing)</b><br/><img alt="Monster (Trunk Swing)" src="https://git.io/JnOSW"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMX"/> | <b>Unarmed (Basic Melee Attack)</b><br/><img alt="Unarmed (Basic Melee Attack)" src="https://git.io/JnODI"/> |
 
 
 

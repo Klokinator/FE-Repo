@@ -10,13 +10,9 @@
 
 Design by Pikmin1211
 
-Sword Animation by Maiser6
+Sword, Axe, Handaxe, and Unarmed by Maiser6.
 
-Axe animation by Maiser6
-
-Handaxe Animation by Maiser6
-
-Unarmed Animation by Maiser6
+Lance and Bow by ZoramineFae.
 
 Map Sprite by Pikmin1211 and DerTheVaporeon
 

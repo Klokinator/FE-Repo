@@ -33,18 +33,18 @@
 |<img alt="Monk (F) {Teraspark}-stand" src="Monk (F) {Teraspark}-stand.png" />|<img alt="Monk (F) {Teraspark}-walk" src="Monk (F) {Teraspark}-walk.png" />|<img alt="Monk (M) {IS}-stand" src="Monk (M) {IS}-stand.png" />|<img alt="Monk (M) {IS}-walk" src="Monk (M) {IS}-walk.png" />|
 
 
-|Patriarch (M) <br> {Unknown}|Patriarch (M)-walk <br> {Unknown}|Priest (M) Improved Staff <br> {flasuban}|Priest (M) Improved Staff-walk <br> {flasuban}|
+|Patriarch (M) <br> {Unknown}|Patriarch (M)-walk <br> {Unknown}|Priest (M) Caped Staff <br> {topazlight}|Priest (M) Caped Staff-walk <br> {topazlight}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Patriarch (M) {Unknown}-stand" src="Patriarch (M) {Unknown}-stand.png" />|<img alt="Patriarch (M) {Unknown}-walk" src="Patriarch (M) {Unknown}-walk.png" />|<img alt="Priest (M) Improved Staff {flasuban}-stand" src="Priest (M) Improved Staff {flasuban}-stand.png" />|<img alt="Priest (M) Improved Staff {flasuban}-walk" src="Priest (M) Improved Staff {flasuban}-walk.png" />|
+|<img alt="Patriarch (M) {Unknown}-stand" src="Patriarch (M) {Unknown}-stand.png" />|<img alt="Patriarch (M) {Unknown}-walk" src="Patriarch (M) {Unknown}-walk.png" />|<img alt="Priest (M) Caped Staff {topazlight}-stand" src="Priest (M) Caped Staff {topazlight}-stand.png" />|<img alt="Priest (M) Caped Staff {topazlight}-walk" src="Priest (M) Caped Staff {topazlight}-walk.png" />|
 
 
-|Priest (M) Staff <br> {IS}|Priest (M) Staff-walk <br> {IS}|Priest (M) Wrys <br> {Dominus_Vobiscum}|Priest (M) Wrys-walk <br> {Dominus_Vobiscum}|
+|Priest (M) Improved Staff <br> {flasuban}|Priest (M) Improved Staff-walk <br> {flasuban}|Priest (M) Staff <br> {IS}|Priest (M) Staff-walk <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Priest (M) Staff {IS}-stand" src="Priest (M) Staff {IS}-stand.png" />|<img alt="Priest (M) Staff {IS}-walk" src="Priest (M) Staff {IS}-walk.png" />|<img alt="Priest (M) Wrys {Dominus_Vobiscum}-stand" src="Priest (M) Wrys {Dominus_Vobiscum}-stand.png" />|<img alt="Priest (M) Wrys {Dominus_Vobiscum}-walk" src="Priest (M) Wrys {Dominus_Vobiscum}-walk.png" />|
+|<img alt="Priest (M) Improved Staff {flasuban}-stand" src="Priest (M) Improved Staff {flasuban}-stand.png" />|<img alt="Priest (M) Improved Staff {flasuban}-walk" src="Priest (M) Improved Staff {flasuban}-walk.png" />|<img alt="Priest (M) Staff {IS}-stand" src="Priest (M) Staff {IS}-stand.png" />|<img alt="Priest (M) Staff {IS}-walk" src="Priest (M) Staff {IS}-walk.png" />|
 
 
-|Saint (F) <br> {Melia}|Saint (F)-walk <br> {Melia}|
-| :---: | :---: |
-|<img alt="Saint (F) {Melia}-stand" src="Saint (F) {Melia}-stand.png" />|<img alt="Saint (F) {Melia}-walk" src="Saint (F) {Melia}-walk.png" />|
+|Priest (M) Wrys <br> {Dominus_Vobiscum}|Priest (M) Wrys-walk <br> {Dominus_Vobiscum}|Saint (F) <br> {Melia}|Saint (F)-walk <br> {Melia}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Priest (M) Wrys {Dominus_Vobiscum}-stand" src="Priest (M) Wrys {Dominus_Vobiscum}-stand.png" />|<img alt="Priest (M) Wrys {Dominus_Vobiscum}-walk" src="Priest (M) Wrys {Dominus_Vobiscum}-walk.png" />|<img alt="Saint (F) {Melia}-stand" src="Saint (F) {Melia}-stand.png" />|<img alt="Saint (F) {Melia}-walk" src="Saint (F) {Melia}-walk.png" />|
 
 

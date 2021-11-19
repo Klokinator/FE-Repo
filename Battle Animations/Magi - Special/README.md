@@ -8,14 +8,6 @@
 
 
 
-## [\[Custom Magi\] \[F\] Light Mage Micaiah by Cipher Lee](https://git.io/Jn3qI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30V)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOQt"/> |
-| :---: |
-
-
-
-
 ## [\[Custom Magi\] \[F\] Miko by RedBean](https://git.io/Jn3L6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EY)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO7M"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOHd"/> |

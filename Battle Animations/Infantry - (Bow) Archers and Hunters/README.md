@@ -256,6 +256,14 @@
 
 
 
+## [\[Crossbowman\] \[M\] Bowgunner by Epicer](https://git.io/J1CWy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1CWS)
+
+| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/J1CWK"/> |
+| :---: |
+
+
+
+
 ## [\[HunterD\] \[F\] Hunter by Deranger](https://git.io/Jn3f7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34x)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOoj"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrO"/> |

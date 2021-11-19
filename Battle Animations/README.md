@@ -1156,6 +1156,14 @@
 
 
 
+### [\[Crossbowman\] \[M\] Bowgunner by Epicer](https://git.io/J1CWy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1CWS)
+
+| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/J1CWK"/> |
+| :---: |
+
+
+
+
 ### [\[HunterD\] \[F\] Hunter by Deranger](https://git.io/Jn3f7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34x)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOoj"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrO"/> |
@@ -3313,6 +3321,30 @@
 <details>
 <summary>Click to expand!</summary>
 
+### [\[FE10 Lord Custom\] \[F\] Light Mage Micaiah by Cipher Lee](https://git.io/J1rqJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1rqk)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/J1rqe"/> |
+| :---: |
+
+
+
+
+### [\[FE4 Lord Custom\] Seliph by Obsidian Daddy](https://git.io/J1rtj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1rqf)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/J1rtp"/> |
+| :---: |
+
+
+
+
+### [\[FE4 Lord Custom\] Sigurd by Obsidian Daddy](https://git.io/J1rqv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1rqT)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/J1rtA"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/J1rtx"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[FE5 Lord Custom\] \[M\] Leif Lord by Obsidian Daddy](https://git.io/JisNK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisAQ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisdo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisbf"/> |
@@ -5102,14 +5134,6 @@
 
 
 
-### [\[Custom Magi\] \[F\] Light Mage Micaiah by Cipher Lee](https://git.io/Jn3qI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30V)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOQt"/> |
-| :---: |
-
-
-
-
 ### [\[Custom Magi\] \[F\] Miko by RedBean](https://git.io/Jn3L6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EY)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO7M"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOHd"/> |
@@ -6109,22 +6133,6 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpK"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpb"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOpM"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO5v"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOpH"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdO"/> |
-
-
-
-
-### [\[Cavalry-Custom\] Seliph by Obsidian Daddy](https://git.io/Jn3YH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CK)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO15"/> |
-| :---: |
-
-
-
-
-### [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](https://git.io/Jn3YF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CH)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdK"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1l"/> |
-| :---: | :---: |
 
 
 

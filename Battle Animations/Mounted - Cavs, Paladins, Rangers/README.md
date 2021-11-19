@@ -79,22 +79,6 @@
 
 
 
-## [\[Cavalry-Custom\] Seliph by Obsidian Daddy](https://git.io/Jn3YH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CK)
-
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO15"/> |
-| :---: |
-
-
-
-
-## [\[Cavalry-Custom\] Sigurd by Obsidian Daddy](https://git.io/Jn3YF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CH)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdK"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1l"/> |
-| :---: | :---: |
-
-
-
-
 ## [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](https://git.io/Jn3mo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nN)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1P"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnODE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOda"/> |

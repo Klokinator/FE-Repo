@@ -2526,7 +2526,7 @@
 
 ### [\[Swordmaster-Variant\] \[M\] FE10-Style by TBA](https://git.io/Jn3ty) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3W7)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSK"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://git.io/JnOim"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOik"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://git.io/JnOim"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOik"/> |
 | :---: | :---: | :---: |
 
 
@@ -6437,6 +6437,15 @@
 | :---: | :---: | :---: |
 | <b>Axe {Levin64}</b><br/><img alt="Axe {Levin64}" src="https://git.io/JnOFU"/> | <b>Handaxe {Levin64}</b><br/><img alt="Handaxe {Levin64}" src="https://git.io/JnOMB"/> | <b>Bow (RJ_Exists, Obsidian_Daddy)</b><br/><img alt="Bow (RJ_Exists, Obsidian_Daddy)" src="https://git.io/JnO1h"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOFk"/> |
+
+
+
+
+### [\[Paladin-Variant\] \[F\] SALVAGED-Style Titania](https://git.io/J17eq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J17eO)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/J17ek"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/J17et"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/J17eI"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/J17eL"/> |
 
 
 

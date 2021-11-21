@@ -1,5 +1,5 @@
 #######################################################
-#5D drmm_sp1 Harrier Bow
+#E9 lorm_sp1 Rogue Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

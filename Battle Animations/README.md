@@ -3894,7 +3894,7 @@
 
 ### [\[FE8 Ephraim-Custom\] \[F\] T2 Heavy Infantry by Nuramon](https://git.io/Jishr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishQ)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisFq"/> | <b>Sword (Artoria Excalibur Recolor)</b><br/><img alt="Sword (Artoria Excalibur Recolor)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Ephraim-Custom%5D%20%5BF%5D%20T2%20Heavy%20Infantry%20by%20Nuramon/1.%20Sword%20(Artoria%20Excalibur%20Recolor)/Sword.gif"/> | <b>Sword (Artoria Flashy Crit)</b><br/><img alt="Sword (Artoria Flashy Crit)" src="https://git.io/JisA0"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisFq"/> | <b>Sword (Artoria Excalibur Recolor)</b><br/><img alt="Sword (Artoria Excalibur Recolor)" src="https://git.io/JisAR"/> | <b>Sword (Artoria Flashy Crit)</b><br/><img alt="Sword (Artoria Flashy Crit)" src="https://git.io/JisA0"/> |
 | :---: | :---: | :---: |
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisFB"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisF3"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisA1"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisAE"/> |
@@ -3991,8 +3991,8 @@
 
 | <b>Sword (Alondite)</b><br/><img alt="Sword (Alondite)" src="https://git.io/JisFr"/> | <b>Sword (C48, FE7, and FE8)</b><br/><img alt="Sword (C48, FE7, and FE8)" src="https://git.io/JisF1"/> | <b>Axe (C47, FE7, and FE8)</b><br/><img alt="Axe (C47, FE7, and FE8)" src="https://git.io/JisFy"/> |
 | :---: | :---: | :---: |
-| <b>Axe (Urvan)</b><br/><img alt="Axe (Urvan)" src="https://git.io/JisFQ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisFw"/> | <b>Handaxe (Alt)</b><br/><img alt="Handaxe (Alt)" src="https://git.io/JisAZ"/> |
-| <b>Handaxe (Hatchet Alt)</b><br/><img alt="Handaxe (Hatchet Alt)" src="https://git.io/JisAG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFK"/> |
+| <b>Axe (Urvan Swing Frame Fix)</b><br/><img alt="Axe (Urvan Swing Frame Fix)" src="https://git.io/J1yvp"/> | <b>Axe (Urvan)</b><br/><img alt="Axe (Urvan)" src="https://git.io/JisFQ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisFw"/> |
+| <b>Handaxe (Alt)</b><br/><img alt="Handaxe (Alt)" src="https://git.io/JisAZ"/> | <b>Handaxe (Hatchet Alt)</b><br/><img alt="Handaxe (Hatchet Alt)" src="https://git.io/JisAG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFK"/> |
 
 
 

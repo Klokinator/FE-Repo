@@ -10,8 +10,10 @@
 
 Cipher Lee, DerTheVaporeon, Nuramon
 
+1. Sword (Alondite) (C47, FE7, and FE8) {Nuramon}
+
 3. Axe (C47, FE7, and FE8) {Nuramon}
 
-8. Legendary Axe (Urvan) (C48, FE7, and FE8)
+3. Axe (Urvan) (C48, FE7, and FE8)
 
-8. Legendary Sword (Alondite) (C47, FE7, and FE8) {Nuramon}
+Urvan Swing Frame Fix added by Sax Marine. This version of the Urvan makes the axe look like it's 'chopping' through enemies, rather than 'slapping' them with the broadside of the axe.

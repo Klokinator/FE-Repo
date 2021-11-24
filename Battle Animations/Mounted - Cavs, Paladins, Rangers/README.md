@@ -387,7 +387,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/J17ek"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/J17et"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/J17eI"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/J17eL"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/J17eL"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/J1jad"/> |
 
 
 

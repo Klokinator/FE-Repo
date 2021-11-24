@@ -136,7 +136,7 @@ const searchAnimations = async () => {
 				anim.weapons = anim.weapons.filter((weapon) => !!weapon)
 
 				anim.path = `${ROOT_DIR_SLUG}/${categoryDir}/${animDir}`
-				anim.uri = encodeURI(`${REPO_URL}/${anim.path}`)
+				anim.uri = encodeURI(`${REPO_URL}/${anim.path}`).replace("+", "%2B")
 				anim.gitio = await gitio(anim.uri)
 
 				anim.downloadUri = "https://minhaskamal.github.io/DownGit/#/home?url=" + anim.uri

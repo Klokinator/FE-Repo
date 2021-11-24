@@ -29,7 +29,7 @@ const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download--red?
  * @returns {String}
  */
 const makeWeaponReadmeText = ({anim, weapon, path}) => (
-	`# [${escapeParens(anim.name)}](./) [${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path)})
+	`# [${escapeParens(anim.name)}](./) [${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path).replace("+", "%2B")})
 
 ## ${weapon.type}
 

@@ -1,4 +1,4 @@
-# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](https://git.io/Jn3T3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cZ)
+# [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](https://git.io/J1jrM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKk)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdx"/> | <b>Sword (Alt)</b><br/><img alt="Sword (Alt)" src="https://git.io/JnON5"/> | <b>Sword (Fixed Animation)</b><br/><img alt="Sword (Fixed Animation)" src="https://git.io/JnObg"/> |
 | :---: | :---: | :---: |

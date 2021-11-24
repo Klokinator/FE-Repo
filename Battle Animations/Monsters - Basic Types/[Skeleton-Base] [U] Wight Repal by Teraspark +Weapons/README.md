@@ -1,4 +1,4 @@
-# [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](https://git.io/Jn3La) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34n)
+# [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](https://git.io/J1jKg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6A)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOKm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOHm"/> | <b>Axe (Handaxe Ranged)</b><br/><img alt="Axe (Handaxe Ranged)" src="https://git.io/JnOyF"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[MK-Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3O1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eg)
+# [\[MK-Base\] \[F\] Vanilla +Weapons](https://git.io/J1jwA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joW)
 
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://git.io/JnOrz"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://git.io/JnO6a"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOos"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[FE7 Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](https://git.io/JisAF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisxI)
+# [\[FE7 Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](https://git.io/J1jiz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jix)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisN2"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisNi"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JisN0"/> |
 | :---: | :---: | :---: |

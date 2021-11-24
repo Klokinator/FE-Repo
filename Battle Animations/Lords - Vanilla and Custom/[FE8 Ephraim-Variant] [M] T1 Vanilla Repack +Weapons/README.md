@@ -1,4 +1,4 @@
-# [\[FE8 Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](https://git.io/Jispw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishY)
+# [\[FE8 Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](https://git.io/J1jKy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiI)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisFH"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JisFS"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisF5"/> |
 | :---: | :---: | :---: |

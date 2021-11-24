@@ -1,4 +1,4 @@
-# [\[General-Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3kP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CU)
+# [\[General-Base\] \[U\] Vanilla +Weapons](https://git.io/J1jiT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jib)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2K"/> | <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JzWei"/> | <b>Sword (Greatsword) {JPN}</b><br/><img alt="Sword (Greatsword) {JPN}" src="https://git.io/JnOxa"/> |
 | :---: | :---: | :---: |

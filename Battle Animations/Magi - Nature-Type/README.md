@@ -1,6 +1,6 @@
 # [Magi - Nature-Type Battle Animations](./)
 
-## [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff](https://git.io/Jn3L8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ls)
+## [\[Mage-Base\] \[F\] Vanilla FE6 Lilina +Staff](https://git.io/J1jrA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKW)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXI"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPn"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOPL"/> |
 | :---: | :---: | :---: |
@@ -16,7 +16,7 @@
 
 
 
-## [\[Mage-Base\] \[F\] Vanilla FE7-8 +Fix by Shin19](https://git.io/Jn3II) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lW)
+## [\[Mage-Base\] \[F\] Vanilla FE7-8 +Fix by Shin19](https://git.io/J1jKb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji0)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOiN"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic (Fixed) {Shin19}" src="https://git.io/JnOPm"/> | <b>Staff {7743}</b><br/><img alt="Staff {7743}" src="https://git.io/JE23c"/> |
 | :---: | :---: | :---: |
@@ -24,7 +24,7 @@
 
 
 
-## [\[Mage-Base\] \[M\] Vanilla FE6 +Fix by Shin19](https://git.io/Jn3q9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ue)
+## [\[Mage-Base\] \[M\] Vanilla FE6 +Fix by Shin19](https://git.io/J1jrP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joy)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOPE"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQ7"/> |
 | :---: | :---: |
@@ -32,7 +32,7 @@
 
 
 
-## [\[Mage-Base\] \[M\] Vanilla FE7-8 +Fix by Shin19](https://git.io/Jn3IB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lG)
+## [\[Mage-Base\] \[M\] Vanilla FE7-8 +Fix by Shin19](https://git.io/J1jiO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyx"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnO78"/> |
 | :---: | :---: |
@@ -112,7 +112,7 @@
 
 
 
-## [\[Mage-Reskin\] \[F\] Hat +Staff by RetroGamer](https://git.io/JKGfc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf4)
+## [\[Mage-Reskin\] \[F\] Hat +Staff by RetroGamer](https://git.io/J1jrD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joD)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JKGvd"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JKGv5"/> |
 | :---: | :---: |
@@ -168,7 +168,7 @@
 
 
 
-## [\[Pupil-Base\] \[M\] Vanilla FE8 +Staff by Citrus](https://git.io/Jn3IM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3u3)
+## [\[Pupil-Base\] \[M\] Vanilla FE8 +Staff by Citrus](https://git.io/J1jis) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji7)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOX2"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOP9"/> |
 | :---: | :---: |
@@ -192,7 +192,7 @@
 
 
 
-## [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](https://git.io/Jn3Iu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z3)
+## [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](https://git.io/J1jrb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jod)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXd"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnO5K"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPr"/> |
 | :---: | :---: | :---: |
@@ -201,7 +201,7 @@
 
 
 
-## [\[Sage-Base\] \[F\] Vanilla FE7 Nino +Fixes](https://git.io/Jn3LJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uz)
+## [\[Sage-Base\] \[F\] Vanilla FE7 Nino +Fixes](https://git.io/J1joq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKs)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXG"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOXJ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5i"/> |
 | :---: | :---: | :---: |
@@ -209,7 +209,7 @@
 
 
 
-## [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](https://git.io/Jn3qS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3u8)
+## [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](https://git.io/J1jrm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6C)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOHz"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQQ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO9I"/> |
 | :---: | :---: | :---: |
@@ -217,7 +217,7 @@
 
 
 
-## [\[Sage-Base\] \[M\] Vanilla FE6 +Fixes](https://git.io/Jn3L9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3u0)
+## [\[Sage-Base\] \[M\] Vanilla FE6 +Fixes](https://git.io/J1jK9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPL)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOX7"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOd2"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFu"/> |
 | :---: | :---: | :---: |
@@ -257,7 +257,7 @@
 
 
 
-## [\[Sage-Custom\] \[F\] Limstella v3 by Greentea +Palettes](https://git.io/Jn3LA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ul)
+## [\[Sage-Custom\] \[F\] Limstella v3 by Greentea +Palettes](https://git.io/J1jor) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKN)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOPa"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO74"/> |
 | :---: | :---: |
@@ -322,7 +322,7 @@
 
 
 
-## [\[Sage-Reskin\] \[M\] FE6-FE7-Style +Pants by Levin64](https://git.io/JX2qo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX2q6)
+## [\[Sage-Reskin\] \[M\] FE6-FE7-Style +Pants by Levin64](https://git.io/J1jKq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji2)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JX2qw"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JX2qV"/> |
 | :---: | :---: |
@@ -378,7 +378,7 @@
 
 
 
-## [\[Sage-Variant\] \[F\] Battle Sage +Sword by St jack](https://git.io/Jn3fU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lw)
+## [\[Sage-Variant\] \[F\] Battle Sage +Sword by St jack](https://git.io/J1jwP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKl)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOuW"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzm"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOV0"/> |
 | :---: | :---: | :---: |
@@ -402,7 +402,7 @@
 
 
 
-## [\[Sage-Variant\] \[M\] Battle Sage +Weapons](https://git.io/Jn3LH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uI)
+## [\[Sage-Variant\] \[M\] Battle Sage +Weapons](https://git.io/J1joV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKh)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4o"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwd"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO4b"/> |
 | :---: | :---: | :---: |
@@ -418,7 +418,7 @@
 
 
 
-## [\[T3 FE7\] \[M\] Archsage Athos +Fixes](https://git.io/Jn3Ll) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uC)
+## [\[T3 FE7\] \[M\] Archsage Athos +Fixes](https://git.io/J1jK7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiL)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBm"/> | <b>Magic (Alt Particles)</b><br/><img alt="Magic (Alt Particles)" src="https://git.io/JnOBZ"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOrr"/> |
 | :---: | :---: | :---: |

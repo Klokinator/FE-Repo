@@ -1,4 +1,4 @@
-# [\[Cavalier-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3Yi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rj)
+# [\[Cavalier-Base\] \[M\] Vanilla +Weapons](https://git.io/J1j6S) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji9)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1k"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOp7"/> | <b>Axe (Alt1)</b><br/><img alt="Axe (Alt1)" src="https://git.io/JnOXf"/> |
 | :---: | :---: | :---: |

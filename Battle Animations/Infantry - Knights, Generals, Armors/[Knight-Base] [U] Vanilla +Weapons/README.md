@@ -1,4 +1,4 @@
-# [\[Knight-Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3kI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cH)
+# [\[Knight-Base\] \[U\] Vanilla +Weapons](https://git.io/J1jrQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joF)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOxF"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOxy"/> | <b>Lance (Smooth)</b><br/><img alt="Lance (Smooth)" src="https://git.io/JnOpJ"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[Bard-Base\] \[M\] Nils +Weapons](https://git.io/Jn3Lz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RZ)
+# [\[Bard-Base\] \[M\] Nils +Weapons](https://git.io/J1jKu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6z)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnON4"/> | <b>Staff (+Magic)</b><br/><img alt="Staff (+Magic)" src="https://git.io/JnOQq"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnONJ"/> |
 | :---: | :---: | :---: |

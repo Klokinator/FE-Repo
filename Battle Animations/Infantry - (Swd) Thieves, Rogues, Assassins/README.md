@@ -1,6 +1,6 @@
 # [Infantry - (Swd) Thieves, Rogues, Assassins Battle Animations](./)
 
-## [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](https://git.io/Jn3T3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cZ)
+## [\[Assassin-Base\] \[M\] Jaffar Vanilla +Weapons](https://git.io/J1jrM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKk)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdx"/> | <b>Sword (Alt)</b><br/><img alt="Sword (Alt)" src="https://git.io/JnON5"/> | <b>Sword (Fixed Animation)</b><br/><img alt="Sword (Fixed Animation)" src="https://git.io/JnObg"/> |
 | :---: | :---: | :---: |
@@ -10,7 +10,7 @@
 
 
 
-## [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](https://git.io/Jn3UM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ci)
+## [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](https://git.io/J1j6t) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiC)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhO"/> | <b>Bow {Andy, SD9K}</b><br/><img alt="Bow {Andy, SD9K}" src="https://git.io/JnOhr"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdG"/> |
 | :---: | :---: | :---: |
@@ -50,7 +50,7 @@
 
 
 
-## [\[Assassin-Reskin\] \[F\] Ponytail +Bow](https://git.io/Jn3tD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cs)
+## [\[Assassin-Reskin\] \[F\] Ponytail +Bow](https://git.io/J1jiG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji5)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODq"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOar"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOS6"/> |
 | :---: | :---: | :---: |
@@ -58,7 +58,7 @@
 
 
 
-## [\[Assassin-Reskin\] \[F\] Ponytail +Skirt](https://git.io/Jn3TX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ca)
+## [\[Assassin-Reskin\] \[F\] Ponytail +Skirt](https://git.io/J1jrg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6U)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAZ"/> |
 | :---: | :---: |
@@ -66,7 +66,7 @@
 
 
 
-## [\[Assassin-Reskin\] \[M\] Hoodless +Bow](https://git.io/Jn3U5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cP)
+## [\[Assassin-Reskin\] \[M\] Hoodless +Bow](https://git.io/J1jKO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6M)
 
 | <b>Sword (Fixed)</b><br/><img alt="Sword (Fixed)" src="https://git.io/JnOiY"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOHE"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSq"/> |
 | :---: | :---: | :---: |
@@ -74,7 +74,7 @@
 
 
 
-## [\[Assassin-Reskin\] \[M\] Jaffar +Shirt by Glenwing](https://git.io/Jn3tK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cn)
+## [\[Assassin-Reskin\] \[M\] Jaffar +Shirt by Glenwing](https://git.io/J1jKR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6a)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOws"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOhB"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAo"/> |
 | :---: | :---: | :---: |
@@ -138,7 +138,7 @@
 
 
 
-## [\[Rogue-Base\] \[M\] Repal +Staff \(Community Effort\)](https://git.io/Jn3U8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cC)
+## [\[Rogue-Base\] \[M\] Repal +Staff \(Community Effort\)](https://git.io/J1jiK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPv)
 
 | <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnOps"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOAF"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOpG"/> |
 | :---: | :---: | :---: |
@@ -155,7 +155,7 @@
 
 
 
-## [\[Rogue-Base\] \[M\] Vanilla +Staff](https://git.io/Jn3Tp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cX)
+## [\[Rogue-Base\] \[M\] Vanilla +Staff](https://git.io/J1jrn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joa)
 
 | <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnObW"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOaw"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnONx"/> |
 | :---: | :---: | :---: |
@@ -172,7 +172,7 @@
 
 
 
-## [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife](https://git.io/Jn3t6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cu)
+## [\[Rogue-Reskin\] \[F\] Long Hair by eCut +Knife](https://git.io/J1jrO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6E)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOST"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOwG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOiS"/> |
 | :---: | :---: | :---: |
@@ -188,7 +188,7 @@
 
 
 
-## [\[Rogue-Reskin\] \[F\] Repal +Staff](https://git.io/Jn3TZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c0)
+## [\[Rogue-Reskin\] \[F\] Repal +Staff](https://git.io/J1jrr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo6)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOit"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOSn"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOiV"/> |
 | :---: | :---: | :---: |
@@ -197,7 +197,7 @@
 
 
 
-## [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](https://git.io/Jn3TA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cK)
+## [\[Rogue-Reskin\] \[F\] Repal +Staff by Feaw](https://git.io/J1jrx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKI)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrq"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOAd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKl"/> |
 | :---: | :---: | :---: |
@@ -205,7 +205,7 @@
 
 
 
-## [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](https://git.io/Jn3T5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cg)
+## [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](https://git.io/J1jri) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joM)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOig"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOAN"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnObz"/> |
 | :---: | :---: | :---: |
@@ -263,7 +263,7 @@
 
 
 
-## [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Knife](https://git.io/Jn3TU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CO)
+## [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Knife](https://git.io/J1jry) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKf)
 
 | <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnOMu"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMz"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQF"/> |
 | :---: | :---: | :---: |
@@ -303,7 +303,7 @@
 
 
 
-## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](https://git.io/Jn3t1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cy)
+## [\[Thief-Base\] \[M\] Matthew by GabrielKnight +Knife](https://git.io/J1jrH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo5)
 
 | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnO7P"/> |
 | :---: |
@@ -319,7 +319,7 @@
 
 
 
-## [\[Thief-Base\] \[M\] Matthew Repal by Pikmin +Knife](https://git.io/Jn3TV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3W5)
+## [\[Thief-Base\] \[M\] Matthew Repal by Pikmin +Knife](https://git.io/J1j6V) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiP)
 
 | <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnO5z"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb4"/> |
 | :---: | :---: | :---: |
@@ -335,7 +335,7 @@
 
 
 
-## [\[Thief-Base\] \[M\] Vanilla FE7 Legault Repal +Knife](https://git.io/Jn3TP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cM)
+## [\[Thief-Base\] \[M\] Vanilla FE7 Legault Repal +Knife](https://git.io/J1jir) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jij)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON3"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOD7"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODy"/> |
 | :---: | :---: | :---: |

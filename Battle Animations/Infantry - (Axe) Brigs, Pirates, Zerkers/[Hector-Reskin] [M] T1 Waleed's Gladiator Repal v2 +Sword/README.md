@@ -1,4 +1,4 @@
-# [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](https://git.io/JisMD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDs)
+# [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](https://git.io/J1jrC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6W)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis6S"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis6H"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6d"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[T3 Dark Druid\] \[M\] Nergal +Fixes](https://git.io/Jn3qn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CG)
+# [\[T3 Dark Druid\] \[M\] Nergal +Fixes](https://git.io/J1j6N) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jii)
 
 | <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://git.io/JnOdH"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic (FE8 Adv)" src="https://git.io/JnOdM"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic (FE8 Basic)" src="https://git.io/JnO7Q"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](https://git.io/Jn3LF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ES)
+# [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](https://git.io/J1jwo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jr0)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO95"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://git.io/JnOPw"/> |
 | :---: | :---: |

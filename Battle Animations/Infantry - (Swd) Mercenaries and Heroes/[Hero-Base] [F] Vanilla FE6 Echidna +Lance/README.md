@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](https://git.io/Jn3Us) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lZ)
+# [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](https://git.io/J1jr3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo2)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOj3"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOjW"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO6Q"/> |
 | :---: | :---: | :---: |

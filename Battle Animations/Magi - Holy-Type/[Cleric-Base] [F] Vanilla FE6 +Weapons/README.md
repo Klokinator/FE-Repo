@@ -1,4 +1,4 @@
-# [\[Cleric-Base\] \[F\] Vanilla FE6 +Weapons](https://git.io/Jn3Ij) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30u)
+# [\[Cleric-Base\] \[F\] Vanilla FE6 +Weapons](https://git.io/J1jrj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKn)
 
 | <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://git.io/JnOrT"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://git.io/JnOXM"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwV"/> |
 | :---: | :---: | :---: |

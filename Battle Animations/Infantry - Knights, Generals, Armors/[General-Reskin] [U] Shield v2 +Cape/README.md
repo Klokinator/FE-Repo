@@ -1,4 +1,4 @@
-# [\[General-Reskin\] \[U\] Shield v2 +Cape](https://git.io/Jn3Tj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cS)
+# [\[General-Reskin\] \[U\] Shield v2 +Cape](https://git.io/J1jrS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo9)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpV"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOhR"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx5"/> |
 | :---: | :---: | :---: |

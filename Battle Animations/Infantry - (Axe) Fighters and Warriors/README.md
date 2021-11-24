@@ -1,6 +1,6 @@
 # [Infantry - (Axe) Fighters and Warriors Battle Animations](./)
 
-## [\[Fighter-Base\] \[M\] Vanilla +Sword](https://git.io/Jn3UO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zv)
+## [\[Fighter-Base\] \[M\] Vanilla +Sword](https://git.io/J1jrc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joP)
 
 | <b>Sword (Hector) (Vilkalizer)</b><br/><img alt="Sword (Hector) (Vilkalizer)" src="https://git.io/JnO0J"/> | <b>Sword (Vilkalizer)</b><br/><img alt="Sword (Vilkalizer)" src="https://git.io/JnORo"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOwu"/> |
 | :---: | :---: | :---: |
@@ -105,7 +105,7 @@
 
 
 
-## [\[Journeyman-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3J0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3R2)
+## [\[Journeyman-Base\] \[M\] Vanilla +Weapons](https://git.io/J1jrW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joS)
 
 | <b>Sword {Waleed}</b><br/><img alt="Sword {Waleed}" src="https://git.io/JnOus"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzY"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOuy"/> |
 | :---: | :---: | :---: |
@@ -164,7 +164,7 @@
 
 
 
-## [\[Warrior-Base\] \[M\] Vanilla +Magic](https://git.io/Jn3fj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38p)
+## [\[Warrior-Base\] \[M\] Vanilla +Magic](https://git.io/J1jKj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6i)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO0P"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO0E"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0r"/> |
 | :---: | :---: | :---: |

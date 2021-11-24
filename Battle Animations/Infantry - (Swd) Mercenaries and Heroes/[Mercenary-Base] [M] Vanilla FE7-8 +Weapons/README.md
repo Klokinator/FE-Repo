@@ -1,4 +1,4 @@
-# [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](https://git.io/Jn3tO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn307)
+# [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](https://git.io/J1j6k) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiu)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFN"/> | <b>Sword (Greatsword)</b><br/><img alt="Sword (Greatsword)" src="https://git.io/JnO52"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOP0"/> |
 | :---: | :---: | :---: |

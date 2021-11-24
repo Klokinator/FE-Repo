@@ -1,4 +1,4 @@
-# [\[Boss-Base\] \[U\] Vanilla Demon King +FE6-7](https://git.io/Jn3YA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn303)
+# [\[Boss-Base\] \[U\] Vanilla Demon King +FE6-7](https://git.io/J1jrt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joz)
 
 | <b>Magic {SHYUTERz}</b><br/><img alt="Magic {SHYUTERz}" src="https://git.io/JnOFw"/> | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOMT"/> | <b>Monster (Arm)</b><br/><img alt="Monster (Arm)" src="https://git.io/JnODs"/> |
 | :---: | :---: | :---: |

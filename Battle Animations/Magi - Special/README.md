@@ -32,7 +32,7 @@
 
 
 
-## [\[Custom Magi\] \[F\] Sister +Mag by Mikey Seregon](https://git.io/Jn3I5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30g)
+## [\[Custom Magi\] \[F\] Sister +Mag by Mikey Seregon](https://git.io/J1jrT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6T)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOQ8"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOPX"/> |
 | :---: | :---: |
@@ -64,7 +64,7 @@
 
 
 
-## [\[Custom Magi\] \[M\] Vanilla FE7 Kishuna +Magic](https://git.io/Jn3qJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ET)
+## [\[Custom Magi\] \[M\] Vanilla FE7 Kishuna +Magic](https://git.io/J1j6R) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6x)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOi9"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO2P"/> |
 | :---: | :---: |
@@ -80,7 +80,7 @@
 
 
 
-## [\[Custom Oracle\] \[F\] Oracle Repal +Staff](https://git.io/Jn3IA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EW)
+## [\[Custom Oracle\] \[F\] Oracle Repal +Staff](https://git.io/J1jr1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKv)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyb"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOyt"/> |
 | :---: | :---: |

@@ -1,6 +1,6 @@
 # [Infantry - (Swd) Mercenaries and Heroes Battle Animations](./)
 
-## [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](https://git.io/Jn3Us) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lZ)
+## [\[Hero-Base\] \[F\] Vanilla FE6 Echidna +Lance](https://git.io/J1jr3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo2)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOj3"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOjW"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO6Q"/> |
 | :---: | :---: | :---: |
@@ -9,7 +9,7 @@
 
 
 
-## [\[Hero-Base\] \[M\] Vanilla FE6 +Basic Shield](https://git.io/Jn3tX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RI)
+## [\[Hero-Base\] \[M\] Vanilla FE6 +Basic Shield](https://git.io/J1jKV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6w)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOjO"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOjC"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOzh"/> |
 | :---: | :---: | :---: |
@@ -18,7 +18,7 @@
 
 
 
-## [\[Hero-Reskin\] \[F\] Generic +Basic Shield](https://git.io/Jn3Tg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lY)
+## [\[Hero-Reskin\] \[F\] Generic +Basic Shield](https://git.io/J1jr7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji6)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO65"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOjL"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO6d"/> |
 | :---: | :---: | :---: |
@@ -27,7 +27,7 @@
 
 
 
-## [\[Hero-Reskin\] \[F\] Generic +Blue Shield](https://git.io/Jn3Ty) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3l8)
+## [\[Hero-Reskin\] \[F\] Generic +Blue Shield](https://git.io/J1j6e) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji3)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOh9"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOAM"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnON9"/> |
 | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 
 
 
-## [\[Hero-Reskin\] \[F\] Generic +Brown Shield](https://git.io/Jn3U0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lg)
+## [\[Hero-Reskin\] \[F\] Generic +Brown Shield](https://git.io/J1jrZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joX)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhE"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzx"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnObs"/> |
 | :---: | :---: | :---: |
@@ -45,7 +45,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] FE7 Armor +Basic Shield \(Vanilla\) +Lance](https://git.io/Jn3UN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lC)
+## [\[Hero-Reskin\] \[M\] FE7 Armor +Basic Shield \(Vanilla\) +Lance](https://git.io/J1j6G) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6j)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhf"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO6c"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhT"/> |
 | :---: | :---: | :---: |
@@ -54,7 +54,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] FE7 Armor +Blue Shield](https://git.io/Jn3Uo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lE)
+## [\[Hero-Reskin\] \[M\] FE7 Armor +Blue Shield](https://git.io/J1jr2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKJ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOgf"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnObI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnObq"/> |
 | :---: | :---: | :---: |
@@ -63,7 +63,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] FE7 Armor +Brown Shield](https://git.io/Jn3UU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Re)
+## [\[Hero-Reskin\] \[M\] FE7 Armor +Brown Shield](https://git.io/J1jrG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joo)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiR"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhM"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgJ"/> |
 | :---: | :---: | :---: |
@@ -72,7 +72,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] FE7 Coat +Basic Shield](https://git.io/Jn3T1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3l0)
+## [\[Hero-Reskin\] \[M\] FE7 Coat +Basic Shield](https://git.io/J1jrY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jog)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhQ"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhS"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO6x"/> |
 | :---: | :---: | :---: |
@@ -81,7 +81,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] FE7 Coat +Blue Shield](https://git.io/Jn3Tc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lq)
+## [\[Hero-Reskin\] \[M\] FE7 Coat +Blue Shield](https://git.io/J1jrh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKY)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFh"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOh1"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOAV"/> |
 | :---: | :---: | :---: |
@@ -90,7 +90,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] FE7 Coat +Brown Shield](https://git.io/Jn3Tt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RU)
+## [\[Hero-Reskin\] \[M\] FE7 Coat +Brown Shield](https://git.io/J1jwD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jru)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOh7"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhH"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO6N"/> |
 | :---: | :---: | :---: |
@@ -99,7 +99,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] Raven Armor Coat +Basic Shield \(Vanilla\)](https://git.io/Jn3UP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3l4)
+## [\[Hero-Reskin\] \[M\] Raven Armor Coat +Basic Shield \(Vanilla\)](https://git.io/J1joY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKE)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOin"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhD"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOi8"/> |
 | :---: | :---: | :---: |
@@ -108,7 +108,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] Raven Armor Coat +Blue Shield](https://git.io/Jn3Tl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3l2)
+## [\[Hero-Reskin\] \[M\] Raven Armor Coat +Blue Shield](https://git.io/J1jKH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jit)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiA"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOh5"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOiJ"/> |
 | :---: | :---: | :---: |
@@ -117,7 +117,7 @@
 
 
 
-## [\[Hero-Reskin\] \[M\] Raven Armor Coat +Brown Shield](https://git.io/Jn3Ui) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bj)
+## [\[Hero-Reskin\] \[M\] Raven Armor Coat +Brown Shield](https://git.io/J1j6m) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6P)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhP"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhy"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgU"/> |
 | :---: | :---: | :---: |
@@ -126,7 +126,7 @@
 
 
 
-## [\[Hero-Variant\] \[F\] Armored +Pants by Nuramon](https://git.io/Jn3LN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lR)
+## [\[Hero-Variant\] \[F\] Armored +Pants by Nuramon](https://git.io/J1jK4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j67)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiW"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOic"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOP2"/> |
 | :---: | :---: | :---: |
@@ -135,7 +135,7 @@
 
 
 
-## [\[Hero-Variant\] \[F\] Armored +Short Hair by Nuramon](https://git.io/Jn3UX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30E)
+## [\[Hero-Variant\] \[F\] Armored +Short Hair by Nuramon](https://git.io/J1jiJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPf)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOil"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOiB"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOPY"/> |
 | :---: | :---: | :---: |
@@ -144,7 +144,7 @@
 
 
 
-## [\[Hero-Variant\] \[F\] Armored +Skirt by Nuramon](https://git.io/Jn3Lb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30M)
+## [\[Hero-Variant\] \[F\] Armored +Skirt by Nuramon](https://git.io/J1jr5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6s)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiu"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOPt"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOib"/> |
 | :---: | :---: | :---: |
@@ -247,7 +247,7 @@
 
 
 
-## [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](https://git.io/Jn3tO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn307)
+## [\[Mercenary-Base\] \[M\] Vanilla FE7-8 +Weapons](https://git.io/J1j6k) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiu)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFN"/> | <b>Sword (Greatsword)</b><br/><img alt="Sword (Greatsword)" src="https://git.io/JnO52"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOP0"/> |
 | :---: | :---: | :---: |
@@ -296,7 +296,7 @@
 
 
 
-## [\[Mercenary-Reskin\] \[M\] Armored +Axe by Alusq](https://git.io/Jn3tn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wg)
+## [\[Mercenary-Reskin\] \[M\] Armored +Axe by Alusq](https://git.io/J1jiW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jip)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMM"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOii"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOMi"/> |
 | :---: | :---: | :---: |
@@ -321,7 +321,7 @@
 
 
 
-## [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED +Axe](https://git.io/Jn3UW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WZ)
+## [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED +Axe](https://git.io/J1jrk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo8)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSz"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2x"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO9R"/> |
 | :---: | :---: | :---: |

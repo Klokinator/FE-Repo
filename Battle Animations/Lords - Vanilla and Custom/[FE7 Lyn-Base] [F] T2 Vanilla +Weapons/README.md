@@ -1,4 +1,4 @@
-# [\[FE7 Lyn-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/Jispg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishL)
+# [\[FE7 Lyn-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/J1jK6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiY)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNy"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisNA"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JisFf"/> |
 | :---: | :---: | :---: |

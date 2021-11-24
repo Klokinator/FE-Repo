@@ -1,4 +1,4 @@
-# [\[FE8 Eirika-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/Jisx8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jispm)
+# [\[FE8 Eirika-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/J1jKF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jim)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisbV"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jisbu"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisAq"/> |
 | :---: | :---: | :---: |

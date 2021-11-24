@@ -1,4 +1,4 @@
-# [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ne)
+# [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/J1jr4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKe)
 
 | <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://git.io/JuuIy"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://git.io/JuuID"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> |
 | :---: | :---: | :---: |

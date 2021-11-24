@@ -1,4 +1,4 @@
-# [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](https://git.io/Jn3Iz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c7)
+# [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](https://git.io/J1jo3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKa)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpI"/> | <b>Sword (Eckesachs FE6)</b><br/><img alt="Sword (Eckesachs FE6)" src="https://git.io/JnOpU"/> | <b>Sword (Eckesachs FE7-8)</b><br/><img alt="Sword (Eckesachs FE7-8)" src="https://git.io/JnOxN"/> |
 | :---: | :---: | :---: |

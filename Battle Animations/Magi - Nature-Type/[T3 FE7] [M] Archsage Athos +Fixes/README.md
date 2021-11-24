@@ -1,4 +1,4 @@
-# [\[T3 FE7\] \[M\] Archsage Athos +Fixes](https://git.io/Jn3Ll) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uC)
+# [\[T3 FE7\] \[M\] Archsage Athos +Fixes](https://git.io/J1jK7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiL)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBm"/> | <b>Magic (Alt Particles)</b><br/><img alt="Magic (Alt Particles)" src="https://git.io/JnOBZ"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOrr"/> |
 | :---: | :---: | :---: |

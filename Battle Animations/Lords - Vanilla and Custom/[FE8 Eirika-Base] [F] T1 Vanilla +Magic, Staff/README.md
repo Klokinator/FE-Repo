@@ -1,4 +1,4 @@
-# [\[FE8 Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](https://git.io/Jispy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jishn)
+# [\[FE8 Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](https://git.io/J1jKM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jif)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisAc"/> | <b>Sword (Backflip)</b><br/><img alt="Sword (Backflip)" src="https://git.io/Jisbl"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jisxr"/> |
 | :---: | :---: | :---: |

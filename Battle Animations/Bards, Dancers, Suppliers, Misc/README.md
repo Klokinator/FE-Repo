@@ -1,6 +1,6 @@
 # [Bards, Dancers, Suppliers, Misc Battle Animations](./)
 
-## [\[Bard-Base\] \[M\] Elffin +Weapons](https://git.io/Jn3q7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3B5)
+## [\[Bard-Base\] \[M\] Elffin +Weapons](https://git.io/J1joE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6v)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyg"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOFV"/> | <b>Refresh (FE6)(Bird Sfx)</b><br/><img alt="Refresh (FE6)(Bird Sfx)" src="https://git.io/JnONM"/> |
 | :---: | :---: | :---: |
@@ -9,7 +9,7 @@
 
 
 
-## [\[Bard-Base\] \[M\] Elffin Fancy +Magic](https://git.io/Jn3IR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rs)
+## [\[Bard-Base\] \[M\] Elffin Fancy +Magic](https://git.io/J1jrs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo7)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO5W"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnO5c"/> |
 | :---: | :---: |
@@ -17,7 +17,7 @@
 
 
 
-## [\[Bard-Base\] \[M\] Nils +Weapons](https://git.io/Jn3Lz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RZ)
+## [\[Bard-Base\] \[M\] Nils +Weapons](https://git.io/J1jKu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6z)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnON4"/> | <b>Staff (+Magic)</b><br/><img alt="Staff (+Magic)" src="https://git.io/JnOQq"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnONJ"/> |
 | :---: | :---: | :---: |
@@ -66,7 +66,7 @@
 
 
 
-## [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](https://git.io/Jn3qd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EV)
+## [\[Dancer-Base\] \[F\] Vanilla FE6 Larum +FE7-8, Staff](https://git.io/J1jwH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jrw)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOHo"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnO5S"/> | <b>Refresh (Fixed SFX)</b><br/><img alt="Refresh (Fixed SFX)" src="https://git.io/JnOdR"/> |
 | :---: | :---: | :---: |
@@ -75,7 +75,7 @@
 
 
 
-## [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](https://git.io/Jn3IV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gb)
+## [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](https://git.io/J1jrB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joH)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO9o"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFr"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO9r"/> |
 | :---: | :---: | :---: |
@@ -84,7 +84,7 @@
 
 
 
-## [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](https://git.io/Jn3k7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G9)
+## [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](https://git.io/J1jow) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKp)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO55"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5b"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOQb"/> |
 | :---: | :---: | :---: |
@@ -141,7 +141,7 @@
 
 
 
-## [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](https://git.io/Jn3I2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gw)
+## [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](https://git.io/J1joU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKC)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEXaE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> |
 | :---: | :---: | :---: |

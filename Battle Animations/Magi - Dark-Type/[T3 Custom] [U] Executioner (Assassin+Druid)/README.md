@@ -1,4 +1,4 @@
-# [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](https://git.io/Jn3k2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gz)
+# [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](https://git.io/J1jiU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiF)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyS"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOS0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO5C"/> |
 | :---: | :---: | :---: |

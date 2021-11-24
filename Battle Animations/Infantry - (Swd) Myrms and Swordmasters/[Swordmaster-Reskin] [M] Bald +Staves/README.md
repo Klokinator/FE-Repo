@@ -1,4 +1,4 @@
-# [\[Swordmaster-Reskin\] \[M\] Bald +Staves](https://git.io/Jn3kl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cv)
+# [\[Swordmaster-Reskin\] \[M\] Bald +Staves](https://git.io/J1j6O) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jil)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOd5"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb9"/> |
 | :---: | :---: | :---: |

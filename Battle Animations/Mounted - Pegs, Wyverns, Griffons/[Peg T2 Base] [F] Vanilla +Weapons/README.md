@@ -1,4 +1,4 @@
-# [\[Peg T2 Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3mh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38V)
+# [\[Peg T2 Base\] \[F\] Vanilla +Weapons](https://git.io/J1joT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKm)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOKp"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4G"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwS"/> |
 | :---: | :---: | :---: |

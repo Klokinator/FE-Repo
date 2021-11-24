@@ -1,4 +1,4 @@
-# [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](https://git.io/Jn3qZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BC)
+# [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](https://git.io/J1jiR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPT)
 
 | <b>Magic (Blood Tome Critfix)</b><br/><img alt="Magic (Blood Tome Critfix)" src="https://git.io/JnOFj"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQP"/> | <b>Magic (Minigun Melee)</b><br/><img alt="Magic (Minigun Melee)" src="https://git.io/JnO5k"/> |
 | :---: | :---: | :---: |

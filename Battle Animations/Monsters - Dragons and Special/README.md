@@ -1,6 +1,6 @@
 # [Monsters - Dragons and Special Battle Animations](./)
 
-## [\[Boss-Base\] \[U\] Vanilla Demon King +FE6-7](https://git.io/Jn3YA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn303)
+## [\[Boss-Base\] \[U\] Vanilla Demon King +FE6-7](https://git.io/J1jrt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joz)
 
 | <b>Magic {SHYUTERz}</b><br/><img alt="Magic {SHYUTERz}" src="https://git.io/JnOFw"/> | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOMT"/> | <b>Monster (Arm)</b><br/><img alt="Monster (Arm)" src="https://git.io/JnODs"/> |
 | :---: | :---: | :---: |
@@ -9,7 +9,7 @@
 
 
 
-## [\[Boss-Base\] \[U\] Vanilla FE6 Idunn +FE7-8](https://git.io/Jn3OT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30r)
+## [\[Boss-Base\] \[U\] Vanilla FE6 Idunn +FE7-8](https://git.io/J1jwN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joc)
 
 | <b>Magic (Druid Idunn)</b><br/><img alt="Magic (Druid Idunn)" src="https://git.io/JnOB5"/> | <b>Staff (Druid Idunn)</b><br/><img alt="Staff (Druid Idunn)" src="https://git.io/JnOMd"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnOMI"/> |
 | :---: | :---: | :---: |
@@ -18,7 +18,7 @@
 
 
 
-## [\[Boss-Base\] \[U\] Vanilla FE7 Fire Dragon +FE8](https://git.io/Jn3YL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RH)
+## [\[Boss-Base\] \[U\] Vanilla FE7 Fire Dragon +FE8](https://git.io/J1jrU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo4)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnOFW"/> | <b>Dragonstone (Transform Flash Crit)</b><br/><img alt="Dragonstone (Transform Flash Crit)" src="https://git.io/JnOFD"/> | <b>Dragonstone (Transform Stepin)</b><br/><img alt="Dragonstone (Transform Stepin)" src="https://git.io/JnOMD"/> |
 | :---: | :---: | :---: |
@@ -75,7 +75,7 @@
 
 
 
-## [\[Manakete-Base\] \[F\] Vanilla FE6 Fae +FE7](https://git.io/Jn3YR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34E)
+## [\[Manakete-Base\] \[F\] Vanilla FE6 Fae +FE7](https://git.io/J1joG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKD)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO1H"/> | <b>Dragonstone (FE7)</b><br/><img alt="Dragonstone (FE7)" src="https://git.io/JnODR"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1w"/> |
 | :---: | :---: | :---: |
@@ -83,7 +83,7 @@
 
 
 
-## [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](https://git.io/Jn3Ys) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EH)
+## [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](https://git.io/J1jre) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6I)
 
 | <b>Dragonstone (FE7)</b><br/><img alt="Dragonstone (FE7)" src="https://git.io/JnOXh"/> | <b>Dragonstone (FE7) (Shorter Alt)</b><br/><img alt="Dragonstone (FE7) (Shorter Alt)" src="https://git.io/JnOXx"/> | <b>Dragonstone (FE8)</b><br/><img alt="Dragonstone (FE8)" src="https://git.io/JnOBk"/> |
 | :---: | :---: | :---: |
@@ -92,7 +92,7 @@
 
 
 
-## [\[Manakete-Base\] \[F\] Vanilla FE8 Myrrh +FE7](https://git.io/Jn3YZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bv)
+## [\[Manakete-Base\] \[F\] Vanilla FE8 Myrrh +FE7](https://git.io/J1j6d) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji1)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyj"/> | <b>Magic (Gran Caster)</b><br/><img alt="Magic (Gran Caster)" src="https://git.io/JnOS8"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnOyP"/> |
 | :---: | :---: | :---: |
@@ -109,7 +109,7 @@
 
 
 
-## [\[Manakete-Base\] \[U\] Vanilla FE8 Dracozombie +FE7](https://git.io/Jn3YC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ev)
+## [\[Manakete-Base\] \[U\] Vanilla FE8 Dracozombie +FE7](https://git.io/J1jrE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joj)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnOS3"/> | <b>Dragonstone (FE7 Fixed)</b><br/><img alt="Dragonstone (FE7 Fixed)" src="https://git.io/JnOQU"/> | <b>Dragonstone (Imp +Transf)</b><br/><img alt="Dragonstone (Imp +Transf)" src="https://git.io/JnO9v"/> |
 | :---: | :---: | :---: |

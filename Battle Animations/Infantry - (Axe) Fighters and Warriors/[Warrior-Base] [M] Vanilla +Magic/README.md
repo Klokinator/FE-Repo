@@ -1,4 +1,4 @@
-# [\[Warrior-Base\] \[M\] Vanilla +Magic](https://git.io/Jn3fj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38p)
+# [\[Warrior-Base\] \[M\] Vanilla +Magic](https://git.io/J1jKj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6i)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO0P"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO0E"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0r"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](https://git.io/Jn3qc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gu)
+# [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](https://git.io/J1j6K) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiS)
 
 | <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JnOML"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOym"/> | <b>Magic (Sorcress, Critical Sigil)</b><br/><img alt="Magic (Sorcress, Critical Sigil)" src="https://git.io/JnOyo"/> |
 | :---: | :---: | :---: |

@@ -1,4 +1,4 @@
-# [\[Sage-Base\] \[F\] Vanilla FE7 Nino +Fixes](https://git.io/Jn3LJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uz)
+# [\[Sage-Base\] \[F\] Vanilla FE7 Nino +Fixes](https://git.io/J1joq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKs)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXG"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOXJ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5i"/> |
 | :---: | :---: | :---: |

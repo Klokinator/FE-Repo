@@ -1,4 +1,4 @@
-# [\[General-Reskin\] \[M\] Baron Cape +Weapons](https://git.io/Jn3t9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ch)
+# [\[General-Reskin\] \[M\] Baron Cape +Weapons](https://git.io/J1jrN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKt)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQB"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnO9w"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOS7"/> |
 | :---: | :---: | :---: |

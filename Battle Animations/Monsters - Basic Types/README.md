@@ -26,7 +26,7 @@
 
 
 
-## [\[Cyclops-Base\] \[U\] Vanilla +Bow](https://git.io/Jn3Ym) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3um)
+## [\[Cyclops-Base\] \[U\] Vanilla +Bow](https://git.io/J1j6n) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiE)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOy4"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO7t"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOQK"/> |
 | :---: | :---: | :---: |
@@ -107,7 +107,7 @@
 
 
 
-## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](https://git.io/Jn3mf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38k)
+## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](https://git.io/J1jKQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiZ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhw"/> | <b>Axe {MrNight}</b><br/><img alt="Axe {MrNight}" src="https://git.io/JnOyn"/> |
 | :---: | :---: | :---: |
@@ -125,7 +125,7 @@
 
 
 
-## [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](https://git.io/Jn3La) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34n)
+## [\[Skeleton-Base\] \[U\] Wight Repal by Teraspark +Weapons](https://git.io/J1jKg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6A)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOKm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOHm"/> | <b>Axe (Handaxe Ranged)</b><br/><img alt="Axe (Handaxe Ranged)" src="https://git.io/JnOyF"/> |
 | :---: | :---: | :---: |
@@ -159,7 +159,7 @@
 
 
 
-## [\[Spider-Base\] \[U\] Elder Bael Repal +Ranged](https://git.io/Jn3tG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RA)
+## [\[Spider-Base\] \[U\] Elder Bael Repal +Ranged](https://git.io/J1jwi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jrJ)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOBn"/> |
 | :---: |
@@ -207,7 +207,7 @@
 
 
 
-## [\[Wolf-Base\] \[U\] Gwyllgi Repal by Teraspark +Ranged](https://git.io/Jn3qN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bn)
+## [\[Wolf-Base\] \[U\] Gwyllgi Repal by Teraspark +Ranged](https://git.io/J1jwK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jrR)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOVo"/> |
 | :---: |
@@ -231,7 +231,7 @@
 
 
 
-## [\[Wolf-Base\] \[U\] Hellhound Vanilla Repal by Teraspark +Magic](https://git.io/Jn3LS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rx)
+## [\[Wolf-Base\] \[U\] Hellhound Vanilla Repal by Teraspark +Magic](https://git.io/J1jrf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j68)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOwc"/> |
 | :---: |
@@ -239,7 +239,7 @@
 
 
 
-## [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](https://git.io/Jn3LF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ES)
+## [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](https://git.io/J1jwo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jr0)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO95"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://git.io/JnOPw"/> |
 | :---: | :---: |
@@ -303,7 +303,7 @@
 
 
 
-## [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](https://git.io/Jn3mv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RS)
+## [\[Wolf-Variant\] \[U\] Hellhound SM Crit +Wings](https://git.io/J1jw6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jr8)
 
 | <b>Monster (SM Crit)</b><br/><img alt="Monster (SM Crit)" src="https://git.io/JnOPu"/> | <b>Monster (Wings Crit)</b><br/><img alt="Monster (Wings Crit)" src="https://git.io/JnODr"/> |
 | :---: | :---: |
@@ -311,7 +311,7 @@
 
 
 
-## [\[Zombie-Base\] \[U\] Revenant Vanilla +Weapons](https://git.io/Jn3OJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30Y)
+## [\[Zombie-Base\] \[U\] Revenant Vanilla +Weapons](https://git.io/J1j6B) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6p)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOih"/> | <b>Monster (Goop Attack)</b><br/><img alt="Monster (Goop Attack)" src="https://git.io/JnOPB"/> | <b>Monster (Magic Ranged)</b><br/><img alt="Monster (Magic Ranged)" src="https://git.io/JnOiH"/> |
 | :---: | :---: | :---: |
@@ -327,7 +327,7 @@
 
 
 
-## [\[Zombie-Base\] \[U\] Vanilla Entombed +Ranged](https://git.io/Jn3mw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30s)
+## [\[Zombie-Base\] \[U\] Vanilla Entombed +Ranged](https://git.io/J1jw5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jK1)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOPk"/> | <b>Monster (Magic Ranged)</b><br/><img alt="Monster (Magic Ranged)" src="https://git.io/JnOMe"/> |
 | :---: | :---: |

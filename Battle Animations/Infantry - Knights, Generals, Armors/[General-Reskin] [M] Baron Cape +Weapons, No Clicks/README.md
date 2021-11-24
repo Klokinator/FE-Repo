@@ -1,4 +1,4 @@
-# [\[General-Reskin\] \[M\] Baron Cape +Weapons, No Clicks](https://git.io/Jn3Is) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CP)
+# [\[General-Reskin\] \[M\] Baron Cape +Weapons, No Clicks](https://git.io/J1jiV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jih)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9g"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOHZ"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://git.io/JnOFi"/> |
 | :---: | :---: | :---: |

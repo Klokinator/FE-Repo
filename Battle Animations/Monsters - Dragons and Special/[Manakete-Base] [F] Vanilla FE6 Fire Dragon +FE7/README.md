@@ -1,4 +1,4 @@
-# [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](https://git.io/Jn3Ys) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EH)
+# [\[Manakete-Base\] \[F\] Vanilla FE6 Fire Dragon +FE7](https://git.io/J1jre) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6I)
 
 | <b>Dragonstone (FE7)</b><br/><img alt="Dragonstone (FE7)" src="https://git.io/JnOXh"/> | <b>Dragonstone (FE7) (Shorter Alt)</b><br/><img alt="Dragonstone (FE7) (Shorter Alt)" src="https://git.io/JnOXx"/> | <b>Dragonstone (FE8)</b><br/><img alt="Dragonstone (FE8)" src="https://git.io/JnOBk"/> |
 | :---: | :---: | :---: |

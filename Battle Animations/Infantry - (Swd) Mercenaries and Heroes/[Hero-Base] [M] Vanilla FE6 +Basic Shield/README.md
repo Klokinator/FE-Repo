@@ -1,4 +1,4 @@
-# [\[Hero-Base\] \[M\] Vanilla FE6 +Basic Shield](https://git.io/Jn3tX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RI)
+# [\[Hero-Base\] \[M\] Vanilla FE6 +Basic Shield](https://git.io/J1jKV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6w)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOjO"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOjC"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOzh"/> |
 | :---: | :---: | :---: |

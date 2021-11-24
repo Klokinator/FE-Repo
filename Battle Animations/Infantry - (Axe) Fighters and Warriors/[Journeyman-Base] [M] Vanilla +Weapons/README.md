@@ -1,4 +1,4 @@
-# [\[Journeyman-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3J0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3R2)
+# [\[Journeyman-Base\] \[M\] Vanilla +Weapons](https://git.io/J1jrW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joS)
 
 | <b>Sword {Waleed}</b><br/><img alt="Sword {Waleed}" src="https://git.io/JnOus"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzY"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOuy"/> |
 | :---: | :---: | :---: |

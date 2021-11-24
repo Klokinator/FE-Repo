@@ -9,7 +9,7 @@
 
 
 
-## [\[General-Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3kP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CU)
+## [\[General-Base\] \[U\] Vanilla +Weapons](https://git.io/J1jiT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jib)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2K"/> | <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JzWei"/> | <b>Sword (Greatsword) {JPN}</b><br/><img alt="Sword (Greatsword) {JPN}" src="https://git.io/JnOxa"/> |
 | :---: | :---: | :---: |
@@ -29,7 +29,7 @@
 
 
 
-## [\[General-Reskin\] \[M\] Baron Cape +Weapons](https://git.io/Jn3t9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ch)
+## [\[General-Reskin\] \[M\] Baron Cape +Weapons](https://git.io/J1jrN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKt)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOQB"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnO9w"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOS7"/> |
 | :---: | :---: | :---: |
@@ -40,7 +40,7 @@
 
 
 
-## [\[General-Reskin\] \[M\] Baron Cape +Weapons, No Clicks](https://git.io/Jn3Is) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CP)
+## [\[General-Reskin\] \[M\] Baron Cape +Weapons, No Clicks](https://git.io/J1jiV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jih)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9g"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOHZ"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://git.io/JnOFi"/> |
 | :---: | :---: | :---: |
@@ -67,7 +67,7 @@
 
 
 
-## [\[General-Reskin\] \[U\] Baron +Weapons](https://git.io/Jn3TF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cN)
+## [\[General-Reskin\] \[U\] Baron +Weapons](https://git.io/J1jKd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiq)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7g"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnObf"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnONt"/> |
 | :---: | :---: | :---: |
@@ -107,7 +107,7 @@
 
 
 
-## [\[General-Reskin\] \[U\] Shield v2 +Cape](https://git.io/Jn3Tj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cS)
+## [\[General-Reskin\] \[U\] Shield v2 +Cape](https://git.io/J1jrS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo9)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpV"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOhR"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx5"/> |
 | :---: | :---: | :---: |
@@ -117,7 +117,7 @@
 
 
 
-## [\[Knight-Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3kI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cH)
+## [\[Knight-Base\] \[U\] Vanilla +Weapons](https://git.io/J1jrQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joF)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOxF"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOxy"/> | <b>Lance (Smooth)</b><br/><img alt="Lance (Smooth)" src="https://git.io/JnOpJ"/> |
 | :---: | :---: | :---: |
@@ -240,7 +240,7 @@
 
 
 
-## [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](https://git.io/Jn3Iz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c7)
+## [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](https://git.io/J1jo3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKa)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpI"/> | <b>Sword (Eckesachs FE6)</b><br/><img alt="Sword (Eckesachs FE6)" src="https://git.io/JnOpU"/> | <b>Sword (Eckesachs FE7-8)</b><br/><img alt="Sword (Eckesachs FE7-8)" src="https://git.io/JnOxN"/> |
 | :---: | :---: | :---: |

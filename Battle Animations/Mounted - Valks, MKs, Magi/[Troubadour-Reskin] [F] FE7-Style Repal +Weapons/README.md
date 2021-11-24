@@ -1,4 +1,4 @@
-# [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](https://git.io/Jn3OF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bt)
+# [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](https://git.io/J1jos) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKK)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnORT"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXg"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORq"/> |
 | :---: | :---: | :---: |

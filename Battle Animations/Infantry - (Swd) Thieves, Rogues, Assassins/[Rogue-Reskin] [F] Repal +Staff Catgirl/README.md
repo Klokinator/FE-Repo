@@ -1,4 +1,4 @@
-# [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](https://git.io/Jn3T5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cg)
+# [\[Rogue-Reskin\] \[F\] Repal +Staff Catgirl](https://git.io/J1jri) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joM)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOig"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://git.io/JnOAN"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnObz"/> |
 | :---: | :---: | :---: |

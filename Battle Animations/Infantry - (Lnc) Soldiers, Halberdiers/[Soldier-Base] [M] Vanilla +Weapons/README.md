@@ -1,4 +1,4 @@
-# [\[Soldier-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3Jp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wp)
+# [\[Soldier-Base\] \[M\] Vanilla +Weapons](https://git.io/J1jwx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j64)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7o"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOr5"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFO"/> |
 | :---: | :---: | :---: |

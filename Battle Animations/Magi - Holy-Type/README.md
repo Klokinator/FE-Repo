@@ -32,7 +32,7 @@
 
 
 
-## [\[Cleric-Base\] \[F\] Vanilla FE6 +Weapons](https://git.io/Jn3Ij) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30u)
+## [\[Cleric-Base\] \[F\] Vanilla FE6 +Weapons](https://git.io/J1jrj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKn)
 
 | <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://git.io/JnOrT"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://git.io/JnOXM"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwV"/> |
 | :---: | :---: | :---: |
@@ -41,7 +41,7 @@
 
 
 
-## [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](https://git.io/Jn3qR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CS)
+## [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](https://git.io/J1jKi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6F)
 
 | <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://git.io/JnO5y"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://git.io/JnORZ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOKS"/> |
 | :---: | :---: | :---: |
@@ -98,7 +98,7 @@
 
 
 
-## [\[Monk-Base\] \[F\] Repal +Staff by Teraspark](https://git.io/Jn3va) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EB)
+## [\[Monk-Base\] \[F\] Repal +Staff by Teraspark](https://git.io/J1jwX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6Y)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO4w"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEM"/> |
 | :---: | :---: |
@@ -114,7 +114,7 @@
 
 
 
-## [\[Monk-Base\] \[M\] Repal +Staff by Teraspark](https://git.io/Jn3vm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn381)
+## [\[Monk-Base\] \[M\] Repal +Staff by Teraspark](https://git.io/J1jwM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joZ)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOER"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOuq"/> |
 | :---: | :---: |
@@ -210,7 +210,7 @@
 
 
 
-## [\[Priest-Base\] \[M\] Vanilla Priest +Magic](https://git.io/Jn3Lt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cg)
+## [\[Priest-Base\] \[M\] Vanilla Priest +Magic](https://git.io/J1jok) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKZ)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOro"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://git.io/JnOwZ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOR6"/> |
 | :---: | :---: | :---: |
@@ -251,7 +251,7 @@
 
 
 
-## [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](https://git.io/Jn3fz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34u)
+## [\[Priest-Reskin\] \[M\] Buff Moulder +Muscles by Vilkalizer](https://git.io/J1jKT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j62)
 
 | <b>Staff (Buff Moulder Muscles)</b><br/><img alt="Staff (Buff Moulder Muscles)" src="https://git.io/JnOzZ"/> | <b>Staff (Buff Moulder)</b><br/><img alt="Staff (Buff Moulder)" src="https://git.io/JnORN"/> | <b>Unarmed (Buff Moulder)</b><br/><img alt="Unarmed (Buff Moulder)" src="https://git.io/JnOgg"/> |
 | :---: | :---: | :---: |
@@ -332,7 +332,7 @@
 
 
 
-## [\[T2 Bishop-Base\] \[M\] Vanilla FE7-8 +Sword by Beansy](https://git.io/Jn3Iy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3C6)
+## [\[T2 Bishop-Base\] \[M\] Vanilla FE7-8 +Sword by Beansy](https://git.io/J1jiw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPe)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOra"/> | <b>Magic (+Staff FE8)</b><br/><img alt="Magic (+Staff FE8)" src="https://git.io/JnOrs"/> | <b>Staff (FE7)</b><br/><img alt="Staff (FE7)" src="https://git.io/JnORw"/> |
 | :---: | :---: | :---: |

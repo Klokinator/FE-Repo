@@ -1,4 +1,4 @@
-# [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](https://git.io/Jn3Lg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cs)
+# [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](https://git.io/J1jrK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joh)
 
 | <b>Axe (Skeleton)</b><br/><img alt="Axe (Skeleton)" src="https://git.io/JXSSP"/> | <b>Handaxe (Skeleton)</b><br/><img alt="Handaxe (Skeleton)" src="https://git.io/JXSS1"/> | <b>Bow (Skeleton)</b><br/><img alt="Bow (Skeleton)" src="https://git.io/JXSSX"/> |
 | :---: | :---: | :---: |

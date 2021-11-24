@@ -1,4 +1,4 @@
-# [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](https://git.io/Jn3IV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gb)
+# [\[Dancer-Base\] \[F\] Vanilla FE7 Ninian +Weapons](https://git.io/J1jrB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joH)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO9o"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFr"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnO9r"/> |
 | :---: | :---: | :---: |

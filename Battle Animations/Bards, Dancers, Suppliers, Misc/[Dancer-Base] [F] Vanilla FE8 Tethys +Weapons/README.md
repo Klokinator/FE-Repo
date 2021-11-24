@@ -1,4 +1,4 @@
-# [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](https://git.io/Jn3k7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3G9)
+# [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](https://git.io/J1jow) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKp)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO55"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5b"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOQb"/> |
 | :---: | :---: | :---: |

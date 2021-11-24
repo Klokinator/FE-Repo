@@ -1,4 +1,4 @@
-# [\[FE8 Ephraim-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/JispS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jish8)
+# [\[FE8 Ephraim-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/J1jia) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPk)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisAN"/> | <b>Sword (Eirika Motion)</b><br/><img alt="Sword (Eirika Motion)" src="https://git.io/JisFT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisF4"/> |
 | :---: | :---: | :---: |

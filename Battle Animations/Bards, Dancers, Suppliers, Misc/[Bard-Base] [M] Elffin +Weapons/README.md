@@ -1,4 +1,4 @@
-# [\[Bard-Base\] \[M\] Elffin +Weapons](https://git.io/Jn3q7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3B5)
+# [\[Bard-Base\] \[M\] Elffin +Weapons](https://git.io/J1joE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6v)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyg"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JnOFV"/> | <b>Refresh (FE6)(Bird Sfx)</b><br/><img alt="Refresh (FE6)(Bird Sfx)" src="https://git.io/JnONM"/> |
 | :---: | :---: | :---: |

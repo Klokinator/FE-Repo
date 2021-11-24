@@ -217,7 +217,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](https://git.io/Jn3TC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lr)
+## [\[Sniper-Reskin\] \[F\] Rebecca +Quiver by Nuramon](https://git.io/J1jom) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jK3)
 
 | <b>Bow (With Recoil)</b><br/><img alt="Bow (With Recoil)" src="https://git.io/JnOxl"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow (Without Recoil)" src="https://git.io/JnOxH"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed (With Quiver)" src="https://git.io/JnOhW"/> |
 | :---: | :---: | :---: |
@@ -242,7 +242,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Adventurer by ZoramineFae](https://git.io/Jn3Um) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34t)
+## [\[Sniper-Reskin\] \[M\] Adventurer by ZoramineFae](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BSniper-Reskin%5D%20%5BM%5D%20Adventurer%20by%20ZoramineFae) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34t)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnONg"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOxJ"/> |
 | :---: | :---: |
@@ -250,7 +250,7 @@
 
 
 
-## [\[Sniper-Reskin\] \[M\] Hat +Quiver by Nuramon](https://git.io/Jn3fx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GF)
+## [\[Sniper-Reskin\] \[M\] Hat +Quiver by Nuramon](https://git.io/J1j60) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jig)
 
 | <b>Bow (With Recoil)</b><br/><img alt="Bow (With Recoil)" src="https://git.io/JnOP3"/> | <b>Bow (Without Recoil)</b><br/><img alt="Bow (Without Recoil)" src="https://git.io/JnOA4"/> | <b>Unarmed (With Quiver)</b><br/><img alt="Unarmed (With Quiver)" src="https://git.io/JnOi2"/> |
 | :---: | :---: | :---: |

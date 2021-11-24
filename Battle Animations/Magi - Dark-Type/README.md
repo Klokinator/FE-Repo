@@ -24,7 +24,7 @@
 
 
 
-## [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](https://git.io/Jn3qa) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WT)
+## [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](https://git.io/J1jiv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jid)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOFX"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOSj"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO59"/> |
 | :---: | :---: | :---: |
@@ -40,7 +40,7 @@
 
 
 
-## [\[Shaman-Base\] \[M\] Vanilla +Staff](https://git.io/Jn3qk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cc)
+## [\[Shaman-Base\] \[M\] Vanilla +Staff](https://git.io/J1joJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKL)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOdQ"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnODz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO1J"/> |
 | :---: | :---: | :---: |
@@ -56,7 +56,7 @@
 
 
 
-## [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](https://git.io/Jn3LZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3C4)
+## [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](https://git.io/J1j66) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiM)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO1L"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOyD"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnObk"/> |
 | :---: | :---: | :---: |
@@ -96,7 +96,7 @@
 
 
 
-## [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](https://git.io/Jn3Lg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cs)
+## [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](https://git.io/J1jrK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joh)
 
 | <b>Axe (Skeleton)</b><br/><img alt="Axe (Skeleton)" src="https://git.io/JXSSP"/> | <b>Handaxe (Skeleton)</b><br/><img alt="Handaxe (Skeleton)" src="https://git.io/JXSS1"/> | <b>Bow (Skeleton)</b><br/><img alt="Bow (Skeleton)" src="https://git.io/JXSSX"/> |
 | :---: | :---: | :---: |
@@ -129,7 +129,7 @@
 
 
 
-## [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](https://git.io/Jn3k2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gz)
+## [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](https://git.io/J1jiU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiF)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyS"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOS0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO5C"/> |
 | :---: | :---: | :---: |
@@ -146,7 +146,7 @@
 
 
 
-## [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](https://git.io/Jn3qc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gu)
+## [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](https://git.io/J1j6K) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiS)
 
 | <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JnOML"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOym"/> | <b>Magic (Sorcress, Critical Sigil)</b><br/><img alt="Magic (Sorcress, Critical Sigil)" src="https://git.io/JnOyo"/> |
 | :---: | :---: | :---: |
@@ -156,7 +156,7 @@
 
 
 
-## [\[T3 Dark Druid\] \[M\] Nergal +Fixes](https://git.io/Jn3qn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CG)
+## [\[T3 Dark Druid\] \[M\] Nergal +Fixes](https://git.io/J1j6N) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jii)
 
 | <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://git.io/JnOdH"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic (FE8 Adv)" src="https://git.io/JnOdM"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic (FE8 Basic)" src="https://git.io/JnO7Q"/> |
 | :---: | :---: | :---: |
@@ -218,7 +218,7 @@
 
 
 
-## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](https://git.io/Jn3qZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BC)
+## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](https://git.io/J1jiR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPT)
 
 | <b>Magic (Blood Tome Critfix)</b><br/><img alt="Magic (Blood Tome Critfix)" src="https://git.io/JnOFj"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQP"/> | <b>Magic (Minigun Melee)</b><br/><img alt="Magic (Minigun Melee)" src="https://git.io/JnO5k"/> |
 | :---: | :---: | :---: |

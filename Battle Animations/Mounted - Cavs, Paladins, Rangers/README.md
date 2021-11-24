@@ -1,6 +1,6 @@
 # [Mounted - Cavs, Paladins, Rangers Battle Animations](./)
 
-## [\[Cavalier-Base\] \[F\] Vanilla +Bow](https://git.io/Jn3YS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eh)
+## [\[Cavalier-Base\] \[F\] Vanilla +Bow](https://git.io/J1jrL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joi)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOdg"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOAR"/> | <b>Bow {DerTheVaporeon, Kao, Aurora}</b><br/><img alt="Bow {DerTheVaporeon, Kao, Aurora}" src="https://git.io/JnOp6"/> |
 | :---: | :---: | :---: |
@@ -9,7 +9,7 @@
 
 
 
-## [\[Cavalier-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3Yi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rj)
+## [\[Cavalier-Base\] \[M\] Vanilla +Weapons](https://git.io/J1j6S) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji9)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1k"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOp7"/> | <b>Axe (Alt1)</b><br/><img alt="Axe (Alt1)" src="https://git.io/JnOXf"/> |
 | :---: | :---: | :---: |
@@ -99,7 +99,7 @@
 
 
 
-## [\[GK-Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3Ot) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WV)
+## [\[GK-Base\] \[U\] Vanilla +Weapons](https://git.io/J1j6H) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiQ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOND"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpp"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOp9"/> |
 | :---: | :---: | :---: |
@@ -183,7 +183,7 @@
 
 
 
-## [\[Nomad Trooper Base\] \[F\] Vanilla FE6 +Fix](https://git.io/Jn3mG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38T)
+## [\[Nomad Trooper Base\] \[F\] Vanilla FE6 +Fix](https://git.io/J1joA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6J)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO19"/> | <b>Bow (Vanilla +Fix)</b><br/><img alt="Bow (Vanilla +Fix)" src="https://git.io/JnOdj"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9h"/> |
 | :---: | :---: | :---: |
@@ -215,7 +215,7 @@
 
 
 
-## [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](https://git.io/Jn3fR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30o)
+## [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](https://git.io/J1jw1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jrq)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOa3"/> | <b>Bow (Vanilla +Fix)</b><br/><img alt="Bow (Vanilla +Fix)" src="https://git.io/JnOuC"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOud"/> |
 | :---: | :---: | :---: |
@@ -231,7 +231,7 @@
 
 
 
-## [\[Nomad Trooper Reskin\] \[M\] +Hat](https://git.io/Jn3mC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn380)
+## [\[Nomad Trooper Reskin\] \[M\] +Hat](https://git.io/J1jwQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jof)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOPb"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOVp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1U"/> |
 | :---: | :---: | :---: |
@@ -239,7 +239,7 @@
 
 
 
-## [\[Nomad Trooper Reskin\] \[M\] +Hat Repal by Orihara_Saki](https://git.io/Jn3ml) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38G)
+## [\[Nomad Trooper Reskin\] \[M\] +Hat Repal by Orihara_Saki](https://git.io/J1joO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6q)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODT"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOM3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBH"/> |
 | :---: | :---: | :---: |
@@ -303,7 +303,7 @@
 
 
 
-## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat](https://git.io/Jn3mB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nx)
+## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat](https://git.io/J1jiB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPU)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOou"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVD"/> |
 | :---: | :---: |
@@ -311,7 +311,7 @@
 
 
 
-## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat Repal](https://git.io/Jn3mH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nD)
+## [\[Nomad-Reskin\] \[M\] Non-Sacaen +Hat Repal](https://git.io/J1jw9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jr6)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOdN"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO1y"/> |
 | :---: | :---: |
@@ -327,7 +327,7 @@
 
 
 
-## [\[Paladin-Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3ma) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38m)
+## [\[Paladin-Base\] \[F\] Vanilla +Weapons](https://git.io/J1jwS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joL)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOXO"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO1i"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOD2"/> |
 | :---: | :---: | :---: |
@@ -337,7 +337,7 @@
 
 
 
-## [\[Paladin-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3mg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3np)
+## [\[Paladin-Base\] \[M\] Vanilla +Weapons](https://git.io/J1jrv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo0)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOVE"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOBQ"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKJ"/> |
 | :---: | :---: | :---: |
@@ -410,7 +410,7 @@
 
 
 
-## [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](https://git.io/Jn3m6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nm)
+## [\[Paladin-Variant\] \[M\] SALVAGED +Weapons](https://git.io/J1joC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKx)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOD4"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnODv"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnODf"/> |
 | :---: | :---: | :---: |
@@ -448,7 +448,7 @@
 
 
 
-## [\[Ranger-Base\] \[M\] Vanilla +Lance](https://git.io/Jn3OO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wo)
+## [\[Ranger-Base\] \[M\] Vanilla +Lance](https://git.io/J1jK0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6g)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMW"/> | <b>Sword (Smooth)</b><br/><img alt="Sword (Smooth)" src="https://git.io/Ju8L9"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOFI"/> |
 | :---: | :---: | :---: |
@@ -490,7 +490,7 @@
 
 
 
-## [\[Ranger-Reskin\] \[M\] +Hat Repal by Orihara_Saki](https://git.io/Jn3mD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zl)
+## [\[Ranger-Reskin\] \[M\] +Hat Repal by Orihara_Saki](https://git.io/J1jKr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6Q)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHi"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO1C"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO18"/> |
 | :---: | :---: | :---: |
@@ -514,7 +514,7 @@
 
 
 
-## [\[Ranger-Variant\] \[F\] Leo-Style +Lance](https://git.io/JElqi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JElqX)
+## [\[Ranger-Variant\] \[F\] Leo-Style +Lance](https://git.io/J1jwb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joB)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JElqw"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JElqg"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JElqo"/> |
 | :---: | :---: | :---: |
@@ -523,7 +523,7 @@
 
 
 
-## [\[Ranger-Variant\] \[M\] Leo-Style +Weapons](https://git.io/JEQUc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEQUC)
+## [\[Ranger-Variant\] \[M\] Leo-Style +Weapons](https://git.io/J1jrp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jK8)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEQUY"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JEQUI"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JEQUL"/> |
 | :---: | :---: | :---: |

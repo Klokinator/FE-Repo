@@ -1,4 +1,4 @@
-# [\[General-Reskin\] \[U\] Baron +Weapons](https://git.io/Jn3TF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cN)
+# [\[General-Reskin\] \[U\] Baron +Weapons](https://git.io/J1jKd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiq)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7g"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnObf"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnONt"/> |
 | :---: | :---: | :---: |

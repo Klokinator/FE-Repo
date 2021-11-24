@@ -1,4 +1,4 @@
-# [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](https://git.io/Jn3mf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38k)
+# [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](https://git.io/J1jKQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiZ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhw"/> | <b>Axe {MrNight}</b><br/><img alt="Axe {MrNight}" src="https://git.io/JnOyn"/> |
 | :---: | :---: | :---: |

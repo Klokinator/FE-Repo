@@ -1,4 +1,4 @@
-# [\[WK Base\] \[U\] Repal +Weapons](https://git.io/Jn3Oc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zx)
+# [\[WK Base\] \[U\] Repal +Weapons](https://git.io/J1jK5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jik)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0F"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhh"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO4c"/> |
 | :---: | :---: | :---: |

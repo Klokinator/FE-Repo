@@ -1,4 +1,4 @@
-# [\[FE6 Roy-Base\] \[M\] Vanilla +Magic by Pikmin](https://git.io/JisA8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisxc)
+# [\[FE6 Roy-Base\] \[M\] Vanilla +Magic by Pikmin](https://git.io/J1j6X) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiy)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisb1"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisbM"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisbP"/> |
 | :---: | :---: | :---: |

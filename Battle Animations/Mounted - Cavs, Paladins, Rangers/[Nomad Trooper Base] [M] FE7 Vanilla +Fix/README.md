@@ -1,4 +1,4 @@
-# [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](https://git.io/Jn3fR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30o)
+# [\[Nomad Trooper Base\] \[M\] FE7 Vanilla +Fix](https://git.io/J1jw1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jrq)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOa3"/> | <b>Bow (Vanilla +Fix)</b><br/><img alt="Bow (Vanilla +Fix)" src="https://git.io/JnOuC"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOud"/> |
 | :---: | :---: | :---: |

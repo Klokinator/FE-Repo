@@ -1,4 +1,4 @@
-# [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED +Axe](https://git.io/Jn3UW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WZ)
+# [\[Mercenary-Variant\] \[M\] Mercenary by SALVAGED +Axe](https://git.io/J1jrk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jo8)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSz"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2x"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO9R"/> |
 | :---: | :---: | :---: |

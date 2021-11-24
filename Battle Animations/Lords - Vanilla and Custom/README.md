@@ -32,7 +32,7 @@
 
 
 
-## [\[FE6 Roy-Base\] \[M\] Vanilla +Magic by Pikmin](https://git.io/JisA8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisxc)
+## [\[FE6 Roy-Base\] \[M\] Vanilla +Magic by Pikmin](https://git.io/J1j6X) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiy)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisb1"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisbM"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisbP"/> |
 | :---: | :---: | :---: |
@@ -82,7 +82,7 @@
 
 
 
-## [\[FE7 Eliwood-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/JispD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jishl)
+## [\[FE7 Eliwood-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/J1j61) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiH)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbb"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/Jisd7"/> | <b>Sword (Jojowood)</b><br/><img alt="Sword (Jojowood)" src="https://git.io/JisbF"/> |
 | :---: | :---: | :---: |
@@ -101,7 +101,7 @@
 
 
 
-## [\[FE7 Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/Jisp0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishU)
+## [\[FE7 Eliwood-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/J1ji4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPJ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNf"/> | <b>Sword (Binding Blade) {Marlon0024}</b><br/><img alt="Sword (Binding Blade) {Marlon0024}" src="https://git.io/Jisbj"/> | <b>Sword (Durandal Beta Slash)</b><br/><img alt="Sword (Durandal Beta Slash)" src="https://git.io/Jisbh"/> |
 | :---: | :---: | :---: |
@@ -196,7 +196,7 @@
 
 
 
-## [\[FE7 Hector-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/Jispk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jispd)
+## [\[FE7 Hector-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/J1jrd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joQ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNb"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisNq"/> | <b>Axe (Punch Crit)</b><br/><img alt="Axe (Punch Crit)" src="https://git.io/JisNL"/> |
 | :---: | :---: | :---: |
@@ -214,7 +214,7 @@
 
 
 
-## [\[FE7 Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](https://git.io/JisAF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisxI)
+## [\[FE7 Hector-Base\] \[M\] T2 Vanilla +Magic by Skitty](https://git.io/J1jiz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jix)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisN2"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisNi"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://git.io/JisN0"/> |
 | :---: | :---: | :---: |
@@ -259,7 +259,7 @@
 
 
 
-## [\[FE7 Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://git.io/Jispz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jishq)
+## [\[FE7 Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://git.io/J1joI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKB)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNV"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisNr"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisNo"/> |
 | :---: | :---: | :---: |
@@ -310,7 +310,7 @@
 
 
 
-## [\[FE7 Lyn-Base\] \[F\] T1 Vanilla +Axes by Vilkalizer](https://git.io/Jispr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishJ)
+## [\[FE7 Lyn-Base\] \[F\] T1 Vanilla +Axes by Vilkalizer](https://git.io/J1jro) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jox)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNp"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisNF"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jispe"/> |
 | :---: | :---: | :---: |
@@ -319,7 +319,7 @@
 
 
 
-## [\[FE7 Lyn-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/Jispg) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishL)
+## [\[FE7 Lyn-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/J1jK6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiY)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNy"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://git.io/JisNA"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/JisFf"/> |
 | :---: | :---: | :---: |
@@ -428,7 +428,7 @@
 
 
 
-## [\[FE8 Eirika-Base\] \[F\] T1 Repal +Weapons](https://git.io/Jispo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jisht)
+## [\[FE8 Eirika-Base\] \[F\] T1 Repal +Weapons](https://git.io/J1j6L) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jin)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisxS"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jisxx"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jisb0"/> |
 | :---: | :---: | :---: |
@@ -445,7 +445,7 @@
 
 
 
-## [\[FE8 Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](https://git.io/Jispy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jishn)
+## [\[FE8 Eirika-Base\] \[F\] T1 Vanilla +Magic, Staff](https://git.io/J1jKM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jif)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisAc"/> | <b>Sword (Backflip)</b><br/><img alt="Sword (Backflip)" src="https://git.io/Jisbl"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jisxr"/> |
 | :---: | :---: | :---: |
@@ -462,7 +462,7 @@
 
 
 
-## [\[FE8 Eirika-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/Jisx8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jispm)
+## [\[FE8 Eirika-Base\] \[F\] T2 Vanilla +Weapons](https://git.io/J1jKF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jim)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisbV"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jisbu"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisAq"/> |
 | :---: | :---: | :---: |
@@ -529,7 +529,7 @@
 
 
 
-## [\[FE8 Ephraim-Base\] \[M\] T1 Repal +Sword by Teraspark](https://git.io/JispN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jish2)
+## [\[FE8 Ephraim-Base\] \[M\] T1 Repal +Sword by Teraspark](https://git.io/J1j6D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiX)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisF2"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisFY"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFm"/> |
 | :---: | :---: | :---: |
@@ -545,7 +545,7 @@
 
 
 
-## [\[FE8 Ephraim-Base\] \[M\] T1 Vanilla +Dual-Sided by Andy](https://git.io/JisxY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishB)
+## [\[FE8 Ephraim-Base\] \[M\] T1 Vanilla +Dual-Sided by Andy](https://git.io/J1j65) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiD)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisAg"/> | <b>Lance (Dual)</b><br/><img alt="Lance (Dual)" src="https://git.io/JisFt"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFk"/> |
 | :---: | :---: | :---: |
@@ -561,7 +561,7 @@
 
 
 
-## [\[FE8 Ephraim-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/JispS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jish8)
+## [\[FE8 Ephraim-Base\] \[M\] T2 Vanilla +Weapons](https://git.io/J1jia) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPk)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisAN"/> | <b>Sword (Eirika Motion)</b><br/><img alt="Sword (Eirika Motion)" src="https://git.io/JisFT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisF4"/> |
 | :---: | :---: | :---: |
@@ -630,7 +630,7 @@
 
 
 
-## [\[FE8 Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](https://git.io/JispP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishG)
+## [\[FE8 Ephraim-Variant\] \[F\] T1 Vanilla Repack +Weapons](https://git.io/J1jrF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1job)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisxb"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JisF8"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisAW"/> |
 | :---: | :---: | :---: |
@@ -656,7 +656,7 @@
 
 
 
-## [\[FE8 Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](https://git.io/Jispw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishY)
+## [\[FE8 Ephraim-Variant\] \[M\] T1 Vanilla Repack +Weapons](https://git.io/J1jKy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiI)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisFH"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JisFS"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisF5"/> |
 | :---: | :---: | :---: |

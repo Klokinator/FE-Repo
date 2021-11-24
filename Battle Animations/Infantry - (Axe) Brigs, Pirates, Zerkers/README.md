@@ -1,6 +1,6 @@
 # [Infantry - (Axe) Brigs, Pirates, Zerkers Battle Animations](./)
 
-## [\[Berserker-Base\] \[M\] Vanilla +Magic](https://git.io/Jn3vj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38x)
+## [\[Berserker-Base\] \[M\] Vanilla +Magic](https://git.io/J1jKA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jic)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOEL"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOKU"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO2m"/> |
 | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 
 
 
-## [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow](https://git.io/Jn3vX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RV)
+## [\[Berserker-Hawkeye\] \[M\] No Ponytail +Bow](https://git.io/J1jrz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joK)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOad"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO0i"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOoO"/> |
 | :---: | :---: | :---: |
@@ -61,7 +61,7 @@
 
 
 
-## [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons](https://git.io/Jn3fZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eb)
+## [\[Berserker-Hawkeye\] \[M\] Vanilla +Weapons](https://git.io/J1jrl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKU)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOaO"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOEU"/> | <b>Axe (Magic)</b><br/><img alt="Axe (Magic)" src="https://git.io/JnOEk"/> |
 | :---: | :---: | :---: |
@@ -175,7 +175,7 @@
 
 
 
-## [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](https://git.io/Jn3JT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34v)
+## [\[Brigand-Base\] \[M\] Vanilla +Magic Anims](https://git.io/J1jrV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jop)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKa"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO6n"/> | <b>Magic (No Axe) (Blue Druid)</b><br/><img alt="Magic (No Axe) (Blue Druid)" src="https://git.io/JnO6J"/> |
 | :---: | :---: | :---: |
@@ -274,7 +274,7 @@
 
 
 
-## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](https://git.io/JisMD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDs)
+## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](https://git.io/J1jrC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6W)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis6S"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis6H"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6d"/> |
 | :---: | :---: | :---: |
@@ -299,7 +299,7 @@
 
 
 
-## [\[Pirate-Base\] \[M\] Vanilla +Sword by Pimpstick](https://git.io/Jn3fE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZG)
+## [\[Pirate-Base\] \[M\] Vanilla +Sword by Pimpstick](https://git.io/J1jwy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jov)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO25"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOuv"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgI"/> |
 | :---: | :---: | :---: |

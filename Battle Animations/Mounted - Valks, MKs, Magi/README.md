@@ -56,7 +56,7 @@
 
 
 
-## [\[MK-Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3O1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eg)
+## [\[MK-Base\] \[F\] Vanilla +Weapons](https://git.io/J1jwA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joW)
 
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://git.io/JnOrz"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://git.io/JnO6a"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOos"/> |
 | :---: | :---: | :---: |
@@ -73,7 +73,7 @@
 
 
 
-## [\[MK-Base\] \[M\] Vanilla +Weapons](https://git.io/Jn3OD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn304)
+## [\[MK-Base\] \[M\] Vanilla +Weapons](https://git.io/J1joe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKG)
 
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://git.io/JnOQS"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://git.io/JnOXU"/> | <b>Lance {Teraspark}</b><br/><img alt="Lance {Teraspark}" src="https://git.io/JnOX1"/> |
 | :---: | :---: | :---: |
@@ -122,7 +122,7 @@
 
 
 
-## [\[Troubadour-Base\] \[F\] Repal +Sword by Teraspark](https://git.io/Jn3O6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lb)
+## [\[Troubadour-Base\] \[F\] Repal +Sword by Teraspark](https://git.io/J1jon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKX)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOuD"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOr3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO6e"/> |
 | :---: | :---: | :---: |
@@ -130,7 +130,7 @@
 
 
 
-## [\[Troubadour-Base\] \[F\] Vanilla FE7 +Swords by TBA](https://git.io/Jn3Oy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lx)
+## [\[Troubadour-Base\] \[F\] Vanilla FE7 +Swords by TBA](https://git.io/J1jKo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6b)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnORr"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOwA"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwv"/> |
 | :---: | :---: | :---: |
@@ -138,7 +138,7 @@
 
 
 
-## [\[Troubadour-Base\] \[F\] Vanilla Ponytail +Magic](https://git.io/Jn3O5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30U)
+## [\[Troubadour-Base\] \[F\] Vanilla Ponytail +Magic](https://git.io/J1jKz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6y)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBb"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://git.io/JnOBh"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORe"/> |
 | :---: | :---: | :---: |
@@ -147,7 +147,7 @@
 
 
 
-## [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](https://git.io/Jn3OF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bt)
+## [\[Troubadour-Reskin\] \[F\] FE7-Style Repal +Weapons](https://git.io/J1jos) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKK)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnORT"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXg"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORq"/> |
 | :---: | :---: | :---: |
@@ -180,7 +180,7 @@
 
 
 
-## [\[Troubadour-Reskin\] \[F\] Ponytail Repal +Weapons](https://git.io/Jn3O9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BE)
+## [\[Troubadour-Reskin\] \[F\] Ponytail Repal +Weapons](https://git.io/J1jwp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jou)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnORI"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOw1"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBj"/> |
 | :---: | :---: | :---: |
@@ -229,7 +229,7 @@
 
 
 
-## [\[Troubadour-Reskin\] \[M\] Deacon v2 Repal +Weapons](https://git.io/Jn3Ox) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30T)
+## [\[Troubadour-Reskin\] \[M\] Deacon v2 Repal +Weapons](https://git.io/J1jie) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiN)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOP7"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOK9"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORk"/> |
 | :---: | :---: | :---: |
@@ -254,7 +254,7 @@
 
 
 
-## [\[Valkyrie-Base\] \[F\] Vanilla +Alt by seergiioo](https://git.io/Jn33e) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lN)
+## [\[Valkyrie-Base\] \[F\] Vanilla +Alt by seergiioo](https://git.io/J1jwj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joR)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOKM"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://git.io/JnOoK"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnORY"/> |
 | :---: | :---: | :---: |

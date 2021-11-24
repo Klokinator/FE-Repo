@@ -90,7 +90,7 @@
 
 
 
-## [\[Peg T1 Base\] \[F\] Repal v2 + Weapons by Flasuban](https://git.io/JuuIA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JuuIp)
+## [\[Peg T1 Base\] \[F\] Repal v2 + Weapons by Flasuban](https://git.io/J1jrI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6c)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuIQ"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuI1"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuIH"/> |
 | :---: | :---: | :---: |
@@ -99,7 +99,7 @@
 
 
 
-## [\[Peg T1 Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3mb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zy)
+## [\[Peg T1 Base\] \[F\] Vanilla +Weapons](https://git.io/J1jo1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6f)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4j"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4d"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBF"/> |
 | :---: | :---: | :---: |
@@ -108,7 +108,7 @@
 
 
 
-## [\[Peg T1 Base\] \[F\] Vanilla +Weapons Repal](https://git.io/Jn3YU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z5)
+## [\[Peg T1 Base\] \[F\] Vanilla +Weapons Repal](https://git.io/J1jw7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jra)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2r"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4C"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOrD"/> |
 | :---: | :---: | :---: |
@@ -149,7 +149,7 @@
 
 
 
-## [\[Peg T1 Reskin\] \[M\] Generic by SixThousandHulls +Staff](https://git.io/Jn3YO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nu)
+## [\[Peg T1 Reskin\] \[M\] Generic by SixThousandHulls +Staff](https://git.io/J1jot) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKc)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOBC"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrc"/> |
 | :---: | :---: | :---: |
@@ -157,7 +157,7 @@
 
 
 
-## [\[Peg T2 Base\] \[F\] Falcoknight Outfit Repal +Weapons](https://git.io/Jn3mj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nJ)
+## [\[Peg T2 Base\] \[F\] Falcoknight Outfit Repal +Weapons](https://git.io/J1jKP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6o)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO6z"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOBU"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBl"/> |
 | :---: | :---: | :---: |
@@ -166,7 +166,7 @@
 
 
 
-## [\[Peg T2 Base\] \[F\] Vanilla +Weapons](https://git.io/Jn3mh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38V)
+## [\[Peg T2 Base\] \[F\] Vanilla +Weapons](https://git.io/J1joT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKm)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOKp"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4G"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwS"/> |
 | :---: | :---: | :---: |
@@ -211,7 +211,7 @@
 
 
 
-## [\[Peg T2 Variant\] \[F\] Falcoknight v2 +Weapons](https://git.io/Jn3OC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nE)
+## [\[Peg T2 Variant\] \[F\] Falcoknight v2 +Weapons](https://git.io/J1jwd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jrX)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOBT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOoJ"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO0N"/> |
 | :---: | :---: | :---: |
@@ -229,7 +229,7 @@
 
 
 
-## [\[WK Base\] \[U\] Repal +Weapons](https://git.io/Jn3Oc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zx)
+## [\[WK Base\] \[U\] Repal +Weapons](https://git.io/J1jK5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jik)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0F"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhh"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO4c"/> |
 | :---: | :---: | :---: |
@@ -254,7 +254,7 @@
 
 
 
-## [\[WK Custom\] \[M\] Malig Knight v1 +Lance](https://git.io/Jn3Os) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zp)
+## [\[WK Custom\] \[M\] Malig Knight v1 +Lance](https://git.io/J1jio) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPI)
 
 | <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://git.io/JnO4z"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhs"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO40"/> |
 | :---: | :---: | :---: |
@@ -271,7 +271,7 @@
 
 
 
-## [\[WK Reskin\] \[U\] Knight Helmetless +Axe](https://git.io/Jn3Ol) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nU)
+## [\[WK Reskin\] \[U\] Knight Helmetless +Axe](https://git.io/J1jK2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j69)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhp"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhj"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO0S"/> |
 | :---: | :---: | :---: |
@@ -297,7 +297,7 @@
 
 
 
-## [\[WL Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3O4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn382)
+## [\[WL Base\] \[U\] Vanilla +Weapons](https://git.io/J1jr9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joN)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4u"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4s"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzu"/> |
 | :---: | :---: | :---: |
@@ -357,7 +357,7 @@
 
 
 
-## [\[WL Reskin\] \[M\] Helmetless +Axe](https://git.io/Jn3Oz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zr)
+## [\[WL Reskin\] \[M\] Helmetless +Axe](https://git.io/J1jKw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6r)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOVm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOzE"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2b"/> |
 | :---: | :---: | :---: |
@@ -385,7 +385,7 @@
 
 
 
-## [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/Jn3OX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ne)
+## [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/J1jr4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKe)
 
 | <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://git.io/JuuIy"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://git.io/JuuID"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> |
 | :---: | :---: | :---: |

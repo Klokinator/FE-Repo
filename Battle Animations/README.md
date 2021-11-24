@@ -1445,7 +1445,7 @@
 
 
 
-### [\[Sniper-Reskin\] \[M\] Adventurer by ZoramineFae](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Snipers%20and%20Ballistae/%5BSniper-Reskin%5D%20%5BM%5D%20Adventurer%20by%20ZoramineFae) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34t)
+### [\[Sniper-Reskin\] \[M\] Adventurer by ZoramineFae](https://git.io/Jn3Um) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34t)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnONg"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOxJ"/> |
 | :---: | :---: |
@@ -2868,10 +2868,11 @@
 
 
 
-### [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Knife](https://git.io/J1jry) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKf)
+### [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Knife +Bow](https://git.io/JMT4d) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMT4b)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnOMu"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMz"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQF"/> |
+| <b>Knife</b><br/><img alt="Knife" src="https://git.io/JMT41"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JMT4M"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JMT4X"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JMT4D"/> |
 
 
 
@@ -2924,10 +2925,11 @@
 
 
 
-### [\[Thief-Base\] \[M\] Matthew Repal by Pikmin +Knife](https://git.io/J1j6V) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiP)
+### [\[Thief-Base\] \[M\] Matthew Repal by Pikmin +Knife +Bow](https://git.io/JMT4F) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMT4N)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://git.io/JnO5z"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSp"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb4"/> |
+| <b>Knife</b><br/><img alt="Knife" src="https://git.io/JMT49"/> | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JMT4S"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JMT4y"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JMT4Q"/> |
 
 
 
@@ -3626,7 +3628,8 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisN1"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisNN"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisbY"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisNM"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisN9"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisN6"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisNM"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisN9"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JMT4H"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisN6"/> |
 
 
 

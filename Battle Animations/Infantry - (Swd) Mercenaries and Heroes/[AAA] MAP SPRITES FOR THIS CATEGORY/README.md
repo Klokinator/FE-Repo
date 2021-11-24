@@ -3,24 +3,34 @@
 ### [AAA] MAP SPRITES FOR THIS CATEGORY
 
 
-|Hero (F) Axe-walk <br> {StreetHero}|Hero (F) Blue Shield Edit Sword-walk <br> {Pikmin, Pushwall}|Hero (F) Blue Shield Edit Sword.png <br> {Pikmin}|Hero (F) Brown Shield Edit Sword <br> {Pikmin, Pushwall}|
+|Hero (F) Axe-walk <br> {StreetHero}|Hero (F) Blue Shield Axe <br> {ZoramineFae}|Hero (F) Blue Shield Axe-walk <br> {ZoramineFae}|Hero (F) Blue Shield Sword-walk <br> {Pikmin, Pushwall}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Hero (F) Axe {StreetHero}-walk" src="Hero (F) Axe {StreetHero}-walk.png" />|<img alt="Hero (F) Blue Shield Edit Sword {Pikmin, Pushwall}-walk" src="Hero (F) Blue Shield Edit Sword {Pikmin, Pushwall}-walk.png" />|<img alt="Hero (F) Blue Shield Edit Sword {Pikmin}.png-stand" src="Hero (F) Blue Shield Edit Sword {Pikmin}.png-stand.png" />|<img alt="Hero (F) Brown Shield Edit Sword {Pikmin, Pushwall}-stand" src="Hero (F) Brown Shield Edit Sword {Pikmin, Pushwall}-stand.png" />|
+|<img alt="Hero (F) Axe {StreetHero}-walk" src="Hero (F) Axe {StreetHero}-walk.png" />|<img alt="Hero (F) Blue Shield Axe {ZoramineFae}-stand" src="Hero (F) Blue Shield Axe {ZoramineFae}-stand.png" />|<img alt="Hero (F) Blue Shield Axe {ZoramineFae}-walk" src="Hero (F) Blue Shield Axe {ZoramineFae}-walk.png" />|<img alt="Hero (F) Blue Shield Sword {Pikmin, Pushwall}-walk" src="Hero (F) Blue Shield Sword {Pikmin, Pushwall}-walk.png" />|
 
 
-|Hero (F) Brown Shield Edit Sword-walk <br> {Pikmin, Pushwall}|Hero (F) Gerik-Style Sword <br> {Nuramon}|Hero (F) Gerik-Style Sword-walk <br> {Nuramon}|Hero (F) Sword-walk <br> {IS}|
+|Hero (F) Blue Shield Sword.png <br> {Pikmin}|Hero (F) Brown Shield Axe <br> {ZoramineFae}|Hero (F) Brown Shield Axe-walk <br> {ZoramineFae}|Hero (F) Brown Shield Sword <br> {Pikmin, Pushwall}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Hero (F) Brown Shield Edit Sword {Pikmin, Pushwall}-walk" src="Hero (F) Brown Shield Edit Sword {Pikmin, Pushwall}-walk.png" />|<img alt="Hero (F) Gerik-Style Sword {Nuramon}-stand" src="Hero (F) Gerik-Style Sword {Nuramon}-stand.png" />|<img alt="Hero (F) Gerik-Style Sword {Nuramon}-walk" src="Hero (F) Gerik-Style Sword {Nuramon}-walk.png" />|<img alt="Hero (F) Sword {IS}-walk" src="Hero (F) Sword {IS}-walk.png" />|
+|<img alt="Hero (F) Blue Shield Sword {Pikmin}.png-stand" src="Hero (F) Blue Shield Sword {Pikmin}.png-stand.png" />|<img alt="Hero (F) Brown Shield Axe {ZoramineFae}-stand" src="Hero (F) Brown Shield Axe {ZoramineFae}-stand.png" />|<img alt="Hero (F) Brown Shield Axe {ZoramineFae}-walk" src="Hero (F) Brown Shield Axe {ZoramineFae}-walk.png" />|<img alt="Hero (F) Brown Shield Sword {Pikmin, Pushwall}-stand" src="Hero (F) Brown Shield Sword {Pikmin, Pushwall}-stand.png" />|
 
 
-|Hero (F) <br> {IS}|Hero (M) Axe-walk <br> {Raspberry}|Hero (M) Blue Shield Edit Sword <br> {Pikmin}|Hero (M) Blue Shield Edit Sword.png-walk <br> {Pikmin}|
+|Hero (F) Brown Shield Sword-walk <br> {Pikmin, Pushwall}|Hero (F) Gerik-Style Sword <br> {Nuramon}|Hero (F) Gerik-Style Sword-walk <br> {Nuramon}|Hero (F) Sword-walk <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Hero (F) {IS}-stand" src="Hero (F) {IS}-stand.png" />|<img alt="Hero (M) Axe {Raspberry}-walk" src="Hero (M) Axe {Raspberry}-walk.png" />|<img alt="Hero (M) Blue Shield Edit Sword {Pikmin}-stand" src="Hero (M) Blue Shield Edit Sword {Pikmin}-stand.png" />|<img alt="Hero (M) Blue Shield Edit Sword {Pikmin}.png-walk" src="Hero (M) Blue Shield Edit Sword {Pikmin}.png-walk.png" />|
+|<img alt="Hero (F) Brown Shield Sword {Pikmin, Pushwall}-walk" src="Hero (F) Brown Shield Sword {Pikmin, Pushwall}-walk.png" />|<img alt="Hero (F) Gerik-Style Sword {Nuramon}-stand" src="Hero (F) Gerik-Style Sword {Nuramon}-stand.png" />|<img alt="Hero (F) Gerik-Style Sword {Nuramon}-walk" src="Hero (F) Gerik-Style Sword {Nuramon}-walk.png" />|<img alt="Hero (F) Sword {IS}-walk" src="Hero (F) Sword {IS}-walk.png" />|
 
 
-|Hero (M) Brown Shield Edit Sword <br> {Pikmin}|Hero (M) Brown Shield Edit Sword.png-walk <br> {Pikmin}|Hero (M) Gerik-Style Sword <br> {Nuramon}|Hero (M) Gerik-Style Sword-walk <br> {Nuramon}|
+|Hero (F) <br> {IS}|Hero (M) Axe-walk <br> {Raspberry}|Hero (M) Blue Shield Axe <br> {ZoramineFae}|Hero (M) Blue Shield Axe-walk <br> {ZoramineFae}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Hero (M) Brown Shield Edit Sword {Pikmin}-stand" src="Hero (M) Brown Shield Edit Sword {Pikmin}-stand.png" />|<img alt="Hero (M) Brown Shield Edit Sword {Pikmin}.png-walk" src="Hero (M) Brown Shield Edit Sword {Pikmin}.png-walk.png" />|<img alt="Hero (M) Gerik-Style Sword {Nuramon}-stand" src="Hero (M) Gerik-Style Sword {Nuramon}-stand.png" />|<img alt="Hero (M) Gerik-Style Sword {Nuramon}-walk" src="Hero (M) Gerik-Style Sword {Nuramon}-walk.png" />|
+|<img alt="Hero (F) {IS}-stand" src="Hero (F) {IS}-stand.png" />|<img alt="Hero (M) Axe {Raspberry}-walk" src="Hero (M) Axe {Raspberry}-walk.png" />|<img alt="Hero (M) Blue Shield Axe {ZoramineFae}-stand" src="Hero (M) Blue Shield Axe {ZoramineFae}-stand.png" />|<img alt="Hero (M) Blue Shield Axe {ZoramineFae}-walk" src="Hero (M) Blue Shield Axe {ZoramineFae}-walk.png" />|
+
+
+|Hero (M) Blue Shield Sword <br> {Pikmin}|Hero (M) Blue Shield Sword.png-walk <br> {Pikmin}|Hero (M) Brown Shield Axe <br> {ZoramineFae}|Hero (M) Brown Shield Axe-walk <br> {ZoramineFae}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Hero (M) Blue Shield Sword {Pikmin}-stand" src="Hero (M) Blue Shield Sword {Pikmin}-stand.png" />|<img alt="Hero (M) Blue Shield Sword {Pikmin}.png-walk" src="Hero (M) Blue Shield Sword {Pikmin}.png-walk.png" />|<img alt="Hero (M) Brown Shield Axe {ZoramineFae}-stand" src="Hero (M) Brown Shield Axe {ZoramineFae}-stand.png" />|<img alt="Hero (M) Brown Shield Axe {ZoramineFae}-walk" src="Hero (M) Brown Shield Axe {ZoramineFae}-walk.png" />|
+
+
+|Hero (M) Brown Shield Sword <br> {Pikmin}|Hero (M) Brown Shield Sword.png-walk <br> {Pikmin}|Hero (M) Gerik-Style Sword <br> {Nuramon}|Hero (M) Gerik-Style Sword-walk <br> {Nuramon}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Hero (M) Brown Shield Sword {Pikmin}-stand" src="Hero (M) Brown Shield Sword {Pikmin}-stand.png" />|<img alt="Hero (M) Brown Shield Sword {Pikmin}.png-walk" src="Hero (M) Brown Shield Sword {Pikmin}.png-walk.png" />|<img alt="Hero (M) Gerik-Style Sword {Nuramon}-stand" src="Hero (M) Gerik-Style Sword {Nuramon}-stand.png" />|<img alt="Hero (M) Gerik-Style Sword {Nuramon}-walk" src="Hero (M) Gerik-Style Sword {Nuramon}-walk.png" />|
 
 
 |Hero (M) Linus Sword <br> {Ryn}|Hero (M) Sword-walk <br> {IS}|Hero (M) <br> {IS}|Mercenary (F) Improved Sword <br> {flasuban}|

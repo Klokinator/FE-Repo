@@ -148,7 +148,7 @@
 
 ### [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](https://git.io/J1joU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKC)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEXaE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEXaE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO94"/> |
 
@@ -2018,7 +2018,7 @@
 
 ### [\[Mercenary-Base\] \[M\] Repal by Skitty](https://git.io/Jn3tq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30p)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFB"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20by%20Skitty/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOFB"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOij"/> |
 | :---: | :---: |
 
 
@@ -3196,6 +3196,15 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JiOXI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JiOXL"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Knight-Custom\] \[U\] The Stalwart by Zomaxie](https://git.io/JM4up) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JM4uh)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JM4uN"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JM4uA"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JM4ub"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JM4ux"/> |
 
 
 

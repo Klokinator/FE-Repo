@@ -148,7 +148,7 @@
 
 ### [\[Misc-Supply\] \[U\] T1 Merlinus Transport +Weapons](https://git.io/J1joU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKC)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEXaE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/7.%20Staff/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JEXaE"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOFz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOd3"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO94"/> |
 
@@ -174,6 +174,14 @@
 ### [\[Misc\] \[U\] Chicken by Eldritch](https://git.io/Jn3fe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RP)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOzb"/> |
+| :---: |
+
+
+
+
+### [\[Misc\] \[U\] Gelatinous Cube by Purple Mage](https://git.io/JMuFM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMuFD)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JMuFi"/> |
 | :---: |
 
 
@@ -5093,6 +5101,15 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4o"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwd"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO4b"/> |
 | :---: | :---: | :---: |
+
+
+
+
+### [\[Sage-Variant\] \[M\] Red Mage by Reyk](https://git.io/JMuh3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMuhs)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JMuht"/> | <b>Magic (Basic)</b><br/><img alt="Magic (Basic)" src="https://git.io/JMuhq"/> | <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://git.io/JMuhm"/> |
+| :---: | :---: | :---: |
+| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JMuhO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JMuhY"/> |
 
 
 

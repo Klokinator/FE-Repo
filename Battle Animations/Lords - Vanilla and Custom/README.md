@@ -82,6 +82,15 @@
 
 
 
+## [\[FE6 Roy-Variant\] \[F\] Mystic Knight by Linkain](https://git.io/JMKRt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMKRq)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JMKBj"/> | <b>Sword (v2)</b><br/><img alt="Sword (v2)" src="https://git.io/JMKBp"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JMKRv"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JMKBh"/> |
+
+
+
+
 ## [\[FE7 Eliwood-Base\] \[M\] T1 Vanilla +Weapons](https://git.io/J1j61) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiH)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbb"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://git.io/Jisd7"/> | <b>Sword (Jojowood)</b><br/><img alt="Sword (Jojowood)" src="https://git.io/JisbF"/> |

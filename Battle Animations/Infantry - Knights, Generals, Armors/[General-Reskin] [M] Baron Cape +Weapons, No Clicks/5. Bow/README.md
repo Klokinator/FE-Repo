@@ -9,3 +9,5 @@
 ## Credit
 
 Leo_link, Nuramon, Iscaneus
+
+Revamped Handaxe by Sax Marine.

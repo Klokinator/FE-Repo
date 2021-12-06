@@ -1,0 +1,279 @@
+#######################################################
+#56 genm_al1 General Hand axe
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+4 p- Axe_003.png
+4 p- Axe_004.png
+4 p- Axe_005.png
+C2B                               #Play armored unit "leaping" SFE
+12 p- Axe_006.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Axe_007.png
+5 p- Axe_008.png
+5 p- Axe_009.png
+C13                               #ranged attack - hand axe for Hector
+5 p- Axe_010.png
+5 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+10 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+8 p- Axe_015.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_016.png
+3 p- Axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_017.png
+2 p- Axe_018.png
+1 p- Axe_019.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_022.png
+1 p- Axe_017.png
+C22                               #Play short sword swinging SFE
+1 p- Axe_018.png
+1 p- Axe_019.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_022.png
+C22                               #Play short sword swinging SFE
+1 p- Axe_017.png
+1 p- Axe_018.png
+1 p- Axe_019.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_022.png
+2 p- Axe_002.png
+2 p- Axe_003.png
+2 p- Axe_004.png
+2 p- Axe_005.png
+C22                               #Play short sword swinging SFE
+2 p- Axe_023.png
+2 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+C22                               #Play short sword swinging SFE
+2 p- Axe_023.png
+2 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+C22                               #Play short sword swinging SFE
+2 p- Axe_023.png
+2 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+16 p- Axe_006.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Axe_007.png
+5 p- Axe_008.png
+5 p- Axe_009.png
+C13                               #ranged attack - hand axe for Hector
+5 p- Axe_010.png
+5 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+10 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+8 p- Axe_015.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_016.png
+3 p- Axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+4 p- Axe_003.png
+4 p- Axe_004.png
+4 p- Axe_005.png
+C2B                               #Play armored unit "leaping" SFE
+12 p- Axe_006.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Axe_007.png
+5 p- Axe_008.png
+5 p- Axe_009.png
+C13                               #ranged attack - hand axe for Hector
+5 p- Axe_010.png
+5 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+10 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+8 p- Axe_015.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_016.png
+3 p- Axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_017.png
+2 p- Axe_018.png
+1 p- Axe_019.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_022.png
+1 p- Axe_017.png
+C22                               #Play short sword swinging SFE
+1 p- Axe_018.png
+1 p- Axe_019.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_022.png
+C22                               #Play short sword swinging SFE
+1 p- Axe_017.png
+1 p- Axe_018.png
+1 p- Axe_019.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_022.png
+2 p- Axe_002.png
+2 p- Axe_003.png
+2 p- Axe_004.png
+2 p- Axe_005.png
+C22                               #Play short sword swinging SFE
+2 p- Axe_023.png
+2 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+C22                               #Play short sword swinging SFE
+2 p- Axe_023.png
+2 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+C22                               #Play short sword swinging SFE
+2 p- Axe_023.png
+2 p- Axe_024.png
+2 p- Axe_025.png
+2 p- Axe_026.png
+16 p- Axe_006.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Axe_007.png
+5 p- Axe_008.png
+5 p- Axe_009.png
+C13                               #ranged attack - hand axe for Hector
+5 p- Axe_010.png
+5 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+10 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+8 p- Axe_015.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_016.png
+3 p- Axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_027.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- Axe_028.png
+C01                               #NOP
+3 p- Axe_027.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_027.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- Axe_028.png
+C01                               #NOP
+3 p- Axe_027.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+4 p- Axe_003.png
+4 p- Axe_004.png
+4 p- Axe_005.png
+C2B                               #Play armored unit "leaping" SFE
+12 p- Axe_006.png
+C24                               #Play sword slashing air SFE
+1 p- Axe_007.png
+C05                               #Call spell associated with equipped weapon
+2 p- Axe_007.png
+5 p- Axe_008.png
+5 p- Axe_009.png
+C13                               #ranged attack - hand axe for Hector
+5 p- Axe_010.png
+5 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+10 p- Axe_014.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+8 p- Axe_015.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- Axe_016.png
+3 p- Axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

@@ -11,3 +11,5 @@
 Leo_link, Nuramon, Iscaneus, The_Big_Dededester
 
 1. Sword (Magic Flash) {The_Big_Dededester}
+
+Revamped Handaxe by Sax Marine.

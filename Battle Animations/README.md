@@ -4824,14 +4824,6 @@
 
 
 
-### [\[Mage-Reskin\] \[F\] Hat +Staff by RetroGamer](https://git.io/J1jrD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joD)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JKGvd"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JKGv5"/> |
-| :---: | :---: |
-
-
-
-
 ### [\[Mage-Reskin\] \[F\] Lilina by Mikey Seregon](https://git.io/Jn3qy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cG)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXQ"/> |
@@ -4851,6 +4843,14 @@
 ### [\[Mage-Reskin\] \[F\] Ponytail by Lisandra_Brave](https://git.io/Jn3Ir) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uR)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOPZ"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOXz"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Mage-Reskin\] \[F\] Wizard Hat +Staff by RetroGamer](https://git.io/JMNr3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMNrs)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JMNrT"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JMNrU"/> |
 | :---: | :---: |
 
 
@@ -4896,9 +4896,9 @@
 
 
 
-### [\[Pupil-Reskin\] \[M\] Hat Pupil by Dutch Introvert](https://git.io/JEN1a) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JEN1w)
+### [\[Pupil-Reskin\] \[M\] Flat Hat by Dutch Introvert](https://git.io/JMNrL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMNrY)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JEN1u"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JMNrv"/> |
 | :---: |
 
 
@@ -5077,6 +5077,14 @@
 ### [\[Sage-Reskin\] \[M\] Pent by Greentea](https://git.io/Jn3f1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38D)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOE5"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO22"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Sage-Reskin\] \[M\] Pointy Hat by ReRoMastah](https://git.io/JMNrO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JMNrG)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JMNrf"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JMNrq"/> |
 | :---: | :---: |
 
 

@@ -254,19 +254,20 @@
 
 
 
-## [\[WK Custom\] \[M\] Malig Knight v1 +Lance](https://git.io/J1jio) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPI)
+## [\[WK Custom\] \[M\] Malig Knight v1](https://git.io/JDU01) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDU0M)
 
-| <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://git.io/JnO4z"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhs"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO40"/> |
+| <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://git.io/JDU0V"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JDU0w"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JDU0r"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOhq"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JDU0a"/> |
 
 
 
 
 ## [\[WK Custom\] \[M\] Malig Knight v2](https://git.io/Jn3OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38u)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzH"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JDU0K"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> |
 | :---: | :---: | :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzH"/> |
 
 
 

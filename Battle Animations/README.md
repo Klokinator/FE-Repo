@@ -1756,7 +1756,7 @@
 
 ### [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](https://git.io/Jn3TY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3l3)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOjm"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOge"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOjm"/> |
 | :---: | :---: |
 
 
@@ -2363,7 +2363,7 @@
 
 
 
-### [\[Sword FE16 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/JK3DR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3Dz)
+### [\[Sword FE16 Custom\] \[M\] Dread Fighter by Nuramon](https://git.io/JK3DR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BM%5D%20Dread%20Fighter%20by%20Nuramon)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dn"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JXSSy"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3Ds"/> |
 | :---: | :---: | :---: |
@@ -6922,19 +6922,20 @@
 
 
 
-### [\[WK Custom\] \[M\] Malig Knight v1 +Lance](https://git.io/J1jio) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPI)
+### [\[WK Custom\] \[M\] Malig Knight v1](https://git.io/JDU01) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDU0M)
 
-| <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://git.io/JnO4z"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhs"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO40"/> |
+| <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://git.io/JDU0V"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JDU0w"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JDU0r"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOhq"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JDU0a"/> |
 
 
 
 
 ### [\[WK Custom\] \[M\] Malig Knight v2](https://git.io/Jn3OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38u)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzH"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JDU0K"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> |
 | :---: | :---: | :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzH"/> |
 
 
 

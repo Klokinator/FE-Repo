@@ -3,7 +3,8 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisFH"/> | <b>Sword (Rapier)</b><br/><img alt="Sword (Rapier)" src="https://git.io/JisFS"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisF5"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisAK"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisA4"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JisAo"/> |
-| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/JisFi"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisFo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisxd"/> |
+| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/JisFi"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JisFo"/> | <b>Staff (Fix)</b><br/><img alt="Staff (Fix)" src="https://git.io/JDG7A"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jisxd"/> |
 
 ## Credits
 
@@ -12,4 +13,6 @@ Vanilla animation by IS.
 Additional weapons (???) by DerTheVaporeon, Pikmin1211.
 
 Staff by ZoramineFae.
+
+Fixed Staff by Permafrost. This fix allows the staff to ALSO be used as a magic animation, if desired.
 

@@ -2631,6 +2631,14 @@
 
 
 
+### [\[Assassin-Base\] \[M\] Jaffar Vanilla Repal by Huichelaar](https://git.io/JDcAx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDcAh)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JDcAQ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JDcA7"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](https://git.io/J1j6t) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiC)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhO"/> | <b>Bow {Andy, SD9K}</b><br/><img alt="Bow {Andy, SD9K}" src="https://git.io/JnOhr"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdG"/> |
@@ -3261,7 +3269,7 @@
 
 ### [\[Knight-Variant\] \[M\] Helmetless by SALVAGED](https://git.io/Jn3Td) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c9)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO93"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO96"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOy9"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO96"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOy9"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO77"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOQx"/> | <b>Bow (shield on back)</b><br/><img alt="Bow (shield on back)" src="https://git.io/JnOQh"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb8"/> |
@@ -4908,7 +4916,7 @@
 
 ### [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](https://git.io/J1jrb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jod)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXd"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnO5K"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPr"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnO5K"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPr"/> |
 | :---: | :---: | :---: |
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOPQ"/> |
 
@@ -5608,7 +5616,7 @@
 
 ### [\[Spider-Reskin\] \[U\] Bael Queen by Seal](https://git.io/Jn3YV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EN)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Bael%20Queen%20by%20Seal/6.%20Magic/Magic.gif"/> | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOo2"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwM"/> | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOo2"/> |
 | :---: | :---: |
 
 

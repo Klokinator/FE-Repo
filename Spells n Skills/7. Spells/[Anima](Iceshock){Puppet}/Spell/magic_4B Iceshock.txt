@@ -1,0 +1,92 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_001.png
+3
+
+C012148                               #Sound 289 SE:Lightning strike
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_002.png
+4
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_003.png
+3
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_004.png
+2
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_005.png
+3
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_006.png
+3
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_007.png
+3
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_008.png
+3
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_009.png
+3
+
+C00001A                               #Required before 1F or miss termination branch
+~~~                               #miss terminator
+C012948                               #Sound 297 SE:Divine strike
+C00001F                               #Play a hit tone (requires 1A just before)
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_010.png
+8
+
+C012348                               #Sound 291 SE:Fimbulvetr ice
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_011.png
+10
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_012.png
+2
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_013.png
+1
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_014.png
+1
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_015.png
+2
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_016.png
+2
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_017.png
+2
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_018.png
+2
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_019.png
+2
+
+O magic_4B Iceshock_o_000.png
+B magic_4B Iceshock_b_020.png
+2
+
+/// - End of animation

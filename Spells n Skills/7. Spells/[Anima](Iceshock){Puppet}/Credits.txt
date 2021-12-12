@@ -1,0 +1,5 @@
+Created by Puppet
+
+Spell name and inspiration by Toby Fox
+
+Special thanks to 7743 for troubleshooting

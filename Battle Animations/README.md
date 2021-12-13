@@ -2170,6 +2170,14 @@
 
 
 
+### [\[FE7 Lyn-Reskin\] \[F\] T1 Fir-Style Myrmidon](https://git.io/JD4kE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JD4ku)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JD4k8"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JD4kR"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[FE7 Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon](https://git.io/JXQlR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXQlE)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JXQlt"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JXQlO"/> |
@@ -2536,6 +2544,14 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiw"/> |
 | :---: |
+
+
+
+
+### [\[Swordmaster-Variant\] \[M\] FE10-Style \(Bald\)](https://git.io/JD4kB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JD4k0)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JD4k4"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JD4kW"/> |
+| :---: | :---: |
 
 
 
@@ -3269,7 +3285,7 @@
 
 ### [\[Knight-Variant\] \[M\] Helmetless by SALVAGED](https://git.io/Jn3Td) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3c9)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20Helmetless%20by%20SALVAGED/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO96"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOy9"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO93"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO96"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOy9"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO77"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOQx"/> | <b>Bow (shield on back)</b><br/><img alt="Bow (shield on back)" src="https://git.io/JnOQh"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb8"/> |
@@ -4916,7 +4932,7 @@
 
 ### [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](https://git.io/J1jrb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jod)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnO5K"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPr"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOXd"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnO5K"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOPr"/> |
 | :---: | :---: | :---: |
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOPQ"/> |
 
@@ -7167,7 +7183,7 @@
 
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://git.io/JnOrz"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://git.io/JnO6a"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOos"/> |
 | :---: | :---: | :---: |
-| <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://git.io/JnOok"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOwz"/> |
+| <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sword)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOwz"/> |
 
 
 

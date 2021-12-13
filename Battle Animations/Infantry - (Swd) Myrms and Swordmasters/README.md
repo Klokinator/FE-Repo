@@ -8,6 +8,14 @@
 
 
 
+## [\[FE7 Lyn-Reskin\] \[F\] T1 Fir-Style Myrmidon](https://git.io/JD4kE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JD4ku)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JD4k8"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JD4kR"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[FE7 Lyn-Reskin\] \[M\] T1 Awakening-Style Myrmidon](https://git.io/JXQlR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXQlE)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JXQlt"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JXQlO"/> |
@@ -374,6 +382,14 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOiw"/> |
 | :---: |
+
+
+
+
+## [\[Swordmaster-Variant\] \[M\] FE10-Style \(Bald\)](https://git.io/JD4kB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JD4k0)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JD4k4"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JD4kW"/> |
+| :---: | :---: |
 
 
 

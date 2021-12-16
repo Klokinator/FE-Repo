@@ -515,6 +515,14 @@
 
 
 
+### [\[Brigand-Reskin\] \[M\] Oni Savage by Jey the Count](https://git.io/JDwJ6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDwJi)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JDwJw"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JDwJa"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JDwJ2"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Brigand-Reskin\] \[M\] Wolf by CookieMaster](https://git.io/JKGfU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf3)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JKGvD"/> |
@@ -1706,7 +1714,7 @@
 
 ### [\[Recruit-Base\] \[F\] Alice Lord by Yazuki](https://git.io/Jn3ti) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lI)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpq"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki/2.%20Lance/Lance.gif"/> |
 | :---: |
 
 
@@ -2228,7 +2236,7 @@
 
 ### [\[Myrmidon-Base\] \[M\] Vanilla FE7 Guy +Bow](https://git.io/J1j63) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji8)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON8"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON8"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODO"/> |
 | :---: | :---: | :---: |
 
 

@@ -1544,6 +1544,14 @@
 
 
 
+### [\[Sniper-Variant\] \[M\] Marksman by Nuramon Repal](https://git.io/JDa09) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDa05)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JDa0w"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JDa0r"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JDa06"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Sniper-Variant\] \[M\] Zackumi](https://git.io/Jn3UZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zm)
 
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOHb"/> |
@@ -2220,7 +2228,7 @@
 
 ### [\[Myrmidon-Base\] \[M\] Vanilla FE7 Guy +Bow](https://git.io/J1j63) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1ji8)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON8"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODO"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnON8"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOH1"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Guy%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -4108,6 +4116,14 @@
 
 
 
+### [\[Shaman-Base\] \[F\] Repal by Furious](https://git.io/JDa0S) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDa0H)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JDa0i"/> |
+| :---: |
+
+
+
+
 ### [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](https://git.io/J1jiv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jid)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOFX"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOSj"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO59"/> |
@@ -4372,6 +4388,14 @@
 | <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://git.io/JnO5y"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://git.io/JnORZ"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOKS"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnORs"/> |
+
+
+
+
+### [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword Repal by Furious](https://git.io/JDa0Q) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDa07)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JDa0o"/> |
+| :---: |
 
 
 
@@ -7183,7 +7207,7 @@
 
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://git.io/JnOrz"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://git.io/JnO6a"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOos"/> |
 | :---: | :---: | :---: |
-| <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sword)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOwz"/> |
+| <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://git.io/JnOok"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOwz"/> |
 
 
 

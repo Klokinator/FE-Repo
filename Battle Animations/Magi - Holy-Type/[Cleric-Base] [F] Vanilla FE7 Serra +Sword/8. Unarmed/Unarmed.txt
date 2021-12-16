@@ -1,7 +1,7 @@
 #######################################################
-#1D シスター Item
+#01 lorm_sp1 Lord Lance
 #
-#When importing to FEEditorAdv delete # and after each line.
+#When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
 C02                               #Start of dodge
@@ -67,11 +67,13 @@ C0D                               #End of dodge animation. preceeded by 0x06
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #standing motions?
+/// - Mode 10               #Standing motions
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~
 /// - Mode 11               #Equiped with Ranged weapon
+1 p- Unarmed_000.png
+C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
 C02                               #Start of dodge
@@ -82,67 +84,5 @@ C0E                               #Start of dodging frames (should go after stan
 C01                               #NOP
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
-C02                               #Start of dodge
-1 p- Unarmed_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01                               #NOP
-3 p- Unarmed_001.png
-C0D                               #End of dodge animation. preceeded by 0x06
-C02                               #Start of dodge
-1 p- Unarmed_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01                               #NOP
-3 p- Unarmed_001.png
-C0D                               #End of dodge animation. preceeded by 0x06
-C02                               #Start of dodge
-1 p- Unarmed_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01                               #NOP
-3 p- Unarmed_001.png
-C0D                               #End of dodge animation. preceeded by 0x06
-C02                               #Start of dodge
-1 p- Unarmed_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01                               #NOP
-3 p- Unarmed_001.png
-C0D                               #End of dodge animation. preceeded by 0x06
-C02                               #Start of dodge
-1 p- Unarmed_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01                               #NOP
-3 p- Unarmed_001.png
-C0D                               #End of dodge animation. preceeded by 0x06
-C02                               #Start of dodge
-1 p- Unarmed_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01                               #NOP
-3 p- Unarmed_001.png
-C0D                               #End of dodge animation. preceeded by 0x06
-C02                               #Start of dodge
-1 p- Unarmed_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01                               #NOP
-3 p- Unarmed_001.png
-C0D                               #End of dodge animation. preceeded by 0x06
-1 p- Unarmed_000.png
-C01                               #NOP
-1 p- Unarmed_000.png
-C01                               #NOP
-1 p- Unarmed_000.png
-C01                               #NOP
 ~~~
 /// - End of animation

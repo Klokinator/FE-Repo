@@ -50,6 +50,14 @@
 
 
 
+## [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword Repal by Furious](https://git.io/JDa0Q) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDa07)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JDa0o"/> |
+| :---: |
+
+
+
+
 ## [\[Cleric-Reskin\] \[F\] Egyptian](https://git.io/Jn3mq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BJ)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO9H"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOM6"/> |

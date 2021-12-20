@@ -439,6 +439,15 @@
 
 
 
+## [\[Paladin-Variant\] \[U\] SALVAGED Crusader by Meteor](https://git.io/JDFWu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDFWz)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JDFW4"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JDFWC"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JDFWc"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JDFWW"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JDFWn"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JDFW8"/> |
+
+
+
+
 ## [\[Ranger-Base\] \[F\] Vanilla](https://git.io/Jn3mi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WJ)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOMq"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOMp"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnODn"/> |

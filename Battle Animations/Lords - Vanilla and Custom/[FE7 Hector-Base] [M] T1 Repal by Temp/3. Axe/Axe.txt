@@ -1,17 +1,17 @@
 #######################################################
+#018E lorm_sp1 
 #
-#
-#When importing to FEEditorAdv delete # and after each line.
+#When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
 5 p- Axe_001.png
 5 p- Axe_002.png
 5 p- Axe_003.png
 8 p- Axe_004.png
-C41                               #EMPTY FE7:086EB188
+C41                               #EMPTY
 4 p- Axe_005.png
 4 p- Axe_006.png
 3 p- Axe_007.png
@@ -29,7 +29,7 @@ C15                               #Slight vibration of screen
 2 p- Axe_018.png
 2 p- Axe_019.png
 C42                               #Play long axe swinging SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
 3 p- Axe_020.png
 C14                               #Heavy vibration of screen
 C1A                               #Normal hit
@@ -41,7 +41,7 @@ C1F                               #Play hit SFE (sounds like Eliwood with sword'
 1 p- Axe_025.png
 C01                               #NOP
 C15                               #Slight vibration of screen
-C41                               #EMPTY FE7:086EB188
+C41                               #EMPTY
 5 p- Axe_026.png
 4 p- Axe_027.png
 3 p- Axe_028.png
@@ -51,10 +51,10 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
-C41                               #EMPTY FE7:086EB188
+C41                               #EMPTY
 5 p- Axe_030.png
 5 p- Axe_031.png
 5 p- Axe_032.png
@@ -72,7 +72,7 @@ C42                               #Play long axe swinging SFE
 4 p- Axe_002.png
 4 p- Axe_003.png
 6 p- Axe_004.png
-C41                               #EMPTY FE7:086EB188
+C41                               #EMPTY
 4 p- Axe_005.png
 4 p- Axe_006.png
 3 p- Axe_007.png
@@ -90,7 +90,7 @@ C15                               #Slight vibration of screen
 2 p- Axe_018.png
 2 p- Axe_019.png
 C42                               #Play long axe swinging SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
 3 p- Axe_020.png
 C14                               #Heavy vibration of screen
 C0A                               #Critical hit
@@ -101,7 +101,7 @@ C1F                               #Play hit SFE (sounds like Eliwood with sword'
 2 p- Axe_024.png
 1 p- Axe_025.png
 C01                               #NOP
-C41                               #EMPTY FE7:086EB188
+C41                               #EMPTY
 C15                               #Slight vibration of screen
 5 p- Axe_026.png
 4 p- Axe_027.png
@@ -141,7 +141,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 1 p- Axe_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #standing motions?
+/// - Mode 10               #Standing motions
 1 p- Axe_000.png
 C01                               #NOP
 ~~~
@@ -150,14 +150,14 @@ C01                               #NOP
 C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
 5 p- Axe_001.png
 5 p- Axe_002.png
 5 p- Axe_003.png
 8 p- Axe_004.png
-C41                               #EMPTY FE7:086EB188
+C41                               #EMPTY
 4 p- Axe_005.png
 4 p- Axe_006.png
 3 p- Axe_007.png
@@ -175,7 +175,7 @@ C15                               #Slight vibration of screen
 2 p- Axe_018.png
 2 p- Axe_019.png
 C42                               #Play long axe swinging SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
 3 p- Axe_020.png
 C14                               #Heavy vibration of screen
 3 p- Axe_021.png
@@ -185,7 +185,7 @@ C14                               #Heavy vibration of screen
 1 p- Axe_025.png
 C01                               #NOP
 C14                               #Heavy vibration of screen
-C41                               #EMPTY FE7:086EB188
+C41                               #EMPTY
 5 p- Axe_026.png
 4 p- Axe_027.png
 3 p- Axe_028.png

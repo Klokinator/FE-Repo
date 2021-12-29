@@ -63,6 +63,11 @@
 |<img alt="Paladin (M) SALVAGED Sword {Shtick, SALVAGED}" src="Paladin (M) SALVAGED Sword {Shtick, SALVAGED}.png" />|<img alt="Paladin (M) SALVAGED-style Lance {flasuban, RobertFPY}" src="Paladin (M) SALVAGED-style Lance {flasuban, RobertFPY}.png" />|<img alt="Paladin (M) Sword {FPzero}" src="Paladin (M) Sword {FPzero}.png" />|<img alt="Paladin (M) Sword {Leif}" src="Paladin (M) Sword {Leif}.png" />|
 
 
+|Paladin (U) SALVAGED Crusader Axe <br> {flasuban RobertFPY, MeteorSR23}|Paladin (U) SALVAGED Crusader Lance <br> {flasuban RobertFPY, MeteorSR23}|Paladin (U) SALVAGED Crusader M-Sword <br> {flasuban RobertFPY, MeteorSR23}|Paladin (U) SALVAGED Crusader Sword <br> {flasuban RobertFPY, MeteorSR23}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Paladin (U) SALVAGED Crusader Axe {flasuban RobertFPY, MeteorSR23}" src="Paladin (U) SALVAGED Crusader Axe {flasuban RobertFPY, MeteorSR23}.png" />|<img alt="Paladin (U) SALVAGED Crusader Lance {flasuban RobertFPY, MeteorSR23}" src="Paladin (U) SALVAGED Crusader Lance {flasuban RobertFPY, MeteorSR23}.png" />|<img alt="Paladin (U) SALVAGED Crusader M-Sword {flasuban RobertFPY, MeteorSR23}" src="Paladin (U) SALVAGED Crusader M-Sword {flasuban RobertFPY, MeteorSR23}.png" />|<img alt="Paladin (U) SALVAGED Crusader Sword {flasuban RobertFPY, MeteorSR23}" src="Paladin (U) SALVAGED Crusader Sword {flasuban RobertFPY, MeteorSR23}.png" />|
+
+
 |Ranger (F) Bow <br> {RobertFPY}|Ranger (M) Bow <br> {IS}|
 | :---: | :---: |
 |<img alt="Ranger (F) Bow {RobertFPY}" src="Ranger (F) Bow {RobertFPY}.png" />|<img alt="Ranger (M) Bow {IS}" src="Ranger (M) Bow {IS}.png" />|

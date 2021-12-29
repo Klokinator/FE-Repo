@@ -2,7 +2,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOhm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhw"/> | <b>Axe {MrNight}</b><br/><img alt="Axe {MrNight}" src="https://git.io/JnOyn"/> |
 | :---: | :---: | :---: |
-| <b>Axe {VilkalizeR}</b><br/><img alt="Axe {VilkalizeR}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BVilkalizeR%7D/Axe.gif"/> | <b>Handaxe (Big)</b><br/><img alt="Handaxe (Big)" src="https://git.io/JnOwe"/> | <b>Handaxe (Slim)</b><br/><img alt="Handaxe (Slim)" src="https://git.io/JnO9X"/> |
+| <b>Axe {VilkalizeR}</b><br/><img alt="Axe {VilkalizeR}" src="https://git.io/JnO97"/> | <b>Handaxe (Big)</b><br/><img alt="Handaxe (Big)" src="https://git.io/JnOwe"/> | <b>Handaxe (Slim)</b><br/><img alt="Handaxe (Slim)" src="https://git.io/JnO9X"/> |
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOVu"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOQp"/> |
 
 ## Credits

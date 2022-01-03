@@ -1,5 +1,96 @@
 # Battle Animations
 
+## [Advance Wars Animation Ports Battle Animations](./Advance%20Wars%20Animation%20Ports/)
+
+<details>
+<summary>Click to expand!</summary>
+
+### [\[Black Hole\] Infantry {Amyd, Dark}](https://git.io/JSwkx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIZ)
+
+
+
+
+
+
+### [\[Black Hole\] Mech {Amyd, Dark}](https://git.io/JSwI8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIo)
+
+
+
+
+
+
+### [\[Blue Moon\] Infantry {Amyd, Dark}](https://git.io/JSwkN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIB)
+
+
+
+
+
+
+### [\[Blue Moon\] Mech {Amyd, Dark}](https://git.io/JSwkh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIl)
+
+
+
+
+
+
+### [\[Green Earth\] Infantry {Amyd, Dark}](https://git.io/JSwkj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIc)
+
+
+
+
+
+
+### [\[Green Earth\] Mech {Amyd, Dark}](https://git.io/JSwkA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIG)
+
+
+
+
+
+
+### [\[IDS\] Infantry {Amyd, Dark}](https://git.io/JSwIm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIR)
+
+
+
+
+
+
+### [\[IDS\] Mech {Amyd, Dark}](https://git.io/JSwIY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwI0)
+
+
+
+
+
+
+### [\[Orange Star\] Infantry {Amyd, Dark}](https://git.io/JSwIe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIW)
+
+
+
+
+
+
+### [\[Orange Star\] Mech {Amyd, Dark}](https://git.io/JSwIk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIr)
+
+
+
+
+
+
+### [\[Yellow Comet\] Infantry {Amyd, Dark}](https://git.io/JSwIv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwI4)
+
+
+
+
+
+
+### [\[Yellow Comet\] Mech {Amyd, Dark}](https://git.io/JSwkp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIC)
+
+
+
+
+
+</details>
+
+
 ## [Bards, Dancers, Suppliers, Misc Battle Animations](./Bards,%20Dancers,%20Suppliers,%20Misc/)
 
 <details>
@@ -932,10 +1023,10 @@
 
 
 
-### [\[Archer-Base\] \[F\] Vanilla FE6 Alt1](https://git.io/Jn3UT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wq)
+### [\[Archer-Base\] \[F\] Vanilla FE6 Alt1 + Magic by Merpin](https://git.io/JSVAo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVA6)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO2w"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4q"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JSVAG"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JSVAT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAU"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -964,10 +1055,10 @@
 
 
 
-### [\[Archer-Base\] \[M\] Vanilla FE7](https://git.io/Jn3eh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bo)
+### [\[Archer-Base\] \[M\] Vanilla FE7 + Magic by Merpin](https://git.io/JSVAX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVA1)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO2M"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVL"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JSVAJ"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JSVAk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAP"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -1379,10 +1470,10 @@
 
 
 
-### [\[Sniper-Base\] \[F\] Vanilla FE7](https://git.io/Jn3eA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ri)
+### [\[Sniper-Base\] \[F\] Vanilla FE7 + magic by Merpin](https://git.io/JSVAR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVAw)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOEN"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOzT"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JSVA3"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JSVAI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAO"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -1395,10 +1486,10 @@
 
 
 
-### [\[Sniper-Base\] \[M\] Vanilla FE7](https://git.io/Jn3vq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lS)
+### [\[Sniper-Base\] \[M\] Vanilla FE7 + magic by Merpin](https://git.io/JSVAV) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVAi)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOEA"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JSVAu"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JSVAY"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAL"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -1781,6 +1872,14 @@
 ### [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](https://git.io/Jn3JD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38U)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO67"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgv"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Soldier-Reskin\] \[F\] Vanilla Style by Raulster](https://git.io/JSVAB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVAr)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JSVAq"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAm"/> |
 | :---: | :---: |
 
 
@@ -3571,7 +3670,7 @@
 
 ### [\[FE7 Eliwood-Variant\] \[M\] T1 Marth Thrust-Stab by Blaze](https://git.io/Jispl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishI)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbx"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisNt"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbx"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Thrust-Stab%20by%20Blaze/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -3656,7 +3755,7 @@
 
 
 
-### [\[FE7 Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20%2BSword%20by%20Eldritch) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKB)
+### [\[FE7 Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://git.io/J1joI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKB)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNV"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisNr"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisNo"/> |
 | :---: | :---: | :---: |
@@ -3947,6 +4046,14 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisAg"/> | <b>Lance (Dual)</b><br/><img alt="Lance (Dual)" src="https://git.io/JisFt"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFk"/> |
 | :---: | :---: | :---: |
+
+
+
+
+### [\[FE8 Ephraim-Base\] \[M\] T2 Repal by Merpin](https://git.io/JSVA8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVAK)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JSVNF"/> |
+| :---: |
 
 
 
@@ -6192,7 +6299,7 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO1k"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOp7"/> | <b>Axe (Alt1)</b><br/><img alt="Axe (Alt1)" src="https://git.io/JnOXf"/> |
 | :---: | :---: | :---: |
 | <b>Axe (Alt2)</b><br/><img alt="Axe (Alt2)" src="https://git.io/JnOHK"/> | <b>Handaxe (Alt1)</b><br/><img alt="Handaxe (Alt1)" src="https://git.io/JnOXc"/> | <b>Handaxe (Alt2)</b><br/><img alt="Handaxe (Alt2)" src="https://git.io/JnO1v"/> |
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOpP"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOpo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOpP"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOpo"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOpx"/> |
 
 
 

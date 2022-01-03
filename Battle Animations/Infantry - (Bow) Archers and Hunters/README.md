@@ -8,10 +8,10 @@
 
 
 
-## [\[Archer-Base\] \[F\] Vanilla FE6 Alt1](https://git.io/Jn3UT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wq)
+## [\[Archer-Base\] \[F\] Vanilla FE6 Alt1 + Magic by Merpin](https://git.io/JSVAo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVA6)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO2w"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4q"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JSVAG"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JSVAT"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAU"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -40,10 +40,10 @@
 
 
 
-## [\[Archer-Base\] \[M\] Vanilla FE7](https://git.io/Jn3eh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Bo)
+## [\[Archer-Base\] \[M\] Vanilla FE7 + Magic by Merpin](https://git.io/JSVAX) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVA1)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO2M"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVL"/> |
-| :---: | :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JSVAJ"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JSVAk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAP"/> |
+| :---: | :---: | :---: |
 
 
 

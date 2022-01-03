@@ -183,7 +183,7 @@
 
 ## [\[FE7 Eliwood-Variant\] \[M\] T1 Marth Thrust-Stab by Blaze](https://git.io/Jispl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishI)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbx"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisNt"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jisbx"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Variant%5D%20%5BM%5D%20T1%20Marth%20Thrust-Stab%20by%20Blaze/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -268,7 +268,7 @@
 
 
 
-## [\[FE7 Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Reskin%5D%20%5BF%5D%20T1%20Long-Haired%20%2BSword%20by%20Eldritch) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKB)
+## [\[FE7 Hector-Reskin\] \[F\] T1 Long-Haired +Sword by Eldritch](https://git.io/J1joI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKB)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisNV"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JisNr"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JisNo"/> |
 | :---: | :---: | :---: |
@@ -559,6 +559,14 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisAg"/> | <b>Lance (Dual)</b><br/><img alt="Lance (Dual)" src="https://git.io/JisFt"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisFk"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[FE8 Ephraim-Base\] \[M\] T2 Repal by Merpin](https://git.io/JSVA8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVAK)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JSVNF"/> |
+| :---: |
 
 
 

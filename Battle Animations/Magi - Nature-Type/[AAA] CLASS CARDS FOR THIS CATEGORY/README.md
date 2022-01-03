@@ -18,13 +18,18 @@
 |<img alt="Mage (M) Fire Magic {L95}" src="Mage (M) Fire Magic {L95}.png" />|<img alt="Mage (M) Hat Hybrid {Jj09, SamirPlayz, IS}" src="Mage (M) Hat Hybrid {Jj09, SamirPlayz, IS}.png" />|<img alt="Mage (M) Hatless Magic {RobertFPY}" src="Mage (M) Hatless Magic {RobertFPY}.png" />|<img alt="Mage (M) Hood Magic {IS}" src="Mage (M) Hood Magic {IS}.png" />|
 
 
-|Mage (M) Hoodless  <br> {L95}|Mage (M) Thunder (Leif) <br> |Mage Fighter (M) Hoodless <br> {Jj09}|Sage (F) Battle Sage Sword <br> {L95, RobertFPY}|
+|Mage (M) Hoodless  <br> {L95}|Mage (M) Thunder (Leif) <br> |Mage Fighter (M) Hoodless <br> {Jj09}|Priestess (F) Gaiden, SoV <br> {HyperGammaSpaces}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mage (M) Hoodless  {L95}" src="Mage (M) Hoodless  {L95}.png" />|<img alt="Mage (M) Thunder (Leif)" src="Mage (M) Thunder (Leif).png" />|<img alt="Mage Fighter (M) Hoodless {Jj09}" src="Mage Fighter (M) Hoodless {Jj09}.png" />|<img alt="Sage (F) Battle Sage Sword {L95, RobertFPY}" src="Sage (F) Battle Sage Sword {L95, RobertFPY}.png" />|
+|<img alt="Mage (M) Hoodless  {L95}" src="Mage (M) Hoodless  {L95}.png" />|<img alt="Mage (M) Thunder (Leif)" src="Mage (M) Thunder (Leif).png" />|<img alt="Mage Fighter (M) Hoodless {Jj09}" src="Mage Fighter (M) Hoodless {Jj09}.png" />|<img alt="Priestess (F) Gaiden, SoV {HyperGammaSpaces}" src="Priestess (F) Gaiden, SoV {HyperGammaSpaces}.png" />|
 
 
-|Sage (F) Magic <br> {L95}|Sage (M) Battle Sage Magic+Sword <br> {RobertFPY, Aruka, Yggdra}|Sage (M) Battle Sage Sword <br> {Aruka, Yggdra}|Sage (M) Magic <br> {IS}|
+|Sage (F) Battle Sage Sword <br> {L95, RobertFPY}|Sage (F) Magic <br> {L95}|Sage (F) Reshade <br> {L95, HyperGammaSpaces}|Sage (M) Battle Sage Magic+Sword <br> {RobertFPY, Aruka, Yggdra}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Sage (F) Magic {L95}" src="Sage (F) Magic {L95}.png" />|<img alt="Sage (M) Battle Sage Magic+Sword {RobertFPY, Aruka, Yggdra}" src="Sage (M) Battle Sage Magic+Sword {RobertFPY, Aruka, Yggdra}.png" />|<img alt="Sage (M) Battle Sage Sword {Aruka, Yggdra}" src="Sage (M) Battle Sage Sword {Aruka, Yggdra}.png" />|<img alt="Sage (M) Magic {IS}" src="Sage (M) Magic {IS}.png" />|
+|<img alt="Sage (F) Battle Sage Sword {L95, RobertFPY}" src="Sage (F) Battle Sage Sword {L95, RobertFPY}.png" />|<img alt="Sage (F) Magic {L95}" src="Sage (F) Magic {L95}.png" />|<img alt="Sage (F) Reshade {L95, HyperGammaSpaces}" src="Sage (F) Reshade {L95, HyperGammaSpaces}.png" />|<img alt="Sage (M) Battle Sage Magic+Sword {RobertFPY, Aruka, Yggdra}" src="Sage (M) Battle Sage Magic+Sword {RobertFPY, Aruka, Yggdra}.png" />|
+
+
+|Sage (M) Battle Sage Sword <br> {Aruka, Yggdra}|Sage (M) Magic <br> {IS}|
+| :---: | :---: |
+|<img alt="Sage (M) Battle Sage Sword {Aruka, Yggdra}" src="Sage (M) Battle Sage Sword {Aruka, Yggdra}.png" />|<img alt="Sage (M) Magic {IS}" src="Sage (M) Magic {IS}.png" />|
 
 

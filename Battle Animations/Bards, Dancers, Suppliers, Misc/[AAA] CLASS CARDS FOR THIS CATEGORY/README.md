@@ -33,8 +33,13 @@
 |<img alt="Supplier (M) Lance {N426}" src="Supplier (M) Lance {N426}.png" />|<img alt="Supplier (M) Potion {N426}" src="Supplier (M) Potion {N426}.png" />|<img alt="Tent {Laurent Lacroix}" src="Tent {Laurent Lacroix}.png" />|<img alt="Tier 1 Template {SamirPlayz}" src="Tier 1 Template {SamirPlayz}.png" />|
 
 
-|Tier 3 Template <br> {flasuban}|Villager (U) <br> {Ghast}|Wooden Crate (U) T1 <br> {Laurent Lacroix}|Wooden Crate (U) T2 <br> {Laurent Lacroix}|
+|Tier 3 Template <br> {flasuban}|Villager (U) Updated <br> {Ghast, HyperGammaSpaces}|Villager (U) <br> {Ghast}|Wooden Crate (U) T1 <br> {Laurent Lacroix}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Tier 3 Template {flasuban}" src="Tier 3 Template {flasuban}.png" />|<img alt="Villager (U) {Ghast}" src="Villager (U) {Ghast}.png" />|<img alt="Wooden Crate (U) T1 {Laurent Lacroix}" src="Wooden Crate (U) T1 {Laurent Lacroix}.png" />|<img alt="Wooden Crate (U) T2 {Laurent Lacroix}" src="Wooden Crate (U) T2 {Laurent Lacroix}.png" />|
+|<img alt="Tier 3 Template {flasuban}" src="Tier 3 Template {flasuban}.png" />|<img alt="Villager (U) Updated {Ghast, HyperGammaSpaces}" src="Villager (U) Updated {Ghast, HyperGammaSpaces}.png" />|<img alt="Villager (U) {Ghast}" src="Villager (U) {Ghast}.png" />|<img alt="Wooden Crate (U) T1 {Laurent Lacroix}" src="Wooden Crate (U) T1 {Laurent Lacroix}.png" />|
+
+
+|Wooden Crate (U) T2 <br> {Laurent Lacroix}|
+| :---: |
+|<img alt="Wooden Crate (U) T2 {Laurent Lacroix}" src="Wooden Crate (U) T2 {Laurent Lacroix}.png" />|
 
 

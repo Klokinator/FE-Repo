@@ -1,0 +1,351 @@
+//クリムゾンフレア
+C000040                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+C090C29 @半透明と光度
+C013F48                               #Sound 319 SE:Demon King' s appearance 1
+O dummy.png
+B aa0119.png
+2
+O dummy.png
+B aa0120.png
+2
+O dummy.png
+B aa0121.png
+2
+O dummy.png
+B aa0122.png
+2
+O dummy.png
+B aa0123.png
+2
+O dummy.png
+B aa0124.png
+2
+O dummy.png
+B aa0122.png
+2
+O dummy.png
+B aa0123.png
+2
+O dummy.png
+B aa0124.png
+2
+O dummy.png
+B aa0122.png
+1
+O dummy.png
+B aa0123.png
+1
+O dummy.png
+B aa0124.png
+1
+
+C100429 @半透明と光度
+O dummy.png
+B a0208.png
+2
+O dummy.png
+B a0210.png
+2
+O dummy.png
+B a0212.png
+2
+O dummy.png
+B a0214.png
+2
+O dummy.png
+B a0216.png
+2
+O dummy.png
+B a0218.png
+2
+O dummy.png
+B a0220.png
+2
+O dummy.png
+B a0222.png
+2
+O dummy.png
+B a0224.png
+2
+O dummy.png
+B a0225.png
+4
+O dummy.png
+B a0226.png
+1
+O dummy.png
+B a0227.png
+1
+O dummy.png
+B a0228.png
+1
+O dummy.png
+B a0229.png
+1
+O dummy.png
+B a0230.png
+1
+O dummy.png
+B a0231.png
+1
+O dummy.png
+B a0232.png
+1
+O dummy.png
+B a0233.png
+1
+O dummy.png
+B a0234.png
+1
+O dummy.png
+B a0235.png
+1
+O dummy.png
+B a0236.png
+1
+O dummy.png
+B a0237.png
+1
+O dummy.png
+B a0238.png
+1
+O dummy.png
+B a0239.png
+1
+O dummy.png
+B a0240.png
+1
+O dummy.png
+B a0241.png
+1
+O dummy.png
+B a0242.png
+1
+C00001A                               #1Fまたはミス終端分岐の前に必要
+~                                     #miss terminator
+//C100029 @半透明と光度 完全表示
+//C000029 @半透明と光度 完全表示でまっくら
+//C080029 @半透明と光度 完全表示で薄暗い
+C000029 @半透明と光度 完全表示でまっくら
+O dummy.png
+B a0244.png
+6
+C02C848                               #Sound 712 SE:Gespenst clouds
+C080329 @半透明と光度 完全表示で薄暗い
+O dummy.png
+B a0291.png
+1
+O dummy.png
+B a0292.png
+1
+O dummy.png
+B a0293.png
+1
+O dummy.png
+B a0294.png
+1
+C090029 @半透明と光度
+O dummy.png
+B a0295.png
+1
+O dummy.png
+B a0296.png
+1
+C0A0029 @半透明と光度
+O dummy.png
+B a0297.png
+1
+O dummy.png
+B a0298.png
+1
+C0B0029 @半透明と光度
+O dummy.png
+B a0299.png
+1
+O dummy.png
+B a0300.png
+1
+C0C0029 @半透明と光度
+O dummy.png
+B a0301.png
+1
+O dummy.png
+B a0302.png
+1
+C0D0029 @半透明と光度
+O dummy.png
+B a0303.png
+1
+O dummy.png
+B a0304.png
+1
+C0E0029 @半透明と光度
+O dummy.png
+B a0305.png
+1
+O dummy.png
+B a0306.png
+1
+C100029 @半透明と光度 完全表示
+O dummy.png
+B a0291.png
+1
+O dummy.png
+B a0292.png
+1
+C02C348                               #Sound 707 SE:Aura strike
+O dummy.png
+B a0293.png
+1
+O dummy.png
+B a0294.png
+1
+O dummy.png
+B a0295.png
+1
+O dummy.png
+B a0296.png
+1
+O dummy.png
+B a0297.png
+1
+O dummy.png
+B a0298.png
+1
+O dummy.png
+B a0299.png
+1
+O dummy.png
+B a0300.png
+1
+O dummy.png
+B a0301.png
+1
+O dummy.png
+B a0302.png
+1
+O dummy.png
+B a0303.png
+1
+O dummy.png
+B a0304.png
+1
+O dummy.png
+B a0305.png
+1
+O dummy.png
+B a0306.png
+1
+C00001F                               #ヒット音を鳴らす(直前に1Aが必要)
+
+O dummy.png
+B a0291.png
+1
+O dummy.png
+B a0292.png
+1
+O dummy.png
+B a0293.png
+1
+O dummy.png
+B a0294.png
+1
+O dummy.png
+B a0295.png
+1
+O dummy.png
+B a0296.png
+1
+O dummy.png
+B a0297.png
+1
+O dummy.png
+B a0298.png
+1
+O dummy.png
+B a0299.png
+1
+O dummy.png
+B a0300.png
+1
+O dummy.png
+B a0301.png
+1
+O dummy.png
+B a0302.png
+1
+O dummy.png
+B a0303.png
+1
+O dummy.png
+B a0304.png
+1
+O dummy.png
+B a0305.png
+1
+O dummy.png
+B a0306.png
+1
+
+C0E0129 @半透明と光度
+O dummy.png
+B a0291.png
+1
+O dummy.png
+B a0292.png
+1
+C0D0229 @半透明と光度
+O dummy.png
+B a0293.png
+1
+O dummy.png
+B a0294.png
+1
+C0C0329 @半透明と光度
+O dummy.png
+B a0295.png
+1
+O dummy.png
+B a0296.png
+1
+C0B0429 @半透明と光度
+O dummy.png
+B a0297.png
+1
+O dummy.png
+B a0298.png
+1
+C0A0529 @半透明と光度
+O dummy.png
+B a0299.png
+1
+O dummy.png
+B a0300.png
+1
+C090629 @半透明と光度
+O dummy.png
+B a0301.png
+1
+O dummy.png
+B a0302.png
+1
+C080729 @半透明と光度
+O dummy.png
+B a0303.png
+1
+O dummy.png
+B a0304.png
+1
+C090829 @半透明と光度
+O dummy.png
+B a0305.png
+1
+O dummy.png
+B a0306.png
+1
+
+O dummy.png
+B a0244.png
+1
+
+/// - End of animation

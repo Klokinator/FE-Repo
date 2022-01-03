@@ -1,0 +1,164 @@
+/// - Mode 1
+C03
+C07
+1 p- lance_000.png
+4 p- lance_001.png
+C1B
+4 p- lance_002.png
+6 p- lance_003.png
+C21
+C04
+C1A
+1 p- lance_004.png
+C01
+4 p- lance_005.png
+C22
+2 p- lance_006.png
+5 p- lance_007.png
+C1B
+3 p- lance_008.png
+5 p- lance_009.png
+C1B
+6 p- lance_010.png
+1 p- lance_011.png
+C06
+6 p- lance_011.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- lance_000.png
+3 p- lance_012.png
+4 p- lance_013.png
+C23
+3 p- lance_014.png
+23 p- lance_015.png
+C1B
+4 p- lance_002.png
+6 p- lance_003.png
+C04
+C23
+C21
+C0C
+1 p- lance_004.png
+C01
+4 p- lance_005.png
+C22
+2 p- lance_006.png
+5 p- lance_007.png
+C1B
+3 p- lance_008.png
+5 p- lance_009.png
+C1B
+6 p- lance_010.png
+1 p- lance_011.png
+C06
+6 p- lance_011.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- lance_000.png
+C22
+5 p- lance_016.png
+5 p- lance_017.png
+11 p- lance_018.png
+C25
+4 p- lance_019.png
+C05
+1 p- lance_020.png
+C01
+7 p- lance_018.png
+3 p- lance_017.png
+C06
+3 p- lance_016.png
+3 p- lance_021.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- lance_000.png
+C38
+4 p- lance_022.png
+3 p- lance_023.png
+2 p- lance_024.png
+1 p- lance_025.png
+10 p- lance_000.png
+C22
+5 p- lance_016.png
+5 p- lance_017.png
+11 p- lance_018.png
+C25
+4 p- lance_019.png
+C05
+1 p- lance_020.png
+C01
+7 p- lance_018.png
+3 p- lance_017.png
+C06
+3 p- lance_016.png
+3 p- lance_021.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- lance_000.png
+C0E
+3 p- lance_026.png
+1 p- lance_027.png
+C01
+3 p- lance_026.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- lance_000.png
+C0E
+3 p- lance_026.png
+1 p- lance_027.png
+C01
+3 p- lance_026.png
+C0D
+~~~
+/// - Mode 9
+1 p- lance_000.png
+C01
+~~~
+/// - Mode 10
+1 p- lance_000.png
+C01
+~~~
+/// - Mode 11
+1 p- lance_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- lance_000.png
+4 p- lance_001.png
+C1B
+4 p- lance_002.png
+6 p- lance_003.png
+C04
+C23
+1 p- lance_028.png
+C01
+4 p- lance_029.png
+C22
+2 p- lance_006.png
+5 p- lance_007.png
+C1B
+3 p- lance_008.png
+5 p- lance_009.png
+C1B
+6 p- lance_010.png
+1 p- lance_011.png
+C06
+6 p- lance_011.png
+C0D
+~~~
+/// - End of animation

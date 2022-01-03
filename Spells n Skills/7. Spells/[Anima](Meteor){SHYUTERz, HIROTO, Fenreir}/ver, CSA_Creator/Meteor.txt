@@ -1,0 +1,730 @@
+C000040
+C02CA48
+C000153
+C101029
+O Meteor_o_000.png
+B Meteor_b_001.png
+2
+
+C000015
+O Meteor_o_000.png
+B Meteor_b_002.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_003.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_004.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_005.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_006.png
+1
+
+C000015
+O Meteor_o_000.png
+B Meteor_b_007.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_008.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_009.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_010.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_011.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_012.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_013.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_014.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_015.png
+10
+
+C02F048
+C012E48
+C000014
+O Meteor_o_000.png
+B Meteor_b_016.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_017.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_018.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_019.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_020.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_021.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_022.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_023.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_024.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_025.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_026.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_027.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_028.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_029.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_030.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_031.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_032.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_024.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_025.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_026.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_027.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_028.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_029.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_030.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_031.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_032.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_024.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_025.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_026.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_027.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_028.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_029.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_030.png
+1
+
+C000051
+C000014
+O Meteor_o_000.png
+B Meteor_b_031.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_032.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_024.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_025.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_026.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_027.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_033.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_034.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_035.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_036.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_037.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_015.png
+20
+
+C00002A
+C02F048
+C02CB48
+C000014
+O Meteor_o_000.png
+B Meteor_b_038.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_039.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_040.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_041.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_042.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_043.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_044.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_045.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_046.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_047.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_048.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_049.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_050.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_051.png
+1
+
+C02F048
+O Meteor_o_000.png
+B Meteor_b_052.png
+1
+
+C012F48
+O Meteor_o_000.png
+B Meteor_b_053.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_054.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_055.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_056.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_057.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_058.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_059.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_060.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_061.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_062.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_063.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_064.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_065.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_066.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_067.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_068.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_069.png
+1
+
+C02F048
+O Meteor_o_000.png
+B Meteor_b_070.png
+1
+
+C02CB48
+O Meteor_o_000.png
+B Meteor_b_071.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_072.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_073.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_074.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_075.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_076.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_077.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_078.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_079.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_080.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_081.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_082.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_083.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_084.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_085.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_086.png
+1
+
+C02F048
+O Meteor_o_000.png
+B Meteor_b_087.png
+1
+
+C012F48
+O Meteor_o_000.png
+B Meteor_b_088.png
+2
+
+O Meteor_o_000.png
+B Meteor_b_015.png
+15
+
+C10102A
+C00001A
+~~~
+C00001F
+C000014
+O Meteor_o_000.png
+B Meteor_b_089.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_090.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_091.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_092.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_093.png
+1
+
+C02F048
+O Meteor_o_000.png
+B Meteor_b_094.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_095.png
+1
+
+C02CB48
+O Meteor_o_000.png
+B Meteor_b_096.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_097.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_098.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_099.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_100.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_101.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_102.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_103.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_104.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_105.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_106.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_107.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_108.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_109.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_110.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_111.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_112.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_113.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_114.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_115.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_116.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_117.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_118.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_119.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_120.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_121.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_122.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_123.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_124.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_125.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_126.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_127.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_128.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_129.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_130.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_131.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_132.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_133.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_134.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_092.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_093.png
+1
+
+C000014
+O Meteor_o_000.png
+B Meteor_b_094.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_095.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_096.png
+1
+
+O Meteor_o_000.png
+B Meteor_b_097.png
+1
+
+C0C1029
+O Meteor_o_000.png
+B Meteor_b_098.png
+1
+
+C081029
+O Meteor_o_000.png
+B Meteor_b_099.png
+1
+
+C041029
+O Meteor_o_000.png
+B Meteor_b_100.png
+1
+
+C011029
+O Meteor_o_000.png
+B Meteor_b_101.png
+1
+
+C001029
+O Meteor_o_000.png
+B Meteor_b_102.png
+1
+
+C000053
+/// - End of animation

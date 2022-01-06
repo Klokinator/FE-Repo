@@ -128,13 +128,23 @@
 |<img alt="Paladin (M) v2 Axe {RobertFPY}-stand" src="Paladin (M) v2 Axe {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Axe {RobertFPY}-walk" src="Paladin (M) v2 Axe {RobertFPY}-walk.png" />|<img alt="Paladin (M) v2 Lance {Pikmin}-stand" src="Paladin (M) v2 Lance {Pikmin}-stand.png" />|<img alt="Paladin (M) v2 Lance {Pikmin}-walk" src="Paladin (M) v2 Lance {Pikmin}-walk.png" />|
 
 
-|Paladin (M) v2 Sword <br> {RobertFPY}|Paladin (M) v2 Sword-walk <br> {RobertFPY}|Ranger (F) Improved Bow <br> {flasuban}|Ranger (F) Improved Bow-walk <br> {flasuban}|
+|Paladin (M) v2 Sword <br> {RobertFPY}|Paladin (M) v2 Sword-walk <br> {RobertFPY}|Paladin (U) Gendarme Axe <br> {RobertFPY, MeteorSR23}|Paladin (U) Gendarme Axe-walk <br> {RobertFPY, MeteorSR23}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Paladin (M) v2 Sword {RobertFPY}-stand" src="Paladin (M) v2 Sword {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Sword {RobertFPY}-walk" src="Paladin (M) v2 Sword {RobertFPY}-walk.png" />|<img alt="Ranger (F) Improved Bow {flasuban}-stand" src="Ranger (F) Improved Bow {flasuban}-stand.png" />|<img alt="Ranger (F) Improved Bow {flasuban}-walk" src="Ranger (F) Improved Bow {flasuban}-walk.png" />|
+|<img alt="Paladin (M) v2 Sword {RobertFPY}-stand" src="Paladin (M) v2 Sword {RobertFPY}-stand.png" />|<img alt="Paladin (M) v2 Sword {RobertFPY}-walk" src="Paladin (M) v2 Sword {RobertFPY}-walk.png" />|<img alt="Paladin (U) Gendarme Axe {RobertFPY, MeteorSR23}-stand" src="Paladin (U) Gendarme Axe {RobertFPY, MeteorSR23}-stand.png" />|<img alt="Paladin (U) Gendarme Axe {RobertFPY, MeteorSR23}-walk" src="Paladin (U) Gendarme Axe {RobertFPY, MeteorSR23}-walk.png" />|
 
 
-|Ranger (F) Rebecca Bow <br> {Teraspark}|Ranger (F) Rebecca Bow-walk <br> {Teraspark}|Ranger (M) <br> {IS}|Ranger (M)-walk <br> {IS}|
+|Paladin (U) Gendarme Lance <br> {Pikmin, MeteorSR23}|Paladin (U) Gendarme Lance-walk <br> {Pikmin, MeteorSR23}|Paladin (U) Gendarme Sword <br> {RobertFPY, MeteorSR23}|Paladin (U) Gendarme Sword-walk <br> {RobertFPY, MeteorSR23}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Ranger (F) Rebecca Bow {Teraspark}-stand" src="Ranger (F) Rebecca Bow {Teraspark}-stand.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-walk" src="Ranger (F) Rebecca Bow {Teraspark}-walk.png" />|<img alt="Ranger (M) {IS}-stand" src="Ranger (M) {IS}-stand.png" />|<img alt="Ranger (M) {IS}-walk" src="Ranger (M) {IS}-walk.png" />|
+|<img alt="Paladin (U) Gendarme Lance {Pikmin, MeteorSR23}-stand" src="Paladin (U) Gendarme Lance {Pikmin, MeteorSR23}-stand.png" />|<img alt="Paladin (U) Gendarme Lance {Pikmin, MeteorSR23}-walk" src="Paladin (U) Gendarme Lance {Pikmin, MeteorSR23}-walk.png" />|<img alt="Paladin (U) Gendarme Sword {RobertFPY, MeteorSR23}-stand" src="Paladin (U) Gendarme Sword {RobertFPY, MeteorSR23}-stand.png" />|<img alt="Paladin (U) Gendarme Sword {RobertFPY, MeteorSR23}-walk" src="Paladin (U) Gendarme Sword {RobertFPY, MeteorSR23}-walk.png" />|
+
+
+|Ranger (F) Improved Bow <br> {flasuban}|Ranger (F) Improved Bow-walk <br> {flasuban}|Ranger (F) Rebecca Bow <br> {Teraspark}|Ranger (F) Rebecca Bow-walk <br> {Teraspark}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Ranger (F) Improved Bow {flasuban}-stand" src="Ranger (F) Improved Bow {flasuban}-stand.png" />|<img alt="Ranger (F) Improved Bow {flasuban}-walk" src="Ranger (F) Improved Bow {flasuban}-walk.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-stand" src="Ranger (F) Rebecca Bow {Teraspark}-stand.png" />|<img alt="Ranger (F) Rebecca Bow {Teraspark}-walk" src="Ranger (F) Rebecca Bow {Teraspark}-walk.png" />|
+
+
+|Ranger (M) <br> {IS}|Ranger (M)-walk <br> {IS}|
+| :---: | :---: |
+|<img alt="Ranger (M) {IS}-stand" src="Ranger (M) {IS}-stand.png" />|<img alt="Ranger (M) {IS}-walk" src="Ranger (M) {IS}-walk.png" />|
 
 

@@ -1,6 +1,6 @@
-# [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](https://git.io/Jn3Yn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nB)
+# [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrm"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOBW"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOo6"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 
 ## Credits

@@ -8,4 +8,6 @@
 
 ## Credit
 
+Animation by Luerock
 
+Fix by MeteorSR23. This fix adds the attack miss animation and standing motions as well as smoothening the existing attack animations.

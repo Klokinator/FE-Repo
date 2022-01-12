@@ -1,6 +1,6 @@
-# [\[Crossbowman\] \[M\] Bowgunner by Epicer](https://git.io/J1CWy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1CWS)
+# [\[Crossbowman\] \[M\] Bowgunner by Epicer](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BCrossbowman%5D%20%5BM%5D%20Bowgunner%20by%20Epicer) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BCrossbowman%5D%20%5BM%5D%20Bowgunner%20by%20Epicer)
 
-| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://git.io/J1CWK"/> |
+| <b>Bow (Crossbow)</b><br/><img alt="Bow (Crossbow)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BCrossbowman%5D%20%5BM%5D%20Bowgunner%20by%20Epicer/5.%20Bow%20(Crossbow)/Bow.gif"/> |
 | :---: |
 
 ## Credits

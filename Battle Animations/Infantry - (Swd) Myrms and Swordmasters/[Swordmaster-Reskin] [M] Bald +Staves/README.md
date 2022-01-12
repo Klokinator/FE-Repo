@@ -1,6 +1,6 @@
-# [\[Swordmaster-Reskin\] \[M\] Bald +Staves](https://git.io/J1j6O) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jil)
+# [\[Swordmaster-Reskin\] \[M\] Bald +Staves](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20%2BStaves) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20%2BStaves)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOd5"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOb9"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Bald%20+Staves/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 ## Credits

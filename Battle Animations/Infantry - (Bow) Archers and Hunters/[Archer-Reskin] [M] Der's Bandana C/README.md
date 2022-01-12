@@ -1,6 +1,6 @@
-# [\[Archer-Reskin\] \[M\] Der's Bandana C](https://git.io/Jn3Uq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wz)
+# [\[Archer-Reskin\] \[M\] Der's Bandana C](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOjf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOo0"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BM%5D%20Der's%20Bandana%20C/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 ## Credits

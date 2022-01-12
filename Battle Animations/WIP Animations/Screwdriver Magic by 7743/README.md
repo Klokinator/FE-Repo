@@ -1,4 +1,4 @@
-# [Screwdriver Magic by 7743](https://git.io/JE2OR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23y)
+# [Screwdriver Magic by 7743](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/Screwdriver%20Magic%20by%207743) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/Screwdriver%20Magic%20by%207743)
 
 
 

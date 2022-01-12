@@ -1,243 +1,243 @@
 # [Infantry - (Lnc) Soldiers, Halberdiers Battle Animations](./)
 
-## [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](https://git.io/Jn3Un) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zq)
+## [\[Custom Drag\] \[U\] Dragoon by Mercenary Lord](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOQI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwx"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20by%20Mercenary%20Lord/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://git.io/Jn3Ut) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38t)
+## [\[Custom Drag\] \[U\] Dragoon Repal by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOie"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrQ"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Drag%5D%20%5BU%5D%20Dragoon%20Repal%20by%20Pikmin/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Custom Halb\] \[F\] Halberdier by Black Mage](https://git.io/Jn3UK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZU)
+## [\[Custom Halb\] \[F\] Halberdier by Black Mage](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO75"/> | <b>Lance (Ting)</b><br/><img alt="Lance (Ting)" src="https://git.io/JnO5h"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVO"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance/Lance.gif"/> | <b>Lance (Ting)</b><br/><img alt="Lance (Ting)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/2.%20Lance%20(Ting)/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BF%5D%20Halberdier%20by%20Black%20Mage/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](https://git.io/J1j6Z) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6h)
+## [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOKW"/> | <b>Axe (Stab)</b><br/><img alt="Axe (Stab)" src="https://git.io/JnOKY"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://git.io/JnOKi"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif"/> | <b>Axe (Stab)</b><br/><img alt="Axe (Stab)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOKZ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKw"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Custom Lance\] \[F\] Militia \(Deserter\)](https://git.io/JzzCS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzCH)
+## [\[Custom Lance\] \[F\] Militia \(Deserter\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Militia%20(Deserter)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Militia%20(Deserter))
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JzzCR"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JzzC0"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Militia%20(Deserter)/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Militia%20(Deserter)/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Custom Lance\] \[M\] Halb-Lancer v1 by TBA](https://git.io/Jn3J1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30y)
+## [\[Custom Lance\] \[M\] Halb-Lancer v1 by TBA](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO5U"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnONE"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v1%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Custom Lance\] \[M\] Halb-Lancer v2 by Jj09](https://git.io/Jn3Ua) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GM)
+## [\[Custom Lance\] \[M\] Halb-Lancer v2 by Jj09](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOrb"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOz7"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Halb-Lancer%20v2%20by%20Jj09/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](https://git.io/Jn3vF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn342)
+## [\[Custom Lance\] \[M\] Militia \(Deserter\) by Alusq](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOgj"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO2j"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Militia%20(Deserter)%20by%20Alusq/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Custom Lance\] \[M\] NES-Style Soldier by Dinar87](https://git.io/Jn3Ub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ln)
+## [\[Custom Lance\] \[M\] NES-Style Soldier by Dinar87](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO2i"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20NES-Style%20Soldier%20by%20Dinar87/2.%20Lance/Lance.gif"/> |
 | :---: |
 
 
 
 
-## [\[Custom Lance\] \[M\] Spartan by Vilkalizer](https://git.io/Jn3UD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30h)
+## [\[Custom Lance\] \[M\] Spartan by Vilkalizer](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOKL"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOoF"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKO"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BM%5D%20Spartan%20by%20Vilkalizer/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Custom Polearm\] \[M\] Sergeant by Spud](https://git.io/JisYF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisYb)
+## [\[Custom Polearm\] \[M\] Sergeant by Spud](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Polearm%5D%20%5BM%5D%20Sergeant%20by%20Spud) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Polearm%5D%20%5BM%5D%20Sergeant%20by%20Spud)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisY7"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JisYd"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JisY5"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Polearm%5D%20%5BM%5D%20Sergeant%20by%20Spud/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Polearm%5D%20%5BM%5D%20Sergeant%20by%20Spud/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Polearm%5D%20%5BM%5D%20Sergeant%20by%20Spud/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](https://git.io/Jn3Jy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn30D)
+## [\[Ephraim-Base\] \[M\] Halberdier by Bonestorm](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOAG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO6t"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Bonestorm/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Ephraim-Base\] \[M\] Halberdier by Yosh](https://git.io/Jn3Ja) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Eq)
+## [\[Ephraim-Base\] \[M\] Halberdier by Yosh](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO6X"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Base%5D%20%5BM%5D%20Halberdier%20by%20Yosh/2.%20Lance/Lance.gif"/> |
 | :---: |
 
 
 
 
-## [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](https://git.io/JisM1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyS)
+## [\[Ephraim-Variant\] \[F\] T1 Lancer by Memae](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPx"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jis6b"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6F"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BEphraim-Variant%5D%20%5BF%5D%20T1%20Lancer%20by%20Memae/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](https://git.io/Jn3Uk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RJ)
+## [\[Recruit-Amelia\] \[F\] T0 Recruit Repal by Spud](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOKI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOpO"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T0%20Recruit%20Repal%20by%20Spud/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Recruit-Amelia\] \[F\] T1 Soldier by Spud](https://git.io/Jn3TO) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lU)
+## [\[Recruit-Amelia\] \[F\] T1 Soldier by Spud](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOiG"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOiz"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T1%20Soldier%20by%20Spud/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Recruit-Amelia\] \[F\] T2 Halberdier by Spud](https://git.io/Jn3US) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3EE)
+## [\[Recruit-Amelia\] \[F\] T2 Halberdier by Spud](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOF3"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Amelia%5D%20%5BF%5D%20T2%20Halberdier%20by%20Spud/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Recruit-Base\] \[F\] Alice Lord by Yazuki](https://git.io/Jn3ti) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lI)
+## [\[Recruit-Base\] \[F\] Alice Lord by Yazuki](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpq"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Alice%20Lord%20by%20Yazuki/2.%20Lance/Lance.gif"/> |
 | :---: |
 
 
 
 
-## [\[Recruit-Base\] \[F\] Vanilla Amelia](https://git.io/Jn3UE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lO)
+## [\[Recruit-Base\] \[F\] Vanilla Amelia](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOjt"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOjG"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BF%5D%20Vanilla%20Amelia/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Recruit-Base\] \[M\] Variant by Waleed](https://git.io/Jn3UR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lT)
+## [\[Recruit-Base\] \[M\] Variant by Waleed](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOFY"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOpZ"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Base%5D%20%5BM%5D%20Variant%20by%20Waleed/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Recruit-Reskin\] \[M\] Flagbearer by Dutch Introvert](https://git.io/JPxH6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPxHP)
+## [\[Recruit-Reskin\] \[M\] Flagbearer by Dutch Introvert](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Reskin%5D%20%5BM%5D%20Flagbearer%20by%20Dutch%20Introvert) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Reskin%5D%20%5BM%5D%20Flagbearer%20by%20Dutch%20Introvert)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JPxH2"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JPxHa"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Reskin%5D%20%5BM%5D%20Flagbearer%20by%20Dutch%20Introvert/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BRecruit-Reskin%5D%20%5BM%5D%20Flagbearer%20by%20Dutch%20Introvert/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Soldier-Base\] \[M\] Vanilla +Weapons](https://git.io/J1jwx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j64)
+## [\[Soldier-Base\] \[M\] Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7o"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOr5"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFO"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOjn"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Soldier-Custom\] \[M\] FE10-Style by Nuramon](https://git.io/JX44W) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX44l)
+## [\[Soldier-Custom\] \[M\] FE10-Style by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon)
 
-| <b>Lance (Angled, Slow)</b><br/><img alt="Lance (Angled, Slow)" src="https://git.io/JX4RH"/> | <b>Lance (Straight, Fast)</b><br/><img alt="Lance (Straight, Fast)" src="https://git.io/JX4RQ"/> | <b>Unarmed (Angled, Slow)</b><br/><img alt="Unarmed (Angled, Slow)" src="https://git.io/JX4R5"/> |
+| <b>Lance (Angled, Slow)</b><br/><img alt="Lance (Angled, Slow)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance%20(Angled,%20Slow)/Lance.gif"/> | <b>Lance (Straight, Fast)</b><br/><img alt="Lance (Straight, Fast)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/2.%20Lance%20(Straight,%20Fast)/Lance.gif"/> | <b>Unarmed (Angled, Slow)</b><br/><img alt="Unarmed (Angled, Slow)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed%20(Angled,%20Slow)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed (Straight, Fast)</b><br/><img alt="Unarmed (Straight, Fast)" src="https://git.io/JX4R7"/> |
+| <b>Unarmed (Straight, Fast)</b><br/><img alt="Unarmed (Straight, Fast)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20by%20Nuramon/8.%20Unarmed%20(Straight,%20Fast)/Unarmed.gif"/> |
 
 
 
 
-## [\[Soldier-Custom\] \[M\] FE15-Style by Nuramon](https://git.io/JX4Cd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JX4CN)
+## [\[Soldier-Custom\] \[M\] FE15-Style by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE15-Style%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE15-Style%20by%20Nuramon)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JX4CS"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JX4CD"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE15-Style%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE15-Style%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](https://git.io/Jn3TY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3l3)
+## [\[Soldier-Reskin\] \[F\] FE10-Style by Flasuban](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOge"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOjm"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](https://git.io/Jn3JD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38U)
+## [\[Soldier-Reskin\] \[F\] Ponytail by Dr0zz](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO67"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgv"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Dr0zz/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Soldier-Reskin\] \[F\] Vanilla Style by Raulster](https://git.io/JSVAB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSVAr)
+## [\[Soldier-Reskin\] \[F\] Vanilla Style by Raulster](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Vanilla%20Style%20by%20Raulster) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Vanilla%20Style%20by%20Raulster)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JSVAq"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JSVAm"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Vanilla%20Style%20by%20Raulster/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BF%5D%20Vanilla%20Style%20by%20Raulster/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Soldier-Reskin\] \[M\] FE10-Style by Flasuban](https://git.io/Jn3Uf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38y)
+## [\[Soldier-Reskin\] \[M\] FE10-Style by Flasuban](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO2e"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO2g"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Reskin%5D%20%5BM%5D%20FE10-Style%20by%20Flasuban/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Soldier-Variant\] \[F\] Lightweight Lancer by Alusq](https://git.io/Jn3Tz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ez)
+## [\[Soldier-Variant\] \[F\] Lightweight Lancer by Alusq](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOjc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOAa"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BF%5D%20Lightweight%20Lancer%20by%20Alusq/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Soldier-Variant\] \[M\] Lightweight Lancer by Alusq](https://git.io/Jn3vf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34c)
+## [\[Soldier-Variant\] \[M\] Lightweight Lancer by Alusq](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq)
 
-| <b>Sword {JeyTheCount}</b><br/><img alt="Sword {JeyTheCount}" src="https://git.io/JnO2Q"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOav"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVe"/> |
+| <b>Sword {JeyTheCount}</b><br/><img alt="Sword {JeyTheCount}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/1.%20Sword%20%7BJeyTheCount%7D/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Variant%5D%20%5BM%5D%20Lightweight%20Lancer%20by%20Alusq/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 

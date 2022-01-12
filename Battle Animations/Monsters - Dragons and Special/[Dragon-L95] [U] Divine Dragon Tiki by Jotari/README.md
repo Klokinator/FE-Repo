@@ -1,6 +1,6 @@
-# [\[Dragon-L95\] \[U\] Divine Dragon Tiki by Jotari](https://git.io/JXSSb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JXSSA)
+# [\[Dragon-L95\] \[U\] Divine Dragon Tiki by Jotari](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon%20Tiki%20by%20Jotari) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon%20Tiki%20by%20Jotari)
 
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JXSS5"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JXSSM"/> |
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon%20Tiki%20by%20Jotari/8.%20Dragonstone/Dragonstone.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon%20Tiki%20by%20Jotari/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 ## Credits

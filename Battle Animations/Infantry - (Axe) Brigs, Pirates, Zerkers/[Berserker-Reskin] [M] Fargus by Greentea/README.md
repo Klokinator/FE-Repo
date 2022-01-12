@@ -1,6 +1,6 @@
-# [\[Berserker-Reskin\] \[M\] Fargus by Greentea](https://git.io/Jn3vM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZZ)
+# [\[Berserker-Reskin\] \[M\] Fargus by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOw9"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOVg"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO6P"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 ## Credits

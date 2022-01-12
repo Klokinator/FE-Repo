@@ -1,4 +1,4 @@
-# [\[Custom-Magic\]Stantler\(Magic\) by SirSpencer](https://git.io/JE23e) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23n)
+# [\[Custom-Magic\]Stantler\(Magic\) by SirSpencer](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/%5BCustom-Magic%5DStantler(Magic)%20by%20SirSpencer) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/%5BCustom-Magic%5DStantler(Magic)%20by%20SirSpencer)
 
 
 

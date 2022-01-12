@@ -1,6 +1,6 @@
-# [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon Repal by TytheBub](https://git.io/JzzCQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzC7)
+# [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon Repal by TytheBub](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub)
 
-| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JzzCg"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JzzCW"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JzzCB"/> |
+| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 ## Credits

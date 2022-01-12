@@ -1,243 +1,243 @@
 # [Magi - Dark-Type Battle Animations](./)
 
-## [\[Custom DM\] \[F\] Dark Mage by Pikmin](https://git.io/Jn3ql) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CC)
+## [\[Custom DM\] \[F\] Dark Mage by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyk"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Custom DM\] \[M\] Dark Mage by Pikmin](https://git.io/Jn3Lc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3C8)
+## [\[Custom DM\] \[M\] Dark Mage by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO1I"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Shaman-Base\] \[F\] FE6 Repal by Markyjoe](https://git.io/Jn3LL) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cl)
+## [\[Shaman-Base\] \[F\] FE6 Repal by Markyjoe](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyO"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic (Fixed) {Shin19}" src="https://git.io/JnOD0"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed) {Shin19}</b><br/><img alt="Magic (Fixed) {Shin19}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20FE6%20Repal%20by%20Markyjoe/6.%20Magic%20(Fixed)%20%7BShin19%7D/Magic.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Shaman-Base\] \[F\] Repal by Furious](https://git.io/JDa0S) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDa0H)
+## [\[Shaman-Base\] \[F\] Repal by Furious](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Repal%20by%20Furious) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Repal%20by%20Furious)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JDa0i"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Repal%20by%20Furious/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](https://git.io/J1jiv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jid)
+## [\[Shaman-Base\] \[F\] Vanilla FE6 +Staff](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20%2BStaff) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20%2BStaff)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOFX"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOSj"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO59"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Staff/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Shaman-Base\] \[F\] Vanilla FE8](https://git.io/Jn3k5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ck)
+## [\[Shaman-Base\] \[F\] Vanilla FE8](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8)
 
-| <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOye"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnO1W"/> |
+| <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BF%5D%20Vanilla%20FE8/6.%20Magic%20(Fixed)/Magic.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Shaman-Base\] \[M\] Vanilla +Staff](https://git.io/J1joJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKL)
+## [\[Shaman-Base\] \[M\] Vanilla +Staff](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20%2BStaff) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20%2BStaff)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOdQ"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnODz"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO1J"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Base%5D%20%5BM%5D%20Vanilla%20+Staff/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Shaman-Reskin\] \[F\] Poised by Markyjoe](https://git.io/Jn3tx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cu)
+## [\[Shaman-Reskin\] \[F\] Poised by Markyjoe](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe)
 
-| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JnOHR"/> | <b>Magic (Fix)</b><br/><img alt="Magic (Fix)" src="https://git.io/JnOFo"/> |
+| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic (Fix)</b><br/><img alt="Magic (Fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BF%5D%20Poised%20by%20Markyjoe/6.%20Magic%20(Fix)/Magic.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](https://git.io/J1j66) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiM)
+## [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20%2BStaff%20by%20Temp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20%2BStaff%20by%20Temp)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO1L"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOyD"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnObk"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[T2 Druid-Base\] \[F\] Vanilla FE6](https://git.io/Jn3vC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ED)
+## [\[T2 Druid-Base\] \[F\] Vanilla FE6](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOB9"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOg7"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BF%5D%20Vanilla%20FE6/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T2 Druid-Base\] \[M\] Vanilla FE6-8](https://git.io/Jn3vD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3la)
+## [\[T2 Druid-Base\] \[M\] Vanilla FE6-8](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBq"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOEq"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T2 Druid-Base\] \[U\] Vanilla Wizard FE4 Loptyr Rip](https://git.io/Jn3vR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38z)
+## [\[T2 Druid-Base\] \[U\] Vanilla Wizard FE4 Loptyr Rip](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO41"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO4S"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BU%5D%20Vanilla%20Wizard%20FE4%20Loptyr%20Rip/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T2 Druid-Reskin\] \[M\] Hoodless by JeyTheCount](https://git.io/Jn3tp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CW)
+## [\[T2 Druid-Reskin\] \[M\] Hoodless by JeyTheCount](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOF6"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOyq"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](https://git.io/J1jrK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joh)
+## [\[T2 Summoner-Base\] \[M\] Vanilla +Axes](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20%2BAxes) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20%2BAxes)
 
-| <b>Axe (Skeleton)</b><br/><img alt="Axe (Skeleton)" src="https://git.io/JXSSP"/> | <b>Handaxe (Skeleton)</b><br/><img alt="Handaxe (Skeleton)" src="https://git.io/JXSS1"/> | <b>Bow (Skeleton)</b><br/><img alt="Bow (Skeleton)" src="https://git.io/JXSSX"/> |
+| <b>Axe (Skeleton)</b><br/><img alt="Axe (Skeleton)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/3.%20Axe%20(Skeleton)/Axe.gif"/> | <b>Handaxe (Skeleton)</b><br/><img alt="Handaxe (Skeleton)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/4.%20Handaxe%20(Skeleton)/Handaxe.gif"/> | <b>Bow (Skeleton)</b><br/><img alt="Bow (Skeleton)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/5.%20Bow%20(Skeleton)/Bow.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOMc"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOH4"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20%5BM%5D%20Vanilla%20+Axes/7.%20Staff/Staff.gif"/> |
 
 
 
 
-## [\[T2 Summoner-Reskin\] \[F\] FEGirls-Style](https://git.io/Jn3kz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cq)
+## [\[T2 Summoner-Reskin\] \[F\] FEGirls-Style](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOdr"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOSO"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20FEGirls-Style/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T2 Summoner-Reskin\] \[F\] Generic by Velvet](https://git.io/Jn3q0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ga)
+## [\[T2 Summoner-Reskin\] \[F\] Generic by Velvet](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOMb"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnODb"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Reskin%5D%20%5BF%5D%20Generic%20by%20Velvet/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T3 Custom\] \[M\] Dark Prince Julius by Obs](https://git.io/Jn3q2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3GE)
+## [\[T3 Custom\] \[M\] Dark Prince Julius by Obs](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOA2"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BM%5D%20Dark%20Prince%20Julius%20by%20Obs/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](https://git.io/J1jiU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiF)
+## [\[T3 Custom\] \[U\] Executioner \(Assassin+Druid\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin%2BDruid)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin%2BDruid))
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyS"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOS0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO5C"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Executioner%20(Assassin+Druid)/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[T3 Custom\] \[U\] Moloch Sorcerer by Huichelaar](https://git.io/Jn3qG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CL)
+## [\[T3 Custom\] \[U\] Moloch Sorcerer by Huichelaar](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO1N"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnODK"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO7B"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7l"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](https://git.io/J1j6K) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jiS)
+## [\[T3 Dark Druid\] \[F\] Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20%2BWeapons)
 
-| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JnOML"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOym"/> | <b>Magic (Sorcress, Critical Sigil)</b><br/><img alt="Magic (Sorcress, Critical Sigil)" src="https://git.io/JnOyo"/> |
+| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic (Sorcress, Critical Sigil)</b><br/><img alt="Magic (Sorcress, Critical Sigil)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20Critical%20Sigil)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic (Sorcress, No Critical Sigil</b><br/><img alt="Magic (Sorcress, No Critical Sigil" src="https://git.io/JnOSU"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOD9"/> | <b>Staff (CamusZekeSirius)</b><br/><img alt="Staff (CamusZekeSirius)" src="https://git.io/JnOzA"/> |
-| <b>Staff (FE7 Dark Effect)</b><br/><img alt="Staff (FE7 Dark Effect)" src="https://git.io/JnO5H"/> | <b>Staff (FE8 Dark Effect)</b><br/><img alt="Staff (FE8 Dark Effect)" src="https://git.io/JnODk"/> |
+| <b>Magic (Sorcress, No Critical Sigil</b><br/><img alt="Magic (Sorcress, No Critical Sigil" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic%20(Sorcress,%20No%20Critical%20Sigil/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Staff (CamusZekeSirius)</b><br/><img alt="Staff (CamusZekeSirius)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(CamusZekeSirius)/Staff.gif"/> |
+| <b>Staff (FE7 Dark Effect)</b><br/><img alt="Staff (FE7 Dark Effect)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE7%20Dark%20Effect)/Staff.gif"/> | <b>Staff (FE8 Dark Effect)</b><br/><img alt="Staff (FE8 Dark Effect)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff%20(FE8%20Dark%20Effect)/Staff.gif"/> |
 
 
 
 
-## [\[T3 Dark Druid\] \[M\] Nergal +Fixes](https://git.io/J1j6N) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jii)
+## [\[T3 Dark Druid\] \[M\] Nergal +Fixes](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20%2BFixes) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20%2BFixes)
 
-| <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://git.io/JnOdH"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic (FE8 Adv)" src="https://git.io/JnOdM"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic (FE8 Basic)" src="https://git.io/JnO7Q"/> |
+| <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Dark)/Magic.gif"/> | <b>Magic (FE8 Adv)</b><br/><img alt="Magic (FE8 Adv)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Adv)/Magic.gif"/> | <b>Magic (FE8 Basic)</b><br/><img alt="Magic (FE8 Basic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20Basic)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic (FE8 JP Dark)</b><br/><img alt="Magic (FE8 JP Dark)" src="https://git.io/JnODS"/> | <b>Magic (FE8 JP Light)</b><br/><img alt="Magic (FE8 JP Light)" src="https://git.io/JnO1j"/> | <b>Magic (Freeze Fix)</b><br/><img alt="Magic (Freeze Fix)" src="https://git.io/JnODF"/> |
-| <b>Magic (Light)</b><br/><img alt="Magic (Light)" src="https://git.io/JnOyc"/> | <b>Magic (Vanilla Fixed)</b><br/><img alt="Magic (Vanilla Fixed)" src="https://git.io/JnOyu"/> | <b>Magic (Vanilla)</b><br/><img alt="Magic (Vanilla)" src="https://git.io/JnODA"/> |
-| <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://git.io/JnONi"/> | <b>Staff (Fixed) (Athos-Style)</b><br/><img alt="Staff (Fixed) (Athos-Style)" src="https://git.io/JnOy0"/> |
+| <b>Magic (FE8 JP Dark)</b><br/><img alt="Magic (FE8 JP Dark)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Dark)/Magic.gif"/> | <b>Magic (FE8 JP Light)</b><br/><img alt="Magic (FE8 JP Light)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(FE8%20JP%20Light)/Magic.gif"/> | <b>Magic (Freeze Fix)</b><br/><img alt="Magic (Freeze Fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Freeze%20Fix)/Magic.gif"/> |
+| <b>Magic (Light)</b><br/><img alt="Magic (Light)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Light)/Magic.gif"/> | <b>Magic (Vanilla Fixed)</b><br/><img alt="Magic (Vanilla Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla%20Fixed)/Magic.gif"/> | <b>Magic (Vanilla)</b><br/><img alt="Magic (Vanilla)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/6.%20Magic%20(Vanilla)/Magic.gif"/> |
+| <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff (Fixed) (Athos-Style)</b><br/><img alt="Staff (Fixed) (Athos-Style)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20+Fixes/7.%20Staff%20(Fixed)%20(Athos-Style)/Staff.gif"/> |
 
 
 
 
-## [\[T3 Dark Druid\] \[M\] Nergal Repal by SHYUTERz](https://git.io/Jn3qC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Gg)
+## [\[T3 Dark Druid\] \[M\] Nergal Repal by SHYUTERz](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz)
 
-| <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JnOA0"/> |
+| <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid%5D%20%5BM%5D%20Nergal%20Repal%20by%20SHYUTERz/6.%20Magic%20(FE8)/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](https://git.io/Jn3kW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CT)
+## [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyl"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnODx"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T3 Necromancer Alt\] \[M\] Noble Lyon by Aruka](https://git.io/Jn3qs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BQ)
+## [\[T3 Necromancer Alt\] \[M\] Noble Lyon by Aruka](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOy7"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOH6"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BM%5D%20Noble%20Lyon%20by%20Aruka/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[T3 Necromancer\] \[F\] Archsage Lilina by Redbean](https://git.io/Jn3q4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BV)
+## [\[T3 Necromancer\] \[F\] Archsage Lilina by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnODN"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOFH"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOME"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOA8"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFQ"/> | <b>Legendary Axe (Armads)</b><br/><img alt="Legendary Axe (Armads)" src="https://git.io/JnOdw"/> |
-| <b>Legendary Magic (Armads)</b><br/><img alt="Legendary Magic (Armads)" src="https://git.io/JnOSB"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/7.%20Staff/Staff.gif"/> | <b>Legendary Axe (Armads)</b><br/><img alt="Legendary Axe (Armads)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Axe%20(Armads)/Legendary.gif"/> |
+| <b>Legendary Magic (Armads)</b><br/><img alt="Legendary Magic (Armads)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20Archsage%20Lilina%20by%20Redbean/8.%20Legendary%20Magic%20(Armads)/Legendary.gif"/> |
 
 
 
 
-## [\[T3 Necromancer\] \[F\] by TytheBub](https://git.io/JzzC1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzCy)
+## [\[T3 Necromancer\] \[F\] by TytheBub](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20by%20TytheBub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20by%20TytheBub)
 
-| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JzzCu"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JzzCE"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JzzCz"/> |
+| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20by%20TytheBub/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20by%20TytheBub/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BF%5D%20by%20TytheBub/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[T3 Necromancer\] \[M\] Generic by Eldritch](https://git.io/Jn3Ie) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BZ)
+## [\[T3 Necromancer\] \[M\] Generic by Eldritch](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOSM"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOF7"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOFF"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://git.io/JnOSN"/> |
+| <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Generic%20by%20Eldritch/7.%20Staff%20(Fixed)/Staff.gif"/> |
 
 
 
 
-## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](https://git.io/J1jiR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jPT)
+## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20%2BWeapons)
 
-| <b>Magic (Blood Tome Critfix)</b><br/><img alt="Magic (Blood Tome Critfix)" src="https://git.io/JnOFj"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://git.io/JnOQP"/> | <b>Magic (Minigun Melee)</b><br/><img alt="Magic (Minigun Melee)" src="https://git.io/JnO5k"/> |
+| <b>Magic (Blood Tome Critfix)</b><br/><img alt="Magic (Blood Tome Critfix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Blood%20Tome%20Critfix)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Magic (Minigun Melee)</b><br/><img alt="Magic (Minigun Melee)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Minigun%20Melee)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic (Vanilla)</b><br/><img alt="Magic (Vanilla)" src="https://git.io/JnOd8"/> | <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://git.io/JnOMt"/> | <b>Staff (Vanilla)</b><br/><img alt="Staff (Vanilla)" src="https://git.io/JnOSl"/> |
+| <b>Magic (Vanilla)</b><br/><img alt="Magic (Vanilla)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/6.%20Magic%20(Vanilla)/Magic.gif"/> | <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Fixed)/Staff.gif"/> | <b>Staff (Vanilla)</b><br/><img alt="Staff (Vanilla)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20+Weapons/7.%20Staff%20(Vanilla)/Staff.gif"/> |
 
 
 
 
-## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon Repal by TytheBub](https://git.io/JzzCQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JzzC7)
+## [\[T3 Necromancer\] \[M\] Vanilla FE8 Lyon Repal by TytheBub](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub)
 
-| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JzzCg"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://git.io/JzzCW"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JzzCB"/> |
+| <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%5D%20%5BM%5D%20Vanilla%20FE8%20Lyon%20Repal%20by%20TytheBub/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 

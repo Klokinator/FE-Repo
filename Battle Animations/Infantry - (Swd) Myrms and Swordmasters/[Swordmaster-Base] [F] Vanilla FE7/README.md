@@ -1,6 +1,6 @@
-# [\[Swordmaster-Base\] \[F\] Vanilla FE7](https://git.io/Jn3kN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3cc)
+# [\[Swordmaster-Base\] \[F\] Vanilla FE7](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOAc"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOMw"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Vanilla%20FE7/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 ## Credits

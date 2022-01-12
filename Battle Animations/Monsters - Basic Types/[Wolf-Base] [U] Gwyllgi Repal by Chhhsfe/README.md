@@ -1,6 +1,6 @@
-# [\[Wolf-Base\] \[U\] Gwyllgi Repal by Chhhsfe](https://git.io/Jn3Om) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38g)
+# [\[Wolf-Base\] \[U\] Gwyllgi Repal by Chhhsfe](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Chhhsfe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Chhhsfe)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnOB4"/> |
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Base%5D%20%5BU%5D%20Gwyllgi%20Repal%20by%20Chhhsfe/8.%20Monster/Monster.gif"/> |
 | :---: |
 
 ## Credits

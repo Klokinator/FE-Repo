@@ -1,6 +1,6 @@
-# [\[MK-Reskin\] \[F\] Ponytail by Venno](https://git.io/Jn3f8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZI)
+# [\[MK-Reskin\] \[F\] Ponytail by Venno](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOEu"/> | <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://git.io/JnO6I"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO2Z"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/6.%20Magic/Magic.gif"/> | <b>Magic (FE7)</b><br/><img alt="Magic (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/6.%20Magic%20(FE7)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Reskin%5D%20%5BF%5D%20Ponytail%20by%20Venno/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 
 ## Credits

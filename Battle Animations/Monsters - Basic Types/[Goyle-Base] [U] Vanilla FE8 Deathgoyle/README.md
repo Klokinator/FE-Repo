@@ -1,6 +1,6 @@
-# [\[Goyle-Base\] \[U\] Vanilla FE8 Deathgoyle](https://git.io/Jn3Yc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn384)
+# [\[Goyle-Base\] \[U\] Vanilla FE8 Deathgoyle](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO9s"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO5D"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGoyle-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Deathgoyle/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 ## Credits

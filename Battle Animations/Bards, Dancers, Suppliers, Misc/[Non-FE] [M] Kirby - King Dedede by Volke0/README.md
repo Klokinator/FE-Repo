@@ -1,6 +1,6 @@
-# [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](https://git.io/Jn3k6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34f)
+# [\[Non-FE\] \[M\] Kirby - King Dedede by Volke0](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0)
 
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOyQ"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Kirby%20-%20King%20Dedede%20by%20Volke0/3.%20Axe/Axe.gif"/> |
 | :---: |
 
 ## Credits

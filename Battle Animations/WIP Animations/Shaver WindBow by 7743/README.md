@@ -1,4 +1,4 @@
-# [Shaver WindBow by 7743](https://git.io/JE2O2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE232)
+# [Shaver WindBow by 7743](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/Shaver%20WindBow%20by%207743) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/Shaver%20WindBow%20by%207743)
 
 
 

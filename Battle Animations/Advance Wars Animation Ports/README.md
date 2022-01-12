@@ -1,83 +1,83 @@
 # [Advance Wars Animation Ports Battle Animations](./)
 
-## [\[Black Hole\] Infantry {Amyd, Dark}](https://git.io/JSwkx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIZ)
+## [\[Black Hole\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Black Hole\] Mech {Amyd, Dark}](https://git.io/JSwI8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIo)
+## [\[Black Hole\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Blue Moon\] Infantry {Amyd, Dark}](https://git.io/JSwkN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIB)
+## [\[Blue Moon\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Blue Moon\] Mech {Amyd, Dark}](https://git.io/JSwkh) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIl)
+## [\[Blue Moon\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Green Earth\] Infantry {Amyd, Dark}](https://git.io/JSwkj) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIc)
+## [\[Green Earth\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Green Earth\] Mech {Amyd, Dark}](https://git.io/JSwkA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIG)
+## [\[Green Earth\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[IDS\] Infantry {Amyd, Dark}](https://git.io/JSwIm) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIR)
+## [\[IDS\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[IDS\] Mech {Amyd, Dark}](https://git.io/JSwIY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwI0)
+## [\[IDS\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Orange Star\] Infantry {Amyd, Dark}](https://git.io/JSwIe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIW)
+## [\[Orange Star\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Orange Star\] Mech {Amyd, Dark}](https://git.io/JSwIk) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIr)
+## [\[Orange Star\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Yellow Comet\] Infantry {Amyd, Dark}](https://git.io/JSwIv) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwI4)
+## [\[Yellow Comet\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
 
 
 
 
 
-## [\[Yellow Comet\] Mech {Amyd, Dark}](https://git.io/JSwkp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JSwIC)
+## [\[Yellow Comet\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
 
 

@@ -1,6 +1,6 @@
-# [\[Sage-Reskin\] \[M\] Snes Sage by Blademaster](https://git.io/Jn3I1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uG)
+# [\[Sage-Reskin\] \[M\] Snes Sage by Blademaster](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Snes%20Sage%20by%20Blademaster) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Snes%20Sage%20by%20Blademaster)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBG"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Snes%20Sage%20by%20Blademaster/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 ## Credits

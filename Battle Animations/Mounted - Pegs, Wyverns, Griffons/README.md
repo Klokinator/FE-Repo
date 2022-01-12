@@ -1,423 +1,423 @@
 # [Mounted - Pegs, Wyverns, Griffons Battle Animations](./)
 
-## [\[Griffon\] \[U\] Arbalest Repal by Eldritch](https://git.io/Jn3md) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zi)
+## [\[Griffon\] \[U\] Arbalest Repal by Eldritch](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20Repal%20by%20Eldritch) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20Repal%20by%20Eldritch)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOw2"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOrM"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBv"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20Repal%20by%20Eldritch/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20Repal%20by%20Eldritch/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20Repal%20by%20Eldritch/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Griffon\] \[U\] Arbalest v1 by Ayr](https://git.io/Jn3OY) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zj)
+## [\[Griffon\] \[U\] Arbalest v1 by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr)
 
-| <b>Lance {Raspberry}</b><br/><img alt="Lance {Raspberry}" src="https://git.io/JnO6R"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOBe"/> | <b>Unarmed {Raspberry}</b><br/><img alt="Unarmed {Raspberry}" src="https://git.io/JnOBg"/> |
+| <b>Lance {Raspberry}</b><br/><img alt="Lance {Raspberry}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/2.%20Lance%20%7BRaspberry%7D/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/5.%20Bow/Bow.gif"/> | <b>Unarmed {Raspberry}</b><br/><img alt="Unarmed {Raspberry}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20v1%20by%20Ayr/8.%20Unarmed%20%7BRaspberry%7D/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Griffon\] \[U\] Griffon v1 by Blue Druid](https://git.io/Jn3vN) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34k)
+## [\[Griffon\] \[U\] Griffon v1 by Blue Druid](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOE7"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOEE"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOEX"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOE8"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20by%20Blue%20Druid/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](https://git.io/Jn3m5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nc)
+## [\[Griffon\] \[U\] Griffon v1 Repal by Maiser6](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6)
 
-| <b>Sword (Possibly borked)</b><br/><img alt="Sword (Possibly borked)" src="https://git.io/JnOBP"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO6T"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO4Q"/> |
+| <b>Sword (Possibly borked)</b><br/><img alt="Sword (Possibly borked)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/1.%20Sword%20(Possibly%20borked)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO4F"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBK"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20by%20Maiser6/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](https://git.io/Jn3Yn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nB)
+## [\[Griffon\] \[U\] Griffon v2 SoA by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrm"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOBW"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOo6"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v2%20SoA%20by%20Ayr/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Peg Custom\] \[F\] Deva by Ayr](https://git.io/Jn3vQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3RK)
+## [\[Peg Custom\] \[F\] Deva by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Deva%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Deva%20by%20Ayr)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO4D"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Deva%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Peg Custom\] \[F\] Harrier by Ayr](https://git.io/Jn3fi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34r)
+## [\[Peg Custom\] \[F\] Harrier by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOuL"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](https://git.io/Jn3Ov) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nR)
+## [\[Peg Custom\] \[F\] Harrier Tethys by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOBs"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBc"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Peg Custom\] \[F\] Nephilim by Ayr](https://git.io/Jn3fq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3E1)
+## [\[Peg Custom\] \[F\] Nephilim by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Nephilim%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Nephilim%20by%20Ayr)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOET"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Nephilim%20by%20Ayr/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Peg T1 Base\] \[F\] Repal by Flasuban](https://git.io/Jn3mF) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nt)
+## [\[Peg T1 Base\] \[F\] Repal by Flasuban](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Flasuban) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Flasuban)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOKu"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4p"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Flasuban/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Flasuban/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Peg T1 Base\] \[F\] Repal by Jeorge_Reds](https://git.io/Jn3mA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZD)
+## [\[Peg T1 Base\] \[F\] Repal by Jeorge_Reds](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Jeorge_Reds) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Jeorge_Reds)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOB3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBJ"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Jeorge_Reds/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20by%20Jeorge_Reds/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Peg T1 Base\] \[F\] Repal v2 + Weapons by Flasuban](https://git.io/J1jrI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6c)
+## [\[Peg T1 Base\] \[F\] Repal v2 + Weapons by Flasuban](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20%2B%20Weapons%20by%20Flasuban) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20%2B%20Weapons%20by%20Flasuban)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuIQ"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuI1"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuIH"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20+%20Weapons%20by%20Flasuban/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20+%20Weapons%20by%20Flasuban/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20+%20Weapons%20by%20Flasuban/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JuuIM"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuuI5"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20+%20Weapons%20by%20Flasuban/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20+%20Weapons%20by%20Flasuban/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T1 Base\] \[F\] Vanilla +Weapons](https://git.io/J1jo1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6f)
+## [\[Peg T1 Base\] \[F\] Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4j"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4d"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBF"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBL"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T1 Base\] \[F\] Vanilla +Weapons Repal](https://git.io/J1jw7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jra)
+## [\[Peg T1 Base\] \[F\] Vanilla +Weapons Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons%20Repal)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO2r"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4C"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOrD"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons%20Repal/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons%20Repal/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons%20Repal/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKC"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T1 Reskin\] \[F\] Farina by Greentea](https://git.io/Jn3mp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nl)
+## [\[Peg T1 Reskin\] \[F\] Farina by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Farina%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Farina%20by%20Greentea)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOBO"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBt"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Farina%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Farina%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Peg T1 Reskin\] \[F\] Fiora by Greentea](https://git.io/Jn3Ye) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z9)
+## [\[Peg T1 Reskin\] \[F\] Fiora by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Fiora%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Fiora%20by%20Greentea)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO62"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVN"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Fiora%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Fiora%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Peg T1 Reskin\] \[F\] Florina by Greentea](https://git.io/Jn3YJ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZQ)
+## [\[Peg T1 Reskin\] \[F\] Florina by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Florina%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Florina%20by%20Greentea)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOr4"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOB1"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Florina%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BF%5D%20Florina%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Peg T1 Reskin\] \[M\] Armored by Lisandra_Brave](https://git.io/Jn3mx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZH)
+## [\[Peg T1 Reskin\] \[M\] Armored by Lisandra_Brave](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Armored%20by%20Lisandra_Brave) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Armored%20by%20Lisandra_Brave)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOBY"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBr"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Armored%20by%20Lisandra_Brave/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Armored%20by%20Lisandra_Brave/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[Peg T1 Reskin\] \[M\] Generic by SixThousandHulls +Staff](https://git.io/J1jot) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKc)
+## [\[Peg T1 Reskin\] \[M\] Generic by SixThousandHulls +Staff](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Generic%20by%20SixThousandHulls%20%2BStaff) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Generic%20by%20SixThousandHulls%20%2BStaff)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOBC"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrc"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Generic%20by%20SixThousandHulls%20+Staff/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Generic%20by%20SixThousandHulls%20+Staff/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T1%20Reskin%5D%20%5BM%5D%20Generic%20by%20SixThousandHulls%20+Staff/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[Peg T2 Base\] \[F\] Falcoknight Outfit Repal +Weapons](https://git.io/J1jKP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6o)
+## [\[Peg T2 Base\] \[F\] Falcoknight Outfit Repal +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Falcoknight%20Outfit%20Repal%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Falcoknight%20Outfit%20Repal%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO6z"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOBU"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBl"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Falcoknight%20Outfit%20Repal%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Falcoknight%20Outfit%20Repal%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Falcoknight%20Outfit%20Repal%20+Weapons/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBu"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Falcoknight%20Outfit%20Repal%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Falcoknight%20Outfit%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T2 Base\] \[F\] Vanilla +Weapons](https://git.io/J1joT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKm)
+## [\[Peg T2 Base\] \[F\] Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOKp"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4G"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOwS"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO44"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrS"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T2 Reskin\] \[F\] Black Beauty by TBA](https://git.io/Jn3YT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z6)
+## [\[Peg T2 Reskin\] \[F\] Black Beauty by TBA](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Black%20Beauty%20by%20TBA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Black%20Beauty%20by%20TBA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOr8"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOrh"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOrp"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Black%20Beauty%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Black%20Beauty%20by%20TBA/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Black%20Beauty%20by%20TBA/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBz"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Black%20Beauty%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T2 Reskin\] \[F\] Falcoknight Farina by Greentea](https://git.io/Jn3YI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nL)
+## [\[Peg T2 Reskin\] \[F\] Falcoknight Farina by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Farina%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Farina%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOrx"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOai"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO42"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Farina%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Farina%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Farina%20by%20Greentea/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBE"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Farina%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T2 Reskin\] \[F\] Falcoknight Fiora by Greentea](https://git.io/Jn3Yf) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nK)
+## [\[Peg T2 Reskin\] \[F\] Falcoknight Fiora by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Fiora%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Fiora%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO6v"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOrd"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO4O"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Fiora%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Fiora%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Fiora%20by%20Greentea/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOBD"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Fiora%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T2 Reskin\] \[F\] Falcoknight Florina by Greentea](https://git.io/Jn3O3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZM)
+## [\[Peg T2 Reskin\] \[F\] Falcoknight Florina by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Florina%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Florina%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOBV"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOKR"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnOBM"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Florina%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Florina%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Florina%20by%20Greentea/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOB8"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BF%5D%20Falcoknight%20Florina%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T2 Variant\] \[F\] Falcoknight v2 +Weapons](https://git.io/J1jwd) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jrX)
+## [\[Peg T2 Variant\] \[F\] Falcoknight v2 +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOBT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOoJ"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO0N"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20+Weapons/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOBw"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO0y"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO4l"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOhx"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20+Weapons/7.%20Staff/Staff.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Variant%5D%20%5BF%5D%20Falcoknight%20v2%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[Peg T2-Variant\] \[F\] Sky Knight by JeyTheCount](https://git.io/Jn3OG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n2)
+## [\[Peg T2-Variant\] \[F\] Sky Knight by JeyTheCount](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhA"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOrA"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4R"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[WK Base\] \[U\] Repal +Weapons](https://git.io/J1jK5) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jik)
+## [\[WK Base\] \[U\] Repal +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO0F"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhh"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO4c"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20+Weapons/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOhb"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnO43"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4B"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WK Base\] \[U\] Vanilla](https://git.io/Jn3On) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3na)
+## [\[WK Base\] \[U\] Vanilla](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Vanilla) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Vanilla)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4n"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4Z"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Vanilla/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Base%5D%20%5BU%5D%20Vanilla/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[WK Custom\] \[M\] Malig Knight Magi by Shtick](https://git.io/Jn3OZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nz)
+## [\[WK Custom\] \[M\] Malig Knight Magi by Shtick](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20Magi%20by%20Shtick) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20Magi%20by%20Shtick)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOhF"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20Magi%20by%20Shtick/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[WK Custom\] \[M\] Malig Knight v1](https://git.io/JDU01) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JDU0M)
+## [\[WK Custom\] \[M\] Malig Knight v1](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1)
 
-| <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://git.io/JDU0V"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JDU0w"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JDU0r"/> |
+| <b>Lance {Jey the Count}</b><br/><img alt="Lance {Jey the Count}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1/2.%20Lance%20%7BJey%20the%20Count%7D/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JDU0a"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v1/6.%20Magic/Magic.gif"/> |
 
 
 
 
-## [\[WK Custom\] \[M\] Malig Knight v2](https://git.io/Jn3OE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn38u)
+## [\[WK Custom\] \[M\] Malig Knight v2](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JDU0K"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhI"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOza"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOzH"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Custom%5D%20%5BM%5D%20Malig%20Knight%20v2/6.%20Magic/Magic.gif"/> |
 
 
 
 
-## [\[WK Reskin\] \[U\] Knight Helmetless +Axe](https://git.io/J1jK2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j69)
+## [\[WK Reskin\] \[U\] Knight Helmetless +Axe](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Knight%20Helmetless%20%2BAxe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Knight%20Helmetless%20%2BAxe)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOhp"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOhj"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO0S"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Knight%20Helmetless%20+Axe/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Knight%20Helmetless%20+Axe/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Knight%20Helmetless%20+Axe/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO07"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Knight%20Helmetless%20+Axe/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WK Reskin\] \[U\] Wicked Flier by Blue Druid](https://git.io/Jn3OR) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nP)
+## [\[WK Reskin\] \[U\] Wicked Flier by Blue Druid](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Wicked%20Flier%20by%20Blue%20Druid) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Wicked%20Flier%20by%20Blue%20Druid)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOVw"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOBp"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Wicked%20Flier%20by%20Blue%20Druid/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWK%20Reskin%5D%20%5BU%5D%20Wicked%20Flier%20by%20Blue%20Druid/6.%20Magic/Magic.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[WL Base\] \[U\] Repal by Feaw](https://git.io/Jn3O8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nw)
+## [\[WL Base\] \[U\] Repal by Feaw](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO48"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO4g"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOVb"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrR"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Repal%20by%20Feaw/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WL Base\] \[U\] Vanilla +Weapons](https://git.io/J1jr9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1joN)
+## [\[WL Base\] \[U\] Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO4u"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO4s"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzu"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOzD"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOz2"/> | <b>Bow (Fixed Palette)</b><br/><img alt="Bow (Fixed Palette)" src="https://git.io/JnOz4"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOVY"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Bow (Fixed Palette)</b><br/><img alt="Bow (Fixed Palette)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow%20(Fixed%20Palette)/Bow.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WL Custom\] \[F\] Ashnard by Luerock](https://git.io/Jn3OB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nM)
+## [\[WL Custom\] \[F\] Ashnard by Luerock](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BF%5D%20Ashnard%20by%20Luerock) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BF%5D%20Ashnard%20by%20Luerock)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOzV"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrj"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BF%5D%20Ashnard%20by%20Luerock/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BF%5D%20Ashnard%20by%20Luerock/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[WL Custom\] \[M\] Ashnard by Luerock](https://git.io/Jn3O0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZA)
+## [\[WL Custom\] \[M\] Ashnard by Luerock](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BM%5D%20Ashnard%20by%20Luerock) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BM%5D%20Ashnard%20by%20Luerock)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOzl"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOV3"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BM%5D%20Ashnard%20by%20Luerock/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Custom%5D%20%5BM%5D%20Ashnard%20by%20Luerock/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[WL Reskin\] \[F\] Helmetless](https://git.io/Jn3OW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nC)
+## [\[WL Reskin\] \[F\] Helmetless](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Helmetless) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Helmetless)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOoD"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOz9"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Helmetless/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Helmetless/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[WL Reskin\] \[F\] Vaida by Greentea](https://git.io/Jn3OK) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ni)
+## [\[WL Reskin\] \[F\] Vaida by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOre"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOVf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOzX"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BF%5D%20Vaida%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
 
 
-## [\[WL Reskin\] \[M\] Heath by Greentea](https://git.io/Jn3Og) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3ZP)
+## [\[WL Reskin\] \[M\] Heath by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOoE"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOoC"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOV8"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOzP"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOwL"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WL Reskin\] \[M\] Heath Generic by Greentea](https://git.io/Jn3Ou) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nV)
+## [\[WL Reskin\] \[M\] Heath Generic by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnO6f"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzW"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOBA"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKj"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Generic%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WL Reskin\] \[M\] Helmetless +Axe](https://git.io/J1jKw) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1j6r)
+## [\[WL Reskin\] \[M\] Helmetless +Axe](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20%2BAxe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20%2BAxe)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOVm"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOzE"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO2b"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20+Axe/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20+Axe/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20+Axe/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOa7"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOzw"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20+Axe/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20+Axe/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WL Reskin\] \[U\] Armored by Nuramon](https://git.io/Jn3Oo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nI)
+## [\[WL Reskin\] \[U\] Armored by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOwB"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOrF"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzr"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOBN"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOaj"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOzo"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Armored%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WL Reskin\] \[U\] Dragoon Rider by Nuramon](https://git.io/Jn3O2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Z1)
+## [\[WL Reskin\] \[U\] Dragoon Rider by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOoq"/> | <b>Sword (No Bounce)</b><br/><img alt="Sword (No Bounce)" src="https://git.io/JnOzd"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOr1"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword (No Bounce)</b><br/><img alt="Sword (No Bounce)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/1.%20Sword%20(No%20Bounce)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
-| <b>Lance (No Bounce)</b><br/><img alt="Lance (No Bounce)" src="https://git.io/JnOzN"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOz6"/> | <b>Axe (No Bounce)</b><br/><img alt="Axe (No Bounce)" src="https://git.io/JnOzK"/> |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOom"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOKy"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOKg"/> |
+| <b>Lance (No Bounce)</b><br/><img alt="Lance (No Bounce)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/2.%20Lance%20(No%20Bounce)/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Axe (No Bounce)</b><br/><img alt="Axe (No Bounce)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/3.%20Axe%20(No%20Bounce)/Axe.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon/6.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WR Base\] \[U\] Vanilla +Weapons](https://git.io/J1jr4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/J1jKe)
+## [\[WR Base\] \[U\] Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons)
 
-| <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://git.io/JuuIy"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://git.io/JuuID"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEx"/> |
+| <b>Sword {Rawr776}</b><br/><img alt="Sword {Rawr776}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/1.%20Sword%20%7BRawr776%7D/Sword.gif"/> | <b>Sword {SamirPlayz}</b><br/><img alt="Sword {SamirPlayz}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/1.%20Sword%20%7BSamirPlayz%7D/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOKn"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOw4"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOzy"/> |
-| <b>Bow (Palette Fix)</b><br/><img alt="Bow (Palette Fix)" src="https://git.io/JnORf"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOrE"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> |
+| <b>Bow (Palette Fix)</b><br/><img alt="Bow (Palette Fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/5.%20Bow%20(Palette%20Fix)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Base%5D%20%5BU%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WR Reskin\] \[F\] Helmetless by eCut](https://git.io/Jn3OP) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3n6)
+## [\[WR Reskin\] \[F\] Helmetless by eCut](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BF%5D%20Helmetless%20by%20eCut) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BF%5D%20Helmetless%20by%20eCut)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOwQ"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOVq"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOVZ"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BF%5D%20Helmetless%20by%20eCut/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BF%5D%20Helmetless%20by%20eCut/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BF%5D%20Helmetless%20by%20eCut/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOz8"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BF%5D%20Helmetless%20by%20eCut/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
-## [\[WR Reskin\] \[M\] Heath by Greentea](https://git.io/Jn3Oa) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Zo)
+## [\[WR Reskin\] \[M\] Heath by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOV2"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOz1"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Heath%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
 
 
-## [\[WR Reskin\] \[M\] Helmetless by eCut](https://git.io/Jn3Or) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3nk)
+## [\[WR Reskin\] \[M\] Helmetless by eCut](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOEb"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOzM"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOK1"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO7z"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

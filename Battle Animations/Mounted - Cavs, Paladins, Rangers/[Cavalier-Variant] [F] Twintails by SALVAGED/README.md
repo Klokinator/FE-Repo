@@ -1,8 +1,8 @@
-# [\[Cavalier-Variant\] \[F\] Twintails by SALVAGED](https://git.io/Jn3Y9) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BT)
+# [\[Cavalier-Variant\] \[F\] Twintails by SALVAGED](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO9b"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpQ"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOp5"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnO12"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOxE"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Twintails%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> |
 
 ## Credits
 

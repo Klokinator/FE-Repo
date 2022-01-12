@@ -1,6 +1,6 @@
-# [\[T3.1 Bishop\] \[M\] Patriarch by MrNight48](https://git.io/Jn3I3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Wj)
+# [\[T3.1 Bishop\] \[M\] Patriarch by MrNight48](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOhe"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO1a"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20%5BM%5D%20Patriarch%20by%20MrNight48/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 ## Credits

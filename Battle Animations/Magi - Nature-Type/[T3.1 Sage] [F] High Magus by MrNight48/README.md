@@ -1,6 +1,6 @@
-# [\[T3.1 Sage\] \[F\] High Magus by MrNight48](https://git.io/Jn3LM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uK)
+# [\[T3.1 Sage\] \[F\] High Magus by MrNight48](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO4M"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO4i"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 ## Credits

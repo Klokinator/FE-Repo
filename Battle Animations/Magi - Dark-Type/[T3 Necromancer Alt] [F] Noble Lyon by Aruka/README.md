@@ -1,6 +1,6 @@
-# [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](https://git.io/Jn3kW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CT)
+# [\[T3 Necromancer Alt\] \[F\] Noble Lyon by Aruka](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOyl"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnODx"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer%20Alt%5D%20%5BF%5D%20Noble%20Lyon%20by%20Aruka/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 ## Credits

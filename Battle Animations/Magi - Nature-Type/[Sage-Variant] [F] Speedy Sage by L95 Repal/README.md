@@ -1,6 +1,6 @@
-# [\[Sage-Variant\] \[F\] Speedy Sage by L95 Repal](https://git.io/Jn3LQ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uO)
+# [\[Sage-Variant\] \[F\] Speedy Sage by L95 Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BF%5D%20Speedy%20Sage%20by%20L95%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BF%5D%20Speedy%20Sage%20by%20L95%20Repal)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnO60"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO4P"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BF%5D%20Speedy%20Sage%20by%20L95%20Repal/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BF%5D%20Speedy%20Sage%20by%20L95%20Repal/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 ## Credits

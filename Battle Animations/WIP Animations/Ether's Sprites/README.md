@@ -1,4 +1,4 @@
-# [Ether's Sprites](https://git.io/JE2Oi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE237)
+# [Ether's Sprites](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/Ether's%20Sprites) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/WIP%20Animations/Ether's%20Sprites)
 
 
 

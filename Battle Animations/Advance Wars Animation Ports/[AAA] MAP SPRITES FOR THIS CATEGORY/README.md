@@ -168,13 +168,13 @@
 |<img alt="[FW SNES] Mech {Amyd}-stand" src="[FW SNES] Mech {Amyd}-stand.png" />|<img alt="[FW SNES] Mediun Tank {Amyd}-stand" src="[FW SNES] Mediun Tank {Amyd}-stand.png" />|<img alt="[FW SNES] Mobile AA {Amyd}-stand" src="[FW SNES] Mobile AA {Amyd}-stand.png" />|<img alt="[FW SNES] Mobile Missile Launcher {Amyd}-stand" src="[FW SNES] Mobile Missile Launcher {Amyd}-stand.png" />|
 
 
-|[FW SNES] Railway Mobile Gun <br> {Amyd}|[FW SNES] Recon <br> {Amyd}|[FW SNES] SPG <br> {Amyd}|[FW SNES] Submarine <br> {Amyd}|
+|[FW SNES] Railway Mobile Gun <br> {Amyd}|[FW SNES] Recon <br> {Amyd}|[FW SNES] Recon-walk <br> {Amyd}|[FW SNES] SPG <br> {Amyd}|
 | :---: | :---: | :---: | :---: |
-|<img alt="[FW SNES] Railway Mobile Gun {Amyd}-stand" src="[FW SNES] Railway Mobile Gun {Amyd}-stand.png" />|<img alt="[FW SNES] Recon {Amyd}-stand" src="[FW SNES] Recon {Amyd}-stand.png" />|<img alt="[FW SNES] SPG {Amyd}-stand" src="[FW SNES] SPG {Amyd}-stand.png" />|<img alt="[FW SNES] Submarine {Amyd}-stand" src="[FW SNES] Submarine {Amyd}-stand.png" />|
+|<img alt="[FW SNES] Railway Mobile Gun {Amyd}-stand" src="[FW SNES] Railway Mobile Gun {Amyd}-stand.png" />|<img alt="[FW SNES] Recon {Amyd}-stand" src="[FW SNES] Recon {Amyd}-stand.png" />|<img alt="[FW SNES] Recon {Amyd}-walk" src="[FW SNES] Recon {Amyd}-walk.png" />|<img alt="[FW SNES] SPG {Amyd}-stand" src="[FW SNES] SPG {Amyd}-stand.png" />|
 
 
-|[FW SNES] Supply Truck <br> {Amyd}|[FW SNES] Transport Helicopter <br> {Amyd}|
-| :---: | :---: |
-|<img alt="[FW SNES] Supply Truck {Amyd}-stand" src="[FW SNES] Supply Truck {Amyd}-stand.png" />|<img alt="[FW SNES] Transport Helicopter {Amyd}-stand" src="[FW SNES] Transport Helicopter {Amyd}-stand.png" />|
+|[FW SNES] Submarine <br> {Amyd}|[FW SNES] Supply Truck <br> {Amyd}|[FW SNES] Transport Helicopter <br> {Amyd}|
+| :---: | :---: | :---: |
+|<img alt="[FW SNES] Submarine {Amyd}-stand" src="[FW SNES] Submarine {Amyd}-stand.png" />|<img alt="[FW SNES] Supply Truck {Amyd}-stand" src="[FW SNES] Supply Truck {Amyd}-stand.png" />|<img alt="[FW SNES] Transport Helicopter {Amyd}-stand" src="[FW SNES] Transport Helicopter {Amyd}-stand.png" />|
 
 

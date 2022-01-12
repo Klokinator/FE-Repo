@@ -1,6 +1,6 @@
-# [\[Non-FE\] \[M\] Mario by Volke0](https://git.io/Jn3mT) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34T)
+# [\[Non-FE\] \[M\] Mario by Volke0](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0)
 
-| <b>Lance (Hammer)</b><br/><img alt="Lance (Hammer)" src="https://git.io/JnO1r"/> |
+| <b>Lance (Hammer)</b><br/><img alt="Lance (Hammer)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Mario%20by%20Volke0/2.%20Lance%20(Hammer)/Lance.gif"/> |
 | :---: |
 
 ## Credits

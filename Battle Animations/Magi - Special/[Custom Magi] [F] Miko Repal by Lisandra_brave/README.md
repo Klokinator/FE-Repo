@@ -1,6 +1,6 @@
-# [\[Custom Magi\] \[F\] Miko Repal by Lisandra_brave](https://git.io/JE8xu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE8x2)
+# [\[Custom Magi\] \[F\] Miko Repal by Lisandra_brave](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20Repal%20by%20Lisandra_brave) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20Repal%20by%20Lisandra_brave)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JE8x0"/> | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JE8xE"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20Repal%20by%20Lisandra_brave/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Miko%20Repal%20by%20Lisandra_brave/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 ## Credits

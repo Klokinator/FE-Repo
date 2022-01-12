@@ -1,6 +1,6 @@
-# [\[FE7 Hector-Variant\] \[F\] T2 Harbinger Helmetless](https://git.io/JispM) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JishC)
+# [\[FE7 Hector-Variant\] \[F\] T2 Harbinger Helmetless](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://git.io/Jisxj"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JisFU"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Variant%5D%20%5BF%5D%20T2%20Harbinger%20Helmetless/6.%20Magic/Magic.gif"/> |
 | :---: | :---: |
 
 ## Credits

@@ -1,6 +1,6 @@
-# [\[Mogall-Base\] \[U\] Vanilla FE8 Arch Mogall](https://git.io/Jn3Yt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3uo)
+# [\[Mogall-Base\] \[U\] Vanilla FE8 Arch Mogall](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOyG"/> | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JX4d2"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall/6.%20Magic/Magic.gif"/> | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Arch%20Mogall/8.%20Monster/Monster.gif"/> |
 | :---: | :---: |
 
 ## Credits

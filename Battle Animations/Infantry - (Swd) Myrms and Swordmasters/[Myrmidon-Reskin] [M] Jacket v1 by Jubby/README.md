@@ -1,6 +1,6 @@
-# [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](https://git.io/Jn3ke) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn34K)
+# [\[Myrmidon-Reskin\] \[M\] Jacket v1 by Jubby](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOSH"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO9G"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Jacket%20v1%20by%20Jubby/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 ## Credits

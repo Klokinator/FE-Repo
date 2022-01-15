@@ -68,43 +68,43 @@
 |<img alt="Brigand (M) Barbarian Axe {Glaceo}-stand" src="Brigand (M) Barbarian Axe {Glaceo}-stand.png" />|<img alt="Brigand (M) Barbarian Axe {Glaceo}-walk" src="Brigand (M) Barbarian Axe {Glaceo}-walk.png" />|<img alt="Brigand (M) Clothed Axe {Yangfly Master}-stand" src="Brigand (M) Clothed Axe {Yangfly Master}-stand.png" />|<img alt="Brigand (M) Clothed Axe {Yangfly Master}.png-walk" src="Brigand (M) Clothed Axe {Yangfly Master}.png-walk.png" />|
 
 
-|Brigand (M) Improved +Clothing <br> {Flasuban}|Brigand (M) Improved +Clothing-walk <br> {Flasuban}|Gladiator (M) <br> {Pikmin, L95}|Gladiator (M)-walk <br> {Pikmin, L95}|
+|Brigand (M) Improved +Clothing <br> {Flasuban}|Brigand (M) Improved +Clothing-walk <br> {Flasuban}|Brigand (U) Lizard Wildling <br> {Tarantino500}|Brigand (U) Lizard Wildling-walk <br> {Tarantino500}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Brigand (M) Improved +Clothing {Flasuban}-stand" src="Brigand (M) Improved +Clothing {Flasuban}-stand.png" />|<img alt="Brigand (M) Improved +Clothing {Flasuban}-walk" src="Brigand (M) Improved +Clothing {Flasuban}-walk.png" />|<img alt="Gladiator (M) {Pikmin, L95}-stand" src="Gladiator (M) {Pikmin, L95}-stand.png" />|<img alt="Gladiator (M) {Pikmin, L95}-walk" src="Gladiator (M) {Pikmin, L95}-walk.png" />|
+|<img alt="Brigand (M) Improved +Clothing {Flasuban}-stand" src="Brigand (M) Improved +Clothing {Flasuban}-stand.png" />|<img alt="Brigand (M) Improved +Clothing {Flasuban}-walk" src="Brigand (M) Improved +Clothing {Flasuban}-walk.png" />|<img alt="Brigand (U) Lizard Wildling {Tarantino500}-stand" src="Brigand (U) Lizard Wildling {Tarantino500}-stand.png" />|<img alt="Brigand (U) Lizard Wildling {Tarantino500}-walk" src="Brigand (U) Lizard Wildling {Tarantino500}-walk.png" />|
 
 
-|Gladiator (M) <br> {SSHX}|Gladiator (M)-walk <br> {SSHX}|Marauder (M) Axe <br> {Author_Pendragon}|Marauder (M) Axe-walk <br> {Author_Pendragon}|
+|Gladiator (M) <br> {Pikmin, L95}|Gladiator (M)-walk <br> {Pikmin, L95}|Gladiator (M) <br> {SSHX}|Gladiator (M)-walk <br> {SSHX}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Gladiator (M) {SSHX}-stand" src="Gladiator (M) {SSHX}-stand.png" />|<img alt="Gladiator (M) {SSHX}-walk" src="Gladiator (M) {SSHX}-walk.png" />|<img alt="Marauder (M) Axe {Author_Pendragon}-stand" src="Marauder (M) Axe {Author_Pendragon}-stand.png" />|<img alt="Marauder (M) Axe {Author_Pendragon}-walk" src="Marauder (M) Axe {Author_Pendragon}-walk.png" />|
+|<img alt="Gladiator (M) {Pikmin, L95}-stand" src="Gladiator (M) {Pikmin, L95}-stand.png" />|<img alt="Gladiator (M) {Pikmin, L95}-walk" src="Gladiator (M) {Pikmin, L95}-walk.png" />|<img alt="Gladiator (M) {SSHX}-stand" src="Gladiator (M) {SSHX}-stand.png" />|<img alt="Gladiator (M) {SSHX}-walk" src="Gladiator (M) {SSHX}-walk.png" />|
 
 
-|Marauder (M) Basic Axe <br> {Blademaster}|Marauder (M) Basic Axe-walk <br> {Blademaster}|Marauder (M) Spud's <br> {LonkFC}|Marauder (M) Spud's-walk <br> {LonkFC}|
+|Marauder (M) Axe <br> {Author_Pendragon}|Marauder (M) Axe-walk <br> {Author_Pendragon}|Marauder (M) Basic Axe <br> {Blademaster}|Marauder (M) Basic Axe-walk <br> {Blademaster}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Marauder (M) Basic Axe {Blademaster}-stand" src="Marauder (M) Basic Axe {Blademaster}-stand.png" />|<img alt="Marauder (M) Basic Axe {Blademaster}-walk" src="Marauder (M) Basic Axe {Blademaster}-walk.png" />|<img alt="Marauder (M) Spud's {LonkFC}-stand" src="Marauder (M) Spud's {LonkFC}-stand.png" />|<img alt="Marauder (M) Spud's {LonkFC}-walk" src="Marauder (M) Spud's {LonkFC}-walk.png" />|
+|<img alt="Marauder (M) Axe {Author_Pendragon}-stand" src="Marauder (M) Axe {Author_Pendragon}-stand.png" />|<img alt="Marauder (M) Axe {Author_Pendragon}-walk" src="Marauder (M) Axe {Author_Pendragon}-walk.png" />|<img alt="Marauder (M) Basic Axe {Blademaster}-stand" src="Marauder (M) Basic Axe {Blademaster}-stand.png" />|<img alt="Marauder (M) Basic Axe {Blademaster}-walk" src="Marauder (M) Basic Axe {Blademaster}-walk.png" />|
 
 
-|Pirate (F) Axe <br> {flasuban, Mikey_Seregon}|Pirate (F) Axe-walk <br> {flasuban, Mikey_Seregon}|Pirate (F) Axe <br> {StreetHero}|Pirate (F) Axe-walk <br> {StreetHero}|
+|Marauder (M) Spud's <br> {LonkFC}|Marauder (M) Spud's-walk <br> {LonkFC}|Pirate (F) Axe <br> {flasuban, Mikey_Seregon}|Pirate (F) Axe-walk <br> {flasuban, Mikey_Seregon}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand" src="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand.png" />|<img alt="Pirate (F) Axe {flasuban, Mikey_Seregon}-walk" src="Pirate (F) Axe {flasuban, Mikey_Seregon}-walk.png" />|<img alt="Pirate (F) Axe {StreetHero}-stand" src="Pirate (F) Axe {StreetHero}-stand.png" />|<img alt="Pirate (F) Axe {StreetHero}-walk" src="Pirate (F) Axe {StreetHero}-walk.png" />|
+|<img alt="Marauder (M) Spud's {LonkFC}-stand" src="Marauder (M) Spud's {LonkFC}-stand.png" />|<img alt="Marauder (M) Spud's {LonkFC}-walk" src="Marauder (M) Spud's {LonkFC}-walk.png" />|<img alt="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand" src="Pirate (F) Axe {flasuban, Mikey_Seregon}-stand.png" />|<img alt="Pirate (F) Axe {flasuban, Mikey_Seregon}-walk" src="Pirate (F) Axe {flasuban, Mikey_Seregon}-walk.png" />|
 
 
-|Pirate (F) Hat Axe <br> {Glaceo, Skitty, blood}|Pirate (F) Hat Axe-walk <br> {Glaceo, Skitty, blood}|Pirate (M) Axe <br> {IS}|Pirate (M) Axe-walk <br> {IS}|
+|Pirate (F) Axe <br> {StreetHero}|Pirate (F) Axe-walk <br> {StreetHero}|Pirate (F) Hat Axe <br> {Glaceo, Skitty, blood}|Pirate (F) Hat Axe-walk <br> {Glaceo, Skitty, blood}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand" src="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand.png" />|<img alt="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-walk" src="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-walk.png" />|<img alt="Pirate (M) Axe {IS}-stand" src="Pirate (M) Axe {IS}-stand.png" />|<img alt="Pirate (M) Axe {IS}-walk" src="Pirate (M) Axe {IS}-walk.png" />|
+|<img alt="Pirate (F) Axe {StreetHero}-stand" src="Pirate (F) Axe {StreetHero}-stand.png" />|<img alt="Pirate (F) Axe {StreetHero}-walk" src="Pirate (F) Axe {StreetHero}-walk.png" />|<img alt="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand" src="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-stand.png" />|<img alt="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-walk" src="Pirate (F) Hat Axe {Glaceo, Skitty, blood}-walk.png" />|
 
 
-|Pirate (M) DS-Style Axe <br> {Der}|Pirate (M) DS-Style Axe-walk <br> {Der}|Pirate (M) DS-Style No-Bandana Axe <br> {Der}|Pirate (M) DS-Style No-Bandana Axe-walk <br> {Der}|
+|Pirate (M) Axe <br> {IS}|Pirate (M) Axe-walk <br> {IS}|Pirate (M) DS-Style Axe <br> {Der}|Pirate (M) DS-Style Axe-walk <br> {Der}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Pirate (M) DS-Style Axe {Der}-stand" src="Pirate (M) DS-Style Axe {Der}-stand.png" />|<img alt="Pirate (M) DS-Style Axe {Der}-walk" src="Pirate (M) DS-Style Axe {Der}-walk.png" />|<img alt="Pirate (M) DS-Style No-Bandana Axe {Der}-stand" src="Pirate (M) DS-Style No-Bandana Axe {Der}-stand.png" />|<img alt="Pirate (M) DS-Style No-Bandana Axe {Der}-walk" src="Pirate (M) DS-Style No-Bandana Axe {Der}-walk.png" />|
+|<img alt="Pirate (M) Axe {IS}-stand" src="Pirate (M) Axe {IS}-stand.png" />|<img alt="Pirate (M) Axe {IS}-walk" src="Pirate (M) Axe {IS}-walk.png" />|<img alt="Pirate (M) DS-Style Axe {Der}-stand" src="Pirate (M) DS-Style Axe {Der}-stand.png" />|<img alt="Pirate (M) DS-Style Axe {Der}-walk" src="Pirate (M) DS-Style Axe {Der}-walk.png" />|
 
 
-|Pirate (M) Hat Axe <br> {7743}|Pirate (M) Hat Axe-walk <br> {7743}|Shark Rider (F) <br> {N426}|Shark Rider (F)-walk <br> {N426}|
+|Pirate (M) DS-Style No-Bandana Axe <br> {Der}|Pirate (M) DS-Style No-Bandana Axe-walk <br> {Der}|Pirate (M) Hat Axe <br> {7743}|Pirate (M) Hat Axe-walk <br> {7743}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Pirate (M) Hat Axe {7743}-stand" src="Pirate (M) Hat Axe {7743}-stand.png" />|<img alt="Pirate (M) Hat Axe {7743}-walk" src="Pirate (M) Hat Axe {7743}-walk.png" />|<img alt="Shark Rider (F) {N426}-stand" src="Shark Rider (F) {N426}-stand.png" />|<img alt="Shark Rider (F) {N426}-walk" src="Shark Rider (F) {N426}-walk.png" />|
+|<img alt="Pirate (M) DS-Style No-Bandana Axe {Der}-stand" src="Pirate (M) DS-Style No-Bandana Axe {Der}-stand.png" />|<img alt="Pirate (M) DS-Style No-Bandana Axe {Der}-walk" src="Pirate (M) DS-Style No-Bandana Axe {Der}-walk.png" />|<img alt="Pirate (M) Hat Axe {7743}-stand" src="Pirate (M) Hat Axe {7743}-stand.png" />|<img alt="Pirate (M) Hat Axe {7743}-walk" src="Pirate (M) Hat Axe {7743}-walk.png" />|
 
 
-|Shark Rider (M) <br> {N426}|Shark Rider (M)-walk <br> {N426}|
-| :---: | :---: |
-|<img alt="Shark Rider (M) {N426}-stand" src="Shark Rider (M) {N426}-stand.png" />|<img alt="Shark Rider (M) {N426}-walk" src="Shark Rider (M) {N426}-walk.png" />|
+|Shark Rider (F) <br> {N426}|Shark Rider (F)-walk <br> {N426}|Shark Rider (M) <br> {N426}|Shark Rider (M)-walk <br> {N426}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Shark Rider (F) {N426}-stand" src="Shark Rider (F) {N426}-stand.png" />|<img alt="Shark Rider (F) {N426}-walk" src="Shark Rider (F) {N426}-walk.png" />|<img alt="Shark Rider (M) {N426}-stand" src="Shark Rider (M) {N426}-stand.png" />|<img alt="Shark Rider (M) {N426}-walk" src="Shark Rider (M) {N426}-walk.png" />|
 
 

@@ -8,4 +8,8 @@
 
 ## Credit
 
-Animation by Levin64.
+Magic and Staff Basic Animations by Levin64, improved by HyperGammaSpaces.
+
+Magic (with staff) Animations by Nuramon.
+
+Intro Animations by Nuramon. These play when the Sage enters battle, like a Manakete's would.

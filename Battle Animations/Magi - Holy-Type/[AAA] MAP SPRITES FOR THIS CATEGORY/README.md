@@ -8,6 +8,11 @@
 |<img alt="Bishop (F) Serra {IS}-stand" src="Bishop (F) Serra {IS}-stand.png" />|<img alt="Bishop (F) Serra {IS}-walk" src="Bishop (F) Serra {IS}-walk.png" />|<img alt="Bishop (F) {IS}-stand" src="Bishop (F) {IS}-stand.png" />|<img alt="Bishop (F) {IS}-walk" src="Bishop (F) {IS}-walk.png" />|
 
 
+|Bishop (M) Hatless Pants <br> {Permafrost}|Bishop (M) Hatless Pants-walk <br> {Permafrost}|Bishop (M) Hatless <br> {Permafrost}|Bishop (M) Hatless-walk <br> {Permafrost}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Bishop (M) Hatless Pants {Permafrost}-stand" src="Bishop (M) Hatless Pants {Permafrost}-stand.png" />|<img alt="Bishop (M) Hatless Pants {Permafrost}-walk" src="Bishop (M) Hatless Pants {Permafrost}-walk.png" />|<img alt="Bishop (M) Hatless {Permafrost}-stand" src="Bishop (M) Hatless {Permafrost}-stand.png" />|<img alt="Bishop (M) Hatless {Permafrost}-walk" src="Bishop (M) Hatless {Permafrost}-walk.png" />|
+
+
 |Bishop (M) <br> {IS}|Bishop (M)-walk <br> {IS}|Cleric (F) Awakening-Style <br> {BatimaTheBat}|Cleric (F) Awakening-Style-walk <br> {BatimaTheBat}|
 | :---: | :---: | :---: | :---: |
 |<img alt="Bishop (M) {IS}-stand" src="Bishop (M) {IS}-stand.png" />|<img alt="Bishop (M) {IS}-walk" src="Bishop (M) {IS}-walk.png" />|<img alt="Cleric (F) Awakening-Style {BatimaTheBat}-stand" src="Cleric (F) Awakening-Style {BatimaTheBat}-stand.png" />|<img alt="Cleric (F) Awakening-Style {BatimaTheBat}-walk" src="Cleric (F) Awakening-Style {BatimaTheBat}-walk.png" />|

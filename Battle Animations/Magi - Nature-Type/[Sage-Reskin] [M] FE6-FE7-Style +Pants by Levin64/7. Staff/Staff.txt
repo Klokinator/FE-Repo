@@ -1,5 +1,5 @@
 #######################################################
-#6E sagm_mg1 Sage Staff
+#6E sagm_ro1 Sage Light
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

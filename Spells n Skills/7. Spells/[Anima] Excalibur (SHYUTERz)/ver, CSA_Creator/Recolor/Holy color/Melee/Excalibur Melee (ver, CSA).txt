@@ -1,0 +1,304 @@
+C000040
+C000153
+C101029
+C03B548
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_001.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_002.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_003.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_004.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_005.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_006.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_007.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_008.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_009.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_010.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_011.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_012.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_013.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_014.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_015.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_016.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_017.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_018.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_019.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_020.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_021.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_007.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_022.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_023.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_024.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_025.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_026.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_027.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_028.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_029.png
+1
+
+C000053
+C101029
+C02BF48
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_030.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_031.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_032.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_033.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_034.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_035.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_036.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_037.png
+11
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_038.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_039.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_040.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_041.png
+7
+
+C000153
+C02C048
+O Excalibur Melee (ver, CSA)_o_042.png
+B Excalibur Melee (ver, CSA)_b_043.png
+1
+
+O Excalibur Melee (ver, CSA)_o_044.png
+B Excalibur Melee (ver, CSA)_b_045.png
+1
+
+O Excalibur Melee (ver, CSA)_o_046.png
+B Excalibur Melee (ver, CSA)_b_047.png
+1
+
+O Excalibur Melee (ver, CSA)_o_048.png
+B Excalibur Melee (ver, CSA)_b_049.png
+1
+
+O Excalibur Melee (ver, CSA)_o_050.png
+B Excalibur Melee (ver, CSA)_b_049.png
+1
+
+O Excalibur Melee (ver, CSA)_o_051.png
+B Excalibur Melee (ver, CSA)_b_049.png
+1
+
+O Excalibur Melee (ver, CSA)_o_052.png
+B Excalibur Melee (ver, CSA)_b_049.png
+1
+
+O Excalibur Melee (ver, CSA)_o_053.png
+B Excalibur Melee (ver, CSA)_b_054.png
+1
+
+O Excalibur Melee (ver, CSA)_o_055.png
+B Excalibur Melee (ver, CSA)_b_056.png
+1
+
+O Excalibur Melee (ver, CSA)_o_057.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_059.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_060.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_061.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_062.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_063.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_064.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_065.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_066.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_067.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_068.png
+3
+
+C00001A
+~~~
+C00001F
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_069.png
+1
+
+C000014
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_070.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_071.png
+1
+
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_072.png
+2
+
+C0C1029
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_072.png
+1
+
+C081029
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_072.png
+1
+
+C041029
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_072.png
+1
+
+C011029
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_072.png
+1
+
+C001029
+O Excalibur Melee (ver, CSA)_o_000.png
+B Excalibur Melee (ver, CSA)_b_058.png
+1
+
+C000053
+/// - End of animation

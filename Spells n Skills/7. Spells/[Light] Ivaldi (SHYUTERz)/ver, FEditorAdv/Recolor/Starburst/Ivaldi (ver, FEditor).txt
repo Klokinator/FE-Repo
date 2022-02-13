@@ -1,0 +1,449 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C40
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+4
+C101029
+C03D348
+O  p- Ivaldi (ver, FEditor)_o_002.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_003.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_004.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_005.png
+B  p- Ivaldi (ver, FEditor)_b_006.png
+1
+O  p- Ivaldi (ver, FEditor)_o_007.png
+B  p- Ivaldi (ver, FEditor)_b_008.png
+1
+O  p- Ivaldi (ver, FEditor)_o_009.png
+B  p- Ivaldi (ver, FEditor)_b_010.png
+1
+O  p- Ivaldi (ver, FEditor)_o_011.png
+B  p- Ivaldi (ver, FEditor)_b_012.png
+1
+O  p- Ivaldi (ver, FEditor)_o_013.png
+B  p- Ivaldi (ver, FEditor)_b_014.png
+1
+O  p- Ivaldi (ver, FEditor)_o_015.png
+B  p- Ivaldi (ver, FEditor)_b_016.png
+1
+O  p- Ivaldi (ver, FEditor)_o_017.png
+B  p- Ivaldi (ver, FEditor)_b_018.png
+1
+O  p- Ivaldi (ver, FEditor)_o_019.png
+B  p- Ivaldi (ver, FEditor)_b_020.png
+1
+O  p- Ivaldi (ver, FEditor)_o_021.png
+B  p- Ivaldi (ver, FEditor)_b_022.png
+1
+O  p- Ivaldi (ver, FEditor)_o_023.png
+B  p- Ivaldi (ver, FEditor)_b_024.png
+1
+O  p- Ivaldi (ver, FEditor)_o_025.png
+B  p- Ivaldi (ver, FEditor)_b_026.png
+1
+C101029
+O  p- Ivaldi (ver, FEditor)_o_027.png
+B  p- Ivaldi (ver, FEditor)_b_028.png
+1
+O  p- Ivaldi (ver, FEditor)_o_029.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_030.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_031.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_032.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_033.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_034.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_035.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_036.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_036.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_037.png
+1
+C03D448
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_038.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_039.png
+19
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_040.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_039.png
+9
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_041.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_039.png
+4
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_042.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_039.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_043.png
+4
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_044.png
+4
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_045.png
+4
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_046.png
+4
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_047.png
+4
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_048.png
+4
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_049.png
+5
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_050.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_051.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_052.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_053.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_054.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_055.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_056.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_057.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_058.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_059.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_060.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_061.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_062.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_063.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_064.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_065.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_066.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_067.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_068.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_069.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_070.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_071.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_072.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_073.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_074.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_075.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_076.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_077.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_078.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_079.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_080.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_081.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_082.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_083.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_084.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_085.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_086.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_071.png
+23
+C1A
+C1F
+C14
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_087.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_088.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_089.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_090.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_091.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_092.png
+B  p- Ivaldi (ver, FEditor)_b_093.png
+1
+O  p- Ivaldi (ver, FEditor)_o_094.png
+B  p- Ivaldi (ver, FEditor)_b_095.png
+1
+O  p- Ivaldi (ver, FEditor)_o_096.png
+B  p- Ivaldi (ver, FEditor)_b_097.png
+1
+O  p- Ivaldi (ver, FEditor)_o_098.png
+B  p- Ivaldi (ver, FEditor)_b_099.png
+1
+O  p- Ivaldi (ver, FEditor)_o_100.png
+B  p- Ivaldi (ver, FEditor)_b_101.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_071.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_102.png
+B  p- Ivaldi (ver, FEditor)_b_103.png
+1
+O  p- Ivaldi (ver, FEditor)_o_104.png
+B  p- Ivaldi (ver, FEditor)_b_105.png
+1
+O  p- Ivaldi (ver, FEditor)_o_106.png
+B  p- Ivaldi (ver, FEditor)_b_107.png
+1
+O  p- Ivaldi (ver, FEditor)_o_108.png
+B  p- Ivaldi (ver, FEditor)_b_109.png
+1
+O  p- Ivaldi (ver, FEditor)_o_110.png
+B  p- Ivaldi (ver, FEditor)_b_111.png
+1
+O  p- Ivaldi (ver, FEditor)_o_112.png
+B  p- Ivaldi (ver, FEditor)_b_087.png
+1
+O  p- Ivaldi (ver, FEditor)_o_112.png
+B  p- Ivaldi (ver, FEditor)_b_088.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_113.png
+B  p- Ivaldi (ver, FEditor)_b_089.png
+1
+O  p- Ivaldi (ver, FEditor)_o_114.png
+B  p- Ivaldi (ver, FEditor)_b_090.png
+1
+O  p- Ivaldi (ver, FEditor)_o_115.png
+B  p- Ivaldi (ver, FEditor)_b_091.png
+1
+O  p- Ivaldi (ver, FEditor)_o_116.png
+B  p- Ivaldi (ver, FEditor)_b_093.png
+1
+O  p- Ivaldi (ver, FEditor)_o_117.png
+B  p- Ivaldi (ver, FEditor)_b_095.png
+1
+O  p- Ivaldi (ver, FEditor)_o_118.png
+B  p- Ivaldi (ver, FEditor)_b_097.png
+1
+O  p- Ivaldi (ver, FEditor)_o_112.png
+B  p- Ivaldi (ver, FEditor)_b_099.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_119.png
+B  p- Ivaldi (ver, FEditor)_b_101.png
+1
+O  p- Ivaldi (ver, FEditor)_o_120.png
+B  p- Ivaldi (ver, FEditor)_b_121.png
+1
+O  p- Ivaldi (ver, FEditor)_o_112.png
+B  p- Ivaldi (ver, FEditor)_b_103.png
+1
+O  p- Ivaldi (ver, FEditor)_o_122.png
+B  p- Ivaldi (ver, FEditor)_b_105.png
+1
+O  p- Ivaldi (ver, FEditor)_o_123.png
+B  p- Ivaldi (ver, FEditor)_b_107.png
+1
+O  p- Ivaldi (ver, FEditor)_o_124.png
+B  p- Ivaldi (ver, FEditor)_b_109.png
+1
+O  p- Ivaldi (ver, FEditor)_o_112.png
+B  p- Ivaldi (ver, FEditor)_b_111.png
+1
+O  p- Ivaldi (ver, FEditor)_o_112.png
+B  p- Ivaldi (ver, FEditor)_b_087.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_125.png
+B  p- Ivaldi (ver, FEditor)_b_088.png
+1
+O  p- Ivaldi (ver, FEditor)_o_126.png
+B  p- Ivaldi (ver, FEditor)_b_089.png
+1
+O  p- Ivaldi (ver, FEditor)_o_127.png
+B  p- Ivaldi (ver, FEditor)_b_090.png
+1
+O  p- Ivaldi (ver, FEditor)_o_128.png
+B  p- Ivaldi (ver, FEditor)_b_091.png
+1
+O  p- Ivaldi (ver, FEditor)_o_129.png
+B  p- Ivaldi (ver, FEditor)_b_093.png
+1
+O  p- Ivaldi (ver, FEditor)_o_130.png
+B  p- Ivaldi (ver, FEditor)_b_095.png
+1
+O  p- Ivaldi (ver, FEditor)_o_131.png
+B  p- Ivaldi (ver, FEditor)_b_097.png
+1
+O  p- Ivaldi (ver, FEditor)_o_132.png
+B  p- Ivaldi (ver, FEditor)_b_099.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_071.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_133.png
+B  p- Ivaldi (ver, FEditor)_b_121.png
+1
+O  p- Ivaldi (ver, FEditor)_o_134.png
+B  p- Ivaldi (ver, FEditor)_b_103.png
+1
+O  p- Ivaldi (ver, FEditor)_o_135.png
+B  p- Ivaldi (ver, FEditor)_b_105.png
+1
+O  p- Ivaldi (ver, FEditor)_o_136.png
+B  p- Ivaldi (ver, FEditor)_b_107.png
+1
+O  p- Ivaldi (ver, FEditor)_o_137.png
+B  p- Ivaldi (ver, FEditor)_b_109.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_071.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_138.png
+B  p- Ivaldi (ver, FEditor)_b_087.png
+1
+O  p- Ivaldi (ver, FEditor)_o_139.png
+B  p- Ivaldi (ver, FEditor)_b_088.png
+1
+O  p- Ivaldi (ver, FEditor)_o_140.png
+B  p- Ivaldi (ver, FEditor)_b_089.png
+1
+O  p- Ivaldi (ver, FEditor)_o_141.png
+B  p- Ivaldi (ver, FEditor)_b_090.png
+1
+O  p- Ivaldi (ver, FEditor)_o_112.png
+B  p- Ivaldi (ver, FEditor)_b_091.png
+1
+C14
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_093.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_095.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_097.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_099.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_101.png
+1
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_121.png
+1
+C071029
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_103.png
+1
+C021029
+O  p- Ivaldi (ver, FEditor)_o_000.png
+B  p- Ivaldi (ver, FEditor)_b_001.png
+1
+~~~
+/// - End of animation

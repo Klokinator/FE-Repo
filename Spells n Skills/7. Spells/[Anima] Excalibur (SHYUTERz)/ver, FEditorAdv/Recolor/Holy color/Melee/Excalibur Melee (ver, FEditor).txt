@@ -1,0 +1,235 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C40
+C101029
+C03B548
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_001.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_002.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_003.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_004.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_005.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_006.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_007.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_008.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_009.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_010.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_011.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_012.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_013.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_014.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_015.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_016.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_017.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_018.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_019.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_020.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_021.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_007.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_022.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_023.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_024.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_025.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_026.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_027.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_028.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_029.png
+1
+C101029
+C02BF48
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_030.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_031.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_032.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_033.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_034.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_035.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_036.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_037.png
+11
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_038.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_039.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_040.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_040.png
+7
+C02C048
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_041.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_042.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_043.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_044.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_045.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_046.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_047.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_048.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_049.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_050.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_051.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_052.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_053.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_054.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_055.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_056.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_057.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_058.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_059.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_060.png
+3
+C1A
+C1F
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_061.png
+1
+C14
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_062.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_063.png
+1
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_064.png
+2
+C0C1029
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_064.png
+1
+C081029
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_064.png
+1
+C041029
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_064.png
+1
+C011029
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_064.png
+1
+C1029
+O  p- Excalibur Melee (ver, FEditor)_o_000.png
+B  p- Excalibur Melee (ver, FEditor)_b_029.png
+1
+~~~
+/// - End of animation

@@ -1,0 +1,585 @@
+C000040
+C000153
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_001.png
+4
+
+C101029
+C03D348
+O Ivaldi (ver, CSA)_o_002.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_003.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_004.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_005.png
+B Ivaldi (ver, CSA)_b_006.png
+1
+
+O Ivaldi (ver, CSA)_o_007.png
+B Ivaldi (ver, CSA)_b_008.png
+1
+
+O Ivaldi (ver, CSA)_o_009.png
+B Ivaldi (ver, CSA)_b_010.png
+1
+
+O Ivaldi (ver, CSA)_o_011.png
+B Ivaldi (ver, CSA)_b_012.png
+1
+
+O Ivaldi (ver, CSA)_o_013.png
+B Ivaldi (ver, CSA)_b_014.png
+1
+
+O Ivaldi (ver, CSA)_o_015.png
+B Ivaldi (ver, CSA)_b_016.png
+1
+
+O Ivaldi (ver, CSA)_o_017.png
+B Ivaldi (ver, CSA)_b_018.png
+1
+
+O Ivaldi (ver, CSA)_o_019.png
+B Ivaldi (ver, CSA)_b_020.png
+1
+
+O Ivaldi (ver, CSA)_o_021.png
+B Ivaldi (ver, CSA)_b_022.png
+1
+
+O Ivaldi (ver, CSA)_o_023.png
+B Ivaldi (ver, CSA)_b_024.png
+1
+
+O Ivaldi (ver, CSA)_o_025.png
+B Ivaldi (ver, CSA)_b_026.png
+1
+
+O Ivaldi (ver, CSA)_o_027.png
+B Ivaldi (ver, CSA)_b_028.png
+1
+
+O Ivaldi (ver, CSA)_o_029.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_030.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_031.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_032.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_033.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_034.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_035.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_036.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_036.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_037.png
+1
+
+C000053
+C03D448
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_038.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_039.png
+19
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_040.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_039.png
+9
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_041.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_039.png
+4
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_042.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_039.png
+1
+
+C000153
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_043.png
+4
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_044.png
+4
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_045.png
+4
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_046.png
+4
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_047.png
+4
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_048.png
+4
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_049.png
+5
+
+O Ivaldi (ver, CSA)_o_050.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_051.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_052.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_053.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_054.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_055.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_056.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_057.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_058.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_059.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_060.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_061.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_062.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_063.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_064.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_065.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_066.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_067.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_068.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_069.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_070.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_071.png
+B Ivaldi (ver, CSA)_b_072.png
+1
+
+O Ivaldi (ver, CSA)_o_073.png
+B Ivaldi (ver, CSA)_b_049.png
+1
+
+O Ivaldi (ver, CSA)_o_074.png
+B Ivaldi (ver, CSA)_b_075.png
+1
+
+O Ivaldi (ver, CSA)_o_076.png
+B Ivaldi (ver, CSA)_b_077.png
+1
+
+O Ivaldi (ver, CSA)_o_078.png
+B Ivaldi (ver, CSA)_b_079.png
+1
+
+O Ivaldi (ver, CSA)_o_080.png
+B Ivaldi (ver, CSA)_b_081.png
+1
+
+O Ivaldi (ver, CSA)_o_082.png
+B Ivaldi (ver, CSA)_b_083.png
+1
+
+O Ivaldi (ver, CSA)_o_084.png
+B Ivaldi (ver, CSA)_b_085.png
+1
+
+O Ivaldi (ver, CSA)_o_086.png
+B Ivaldi (ver, CSA)_b_087.png
+1
+
+O Ivaldi (ver, CSA)_o_088.png
+B Ivaldi (ver, CSA)_b_089.png
+1
+
+O Ivaldi (ver, CSA)_o_090.png
+B Ivaldi (ver, CSA)_b_091.png
+1
+
+O Ivaldi (ver, CSA)_o_092.png
+B Ivaldi (ver, CSA)_b_093.png
+1
+
+O Ivaldi (ver, CSA)_o_094.png
+B Ivaldi (ver, CSA)_b_095.png
+1
+
+O Ivaldi (ver, CSA)_o_096.png
+B Ivaldi (ver, CSA)_b_097.png
+1
+
+O Ivaldi (ver, CSA)_o_098.png
+B Ivaldi (ver, CSA)_b_099.png
+1
+
+O Ivaldi (ver, CSA)_o_100.png
+B Ivaldi (ver, CSA)_b_101.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_072.png
+22
+
+C00001A
+~~~
+C00001F
+C000014
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_102.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_103.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_104.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_105.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_106.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_107.png
+B Ivaldi (ver, CSA)_b_108.png
+1
+
+O Ivaldi (ver, CSA)_o_109.png
+B Ivaldi (ver, CSA)_b_110.png
+1
+
+O Ivaldi (ver, CSA)_o_111.png
+B Ivaldi (ver, CSA)_b_112.png
+1
+
+O Ivaldi (ver, CSA)_o_113.png
+B Ivaldi (ver, CSA)_b_114.png
+1
+
+O Ivaldi (ver, CSA)_o_115.png
+B Ivaldi (ver, CSA)_b_116.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_072.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_117.png
+B Ivaldi (ver, CSA)_b_118.png
+1
+
+O Ivaldi (ver, CSA)_o_119.png
+B Ivaldi (ver, CSA)_b_120.png
+1
+
+O Ivaldi (ver, CSA)_o_121.png
+B Ivaldi (ver, CSA)_b_122.png
+1
+
+O Ivaldi (ver, CSA)_o_123.png
+B Ivaldi (ver, CSA)_b_124.png
+1
+
+O Ivaldi (ver, CSA)_o_125.png
+B Ivaldi (ver, CSA)_b_126.png
+1
+
+O Ivaldi (ver, CSA)_o_127.png
+B Ivaldi (ver, CSA)_b_102.png
+1
+
+O Ivaldi (ver, CSA)_o_127.png
+B Ivaldi (ver, CSA)_b_103.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_128.png
+B Ivaldi (ver, CSA)_b_104.png
+1
+
+O Ivaldi (ver, CSA)_o_129.png
+B Ivaldi (ver, CSA)_b_105.png
+1
+
+O Ivaldi (ver, CSA)_o_130.png
+B Ivaldi (ver, CSA)_b_106.png
+1
+
+O Ivaldi (ver, CSA)_o_131.png
+B Ivaldi (ver, CSA)_b_108.png
+1
+
+O Ivaldi (ver, CSA)_o_132.png
+B Ivaldi (ver, CSA)_b_110.png
+1
+
+O Ivaldi (ver, CSA)_o_133.png
+B Ivaldi (ver, CSA)_b_112.png
+1
+
+O Ivaldi (ver, CSA)_o_127.png
+B Ivaldi (ver, CSA)_b_114.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_134.png
+B Ivaldi (ver, CSA)_b_116.png
+1
+
+O Ivaldi (ver, CSA)_o_135.png
+B Ivaldi (ver, CSA)_b_136.png
+1
+
+O Ivaldi (ver, CSA)_o_127.png
+B Ivaldi (ver, CSA)_b_118.png
+1
+
+O Ivaldi (ver, CSA)_o_137.png
+B Ivaldi (ver, CSA)_b_120.png
+1
+
+O Ivaldi (ver, CSA)_o_138.png
+B Ivaldi (ver, CSA)_b_122.png
+1
+
+O Ivaldi (ver, CSA)_o_139.png
+B Ivaldi (ver, CSA)_b_124.png
+1
+
+O Ivaldi (ver, CSA)_o_127.png
+B Ivaldi (ver, CSA)_b_126.png
+1
+
+O Ivaldi (ver, CSA)_o_127.png
+B Ivaldi (ver, CSA)_b_102.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_140.png
+B Ivaldi (ver, CSA)_b_103.png
+1
+
+O Ivaldi (ver, CSA)_o_141.png
+B Ivaldi (ver, CSA)_b_104.png
+1
+
+O Ivaldi (ver, CSA)_o_142.png
+B Ivaldi (ver, CSA)_b_105.png
+1
+
+O Ivaldi (ver, CSA)_o_143.png
+B Ivaldi (ver, CSA)_b_106.png
+1
+
+O Ivaldi (ver, CSA)_o_144.png
+B Ivaldi (ver, CSA)_b_108.png
+1
+
+O Ivaldi (ver, CSA)_o_145.png
+B Ivaldi (ver, CSA)_b_110.png
+1
+
+O Ivaldi (ver, CSA)_o_146.png
+B Ivaldi (ver, CSA)_b_112.png
+1
+
+O Ivaldi (ver, CSA)_o_147.png
+B Ivaldi (ver, CSA)_b_114.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_072.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_148.png
+B Ivaldi (ver, CSA)_b_136.png
+1
+
+O Ivaldi (ver, CSA)_o_149.png
+B Ivaldi (ver, CSA)_b_118.png
+1
+
+O Ivaldi (ver, CSA)_o_150.png
+B Ivaldi (ver, CSA)_b_120.png
+1
+
+O Ivaldi (ver, CSA)_o_151.png
+B Ivaldi (ver, CSA)_b_122.png
+1
+
+O Ivaldi (ver, CSA)_o_152.png
+B Ivaldi (ver, CSA)_b_124.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_072.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_153.png
+B Ivaldi (ver, CSA)_b_102.png
+1
+
+O Ivaldi (ver, CSA)_o_154.png
+B Ivaldi (ver, CSA)_b_103.png
+1
+
+O Ivaldi (ver, CSA)_o_155.png
+B Ivaldi (ver, CSA)_b_104.png
+1
+
+O Ivaldi (ver, CSA)_o_156.png
+B Ivaldi (ver, CSA)_b_105.png
+1
+
+O Ivaldi (ver, CSA)_o_127.png
+B Ivaldi (ver, CSA)_b_106.png
+1
+
+C000014
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_108.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_110.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_112.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_114.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_116.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_136.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_118.png
+1
+
+O Ivaldi (ver, CSA)_o_000.png
+B Ivaldi (ver, CSA)_b_001.png
+1
+
+C000053
+/// - End of animation

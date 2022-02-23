@@ -1,10 +1,13 @@
-IS
-TBA
-DerTheVaporeon
-GabrielKnight
-JPN
-Knabepicer
+Base General (chainless sword, chained lance/axe) by IS.
 
-2. Lance (No Chain) {knabepicer, Dabmaster110}
+Chained Sword by knabepicer.
 
-1. Sword (Chain) by knabepicer
+Chainless Lance by knabepicer, with coding fixes by Dabmaster110.
+
+Greatsword by JPN.
+
+Cannon Bow by GabrielKnight.
+
+Bow and Chainless Axe by TheBlindArcher.
+
+Magic by DerTheVaporeon.

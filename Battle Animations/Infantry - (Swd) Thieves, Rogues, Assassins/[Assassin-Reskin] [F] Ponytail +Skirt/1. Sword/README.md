@@ -8,4 +8,6 @@
 
 ## Credit
 
-Animation by FPZero, Moocavo, Riku.
+Sword and Unarmed by FPZero, Moocavo, Riku.
+
+Knife by Pushwall, Jj09.

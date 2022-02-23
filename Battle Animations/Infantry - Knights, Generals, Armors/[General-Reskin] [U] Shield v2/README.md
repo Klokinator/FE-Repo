@@ -14,11 +14,7 @@ Shield General by TheBlindArcher, DerTheVaporeon, Nuramon.
 
 Sword (Magic Flash) by The_Big_Dededester.
 
-Chainless Lance by Pushwall, spliced from knabepicer's work.
+Chainless Lance and Chained Sword by Pushwall, spliced from knabepicer's vanilla General versions.
 
 Magic by DerTheVaporeon.
-
-Chainsword general by knabepicer, combined into Shield General by Pushwall.
-
-
 

@@ -140,6 +140,7 @@ C22
 4 p- Bow_017.png
 C05
 30 p- Bow_018.png
+C01
 C2B
 4 p- Bow_019.png
 4 p- Bow_020.png
@@ -218,22 +219,24 @@ C0D
 /// - Mode 7
 C02
 1 p- Bow_000.png
+C0E
 3 p- Bow_035.png
 C2B
 1 p- Bow_036.png
 C01
-1 p- Bow_000.png
+3 p- Bow_035.png
 C2B
 C0D
 ~~~
 /// - Mode 8
 C02
 1 p- Bow_000.png
+C0E
 3 p- Bow_035.png
 C2B
 1 p- Bow_036.png
 C01
-1 p- Bow_000.png
+3 p- Bow_035.png
 C2B
 C0D
 ~~~

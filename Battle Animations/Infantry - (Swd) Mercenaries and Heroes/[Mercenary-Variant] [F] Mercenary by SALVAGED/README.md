@@ -7,5 +7,5 @@
 
 Male base made by Team SALVAGED.
 
-Female variant by Jey the Count.
+Female variant by Jey the Count, with minor fixes by Pushwall.
 

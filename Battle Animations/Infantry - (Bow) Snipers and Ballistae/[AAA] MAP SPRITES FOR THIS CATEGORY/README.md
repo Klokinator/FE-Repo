@@ -38,19 +38,24 @@
 |<img alt="Ballistician (M) Improved {flasuban, Der}-walk" src="Ballistician (M) Improved {flasuban, Der}-walk.png" />|<img alt="Ballistician (M) {Der}-stand" src="Ballistician (M) {Der}-stand.png" />|<img alt="Ballistician (M) {Der}-walk" src="Ballistician (M) {Der}-walk.png" />|<img alt="Ballistician (M) {dondon151}-stand" src="Ballistician (M) {dondon151}-stand.png" />|
 
 
-|Ballistician (M)-walk <br> {dondon151}|Ballistician (U) <br> {Aruka, Kenpuhu}|Ballistician (U)-walk <br> {MrGreen, Aruka, Kenpuhu}|Marksman (F) Staff <br> {ArcherBias}|
+|Ballistician (M)-walk <br> {dondon151}|Ballistician (U) <br> {Aruka, Kenpuhu}|Ballistician (U)-walk <br> {MrGreen, Aruka, Kenpuhu}|Marksman (F) Nuramon-style <br> {ArcherBias}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Ballistician (M) {dondon151}-walk" src="Ballistician (M) {dondon151}-walk.png" />|<img alt="Ballistician (U) {Aruka, Kenpuhu}-stand" src="Ballistician (U) {Aruka, Kenpuhu}-stand.png" />|<img alt="Ballistician (U) {MrGreen, Aruka, Kenpuhu}-walk" src="Ballistician (U) {MrGreen, Aruka, Kenpuhu}-walk.png" />|<img alt="Marksman (F) Staff {ArcherBias}-stand" src="Marksman (F) Staff {ArcherBias}-stand.png" />|
+|<img alt="Ballistician (M) {dondon151}-walk" src="Ballistician (M) {dondon151}-walk.png" />|<img alt="Ballistician (U) {Aruka, Kenpuhu}-stand" src="Ballistician (U) {Aruka, Kenpuhu}-stand.png" />|<img alt="Ballistician (U) {MrGreen, Aruka, Kenpuhu}-walk" src="Ballistician (U) {MrGreen, Aruka, Kenpuhu}-walk.png" />|<img alt="Marksman (F) Nuramon-style {ArcherBias}-stand" src="Marksman (F) Nuramon-style {ArcherBias}-stand.png" />|
 
 
-|Marksman (F) Staff-walk <br> {ArcherBias}|Marksman (M) Staff <br> {ArcherBias}|Marksman (M) Staff-walk <br> {ArcherBias}|Sniper (F) {ArcherBias) <br> |
+|Marksman (F) Nuramon-style-walk <br> {ArcherBias}|Marksman (M) Nuramon-style <br> {ArcherBias}|Marksman (M) Nuramon-style-walk <br> {ArcherBias}|Sniper (F) v2 {ArcherBias) <br> |
 | :---: | :---: | :---: | :---: |
-|<img alt="Marksman (F) Staff {ArcherBias}-walk" src="Marksman (F) Staff {ArcherBias}-walk.png" />|<img alt="Marksman (M) Staff {ArcherBias}-stand" src="Marksman (M) Staff {ArcherBias}-stand.png" />|<img alt="Marksman (M) Staff {ArcherBias}-walk" src="Marksman (M) Staff {ArcherBias}-walk.png" />|<img alt="Sniper (F) {ArcherBias)-stand" src="Sniper (F) {ArcherBias)-stand.png" />|
+|<img alt="Marksman (F) Nuramon-style {ArcherBias}-walk" src="Marksman (F) Nuramon-style {ArcherBias}-walk.png" />|<img alt="Marksman (M) Nuramon-style {ArcherBias}-stand" src="Marksman (M) Nuramon-style {ArcherBias}-stand.png" />|<img alt="Marksman (M) Nuramon-style {ArcherBias}-walk" src="Marksman (M) Nuramon-style {ArcherBias}-walk.png" />|<img alt="Sniper (F) v2 {ArcherBias)-stand" src="Sniper (F) v2 {ArcherBias)-stand.png" />|
 
 
-|Sniper (F) {ArcherBias)-walk <br> |Sniper (F) <br> {IS}|Sniper (F)-walk <br> {IS}|Sniper (M) {ArcherBias) <br> |
+|Sniper (F) v2 {ArcherBias)-walk <br> |Sniper (F) {ArcherBias) <br> |Sniper (F) {ArcherBias)-walk <br> |Sniper (F) <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Sniper (F) {ArcherBias)-walk" src="Sniper (F) {ArcherBias)-walk.png" />|<img alt="Sniper (F) {IS}-stand" src="Sniper (F) {IS}-stand.png" />|<img alt="Sniper (F) {IS}-walk" src="Sniper (F) {IS}-walk.png" />|<img alt="Sniper (M) {ArcherBias)-stand" src="Sniper (M) {ArcherBias)-stand.png" />|
+|<img alt="Sniper (F) v2 {ArcherBias)-walk" src="Sniper (F) v2 {ArcherBias)-walk.png" />|<img alt="Sniper (F) {ArcherBias)-stand" src="Sniper (F) {ArcherBias)-stand.png" />|<img alt="Sniper (F) {ArcherBias)-walk" src="Sniper (F) {ArcherBias)-walk.png" />|<img alt="Sniper (F) {IS}-stand" src="Sniper (F) {IS}-stand.png" />|
+
+
+|Sniper (F)-walk <br> {IS}|Sniper (M) v2 {ArcherBias) <br> |Sniper (M) v2 {ArcherBias)-walk <br> |Sniper (M) {ArcherBias) <br> |
+| :---: | :---: | :---: | :---: |
+|<img alt="Sniper (F) {IS}-walk" src="Sniper (F) {IS}-walk.png" />|<img alt="Sniper (M) v2 {ArcherBias)-stand" src="Sniper (M) v2 {ArcherBias)-stand.png" />|<img alt="Sniper (M) v2 {ArcherBias)-walk" src="Sniper (M) v2 {ArcherBias)-walk.png" />|<img alt="Sniper (M) {ArcherBias)-stand" src="Sniper (M) {ArcherBias)-stand.png" />|
 
 
 |Sniper (M) {ArcherBias)-walk <br> |Sniper (M) <br> {IS}|Sniper (M)-walk <br> {IS}|

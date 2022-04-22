@@ -1,0 +1,258 @@
+#######################################################
+#03 lorf_sw1 Lord Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+4 p- Magic_000.png
+4 p- Magic_001.png
+4 p- Magic_002.png
+SDC                               #Sound 220 SE:Mamkute transform
+4 p- Magic_003.png
+4 p- Magic_004.png
+4 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+4 p- Magic_007.png
+2 p- Magic_008.png
+6 p- Magic_005.png
+C05                               #Call spell associated with equipped weapon
+6 p- Magic_005.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+10 p- Magic_005.png
+C01                               #NOP
+4 p- Magic_006.png
+4 p- Magic_004.png
+4 p- Magic_003.png
+SDD                               #Sound 221 SE:Mamkute de-transform
+4 p- Magic_002.png
+4 p- Magic_001.png
+4 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+4 p- Magic_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+4 p- Magic_002.png
+SDC                               #Sound 220 SE:Mamkute transform
+4 p- Magic_003.png
+4 p- Magic_004.png
+4 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+4 p- Magic_009.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_010.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_011.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_012.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_013.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_014.png
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_015.png
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_016.png
+10 p- Magic_017.png
+S0262                               #Sound 610 SE:@C85_3C Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Magic_018.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_019.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+4 p- Magic_018.png
+C01                               #NOP
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_020.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_012.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_011.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_010.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_021.png
+4 p- Magic_006.png
+4 p- Magic_004.png
+4 p- Magic_003.png
+SDD                               #Sound 221 SE:Mamkute de-transform
+4 p- Magic_002.png
+4 p- Magic_001.png
+4 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+4 p- Magic_002.png
+SDC                               #Sound 220 SE:Mamkute transform
+4 p- Magic_003.png
+4 p- Magic_004.png
+4 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+S0262                               #Sound 610 SE:@C85_3C Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Magic_005.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_005.png
+C01                               #NOP
+4 p- Magic_004.png
+SDD                               #Sound 221 SE:Mamkute de-transform
+4 p- Magic_003.png
+4 p- Magic_002.png
+4 p- Magic_001.png
+4 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+4 p- Magic_002.png
+SDC                               #Sound 220 SE:Mamkute transform
+4 p- Magic_003.png
+4 p- Magic_004.png
+4 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+C15                               #Slight vibration of screen
+10 p- Magic_009.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_010.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_011.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_012.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_013.png
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_014.png
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_015.png
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_016.png
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_017.png
+S0262                               #Sound 610 SE:@C85_3C Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+10 p- Magic_018.png
+C05                               #Call spell associated with equipped weapon
+10 p- Magic_019.png
+C01                               #NOP
+10 p- Magic_020.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_012.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_011.png
+C15                               #Slight vibration of screen
+S033E                               #Sound 830 SE:@C85_66 revenant move SFE
+10 p- Magic_010.png
+C15                               #Slight vibration of screen
+S033F                               #Sound 831 SE:@C85_66 revenant move SFE
+10 p- Magic_021.png
+4 p- Magic_004.png
+SDD                               #Sound 221 SE:Mamkute de-transform
+4 p- Magic_003.png
+4 p- Magic_002.png
+4 p- Magic_001.png
+4 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Magic_022.png
+4 p- Magic_023.png
+C01                               #NOP
+4 p- Magic_022.png
+1 p- Magic_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Magic_022.png
+4 p- Magic_023.png
+C01                               #NOP
+4 p- Magic_022.png
+1 p- Magic_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+4 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+4 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+4 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+4 p- Magic_002.png
+SDC                               #Sound 220 SE:Mamkute transform
+4 p- Magic_003.png
+4 p- Magic_004.png
+4 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+4 p- Magic_008.png
+4 p- Magic_005.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_005.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+4 p- Magic_005.png
+C01                               #NOP
+4 p- Magic_004.png
+SDD                               #Sound 221 SE:Mamkute de-transform
+4 p- Magic_003.png
+4 p- Magic_002.png
+4 p- Magic_001.png
+4 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

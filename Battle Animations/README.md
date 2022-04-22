@@ -5,86 +5,394 @@
 <details>
 <summary>Click to expand!</summary>
 
+### [\[All Nations\] Neo Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BAll%20Nations%5D%20Neo%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BAll%20Nations%5D%20Neo%20Tank%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BAll%20Nations%5D%20Neo%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BAll%20Nations%5D%20Neo%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[All Nations\] Pipe Runner {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BAll%20Nations%5D%20Pipe%20Runner%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BAll%20Nations%5D%20Pipe%20Runner%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BAll%20Nations%5D%20Pipe%20Runner%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Black Hole\] Anti Air Missile {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Black Hole\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
 ### [\[Black Hole\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
-
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
+| :---: |
 
 
 
 
 ### [\[Black Hole\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mech%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
 
 
 
 
+### [\[Black Hole\] Medium Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D)
 
-### [\[Blue Moon\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
 
 
+
+
+### [\[Black Hole\] Mobile Missile Launcher {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Black Hole\] Recon {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Recon%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Recon%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Recon%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Black Hole\] SPG {Amdy, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20SPG%20%7BAmdy,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20SPG%20%7BAmdy,%20Dark%7D)
+
+| <b>Bow (Howitzer Cannon)</b><br/><img alt="Bow (Howitzer Cannon)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20SPG%20%7BAmdy,%20Dark%7D/5.%20Bow%20(Howitzer%20Cannon)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Black Hole\] Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Tank%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlack%20Hole%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Blue Moon\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Blue Moon\] Anti Air Missile {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Blue Moon\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
 
 
 
 
 ### [\[Blue Moon\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mech%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
 
 
 
 
+### [\[Blue Moon\] Medium Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D)
 
-### [\[Green Earth\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
 
 
+
+
+### [\[Blue Moon\] Mobile Missile Launcher {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Blue Moon\] Recon {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Recon%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Recon%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Recon%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Blue Moon\] SPG {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20SPG%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20SPG%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Howitzer Cannon)</b><br/><img alt="Bow (Howitzer Cannon)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20SPG%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Howitzer%20Cannon)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Bue Moon\] Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Green Earth\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Green Earth\] Anti Air Missile {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Green Earth\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
 
 
 
 
 ### [\[Green Earth\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mech%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
 
 
 
 
+### [\[Green Earth\] Medium Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D)
 
-### [\[IDS\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
 
 
+
+
+### [\[Green Earth\] Mobile Missile Launcher {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Green Earth\] Recon {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Recon%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Recon%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Recon%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Green Earth\] SPG {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20SPG%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20SPG%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Howitzer Cannon)</b><br/><img alt="Bow (Howitzer Cannon)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20SPG%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Howitzer%20Cannon)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Green Earth\] Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Tank%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[IDS\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
+| :---: |
 
 
 
 
 ### [\[IDS\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
 
 
 
 
+### [\[Orange Star\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
 
-### [\[Orange Star\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
+| :---: |
 
 
+
+
+### [\[Orange Star\] Anti Air Missile {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Orange Star\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
 
 
 
 
 ### [\[Orange Star\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mech%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
 
 
 
 
+### [\[Orange Star\] Medium Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D)
 
-### [\[Yellow Comet\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
 
 
+
+
+### [\[Orange Star\] Mobile Missile Launcher {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Orange Star\] Recon {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Recon%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Recon%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Recon%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Orange Star\] SPG {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20SPG%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20SPG%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Howitzer Cannon No Commander)</b><br/><img alt="Bow (Howitzer Cannon No Commander)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20SPG%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Howitzer%20Cannon%20No%20Commander)/Bow.gif"/> | <b>Bow (Howitzer Cannon)</b><br/><img alt="Bow (Howitzer Cannon)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20SPG%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Howitzer%20Cannon)/Bow.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Orange Star\] Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Tank%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Yellow Comet\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Yellow Comet\] Anti Air Missile {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Yellow Comet\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
 
 
 
 
 ### [\[Yellow Comet\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mech%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
 
+
+
+
+### [\[Yellow Comet\] Medium Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Medium%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Yellow Comet\] Mobile Missile Launcher {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mobile%20Missile%20Launcher%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Yellow Comet\] Recon {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Recon%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Recon%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Recon%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Yellow Comet\] SPG {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20SPG%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20SPG%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Howitzer Cannon)</b><br/><img alt="Bow (Howitzer Cannon)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20SPG%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Howitzer%20Cannon)/Bow.gif"/> |
+| :---: |
+
+
+
+
+### [\[Yellow Comet\] Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Tank%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: | :---: |
 
 
 
@@ -355,6 +663,14 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Sword (Updated)</b><br/><img alt="Sword (Updated)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed (Updated)</b><br/><img alt="Unarmed (Updated)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BM%5D%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif"/> |
+
+
+
+
+### [\[Sword Custom\] \[U\] Squire Generic by Russel Clark](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BU%5D%20Squire%20Generic%20by%20Russel%20Clark) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BU%5D%20Squire%20Generic%20by%20Russel%20Clark)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BU%5D%20Squire%20Generic%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BSword%20Custom%5D%20%5BU%5D%20Squire%20Generic%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 
@@ -829,8 +1145,8 @@
 
 ### [\[Fighter-Type\] \[M\] Tellius-Style Bow-Only](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/5.%20Bow/Bow.gif"/> |
-| :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Type%5D%20%5BM%5D%20Tellius-Style%20Bow-Only/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 
@@ -1314,8 +1630,8 @@
 
 ### [\[Gunner-Custom\] \[U\] Flintlocker by ObsidianDaddy](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BGunner-Custom%5D%20%5BU%5D%20Flintlocker%20by%20ObsidianDaddy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BGunner-Custom%5D%20%5BU%5D%20Flintlocker%20by%20ObsidianDaddy)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BGunner-Custom%5D%20%5BU%5D%20Flintlocker%20by%20ObsidianDaddy/5.%20Bow/Bow.gif"/> |
-| :---: |
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BGunner-Custom%5D%20%5BU%5D%20Flintlocker%20by%20ObsidianDaddy/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BGunner-Custom%5D%20%5BU%5D%20Flintlocker%20by%20ObsidianDaddy/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 
@@ -1731,11 +2047,11 @@
 
 
 
-### [\[Custom Halb\] \[M\] Halberdier by TBA +Axes](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20%2BAxes)
+### [\[Custom Halb\] \[M\] Halberdier +Axes by TBA](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20%2BAxes%20by%20TBA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20%2BAxes%20by%20TBA)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/2.%20Lance/Lance.gif"/> | <b>Axe (Stab)</b><br/><img alt="Axe (Stab)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Stab)/Axe.gif"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/3.%20Axe%20(Swing)/Axe.gif"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20+Axes%20by%20TBA/2.%20Lance/Lance.gif"/> | <b>Axe (Stab)</b><br/><img alt="Axe (Stab)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20+Axes%20by%20TBA/3.%20Axe%20(Stab)/Axe.gif"/> | <b>Axe (Swing)</b><br/><img alt="Axe (Swing)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20+Axes%20by%20TBA/3.%20Axe%20(Swing)/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20by%20TBA%20+Axes/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20+Axes%20by%20TBA/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Halb%5D%20%5BM%5D%20Halberdier%20+Axes%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -2936,6 +3252,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/1.%20Sword/Sword.gif"/> | <b>Sword (Fixed)</b><br/><img alt="Sword (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/1.%20Sword%20(Fixed)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20%5BM%5D%20Colm%20by%20Aruka/9.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -4339,8 +4656,8 @@
 
 ### [\[T2 Druid-Base\] \[M\] Vanilla FE6-8](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/7.%20Staff/Staff.gif"/> |
-| :---: | :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic/Magic.gif"/> | <b>Magic (Lowered Arm)</b><br/><img alt="Magic (Lowered Arm)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/6.%20Magic%20(Lowered%20Arm)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20%5BM%5D%20Vanilla%20FE6-8/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -5289,6 +5606,14 @@
 
 
 
+### [\[Sage-Reskin\] \[M\] Black Jacket By Velvet Kitsune](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Black%20Jacket%20By%20Velvet%20Kitsune) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Black%20Jacket%20By%20Velvet%20Kitsune)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Black%20Jacket%20By%20Velvet%20Kitsune/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ### [\[Sage-Reskin\] \[M\] Erk by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Erk%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Erk%20by%20Greentea)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Erk%20by%20Greentea/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20%5BM%5D%20Erk%20by%20Greentea/7.%20Staff/Staff.gif"/> |
@@ -6070,6 +6395,14 @@
 
 
 
+### [\[Castlevania\] \[F\] Alura Une Monster Girl](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BCastlevania%5D%20%5BF%5D%20Alura%20Une%20Monster%20Girl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BCastlevania%5D%20%5BF%5D%20Alura%20Une%20Monster%20Girl)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BCastlevania%5D%20%5BF%5D%20Alura%20Une%20Monster%20Girl/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ### [\[Dragon-L95\] \[U\] Divine Dragon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon/8.%20Dragonstone/Dragonstone.gif"/> |
@@ -6281,9 +6614,9 @@
 
 
 
-### [\[Monster-Custom\] \[U\] Elibian Nights Ice Dragon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon)
+### [\[Monster-Custom\] \[U\] Elibian Nights Ice Dragon by SqRtOfPi](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi)
 
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon/8.%20Dragonstone/Dragonstone.gif"/> |
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi/8.%20Dragonstone/Dragonstone.gif"/> |
 | :---: |
 
 
@@ -6364,6 +6697,14 @@
 ### [\[Monster-Custom\] \[U\] Wild Wyvern by ML](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Wild%20Wyvern%20by%20ML) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Wild%20Wyvern%20by%20ML)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Wild%20Wyvern%20by%20ML/8.%20Monster/Monster.gif"/> |
+| :---: |
+
+
+
+
+### [\[Non-FE\] \[F\] Castlevania Alura Une \(Flower Girl\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BNon-FE%5D%20%5BF%5D%20Castlevania%20Alura%20Une%20(Flower%20Girl)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BNon-FE%5D%20%5BF%5D%20Castlevania%20Alura%20Une%20(Flower%20Girl))
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BNon-FE%5D%20%5BF%5D%20Castlevania%20Alura%20Une%20(Flower%20Girl)/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 

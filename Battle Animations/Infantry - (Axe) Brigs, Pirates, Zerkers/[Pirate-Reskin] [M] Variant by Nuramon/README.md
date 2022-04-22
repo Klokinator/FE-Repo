@@ -6,5 +6,5 @@
 
 ## Credits
 
-Animation by Nuramon
+Animation by Nuramon, MarioKirby, Wan
 

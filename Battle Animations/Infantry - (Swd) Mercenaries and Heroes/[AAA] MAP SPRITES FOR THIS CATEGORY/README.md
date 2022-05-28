@@ -33,48 +33,53 @@
 |<img alt="Hero (M) Brown Shield Sword {Pikmin}-stand" src="Hero (M) Brown Shield Sword {Pikmin}-stand.png" />|<img alt="Hero (M) Brown Shield Sword {Pikmin}.png-walk" src="Hero (M) Brown Shield Sword {Pikmin}.png-walk.png" />|<img alt="Hero (M) Gerik-Style Sword {Nuramon}-stand" src="Hero (M) Gerik-Style Sword {Nuramon}-stand.png" />|<img alt="Hero (M) Gerik-Style Sword {Nuramon}-walk" src="Hero (M) Gerik-Style Sword {Nuramon}-walk.png" />|
 
 
-|Hero (M) Linus Sword <br> {Ryn}|Hero (M) Sword-walk <br> {IS}|Hero (M) <br> {IS}|Mercenary (F) Improved Sword <br> {flasuban}|
+|Hero (M) Linus Sword <br> {Ryn}|Hero (M) Sword-walk <br> {IS}|Hero (M) <br> {IS}|Mercanry (M) Brawler <br> {Scraiza}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Hero (M) Linus Sword {Ryn}-stand" src="Hero (M) Linus Sword {Ryn}-stand.png" />|<img alt="Hero (M) Sword {IS}-walk" src="Hero (M) Sword {IS}-walk.png" />|<img alt="Hero (M) {IS}-stand" src="Hero (M) {IS}-stand.png" />|<img alt="Mercenary (F) Improved Sword {flasuban}-stand" src="Mercenary (F) Improved Sword {flasuban}-stand.png" />|
+|<img alt="Hero (M) Linus Sword {Ryn}-stand" src="Hero (M) Linus Sword {Ryn}-stand.png" />|<img alt="Hero (M) Sword {IS}-walk" src="Hero (M) Sword {IS}-walk.png" />|<img alt="Hero (M) {IS}-stand" src="Hero (M) {IS}-stand.png" />|<img alt="Mercanry (M) Brawler {Scraiza}-stand" src="Mercanry (M) Brawler {Scraiza}-stand.png" />|
 
 
-|Mercenary (F) Improved Sword-walk <br> {flasuban}|Mercenary (F) Long-Hair Sword <br> {Rasdel}|Mercenary (F) Long-Hair Sword-walk <br> {Rasdel}|Mercenary (F) Sword <br> {Agro}|
+|Mercanry (M) Brawler-walk <br> {Scraiza}|Mercenary (F) Improved Sword <br> {flasuban}|Mercenary (F) Improved Sword-walk <br> {flasuban}|Mercenary (F) Long-Hair Sword <br> {Rasdel}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mercenary (F) Improved Sword {flasuban}-walk" src="Mercenary (F) Improved Sword {flasuban}-walk.png" />|<img alt="Mercenary (F) Long-Hair Sword {Rasdel}-stand" src="Mercenary (F) Long-Hair Sword {Rasdel}-stand.png" />|<img alt="Mercenary (F) Long-Hair Sword {Rasdel}-walk" src="Mercenary (F) Long-Hair Sword {Rasdel}-walk.png" />|<img alt="Mercenary (F) Sword {Agro}-stand" src="Mercenary (F) Sword {Agro}-stand.png" />|
+|<img alt="Mercanry (M) Brawler {Scraiza}-walk" src="Mercanry (M) Brawler {Scraiza}-walk.png" />|<img alt="Mercenary (F) Improved Sword {flasuban}-stand" src="Mercenary (F) Improved Sword {flasuban}-stand.png" />|<img alt="Mercenary (F) Improved Sword {flasuban}-walk" src="Mercenary (F) Improved Sword {flasuban}-walk.png" />|<img alt="Mercenary (F) Long-Hair Sword {Rasdel}-stand" src="Mercenary (F) Long-Hair Sword {Rasdel}-stand.png" />|
 
 
-|Mercenary (F) Sword-walk <br> {Agro}|Mercenary (F) <br> {FEGirls}|Mercenary (F)-walk <br> {FEGirls}|Mercenary (M) Armored <br> {Unknown}|
+|Mercenary (F) Long-Hair Sword-walk <br> {Rasdel}|Mercenary (F) Sword <br> {Agro}|Mercenary (F) Sword-walk <br> {Agro}|Mercenary (F) <br> {FEGirls}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mercenary (F) Sword {Agro}-walk" src="Mercenary (F) Sword {Agro}-walk.png" />|<img alt="Mercenary (F) {FEGirls}-stand" src="Mercenary (F) {FEGirls}-stand.png" />|<img alt="Mercenary (F) {FEGirls}-walk" src="Mercenary (F) {FEGirls}-walk.png" />|<img alt="Mercenary (M) Armored {Unknown}-stand" src="Mercenary (M) Armored {Unknown}-stand.png" />|
+|<img alt="Mercenary (F) Long-Hair Sword {Rasdel}-walk" src="Mercenary (F) Long-Hair Sword {Rasdel}-walk.png" />|<img alt="Mercenary (F) Sword {Agro}-stand" src="Mercenary (F) Sword {Agro}-stand.png" />|<img alt="Mercenary (F) Sword {Agro}-walk" src="Mercenary (F) Sword {Agro}-walk.png" />|<img alt="Mercenary (F) {FEGirls}-stand" src="Mercenary (F) {FEGirls}-stand.png" />|
 
 
-|Mercenary (M) Armored-walk <br> {Unknown}|Mercenary (M) Axe (Flasuban, ArcherBias) <br> |Mercenary (M) Axe (Flasuban, ArcherBias)-walk <br> |Mercenary (M) Axe <br> {Unknown}|
+|Mercenary (F)-walk <br> {FEGirls}|Mercenary (M) Armored <br> {Unknown}|Mercenary (M) Armored-walk <br> {Unknown}|Mercenary (M) Axe (Flasuban, ArcherBias) <br> |
 | :---: | :---: | :---: | :---: |
-|<img alt="Mercenary (M) Armored {Unknown}-walk" src="Mercenary (M) Armored {Unknown}-walk.png" />|<img alt="Mercenary (M) Axe (Flasuban, ArcherBias)-stand" src="Mercenary (M) Axe (Flasuban, ArcherBias)-stand.png" />|<img alt="Mercenary (M) Axe (Flasuban, ArcherBias)-walk" src="Mercenary (M) Axe (Flasuban, ArcherBias)-walk.png" />|<img alt="Mercenary (M) Axe {Unknown}-stand" src="Mercenary (M) Axe {Unknown}-stand.png" />|
+|<img alt="Mercenary (F) {FEGirls}-walk" src="Mercenary (F) {FEGirls}-walk.png" />|<img alt="Mercenary (M) Armored {Unknown}-stand" src="Mercenary (M) Armored {Unknown}-stand.png" />|<img alt="Mercenary (M) Armored {Unknown}-walk" src="Mercenary (M) Armored {Unknown}-walk.png" />|<img alt="Mercenary (M) Axe (Flasuban, ArcherBias)-stand" src="Mercenary (M) Axe (Flasuban, ArcherBias)-stand.png" />|
 
 
-|Mercenary (M) Axe-walk <br> {Unknown}|Mercenary (M) Beta -walk <br> {IS}|Mercenary (M) Beta Edit <br> {Unknown}|Mercenary (M) Beta <br> {IS}|
+|Mercenary (M) Axe (Flasuban, ArcherBias)-walk <br> |Mercenary (M) Axe <br> {Unknown}|Mercenary (M) Axe-walk <br> {Unknown}|Mercenary (M) Beta -walk <br> {IS}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mercenary (M) Axe {Unknown}-walk" src="Mercenary (M) Axe {Unknown}-walk.png" />|<img alt="Mercenary (M) Beta  {IS}-walk" src="Mercenary (M) Beta  {IS}-walk.png" />|<img alt="Mercenary (M) Beta Edit {Unknown}-stand" src="Mercenary (M) Beta Edit {Unknown}-stand.png" />|<img alt="Mercenary (M) Beta {IS}-stand" src="Mercenary (M) Beta {IS}-stand.png" />|
+|<img alt="Mercenary (M) Axe (Flasuban, ArcherBias)-walk" src="Mercenary (M) Axe (Flasuban, ArcherBias)-walk.png" />|<img alt="Mercenary (M) Axe {Unknown}-stand" src="Mercenary (M) Axe {Unknown}-stand.png" />|<img alt="Mercenary (M) Axe {Unknown}-walk" src="Mercenary (M) Axe {Unknown}-walk.png" />|<img alt="Mercenary (M) Beta  {IS}-walk" src="Mercenary (M) Beta  {IS}-walk.png" />|
 
 
-|Mercenary (M) Sword Improved <br> {Flasuban}|Mercenary (M) Sword Improved-walk <br> {Flasuban}|Mercenary (M) <br> {IS}|Mercenary (M)-walk <br> {IS}|
+|Mercenary (M) Beta Edit <br> {Unknown}|Mercenary (M) Beta <br> {IS}|Mercenary (M) Sword Improved <br> {Flasuban}|Mercenary (M) Sword Improved-walk <br> {Flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Mercenary (M) Sword Improved {Flasuban}-stand" src="Mercenary (M) Sword Improved {Flasuban}-stand.png" />|<img alt="Mercenary (M) Sword Improved {Flasuban}-walk" src="Mercenary (M) Sword Improved {Flasuban}-walk.png" />|<img alt="Mercenary (M) {IS}-stand" src="Mercenary (M) {IS}-stand.png" />|<img alt="Mercenary (M) {IS}-walk" src="Mercenary (M) {IS}-walk.png" />|
+|<img alt="Mercenary (M) Beta Edit {Unknown}-stand" src="Mercenary (M) Beta Edit {Unknown}-stand.png" />|<img alt="Mercenary (M) Beta {IS}-stand" src="Mercenary (M) Beta {IS}-stand.png" />|<img alt="Mercenary (M) Sword Improved {Flasuban}-stand" src="Mercenary (M) Sword Improved {Flasuban}-stand.png" />|<img alt="Mercenary (M) Sword Improved {Flasuban}-walk" src="Mercenary (M) Sword Improved {Flasuban}-walk.png" />|
 
 
-|Outlander (M) 16x16 <br> {J-Treecko}|Outlander (M) <br> {J-Treecko}|Outlander (M)-walk <br> {J-Treecko}|Villager (F) Sword <br> {HyperGammaSpaces}|
+|Mercenary (M) <br> {IS}|Mercenary (M)-walk <br> {IS}|Outlander (M) 16x16 <br> {J-Treecko}|Outlander (M) <br> {J-Treecko}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Outlander (M) 16x16 {J-Treecko}-stand" src="Outlander (M) 16x16 {J-Treecko}-stand.png" />|<img alt="Outlander (M) {J-Treecko}-stand" src="Outlander (M) {J-Treecko}-stand.png" />|<img alt="Outlander (M) {J-Treecko}-walk" src="Outlander (M) {J-Treecko}-walk.png" />|<img alt="Villager (F) Sword {HyperGammaSpaces}-stand" src="Villager (F) Sword {HyperGammaSpaces}-stand.png" />|
+|<img alt="Mercenary (M) {IS}-stand" src="Mercenary (M) {IS}-stand.png" />|<img alt="Mercenary (M) {IS}-walk" src="Mercenary (M) {IS}-walk.png" />|<img alt="Outlander (M) 16x16 {J-Treecko}-stand" src="Outlander (M) 16x16 {J-Treecko}-stand.png" />|<img alt="Outlander (M) {J-Treecko}-stand" src="Outlander (M) {J-Treecko}-stand.png" />|
 
 
-|Villager (F) Sword-walk <br> {HyperGammaSpaces}|Villager (F) v2 Sword <br> {HyperGammaSpaces}|Villager (F) v2 Sword-walk <br> {HyperGammaSpaces}|Villager (M) Sword <br> {HyperGammaSpaces}|
+|Outlander (M)-walk <br> {J-Treecko}|Villager (F) Sword <br> {HyperGammaSpaces}|Villager (F) Sword-walk <br> {HyperGammaSpaces}|Villager (F) v2 Sword <br> {HyperGammaSpaces}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Villager (F) Sword {HyperGammaSpaces}-walk" src="Villager (F) Sword {HyperGammaSpaces}-walk.png" />|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-stand" src="Villager (F) v2 Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-walk" src="Villager (F) v2 Sword {HyperGammaSpaces}-walk.png" />|<img alt="Villager (M) Sword {HyperGammaSpaces}-stand" src="Villager (M) Sword {HyperGammaSpaces}-stand.png" />|
+|<img alt="Outlander (M) {J-Treecko}-walk" src="Outlander (M) {J-Treecko}-walk.png" />|<img alt="Villager (F) Sword {HyperGammaSpaces}-stand" src="Villager (F) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (F) Sword {HyperGammaSpaces}-walk" src="Villager (F) Sword {HyperGammaSpaces}-walk.png" />|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-stand" src="Villager (F) v2 Sword {HyperGammaSpaces}-stand.png" />|
 
 
-|Villager (M) Sword-walk <br> {HyperGammaSpaces}|Villager (M) v2 Sword <br> {HyperGammaSpaces}|Villager (M) v2 Sword-walk <br> {HyperGammaSpaces}|
-| :---: | :---: | :---: |
-|<img alt="Villager (M) Sword {HyperGammaSpaces}-walk" src="Villager (M) Sword {HyperGammaSpaces}-walk.png" />|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-stand" src="Villager (M) v2 Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-walk" src="Villager (M) v2 Sword {HyperGammaSpaces}-walk.png" />|
+|Villager (F) v2 Sword-walk <br> {HyperGammaSpaces}|Villager (M) Sword <br> {HyperGammaSpaces}|Villager (M) Sword-walk <br> {HyperGammaSpaces}|Villager (M) v2 Sword <br> {HyperGammaSpaces}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Villager (F) v2 Sword {HyperGammaSpaces}-walk" src="Villager (F) v2 Sword {HyperGammaSpaces}-walk.png" />|<img alt="Villager (M) Sword {HyperGammaSpaces}-stand" src="Villager (M) Sword {HyperGammaSpaces}-stand.png" />|<img alt="Villager (M) Sword {HyperGammaSpaces}-walk" src="Villager (M) Sword {HyperGammaSpaces}-walk.png" />|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-stand" src="Villager (M) v2 Sword {HyperGammaSpaces}-stand.png" />|
+
+
+|Villager (M) v2 Sword-walk <br> {HyperGammaSpaces}|
+| :---: |
+|<img alt="Villager (M) v2 Sword {HyperGammaSpaces}-walk" src="Villager (M) v2 Sword {HyperGammaSpaces}-walk.png" />|
 
 

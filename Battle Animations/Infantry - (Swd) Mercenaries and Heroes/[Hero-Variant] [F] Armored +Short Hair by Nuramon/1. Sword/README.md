@@ -9,3 +9,5 @@
 ## Credit
 
 Made by {Flasuban, Nuramon}
+
+Handaxe Spin Crit by Sax Marine, added by ltranc.

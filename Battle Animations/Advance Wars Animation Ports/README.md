@@ -88,14 +88,6 @@
 
 
 
-## [\[Blue Moon\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
-
-| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
-| :---: |
-
-
-
-
 ## [\[Blue Moon\] Anti Air Missile {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D)
 
 | <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
@@ -107,6 +99,14 @@
 ## [\[Blue Moon\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
 
 | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+## [\[Blue Moon\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: |
 
 
@@ -152,18 +152,10 @@
 
 
 
-## [\[Bue Moon\] Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D)
+## [\[Blue Moon\] Tank {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D)
 
-| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| <b>Bow (Machine Gun)</b><br/><img alt="Bow (Machine Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Machine%20Gun)/Bow.gif"/> | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20Tank%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
 | :---: | :---: |
-
-
-
-
-## [\[Green Earth\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
-
-| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
-| :---: |
 
 
 
@@ -179,6 +171,14 @@
 ## [\[Green Earth\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
 
 | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+## [\[Green Earth\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: |
 
 
@@ -232,9 +232,9 @@
 
 
 
-## [\[IDS\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
+## [\[IDS\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Infantry%20%7BAmyd,%20Dark%7D)
 
-| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: |
 
 
@@ -243,14 +243,6 @@
 ## [\[IDS\] Mech {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D)
 
 | <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BIDS%5D%20Mech%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
-| :---: |
-
-
-
-
-## [\[Orange Star\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
-
-| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: |
 
 
@@ -267,6 +259,14 @@
 ## [\[Orange Star\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
 
 | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+## [\[Orange Star\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BOrange%20Star%5D%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: |
 
 
@@ -320,14 +320,6 @@
 
 
 
-## [\[Yellow Comet\]  Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20%20Infantry%20%7BAmyd,%20Dark%7D)
-
-| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
-| :---: |
-
-
-
-
 ## [\[Yellow Comet\] Anti Air Missile {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D)
 
 | <b>Bow (Missile)</b><br/><img alt="Bow (Missile)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20Missile%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Missile)/Bow.gif"/> |
@@ -339,6 +331,14 @@
 ## [\[Yellow Comet\] Anti Air {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D)
 
 | <b>Bow (Main Gun)</b><br/><img alt="Bow (Main Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Anti%20Air%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Main%20Gun)/Bow.gif"/> |
+| :---: |
+
+
+
+
+## [\[Yellow Comet\] Infantry {Amyd, Dark}](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Infantry%20%7BAmyd,%20Dark%7D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Infantry%20%7BAmyd,%20Dark%7D)
+
+| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Infantry%20%7BAmyd,%20Dark%7D/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: |
 
 

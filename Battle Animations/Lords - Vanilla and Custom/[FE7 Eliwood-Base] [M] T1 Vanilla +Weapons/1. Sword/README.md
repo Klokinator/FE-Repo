@@ -10,6 +10,8 @@
 
 Original animation by IS.
 
+Broadsword Slash by Sax Marine.
+
 Sword Slash and Lance by Spud.
 
 Jojowood by Vilkalizer.

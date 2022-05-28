@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "battle-animations-readme": "node ./repo-tools/battle-animations/make-battle-animations-readme.js && git add .",
+    "bg-interface-readme": "node ./repo-tools/make-bg-interface-readme.js && git add .",
+    "item-icons-readme": "node ./repo-tools/make-item-icons-readme.js && git add .",
+    "maps-readme": "node ./repo-tools/make-maps-readme.js && git add .",
     "prepare": "husky install"
   },
   "repository": {

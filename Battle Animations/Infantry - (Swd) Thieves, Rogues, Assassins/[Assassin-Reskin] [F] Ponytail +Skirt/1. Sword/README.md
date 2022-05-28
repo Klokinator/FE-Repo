@@ -11,3 +11,5 @@
 Sword and Unarmed by FPZero, Moocavo, Riku.
 
 Knife by Pushwall, Jj09.
+
+Bow made by SD9K and Andy, added by ltranc.

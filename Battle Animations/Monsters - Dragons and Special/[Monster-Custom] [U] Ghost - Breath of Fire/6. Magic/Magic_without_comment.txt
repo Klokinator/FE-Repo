@@ -19,8 +19,7 @@ C3E
 3 p- Magic_009.png
 3 p- Magic_010.png
 3 p- Magic_000.png
-C1A
-C1F
+C05
 C01
 3 p- Magic_000.png
 3 p- Magic_000.png
@@ -56,13 +55,11 @@ C4F
 1 p- Magic_009.png
 3 p- Magic_010.png
 3 p- Magic_000.png
-C08
-3 p- Magic_000.png
-C1F
+C05
 C01
 3 p- Magic_000.png
-3 p- Magic_000.png
 C06
+3 p- Magic_000.png
 C0D
 ~~~
 /// - Mode 5

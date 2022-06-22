@@ -24,8 +24,7 @@ C3E                                     #Play burning SFE
 3 p- Magic_009.png
 3 p- Magic_010.png
 3 p- Magic_000.png
-C1A                                     #Normal hit
-C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+C05                                     #Call spell
 C01                                     #NOP
 3 p- Magic_000.png
 3 p- Magic_000.png
@@ -61,16 +60,14 @@ C4F                                     #Play druid critical charging SFE
 1 p- Magic_009.png
 3 p- Magic_010.png
 3 p- Magic_000.png
-C08                                     #Critical hit
-3 p- Magic_000.png
-C1F                                     #Play hit SFE (sounds like Eliwood with sword's hit)
+C05                                     #Call spell associated with equipped weapon
 C01                                     #NOP
 3 p- Magic_000.png
-3 p- Magic_000.png
 C06                                     #Begin opponent's turn after hit.next code 0D.
+3 p- Magic_000.png
 C0D                                     #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 5                            #Ranged Animation 
+/// - Mode 5                            #Ranged Animation
 C03                                     #Start Monster animation; should be followed by 0x07
 C07                                     #Start Monster animation; should be preceeded by 0x03
 3 p- Magic_000.png

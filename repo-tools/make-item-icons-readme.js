@@ -21,8 +21,6 @@ const README_FILENAME = "README.md"
 
 	let readMeContent = '# Item Icons\n\n';
 
-	// just use first directories for now for testing
-	//temp = [categoryDirectories[0], categoryDirectories[1]];
 	var flag = true;
     for (const directory of categoryDirectories) {
 		var directoryReadMe = '';		

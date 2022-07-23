@@ -68,9 +68,9 @@ ${anim.credits}
 		showWeaponsHeading = true
 	}
 
-    let downloadButton = `[${DOWNLOAD_BUTTON}](${anim.downloadGitio || anim.downloadUri})`
+    let downloadButton = `[${DOWNLOAD_BUTTON}](${anim.downloadUri})`
 
-	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${anim.gitio || anim.uri}) ${downloadButton}
+	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${anim.uri}) ${downloadButton}
 
 ${makeWeaponsContent({anim, currentDir})}
 
@@ -125,7 +125,7 @@ const makeWeaponsContent = ({anim, currentDir}) => {
 const makeWeaponContent = ({weapon, currentDir}) => {
     let content = ""
     content += `<b>${weapon.name}</b><br/>`
-    content += `<img alt="${weapon.name}" src="${weapon.gifGitio || weapon.gifUri || currentDir + "/" + weapon.gifPath}"/>`
+    content += `<img alt="${weapon.name}" src="${weapon.gifUri || currentDir + "/" + weapon.gifPath}"/>`
     return content
 }
 

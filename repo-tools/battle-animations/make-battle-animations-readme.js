@@ -1,5 +1,5 @@
 const fs = require("fs").promises
-const { logMissingFile, hasFile, gitio } = require("../utilities")
+const { logMissingFile, hasFile } = require("../utilities")
 const { makeAnimReadmeText, makeWeaponReadmeText, makeRootReadmeText, makeCategoryReadmeText, makeClassCardReadMe, makeMapSpritesReadMe } = require("./battle-animations-utilities")
 
 const ROOT_DIR_SLUG = "Battle Animations"
@@ -122,7 +122,6 @@ const searchAnimations = async () => {
 				}
 
 				weapon.gifUri = encodeURI(`${ASSET_URL}/${ROOT_DIR_SLUG}/${categoryDir}/${animDir}/${weaponDir}/${weapon.gif}`)
-				weapon.gifGitio = await gitio(weapon.gifUri)
 
 				fs.writeFile(`${ROOT_DIR}/${categoryDir}/${animDir}/${weaponDir}/${README_FILENAME}`, makeWeaponReadmeText({
 					"anim": anim,
@@ -137,10 +136,8 @@ const searchAnimations = async () => {
 
 				anim.path = `${ROOT_DIR_SLUG}/${categoryDir}/${animDir}`
 				anim.uri = encodeURI(`${REPO_URL}/${anim.path}`).replace("+", "%2B")
-				anim.gitio = await gitio(anim.uri)
 
 				anim.downloadUri = "https://minhaskamal.github.io/DownGit/#/home?url=" + anim.uri
-				anim.downloadGitio = await gitio(anim.downloadUri)
 
 				fs.writeFile(`./${anim.path}/${README_FILENAME}`, makeAnimReadmeText({
 					"anim": anim,

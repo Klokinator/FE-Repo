@@ -1,0 +1,89 @@
+//ファイナルレター final letter
+//
+C000040                               #術発動者から攻撃対象にカメラ移動(1回のみ)
+O dummy.png
+B aa0068.png
+2
+C013148                               #Sound 
+O dummy.png
+B aa0070.png
+2
+O dummy.png
+B aa0072.png
+2
+O dummy.png
+B aa0074.png
+2
+O dummy.png
+B aa0076.png
+2
+O dummy.png
+B aa0078.png
+2
+O dummy.png
+B aa0080.png
+1
+O dummy.png
+B aa0081.png
+1
+O dummy.png
+B aa0082.png
+1
+O dummy.png
+B aa0083.png
+1
+O dummy.png
+B aa0084.png
+16
+
+C0C0829 #半透明と光度 完全表示で薄暗い
+O dummy.png
+B aa0084.png
+2
+C0A0029 #半透明と光度
+O dummy.png
+B aa0084.png
+2
+C080029 #半透明と光度
+O dummy.png
+B aa0084.png
+2
+C060029 #半透明と光度
+O dummy.png
+B aa0084.png
+2
+C040029 #半透明と光度
+O dummy.png
+B aa0084.png
+1
+
+C00001A                               #1Fまたはミス終端分岐の前に必要
+~                                     #miss terminator
+C00001F                               #ヒット音を鳴らす(直前に1Aが必要)
+
+C100029 #半透明と光度 完全表示
+O dummy.png
+B aa0109.png
+2
+O dummy.png
+B aa0112.png
+2
+O dummy.png
+B aa0113.png
+1
+O dummy.png
+B aa0114.png
+1
+O dummy.png
+B aa0115.png
+1
+O dummy.png
+B aa0116.png
+1
+O dummy.png
+B aa0118.png
+1
+O dummy.png
+B aa0119.png
+1
+/// - End of animation

@@ -37,8 +37,16 @@ const README_FILENAME = "README.md"
 			readMeContent += `<details>\n`
 		}
 		readMeContent += `<summary>click to expand</summary>\n\n`
+		var oldSplitName = "";
 		for (const file of cleanFileNames) {
 			var fileName = file;
+			var splitName = fileName.split('-')[0];
+			oldSplitName = oldSplitName === "" ? splitName : oldSplitName;
+			if (oldSplitName !== splitName) {
+				oldSplitName = "";
+				directoryReadMe += "&emsp;&emsp;";
+				readMeContent += "&emsp;&emsp;";
+			}
 			let type = file.split('.').pop();
         	if (type === "jpg" || type === "jpeg" || type === "png") {
 				var filepath= `${ROOT_DIR_SLUG}/${directory}/${fileName}`;

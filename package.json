@@ -8,6 +8,9 @@
     "bg-interface-readme": "node ./repo-tools/make-bg-interface-readme.js && git add .",
     "item-icons-readme": "node ./repo-tools/make-item-icons-readme.js && git add .",
     "maps-readme": "node ./repo-tools/make-maps-readme.js && git add .",
+    "class-cards-readme": "node ./repo-tools/make-classcards-readme.js && git add .",
+    "portraits-readme": "node ./repo-tools/make-portraits-readme.js && git add .",
+    "map-sprites-readme": "node ./repo-tools/make-mapsprites-readme.js && git add .",
     "prepare": "husky install"
   },
   "repository": {

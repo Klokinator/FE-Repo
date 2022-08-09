@@ -22,11 +22,12 @@ const searchPortraits = async () => {
     var readMeContent = "# Portraits\n\n";
     categoryDirectories.shift();
     for (const directory of categoryDirectories) {
-        readMeContent += `## [${directory}](${encodeURI(directory)})\n\n`
+        readMeContent += `# [${directory}](${encodeURI(directory)})\n\n`
         readMeContent += `<details><summary>Click to expand!</summary>\n\n`;
         readMeContent += await generateDirectoryReadMe(`${ROOT_DIR_SLUG}/${directory}`, directory);
         readMeContent += `\n\n</details>\n\n`;
     }
+    readMeContent += "----\n\n"
     
     fs.writeFile(`${ROOT_DIR}/${README_FILENAME}`, readMeContent);
 }
@@ -46,20 +47,11 @@ const generateDirectoryReadMe = async (directoryName, name) => {
 	}, [])
 
     var cleanFileNames = files.filter(x => !x.toLowerCase().includes('readme'));
+    
 
-    let directoryReadMe = `# ${name}\n\n`;
-    let returnReadMe = `# ${name}\n\n`;
-
-    for (const directory of subDirectories) {
-        directoryReadMe += `## [${directory}](${encodeURI(`${directory}`)})\n\n`;
-        returnReadMe += `## [${directory}](${encodeURI(`${name}/${directory}`)})\n\n`;
-        directoryReadMe += `<details><summary>Click to expand!</summary>\n\n`;
-        returnReadMe += `<details><summary>Click to expand!</summary>\n\n`;
-        directoryReadMe += await generateDirectoryReadMe(`${directoryName}/${directory}`, `${name}/${directory}`);
-        returnReadMe += await generateDirectoryReadMe(`${directoryName}/${directory}`, `${name}/${directory}`);
-        directoryReadMe += `\n\n</details>\n\n`;
-        returnReadMe += `\n\n</details>\n\n`;
-    }
+    //let directoryReadMe = `# ${name}\n\n`;
+    let directoryReadMe = "";
+    let returnReadMe = "";
 
     for (const file of cleanFileNames) {
         var fileName = file;
@@ -73,6 +65,22 @@ const generateDirectoryReadMe = async (directoryName, name) => {
         returnReadMe += `![${fileName}](${uri || directory + "/" + filepath} "${fileName}")`;
     }
 
+    directoryReadMe += "\n\n";
+    returnReadMe += "\n\n";
+
+    for (const directory of subDirectories) {
+        directoryReadMe += `## [${directory}](${encodeURI(`${directory}`)})\n\n`;
+        returnReadMe += `## [${directory}](${encodeURI(`${name}/${directory}`)})\n\n`;
+        directoryReadMe += `<details><summary>Click to expand!</summary>\n\n`;
+        returnReadMe += `<details><summary>Click to expand!</summary>\n\n`;
+        directoryReadMe += await generateDirectoryReadMe(`${directoryName}/${directory}`, `${name}/${directory}`);
+        returnReadMe += await generateDirectoryReadMe(`${directoryName}/${directory}`, `${name}/${directory}`);
+        directoryReadMe += `\n\n</details>\n\n`;
+        returnReadMe += `\n\n</details>\n\n`;
+    }
+
+    directoryReadMe += "\n\n----\n\n";
+    returnReadMe += "\n\n----\n\n"
     fs.writeFile(`${directoryName}/${README_FILENAME}`, directoryReadMe);
 
     return returnReadMe;

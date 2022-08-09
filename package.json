@@ -11,6 +11,7 @@
     "class-cards-readme": "node ./repo-tools/make-classcards-readme.js && git add .",
     "portraits-readme": "node ./repo-tools/make-portraits-readme.js && git add .",
     "map-sprites-readme": "node ./repo-tools/make-mapsprites-readme.js && git add .",
+    "update-all" :"node ./repo-tools/battle-animations/make-battle-animations-readme.js && node ./repo-tools/make-bg-interface-readme.js && node ./repo-tools/make-item-icons-readme.js && node ./repo-tools/make-maps-readme.js && node ./repo-tools/make-classcards-readme.js && node ./repo-tools/make-portraits-readme.js && node ./repo-tools/make-mapsprites-readme.js && git add .",
     "prepare": "husky install"
   },
   "repository": {

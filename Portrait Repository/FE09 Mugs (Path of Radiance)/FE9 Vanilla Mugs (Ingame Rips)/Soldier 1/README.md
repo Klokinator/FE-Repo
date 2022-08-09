@@ -1,3 +1,6 @@
-# FE09 Mugs (Path of Radiance)/FE9 Vanilla Mugs (Ingame Rips)/Soldier 1
-
 ![L_SOLDIERB-0000.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201/L_SOLDIERB-0000.png "L_SOLDIERB-0000.png")![L_SOLDIERB-0001.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201/L_SOLDIERB-0001.png "L_SOLDIERB-0001.png")![L_SOLDIERB-0002.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201/L_SOLDIERB-0002.png "L_SOLDIERB-0002.png")![L_SOLDIERB-0003.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201/L_SOLDIERB-0003.png "L_SOLDIERB-0003.png")![L_SOLDIERB-0004.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201/L_SOLDIERB-0004.png "L_SOLDIERB-0004.png")![L_SOLDIERB-0005.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201/L_SOLDIERB-0005.png "L_SOLDIERB-0005.png")![L_SOLDIERB-0006.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201/L_SOLDIERB-0006.png "L_SOLDIERB-0006.png")
+
+
+
+----
+

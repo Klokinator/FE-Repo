@@ -1,3 +1,6 @@
-# FE09 Mugs (Path of Radiance)/FE9 Vanilla Mugs (Ingame Rips)/Generic Laguz Cat [M]
-
 ![L_CAT-0000.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D/L_CAT-0000.png "L_CAT-0000.png")![L_CAT-0001.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D/L_CAT-0001.png "L_CAT-0001.png")![L_CAT-0002.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D/L_CAT-0002.png "L_CAT-0002.png")![L_CAT-0003.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D/L_CAT-0003.png "L_CAT-0003.png")![L_CAT-0004.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D/L_CAT-0004.png "L_CAT-0004.png")![L_CAT-0005.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D/L_CAT-0005.png "L_CAT-0005.png")![L_CAT-0006.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D/L_CAT-0006.png "L_CAT-0006.png")
+
+
+
+----
+

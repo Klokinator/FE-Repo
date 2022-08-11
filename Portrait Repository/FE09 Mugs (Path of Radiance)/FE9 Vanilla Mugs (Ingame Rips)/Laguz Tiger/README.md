@@ -1,3 +1,6 @@
-# FE09 Mugs (Path of Radiance)/FE9 Vanilla Mugs (Ingame Rips)/Laguz Tiger
-
 ![L_TIGER-0000.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger/L_TIGER-0000.png "L_TIGER-0000.png")![L_TIGER-0001.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger/L_TIGER-0001.png "L_TIGER-0001.png")![L_TIGER-0002.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger/L_TIGER-0002.png "L_TIGER-0002.png")![L_TIGER-0003.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger/L_TIGER-0003.png "L_TIGER-0003.png")![L_TIGER-0004.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger/L_TIGER-0004.png "L_TIGER-0004.png")![L_TIGER-0005.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger/L_TIGER-0005.png "L_TIGER-0005.png")![L_TIGER-0006.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger/L_TIGER-0006.png "L_TIGER-0006.png")
+
+
+
+----
+

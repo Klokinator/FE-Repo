@@ -1,0 +1,332 @@
+#######################################################
+#52 armm_sp1 Knight Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- armm_sp1_000.png
+4 p- armm_sp1_001.png
+4 p- armm_sp1_002.png
+C1B                               #Play quick "heavy step" SFE
+4 p- armm_sp1_003.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- armm_sp1_004.png
+C15                               #Slight vibration of screen
+10 p- armm_sp1_005.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C24                               #Play sword slashing air SFE
+4 p- armm_sp1_006.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+1 p- armm_sp1_007.png
+C15                               #Slight vibration of screen
+C1A                               #Normal hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+1 p- armm_sp1_007.png
+C01                               #NOP
+4 p- armm_sp1_008.png
+4 p- armm_sp1_009.png
+4 p- armm_sp1_010.png
+4 p- armm_sp1_011.png
+4 p- armm_sp1_012.png
+4 p- armm_sp1_013.png
+10 p- armm_sp1_014.png
+4 p- armm_sp1_006.png
+4 p- armm_sp1_005.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+C1B                               #Play quick "heavy step" SFE
+10 p- armm_sp1_004.png
+2 p- armm_sp1_002.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- armm_sp1_002.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- armm_sp1_001.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- armm_sp1_000.png
+C22                               #Play short sword swinging SFE
+C2B                               #Play armored unit "leaping" SFE
+5 p- armm_sp1_015.png
+3 p- armm_sp1_016.png
+3 p- armm_sp1_017.png
+3 p- armm_sp1_018.png
+3 p- armm_sp1_019.png
+C22                               #Play short sword swinging SFE
+3 p- armm_sp1_016.png
+3 p- armm_sp1_017.png
+3 p- armm_sp1_018.png
+3 p- armm_sp1_019.png
+3 p- armm_sp1_016.png
+C22                               #Play short sword swinging SFE
+3 p- armm_sp1_017.png
+3 p- armm_sp1_018.png
+3 p- armm_sp1_019.png
+3 p- armm_sp1_016.png
+3 p- armm_sp1_020.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+4 p- armm_sp1_021.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- armm_sp1_022.png
+C1B                               #Play quick "heavy step" SFE
+C24                               #Play sword slashing air SFE
+3 p- armm_sp1_023.png
+C15                               #Slight vibration of screen
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- armm_sp1_024.png
+3 p- armm_sp1_025.png
+3 p- armm_sp1_026.png
+3 p- armm_sp1_027.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- armm_sp1_013.png
+C24                               #Play sword slashing air SFE
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C15                               #Slight vibration of screen
+3 p- armm_sp1_028.png
+3 p- armm_sp1_029.png
+3 p- armm_sp1_030.png
+4 p- armm_sp1_013.png
+C24                               #Play sword slashing air SFE
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C15                               #Slight vibration of screen
+3 p- armm_sp1_031.png
+3 p- armm_sp1_032.png
+3 p- armm_sp1_033.png
+3 p- armm_sp1_034.png
+3 p- armm_sp1_035.png
+4 p- armm_sp1_013.png
+4 p- armm_sp1_036.png
+4 p- armm_sp1_037.png
+4 p- armm_sp1_038.png
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C15                               #Slight vibration of screen
+3 p- armm_sp1_039.png
+C0C                               #Critical hit
+3 p- armm_sp1_040.png
+C01                               #NOP
+3 p- armm_sp1_041.png
+3 p- armm_sp1_042.png
+3 p- armm_sp1_043.png
+3 p- armm_sp1_044.png
+3 p- armm_sp1_045.png
+3 p- armm_sp1_046.png
+4 p- armm_sp1_013.png
+10 p- armm_sp1_014.png
+4 p- armm_sp1_006.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- armm_sp1_005.png
+C2B                               #Play armored unit "leaping" SFE
+10 p- armm_sp1_004.png
+2 p- armm_sp1_002.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- armm_sp1_002.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- armm_sp1_001.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- armm_sp1_000.png
+4 p- armm_sp1_047.png
+4 p- armm_sp1_048.png
+4 p- armm_sp1_049.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+20 p- armm_sp1_050.png
+3 p- armm_sp1_051.png
+C05                               #Call spell associated with equipped weapon
+1 p- armm_sp1_052.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- armm_sp1_053.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- armm_sp1_000.png
+C22                               #Play short sword swinging SFE
+C2B                               #Play armored unit "leaping" SFE
+5 p- armm_sp1_015.png
+3 p- armm_sp1_016.png
+3 p- armm_sp1_017.png
+3 p- armm_sp1_018.png
+3 p- armm_sp1_019.png
+C22                               #Play short sword swinging SFE
+3 p- armm_sp1_016.png
+3 p- armm_sp1_017.png
+3 p- armm_sp1_018.png
+3 p- armm_sp1_019.png
+3 p- armm_sp1_016.png
+C22                               #Play short sword swinging SFE
+3 p- armm_sp1_017.png
+3 p- armm_sp1_018.png
+3 p- armm_sp1_019.png
+3 p- armm_sp1_016.png
+3 p- armm_sp1_020.png
+4 p- armm_sp1_021.png
+5 p- armm_sp1_022.png
+C2B                               #Play armored unit "leaping" SFE
+15 p- armm_sp1_000.png
+4 p- armm_sp1_047.png
+4 p- armm_sp1_048.png
+4 p- armm_sp1_049.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+40 p- armm_sp1_050.png
+3 p- armm_sp1_001.png
+3 p- armm_sp1_002.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+3 p- armm_sp1_003.png
+3 p- armm_sp1_004.png
+3 p- armm_sp1_005.png
+C1B                               #Play quick "heavy step" SFE
+3 p- armm_sp1_006.png
+3 p- armm_sp1_054.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+3 p- armm_sp1_055.png
+3 p- armm_sp1_056.png
+3 p- armm_sp1_057.png
+C1B                               #Play quick "heavy step" SFE
+3 p- armm_sp1_058.png
+3 p- armm_sp1_059.png
+3 p- armm_sp1_060.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+3 p- armm_sp1_061.png
+3 p- armm_sp1_062.png
+3 p- armm_sp1_063.png
+C1B                               #Play quick "heavy step" SFE
+3 p- armm_sp1_064.png
+3 p- armm_sp1_065.png
+3 p- armm_sp1_066.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+3 p- armm_sp1_067.png
+3 p- armm_sp1_068.png
+3 p- armm_sp1_069.png
+C1B                               #Play quick "heavy step" SFE
+3 p- armm_sp1_070.png
+3 p- armm_sp1_071.png
+3 p- armm_sp1_072.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+3 p- armm_sp1_073.png
+3 p- armm_sp1_074.png
+C05                               #Call spell associated with equipped weapon
+3 p- armm_sp1_075.png
+C01                               #NOP
+3 p- armm_sp1_076.png
+3 p- armm_sp1_077.png
+3 p- armm_sp1_078.png
+3 p- armm_sp1_079.png
+3 p- armm_sp1_080.png
+3 p- armm_sp1_081.png
+3 p- armm_sp1_082.png
+2 p- armm_sp1_083.png
+2 p- armm_sp1_084.png
+2 p- armm_sp1_085.png
+2 p- armm_sp1_086.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- armm_sp1_021.png
+3 p- armm_sp1_022.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- armm_sp1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- armm_sp1_087.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- armm_sp1_088.png
+C01                               #NOP
+3 p- armm_sp1_087.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- armm_sp1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- armm_sp1_087.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- armm_sp1_088.png
+C01                               #NOP
+3 p- armm_sp1_087.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- armm_sp1_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- armm_sp1_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- armm_sp1_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- armm_sp1_000.png
+4 p- armm_sp1_001.png
+4 p- armm_sp1_002.png
+C1B                               #Play quick "heavy step" SFE
+4 p- armm_sp1_003.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- armm_sp1_004.png
+C15                               #Slight vibration of screen
+10 p- armm_sp1_005.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C24                               #Play sword slashing air SFE
+4 p- armm_sp1_006.png
+C1B                               #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+1 p- armm_sp1_089.png
+C15                               #Slight vibration of screen
+1 p- armm_sp1_089.png
+C01                               #NOP
+4 p- armm_sp1_090.png
+4 p- armm_sp1_091.png
+4 p- armm_sp1_092.png
+4 p- armm_sp1_011.png
+4 p- armm_sp1_012.png
+4 p- armm_sp1_013.png
+10 p- armm_sp1_014.png
+4 p- armm_sp1_006.png
+4 p- armm_sp1_005.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+C1B                               #Play quick "heavy step" SFE
+10 p- armm_sp1_004.png
+2 p- armm_sp1_002.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- armm_sp1_002.png
+C1B                               #Play quick "heavy step" SFE
+C15                               #Slight vibration of screen
+4 p- armm_sp1_001.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

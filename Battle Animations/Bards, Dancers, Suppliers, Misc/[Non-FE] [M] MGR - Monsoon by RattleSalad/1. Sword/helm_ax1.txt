@@ -1,0 +1,293 @@
+#######################################################
+#07 helm_ax1 Lord Axe
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- helm_ax1_000.png
+3 p- helm_ax1_001.png
+3 p- helm_ax1_002.png
+C25                               #Play wing flap SFE
+3 p- helm_ax1_003.png
+3 p- helm_ax1_004.png
+3 p- helm_ax1_005.png
+3 p- helm_ax1_006.png
+3 p- helm_ax1_007.png
+3 p- helm_ax1_008.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C43                               #Play weapon stance SFE (Clicking noise)
+3 p- helm_ax1_009.png
+6 p- helm_ax1_010.png
+3 p- helm_ax1_011.png
+3 p- helm_ax1_012.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- helm_ax1_013.png
+3 p- helm_ax1_014.png
+C34                               #Play heavy stepping SFE
+C1A                               #Normal hit
+C01                               #NOP
+2 p- helm_ax1_015.png
+1 p- helm_ax1_016.png
+3 p- helm_ax1_017.png
+C24                               #Play sword slashing air SFE
+3 p- helm_ax1_018.png
+3 p- helm_ax1_019.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- helm_ax1_020.png
+1 p- helm_ax1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+2 p- helm_ax1_021.png
+3 p- helm_ax1_022.png
+3 p- helm_ax1_023.png
+3 p- helm_ax1_024.png
+3 p- helm_ax1_025.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- helm_ax1_026.png
+3 p- helm_ax1_027.png
+3 p- helm_ax1_028.png
+3 p- helm_ax1_029.png
+3 p- helm_ax1_030.png
+SF7                               #Sound 247 SE:Fire spell hitting
+3 p- helm_ax1_031.png
+3 p- helm_ax1_032.png
+SBF                               #Sound 191 SE:Fire tile
+3 p- helm_ax1_033.png
+3 p- helm_ax1_034.png
+4 p- helm_ax1_035.png
+5 p- helm_ax1_036.png
+5 p- helm_ax1_037.png
+5 p- helm_ax1_038.png
+5 p- helm_ax1_039.png
+5 p- helm_ax1_040.png
+5 p- helm_ax1_041.png
+4 p- helm_ax1_042.png
+4 p- helm_ax1_043.png
+4 p- helm_ax1_044.png
+3 p- helm_ax1_045.png
+3 p- helm_ax1_046.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- helm_ax1_047.png
+3 p- helm_ax1_048.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- helm_ax1_049.png
+3 p- helm_ax1_050.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- helm_ax1_051.png
+3 p- helm_ax1_052.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- helm_ax1_053.png
+4 p- helm_ax1_054.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+2 p- helm_ax1_055.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+2 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+4 p- helm_ax1_058.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_059.png
+C23                               #Play shorter sword swinging SFE
+3 p- helm_ax1_060.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_060.png
+C23                               #Play shorter sword swinging SFE
+3 p- helm_ax1_061.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_059.png
+C23                               #Play shorter sword swinging SFE
+3 p- helm_ax1_060.png
+C22                               #Play short sword swinging SFE
+4 p- helm_ax1_062.png
+C43                               #Play weapon stance SFE (Clicking noise)
+4 p- helm_ax1_063.png
+4 p- helm_ax1_064.png
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+3 p- helm_ax1_065.png
+C0C                               #Critical hit
+4 p- helm_ax1_066.png
+C01                               #NOP
+3 p- helm_ax1_067.png
+3 p- helm_ax1_068.png
+3 p- helm_ax1_069.png
+4 p- helm_ax1_070.png
+5 p- helm_ax1_071.png
+5 p- helm_ax1_072.png
+C25                               #Play wing flap SFE
+2 p- helm_ax1_073.png
+2 p- helm_ax1_074.png
+2 p- helm_ax1_075.png
+2 p- helm_ax1_076.png
+2 p- helm_ax1_077.png
+2 p- helm_ax1_078.png
+C35                               #Play longer wing flapping SFE
+2 p- helm_ax1_079.png
+2 p- helm_ax1_080.png
+C34                               #Play heavy stepping SFE
+2 p- helm_ax1_081.png
+2 p- helm_ax1_082.png
+2 p- helm_ax1_083.png
+2 p- helm_ax1_084.png
+2 p- helm_ax1_085.png
+2 p- helm_ax1_086.png
+2 p- helm_ax1_087.png
+2 p- helm_ax1_022.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- helm_ax1_021.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- helm_ax1_000.png
+3 p- helm_ax1_088.png
+3 p- helm_ax1_089.png
+3 p- helm_ax1_090.png
+3 p- helm_ax1_091.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_092.png
+3 p- helm_ax1_093.png
+3 p- helm_ax1_094.png
+C23                               #Play shorter sword swinging SFE
+3 p- helm_ax1_095.png
+C23                               #Play shorter sword swinging SFE
+3 p- helm_ax1_096.png
+C23                               #Play shorter sword swinging SFE
+3 p- helm_ax1_096.png
+C23                               #Play shorter sword swinging SFE
+3 p- helm_ax1_095.png
+C22                               #Play short sword swinging SFE
+C05                               #Call spell associated with equipped weapon
+3 p- helm_ax1_097.png
+3 p- helm_ax1_098.png
+C01                               #NOP
+3 p- helm_ax1_099.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_100.png
+3 p- helm_ax1_101.png
+3 p- helm_ax1_102.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_103.png
+3 p- helm_ax1_090.png
+3 p- helm_ax1_104.png
+3 p- helm_ax1_089.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- helm_ax1_088.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- helm_ax1_000.png
+2 p- helm_ax1_021.png
+3 p- helm_ax1_105.png
+C43                               #Play weapon stance SFE (Clicking noise)
+3 p- helm_ax1_106.png
+S96                               #Sound 150 SE:Footsteps 4
+3 p- helm_ax1_107.png
+3 p- helm_ax1_108.png
+3 p- helm_ax1_109.png
+S97                               #Sound 151 SE:Footsteps 5
+3 p- helm_ax1_110.png
+3 p- helm_ax1_111.png
+3 p- helm_ax1_112.png
+C05                               #Call spell associated with equipped weapon
+3 p- helm_ax1_113.png
+3 p- helm_ax1_114.png
+3 p- helm_ax1_115.png
+3 p- helm_ax1_116.png
+SAB                               #Sound 171 SE:Village destroyed
+C0C                               #Critical hit
+3 p- helm_ax1_117.png
+C01                               #NOP
+3 p- helm_ax1_118.png
+3 p- helm_ax1_119.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_120.png
+3 p- helm_ax1_121.png
+3 p- helm_ax1_122.png
+3 p- helm_ax1_123.png
+3 p- helm_ax1_124.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- helm_ax1_125.png
+3 p- helm_ax1_126.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+3 p- helm_ax1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- helm_ax1_127.png
+2 p- helm_ax1_128.png
+C01                               #NOP
+3 p- helm_ax1_129.png
+3 p- helm_ax1_130.png
+3 p- helm_ax1_131.png
+3 p- helm_ax1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+3 p- helm_ax1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- helm_ax1_127.png
+2 p- helm_ax1_128.png
+C01                               #NOP
+3 p- helm_ax1_129.png
+3 p- helm_ax1_130.png
+3 p- helm_ax1_131.png
+3 p- helm_ax1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- helm_ax1_000.png
+3 p- helm_ax1_001.png
+3 p- helm_ax1_002.png
+C25                               #Play wing flap SFE
+3 p- helm_ax1_003.png
+3 p- helm_ax1_004.png
+3 p- helm_ax1_005.png
+3 p- helm_ax1_006.png
+3 p- helm_ax1_007.png
+3 p- helm_ax1_008.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C43                               #Play weapon stance SFE (Clicking noise)
+3 p- helm_ax1_009.png
+3 p- helm_ax1_010.png
+3 p- helm_ax1_011.png
+3 p- helm_ax1_012.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_132.png
+C34                               #Play heavy stepping SFE
+1 p- helm_ax1_133.png
+C24                               #Play sword slashing air SFE
+2 p- helm_ax1_017.png
+3 p- helm_ax1_018.png
+3 p- helm_ax1_019.png
+3 p- helm_ax1_020.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- helm_ax1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

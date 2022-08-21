@@ -8,4 +8,6 @@
 
 ## Credit
 
+Vanilla animation by IS.
 
+Lowered Arm variant by Jey The Count.

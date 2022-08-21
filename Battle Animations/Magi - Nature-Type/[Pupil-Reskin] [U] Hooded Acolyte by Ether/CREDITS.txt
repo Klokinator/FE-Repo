@@ -1,0 +1,3 @@
+Pupil animation by IS
+Hood edit by Ether
+Script code fix by Raulster (cape loop was previously bugged)

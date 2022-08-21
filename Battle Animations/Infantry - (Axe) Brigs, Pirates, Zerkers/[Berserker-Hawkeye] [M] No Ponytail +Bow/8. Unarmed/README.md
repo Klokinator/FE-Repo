@@ -10,4 +10,8 @@
 
 Made by Orihara_Saki.
 
-Bow by HGS.
+Bow by HyperGammaSpaces.
+
+Magic animation by ZoramineFae, added by ltranc.
+
+Pants edits made by ltranc. Note that he has not yet made a Bow+Pants variant.

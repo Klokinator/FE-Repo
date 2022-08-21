@@ -11,3 +11,6 @@
 Female/Ponytail Great Knight by By RiriK/Rikki
 
 Special thanks to Skitty's Repal for the recolored GK-base at the Repo.
+
+Staff animation by Amberstorm based off of Primefusion's Greatknight Staff.
+

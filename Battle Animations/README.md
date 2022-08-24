@@ -2605,6 +2605,14 @@
 
 
 
+### [\[Mercenary-Base\] \[M\] Repal v2 by Eldritch](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20v2%20by%20Eldritch) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20v2%20by%20Eldritch)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20v2%20by%20Eldritch/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Repal%20v2%20by%20Eldritch/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Mercenary-Base\] \[M\] Vanilla FE6](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20%5BM%5D%20Vanilla%20FE6/8.%20Unarmed/Unarmed.gif"/> |
@@ -2641,6 +2649,14 @@
 ### [\[Mercenary-Reskin\] \[F\] Generic by TBA](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Mercenary-Reskin\] \[F\] Generic v2 by TBA](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20v2%20by%20TBA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20v2%20by%20TBA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20v2%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20%5BF%5D%20Generic%20v2%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -3993,6 +4009,14 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20Seliph%20by%20Obsidian%20Daddy/2.%20Lance/Lance.gif"/> |
 | :---: |
+
+
+
+
+### [\[FE4 Lord Custom\] Seliph Repalette](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20Seliph%20Repalette) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20Seliph%20Repalette)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20Seliph%20Repalette/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20Seliph%20Repalette/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 

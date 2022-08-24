@@ -35,6 +35,24 @@
 
 
 
+## [\[Cyclops-Variant\] \[U\] Two-headed Armored by Teelvade](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20Armored%20by%20Teelvade) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20Armored%20by%20Teelvade)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20Armored%20by%20Teelvade/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20Armored%20by%20Teelvade/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20Armored%20by%20Teelvade/6.%20Magic/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20Armored%20by%20Teelvade/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Cyclops-Variant\] \[U\] Two-headed by Teelvade](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20by%20Teelvade) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20by%20Teelvade)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20by%20Teelvade/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20by%20Teelvade/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20by%20Teelvade/6.%20Magic/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Two-headed%20by%20Teelvade/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ## [\[Gorgon-Base\] \[F\] Vanilla](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Base%5D%20%5BF%5D%20Vanilla/6.%20Magic/Magic.gif"/> |
@@ -79,6 +97,14 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGoyle-Variant%5D%20%5BU%5D%20Strigoi%20by%20Arkth/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGoyle-Variant%5D%20%5BU%5D%20Strigoi%20by%20Arkth/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Kitsune-Custom\] \[U\] Heroes Selkie by Norikins](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BKitsune-Custom%5D%20%5BU%5D%20Heroes%20Selkie%20by%20Norikins) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BKitsune-Custom%5D%20%5BU%5D%20Heroes%20Selkie%20by%20Norikins)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BKitsune-Custom%5D%20%5BU%5D%20Heroes%20Selkie%20by%20Norikins/8.%20Monster/Monster.gif"/> |
+| :---: |
 
 
 
@@ -361,8 +387,8 @@
 
 ## [\[Zombie-Variant\] \[U\] Drowned by DATonDemand](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Drowned%20by%20DATonDemand) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Drowned%20by%20DATonDemand)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Drowned%20by%20DATonDemand/6.%20Magic/Magic.gif"/> |
-| :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Drowned%20by%20DATonDemand/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Drowned%20by%20DATonDemand/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 
@@ -377,8 +403,8 @@
 
 ## [\[Zombie-Variant\] \[U\] Symphone by DATonDemand](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Symphone%20by%20DATonDemand) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Symphone%20by%20DATonDemand)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Symphone%20by%20DATonDemand/6.%20Magic/Magic.gif"/> |
-| :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Symphone%20by%20DATonDemand/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Variant%5D%20%5BU%5D%20Symphone%20by%20DATonDemand/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 

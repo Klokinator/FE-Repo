@@ -12,4 +12,6 @@ Vanilla animation by IS.
 
 Sword animations both added by Maiser6 and Raiden.
 
-Repaletted by Furious
+Repaletted by Furious.
+
+Serra Magic Crit by RiriK.

@@ -1119,6 +1119,22 @@
 
 
 
+
+### [\[Wolf-Variant\] \[M\] Armored Brigand Wolf Rider by Teelvade](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BWolf-Variant%5D%20%5BM%5D%20Armored%20Brigand%20Wolf%20Rider%20by%20Teelvade) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BWolf-Variant%5D%20%5BM%5D%20Armored%20Brigand%20Wolf%20Rider%20by%20Teelvade)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BWolf-Variant%5D%20%5BM%5D%20Armored%20Brigand%20Wolf%20Rider%20by%20Teelvade/3.%20Axe/Axe.gif"/> |
+| :---: |
+
+
+
+
+### [\[Wolf-Variant\] \[M\] Brigand Wolf Rider by Teelvade](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BWolf-Variant%5D%20%5BM%5D%20Brigand%20Wolf%20Rider%20by%20Teelvade) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BWolf-Variant%5D%20%5BM%5D%20Brigand%20Wolf%20Rider%20by%20Teelvade)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BWolf-Variant%5D%20%5BM%5D%20Brigand%20Wolf%20Rider%20by%20Teelvade/3.%20Axe/Axe.gif"/> |
+| :---: |
+
+
+
 </details>
 
 
@@ -6070,6 +6086,13 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BM%5D%20High%20Magus%20by%20MrNight48/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BM%5D%20High%20Magus%20by%20MrNight48/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Wolf-Variant\] \[M\] Farseer Athos by Teelvade](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BWolf-Variant%5D%20%5BM%5D%20Farseer%20Athos%20by%20Teelvade) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BWolf-Variant%5D%20%5BM%5D%20Farseer%20Athos%20by%20Teelvade)
+
+
 
 
 

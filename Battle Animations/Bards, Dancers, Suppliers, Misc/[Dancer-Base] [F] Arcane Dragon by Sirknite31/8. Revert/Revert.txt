@@ -1,0 +1,114 @@
+#######################################################
+#04 lorf_sw1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Revert_000.png
+7 p- Revert_001.png
+9 p- Revert_002.png
+2 p- Revert_003.png
+2 p- Revert_004.png
+5 p- Revert_005.png
+5 p- Revert_006.png
+5 p- Revert_007.png
+4 p- Revert_008.png
+5 p- Revert_006.png
+5 p- Revert_007.png
+4 p- Revert_008.png
+4 p- Revert_009.png
+5 p- Revert_010.png
+6 p- Revert_011.png
+7 p- Revert_012.png
+8 p- Revert_013.png
+4 p- Revert_014.png
+4 p- Revert_015.png
+4 p- Revert_016.png
+4 p- Revert_017.png
+4 p- Revert_018.png
+4 p- Revert_019.png
+4 p- Revert_020.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Revert_013.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+3 p- Revert_013.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+5 p- Revert_013.png
+C05                               #Call spell associated with equipped weapon
+4 p- Revert_013.png
+C01                               #NOP
+4 p- Revert_013.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Revert_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+5 p- Revert_013.png
+C05                               #Call spell associated with equipped weapon
+4 p- Revert_013.png
+C01                               #NOP
+4 p- Revert_013.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Revert_013.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+2 p- Revert_013.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Revert_013.png
+C01                               #NOP
+2 p- Revert_013.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Revert_013.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+2 p- Revert_013.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Revert_013.png
+C01                               #NOP
+2 p- Revert_013.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Revert_013.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+3 p- Revert_013.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+3 p- Revert_013.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+3 p- Revert_013.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Revert_013.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+3 p- Revert_013.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

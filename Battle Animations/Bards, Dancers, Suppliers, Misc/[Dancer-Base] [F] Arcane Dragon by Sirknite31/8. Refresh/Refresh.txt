@@ -1,0 +1,161 @@
+#######################################################
+#04 lorf_sw1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+S0148                               #Sound 328  [Empty Track]
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+S0149                               #Sound 329  [Empty Track]
+1 p- Refresh_015.png
+1 p- Refresh_016.png
+1 p- Refresh_017.png
+1 p- Refresh_018.png
+1 p- Refresh_019.png
+C05                               #Call spell associated with equipped weapon
+1 p- Refresh_020.png
+11 p- Refresh_021.png
+1 p- Refresh_022.png
+1 p- Refresh_023.png
+C01                               #NOP
+5 p- Refresh_024.png
+5 p- Refresh_025.png
+3 p- Refresh_026.png
+6 p- Refresh_027.png
+10 p- Refresh_028.png
+40 p- Refresh_029.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+S0148                               #Sound 328  [Empty Track]
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+S0149                               #Sound 329  [Empty Track]
+1 p- Refresh_015.png
+1 p- Refresh_016.png
+1 p- Refresh_017.png
+1 p- Refresh_018.png
+1 p- Refresh_019.png
+C05                               #Call spell associated with equipped weapon
+1 p- Refresh_020.png
+11 p- Refresh_021.png
+1 p- Refresh_022.png
+1 p- Refresh_023.png
+C01                               #NOP
+5 p- Refresh_024.png
+5 p- Refresh_025.png
+3 p- Refresh_026.png
+6 p- Refresh_027.png
+10 p- Refresh_028.png
+40 p- Refresh_029.png
+~~~
+/// - Mode 5               #Ranged Animation 
+4 p- Refresh_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+4 p- Refresh_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Refresh_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Refresh_030.png
+1 p- Refresh_031.png
+C01                               #NOP
+3 p- Refresh_030.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Refresh_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Refresh_030.png
+1 p- Refresh_031.png
+C01                               #NOP
+3 p- Refresh_030.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+S0148                               #Sound 328  [Empty Track]
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+S0149                               #Sound 329  [Empty Track]
+1 p- Refresh_015.png
+1 p- Refresh_016.png
+1 p- Refresh_017.png
+1 p- Refresh_018.png
+1 p- Refresh_019.png
+C05                               #Call spell associated with equipped weapon
+1 p- Refresh_020.png
+11 p- Refresh_021.png
+1 p- Refresh_022.png
+1 p- Refresh_023.png
+C01                               #NOP
+5 p- Refresh_024.png
+5 p- Refresh_025.png
+3 p- Refresh_026.png
+6 p- Refresh_027.png
+10 p- Refresh_028.png
+40 p- Refresh_029.png
+~~~
+/// - End of animation

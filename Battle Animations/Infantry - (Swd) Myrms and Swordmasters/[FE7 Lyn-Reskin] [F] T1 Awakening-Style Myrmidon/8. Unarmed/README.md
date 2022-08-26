@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Iscaneus, Leo_link.
+
+Headband edit by 7743.

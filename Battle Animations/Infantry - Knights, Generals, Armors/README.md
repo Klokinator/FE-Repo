@@ -37,6 +37,15 @@
 
 
 
+## [\[General-Reskin\] \[F\] Female General Repalette by 7743](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743/3.%20Axe/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743/4.%20Handaxe/Handaxe.gif"/> | <b>Bow (Cannon)</b><br/><img alt="Bow (Cannon)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743/5.%20Bow%20(Cannon)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BF%5D%20Female%20General%20Repalette%20by%207743/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ## [\[General-Reskin\] \[M\] Baron Cape +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20%2BWeapons)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons/1.%20Sword%20(Magic%20Flash)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Reskin%5D%20%5BM%5D%20Baron%20Cape%20+Weapons/2.%20Lance/Lance.gif"/> |
@@ -230,7 +239,8 @@
 
 ## [\[Knight-Variant\] \[F\] Amelia by SALVAGED](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BF%5D%20Amelia%20by%20SALVAGED) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BF%5D%20Amelia%20by%20SALVAGED)
 
-
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BF%5D%20Amelia%20by%20SALVAGED/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BF%5D%20Amelia%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 

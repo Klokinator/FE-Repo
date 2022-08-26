@@ -1,0 +1,170 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+C31                               #Show small dirt wave moving forward animation
+SDE                               #Sound 222 SE:Mamkute yowl @C85_7B
+C15                               #Slight vibration of screen
+10 p- Monster_001.png
+3 p- Monster_002.png
+3 p- Monster_003.png
+C31                               #Show small dirt wave moving forward animation
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+3 p- Monster_004.png
+C1A                               #Normal hit
+3 p- Monster_005.png
+5 p- Monster_006.png
+C01                               #NOP
+3 p- Monster_007.png
+C32                               #Show medium sized dirt wave moving backward animation
+2 p- Monster_008.png
+2 p- Monster_009.png
+C2B                               #Play armored unit "leaping" SFE
+C31                               #Show small dirt wave moving forward animation
+2 p- Monster_010.png
+2 p- Monster_011.png
+C2B                               #Play armored unit "leaping" SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Monster_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+C31                               #Show small dirt wave moving forward animation
+SE6                               #Sound 230 SE:Mamkute transform growl
+C15                               #Slight vibration of screen
+17 p- Monster_001.png
+3 p- Monster_002.png
+3 p- Monster_003.png
+C32                               #Show medium sized dirt wave moving backward animation
+3 p- Monster_004.png
+3 p- Monster_005.png
+5 p- Monster_006.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+5 p- Monster_012.png
+C15                               #Slight vibration of screen
+C31                               #Show small dirt wave moving forward animation
+3 p- Monster_007.png
+C38                               #Play heavy spear spinning SFE
+3 p- Monster_013.png
+3 p- Monster_014.png
+3 p- Monster_015.png
+C32                               #Show medium sized dirt wave moving backward animation
+3 p- Monster_016.png
+3 p- Monster_017.png
+4 p- Monster_012.png
+3 p- Monster_007.png
+C31                               #Show small dirt wave moving forward animation
+C38                               #Play heavy spear spinning SFE
+3 p- Monster_013.png
+3 p- Monster_014.png
+3 p- Monster_015.png
+C32                               #Show medium sized dirt wave moving backward animation
+3 p- Monster_016.png
+3 p- Monster_017.png
+3 p- Monster_012.png
+C01                               #NOP
+3 p- Monster_007.png
+C31                               #Show small dirt wave moving forward animation
+2 p- Monster_008.png
+2 p- Monster_009.png
+C2B                               #Play armored unit "leaping" SFE
+C31                               #Show small dirt wave moving forward animation
+2 p- Monster_010.png
+2 p- Monster_011.png
+C2B                               #Play armored unit "leaping" SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Monster_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+C05                               #Call spell associated with equipped weapon
+1 p- Monster_001.png
+C01                               #NOP
+1 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+C05                               #Call spell associated with equipped weapon
+1 p- Monster_001.png
+C01                               #NOP
+1 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Monster_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Monster_018.png
+C01                               #NOP
+1 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Monster_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Monster_018.png
+C01                               #NOP
+1 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+C31                               #Show small dirt wave moving forward animation
+SDE                               #Sound 222 SE:Mamkute yowl @C85_7B
+C15                               #Slight vibration of screen
+10 p- Monster_001.png
+3 p- Monster_002.png
+3 p- Monster_003.png
+C31                               #Show small dirt wave moving forward animation
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+3 p- Monster_019.png
+3 p- Monster_020.png
+5 p- Monster_021.png
+C01                               #NOP
+3 p- Monster_022.png
+C32                               #Show medium sized dirt wave moving backward animation
+2 p- Monster_008.png
+2 p- Monster_009.png
+C2B                               #Play armored unit "leaping" SFE
+C31                               #Show small dirt wave moving forward animation
+2 p- Monster_010.png
+2 p- Monster_011.png
+C2B                               #Play armored unit "leaping" SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Monster_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

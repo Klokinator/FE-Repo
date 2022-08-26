@@ -13,3 +13,5 @@ Original animation by Melia.
 Updated still/look by Hypergammaspaces.
 
 New animation by Knabepicer, Feier.
+
+Staff and Unarmed by RiriK.

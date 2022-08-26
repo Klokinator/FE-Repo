@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by St jack.
+[Ballista] [F] Louise by St Jack.
+
+Fix by RiriK.

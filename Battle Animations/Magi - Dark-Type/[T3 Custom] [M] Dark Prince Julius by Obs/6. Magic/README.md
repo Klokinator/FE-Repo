@@ -11,3 +11,5 @@
 Custom animation by Obsidian Daddy. 
 
 Scripting by Rexacuse, Leo Link.
+
+OAM saving version by 7743.

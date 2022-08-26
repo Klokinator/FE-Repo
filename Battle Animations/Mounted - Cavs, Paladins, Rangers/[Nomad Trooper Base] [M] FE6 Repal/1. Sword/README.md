@@ -8,4 +8,6 @@
 
 ## Credit
 
-{Pikmin1211, Maiser6}
+{Pikmin1211, Maiser6, Itranc, Valak}
+
+Axe and Handaxe by ltranc, Valak.

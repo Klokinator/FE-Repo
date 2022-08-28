@@ -22,7 +22,7 @@ const searchPortraits = async () => {
     var readMeContent = "# Portraits\n\n";
     categoryDirectories.shift();
     for (const directory of categoryDirectories) {
-        readMeContent += `# [${directory}](${encodeURI(directory)})\n\n`
+        readMeContent += `## [${directory}](${encodeURI(directory)})\n\n`
         readMeContent += `<details><summary>Click to expand!</summary>\n\n`;
         readMeContent += await generateDirectoryReadMe(`${ROOT_DIR_SLUG}/${directory}`, directory);
         readMeContent += `\n\n</details>\n\n`;
@@ -69,8 +69,8 @@ const generateDirectoryReadMe = async (directoryName, name) => {
     returnReadMe += "\n\n";
 
     for (const directory of subDirectories) {
-        directoryReadMe += `## [${directory}](${encodeURI(`${directory}`)})\n\n`;
-        returnReadMe += `## [${directory}](${encodeURI(`${name}/${directory}`)})\n\n`;
+        directoryReadMe += `### [${directory}](${encodeURI(`${directory}`)})\n\n`;
+        returnReadMe += `### [${directory}](${encodeURI(`${name}/${directory}`)})\n\n`;
         directoryReadMe += `<details><summary>Click to expand!</summary>\n\n`;
         returnReadMe += `<details><summary>Click to expand!</summary>\n\n`;
         directoryReadMe += await generateDirectoryReadMe(`${directoryName}/${directory}`, `${name}/${directory}`);

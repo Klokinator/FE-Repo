@@ -1,0 +1,6 @@
+![Armor Knight Alt1{Scottythebody}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Scottythebody14/Armor%20Knight%20Alt1(Scottythebody).png "Armor Knight Alt1{Scottythebody}.png")![Armor Knight Alt2{Scottythebody}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Scottythebody14/Armor%20Knight%20Alt2(Scottythebody).png "Armor Knight Alt2{Scottythebody}.png")![Est{Scottythebody}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Scottythebody14/Est(Scottythebody).png "Est{Scottythebody}.png")![Josuke{Scottythebody}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Scottythebody14/Josuke(Scottythebody).png "Josuke{Scottythebody}.png")![Old Scott{Scottythebody}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Scottythebody14/Old%20Scott(Scottythebody).png "Old Scott{Scottythebody}.png")
+
+
+
+----
+

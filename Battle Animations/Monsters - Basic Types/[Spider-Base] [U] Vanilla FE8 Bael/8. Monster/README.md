@@ -9,3 +9,5 @@
 ## Credit
 
 Made by IS.
+
+Magic by Sirknite31.

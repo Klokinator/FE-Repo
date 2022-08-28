@@ -16,3 +16,4 @@ IS, Hextator, shadowofchaos, Moocavo, Vilkalizer
 8. Legendary Sword (Binding Blade) {Moocavo}
 8. Legendary Sword (Sol Katti)
 8. Legendary Sword (Sol Katti) (Magic Sword Fix)
+Axe Fix by 7743.

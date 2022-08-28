@@ -11,3 +11,5 @@
 Animation by cybaster, Luerock.
 
 GBA Port by SHYUTERz.
+
+Motion edit by 7743.

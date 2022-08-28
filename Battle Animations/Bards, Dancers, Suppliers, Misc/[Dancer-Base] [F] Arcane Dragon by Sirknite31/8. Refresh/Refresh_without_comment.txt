@@ -1,0 +1,156 @@
+/// - Mode 1
+C03
+C07
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+S0148
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+S0149
+1 p- Refresh_015.png
+1 p- Refresh_016.png
+1 p- Refresh_017.png
+1 p- Refresh_018.png
+1 p- Refresh_019.png
+C05
+1 p- Refresh_020.png
+11 p- Refresh_021.png
+1 p- Refresh_022.png
+1 p- Refresh_023.png
+C01
+5 p- Refresh_024.png
+5 p- Refresh_025.png
+3 p- Refresh_026.png
+6 p- Refresh_027.png
+10 p- Refresh_028.png
+40 p- Refresh_029.png
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+S0148
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+S0149
+1 p- Refresh_015.png
+1 p- Refresh_016.png
+1 p- Refresh_017.png
+1 p- Refresh_018.png
+1 p- Refresh_019.png
+C05
+1 p- Refresh_020.png
+11 p- Refresh_021.png
+1 p- Refresh_022.png
+1 p- Refresh_023.png
+C01
+5 p- Refresh_024.png
+5 p- Refresh_025.png
+3 p- Refresh_026.png
+6 p- Refresh_027.png
+10 p- Refresh_028.png
+40 p- Refresh_029.png
+~~~
+/// - Mode 5
+4 p- Refresh_000.png
+~~~
+/// - Mode 6
+4 p- Refresh_000.png
+~~~
+/// - Mode 7
+C02
+1 p- Refresh_000.png
+C0E
+3 p- Refresh_030.png
+1 p- Refresh_031.png
+C01
+3 p- Refresh_030.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Refresh_000.png
+C0E
+3 p- Refresh_030.png
+1 p- Refresh_031.png
+C01
+3 p- Refresh_030.png
+C0D
+~~~
+/// - Mode 9
+1 p- Refresh_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Refresh_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Refresh_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Refresh_000.png
+12 p- Refresh_001.png
+7 p- Refresh_002.png
+S0148
+6 p- Refresh_003.png
+7 p- Refresh_004.png
+5 p- Refresh_002.png
+4 p- Refresh_005.png
+5 p- Refresh_006.png
+4 p- Refresh_007.png
+4 p- Refresh_008.png
+10 p- Refresh_009.png
+2 p- Refresh_010.png
+2 p- Refresh_011.png
+2 p- Refresh_012.png
+2 p- Refresh_013.png
+2 p- Refresh_014.png
+S0149
+1 p- Refresh_015.png
+1 p- Refresh_016.png
+1 p- Refresh_017.png
+1 p- Refresh_018.png
+1 p- Refresh_019.png
+C05
+1 p- Refresh_020.png
+11 p- Refresh_021.png
+1 p- Refresh_022.png
+1 p- Refresh_023.png
+C01
+5 p- Refresh_024.png
+5 p- Refresh_025.png
+3 p- Refresh_026.png
+6 p- Refresh_027.png
+10 p- Refresh_028.png
+40 p- Refresh_029.png
+~~~
+/// - End of animation

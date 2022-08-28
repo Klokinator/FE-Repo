@@ -10,4 +10,6 @@
 
 Animation by Redbean.
 
+Unarmed by RiriK.
+
 Scrpited by 7743.

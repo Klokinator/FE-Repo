@@ -1,0 +1,387 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+C3B                               #Play bard song SFE
+2 p- Refresh_001.png
+4 p- Refresh_002.png
+10 p- Refresh_003.png
+6 p- Refresh_004.png
+3 p- Refresh_005.png
+3 p- Refresh_006.png
+8 p- Refresh_007.png
+9 p- Refresh_008.png
+4 p- Refresh_009.png
+3 p- Refresh_010.png
+6 p- Refresh_011.png
+3 p- Refresh_012.png
+4 p- Refresh_013.png
+9 p- Refresh_014.png
+9 p- Refresh_015.png
+3 p- Refresh_016.png
+3 p- Refresh_017.png
+3 p- Refresh_018.png
+3 p- Refresh_019.png
+3 p- Refresh_020.png
+2 p- Refresh_021.png
+3 p- Refresh_022.png
+3 p- Refresh_016.png
+2 p- Refresh_017.png
+2 p- Refresh_018.png
+2 p- Refresh_019.png
+3 p- Refresh_020.png
+4 p- Refresh_021.png
+7 p- Refresh_022.png
+2 p- Refresh_023.png
+2 p- Refresh_024.png
+5 p- Refresh_025.png
+4 p- Refresh_026.png
+3 p- Refresh_027.png
+4 p- Refresh_028.png
+20 p- Refresh_029.png
+S0137                               #Sound 311 SE:Ballista arrow falling
+3 p- Refresh_030.png
+3 p- Refresh_031.png
+3 p- Refresh_032.png
+3 p- Refresh_033.png
+1 p- Refresh_034.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+2 p- Refresh_034.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_035.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+3 p- Refresh_036.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_037.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_038.png
+3 p- Refresh_039.png
+C15                               #Slight vibration of screen
+3 p- Refresh_040.png
+C77                               #draco zombie scream SFE
+3 p- Refresh_029.png
+C01                               #NOP
+10 p- Refresh_029.png
+1 p- Refresh_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+C3B                               #Play bard song SFE
+2 p- Refresh_001.png
+4 p- Refresh_002.png
+10 p- Refresh_003.png
+6 p- Refresh_004.png
+3 p- Refresh_005.png
+3 p- Refresh_006.png
+8 p- Refresh_007.png
+9 p- Refresh_008.png
+4 p- Refresh_009.png
+3 p- Refresh_010.png
+6 p- Refresh_011.png
+3 p- Refresh_012.png
+4 p- Refresh_013.png
+9 p- Refresh_014.png
+9 p- Refresh_015.png
+3 p- Refresh_016.png
+3 p- Refresh_017.png
+3 p- Refresh_018.png
+3 p- Refresh_019.png
+3 p- Refresh_020.png
+2 p- Refresh_021.png
+3 p- Refresh_022.png
+3 p- Refresh_016.png
+2 p- Refresh_017.png
+2 p- Refresh_018.png
+2 p- Refresh_019.png
+3 p- Refresh_020.png
+4 p- Refresh_021.png
+7 p- Refresh_022.png
+2 p- Refresh_023.png
+2 p- Refresh_024.png
+5 p- Refresh_025.png
+4 p- Refresh_026.png
+3 p- Refresh_027.png
+4 p- Refresh_028.png
+20 p- Refresh_029.png
+S0137                               #Sound 311 SE:Ballista arrow falling
+3 p- Refresh_030.png
+3 p- Refresh_031.png
+3 p- Refresh_032.png
+3 p- Refresh_033.png
+1 p- Refresh_034.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+2 p- Refresh_034.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_035.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+3 p- Refresh_036.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_037.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_038.png
+3 p- Refresh_039.png
+C15                               #Slight vibration of screen
+3 p- Refresh_040.png
+C77                               #draco zombie scream SFE
+3 p- Refresh_029.png
+C01                               #NOP
+10 p- Refresh_029.png
+1 p- Refresh_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+C3B                               #Play bard song SFE
+2 p- Refresh_001.png
+4 p- Refresh_002.png
+10 p- Refresh_003.png
+6 p- Refresh_004.png
+3 p- Refresh_005.png
+3 p- Refresh_006.png
+8 p- Refresh_007.png
+9 p- Refresh_008.png
+4 p- Refresh_009.png
+3 p- Refresh_010.png
+6 p- Refresh_011.png
+3 p- Refresh_012.png
+4 p- Refresh_013.png
+9 p- Refresh_014.png
+9 p- Refresh_015.png
+3 p- Refresh_016.png
+3 p- Refresh_017.png
+3 p- Refresh_018.png
+3 p- Refresh_019.png
+3 p- Refresh_020.png
+2 p- Refresh_021.png
+3 p- Refresh_022.png
+3 p- Refresh_016.png
+2 p- Refresh_017.png
+2 p- Refresh_018.png
+2 p- Refresh_019.png
+3 p- Refresh_020.png
+4 p- Refresh_021.png
+7 p- Refresh_022.png
+2 p- Refresh_023.png
+2 p- Refresh_024.png
+5 p- Refresh_025.png
+4 p- Refresh_026.png
+3 p- Refresh_027.png
+4 p- Refresh_028.png
+20 p- Refresh_029.png
+S0137                               #Sound 311 SE:Ballista arrow falling
+3 p- Refresh_030.png
+3 p- Refresh_031.png
+3 p- Refresh_032.png
+3 p- Refresh_033.png
+1 p- Refresh_034.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+2 p- Refresh_034.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_035.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+3 p- Refresh_036.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_037.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_038.png
+3 p- Refresh_039.png
+C15                               #Slight vibration of screen
+3 p- Refresh_040.png
+C77                               #draco zombie scream SFE
+3 p- Refresh_029.png
+C01                               #NOP
+10 p- Refresh_029.png
+1 p- Refresh_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+C3B                               #Play bard song SFE
+2 p- Refresh_001.png
+4 p- Refresh_002.png
+10 p- Refresh_003.png
+6 p- Refresh_004.png
+3 p- Refresh_005.png
+3 p- Refresh_006.png
+8 p- Refresh_007.png
+9 p- Refresh_008.png
+4 p- Refresh_009.png
+3 p- Refresh_010.png
+6 p- Refresh_011.png
+3 p- Refresh_012.png
+4 p- Refresh_013.png
+9 p- Refresh_014.png
+9 p- Refresh_015.png
+3 p- Refresh_016.png
+3 p- Refresh_017.png
+3 p- Refresh_018.png
+3 p- Refresh_019.png
+3 p- Refresh_020.png
+2 p- Refresh_021.png
+3 p- Refresh_022.png
+3 p- Refresh_016.png
+2 p- Refresh_017.png
+2 p- Refresh_018.png
+2 p- Refresh_019.png
+3 p- Refresh_020.png
+4 p- Refresh_021.png
+7 p- Refresh_022.png
+2 p- Refresh_023.png
+2 p- Refresh_024.png
+5 p- Refresh_025.png
+4 p- Refresh_026.png
+3 p- Refresh_027.png
+4 p- Refresh_028.png
+20 p- Refresh_029.png
+S0137                               #Sound 311 SE:Ballista arrow falling
+3 p- Refresh_030.png
+3 p- Refresh_031.png
+3 p- Refresh_032.png
+3 p- Refresh_033.png
+1 p- Refresh_034.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+2 p- Refresh_034.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_035.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+3 p- Refresh_036.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_037.png
+C14                               #Heavy vibration of screen
+3 p- Refresh_038.png
+3 p- Refresh_039.png
+C15                               #Slight vibration of screen
+3 p- Refresh_040.png
+C77                               #draco zombie scream SFE
+3 p- Refresh_029.png
+C01                               #NOP
+10 p- Refresh_029.png
+1 p- Refresh_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Refresh_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Refresh_041.png
+1 p- Refresh_042.png
+C01                               #NOP
+3 p- Refresh_041.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Refresh_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Refresh_041.png
+1 p- Refresh_042.png
+C01                               #NOP
+3 p- Refresh_041.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Refresh_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Refresh_000.png
+C3B                               #Play bard song SFE
+2 p- Refresh_001.png
+4 p- Refresh_002.png
+10 p- Refresh_003.png
+6 p- Refresh_004.png
+3 p- Refresh_005.png
+3 p- Refresh_006.png
+8 p- Refresh_007.png
+9 p- Refresh_008.png
+4 p- Refresh_009.png
+3 p- Refresh_010.png
+6 p- Refresh_011.png
+3 p- Refresh_012.png
+4 p- Refresh_013.png
+9 p- Refresh_014.png
+9 p- Refresh_015.png
+3 p- Refresh_016.png
+3 p- Refresh_017.png
+3 p- Refresh_018.png
+3 p- Refresh_019.png
+3 p- Refresh_020.png
+2 p- Refresh_021.png
+3 p- Refresh_022.png
+3 p- Refresh_016.png
+2 p- Refresh_017.png
+2 p- Refresh_018.png
+2 p- Refresh_019.png
+3 p- Refresh_020.png
+4 p- Refresh_021.png
+7 p- Refresh_022.png
+2 p- Refresh_023.png
+2 p- Refresh_024.png
+5 p- Refresh_025.png
+4 p- Refresh_026.png
+3 p- Refresh_027.png
+4 p- Refresh_028.png
+20 p- Refresh_029.png
+S0137                               #Sound 311 SE:Ballista arrow falling
+3 p- Refresh_030.png
+3 p- Refresh_031.png
+3 p- Refresh_032.png
+3 p- Refresh_033.png
+3 p- Refresh_034.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+3 p- Refresh_043.png
+3 p- Refresh_044.png
+3 p- Refresh_045.png
+3 p- Refresh_046.png
+3 p- Refresh_039.png
+3 p- Refresh_040.png
+3 p- Refresh_029.png
+C01                               #NOP
+10 p- Refresh_029.png
+1 p- Refresh_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

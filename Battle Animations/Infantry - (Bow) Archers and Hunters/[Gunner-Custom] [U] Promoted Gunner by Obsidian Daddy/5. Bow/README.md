@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Obsidian Daddy.
+
+Alternate Gun Sounds by 7743.

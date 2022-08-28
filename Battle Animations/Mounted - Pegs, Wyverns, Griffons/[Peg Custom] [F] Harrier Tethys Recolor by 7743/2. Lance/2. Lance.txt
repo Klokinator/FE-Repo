@@ -1,0 +1,291 @@
+#######################################################
+#03 lorf_sw1 ロード 剣
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- 2. Lance_000.png
+C23                               #剣を振る音　小さい
+3 p- 2. Lance_001.png
+2 p- 2. Lance_002.png
+C25                               #ブンという音
+7 p- 2. Lance_003.png
+7 p- 2. Lance_004.png
+7 p- 2. Lance_005.png
+C25                               #ブンという音
+5 p- 2. Lance_006.png
+2 p- 2. Lance_007.png
+3 p- 2. Lance_008.png
+3 p- 2. Lance_009.png
+C25                               #ブンという音
+15 p- 2. Lance_010.png
+C23                               #剣を振る音　小さい
+C04                               #魔法攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+3 p- 2. Lance_011.png
+C1A                               #ノーマルヒット
+C23                               #剣を振る音　小さい
+C1F                               #クリティカル効果音
+4 p- 2. Lance_012.png
+4 p- 2. Lance_013.png
+C01                               #NOP
+C25                               #ブンという音
+3 p- 2. Lance_014.png
+2 p- 2. Lance_015.png
+1 p- 2. Lance_016.png
+C35                               #翼の音の再生
+3 p- 2. Lance_017.png
+3 p- 2. Lance_018.png
+2 p- 2. Lance_019.png
+2 p- 2. Lance_020.png
+2 p- 2. Lance_021.png
+2 p- 2. Lance_022.png
+2 p- 2. Lance_023.png
+2 p- 2. Lance_024.png
+2 p- 2. Lance_025.png
+1 p- 2. Lance_026.png
+C25                               #ブンという音
+2 p- 2. Lance_027.png
+2 p- 2. Lance_028.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- 2. Lance_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- 2. Lance_000.png
+C23                               #剣を振る音　小さい
+3 p- 2. Lance_001.png
+C25                               #ブンという音
+2 p- 2. Lance_002.png
+7 p- 2. Lance_003.png
+C35                               #翼の音の再生
+6 p- 2. Lance_029.png
+C25                               #ブンという音
+6 p- 2. Lance_030.png
+6 p- 2. Lance_029.png
+8 p- 2. Lance_030.png
+2 p- 2. Lance_031.png
+3 p- 2. Lance_032.png
+1 p- 2. Lance_033.png
+2 p- 2. Lance_034.png
+C38                               #槍を回す音
+2 p- 2. Lance_031.png
+3 p- 2. Lance_032.png
+1 p- 2. Lance_033.png
+2 p- 2. Lance_034.png
+C38                               #槍を回す音
+2 p- 2. Lance_031.png
+3 p- 2. Lance_032.png
+1 p- 2. Lance_033.png
+2 p- 2. Lance_034.png
+C25                               #ブンという音
+7 p- 2. Lance_004.png
+2 p- 2. Lance_005.png
+6 p- 2. Lance_010.png
+6 p- 2. Lance_035.png
+C3A                               #踊り子の音
+3 p- 2. Lance_035.png
+2 p- 2. Lance_036.png
+2 p- 2. Lance_037.png
+2 p- 2. Lance_038.png
+2 p- 2. Lance_039.png
+2 p- 2. Lance_040.png
+2 p- 2. Lance_041.png
+2 p- 2. Lance_042.png
+2 p- 2. Lance_043.png
+2 p- 2. Lance_044.png
+2 p- 2. Lance_045.png
+2 p- 2. Lance_046.png
+2 p- 2. Lance_047.png
+2 p- 2. Lance_048.png
+2 p- 2. Lance_049.png
+2 p- 2. Lance_050.png
+2 p- 2. Lance_051.png
+2 p- 2. Lance_052.png
+12 p- 2. Lance_053.png
+10 p- 2. Lance_054.png
+C23                               #剣を振る音　小さい
+C04                               #魔法攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+3 p- 2. Lance_055.png
+C0C                               #クリティカルヒット
+C24                               #剣で空を切る音
+C21                               #クリティカル効果音
+5 p- 2. Lance_056.png
+4 p- 2. Lance_057.png
+C01                               #NOP
+C25                               #ブンという音
+3 p- 2. Lance_014.png
+2 p- 2. Lance_015.png
+1 p- 2. Lance_016.png
+C35                               #翼の音の再生
+3 p- 2. Lance_017.png
+3 p- 2. Lance_018.png
+2 p- 2. Lance_019.png
+2 p- 2. Lance_020.png
+2 p- 2. Lance_021.png
+2 p- 2. Lance_022.png
+2 p- 2. Lance_023.png
+2 p- 2. Lance_024.png
+2 p- 2. Lance_025.png
+1 p- 2. Lance_026.png
+C25                               #ブンという音
+2 p- 2. Lance_027.png
+2 p- 2. Lance_028.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- 2. Lance_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- 2. Lance_000.png
+C23                               #剣を振る音　小さい
+3 p- 2. Lance_001.png
+2 p- 2. Lance_002.png
+C25                               #ブンという音
+8 p- 2. Lance_003.png
+6 p- 2. Lance_029.png
+C25                               #ブンという音
+6 p- 2. Lance_030.png
+6 p- 2. Lance_029.png
+14 p- 2. Lance_030.png
+C23                               #剣を振る音　小さい
+3 p- 2. Lance_058.png
+C05                               #魔法の呼び出し
+2 p- 2. Lance_059.png
+C01                               #NOP
+C23                               #剣を振る音　小さい
+2 p- 2. Lance_060.png
+2 p- 2. Lance_003.png
+2 p- 2. Lance_002.png
+2 p- 2. Lance_001.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+2 p- 2. Lance_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- 2. Lance_000.png
+C23                               #剣を振る音　小さい
+3 p- 2. Lance_001.png
+2 p- 2. Lance_002.png
+C25                               #ブンという音
+7 p- 2. Lance_003.png
+7 p- 2. Lance_004.png
+2 p- 2. Lance_031.png
+3 p- 2. Lance_032.png
+1 p- 2. Lance_033.png
+2 p- 2. Lance_034.png
+C38                               #槍を回す音
+2 p- 2. Lance_031.png
+3 p- 2. Lance_032.png
+1 p- 2. Lance_033.png
+2 p- 2. Lance_034.png
+C38                               #槍を回す音
+2 p- 2. Lance_031.png
+3 p- 2. Lance_032.png
+1 p- 2. Lance_033.png
+2 p- 2. Lance_034.png
+6 p- 2. Lance_029.png
+C35                               #翼の音の再生
+6 p- 2. Lance_030.png
+6 p- 2. Lance_029.png
+14 p- 2. Lance_030.png
+C23                               #剣を振る音　小さい
+3 p- 2. Lance_058.png
+C05                               #魔法の呼び出し
+2 p- 2. Lance_059.png
+C01                               #NOP
+C23                               #剣を振る音　小さい
+2 p- 2. Lance_060.png
+2 p- 2. Lance_003.png
+2 p- 2. Lance_002.png
+2 p- 2. Lance_001.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+2 p- 2. Lance_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+4 p- 2. Lance_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- 2. Lance_061.png
+C01                               #NOP
+2 p- 2. Lance_001.png
+3 p- 2. Lance_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+4 p- 2. Lance_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- 2. Lance_061.png
+C01                               #NOP
+2 p- 2. Lance_001.png
+3 p- 2. Lance_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+1 p- 2. Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+1 p- 2. Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+1 p- 2. Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- 2. Lance_000.png
+C23                               #剣を振る音　小さい
+3 p- 2. Lance_001.png
+2 p- 2. Lance_002.png
+C25                               #ブンという音
+7 p- 2. Lance_003.png
+7 p- 2. Lance_004.png
+7 p- 2. Lance_005.png
+C25                               #ブンという音
+5 p- 2. Lance_006.png
+2 p- 2. Lance_007.png
+3 p- 2. Lance_008.png
+3 p- 2. Lance_009.png
+C25                               #ブンという音
+15 p- 2. Lance_010.png
+C23                               #剣を振る音　小さい
+C04                               #魔法攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+3 p- 2. Lance_011.png
+C23                               #剣を振る音　小さい
+4 p- 2. Lance_062.png
+4 p- 2. Lance_013.png
+C01                               #NOP
+C25                               #ブンという音
+3 p- 2. Lance_014.png
+2 p- 2. Lance_015.png
+1 p- 2. Lance_016.png
+C35                               #翼の音の再生
+3 p- 2. Lance_017.png
+3 p- 2. Lance_018.png
+2 p- 2. Lance_019.png
+2 p- 2. Lance_020.png
+2 p- 2. Lance_021.png
+2 p- 2. Lance_022.png
+2 p- 2. Lance_023.png
+2 p- 2. Lance_024.png
+2 p- 2. Lance_025.png
+1 p- 2. Lance_026.png
+C25                               #ブンという音
+2 p- 2. Lance_027.png
+2 p- 2. Lance_028.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- 2. Lance_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

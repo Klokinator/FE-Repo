@@ -1,0 +1,224 @@
+#######################################################
+#1A Archer Ballista
+#
+#When importing to FEEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+C59
+1 p- Monster_000.png
+3 p- Monster_001.png
+3 p- Monster_002.png
+3 p- Monster_003.png
+C59
+3 p- Monster_004.png
+3 p- Monster_005.png
+3 p- Monster_006.png
+C59
+3 p- Monster_007.png
+3 p- Monster_008.png
+3 p- Monster_009.png
+12 p- Monster_010.png
+C56
+2 p- Monster_011.png
+2 p- Monster_012.png
+18 p- Monster_013.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C57
+2 p- Monster_014.png
+C1A                                     #Normal hit
+C21                                     #Play hit SFE (sounds like Knight Lord with sword's hit)
+1 p- Monster_015.png
+C01                                     #NOP
+4 p- Monster_012.png
+12 p- Monster_013.png
+4 p- Monster_016.png
+3 p- Monster_017.png
+24 p- Monster_018.png
+2 p- Monster_007.png
+2 p- Monster_006.png
+2 p- Monster_005.png
+C59
+2 p- Monster_004.png
+2 p- Monster_003.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+2 p- Monster_002.png
+2 p- Monster_001.png
+1 p- Monster_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+1 p- Monster_000.png
+3 p- Monster_019.png
+C58
+4 p- Monster_020.png
+4 p- Monster_021.png
+4 p- Monster_020.png
+4 p- Monster_021.png
+4 p- Monster_020.png
+4 p- Monster_021.png
+4 p- Monster_020.png
+4 p- Monster_021.png
+C59
+2 p- Monster_001.png
+2 p- Monster_002.png
+2 p- Monster_003.png
+2 p- Monster_004.png
+2 p- Monster_005.png
+C59
+2 p- Monster_006.png
+2 p- Monster_007.png
+2 p- Monster_008.png
+4 p- Monster_009.png
+8 p- Monster_010.png
+C56
+2 p- Monster_011.png
+2 p- Monster_012.png
+24 p- Monster_013.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C57
+2 p- Monster_014.png
+C0C                                     #Critical hit
+C21                                     #Play hit SFE (sounds like Knight Lord with sword's hit)
+1 p- Monster_015.png
+C01                                     #NOP
+5 p- Monster_016.png
+3 p- Monster_017.png
+24 p- Monster_018.png
+2 p- Monster_008.png
+2 p- Monster_007.png
+2 p- Monster_006.png
+2 p- Monster_005.png
+C59
+2 p- Monster_004.png
+2 p- Monster_003.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+2 p- Monster_002.png
+2 p- Monster_001.png
+1 p- Monster_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+1 p- Monster_000.png
+2 p- Monster_022.png
+2 p- Monster_023.png
+1 p- Monster_024.png
+C05                                     #Call spell associated with equipped weapon
+1 p- Monster_024.png
+C01                                     #NOP
+1 p- Monster_023.png
+1 p- Monster_022.png
+1 p- Monster_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+1 p- Monster_000.png
+1 p- Monster_000.png
+3 p- Monster_019.png
+C58
+4 p- Monster_020.png
+4 p- Monster_021.png
+4 p- Monster_020.png
+4 p- Monster_021.png
+4 p- Monster_020.png
+4 p- Monster_021.png
+4 p- Monster_020.png
+4 p- Monster_021.png
+C59
+1 p- Monster_000.png
+2 p- Monster_022.png
+2 p- Monster_023.png
+1 p- Monster_024.png
+C05                                     #Call spell associated with equipped weapon
+1 p- Monster_024.png
+C01                                     #NOP
+1 p- Monster_023.png
+1 p- Monster_022.png
+1 p- Monster_000.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Monster
+C02                                     #Start of dodge
+1 p- Monster_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Monster_025.png
+1 p- Monster_026.png
+C01                                     #NOP
+3 p- Monster_025.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Monster
+C02                                     #Start of dodge
+1 p- Monster_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Monster_025.png
+1 p- Monster_026.png
+C01                                     #NOP
+3 p- Monster_025.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Monster_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #standing motions?
+1 p- Monster_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Monster_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Monster Missed Animation
+C03                                     #Start Monster animation; should be followed by 0x07
+C07                                     #Start Monster animation; should be preceeded by 0x03
+C59
+1 p- Monster_000.png
+3 p- Monster_001.png
+3 p- Monster_002.png
+3 p- Monster_003.png
+C59
+3 p- Monster_004.png
+3 p- Monster_005.png
+3 p- Monster_006.png
+C59
+3 p- Monster_007.png
+3 p- Monster_008.png
+3 p- Monster_009.png
+12 p- Monster_010.png
+C56
+2 p- Monster_011.png
+2 p- Monster_012.png
+18 p- Monster_013.png
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C57
+2 p- Monster_027.png
+1 p- Monster_028.png
+C01                                     #NOP
+4 p- Monster_012.png
+12 p- Monster_013.png
+4 p- Monster_016.png
+3 p- Monster_017.png
+24 p- Monster_018.png
+2 p- Monster_007.png
+2 p- Monster_006.png
+2 p- Monster_005.png
+C59
+2 p- Monster_004.png
+2 p- Monster_003.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+2 p- Monster_002.png
+2 p- Monster_002.png
+1 p- Monster_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

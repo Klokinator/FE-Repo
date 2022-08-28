@@ -1,0 +1,129 @@
+#######################################################
+#04 lorf_sw1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+4 p- Transform_000.png
+4 p- Transform_001.png
+4 p- Transform_002.png
+4 p- Transform_003.png
+4 p- Transform_004.png
+4 p- Transform_005.png
+4 p- Transform_006.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+SE8                               #Sound 232  [Empty Track]
+7 p- Transform_007.png
+5 p- Transform_008.png
+5 p- Transform_009.png
+5 p- Transform_010.png
+5 p- Transform_011.png
+4 p- Transform_012.png
+5 p- Transform_013.png
+5 p- Transform_014.png
+4 p- Transform_012.png
+5 p- Transform_013.png
+5 p- Transform_014.png
+4 p- Transform_015.png
+4 p- Transform_016.png
+3 p- Transform_017.png
+C15                               #Slight vibration of screen
+6 p- Transform_018.png
+1 p- Transform_019.png
+C14                               #Heavy vibration of screen
+2 p- Transform_019.png
+5 p- Transform_019.png
+C14                               #Heavy vibration of screen
+5 p- Transform_020.png
+6 p- Transform_020.png
+2 p- Transform_020.png
+3 p- Transform_020.png
+8 p- Transform_020.png
+SE6                               #Sound 230 SE:Mamkute transform growl
+24 p- Transform_020.png
+3 p- Transform_020.png
+20 p- Transform_020.png
+14 p- Transform_020.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Transform_007.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+3 p- Transform_007.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+5 p- Transform_007.png
+C05                               #Call spell associated with equipped weapon
+4 p- Transform_007.png
+C01                               #NOP
+4 p- Transform_007.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+25 p- Transform_017.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+5 p- Transform_017.png
+C05                               #Call spell associated with equipped weapon
+4 p- Transform_017.png
+C01                               #NOP
+4 p- Transform_017.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Transform_017.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+2 p- Transform_017.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Transform_017.png
+C01                               #NOP
+2 p- Transform_017.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Transform_017.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+2 p- Transform_017.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Transform_017.png
+C01                               #NOP
+2 p- Transform_017.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Transform_017.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+3 p- Transform_017.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+3 p- Transform_017.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+3 p- Transform_017.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Transform_017.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+3 p- Transform_017.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

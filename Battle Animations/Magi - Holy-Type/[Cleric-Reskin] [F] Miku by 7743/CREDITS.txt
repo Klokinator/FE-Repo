@@ -1,0 +1,12 @@
+Author: 7743
+
+Base1: [Cleric-Base] [F] Vanilla FE7 Serra +Sword
+
+Vanilla animation by IS.
+
+Sword animations both added by Maiser6 and Raiden.
+
+
+Base2: Staff rotate [FE13-Custom] [F] War Cleric by DerTheVaporeon
+
+Leo_link, Iscaneus, DerTheVaporeon

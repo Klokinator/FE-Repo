@@ -1,0 +1,237 @@
+/// - Mode 1
+C03
+C07
+1 p- helm_ax1_000.png
+4 p- helm_ax1_001.png
+4 p- helm_ax1_002.png
+3 p- helm_ax1_003.png
+C36
+4 p- helm_ax1_004.png
+4 p- helm_ax1_005.png
+2 p- helm_ax1_006.png
+2 p- helm_ax1_007.png
+1 p- helm_ax1_008.png
+2 p- helm_ax1_009.png
+2 p- helm_ax1_010.png
+2 p- helm_ax1_011.png
+2 p- helm_ax1_012.png
+2 p- helm_ax1_013.png
+2 p- helm_ax1_014.png
+2 p- helm_ax1_015.png
+2 p- helm_ax1_016.png
+C24
+2 p- helm_ax1_017.png
+C04
+2 p- helm_ax1_018.png
+C1A
+C20
+2 p- helm_ax1_019.png
+2 p- helm_ax1_020.png
+2 p- helm_ax1_021.png
+C01
+SC9
+2 p- helm_ax1_022.png
+3 p- helm_ax1_023.png
+2 p- helm_ax1_024.png
+2 p- helm_ax1_025.png
+2 p- helm_ax1_026.png
+C34
+2 p- helm_ax1_027.png
+SCF
+2 p- helm_ax1_028.png
+2 p- helm_ax1_029.png
+2 p- helm_ax1_030.png
+1 p- helm_ax1_031.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+3 p- helm_ax1_032.png
+3 p- helm_ax1_033.png
+3 p- helm_ax1_034.png
+3 p- helm_ax1_035.png
+3 p- helm_ax1_036.png
+3 p- helm_ax1_037.png
+3 p- helm_ax1_038.png
+3 p- helm_ax1_039.png
+3 p- helm_ax1_040.png
+3 p- helm_ax1_041.png
+3 p- helm_ax1_042.png
+3 p- helm_ax1_043.png
+3 p- helm_ax1_044.png
+C36
+3 p- helm_ax1_045.png
+3 p- helm_ax1_046.png
+3 p- helm_ax1_047.png
+3 p- helm_ax1_048.png
+3 p- helm_ax1_049.png
+3 p- helm_ax1_050.png
+3 p- helm_ax1_051.png
+3 p- helm_ax1_052.png
+C04
+3 p- helm_ax1_053.png
+3 p- helm_ax1_054.png
+3 p- helm_ax1_055.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+C08
+C20
+3 p- helm_ax1_058.png
+C21
+3 p- helm_ax1_059.png
+3 p- helm_ax1_060.png
+3 p- helm_ax1_061.png
+3 p- helm_ax1_062.png
+3 p- helm_ax1_063.png
+3 p- helm_ax1_064.png
+3 p- helm_ax1_065.png
+3 p- helm_ax1_066.png
+3 p- helm_ax1_067.png
+3 p- helm_ax1_068.png
+3 p- helm_ax1_069.png
+3 p- helm_ax1_070.png
+3 p- helm_ax1_071.png
+3 p- helm_ax1_072.png
+3 p- helm_ax1_073.png
+3 p- helm_ax1_074.png
+3 p- helm_ax1_075.png
+3 p- helm_ax1_076.png
+3 p- helm_ax1_077.png
+3 p- helm_ax1_078.png
+3 p- helm_ax1_079.png
+3 p- helm_ax1_080.png
+3 p- helm_ax1_081.png
+3 p- helm_ax1_082.png
+3 p- helm_ax1_083.png
+3 p- helm_ax1_084.png
+3 p- helm_ax1_085.png
+3 p- helm_ax1_086.png
+3 p- helm_ax1_087.png
+3 p- helm_ax1_088.png
+3 p- helm_ax1_089.png
+SCF
+3 p- helm_ax1_090.png
+3 p- helm_ax1_091.png
+3 p- helm_ax1_092.png
+C01
+3 p- helm_ax1_093.png
+C06
+1 p- helm_ax1_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- helm_ax1_000.png
+C36
+1 p- helm_ax1_094.png
+C05
+1 p- helm_ax1_095.png
+C01
+1 p- helm_ax1_094.png
+SCF
+1 p- helm_ax1_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- helm_ax1_000.png
+C36
+1 p- helm_ax1_094.png
+3 p- helm_ax1_095.png
+C40
+3 p- helm_ax1_096.png
+3 p- helm_ax1_095.png
+3 p- helm_ax1_097.png
+3 p- helm_ax1_095.png
+3 p- helm_ax1_096.png
+3 p- helm_ax1_095.png
+3 p- helm_ax1_097.png
+3 p- helm_ax1_095.png
+3 p- helm_ax1_096.png
+C05
+2 p- helm_ax1_098.png
+C01
+SCF
+1 p- helm_ax1_094.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- helm_ax1_000.png
+C0E
+3 p- helm_ax1_099.png
+C01
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- helm_ax1_000.png
+C0E
+3 p- helm_ax1_099.png
+C01
+C0D
+~~~
+/// - Mode 9
+1 p- helm_ax1_000.png
+C01
+~~~
+/// - Mode 10
+1 p- helm_ax1_000.png
+C01
+~~~
+/// - Mode 11
+1 p- helm_ax1_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- helm_ax1_000.png
+4 p- helm_ax1_001.png
+4 p- helm_ax1_002.png
+3 p- helm_ax1_003.png
+C36
+4 p- helm_ax1_004.png
+4 p- helm_ax1_005.png
+2 p- helm_ax1_006.png
+2 p- helm_ax1_007.png
+1 p- helm_ax1_008.png
+2 p- helm_ax1_009.png
+2 p- helm_ax1_010.png
+2 p- helm_ax1_011.png
+2 p- helm_ax1_012.png
+2 p- helm_ax1_013.png
+2 p- helm_ax1_014.png
+2 p- helm_ax1_015.png
+2 p- helm_ax1_016.png
+C24
+2 p- helm_ax1_017.png
+C04
+2 p- helm_ax1_100.png
+2 p- helm_ax1_101.png
+2 p- helm_ax1_020.png
+2 p- helm_ax1_021.png
+C01
+SC9
+2 p- helm_ax1_022.png
+3 p- helm_ax1_023.png
+2 p- helm_ax1_024.png
+2 p- helm_ax1_025.png
+2 p- helm_ax1_026.png
+C34
+2 p- helm_ax1_027.png
+SCF
+2 p- helm_ax1_028.png
+2 p- helm_ax1_029.png
+2 p- helm_ax1_030.png
+C06
+1 p- helm_ax1_031.png
+C0D
+~~~
+/// - End of animation

@@ -1,0 +1,594 @@
+#######################################################
+#07 helm_ax1 Lord Axe
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+2 p- helm_ax1_001.png
+1 p- helm_ax1_002.png
+1 p- helm_ax1_003.png
+2 p- helm_ax1_004.png
+C36                               #Play sword unsheathing SFE
+2 p- helm_ax1_005.png
+4 p- helm_ax1_006.png
+2 p- helm_ax1_007.png
+3 p- helm_ax1_007.png
+1 p- helm_ax1_008.png
+1 p- helm_ax1_009.png
+1 p- helm_ax1_010.png
+1 p- helm_ax1_011.png
+1 p- helm_ax1_012.png
+1 p- helm_ax1_013.png
+5 p- helm_ax1_014.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_015.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- helm_ax1_016.png
+1 p- helm_ax1_017.png
+C01                               #NOP
+1 p- helm_ax1_018.png
+4 p- helm_ax1_019.png
+2 p- helm_ax1_020.png
+C15                               #Slight vibration of screen
+1 p- helm_ax1_021.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+C37                               #Play sword clicking SFE
+3 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+1 p- helm_ax1_031.png
+2 p- helm_ax1_032.png
+2 p- helm_ax1_033.png
+1 p- helm_ax1_034.png
+1 p- helm_ax1_035.png
+1 p- helm_ax1_036.png
+1 p- helm_ax1_037.png
+1 p- helm_ax1_038.png
+1 p- helm_ax1_039.png
+1 p- helm_ax1_040.png
+1 p- helm_ax1_041.png
+2 p- helm_ax1_042.png
+1 p- helm_ax1_043.png
+2 p- helm_ax1_044.png
+1 p- helm_ax1_045.png
+1 p- helm_ax1_046.png
+1 p- helm_ax1_047.png
+1 p- helm_ax1_048.png
+1 p- helm_ax1_049.png
+C34                               #Play heavy stepping SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_050.png
+2 p- helm_ax1_051.png
+2 p- helm_ax1_051.png
+4 p- helm_ax1_052.png
+2 p- helm_ax1_053.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- helm_ax1_054.png
+1 p- helm_ax1_055.png
+2 p- helm_ax1_056.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+S0119                               #Sound 281 SE:Thunderstorm sparks
+2 p- helm_ax1_057.png
+2 p- helm_ax1_058.png
+2 p- helm_ax1_059.png
+2 p- helm_ax1_060.png
+2 p- helm_ax1_061.png
+2 p- helm_ax1_062.png
+2 p- helm_ax1_063.png
+2 p- helm_ax1_064.png
+2 p- helm_ax1_065.png
+2 p- helm_ax1_066.png
+2 p- helm_ax1_067.png
+2 p- helm_ax1_068.png
+2 p- helm_ax1_069.png
+2 p- helm_ax1_070.png
+2 p- helm_ax1_071.png
+2 p- helm_ax1_072.png
+2 p- helm_ax1_073.png
+3 p- helm_ax1_074.png
+3 p- helm_ax1_075.png
+2 p- helm_ax1_076.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_077.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+1 p- helm_ax1_078.png
+1 p- helm_ax1_079.png
+1 p- helm_ax1_080.png
+2 p- helm_ax1_081.png
+3 p- helm_ax1_082.png
+2 p- helm_ax1_083.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+SA2                               #Sound 162 SE:Armour walk 3
+3 p- helm_ax1_085.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_086.png
+C15                               #Slight vibration of screen
+3 p- helm_ax1_087.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_088.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_089.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_085.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_091.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_092.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_084.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_090.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_091.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_093.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_094.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_095.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_096.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_097.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_094.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_098.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_090.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_099.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_100.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_098.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_101.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_099.png
+SA3                               #Sound 163 SE:Armour walk 4
+3 p- helm_ax1_102.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_103.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+SA2                               #Sound 162 SE:Armour walk 3
+3 p- helm_ax1_085.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_086.png
+C15                               #Slight vibration of screen
+3 p- helm_ax1_087.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_088.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_089.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_085.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_091.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_092.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_084.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_090.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_091.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_093.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_094.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_095.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_096.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_097.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_094.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_098.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_090.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_099.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_100.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_098.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_101.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+SA2                               #Sound 162 SE:Armour walk 3
+3 p- helm_ax1_085.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_086.png
+C15                               #Slight vibration of screen
+3 p- helm_ax1_087.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_088.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_089.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_085.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_091.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_092.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_084.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_090.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_091.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_093.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_094.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_095.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_096.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_097.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_094.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_098.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_090.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_099.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_100.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_098.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_101.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_099.png
+SA3                               #Sound 163 SE:Armour walk 4
+3 p- helm_ax1_102.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_103.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+SA2                               #Sound 162 SE:Armour walk 3
+3 p- helm_ax1_085.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_086.png
+C15                               #Slight vibration of screen
+3 p- helm_ax1_087.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_088.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_089.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_085.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_091.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_092.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_084.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_090.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_091.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_093.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_094.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_095.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_096.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C15                               #Slight vibration of screen
+2 p- helm_ax1_097.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_094.png
+SA2                               #Sound 162 SE:Armour walk 3
+2 p- helm_ax1_098.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_090.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_099.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_100.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_098.png
+SA3                               #Sound 163 SE:Armour walk 4
+2 p- helm_ax1_101.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_090.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_099.png
+SA3                               #Sound 163 SE:Armour walk 4
+20 p- helm_ax1_102.png
+SA4                               #Sound 164 SE:Armour walk 5
+2 p- helm_ax1_098.png
+C08                               #Critical hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+2 p- helm_ax1_104.png
+C01                               #NOP
+2 p- helm_ax1_105.png
+2 p- helm_ax1_106.png
+2 p- helm_ax1_107.png
+2 p- helm_ax1_108.png
+2 p- helm_ax1_109.png
+2 p- helm_ax1_110.png
+4 p- helm_ax1_111.png
+C15                               #Slight vibration of screen
+3 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+C37                               #Play sword clicking SFE
+3 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+1 p- helm_ax1_031.png
+2 p- helm_ax1_032.png
+2 p- helm_ax1_033.png
+1 p- helm_ax1_034.png
+1 p- helm_ax1_035.png
+1 p- helm_ax1_036.png
+1 p- helm_ax1_037.png
+1 p- helm_ax1_038.png
+1 p- helm_ax1_039.png
+1 p- helm_ax1_040.png
+1 p- helm_ax1_041.png
+2 p- helm_ax1_042.png
+1 p- helm_ax1_043.png
+2 p- helm_ax1_044.png
+1 p- helm_ax1_045.png
+1 p- helm_ax1_046.png
+1 p- helm_ax1_047.png
+1 p- helm_ax1_048.png
+1 p- helm_ax1_049.png
+C34                               #Play heavy stepping SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_050.png
+2 p- helm_ax1_051.png
+2 p- helm_ax1_051.png
+4 p- helm_ax1_052.png
+2 p- helm_ax1_053.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- helm_ax1_054.png
+1 p- helm_ax1_055.png
+2 p- helm_ax1_056.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+3 p- helm_ax1_112.png
+4 p- helm_ax1_113.png
+16 p- helm_ax1_114.png
+2 p- helm_ax1_005.png
+3 p- helm_ax1_015.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- helm_ax1_115.png
+3 p- helm_ax1_116.png
+4 p- helm_ax1_117.png
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C05                               #Call spell associated with equipped weapon
+3 p- helm_ax1_118.png
+4 p- helm_ax1_119.png
+C01                               #NOP
+4 p- helm_ax1_120.png
+C22                               #Play short sword swinging SFE
+2 p- helm_ax1_077.png
+4 p- helm_ax1_052.png
+4 p- helm_ax1_053.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- helm_ax1_054.png
+4 p- helm_ax1_055.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+3 p- helm_ax1_112.png
+C22                               #Play short sword swinging SFE
+4 p- helm_ax1_113.png
+1 p- helm_ax1_114.png
+S0119                               #Sound 281 SE:Thunderstorm sparks
+37 p- helm_ax1_113.png
+2 p- helm_ax1_114.png
+2 p- helm_ax1_113.png
+3 p- helm_ax1_114.png
+2 p- helm_ax1_113.png
+2 p- helm_ax1_114.png
+22 p- helm_ax1_113.png
+2 p- helm_ax1_005.png
+3 p- helm_ax1_015.png
+C15                               #Slight vibration of screen
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- helm_ax1_115.png
+3 p- helm_ax1_116.png
+4 p- helm_ax1_117.png
+C15                               #Slight vibration of screen
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- helm_ax1_118.png
+3 p- helm_ax1_119.png
+4 p- helm_ax1_120.png
+C15                               #Slight vibration of screen
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+3 p- helm_ax1_121.png
+3 p- helm_ax1_122.png
+4 p- helm_ax1_123.png
+C15                               #Slight vibration of screen
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- helm_ax1_124.png
+3 p- helm_ax1_125.png
+4 p- helm_ax1_126.png
+C15                               #Slight vibration of screen
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+3 p- helm_ax1_121.png
+C05                               #Call spell associated with equipped weapon
+3 p- helm_ax1_122.png
+C01                               #NOP
+4 p- helm_ax1_123.png
+2 p- helm_ax1_077.png
+C22                               #Play short sword swinging SFE
+4 p- helm_ax1_053.png
+4 p- helm_ax1_054.png
+4 p- helm_ax1_055.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- helm_ax1_056.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- helm_ax1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- helm_ax1_127.png
+1 p- helm_ax1_128.png
+C01                               #NOP
+3 p- helm_ax1_127.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
+1 p- helm_ax1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- helm_ax1_127.png
+1 p- helm_ax1_128.png
+C01                               #NOP
+3 p- helm_ax1_127.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+2 p- helm_ax1_001.png
+1 p- helm_ax1_002.png
+1 p- helm_ax1_003.png
+2 p- helm_ax1_004.png
+C36                               #Play sword unsheathing SFE
+2 p- helm_ax1_005.png
+4 p- helm_ax1_006.png
+2 p- helm_ax1_007.png
+3 p- helm_ax1_007.png
+1 p- helm_ax1_008.png
+1 p- helm_ax1_009.png
+1 p- helm_ax1_010.png
+1 p- helm_ax1_011.png
+1 p- helm_ax1_012.png
+1 p- helm_ax1_013.png
+5 p- helm_ax1_014.png
+C22                               #Play short sword swinging SFE
+3 p- helm_ax1_015.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+2 p- helm_ax1_129.png
+1 p- helm_ax1_130.png
+C01                               #NOP
+5 p- helm_ax1_131.png
+2 p- helm_ax1_020.png
+C15                               #Slight vibration of screen
+1 p- helm_ax1_021.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+C37                               #Play sword clicking SFE
+3 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+1 p- helm_ax1_031.png
+2 p- helm_ax1_032.png
+2 p- helm_ax1_033.png
+1 p- helm_ax1_034.png
+1 p- helm_ax1_035.png
+1 p- helm_ax1_036.png
+1 p- helm_ax1_037.png
+1 p- helm_ax1_038.png
+1 p- helm_ax1_039.png
+1 p- helm_ax1_040.png
+1 p- helm_ax1_041.png
+2 p- helm_ax1_042.png
+1 p- helm_ax1_043.png
+2 p- helm_ax1_044.png
+1 p- helm_ax1_045.png
+1 p- helm_ax1_046.png
+1 p- helm_ax1_047.png
+1 p- helm_ax1_048.png
+1 p- helm_ax1_049.png
+C34                               #Play heavy stepping SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_050.png
+2 p- helm_ax1_051.png
+2 p- helm_ax1_051.png
+4 p- helm_ax1_052.png
+2 p- helm_ax1_053.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- helm_ax1_054.png
+1 p- helm_ax1_055.png
+2 p- helm_ax1_056.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

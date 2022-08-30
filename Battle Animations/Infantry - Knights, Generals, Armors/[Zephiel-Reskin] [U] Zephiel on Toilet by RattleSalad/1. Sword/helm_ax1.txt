@@ -1,0 +1,637 @@
+#######################################################
+#07 helm_ax1 Lord Axe
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+6 p- helm_ax1_001.png
+2 p- helm_ax1_002.png
+2 p- helm_ax1_003.png
+2 p- helm_ax1_004.png
+3 p- helm_ax1_005.png
+3 p- helm_ax1_006.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C15                               #Slight vibration of screen
+32 p- helm_ax1_007.png
+C3D                               #FE7:Show Nergal's dark aura animation
+3 p- helm_ax1_006.png
+2 p- helm_ax1_008.png
+2 p- helm_ax1_009.png
+2 p- helm_ax1_010.png
+16 p- helm_ax1_011.png
+4 p- helm_ax1_012.png
+2 p- helm_ax1_013.png
+2 p- helm_ax1_014.png
+1 p- helm_ax1_015.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_016.png
+2 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+2 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+2 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_031.png
+1 p- helm_ax1_032.png
+1 p- helm_ax1_016.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_033.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_032.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_026.png
+C25                               #Play wing flap SFE
+2 p- helm_ax1_034.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+2 p- helm_ax1_035.png
+2 p- helm_ax1_036.png
+1 p- helm_ax1_037.png
+C01                               #NOP
+6 p- helm_ax1_037.png
+2 p- helm_ax1_038.png
+2 p- helm_ax1_039.png
+3 p- helm_ax1_040.png
+3 p- helm_ax1_041.png
+3 p- helm_ax1_042.png
+6 p- helm_ax1_043.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+6 p- helm_ax1_044.png
+12 p- helm_ax1_045.png
+6 p- helm_ax1_046.png
+4 p- helm_ax1_047.png
+4 p- helm_ax1_048.png
+4 p- helm_ax1_049.png
+C3D                               #FE7:Show Nergal's dark aura animation
+2 p- helm_ax1_050.png
+4 p- helm_ax1_051.png
+C15                               #Slight vibration of screen
+8 p- helm_ax1_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+2 p- helm_ax1_052.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+2 p- helm_ax1_053.png
+8 p- helm_ax1_054.png
+4 p- helm_ax1_055.png
+C39                               #Pauses the attacker, makes them flash white and makes the screen flash white Essentially makes it look as though the attacker was hit, but without blue sparks
+C43                               #Play weapon stance SFE (Clicking noise)
+C14                               #Heavy vibration of screen
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+4 p- helm_ax1_054.png
+2 p- helm_ax1_058.png
+2 p- helm_ax1_059.png
+2 p- helm_ax1_060.png
+2 p- helm_ax1_055.png
+C40                               #EMPTY
+2 p- helm_ax1_061.png
+2 p- helm_ax1_055.png
+2 p- helm_ax1_062.png
+2 p- helm_ax1_055.png
+2 p- helm_ax1_063.png
+4 p- helm_ax1_054.png
+2 p- helm_ax1_064.png
+2 p- helm_ax1_065.png
+2 p- helm_ax1_066.png
+2 p- helm_ax1_067.png
+4 p- helm_ax1_068.png
+C3D                               #FE7:Show Nergal's dark aura animation
+C15                               #Slight vibration of screen
+2 p- helm_ax1_069.png
+2 p- helm_ax1_070.png
+2 p- helm_ax1_071.png
+8 p- helm_ax1_072.png
+6 p- helm_ax1_073.png
+6 p- helm_ax1_074.png
+4 p- helm_ax1_075.png
+C38                               #Play heavy spear spinning SFE
+3 p- helm_ax1_076.png
+C15                               #Slight vibration of screen
+3 p- helm_ax1_077.png
+8 p- helm_ax1_078.png
+6 p- helm_ax1_079.png
+4 p- helm_ax1_080.png
+4 p- helm_ax1_081.png
+4 p- helm_ax1_082.png
+C23                               #Play shorter sword swinging SFE
+2 p- helm_ax1_083.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+20 p- helm_ax1_085.png
+C37                               #Play sword clicking SFE
+40 p- helm_ax1_086.png
+1 p- helm_ax1_087.png
+1 p- helm_ax1_088.png
+1 p- helm_ax1_089.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C15                               #Slight vibration of screen
+1 p- helm_ax1_090.png
+1 p- helm_ax1_091.png
+1 p- helm_ax1_092.png
+16 p- helm_ax1_093.png
+6 p- helm_ax1_094.png
+C43                               #Play weapon stance SFE (Clicking noise)
+4 p- helm_ax1_095.png
+3 p- helm_ax1_096.png
+3 p- helm_ax1_097.png
+4 p- helm_ax1_098.png
+2 p- helm_ax1_011.png
+2 p- helm_ax1_012.png
+1 p- helm_ax1_013.png
+1 p- helm_ax1_014.png
+1 p- helm_ax1_015.png
+C38                               #Play heavy spear spinning SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_016.png
+2 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+2 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+2 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_099.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_031.png
+1 p- helm_ax1_032.png
+1 p- helm_ax1_016.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_033.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_032.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_026.png
+C25                               #Play wing flap SFE
+2 p- helm_ax1_034.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C0C                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+1 p- helm_ax1_035.png
+1 p- helm_ax1_035.png
+1 p- helm_ax1_036.png
+1 p- helm_ax1_037.png
+1 p- helm_ax1_037.png
+1 p- helm_ax1_037.png
+C01                               #NOP
+6 p- helm_ax1_037.png
+2 p- helm_ax1_038.png
+2 p- helm_ax1_039.png
+3 p- helm_ax1_040.png
+3 p- helm_ax1_041.png
+3 p- helm_ax1_042.png
+6 p- helm_ax1_043.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+6 p- helm_ax1_044.png
+12 p- helm_ax1_045.png
+6 p- helm_ax1_046.png
+4 p- helm_ax1_047.png
+4 p- helm_ax1_048.png
+4 p- helm_ax1_049.png
+C3D                               #FE7:Show Nergal's dark aura animation
+2 p- helm_ax1_050.png
+4 p- helm_ax1_051.png
+C15                               #Slight vibration of screen
+8 p- helm_ax1_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+6 p- helm_ax1_001.png
+2 p- helm_ax1_002.png
+2 p- helm_ax1_003.png
+2 p- helm_ax1_004.png
+3 p- helm_ax1_005.png
+3 p- helm_ax1_006.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C15                               #Slight vibration of screen
+32 p- helm_ax1_007.png
+C3D                               #FE7:Show Nergal's dark aura animation
+3 p- helm_ax1_006.png
+2 p- helm_ax1_008.png
+2 p- helm_ax1_009.png
+2 p- helm_ax1_010.png
+16 p- helm_ax1_011.png
+4 p- helm_ax1_012.png
+2 p- helm_ax1_013.png
+2 p- helm_ax1_014.png
+1 p- helm_ax1_015.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_016.png
+2 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+2 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+2 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_031.png
+1 p- helm_ax1_032.png
+1 p- helm_ax1_016.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_033.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_032.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_026.png
+C25                               #Play wing flap SFE
+2 p- helm_ax1_100.png
+C05                               #Call spell associated with equipped weapon
+1 p- helm_ax1_101.png
+1 p- helm_ax1_101.png
+1 p- helm_ax1_102.png
+1 p- helm_ax1_102.png
+1 p- helm_ax1_102.png
+1 p- helm_ax1_103.png
+C01                               #NOP
+20 p- helm_ax1_103.png
+3 p- helm_ax1_040.png
+3 p- helm_ax1_041.png
+8 p- helm_ax1_042.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+6 p- helm_ax1_044.png
+12 p- helm_ax1_045.png
+6 p- helm_ax1_046.png
+4 p- helm_ax1_047.png
+4 p- helm_ax1_048.png
+4 p- helm_ax1_049.png
+C3D                               #FE7:Show Nergal's dark aura animation
+2 p- helm_ax1_050.png
+4 p- helm_ax1_051.png
+C15                               #Slight vibration of screen
+8 p- helm_ax1_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+2 p- helm_ax1_052.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+2 p- helm_ax1_053.png
+8 p- helm_ax1_054.png
+4 p- helm_ax1_055.png
+C39                               #Pauses the attacker, makes them flash white and makes the screen flash white Essentially makes it look as though the attacker was hit, but without blue sparks
+C43                               #Play weapon stance SFE (Clicking noise)
+C14                               #Heavy vibration of screen
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+3 p- helm_ax1_056.png
+3 p- helm_ax1_057.png
+4 p- helm_ax1_054.png
+2 p- helm_ax1_058.png
+2 p- helm_ax1_059.png
+2 p- helm_ax1_060.png
+2 p- helm_ax1_055.png
+C40                               #EMPTY
+2 p- helm_ax1_061.png
+2 p- helm_ax1_055.png
+2 p- helm_ax1_062.png
+2 p- helm_ax1_055.png
+2 p- helm_ax1_063.png
+4 p- helm_ax1_054.png
+2 p- helm_ax1_064.png
+2 p- helm_ax1_065.png
+2 p- helm_ax1_066.png
+2 p- helm_ax1_067.png
+4 p- helm_ax1_068.png
+C3D                               #FE7:Show Nergal's dark aura animation
+2 p- helm_ax1_050.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_069.png
+2 p- helm_ax1_070.png
+2 p- helm_ax1_071.png
+8 p- helm_ax1_072.png
+6 p- helm_ax1_073.png
+6 p- helm_ax1_074.png
+4 p- helm_ax1_075.png
+C38                               #Play heavy spear spinning SFE
+3 p- helm_ax1_076.png
+C15                               #Slight vibration of screen
+3 p- helm_ax1_077.png
+8 p- helm_ax1_078.png
+6 p- helm_ax1_079.png
+4 p- helm_ax1_080.png
+4 p- helm_ax1_081.png
+4 p- helm_ax1_082.png
+C23                               #Play shorter sword swinging SFE
+2 p- helm_ax1_083.png
+C15                               #Slight vibration of screen
+2 p- helm_ax1_084.png
+20 p- helm_ax1_085.png
+C37                               #Play sword clicking SFE
+40 p- helm_ax1_086.png
+1 p- helm_ax1_087.png
+1 p- helm_ax1_088.png
+1 p- helm_ax1_089.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C15                               #Slight vibration of screen
+1 p- helm_ax1_090.png
+1 p- helm_ax1_091.png
+1 p- helm_ax1_092.png
+16 p- helm_ax1_093.png
+6 p- helm_ax1_094.png
+C43                               #Play weapon stance SFE (Clicking noise)
+4 p- helm_ax1_095.png
+3 p- helm_ax1_096.png
+3 p- helm_ax1_097.png
+4 p- helm_ax1_098.png
+2 p- helm_ax1_011.png
+2 p- helm_ax1_012.png
+1 p- helm_ax1_013.png
+1 p- helm_ax1_014.png
+1 p- helm_ax1_015.png
+C38                               #Play heavy spear spinning SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_016.png
+2 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+2 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+2 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_031.png
+1 p- helm_ax1_032.png
+1 p- helm_ax1_016.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_033.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+C15                               #Slight vibration of screen
+1 p- helm_ax1_032.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_026.png
+C25                               #Play wing flap SFE
+2 p- helm_ax1_100.png
+C05                               #Call spell associated with equipped weapon
+1 p- helm_ax1_101.png
+1 p- helm_ax1_101.png
+1 p- helm_ax1_102.png
+1 p- helm_ax1_102.png
+1 p- helm_ax1_102.png
+1 p- helm_ax1_103.png
+C01                               #NOP
+20 p- helm_ax1_103.png
+3 p- helm_ax1_040.png
+3 p- helm_ax1_041.png
+8 p- helm_ax1_042.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+6 p- helm_ax1_044.png
+12 p- helm_ax1_045.png
+6 p- helm_ax1_046.png
+4 p- helm_ax1_047.png
+4 p- helm_ax1_048.png
+4 p- helm_ax1_049.png
+C3D                               #FE7:Show Nergal's dark aura animation
+2 p- helm_ax1_050.png
+4 p- helm_ax1_051.png
+C15                               #Slight vibration of screen
+8 p- helm_ax1_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- helm_ax1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- helm_ax1_104.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+1 p- helm_ax1_105.png
+C01                               #NOP
+4 p- helm_ax1_104.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- helm_ax1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- helm_ax1_104.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+1 p- helm_ax1_105.png
+C01                               #NOP
+4 p- helm_ax1_104.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- helm_ax1_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- helm_ax1_000.png
+6 p- helm_ax1_001.png
+2 p- helm_ax1_002.png
+2 p- helm_ax1_003.png
+2 p- helm_ax1_004.png
+3 p- helm_ax1_005.png
+3 p- helm_ax1_006.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C15                               #Slight vibration of screen
+20 p- helm_ax1_007.png
+6 p- helm_ax1_106.png
+4 p- helm_ax1_107.png
+C3D                               #FE7:Show Nergal's dark aura animation
+3 p- helm_ax1_006.png
+2 p- helm_ax1_008.png
+2 p- helm_ax1_009.png
+2 p- helm_ax1_010.png
+16 p- helm_ax1_011.png
+4 p- helm_ax1_012.png
+2 p- helm_ax1_013.png
+2 p- helm_ax1_014.png
+1 p- helm_ax1_015.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_016.png
+2 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+2 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+2 p- helm_ax1_022.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_027.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_029.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_031.png
+1 p- helm_ax1_032.png
+1 p- helm_ax1_016.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_019.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_021.png
+1 p- helm_ax1_023.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_025.png
+1 p- helm_ax1_026.png
+1 p- helm_ax1_028.png
+1 p- helm_ax1_030.png
+C38                               #Play heavy spear spinning SFE
+1 p- helm_ax1_032.png
+1 p- helm_ax1_017.png
+1 p- helm_ax1_018.png
+1 p- helm_ax1_020.png
+1 p- helm_ax1_022.png
+1 p- helm_ax1_024.png
+1 p- helm_ax1_026.png
+C25                               #Play wing flap SFE
+2 p- helm_ax1_100.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+2 p- helm_ax1_101.png
+2 p- helm_ax1_108.png
+1 p- helm_ax1_103.png
+C01                               #NOP
+20 p- helm_ax1_103.png
+3 p- helm_ax1_040.png
+3 p- helm_ax1_041.png
+8 p- helm_ax1_042.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+6 p- helm_ax1_044.png
+12 p- helm_ax1_045.png
+6 p- helm_ax1_046.png
+4 p- helm_ax1_047.png
+4 p- helm_ax1_048.png
+4 p- helm_ax1_049.png
+C3D                               #FE7:Show Nergal's dark aura animation
+2 p- helm_ax1_050.png
+4 p- helm_ax1_051.png
+C15                               #Slight vibration of screen
+8 p- helm_ax1_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

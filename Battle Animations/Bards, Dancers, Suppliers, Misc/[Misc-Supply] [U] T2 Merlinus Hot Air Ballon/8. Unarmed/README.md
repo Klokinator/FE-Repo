@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Knabepicer.
+
+Magic by 7743.

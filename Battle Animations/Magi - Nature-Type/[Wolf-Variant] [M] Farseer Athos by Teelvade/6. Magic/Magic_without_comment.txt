@@ -1,0 +1,147 @@
+/// - Mode 1
+C03
+C07
+1 p- Magic_000.png
+3 p- Magic_001.png
+30 p- Magic_002.png
+C4B
+1 p- Magic_003.png
+1 p- Magic_004.png
+1 p- Magic_027.png
+1 p- Magic_028.png
+20 p- Magic_002.png
+3 p- Magic_029.png
+C05
+L
+2 p- Magic_030.png
+2 p- Magic_031.png
+C01
+3 p- Magic_032.png
+3 p- Magic_033.png
+1 p- Magic_034.png
+C06
+4 p- Magic_035.png
+C0D
+~~~
+/// - Mode 3
+C4B
+1 p- Magic_003.png
+1 p- Magic_004.png
+1 p- Magic_027.png
+1 p- Magic_028.png
+20 p- Magic_002.png
+3 p- Magic_029.png
+C05
+L
+2 p- Magic_030.png
+2 p- Magic_031.png
+C01
+3 p- Magic_032.png
+3 p- Magic_033.png
+1 p- Magic_034.png
+C06
+4 p- Magic_035.png
+C0D
+~~~
+/// - Mode 5
+C03
+1 p- Magic_000.png
+3 p- Magic_001.png
+30 p- Magic_002.png
+C4B
+1 p- Magic_003.png
+1 p- Magic_004.png
+1 p- Magic_027.png
+1 p- Magic_028.png
+20 p- Magic_002.png
+3 p- Magic_029.png
+C05
+L
+2 p- Magic_030.png
+2 p- Magic_031.png
+C01
+3 p- Magic_032.png
+3 p- Magic_033.png
+1 p- Magic_034.png
+C06
+4 p- Magic_035.png
+C0D
+~~~
+/// - Mode 6
+C4B
+1 p- Magic_003.png
+1 p- Magic_004.png
+1 p- Magic_027.png
+1 p- Magic_028.png
+20 p- Magic_002.png
+3 p- Magic_029.png
+C05
+L
+2 p- Magic_030.png
+2 p- Magic_031.png
+C01
+3 p- Magic_032.png
+3 p- Magic_033.png
+1 p- Magic_034.png
+C06
+4 p- Magic_035.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Magic_000.png
+C0E
+3 p- Magic_050.png
+1 p- Magic_051.png
+C01
+3 p- Magic_050.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Magic_000.png
+C0E
+3 p- Magic_050.png
+1 p- Magic_051.png
+C01
+3 p- Magic_050.png
+C0D
+~~~
+/// - Mode 9
+1 p- Magic_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Magic_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Magic_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Magic_000.png
+3 p- Magic_001.png
+30 p- Magic_002.png
+C4B
+1 p- Magic_003.png
+1 p- Magic_004.png
+1 p- Magic_027.png
+1 p- Magic_028.png
+20 p- Magic_002.png
+3 p- Magic_029.png
+C05
+L
+2 p- Magic_030.png
+2 p- Magic_031.png
+C01
+3 p- Magic_032.png
+3 p- Magic_033.png
+1 p- Magic_034.png
+C06
+4 p- Magic_035.png
+C0D
+~~~
+/// - End of animation

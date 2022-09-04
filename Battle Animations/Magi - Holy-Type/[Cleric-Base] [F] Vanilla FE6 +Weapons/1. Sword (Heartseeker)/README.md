@@ -15,3 +15,7 @@ Sword (Heartseeker) by Maiser6, Raiden.
 Sword (Prayer) by Maiser6, Raiden.
 
 Magic by Jeorge_Reds.
+
+Repaletted by Furious
+
+Base Cleric Magic Crit by RiriK

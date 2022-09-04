@@ -1,3 +1,5 @@
-Axe Alt1 animation from the FE Graphics Repo (no idea who actually did that anim)
-Map sprite base by Siuloir
-Birdfolk modifications by An odd Dutch Introvert
+Axe Alt1 animation from the FE Graphics Repo (no idea who actually did that anim).
+
+Map sprite base by Siuloir.
+
+Birdfolk modifications by An odd Dutch Introvert.

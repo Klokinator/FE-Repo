@@ -8,6 +8,6 @@
 
 ## Credit
 
-Made by Red Bean. 
+[FE7 Lyn-Style] [F] Brave Lyn Nomad by RedBean.
 
-Scripted by Marlon0024.
+Updates and fixes by RiriK.

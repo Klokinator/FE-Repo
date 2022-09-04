@@ -1,3 +1,5 @@
 node_modules
 
 vim.exe.stackdump
+
+*.DS_Store

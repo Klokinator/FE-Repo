@@ -1,6 +1,6 @@
-![Altina {Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Altina%20%7BGarytop%7D.png "Altina {Garytop}.png")![Astrid {Quotedotlass, Ghostblade13}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Astrid%20(Quotedotlass,%20Ghostblade13).png "Astrid {Quotedotlass, Ghostblade13}.png")![Black Knight Front-Chibi {MeteorSR23}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20Front-Chibi%20%7BMeteorSR23%7D.png "Black Knight Front-Chibi {MeteorSR23}.png")![Black Knight Insertable {JiroPaiPai}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20Insertable%20(JiroPaiPai).png "Black Knight Insertable {JiroPaiPai}.png")![Black Knight Side-Chibi {MeteorSR23}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20Side-Chibi%20%7BMeteorSR23%7D.png "Black Knight Side-Chibi {MeteorSR23}.png")![Black Knight {Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20%7BGarytop%7D.png "Black Knight {Garytop}.png")![BlackKnight {JiroPaiPai}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/BlackKnight%20(JiroPaiPai).png "BlackKnight {JiroPaiPai}.png")![Boyd {Quotedlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Boyd%20(Quotedlass,%20Electric%20Serge).png "Boyd {Quotedlass, Electric Serge}.png")![Elincia {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Elincia%20(Atey).png "Elincia {Atey}.png")![Elincia {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Elincia%20(Quotedotlass,%20Electric%20Serge).png "Elincia {Quotedotlass, Electric Serge}.png")![Gatrie {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Gatrie%20(Quotedotlass,%20Electric%20Serge).png "Gatrie {Quotedotlass, Electric Serge}.png")![Greil {NickT}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Greil%20(NickT).png "Greil {NickT}.png")![Greil {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Greil%20(Quotedotlass,%20Electric%20Serge).png "Greil {Quotedotlass, Electric Serge}.png")![Haar {SilverFoxG}.bmp](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Haar%20(SilverFoxG).bmp "Haar {SilverFoxG}.bmp")![Ike {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20(Atey).png "Ike {Atey}.png")![Ike {based on ar by Kozaki}{Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20(based%20on%20ar%20by%20Kozaki)%7BGarytop%7D.png "Ike {based on ar by Kozaki}{Garytop}.png")![Ike {MarioKirby}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20(MarioKirby).png "Ike {MarioKirby}.png")![Ike Lord {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20Lord%20(Quotedotlass,%20Electric%20Serge).png "Ike Lord {Quotedotlass, Electric Serge}.png")![Ike Ranger {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20Ranger%20(Quotedotlass,%20Electric%20Serge).png "Ike Ranger {Quotedotlass, Electric Serge}.png")![Ilyana {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ilyana%20(Atey).png "Ilyana {Atey}.png")![Ilyana {Quoteddotlass, Ghostblade913}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ilyana%20%7BQuoteddotlass,%20Ghostblade913%7D.png "Ilyana {Quoteddotlass, Ghostblade913}.png")![Jill {canigetfrozen}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Jill%20(canigetfrozen).gif "Jill {canigetfrozen}.gif")![Lucia {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Lucia%20(Quotedotlass,%20Electric%20Serge).png "Lucia {Quotedotlass, Electric Serge}.png")![Lucia V2 {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Lucia%20V2%20(Quotedotlass,%20Electric%20Serge).png "Lucia V2 {Quotedotlass, Electric Serge}.png")![Mia {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Atey).png "Mia {Atey}.png")![Mia {Bizox}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Bizox).gif "Mia {Bizox}.gif")![Mia {Flavian Soldier} {Kanna}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Flavian%20Soldier)%20%7BKanna%7D.png "Mia {Flavian Soldier} {Kanna}.png")![Mia {Nickt}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Nickt).png "Mia {Nickt}.png")![Mia {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Quotedotlass,%20Electric%20Serge).png "Mia {Quotedotlass, Electric Serge}.png")![Mia FE4-style {Saxor}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20FE4-style%20(Saxor).png "Mia FE4-style {Saxor}.png")![Mia NES-Style {Frog}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20NES-Style%20%7BFrog%7D.png "Mia NES-Style {Frog}.png")![Mia Under Night Cosplay {Wasdye}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20Under%20Night%20Cosplay%20%7BWasdye%7D.png "Mia Under Night Cosplay {Wasdye}.png")![Mia {RedBean}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20%7BRedBean%7D.png "Mia {RedBean}.png")![Mia {Wasdye}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20%7BWasdye%7D.png "Mia {Wasdye}.png")![Mist {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mist%20(Quotedotlass,%20Electric%20Serge).png "Mist {Quotedotlass, Electric Serge}.png")![Oscar {canigetfrozen}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Oscar%20(canigetfrozen).gif "Oscar {canigetfrozen}.gif")![Oscar {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Oscar%20(Quotedotlass,%20Electric%20Serge).png "Oscar {Quotedotlass, Electric Serge}.png")![Petrine {Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Petrine%20%7BGarytop%7D.png "Petrine {Garytop}.png")![Quotedotlass's Assorted Tellius Characters v1 {Old}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Quotedotlass's%20Assorted%20Tellius%20Characters%20v1%20(Old).png "Quotedotlass's Assorted Tellius Characters v1 {Old}.png")![Quotedotlass's Assorted Tellius Mugs v2.1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Quotedotlass's%20Assorted%20Tellius%20Mugs%20v2.1.png "Quotedotlass's Assorted Tellius Mugs v2.1.png")![Quotedotlass's Assorted Tellius Mugs v2.2.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Quotedotlass's%20Assorted%20Tellius%20Mugs%20v2.2.png "Quotedotlass's Assorted Tellius Mugs v2.2.png")![Reyson {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Reyson%20(Atey).png "Reyson {Atey}.png")![Rhys {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Rhys%20(Quotedotlass,%20Electric%20Serge).png "Rhys {Quotedotlass, Electric Serge}.png")![Rhys v2 {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Rhys%20v2%20(Quotedotlass,%20Electric%20Serge).png "Rhys v2 {Quotedotlass, Electric Serge}.png")![Rolf {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Rolf%20(Quotedotlass,%20Electric%20Serge).png "Rolf {Quotedotlass, Electric Serge}.png")![Sanaki {MeatOfJustice}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sanaki%20(MeatOfJustice).png "Sanaki {MeatOfJustice}.png")![Sephiran {Atey, JeyTheCount}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sephiran%20(Atey,%20JeyTheCount).png "Sephiran {Atey, JeyTheCount}.png")![Sephiran {Wave}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sephiran%20(Wave).png "Sephiran {Wave}.png")![Shinon {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Shinon%20(Quotedotlass,%20Electric%20Serge).png "Shinon {Quotedotlass, Electric Serge}.png")![Shinon V2 {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Shinon%20V2%20(Quotedotlass,%20Electric%20Serge).png "Shinon V2 {Quotedotlass, Electric Serge}.png")![Soren {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Soren%20(Quotedotlass,%20Electric%20Serge).png "Soren {Quotedotlass, Electric Serge}.png")![Soren {Sme, Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Soren%20(Sme,%20Atey).png "Soren {Sme, Atey}.png")![Sothe {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sothe%20(Atey).png "Sothe {Atey}.png")![Stefan {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Stefan%20(Atey).png "Stefan {Atey}.png")![Stefan {QuoteDotLass, Mattiator}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Stefan%20%7BQuoteDotLass,%20Mattiator%7D.png "Stefan {QuoteDotLass, Mattiator}.png")![Titania {canigetfrozen}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Titania%20(canigetfrozen).gif "Titania {canigetfrozen}.gif")![Titania {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Titania%20(Quotedotlass,%20Electric%20Serge).png "Titania {Quotedotlass, Electric Serge}.png")![Titania {SomeDenseGuy}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Titania%20(SomeDenseGuy).png "Titania {SomeDenseGuy}.png")![Volke {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Volke%20(Atey).png "Volke {Atey}.png")
+![Altina {Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Altina%20%7BGarytop%7D.png "Altina {Garytop}.png")![Astrid {Quotedotlass, Ghostblade13}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Astrid%20(Quotedotlass,%20Ghostblade13).png "Astrid {Quotedotlass, Ghostblade13}.png")![Black Knight Front-Chibi {MeteorSR23}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20Front-Chibi%20%7BMeteorSR23%7D.png "Black Knight Front-Chibi {MeteorSR23}.png")![Black Knight Insertable {JiroPaiPai}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20Insertable%20(JiroPaiPai).png "Black Knight Insertable {JiroPaiPai}.png")![Black Knight Side-Chibi {MeteorSR23}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20Side-Chibi%20%7BMeteorSR23%7D.png "Black Knight Side-Chibi {MeteorSR23}.png")![Black Knight {Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Black%20Knight%20%7BGarytop%7D.png "Black Knight {Garytop}.png")![BlackKnight {JiroPaiPai}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/BlackKnight%20(JiroPaiPai).png "BlackKnight {JiroPaiPai}.png")![Boyd {Quotedlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Boyd%20(Quotedlass,%20Electric%20Serge).png "Boyd {Quotedlass, Electric Serge}.png")![Elincia {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Elincia%20(Atey).png "Elincia {Atey}.png")![Elincia {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Elincia%20(Quotedotlass,%20Electric%20Serge).png "Elincia {Quotedotlass, Electric Serge}.png")![Gatrie {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Gatrie%20(Quotedotlass,%20Electric%20Serge).png "Gatrie {Quotedotlass, Electric Serge}.png")![Greil {NickT}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Greil%20(NickT).png "Greil {NickT}.png")![Greil {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Greil%20(Quotedotlass,%20Electric%20Serge).png "Greil {Quotedotlass, Electric Serge}.png")![Haar {SilverFoxG}.bmp](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Haar%20(SilverFoxG).bmp "Haar {SilverFoxG}.bmp")![Ike {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20(Atey).png "Ike {Atey}.png")![Ike {based on ar by Kozaki}{Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20(based%20on%20ar%20by%20Kozaki)%7BGarytop%7D.png "Ike {based on ar by Kozaki}{Garytop}.png")![Ike {MarioKirby}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20(MarioKirby).png "Ike {MarioKirby}.png")![Ike Lord {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20Lord%20(Quotedotlass,%20Electric%20Serge).png "Ike Lord {Quotedotlass, Electric Serge}.png")![Ike Ranger {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ike%20Ranger%20(Quotedotlass,%20Electric%20Serge).png "Ike Ranger {Quotedotlass, Electric Serge}.png")![Ilyana {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ilyana%20(Atey).png "Ilyana {Atey}.png")![Ilyana {Quoteddotlass, Ghostblade913}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Ilyana%20%7BQuoteddotlass,%20Ghostblade913%7D.png "Ilyana {Quoteddotlass, Ghostblade913}.png")![Jill {canigetfrozen}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Jill%20(canigetfrozen).gif "Jill {canigetfrozen}.gif")![Lucia {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Lucia%20(Quotedotlass,%20Electric%20Serge).png "Lucia {Quotedotlass, Electric Serge}.png")![Lucia V2 {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Lucia%20V2%20(Quotedotlass,%20Electric%20Serge).png "Lucia V2 {Quotedotlass, Electric Serge}.png")![Mia {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Atey).png "Mia {Atey}.png")![Mia {Bizox}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Bizox).gif "Mia {Bizox}.gif")![Mia {Flavian Soldier} {Kanna}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Flavian%20Soldier)%20%7BKanna%7D.png "Mia {Flavian Soldier} {Kanna}.png")![Mia {Nickt}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Nickt).png "Mia {Nickt}.png")![Mia {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20(Quotedotlass,%20Electric%20Serge).png "Mia {Quotedotlass, Electric Serge}.png")![Mia FE4-style {Saxor}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20FE4-style%20(Saxor).png "Mia FE4-style {Saxor}.png")![Mia NES-Style {Frog}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20NES-Style%20%7BFrog%7D.png "Mia NES-Style {Frog}.png")![Mia Under Night Cosplay {Wasdye}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20Under%20Night%20Cosplay%20%7BWasdye%7D.png "Mia Under Night Cosplay {Wasdye}.png")![Mia {RedBean}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20%7BRedBean%7D.png "Mia {RedBean}.png")![Mia {Wasdye}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mia%20%7BWasdye%7D.png "Mia {Wasdye}.png")![Mist {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Mist%20(Quotedotlass,%20Electric%20Serge).png "Mist {Quotedotlass, Electric Serge}.png")![Oscar {canigetfrozen}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Oscar%20(canigetfrozen).gif "Oscar {canigetfrozen}.gif")![Oscar {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Oscar%20(Quotedotlass,%20Electric%20Serge).png "Oscar {Quotedotlass, Electric Serge}.png")![Petrine {Garytop}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Petrine%20%7BGarytop%7D.png "Petrine {Garytop}.png")![Quotedotlass's Assorted Tellius Characters v1 {Old}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Quotedotlass's%20Assorted%20Tellius%20Characters%20v1%20(Old).png "Quotedotlass's Assorted Tellius Characters v1 {Old}.png")![Quotedotlass's Assorted Tellius Mugs v2.1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Quotedotlass's%20Assorted%20Tellius%20Mugs%20v2.1.png "Quotedotlass's Assorted Tellius Mugs v2.1.png")![Quotedotlass's Assorted Tellius Mugs v2.2.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Quotedotlass's%20Assorted%20Tellius%20Mugs%20v2.2.png "Quotedotlass's Assorted Tellius Mugs v2.2.png")![Reyson {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Reyson%20(Atey).png "Reyson {Atey}.png")![Rhys {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Rhys%20(Quotedotlass,%20Electric%20Serge).png "Rhys {Quotedotlass, Electric Serge}.png")![Rhys v2 {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Rhys%20v2%20(Quotedotlass,%20Electric%20Serge).png "Rhys v2 {Quotedotlass, Electric Serge}.png")![Rolf {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Rolf%20(Quotedotlass,%20Electric%20Serge).png "Rolf {Quotedotlass, Electric Serge}.png")![Sanaki {MeatOfJustice}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sanaki%20(MeatOfJustice).png "Sanaki {MeatOfJustice}.png")![Sephiran {Atey, JeyTheCount}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sephiran%20(Atey,%20JeyTheCount).png "Sephiran {Atey, JeyTheCount}.png")![Sephiran {Wave}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sephiran%20(Wave).png "Sephiran {Wave}.png")![Shinon {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Shinon%20(Quotedotlass,%20Electric%20Serge).png "Shinon {Quotedotlass, Electric Serge}.png")![Shinon V2 {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Shinon%20V2%20(Quotedotlass,%20Electric%20Serge).png "Shinon V2 {Quotedotlass, Electric Serge}.png")![Soren {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Soren%20(Quotedotlass,%20Electric%20Serge).png "Soren {Quotedotlass, Electric Serge}.png")![Soren {Sme, Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Soren%20(Sme,%20Atey).png "Soren {Sme, Atey}.png")![Soren {Sme, Atey, Wasdye}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Soren%20(Sme,%20Atey,%20Wasdye).png "Soren {Sme, Atey, Wasdye}.png")![Sothe {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Sothe%20(Atey).png "Sothe {Atey}.png")![Stefan {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Stefan%20(Atey).png "Stefan {Atey}.png")![Stefan {QuoteDotLass, Mattiator}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Stefan%20%7BQuoteDotLass,%20Mattiator%7D.png "Stefan {QuoteDotLass, Mattiator}.png")![Titania {canigetfrozen}.gif](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Titania%20(canigetfrozen).gif "Titania {canigetfrozen}.gif")![Titania {Quotedotlass, Electric Serge}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Titania%20(Quotedotlass,%20Electric%20Serge).png "Titania {Quotedotlass, Electric Serge}.png")![Titania {SomeDenseGuy}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Titania%20(SomeDenseGuy).png "Titania {SomeDenseGuy}.png")![Volke {Atey}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Volke%20(Atey).png "Volke {Atey}.png")
 
-## [FE9 Vanilla Mugs (Full Portraits)](FE9%20Vanilla%20Mugs%20(Full%20Portraits))
+### [FE9 Vanilla Mugs (Full Portraits)](FE9%20Vanilla%20Mugs%20(Full%20Portraits))
 
 <details><summary>Click to expand!</summary>
 
@@ -14,13 +14,13 @@
 
 </details>
 
-## [FE9 Vanilla Mugs (Ingame Rips)](FE9%20Vanilla%20Mugs%20(Ingame%20Rips))
+### [FE9 Vanilla Mugs (Ingame Rips)](FE9%20Vanilla%20Mugs%20(Ingame%20Rips))
 
 <details><summary>Click to expand!</summary>
 
 
 
-## [Aimee](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Aimee)
+### [Aimee](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Aimee)
 
 <details><summary>Click to expand!</summary>
 
@@ -34,7 +34,7 @@
 
 </details>
 
-## [Aimee 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Aimee%202)
+### [Aimee 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Aimee%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -48,7 +48,7 @@
 
 </details>
 
-## [Armor Elincia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Armor%20Elincia)
+### [Armor Elincia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Armor%20Elincia)
 
 <details><summary>Click to expand!</summary>
 
@@ -62,7 +62,7 @@
 
 </details>
 
-## [Armor Elincia 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Armor%20Elincia%202)
+### [Armor Elincia 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Armor%20Elincia%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -76,7 +76,7 @@
 
 </details>
 
-## [Ashnard](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ashnard)
+### [Ashnard](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ashnard)
 
 <details><summary>Click to expand!</summary>
 
@@ -90,7 +90,7 @@
 
 </details>
 
-## [Astrid](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Astrid)
+### [Astrid](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Astrid)
 
 <details><summary>Click to expand!</summary>
 
@@ -104,7 +104,7 @@
 
 </details>
 
-## [Bandit](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit)
+### [Bandit](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit)
 
 <details><summary>Click to expand!</summary>
 
@@ -118,7 +118,7 @@
 
 </details>
 
-## [Bandit 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%202)
+### [Bandit 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -132,7 +132,7 @@
 
 </details>
 
-## [Bandit 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%203)
+### [Bandit 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%203)
 
 <details><summary>Click to expand!</summary>
 
@@ -146,7 +146,7 @@
 
 </details>
 
-## [Bandit 4](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%204)
+### [Bandit 4](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%204)
 
 <details><summary>Click to expand!</summary>
 
@@ -160,7 +160,7 @@
 
 </details>
 
-## [Bandit 5](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%205)
+### [Bandit 5](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%205)
 
 <details><summary>Click to expand!</summary>
 
@@ -174,7 +174,7 @@
 
 </details>
 
-## [Bandit 6](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%206)
+### [Bandit 6](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%206)
 
 <details><summary>Click to expand!</summary>
 
@@ -188,7 +188,7 @@
 
 </details>
 
-## [Bandit 7](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%207)
+### [Bandit 7](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bandit%207)
 
 <details><summary>Click to expand!</summary>
 
@@ -202,7 +202,7 @@
 
 </details>
 
-## [Bastian](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bastian)
+### [Bastian](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bastian)
 
 <details><summary>Click to expand!</summary>
 
@@ -216,7 +216,7 @@
 
 </details>
 
-## [Begnion Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Begnion%20Soldier)
+### [Begnion Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Begnion%20Soldier)
 
 <details><summary>Click to expand!</summary>
 
@@ -230,7 +230,7 @@
 
 </details>
 
-## [Begnion Soldier Promoted](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Begnion%20Soldier%20Promoted)
+### [Begnion Soldier Promoted](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Begnion%20Soldier%20Promoted)
 
 <details><summary>Click to expand!</summary>
 
@@ -244,7 +244,7 @@
 
 </details>
 
-## [Begnion Worker](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Begnion%20Worker)
+### [Begnion Worker](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Begnion%20Worker)
 
 <details><summary>Click to expand!</summary>
 
@@ -258,7 +258,7 @@
 
 </details>
 
-## [Bertram](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bertram)
+### [Bertram](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bertram)
 
 <details><summary>Click to expand!</summary>
 
@@ -272,7 +272,7 @@
 
 </details>
 
-## [Boyd](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Boyd)
+### [Boyd](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Boyd)
 
 <details><summary>Click to expand!</summary>
 
@@ -286,7 +286,7 @@
 
 </details>
 
-## [Brom](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Brom)
+### [Brom](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Brom)
 
 <details><summary>Click to expand!</summary>
 
@@ -300,7 +300,7 @@
 
 </details>
 
-## [Bryce](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bryce)
+### [Bryce](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Bryce)
 
 <details><summary>Click to expand!</summary>
 
@@ -314,7 +314,7 @@
 
 </details>
 
-## [Caineghis](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Caineghis)
+### [Caineghis](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Caineghis)
 
 <details><summary>Click to expand!</summary>
 
@@ -328,7 +328,7 @@
 
 </details>
 
-## [Calill](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Calill)
+### [Calill](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Calill)
 
 <details><summary>Click to expand!</summary>
 
@@ -342,7 +342,7 @@
 
 </details>
 
-## [Caped Ranulf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Caped%20Ranulf)
+### [Caped Ranulf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Caped%20Ranulf)
 
 <details><summary>Click to expand!</summary>
 
@@ -356,7 +356,7 @@
 
 </details>
 
-## [Crimean Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Crimean%20Soldier)
+### [Crimean Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Crimean%20Soldier)
 
 <details><summary>Click to expand!</summary>
 
@@ -370,7 +370,7 @@
 
 </details>
 
-## [Daein Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daein%20Soldier)
+### [Daein Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daein%20Soldier)
 
 <details><summary>Click to expand!</summary>
 
@@ -384,7 +384,7 @@
 
 </details>
 
-## [Daein Soldier Promoted](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daein%20Soldier%20Promoted)
+### [Daein Soldier Promoted](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daein%20Soldier%20Promoted)
 
 <details><summary>Click to expand!</summary>
 
@@ -398,7 +398,7 @@
 
 </details>
 
-## [Daein Soldier Promoted 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daein%20Soldier%20Promoted%202)
+### [Daein Soldier Promoted 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daein%20Soldier%20Promoted%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -412,7 +412,7 @@
 
 </details>
 
-## [Dakota](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Dakota)
+### [Dakota](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Dakota)
 
 <details><summary>Click to expand!</summary>
 
@@ -426,7 +426,7 @@
 
 </details>
 
-## [Daniel](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daniel)
+### [Daniel](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daniel)
 
 <details><summary>Click to expand!</summary>
 
@@ -440,7 +440,7 @@
 
 </details>
 
-## [Daniel 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daniel%202)
+### [Daniel 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Daniel%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -454,7 +454,7 @@
 
 </details>
 
-## [Danomiru](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Danomiru)
+### [Danomiru](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Danomiru)
 
 <details><summary>Click to expand!</summary>
 
@@ -468,7 +468,7 @@
 
 </details>
 
-## [Davded](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Davded)
+### [Davded](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Davded)
 
 <details><summary>Click to expand!</summary>
 
@@ -482,7 +482,7 @@
 
 </details>
 
-## [Dheginsea](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Dheginsea)
+### [Dheginsea](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Dheginsea)
 
 <details><summary>Click to expand!</summary>
 
@@ -496,7 +496,7 @@
 
 </details>
 
-## [Elincia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Elincia)
+### [Elincia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Elincia)
 
 <details><summary>Click to expand!</summary>
 
@@ -510,7 +510,7 @@
 
 </details>
 
-## [Elincia 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Elincia%202)
+### [Elincia 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Elincia%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -524,7 +524,7 @@
 
 </details>
 
-## [Ena](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ena)
+### [Ena](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ena)
 
 <details><summary>Click to expand!</summary>
 
@@ -538,7 +538,7 @@
 
 </details>
 
-## [Ena 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ena%202)
+### [Ena 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ena%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -552,7 +552,7 @@
 
 </details>
 
-## [Garret](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Garret)
+### [Garret](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Garret)
 
 <details><summary>Click to expand!</summary>
 
@@ -566,7 +566,7 @@
 
 </details>
 
-## [Gasirama](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Gasirama)
+### [Gasirama](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Gasirama)
 
 <details><summary>Click to expand!</summary>
 
@@ -580,7 +580,7 @@
 
 </details>
 
-## [Gatrie](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Gatrie)
+### [Gatrie](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Gatrie)
 
 <details><summary>Click to expand!</summary>
 
@@ -594,7 +594,7 @@
 
 </details>
 
-## [Generic Bishop](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Bishop)
+### [Generic Bishop](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Bishop)
 
 <details><summary>Click to expand!</summary>
 
@@ -608,7 +608,7 @@
 
 </details>
 
-## [Generic Boy](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Boy)
+### [Generic Boy](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Boy)
 
 <details><summary>Click to expand!</summary>
 
@@ -622,7 +622,7 @@
 
 </details>
 
-## [Generic Girl](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Girl)
+### [Generic Girl](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Girl)
 
 <details><summary>Click to expand!</summary>
 
@@ -636,7 +636,7 @@
 
 </details>
 
-## [Generic Lady](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Lady)
+### [Generic Lady](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Lady)
 
 <details><summary>Click to expand!</summary>
 
@@ -650,7 +650,7 @@
 
 </details>
 
-## [Generic Lady 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Lady%202)
+### [Generic Lady 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Lady%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -664,7 +664,7 @@
 
 </details>
 
-## [Generic Laguz Cat [F]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BF%5D)
+### [Generic Laguz Cat [F]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BF%5D)
 
 <details><summary>Click to expand!</summary>
 
@@ -678,7 +678,7 @@
 
 </details>
 
-## [Generic Laguz Cat [M]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D)
+### [Generic Laguz Cat [M]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Cat%20%5BM%5D)
 
 <details><summary>Click to expand!</summary>
 
@@ -692,7 +692,7 @@
 
 </details>
 
-## [Generic Laguz Crow](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Crow)
+### [Generic Laguz Crow](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Crow)
 
 <details><summary>Click to expand!</summary>
 
@@ -706,7 +706,7 @@
 
 </details>
 
-## [Generic Laguz Crow 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Crow%202)
+### [Generic Laguz Crow 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Crow%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -720,7 +720,7 @@
 
 </details>
 
-## [Generic Laguz Hawk](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Hawk)
+### [Generic Laguz Hawk](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20Hawk)
 
 <details><summary>Click to expand!</summary>
 
@@ -734,7 +734,7 @@
 
 </details>
 
-## [Generic Laguz White Dragon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20White%20Dragon)
+### [Generic Laguz White Dragon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Laguz%20White%20Dragon)
 
 <details><summary>Click to expand!</summary>
 
@@ -748,7 +748,7 @@
 
 </details>
 
-## [Generic Man](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Man)
+### [Generic Man](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Man)
 
 <details><summary>Click to expand!</summary>
 
@@ -762,7 +762,7 @@
 
 </details>
 
-## [Generic Man 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Man%202)
+### [Generic Man 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Man%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -776,7 +776,7 @@
 
 </details>
 
-## [Generic Mister](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Mister)
+### [Generic Mister](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Mister)
 
 <details><summary>Click to expand!</summary>
 
@@ -790,7 +790,7 @@
 
 </details>
 
-## [Generic Mister 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Mister%202)
+### [Generic Mister 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Mister%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -804,7 +804,7 @@
 
 </details>
 
-## [Generic Mister 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Mister%203)
+### [Generic Mister 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Mister%203)
 
 <details><summary>Click to expand!</summary>
 
@@ -818,7 +818,7 @@
 
 </details>
 
-## [Generic Pegasus Knight](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Pegasus%20Knight)
+### [Generic Pegasus Knight](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Pegasus%20Knight)
 
 <details><summary>Click to expand!</summary>
 
@@ -832,7 +832,7 @@
 
 </details>
 
-## [Generic Red Dragon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Red%20Dragon)
+### [Generic Red Dragon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Red%20Dragon)
 
 <details><summary>Click to expand!</summary>
 
@@ -846,7 +846,7 @@
 
 </details>
 
-## [Generic Servant](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Servant)
+### [Generic Servant](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Servant)
 
 <details><summary>Click to expand!</summary>
 
@@ -860,7 +860,7 @@
 
 </details>
 
-## [Generic Woman](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Woman)
+### [Generic Woman](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Woman)
 
 <details><summary>Click to expand!</summary>
 
@@ -874,7 +874,7 @@
 
 </details>
 
-## [Generic Woman 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Woman%202)
+### [Generic Woman 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Generic%20Woman%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -888,7 +888,7 @@
 
 </details>
 
-## [Geophrey](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Geophrey)
+### [Geophrey](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Geophrey)
 
 <details><summary>Click to expand!</summary>
 
@@ -902,7 +902,7 @@
 
 </details>
 
-## [Giffca](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Giffca)
+### [Giffca](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Giffca)
 
 <details><summary>Click to expand!</summary>
 
@@ -916,7 +916,7 @@
 
 </details>
 
-## [Grandparent [F]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Grandparent%20%5BF%5D)
+### [Grandparent [F]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Grandparent%20%5BF%5D)
 
 <details><summary>Click to expand!</summary>
 
@@ -930,7 +930,7 @@
 
 </details>
 
-## [Grandparent [M]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Grandparent%20%5BM%5D)
+### [Grandparent [M]](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Grandparent%20%5BM%5D)
 
 <details><summary>Click to expand!</summary>
 
@@ -944,7 +944,7 @@
 
 </details>
 
-## [Greil](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Greil)
+### [Greil](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Greil)
 
 <details><summary>Click to expand!</summary>
 
@@ -958,7 +958,7 @@
 
 </details>
 
-## [Gromell](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Gromell)
+### [Gromell](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Gromell)
 
 <details><summary>Click to expand!</summary>
 
@@ -972,7 +972,7 @@
 
 </details>
 
-## [Haar](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Haar)
+### [Haar](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Haar)
 
 <details><summary>Click to expand!</summary>
 
@@ -986,7 +986,7 @@
 
 </details>
 
-## [Hahuxedo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hahuxedo)
+### [Hahuxedo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hahuxedo)
 
 <details><summary>Click to expand!</summary>
 
@@ -1000,7 +1000,7 @@
 
 </details>
 
-## [Hetzel](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hetzel)
+### [Hetzel](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hetzel)
 
 <details><summary>Click to expand!</summary>
 
@@ -1014,7 +1014,7 @@
 
 </details>
 
-## [Homasa](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Homasa)
+### [Homasa](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Homasa)
 
 <details><summary>Click to expand!</summary>
 
@@ -1028,7 +1028,7 @@
 
 </details>
 
-## [Hooded Lethe](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Lethe)
+### [Hooded Lethe](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Lethe)
 
 <details><summary>Click to expand!</summary>
 
@@ -1042,7 +1042,7 @@
 
 </details>
 
-## [Hooded Mordecai](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Mordecai)
+### [Hooded Mordecai](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Mordecai)
 
 <details><summary>Click to expand!</summary>
 
@@ -1056,7 +1056,7 @@
 
 </details>
 
-## [Hooded Ranulf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Ranulf)
+### [Hooded Ranulf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Ranulf)
 
 <details><summary>Click to expand!</summary>
 
@@ -1070,7 +1070,7 @@
 
 </details>
 
-## [Hooded Tormod](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Tormod)
+### [Hooded Tormod](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Hooded%20Tormod)
 
 <details><summary>Click to expand!</summary>
 
@@ -1084,7 +1084,7 @@
 
 </details>
 
-## [Ikanau](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ikanau)
+### [Ikanau](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ikanau)
 
 <details><summary>Click to expand!</summary>
 
@@ -1098,7 +1098,7 @@
 
 </details>
 
-## [Ike](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike)
+### [Ike](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike)
 
 <details><summary>Click to expand!</summary>
 
@@ -1112,7 +1112,7 @@
 
 </details>
 
-## [Ike 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%202)
+### [Ike 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -1126,7 +1126,7 @@
 
 </details>
 
-## [Ike 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%203)
+### [Ike 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%203)
 
 <details><summary>Click to expand!</summary>
 
@@ -1140,7 +1140,7 @@
 
 </details>
 
-## [Ike 4](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%204)
+### [Ike 4](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%204)
 
 <details><summary>Click to expand!</summary>
 
@@ -1154,7 +1154,7 @@
 
 </details>
 
-## [Ike 5](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%205)
+### [Ike 5](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ike%205)
 
 <details><summary>Click to expand!</summary>
 
@@ -1168,7 +1168,7 @@
 
 </details>
 
-## [Ilyana](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ilyana)
+### [Ilyana](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ilyana)
 
 <details><summary>Click to expand!</summary>
 
@@ -1182,7 +1182,7 @@
 
 </details>
 
-## [Izuka](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Izuka)
+### [Izuka](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Izuka)
 
 <details><summary>Click to expand!</summary>
 
@@ -1196,7 +1196,7 @@
 
 </details>
 
-## [Janaff](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Janaff)
+### [Janaff](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Janaff)
 
 <details><summary>Click to expand!</summary>
 
@@ -1210,7 +1210,7 @@
 
 </details>
 
-## [Jill](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Jill)
+### [Jill](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Jill)
 
 <details><summary>Click to expand!</summary>
 
@@ -1224,7 +1224,7 @@
 
 </details>
 
-## [Jorge](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Jorge)
+### [Jorge](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Jorge)
 
 <details><summary>Click to expand!</summary>
 
@@ -1238,7 +1238,7 @@
 
 </details>
 
-## [Kamura](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kamura)
+### [Kamura](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kamura)
 
 <details><summary>Click to expand!</summary>
 
@@ -1252,7 +1252,7 @@
 
 </details>
 
-## [Kasatai](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kasatai)
+### [Kasatai](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kasatai)
 
 <details><summary>Click to expand!</summary>
 
@@ -1266,7 +1266,7 @@
 
 </details>
 
-## [Kayache](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kayache)
+### [Kayache](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kayache)
 
 <details><summary>Click to expand!</summary>
 
@@ -1280,7 +1280,7 @@
 
 </details>
 
-## [Kieran](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kieran)
+### [Kieran](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kieran)
 
 <details><summary>Click to expand!</summary>
 
@@ -1294,7 +1294,7 @@
 
 </details>
 
-## [Kieran Helmet](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kieran%20Helmet)
+### [Kieran Helmet](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kieran%20Helmet)
 
 <details><summary>Click to expand!</summary>
 
@@ -1308,7 +1308,7 @@
 
 </details>
 
-## [Kimarsi](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kimarsi)
+### [Kimarsi](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kimarsi)
 
 <details><summary>Click to expand!</summary>
 
@@ -1322,7 +1322,7 @@
 
 </details>
 
-## [Kotahu](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kotahu)
+### [Kotahu](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kotahu)
 
 <details><summary>Click to expand!</summary>
 
@@ -1336,7 +1336,7 @@
 
 </details>
 
-## [Koyujo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Koyujo)
+### [Koyujo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Koyujo)
 
 <details><summary>Click to expand!</summary>
 
@@ -1350,7 +1350,7 @@
 
 </details>
 
-## [Kurthnaga](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kurthnaga)
+### [Kurthnaga](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Kurthnaga)
 
 <details><summary>Click to expand!</summary>
 
@@ -1364,7 +1364,7 @@
 
 </details>
 
-## [Laguz Tiger](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger)
+### [Laguz Tiger](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Laguz%20Tiger)
 
 <details><summary>Click to expand!</summary>
 
@@ -1378,7 +1378,7 @@
 
 </details>
 
-## [Largo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Largo)
+### [Largo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Largo)
 
 <details><summary>Click to expand!</summary>
 
@@ -1392,7 +1392,7 @@
 
 </details>
 
-## [Leanne](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Leanne)
+### [Leanne](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Leanne)
 
 <details><summary>Click to expand!</summary>
 
@@ -1406,7 +1406,7 @@
 
 </details>
 
-## [Lekain](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lekain)
+### [Lekain](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lekain)
 
 <details><summary>Click to expand!</summary>
 
@@ -1420,7 +1420,7 @@
 
 </details>
 
-## [Lethe](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lethe)
+### [Lethe](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lethe)
 
 <details><summary>Click to expand!</summary>
 
@@ -1434,7 +1434,7 @@
 
 </details>
 
-## [Lotz](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lotz)
+### [Lotz](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lotz)
 
 <details><summary>Click to expand!</summary>
 
@@ -1448,7 +1448,7 @@
 
 </details>
 
-## [Lucia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lucia)
+### [Lucia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Lucia)
 
 <details><summary>Click to expand!</summary>
 
@@ -1462,7 +1462,7 @@
 
 </details>
 
-## [Maid](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Maid)
+### [Maid](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Maid)
 
 <details><summary>Click to expand!</summary>
 
@@ -1476,7 +1476,7 @@
 
 </details>
 
-## [Maizin](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Maizin)
+### [Maizin](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Maizin)
 
 <details><summary>Click to expand!</summary>
 
@@ -1490,7 +1490,7 @@
 
 </details>
 
-## [Makalov](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Makalov)
+### [Makalov](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Makalov)
 
 <details><summary>Click to expand!</summary>
 
@@ -1504,7 +1504,7 @@
 
 </details>
 
-## [Makoya](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Makoya)
+### [Makoya](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Makoya)
 
 <details><summary>Click to expand!</summary>
 
@@ -1518,7 +1518,7 @@
 
 </details>
 
-## [Marcia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Marcia)
+### [Marcia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Marcia)
 
 <details><summary>Click to expand!</summary>
 
@@ -1532,7 +1532,7 @@
 
 </details>
 
-## [Maurim](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Maurim)
+### [Maurim](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Maurim)
 
 <details><summary>Click to expand!</summary>
 
@@ -1546,7 +1546,7 @@
 
 </details>
 
-## [Medallion Ashnard](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Medallion%20Ashnard)
+### [Medallion Ashnard](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Medallion%20Ashnard)
 
 <details><summary>Click to expand!</summary>
 
@@ -1560,7 +1560,7 @@
 
 </details>
 
-## [Mercenary Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mercenary%20Soldier)
+### [Mercenary Soldier](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mercenary%20Soldier)
 
 <details><summary>Click to expand!</summary>
 
@@ -1574,7 +1574,7 @@
 
 </details>
 
-## [Mia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mia)
+### [Mia](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mia)
 
 <details><summary>Click to expand!</summary>
 
@@ -1588,7 +1588,7 @@
 
 </details>
 
-## [Misc](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Misc)
+### [Misc](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Misc)
 
 <details><summary>Click to expand!</summary>
 
@@ -1602,7 +1602,7 @@
 
 </details>
 
-## [Mist](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mist)
+### [Mist](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mist)
 
 <details><summary>Click to expand!</summary>
 
@@ -1616,7 +1616,7 @@
 
 </details>
 
-## [Mist 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mist%202)
+### [Mist 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mist%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -1630,7 +1630,7 @@
 
 </details>
 
-## [Mist 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mist%203)
+### [Mist 3](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mist%203)
 
 <details><summary>Click to expand!</summary>
 
@@ -1644,7 +1644,7 @@
 
 </details>
 
-## [Mordecai](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mordecai)
+### [Mordecai](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Mordecai)
 
 <details><summary>Click to expand!</summary>
 
@@ -1658,7 +1658,7 @@
 
 </details>
 
-## [Muston](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Muston)
+### [Muston](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Muston)
 
 <details><summary>Click to expand!</summary>
 
@@ -1672,7 +1672,7 @@
 
 </details>
 
-## [Muston 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Muston%202)
+### [Muston 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Muston%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -1686,7 +1686,7 @@
 
 </details>
 
-## [Naesala](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Naesala)
+### [Naesala](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Naesala)
 
 <details><summary>Click to expand!</summary>
 
@@ -1700,7 +1700,7 @@
 
 </details>
 
-## [Nasir](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nasir)
+### [Nasir](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nasir)
 
 <details><summary>Click to expand!</summary>
 
@@ -1714,7 +1714,7 @@
 
 </details>
 
-## [Nasir 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nasir%202)
+### [Nasir 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nasir%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -1728,7 +1728,7 @@
 
 </details>
 
-## [NEALUCHI](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/NEALUCHI)
+### [NEALUCHI](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/NEALUCHI)
 
 <details><summary>Click to expand!</summary>
 
@@ -1742,7 +1742,7 @@
 
 </details>
 
-## [Nedata](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nedata)
+### [Nedata](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nedata)
 
 <details><summary>Click to expand!</summary>
 
@@ -1756,7 +1756,7 @@
 
 </details>
 
-## [Nephenee](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nephenee)
+### [Nephenee](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nephenee)
 
 <details><summary>Click to expand!</summary>
 
@@ -1770,7 +1770,7 @@
 
 </details>
 
-## [Noble Ike](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Noble%20Ike)
+### [Noble Ike](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Noble%20Ike)
 
 <details><summary>Click to expand!</summary>
 
@@ -1784,7 +1784,7 @@
 
 </details>
 
-## [Noble Ike Angry](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Noble%20Ike%20Angry)
+### [Noble Ike Angry](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Noble%20Ike%20Angry)
 
 <details><summary>Click to expand!</summary>
 
@@ -1798,7 +1798,7 @@
 
 </details>
 
-## [Noshitohib](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Noshitohib)
+### [Noshitohib](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Noshitohib)
 
 <details><summary>Click to expand!</summary>
 
@@ -1812,7 +1812,7 @@
 
 </details>
 
-## [Nositochi](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nositochi)
+### [Nositochi](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Nositochi)
 
 <details><summary>Click to expand!</summary>
 
@@ -1826,7 +1826,7 @@
 
 </details>
 
-## [Oliver](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Oliver)
+### [Oliver](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Oliver)
 
 <details><summary>Click to expand!</summary>
 
@@ -1840,7 +1840,7 @@
 
 </details>
 
-## [Oscar](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Oscar)
+### [Oscar](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Oscar)
 
 <details><summary>Click to expand!</summary>
 
@@ -1854,7 +1854,7 @@
 
 </details>
 
-## [Petrine](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Petrine)
+### [Petrine](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Petrine)
 
 <details><summary>Click to expand!</summary>
 
@@ -1868,7 +1868,7 @@
 
 </details>
 
-## [Pirate](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Pirate)
+### [Pirate](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Pirate)
 
 <details><summary>Click to expand!</summary>
 
@@ -1882,7 +1882,7 @@
 
 </details>
 
-## [Rabid Laguz](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rabid%20Laguz)
+### [Rabid Laguz](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rabid%20Laguz)
 
 <details><summary>Click to expand!</summary>
 
@@ -1896,7 +1896,7 @@
 
 </details>
 
-## [Rajahon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rajahon)
+### [Rajahon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rajahon)
 
 <details><summary>Click to expand!</summary>
 
@@ -1910,7 +1910,7 @@
 
 </details>
 
-## [Ranulf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ranulf)
+### [Ranulf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ranulf)
 
 <details><summary>Click to expand!</summary>
 
@@ -1924,7 +1924,7 @@
 
 </details>
 
-## [Renning](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Renning)
+### [Renning](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Renning)
 
 <details><summary>Click to expand!</summary>
 
@@ -1938,7 +1938,7 @@
 
 </details>
 
-## [Reyson](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Reyson)
+### [Reyson](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Reyson)
 
 <details><summary>Click to expand!</summary>
 
@@ -1952,7 +1952,7 @@
 
 </details>
 
-## [Rhys](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rhys)
+### [Rhys](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rhys)
 
 <details><summary>Click to expand!</summary>
 
@@ -1966,7 +1966,7 @@
 
 </details>
 
-## [Rihitoru](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rihitoru)
+### [Rihitoru](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rihitoru)
 
 <details><summary>Click to expand!</summary>
 
@@ -1980,7 +1980,7 @@
 
 </details>
 
-## [Riyuha](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Riyuha)
+### [Riyuha](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Riyuha)
 
 <details><summary>Click to expand!</summary>
 
@@ -1994,7 +1994,7 @@
 
 </details>
 
-## [Rolf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rolf)
+### [Rolf](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rolf)
 
 <details><summary>Click to expand!</summary>
 
@@ -2008,7 +2008,7 @@
 
 </details>
 
-## [Rolf 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rolf%202)
+### [Rolf 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Rolf%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -2022,7 +2022,7 @@
 
 </details>
 
-## [Sanaki](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sanaki)
+### [Sanaki](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sanaki)
 
 <details><summary>Click to expand!</summary>
 
@@ -2036,7 +2036,7 @@
 
 </details>
 
-## [Sephiran](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sephiran)
+### [Sephiran](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sephiran)
 
 <details><summary>Click to expand!</summary>
 
@@ -2050,7 +2050,7 @@
 
 </details>
 
-## [Sephiran 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sephiran%202)
+### [Sephiran 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sephiran%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -2064,7 +2064,7 @@
 
 </details>
 
-## [Shinon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Shinon)
+### [Shinon](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Shinon)
 
 <details><summary>Click to expand!</summary>
 
@@ -2078,7 +2078,7 @@
 
 </details>
 
-## [Sigrun](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sigrun)
+### [Sigrun](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sigrun)
 
 <details><summary>Click to expand!</summary>
 
@@ -2092,7 +2092,7 @@
 
 </details>
 
-## [Sihumamu](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sihumamu)
+### [Sihumamu](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sihumamu)
 
 <details><summary>Click to expand!</summary>
 
@@ -2106,7 +2106,7 @@
 
 </details>
 
-## [Sirkuko](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sirkuko)
+### [Sirkuko](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sirkuko)
 
 <details><summary>Click to expand!</summary>
 
@@ -2120,7 +2120,7 @@
 
 </details>
 
-## [Soldier 1](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201)
+### [Soldier 1](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%201)
 
 <details><summary>Click to expand!</summary>
 
@@ -2134,7 +2134,7 @@
 
 </details>
 
-## [Soldier 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%202)
+### [Soldier 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soldier%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -2148,7 +2148,7 @@
 
 </details>
 
-## [Soren](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soren)
+### [Soren](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soren)
 
 <details><summary>Click to expand!</summary>
 
@@ -2162,7 +2162,7 @@
 
 </details>
 
-## [Soren Incognito](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soren%20Incognito)
+### [Soren Incognito](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Soren%20Incognito)
 
 <details><summary>Click to expand!</summary>
 
@@ -2176,7 +2176,7 @@
 
 </details>
 
-## [Sothe](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sothe)
+### [Sothe](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Sothe)
 
 <details><summary>Click to expand!</summary>
 
@@ -2190,7 +2190,7 @@
 
 </details>
 
-## [Stefan](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Stefan)
+### [Stefan](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Stefan)
 
 <details><summary>Click to expand!</summary>
 
@@ -2204,7 +2204,7 @@
 
 </details>
 
-## [Tanith](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tanith)
+### [Tanith](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tanith)
 
 <details><summary>Click to expand!</summary>
 
@@ -2218,7 +2218,7 @@
 
 </details>
 
-## [Tauroneo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tauroneo)
+### [Tauroneo](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tauroneo)
 
 <details><summary>Click to expand!</summary>
 
@@ -2232,7 +2232,7 @@
 
 </details>
 
-## [Thief](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Thief)
+### [Thief](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Thief)
 
 <details><summary>Click to expand!</summary>
 
@@ -2246,7 +2246,7 @@
 
 </details>
 
-## [Thief 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Thief%202)
+### [Thief 2](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Thief%202)
 
 <details><summary>Click to expand!</summary>
 
@@ -2260,7 +2260,7 @@
 
 </details>
 
-## [Tibarn](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tibarn)
+### [Tibarn](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tibarn)
 
 <details><summary>Click to expand!</summary>
 
@@ -2274,7 +2274,7 @@
 
 </details>
 
-## [Titania](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Titania)
+### [Titania](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Titania)
 
 <details><summary>Click to expand!</summary>
 
@@ -2288,7 +2288,7 @@
 
 </details>
 
-## [Tormod](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tormod)
+### [Tormod](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Tormod)
 
 <details><summary>Click to expand!</summary>
 
@@ -2302,7 +2302,7 @@
 
 </details>
 
-## [Ulki](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ulki)
+### [Ulki](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Ulki)
 
 <details><summary>Click to expand!</summary>
 
@@ -2316,7 +2316,7 @@
 
 </details>
 
-## [Volke](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Volke)
+### [Volke](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Volke)
 
 <details><summary>Click to expand!</summary>
 
@@ -2330,7 +2330,7 @@
 
 </details>
 
-## [Volke Promoted](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Volke%20Promoted)
+### [Volke Promoted](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Volke%20Promoted)
 
 <details><summary>Click to expand!</summary>
 
@@ -2344,7 +2344,7 @@
 
 </details>
 
-## [Zawanar](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Zawanar)
+### [Zawanar](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Zawanar)
 
 <details><summary>Click to expand!</summary>
 
@@ -2358,7 +2358,7 @@
 
 </details>
 
-## [Zelgius](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Zelgius)
+### [Zelgius](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Zelgius)
 
 <details><summary>Click to expand!</summary>
 
@@ -2372,7 +2372,7 @@
 
 </details>
 
-## [Zihark](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Zihark)
+### [Zihark](FE09%20Mugs%20(Path%20of%20Radiance)/FE9%20Vanilla%20Mugs%20(Ingame%20Rips)/Zihark)
 
 <details><summary>Click to expand!</summary>
 
@@ -2394,11 +2394,11 @@
 
 </details>
 
-## [Nickt's FE9 Mugs](Nickt's%20FE9%20Mugs)
+### [Nickt's FE9 Mugs](Nickt's%20FE9%20Mugs)
 
 <details><summary>Click to expand!</summary>
 
-![Aimee {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Aimee%20%7BNickT,%20Stitch%7D.png "Aimee {NickT, Stitch}.png")![Anna {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Anna%20%7BNickT,%20Stitch%7D.png "Anna {NickT, Stitch}.png")![Astrid {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Astrid%20%7BNickT,%20Stitch%7D.png "Astrid {NickT, Stitch}.png")![Bastion {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Bastion%20%7BNickT,%20Stitch%7D.png "Bastion {NickT, Stitch}.png")![Boyd {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Boyd%20%7BNickT,%20Stitch%7D.png "Boyd {NickT, Stitch}.png")![Brom {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Brom%20%7BNickT,%20Stitch%7D.png "Brom {NickT, Stitch}.png")![Caineghis {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Caineghis%20%7BPart%201%7D%20%7BNickT,Stitch%7D.png "Caineghis {Part 1} {NickT,Stitch}.png")![Caineghis {Part 2} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Caineghis%20%7BPart%202%7D%20%7BNickT,Stitch%7D.png "Caineghis {Part 2} {NickT,Stitch}.png")![Calil {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Calil%20%7BNickT,%20Stitch%7D.png "Calil {NickT, Stitch}.png")![Daniel {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Daniel%20%7BNickT,%20Stitch%7D.png "Daniel {NickT, Stitch}.png")![Devdan {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Devdan%20%7BNickT,%20Stitch%7D.png "Devdan {NickT, Stitch}.png")![Dheginsea {NickT, Stitch.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Dheginsea%20%7BNickT,%20Stitch.png "Dheginsea {NickT, Stitch.png")![Dheginsea {Right-Facing} {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Dheginsea%20%7BRight-Facing%7D%20%7BNickT,%20Stitch%7D.png "Dheginsea {Right-Facing} {NickT, Stitch}.png")![Elincia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Elincia%20%7BNickT,%20Stitch%7D.png "Elincia {NickT, Stitch}.png")![Ena {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ena%20%7BNickT,%20Stitch%7D.png "Ena {NickT, Stitch}.png")![Gareth {Part 1, Right-Facing} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gareth%20%7BPart%201,%20Right-Facing%7D%20%7BNickT,Stitch%7D.png "Gareth {Part 1, Right-Facing} {NickT,Stitch}.png")![Gareth {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gareth%20%7BPart%201%7D%20%7BNickT,Stitch%7D.png "Gareth {Part 1} {NickT,Stitch}.png")![Gareth {Part 2} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gareth%20%7BPart%202%7D%20%7BNickT,Stitch%7D.png "Gareth {Part 2} {NickT,Stitch}.png")![Gatrie {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gatrie%20%7BNickT,%20Stitch%7D.png "Gatrie {NickT, Stitch}.png")![Geoffrey {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Geoffrey%20%7BNickT,%20Stitch%7D.png "Geoffrey {NickT, Stitch}.png")![Giffca {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Giffca%20%7BNickT,%20Stitch%7D.png "Giffca {NickT, Stitch}.png")![Greil Part2 {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Greil%20Part2%20%7BNickT,Stitch%7D.png "Greil Part2 {NickT,Stitch}.png")![Greil {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Greil%20%7BPart%201%7D%20%7BNickT,Stitch%7D.png "Greil {Part 1} {NickT,Stitch}.png")![Haar {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Haar%20%7BNickT,%20Stitch%7D.png "Haar {NickT, Stitch}.png")![Ike Ranger {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ike%20Ranger%20%7BNickT,%20Stitch%7D.png "Ike Ranger {NickT, Stitch}.png")![Ike {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ike%20%7BNickT,%20Stitch%7D.png "Ike {NickT, Stitch}.png")![ilyana {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/ilyana%20%7BNickT,%20Stitch%7D.png "ilyana {NickT, Stitch}.png")![Janaff {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Janaff%20%7BNickT,%20Stitch%7D.png "Janaff {NickT, Stitch}.png")![Jill {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Jill%20%7BNickT,%20Stitch%7D.png "Jill {NickT, Stitch}.png")![Jorge {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Jorge%20%7BNickT,%20Stitch%7D.png "Jorge {NickT, Stitch}.png")![Kieran {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Kieran%20%7BNickT,%20Stitch%7D.png "Kieran {NickT, Stitch}.png")![Kurthnaga {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Kurthnaga%20%7BNickT,%20Stitch%7D.png "Kurthnaga {NickT, Stitch}.png")![Largo {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Largo%20%7BNickT,%20Stitch%7D.png "Largo {NickT, Stitch}.png")![Leanne {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Leanne%20%7BNickT,%20Stitch%7D.png "Leanne {NickT, Stitch}.png")![Lethe {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Lethe%20%7BNickT,%20Stitch%7D.png "Lethe {NickT, Stitch}.png")![Lotz {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Lotz%20%7BNickT,%20Stitch%7D.png "Lotz {NickT, Stitch}.png")![Lucia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Lucia%20%7BNickT,%20Stitch%7D.png "Lucia {NickT, Stitch}.png")![Makalov {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Makalov%20%7BNickT,%20Stitch%7D.png "Makalov {NickT, Stitch}.png")![Marcia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Marcia%20%7BNickT,%20Stitch%7D.png "Marcia {NickT, Stitch}.png")![Mia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Mia%20%7BNickT,%20Stitch%7D.png "Mia {NickT, Stitch}.png")![Mist {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Mist%20%7BNickT,%20Stitch%7D.png "Mist {NickT, Stitch}.png")![Mordecai {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Mordecai%20%7BNickT,%20Stitch%7D.png "Mordecai {NickT, Stitch}.png")![Muarim {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Muarim%20%7BNickT,%20Stitch%7D.png "Muarim {NickT, Stitch}.png")![Naesala {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Naesala%20%7BNickT,%20Stitch%7D.png "Naesala {NickT, Stitch}.png")![Nasir {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nasir%20%7BNickT,%20Stitch%7D.png "Nasir {NickT, Stitch}.png")![Nealuchi {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nealuchi%20%7BNickT,%20Stitch%7D.png "Nealuchi {NickT, Stitch}.png")![Nephenee {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nephenee%20%7BNickT,%20Stitch%7D.png "Nephenee {NickT, Stitch}.png")![Nickt's Path of Radiance Mugs; The Radiant Collection.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nickt's%20Path%20of%20Radiance%20Mugs;%20The%20Radiant%20Collection.png "Nickt's Path of Radiance Mugs; The Radiant Collection.png")![Oliver {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Oliver%20%7BNickT,%20Stitch%7D.png "Oliver {NickT, Stitch}.png")![Oscar {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Oscar%20%7BNickT,%20Stitch%7D.png "Oscar {NickT, Stitch}.png")![Rajaion {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Rajaion%20%7BNickT,%20Stitch%7D.png "Rajaion {NickT, Stitch}.png")![Ranulf {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ranulf%20%7BNickT,%20Stitch%7D.png "Ranulf {NickT, Stitch}.png")![Renning {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Renning%20%7BNickT,%20Stitch%7D.png "Renning {NickT, Stitch}.png")![Reyson {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Reyson%20%7BNickT,%20Stitch%7D.png "Reyson {NickT, Stitch}.png")![Rolf {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Rolf%20%7BNickT,%20Stitch%7D.png "Rolf {NickT, Stitch}.png")![Rys {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Rys%20%7BNickT,%20Stitch%7D.png "Rys {NickT, Stitch}.png")![Sanaki {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sanaki%20%7BNickT,%20Stitch%7D.png "Sanaki {NickT, Stitch}.png")![Sephiran {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sephiran%20%7BNickT,%20Stitch%7D.png "Sephiran {NickT, Stitch}.png")![Shinon {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Shinon%20%7BNickT,%20Stitch%7D.png "Shinon {NickT, Stitch}.png")![Sigrun {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sigrun%20%7BNickT,%20Stitch%7D.png "Sigrun {NickT, Stitch}.png")![Soren {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Soren%20%7BNickT,%20Stitch%7D.png "Soren {NickT, Stitch}.png")![Sothe {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sothe%20%7BNickT,%20Stitch%7D.png "Sothe {NickT, Stitch}.png")![Stefan {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Stefan%20%7BNickT,%20Stitch%7D.png "Stefan {NickT, Stitch}.png")![Tanith {NickT, Ghostblade913}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tanith%20%7BNickT,%20Ghostblade913%7D.png "Tanith {NickT, Ghostblade913}.png")![Tanith {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tanith%20%7BNickT,%20Stitch%7D.png "Tanith {NickT, Stitch}.png")![Tauroneo {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tauroneo%20%7BNickT,%20Stitch%7D.png "Tauroneo {NickT, Stitch}.png")![Tibarn {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tibarn%20%7BNickT,%20Stitch%7D.png "Tibarn {NickT, Stitch}.png")![Titania {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Titania%20%7BNickT,%20Stitch%7D.png "Titania {NickT, Stitch}.png")![Tormod {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tormod%20%7BNickT,%20Stitch%7D.png "Tormod {NickT, Stitch}.png")![Ulki {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ulki%20%7BNickT,%20Stitch%7D.png "Ulki {NickT, Stitch}.png")![Volke {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Volke%20%7BNickT,%20Stitch%7D.png "Volke {NickT, Stitch}.png")![Zelgius {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Zelgius%20(Part%201)%20%7BNickT,Stitch%7D.png "Zelgius {Part 1} {NickT,Stitch}.png")![Zelgius {Part 2} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Zelgius%20(Part%202)%20%7BNickT,Stitch%7D.png "Zelgius {Part 2} {NickT,Stitch}.png")![Zihark {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Zihark%20%7BNickT,%20Stitch%7D.png "Zihark {NickT, Stitch}.png")
+![Aimee {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Aimee%20%7BNickT,%20Stitch%7D.png "Aimee {NickT, Stitch}.png")![Anna {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Anna%20%7BNickT,%20Stitch%7D.png "Anna {NickT, Stitch}.png")![Astrid {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Astrid%20%7BNickT,%20Stitch%7D.png "Astrid {NickT, Stitch}.png")![Bastion {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Bastion%20%7BNickT,%20Stitch%7D.png "Bastion {NickT, Stitch}.png")![Boyd {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Boyd%20%7BNickT,%20Stitch%7D.png "Boyd {NickT, Stitch}.png")![Brom {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Brom%20%7BNickT,%20Stitch%7D.png "Brom {NickT, Stitch}.png")![Caineghis {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Caineghis%20%7BPart%201%7D%20%7BNickT,Stitch%7D.png "Caineghis {Part 1} {NickT,Stitch}.png")![Caineghis {Part 2} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Caineghis%20%7BPart%202%7D%20%7BNickT,Stitch%7D.png "Caineghis {Part 2} {NickT,Stitch}.png")![Calil {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Calil%20%7BNickT,%20Stitch%7D.png "Calil {NickT, Stitch}.png")![Daniel {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Daniel%20%7BNickT,%20Stitch%7D.png "Daniel {NickT, Stitch}.png")![Devdan {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Devdan%20%7BNickT,%20Stitch%7D.png "Devdan {NickT, Stitch}.png")![Dheginsea {NickT, Stitch.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Dheginsea%20%7BNickT,%20Stitch.png "Dheginsea {NickT, Stitch.png")![Dheginsea {Right-Facing} {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Dheginsea%20%7BRight-Facing%7D%20%7BNickT,%20Stitch%7D.png "Dheginsea {Right-Facing} {NickT, Stitch}.png")![Elincia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Elincia%20%7BNickT,%20Stitch%7D.png "Elincia {NickT, Stitch}.png")![Ena {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ena%20%7BNickT,%20Stitch%7D.png "Ena {NickT, Stitch}.png")![Gareth {Part 1, Right-Facing} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gareth%20%7BPart%201,%20Right-Facing%7D%20%7BNickT,Stitch%7D.png "Gareth {Part 1, Right-Facing} {NickT,Stitch}.png")![Gareth {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gareth%20%7BPart%201%7D%20%7BNickT,Stitch%7D.png "Gareth {Part 1} {NickT,Stitch}.png")![Gareth {Part 2} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gareth%20%7BPart%202%7D%20%7BNickT,Stitch%7D.png "Gareth {Part 2} {NickT,Stitch}.png")![Gatrie {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Gatrie%20%7BNickT,%20Stitch%7D.png "Gatrie {NickT, Stitch}.png")![Geoffrey {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Geoffrey%20%7BNickT,%20Stitch%7D.png "Geoffrey {NickT, Stitch}.png")![Giffca {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Giffca%20%7BNickT,%20Stitch%7D.png "Giffca {NickT, Stitch}.png")![Greil Part2 {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Greil%20Part2%20%7BNickT,Stitch%7D.png "Greil Part2 {NickT,Stitch}.png")![Greil {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Greil%20%7BPart%201%7D%20%7BNickT,Stitch%7D.png "Greil {Part 1} {NickT,Stitch}.png")![Haar {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Haar%20%7BNickT,%20Stitch%7D.png "Haar {NickT, Stitch}.png")![Ike Ranger {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ike%20Ranger%20%7BNickT,%20Stitch%7D.png "Ike Ranger {NickT, Stitch}.png")![Ike {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ike%20%7BNickT,%20Stitch%7D.png "Ike {NickT, Stitch}.png")![ilyana {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/ilyana%20%7BNickT,%20Stitch%7D.png "ilyana {NickT, Stitch}.png")![Janaff {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Janaff%20%7BNickT,%20Stitch%7D.png "Janaff {NickT, Stitch}.png")![Jill {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Jill%20%7BNickT,%20Stitch%7D.png "Jill {NickT, Stitch}.png")![Jorge {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Jorge%20%7BNickT,%20Stitch%7D.png "Jorge {NickT, Stitch}.png")![Kieran {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Kieran%20%7BNickT,%20Stitch%7D.png "Kieran {NickT, Stitch}.png")![Kurthnaga {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Kurthnaga%20%7BNickT,%20Stitch%7D.png "Kurthnaga {NickT, Stitch}.png")![Largo {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Largo%20%7BNickT,%20Stitch%7D.png "Largo {NickT, Stitch}.png")![Leanne {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Leanne%20%7BNickT,%20Stitch%7D.png "Leanne {NickT, Stitch}.png")![Lethe {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Lethe%20%7BNickT,%20Stitch%7D.png "Lethe {NickT, Stitch}.png")![Lotz {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Lotz%20%7BNickT,%20Stitch%7D.png "Lotz {NickT, Stitch}.png")![Lucia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Lucia%20%7BNickT,%20Stitch%7D.png "Lucia {NickT, Stitch}.png")![Makalov {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Makalov%20%7BNickT,%20Stitch%7D.png "Makalov {NickT, Stitch}.png")![Marcia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Marcia%20%7BNickT,%20Stitch%7D.png "Marcia {NickT, Stitch}.png")![Mia {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Mia%20%7BNickT,%20Stitch%7D.png "Mia {NickT, Stitch}.png")![Mist {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Mist%20%7BNickT,%20Stitch%7D.png "Mist {NickT, Stitch}.png")![Mordecai {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Mordecai%20%7BNickT,%20Stitch%7D.png "Mordecai {NickT, Stitch}.png")![Muarim {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Muarim%20%7BNickT,%20Stitch%7D.png "Muarim {NickT, Stitch}.png")![Muston {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Muston%20(Part%201)%20%7BNickT,Stitch%7D.png "Muston {Part 1} {NickT,Stitch}.png")![Muston {Part 2} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Muston%20(Part%202)%20%7BNickT,Stitch%7D.png "Muston {Part 2} {NickT,Stitch}.png")![Naesala {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Naesala%20%7BNickT,%20Stitch%7D.png "Naesala {NickT, Stitch}.png")![Nasir {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nasir%20%7BNickT,%20Stitch%7D.png "Nasir {NickT, Stitch}.png")![Nealuchi {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nealuchi%20%7BNickT,%20Stitch%7D.png "Nealuchi {NickT, Stitch}.png")![Nephenee {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nephenee%20%7BNickT,%20Stitch%7D.png "Nephenee {NickT, Stitch}.png")![Nickt's Path of Radiance Mugs; The Radiant Collection.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Nickt's%20Path%20of%20Radiance%20Mugs;%20The%20Radiant%20Collection.png "Nickt's Path of Radiance Mugs; The Radiant Collection.png")![Oliver {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Oliver%20%7BNickT,%20Stitch%7D.png "Oliver {NickT, Stitch}.png")![Oscar {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Oscar%20%7BNickT,%20Stitch%7D.png "Oscar {NickT, Stitch}.png")![Rajaion {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Rajaion%20%7BNickT,%20Stitch%7D.png "Rajaion {NickT, Stitch}.png")![Ranulf {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ranulf%20%7BNickT,%20Stitch%7D.png "Ranulf {NickT, Stitch}.png")![Renning {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Renning%20%7BNickT,%20Stitch%7D.png "Renning {NickT, Stitch}.png")![Reyson {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Reyson%20%7BNickT,%20Stitch%7D.png "Reyson {NickT, Stitch}.png")![Rolf {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Rolf%20%7BNickT,%20Stitch%7D.png "Rolf {NickT, Stitch}.png")![Rys {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Rys%20%7BNickT,%20Stitch%7D.png "Rys {NickT, Stitch}.png")![Sanaki {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sanaki%20%7BNickT,%20Stitch%7D.png "Sanaki {NickT, Stitch}.png")![Sephiran {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sephiran%20%7BNickT,%20Stitch%7D.png "Sephiran {NickT, Stitch}.png")![Shinon {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Shinon%20%7BNickT,%20Stitch%7D.png "Shinon {NickT, Stitch}.png")![Sigrun {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sigrun%20%7BNickT,%20Stitch%7D.png "Sigrun {NickT, Stitch}.png")![Soren {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Soren%20%7BNickT,%20Stitch%7D.png "Soren {NickT, Stitch}.png")![Sothe {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Sothe%20%7BNickT,%20Stitch%7D.png "Sothe {NickT, Stitch}.png")![Stefan {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Stefan%20%7BNickT,%20Stitch%7D.png "Stefan {NickT, Stitch}.png")![Tanith {NickT, Ghostblade913}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tanith%20%7BNickT,%20Ghostblade913%7D.png "Tanith {NickT, Ghostblade913}.png")![Tanith {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tanith%20%7BNickT,%20Stitch%7D.png "Tanith {NickT, Stitch}.png")![Tauroneo {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tauroneo%20%7BNickT,%20Stitch%7D.png "Tauroneo {NickT, Stitch}.png")![Tibarn {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tibarn%20%7BNickT,%20Stitch%7D.png "Tibarn {NickT, Stitch}.png")![Titania {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Titania%20%7BNickT,%20Stitch%7D.png "Titania {NickT, Stitch}.png")![Tormod {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Tormod%20%7BNickT,%20Stitch%7D.png "Tormod {NickT, Stitch}.png")![Ulki {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Ulki%20%7BNickT,%20Stitch%7D.png "Ulki {NickT, Stitch}.png")![Volke {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Volke%20%7BNickT,%20Stitch%7D.png "Volke {NickT, Stitch}.png")![Zelgius {Part 1} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Zelgius%20(Part%201)%20%7BNickT,Stitch%7D.png "Zelgius {Part 1} {NickT,Stitch}.png")![Zelgius {Part 2} {NickT,Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Zelgius%20(Part%202)%20%7BNickT,Stitch%7D.png "Zelgius {Part 2} {NickT,Stitch}.png")![Zihark {NickT, Stitch}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/FE09%20Mugs%20(Path%20of%20Radiance)/Nickt's%20FE9%20Mugs/Zihark%20%7BNickT,%20Stitch%7D.png "Zihark {NickT, Stitch}.png")
 
 
 

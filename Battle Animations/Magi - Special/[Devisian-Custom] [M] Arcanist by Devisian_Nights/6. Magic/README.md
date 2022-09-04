@@ -8,4 +8,5 @@
 
 ## Credit
 
-
+OG art by Devisian_Nights
+Alt by Jey the Count

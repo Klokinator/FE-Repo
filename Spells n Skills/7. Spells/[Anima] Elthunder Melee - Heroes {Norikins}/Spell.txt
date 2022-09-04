@@ -1,0 +1,32 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C40
+C100229
+O  p- Spell_o_000.png
+B  p- Spell_b_001.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_002.png
+1
+C011A48
+C1A
+~~~
+C1F
+O  p- Spell_o_000.png
+B  p- Spell_b_003.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_004.png
+1
+O  p- Spell_o_000.png
+B  p- Spell_b_005.png
+1
+C0F0B29
+O  p- Spell_o_000.png
+B  p- Spell_b_006.png
+1
+/// - End of animation

@@ -1,0 +1,270 @@
+#######################################################
+#08 helm_ax1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+4 p- Monster_001.png
+1 p- Monster_002.png
+C30                               #Show dirt kicking (as from dashing forward) animation
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+4 p- Monster_003.png
+6 p- Monster_004.png
+C42                               #Play long axe swinging SFE
+1 p- Monster_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+10 p- Monster_006.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+4 p- Monster_007.png
+1 p- Monster_008.png
+3 p- Monster_009.png
+5 p- Monster_010.png
+2 p- Monster_011.png
+3 p- Monster_010.png
+C42                               #Play long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C14                               #Heavy vibration of screen
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+2 p- Monster_010.png
+2 p- Monster_011.png
+3 p- Monster_010.png
+15 p- Monster_012.png
+C01                               #NOP
+15 p- Monster_012.png
+4 p- Monster_013.png
+1 p- Monster_014.png
+4 p- Monster_015.png
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+5 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+2 p- Monster_000.png
+6 p- Monster_016.png
+6 p- Monster_017.png
+6 p- Monster_016.png
+6 p- Monster_017.png
+6 p- Monster_016.png
+6 p- Monster_017.png
+20 p- Monster_000.png
+4 p- Monster_001.png
+1 p- Monster_002.png
+C30                               #Show dirt kicking (as from dashing forward) animation
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+5 p- Monster_003.png
+7 p- Monster_004.png
+C42                               #Play long axe swinging SFE
+1 p- Monster_005.png
+C46                               #Play dropped axe crashing onto ground SFE
+C14                               #Heavy vibration of screen
+10 p- Monster_006.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+4 p- Monster_007.png
+1 p- Monster_008.png
+3 p- Monster_009.png
+5 p- Monster_010.png
+2 p- Monster_011.png
+3 p- Monster_010.png
+C42                               #Play long axe swinging SFE
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C14                               #Heavy vibration of screen
+2 p- Monster_010.png
+2 p- Monster_011.png
+3 p- Monster_010.png
+10 p- Monster_012.png
+4 p- Monster_013.png
+1 p- Monster_014.png
+4 p- Monster_015.png
+C34                               #Play heavy stepping SFE
+3 p- Monster_000.png
+SFA                               #Sound 250 SE:Silence staff charging (realtime)
+8 p- Monster_018.png
+3 p- Monster_019.png
+3 p- Monster_020.png
+5 p- Monster_021.png
+5 p- Monster_022.png
+5 p- Monster_023.png
+C14                               #Heavy vibration of screen
+C46                               #Play dropped axe crashing onto ground SFE
+30 p- Monster_024.png
+SDC                               #Sound 220 SE:Mamkute transform
+2 p- Monster_025.png
+2 p- Monster_026.png
+4 p- Monster_027.png
+2 p- Monster_025.png
+2 p- Monster_026.png
+30 p- Monster_027.png
+13 p- Monster_028.png
+C38                               #Play heavy spear spinning SFE
+2 p- Monster_029.png
+2 p- Monster_030.png
+20 p- Monster_031.png
+S02CF                               #Sound 719 SE:Weird pat sound @C85_43
+20 p- Monster_032.png
+2 p- Monster_033.png
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C42                               #Play long axe swinging SFE
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C0A                               #Critical hit
+20 p- Monster_034.png
+C01                               #NOP
+SDD                               #Sound 221 SE:Mamkute de-transform
+20 p- Monster_034.png
+2 p- Monster_035.png
+2 p- Monster_036.png
+6 p- Monster_034.png
+2 p- Monster_035.png
+2 p- Monster_036.png
+13 p- Monster_037.png
+7 p- Monster_001.png
+C2B                               #Play armored unit "leaping" SFE
+C15                               #Slight vibration of screen
+6 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+4 p- Monster_038.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Monster_039.png
+50 p- Monster_040.png
+C49                               #Play sage's magic firing SFE
+C2E                               #Show sage's normal magic rune drawing animation
+1 p- Monster_041.png
+60 p- Monster_042.png
+C05                               #Call spell associated with equipped weapon
+6 p- Monster_043.png
+C01                               #NOP
+6 p- Monster_043.png
+2 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Monster_000.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+C3D                               #FE7:Show Nergal's dark aura animation
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+5 p- Monster_044.png
+5 p- Monster_045.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+1 p- Monster_046.png
+80 p- Monster_047.png
+C14                               #Heavy vibration of screen
+C2F                               #Show sage's critical magic rune drawing animation
+80 p- Monster_047.png
+13 p- Monster_048.png
+2 p- Monster_049.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+13 p- Monster_050.png
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+30 p- Monster_050.png
+1 p- Monster_051.png
+5 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Monster_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Monster_052.png
+C01                               #NOP
+3 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Monster_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Monster_052.png
+C01                               #NOP
+3 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+2 p- Monster_001.png
+1 p- Monster_002.png
+C30                               #Show dirt kicking (as from dashing forward) animation
+S012F                               #Sound 303  [Empty Track]
+2 p- Monster_003.png
+3 p- Monster_004.png
+1 p- Monster_005.png
+C42                               #Play long axe swinging SFE
+3 p- Monster_006.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C15                               #Slight vibration of screen
+2 p- Monster_007.png
+1 p- Monster_008.png
+2 p- Monster_009.png
+2 p- Monster_010.png
+2 p- Monster_011.png
+C42                               #Play long axe swinging SFE
+2 p- Monster_010.png
+2 p- Monster_011.png
+13 p- Monster_012.png
+C01                               #NOP
+3 p- Monster_013.png
+1 p- Monster_014.png
+2 p- Monster_001.png
+C34                               #Play heavy stepping SFE
+2 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

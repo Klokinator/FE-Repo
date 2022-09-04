@@ -1,0 +1,7 @@
+Original from [T2 Summoner-Reskin] [F] FEGirls-Style (FEGirls Project)
+
+Hair Color Fix by RiriK.
+
+Palette slot #3, #8 and #9 is now standalone hair that won't conflict with the rest of the sprite and goes
+
+Lightest(#3), Medium(#8) and Darkest(#9) respectively.

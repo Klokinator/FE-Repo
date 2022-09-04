@@ -18,11 +18,27 @@ def find_images(directory):
     return pngs
 
 
+def contains_bg_color(image, bg_color):
+    colors_used = image.getcolors()
+    if colors_used is None:
+        return True # Do nothing
+
+    # Checks each tuple (count, color) if it contains the bg_color
+    contains_bg_color = len([color for color in colors_used if color[1] == bg_color]) > 0
+
+    return contains_bg_color
+
+
 def replace_background_in_image(image_path):
     img = Image.open(image_path)
     portrait_with_frames_size = (128, 112)
     if img.size != portrait_with_frames_size:
         return
+
+    desired_background_color = (160, 200, 152, 255)
+
+    if contains_bg_color(img, desired_background_color):
+        return # Image already contains the wanted bg color. Do nothing
 
     img = img.convert("RGBA")
 
@@ -33,8 +49,6 @@ def replace_background_in_image(image_path):
     current_bg_red = current_background_color[0]
     current_bg_green = current_background_color[1]
     current_bg_blue = current_background_color[2]
-
-    desired_background_color = (160, 200, 152, 255)
 
     bg_areas = (red == current_bg_red) & (blue == current_bg_blue) & (green == current_bg_green)
     image_data[...][bg_areas.T] = desired_background_color

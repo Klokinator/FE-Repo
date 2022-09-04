@@ -20,6 +20,9 @@ def find_images(directory):
 
 def contains_bg_color(image, bg_color):
     colors_used = image.getcolors()
+    if colors_used is None:
+        return True # Do nothing
+
     # Checks each tuple (count, color) if it contains the bg_color
     contains_bg_color = len([color for color in colors_used if color[1] == bg_color]) > 0
 

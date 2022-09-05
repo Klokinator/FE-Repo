@@ -1,0 +1,183 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+6 p- Item_002.png
+SF8                               #Sound 248 SE:Elfire spell hitting
+3 p- Item_003.png
+3 p- Item_004.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C15                               #Slight vibration of screen
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+3 p- Item_008.png
+C01                               #NOP
+3 p- Item_009.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+3 p- Item_002.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+3 p- Item_013.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+S02C4                               #Sound 708 SE:Luce flash [Empty Track]
+3 p- Item_013.png
+3 p- Item_014.png
+3 p- Item_015.png
+S02C5                               #Sound 709 SE:Luce charging [Empty Track]
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_018.png
+3 p- Item_019.png
+3 p- Item_020.png
+3 p- Item_008.png
+C01                               #NOP
+3 p- Item_009.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+6 p- Item_002.png
+SF8                               #Sound 248 SE:Elfire spell hitting
+3 p- Item_003.png
+3 p- Item_004.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C15                               #Slight vibration of screen
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+3 p- Item_008.png
+C01                               #NOP
+3 p- Item_009.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+3 p- Item_002.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+3 p- Item_013.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+S02C4                               #Sound 708 SE:Luce flash [Empty Track]
+3 p- Item_013.png
+3 p- Item_014.png
+3 p- Item_015.png
+S02C5                               #Sound 709 SE:Luce charging [Empty Track]
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_018.png
+3 p- Item_019.png
+3 p- Item_020.png
+3 p- Item_008.png
+C01                               #NOP
+3 p- Item_009.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Item_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Item_021.png
+1 p- Item_022.png
+C01                               #NOP
+3 p- Item_021.png
+1 p- Item_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Item_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Item_021.png
+1 p- Item_022.png
+C01                               #NOP
+3 p- Item_021.png
+1 p- Item_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+6 p- Item_002.png
+SF8                               #Sound 248 SE:Elfire spell hitting
+3 p- Item_003.png
+3 p- Item_004.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C15                               #Slight vibration of screen
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+3 p- Item_008.png
+C01                               #NOP
+3 p- Item_009.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

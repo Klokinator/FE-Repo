@@ -1,0 +1,264 @@
+/// - Mode 1
+C03
+C07
+1 p- Axs_000.png
+C23
+3 p- Axs_001.png
+4 p- Axs_002.png
+6 p- Axs_003.png
+4 p- Axs_004.png
+4 p- Axs_005.png
+C22
+3 p- Axs_006.png
+3 p- Axs_007.png
+3 p- Axs_008.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_008.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_008.png
+4 p- Axs_011.png
+4 p- Axs_012.png
+3 p- Axs_013.png
+3 p- Axs_014.png
+3 p- Axs_015.png
+3 p- Axs_016.png
+3 p- Axs_017.png
+3 p- Axs_018.png
+C04
+C22
+3 p- Axs_019.png
+C1A
+C1F
+C15
+3 p- Axs_020.png
+1 p- Axs_021.png
+C01
+4 p- Axs_022.png
+4 p- Axs_023.png
+4 p- Axs_024.png
+3 p- Axs_025.png
+4 p- Axs_026.png
+C22
+4 p- Axs_027.png
+4 p- Axs_028.png
+4 p- Axs_029.png
+4 p- Axs_011.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_007.png
+3 p- Axs_006.png
+6 p- Axs_003.png
+3 p- Axs_002.png
+3 p- Axs_001.png
+1 p- Axs_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Axs_000.png
+3 p- Axs_001.png
+4 p- Axs_002.png
+C3A
+6 p- Axs_003.png
+5 p- Axs_030.png
+5 p- Axs_031.png
+5 p- Axs_032.png
+4 p- Axs_033.png
+4 p- Axs_034.png
+4 p- Axs_035.png
+4 p- Axs_036.png
+4 p- Axs_037.png
+C79
+6 p- Axs_038.png
+16 p- Axs_039.png
+6 p- Axs_040.png
+C2A
+8 p- Axs_041.png
+5 p- Axs_042.png
+8 p- Axs_043.png
+8 p- Axs_041.png
+5 p- Axs_042.png
+8 p- Axs_043.png
+10 p- Axs_041.png
+5 p- Axs_042.png
+12 p- Axs_043.png
+10 p- Axs_041.png
+4 p- Axs_044.png
+4 p- Axs_045.png
+C1B
+4 p- Axs_046.png
+4 p- Axs_047.png
+3 p- Axs_048.png
+C1F
+C15
+3 p- Axs_049.png
+3 p- Axs_050.png
+12 p- Axs_051.png
+3 p- Axs_052.png
+3 p- Axs_053.png
+3 p- Axs_054.png
+6 p- Axs_054.png
+3 p- Axs_048.png
+C1F
+C15
+3 p- Axs_049.png
+3 p- Axs_052.png
+3 p- Axs_053.png
+3 p- Axs_054.png
+6 p- Axs_054.png
+3 p- Axs_048.png
+C1F
+C15
+3 p- Axs_049.png
+3 p- Axs_052.png
+3 p- Axs_053.png
+3 p- Axs_054.png
+18 p- Axs_054.png
+3 p- Axs_048.png
+C04
+C08
+C1F
+C14
+3 p- Axs_050.png
+30 p- Axs_051.png
+C01
+4 p- Axs_055.png
+3 p- Axs_056.png
+3 p- Axs_057.png
+3 p- Axs_058.png
+C1B
+3 p- Axs_059.png
+3 p- Axs_060.png
+3 p- Axs_061.png
+3 p- Axs_062.png
+4 p- Axs_063.png
+C22
+12 p- Axs_039.png
+4 p- Axs_036.png
+4 p- Axs_035.png
+3 p- Axs_002.png
+3 p- Axs_001.png
+1 p- Axs_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Axs_000.png
+C05
+1 p- Axs_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Axs_000.png
+C05
+1 p- Axs_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Axs_000.png
+C0E
+6 p- Axs_064.png
+1 p- Axs_065.png
+C01
+6 p- Axs_064.png
+1 p- Axs_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Axs_000.png
+C0E
+6 p- Axs_064.png
+1 p- Axs_065.png
+C01
+6 p- Axs_064.png
+1 p- Axs_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Axs_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Axs_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Axs_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Axs_000.png
+C23
+3 p- Axs_001.png
+4 p- Axs_002.png
+6 p- Axs_003.png
+4 p- Axs_004.png
+4 p- Axs_005.png
+C22
+3 p- Axs_006.png
+3 p- Axs_007.png
+3 p- Axs_008.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_008.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_008.png
+4 p- Axs_011.png
+4 p- Axs_012.png
+3 p- Axs_013.png
+3 p- Axs_014.png
+3 p- Axs_015.png
+3 p- Axs_016.png
+3 p- Axs_017.png
+3 p- Axs_018.png
+C04
+C22
+3 p- Axs_019.png
+C1F
+C15
+3 p- Axs_020.png
+1 p- Axs_021.png
+C01
+4 p- Axs_022.png
+4 p- Axs_023.png
+4 p- Axs_024.png
+3 p- Axs_025.png
+4 p- Axs_026.png
+C22
+4 p- Axs_027.png
+4 p- Axs_028.png
+4 p- Axs_029.png
+4 p- Axs_011.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_009.png
+3 p- Axs_010.png
+3 p- Axs_007.png
+3 p- Axs_006.png
+6 p- Axs_003.png
+3 p- Axs_002.png
+3 p- Axs_001.png
+1 p- Axs_000.png
+C06
+C0D
+~~~
+/// - End of animation

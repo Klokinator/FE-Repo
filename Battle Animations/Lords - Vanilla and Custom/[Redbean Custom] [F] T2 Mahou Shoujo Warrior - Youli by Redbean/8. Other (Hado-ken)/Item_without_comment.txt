@@ -1,0 +1,178 @@
+/// - Mode 1
+C03
+C07
+1 p- Item_000.png
+3 p- Item_001.png
+6 p- Item_002.png
+SF8
+3 p- Item_003.png
+3 p- Item_004.png
+C04
+C1A
+C1F
+C15
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+3 p- Item_008.png
+C01
+3 p- Item_009.png
+1 p- Item_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Item_000.png
+3 p- Item_001.png
+3 p- Item_002.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+3 p- Item_013.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+S02C4
+3 p- Item_013.png
+3 p- Item_014.png
+3 p- Item_015.png
+S02C5
+C04
+C08
+C1F
+C14
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_018.png
+3 p- Item_019.png
+3 p- Item_020.png
+3 p- Item_008.png
+C01
+3 p- Item_009.png
+1 p- Item_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Item_000.png
+3 p- Item_001.png
+6 p- Item_002.png
+SF8
+3 p- Item_003.png
+3 p- Item_004.png
+C04
+C1A
+C1F
+C15
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+3 p- Item_008.png
+C01
+3 p- Item_009.png
+1 p- Item_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Item_000.png
+3 p- Item_001.png
+3 p- Item_002.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+3 p- Item_013.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+S02C4
+3 p- Item_013.png
+3 p- Item_014.png
+3 p- Item_015.png
+S02C5
+C04
+C08
+C1F
+C14
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_016.png
+3 p- Item_017.png
+3 p- Item_018.png
+3 p- Item_019.png
+3 p- Item_020.png
+3 p- Item_008.png
+C01
+3 p- Item_009.png
+1 p- Item_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Item_000.png
+C0E
+3 p- Item_021.png
+1 p- Item_022.png
+C01
+3 p- Item_021.png
+1 p- Item_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Item_000.png
+C0E
+3 p- Item_021.png
+1 p- Item_022.png
+C01
+3 p- Item_021.png
+1 p- Item_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Item_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Item_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Item_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Item_000.png
+3 p- Item_001.png
+6 p- Item_002.png
+SF8
+3 p- Item_003.png
+3 p- Item_004.png
+C04
+C15
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+3 p- Item_008.png
+C01
+3 p- Item_009.png
+1 p- Item_000.png
+C06
+C0D
+~~~
+/// - End of animation

@@ -5065,6 +5065,25 @@
 
 
 
+
+### [\[Redbean Custom\] \[F\] T1 Mahou Shoujo Princess Youli by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T1%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T1%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T1%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T1%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Redbean Custom\] \[F\] T2 Mahou Shoujo Princess Youli by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/2.%20Lance/Lance.gif"/> | <b>Lance (CriticalThrowSpear)</b><br/><img alt="Lance (CriticalThrowSpear)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/2.%20Lance%20(CriticalThrowSpear)/Lance.gif"/> |
+| :---: | :---: | :---: |
+| <b>Axs</b><br/><img alt="Axs" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/3.%20Axs/Axs.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/5.%20Bow/Bow.gif"/> |
+| <b>Bow (CriticalRain)</b><br/><img alt="Bow (CriticalRain)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/5.%20Bow%20(CriticalRain)/Bow.gif"/> | <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/6.%20Magic%20(Dark)/Magic.gif"/> | <b>Magic (MagicBook)</b><br/><img alt="Magic (MagicBook)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/6.%20Magic%20(MagicBook)/Magic.gif"/> |
+| <b>Staff (Attack)</b><br/><img alt="Staff (Attack)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/7.%20Staff%20(Attack)/Staff.gif"/> | <b>Staff (Short)</b><br/><img alt="Staff (Short)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BRedbean%20Custom%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/7.%20Staff%20(Short)/Staff.gif"/> |
+
+
+
 </details>
 
 

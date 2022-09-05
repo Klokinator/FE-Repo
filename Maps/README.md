@@ -200,6 +200,16 @@
 
 </details>
 
+## [Map Pack {Armory} (3)](Map%20Pack%20%7BArmory%7D%20(3))
+
+<details><summary>Click to expand!</summary>
+
+# Map Pack {Armory} (3)
+
+![FEFields 1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BArmory%7D%20(3)/FEFields%201.png "FEFields 1.png")![FEFields 2.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BArmory%7D%20(3)/FEFields%202.png "FEFields 2.png")![FEFields 3.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BArmory%7D%20(3)/FEFields%203.png "FEFields 3.png")
+
+</details>
+
 ## [Map Pack {Primefusion}](Map%20Pack%20%7BPrimefusion%7D)
 
 <details><summary>Click to expand!</summary>

@@ -8,5 +8,12 @@
 
 ## Credits
 
-Credits are currently in the process of being implemented fully. Please use the names within {} in the title until the work is complete.
+Character name:幽离 Youli (Promoted)
+
+Author: RedBean
+
+AnimationScript: 7743
+
+https://tieba.baidu.com/p/7146291531?pn=2
+
 

@@ -2,4 +2,4 @@ This is an updated version of the previous FE Character Creators, made by Vale o
 
 Check out his Github for more details!
 
-https://github.com/ValeTheVioletMote/fecc/releases/tag/3.0.0
+https://github.com/ValeTheVioletMote/fecc

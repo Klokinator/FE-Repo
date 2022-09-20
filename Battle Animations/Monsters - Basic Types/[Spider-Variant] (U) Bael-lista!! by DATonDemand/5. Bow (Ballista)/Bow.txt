@@ -1,0 +1,182 @@
+#######################################################
+#01 lorm_sp1 Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C2B                               #Play armored unit "leaping" SFE
+1 p- Bow_000.png
+5 p- Bow_001.png
+15 p- Bow_002.png
+4 p- Bow_003.png
+18 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_005.png
+18 p- Bow_006.png
+C01                               #NOP
+4 p- Bow_006.png
+4 p- Bow_007.png
+4 p- Bow_008.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- Bow_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C2B                               #Play armored unit "leaping" SFE
+1 p- Bow_000.png
+5 p- Bow_001.png
+10 p- Bow_002.png
+C58                               #bael 3 SFE
+5 p- Bow_009.png
+5 p- Bow_010.png
+5 p- Bow_009.png
+5 p- Bow_010.png
+5 p- Bow_009.png
+5 p- Bow_010.png
+5 p- Bow_009.png
+5 p- Bow_010.png
+10 p- Bow_002.png
+4 p- Bow_003.png
+10 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+4 p- Bow_005.png
+4 p- Bow_006.png
+6 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+4 p- Bow_005.png
+4 p- Bow_006.png
+18 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_005.png
+18 p- Bow_006.png
+C01                               #NOP
+4 p- Bow_006.png
+4 p- Bow_007.png
+4 p- Bow_008.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- Bow_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C2B                               #Play armored unit "leaping" SFE
+1 p- Bow_000.png
+5 p- Bow_001.png
+15 p- Bow_002.png
+4 p- Bow_003.png
+18 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_005.png
+18 p- Bow_006.png
+C01                               #NOP
+4 p- Bow_006.png
+4 p- Bow_007.png
+4 p- Bow_008.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- Bow_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C2B                               #Play armored unit "leaping" SFE
+1 p- Bow_000.png
+5 p- Bow_001.png
+10 p- Bow_002.png
+C58                               #bael 3 SFE
+5 p- Bow_009.png
+5 p- Bow_010.png
+5 p- Bow_009.png
+5 p- Bow_010.png
+5 p- Bow_009.png
+5 p- Bow_010.png
+5 p- Bow_009.png
+5 p- Bow_010.png
+10 p- Bow_002.png
+4 p- Bow_003.png
+10 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+4 p- Bow_005.png
+4 p- Bow_006.png
+6 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+4 p- Bow_005.png
+4 p- Bow_006.png
+18 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_005.png
+18 p- Bow_006.png
+C01                               #NOP
+4 p- Bow_006.png
+4 p- Bow_007.png
+4 p- Bow_008.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- Bow_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+4 p- Bow_011.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+16 p- Bow_012.png
+C01                               #NOP
+4 p- Bow_011.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+4 p- Bow_011.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+16 p- Bow_012.png
+C01                               #NOP
+4 p- Bow_011.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+16 p- Bow_013.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+16 p- Bow_013.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+16 p- Bow_013.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C2B                               #Play armored unit "leaping" SFE
+1 p- Bow_000.png
+5 p- Bow_001.png
+10 p- Bow_002.png
+4 p- Bow_003.png
+8 p- Bow_004.png
+SD0                               #Sound 208 SE:Ballista fire
+4 p- Bow_005.png
+C05                               #Call spell associated with equipped weapon
+18 p- Bow_006.png
+C01                               #NOP
+4 p- Bow_006.png
+4 p- Bow_007.png
+4 p- Bow_008.png
+C2B                               #Play armored unit "leaping" SFE
+5 p- Bow_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

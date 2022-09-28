@@ -8,8 +8,10 @@
 
 ## Credit
 
-Made by Red Bean.
+Sword, Magic, Unarmed by Red Bean.
 
 Scripted by Jeorge_Reds.
+
+Lance by Marlon0024, Jeorge_Reds, EA, Smash, Red Bean.
 
 Eirika-Style variant made by EA.

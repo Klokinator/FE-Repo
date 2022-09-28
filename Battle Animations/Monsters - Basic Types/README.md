@@ -210,6 +210,14 @@
 
 
 
+## [\[Skeleton-Variant\] \[U\] Skeleshaman \(Lich\) by Dutch Introvert](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Variant%5D%20%5BU%5D%20Skeleshaman%20(Lich)%20by%20Dutch%20Introvert) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Variant%5D%20%5BU%5D%20Skeleshaman%20(Lich)%20by%20Dutch%20Introvert)
+
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Variant%5D%20%5BU%5D%20Skeleshaman%20(Lich)%20by%20Dutch%20Introvert/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Variant%5D%20%5BU%5D%20Skeleshaman%20(Lich)%20by%20Dutch%20Introvert/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Spider-Base\] \[U\] Elder Bael Repal +Ranged](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Repal%20%2BRanged) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Repal%20%2BRanged)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Base%5D%20%5BU%5D%20Elder%20Bael%20Repal%20+Ranged/8.%20Monster/Monster.gif"/> |
@@ -245,6 +253,14 @@
 ## [\[Spider-Reskin\] \[U\] Queen Bael by TytheBub](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Spider-Variant\] \(U\) Bael-lista!! by DATonDemand](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand/5.%20Bow/Bow.gif"/> | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand/5.%20Bow%20(Ballista)/Bow.gif"/> | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand/8.%20Monster/Monster.gif"/> |
 | :---: | :---: | :---: |
 
 

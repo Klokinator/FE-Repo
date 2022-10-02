@@ -11,3 +11,5 @@
 Base Halberdier by TBA.
 
 Lancer variant by Jj09.
+
+Magic animation by UltraxBlade.

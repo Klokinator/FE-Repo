@@ -1,3 +1,0 @@
-Lance - Marlon, Jeorge_Reds, EA, Smash, Red Bean
-
-Known Issues: Frame 12 shows a sword instead of lance, Frame 54 has a separated piece of the lance floating about

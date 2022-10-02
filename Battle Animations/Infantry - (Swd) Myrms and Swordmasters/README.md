@@ -483,6 +483,14 @@
 
 
 
+## [\[Swordmaster-Variant\] \[M\] Joshua by Issac](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Issac) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Issac)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Joshua%20by%20Issac/1.%20Sword/Sword.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Swordmaster-Variant\] \[M\] Lloyd Alt by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea)
 
 | <b>Sword (Backslash 1)</b><br/><img alt="Sword (Backslash 1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%201)/Sword.gif"/> | <b>Sword (Backslash 2)</b><br/><img alt="Sword (Backslash 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20(Backslash%202)/Sword.gif"/> | <b>Sword Shaky 1</b><br/><img alt="Sword Shaky 1" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea/1.%20Sword%20Shaky%201/Sword.gif"/> |

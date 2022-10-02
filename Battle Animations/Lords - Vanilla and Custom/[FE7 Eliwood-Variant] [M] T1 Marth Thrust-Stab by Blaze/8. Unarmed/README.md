@@ -8,4 +8,7 @@
 
 ## Credit
 
-Made by Blaze for use in GFE1R.
+Made by Blaze (aka Abzel) for use in GFE1R.
+
+Not F2E unless given permission.
+

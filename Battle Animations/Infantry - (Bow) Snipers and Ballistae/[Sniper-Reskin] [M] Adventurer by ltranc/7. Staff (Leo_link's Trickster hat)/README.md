@@ -8,8 +8,10 @@
 
 ## Credit
 
-Animation by Itranc.
+Animation by ltranc.
 
 Hat from Nuramon.
 
 Trickster Hat from Leo_Link.
+
+Bandana from Pushwall.

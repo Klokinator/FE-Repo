@@ -10,4 +10,4 @@
 
 Made by Yosh, Aruka, Kenpuhu.
 
-Missing an Unarmed animation.
+Unarmed by DrGreen3339.

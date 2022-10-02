@@ -10,4 +10,4 @@
 
 Male base made by Team SALVAGED.
 
-Female variant by Jey the Count, with minor fixes by Pushwall.
+Female variant by Jey the Count, with minor fixes and axe animations by Pushwall.

@@ -1,0 +1,243 @@
+/// - Mode 1
+C03
+C07
+6 p- HandAxe_000.png
+4 p- HandAxe_001.png
+3 p- HandAxe_002.png
+3 p- HandAxe_003.png
+3 p- HandAxe_004.png
+C1B
+4 p- HandAxe_005.png
+6 p- HandAxe_006.png
+3 p- HandAxe_007.png
+2 p- HandAxe_008.png
+1 p- HandAxe_009.png
+C22
+2 p- HandAxe_010.png
+C1B
+C05
+3 p- HandAxe_011.png
+3 p- HandAxe_012.png
+3 p- HandAxe_013.png
+3 p- HandAxe_014.png
+C13
+2 p- HandAxe_015.png
+C43
+4 p- HandAxe_016.png
+4 p- HandAxe_017.png
+4 p- HandAxe_018.png
+4 p- HandAxe_019.png
+3 p- HandAxe_020.png
+C1B
+6 p- HandAxe_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+6 p- HandAxe_000.png
+C38
+2 p- HandAxe_021.png
+2 p- HandAxe_022.png
+2 p- HandAxe_023.png
+C38
+2 p- HandAxe_024.png
+2 p- HandAxe_025.png
+2 p- HandAxe_026.png
+C38
+2 p- HandAxe_027.png
+2 p- HandAxe_028.png
+C1B
+2 p- HandAxe_029.png
+9 p- HandAxe_005.png
+4 p- HandAxe_006.png
+3 p- HandAxe_007.png
+2 p- HandAxe_008.png
+1 p- HandAxe_009.png
+C22
+2 p- HandAxe_010.png
+C1B
+C05
+3 p- HandAxe_011.png
+3 p- HandAxe_012.png
+3 p- HandAxe_013.png
+3 p- HandAxe_014.png
+C13
+2 p- HandAxe_015.png
+C43
+4 p- HandAxe_016.png
+4 p- HandAxe_017.png
+4 p- HandAxe_018.png
+4 p- HandAxe_019.png
+3 p- HandAxe_020.png
+C1B
+6 p- HandAxe_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+6 p- HandAxe_000.png
+4 p- HandAxe_001.png
+3 p- HandAxe_002.png
+3 p- HandAxe_003.png
+3 p- HandAxe_004.png
+C1B
+4 p- HandAxe_005.png
+6 p- HandAxe_006.png
+3 p- HandAxe_007.png
+2 p- HandAxe_008.png
+1 p- HandAxe_009.png
+C22
+2 p- HandAxe_010.png
+C1B
+C05
+3 p- HandAxe_011.png
+3 p- HandAxe_012.png
+3 p- HandAxe_013.png
+3 p- HandAxe_014.png
+C13
+2 p- HandAxe_015.png
+C43
+4 p- HandAxe_016.png
+4 p- HandAxe_017.png
+4 p- HandAxe_018.png
+4 p- HandAxe_019.png
+3 p- HandAxe_020.png
+C1B
+6 p- HandAxe_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+6 p- HandAxe_000.png
+C38
+2 p- HandAxe_021.png
+2 p- HandAxe_022.png
+2 p- HandAxe_023.png
+C38
+2 p- HandAxe_024.png
+2 p- HandAxe_025.png
+2 p- HandAxe_026.png
+C38
+2 p- HandAxe_027.png
+2 p- HandAxe_028.png
+C1B
+2 p- HandAxe_029.png
+9 p- HandAxe_005.png
+4 p- HandAxe_006.png
+3 p- HandAxe_007.png
+2 p- HandAxe_008.png
+1 p- HandAxe_009.png
+C22
+2 p- HandAxe_010.png
+C1B
+C05
+3 p- HandAxe_011.png
+3 p- HandAxe_012.png
+3 p- HandAxe_013.png
+3 p- HandAxe_014.png
+C13
+2 p- HandAxe_015.png
+C43
+4 p- HandAxe_016.png
+4 p- HandAxe_017.png
+4 p- HandAxe_018.png
+4 p- HandAxe_019.png
+3 p- HandAxe_020.png
+C1B
+6 p- HandAxe_000.png
+C01
+C06
+C0D
+~~~
+/// - Mode 7
+1 p- HandAxe_000.png
+C02
+2 p- HandAxe_030.png
+2 p- HandAxe_031.png
+2 p- HandAxe_032.png
+3 p- HandAxe_033.png
+C01
+6 p- HandAxe_032.png
+4 p- HandAxe_031.png
+4 p- HandAxe_030.png
+C1B
+6 p- HandAxe_034.png
+3 p- HandAxe_000.png
+C06
+C0D
+~~~
+/// - Mode 8
+1 p- HandAxe_000.png
+C02
+2 p- HandAxe_030.png
+2 p- HandAxe_031.png
+2 p- HandAxe_032.png
+3 p- HandAxe_033.png
+C01
+6 p- HandAxe_032.png
+4 p- HandAxe_031.png
+4 p- HandAxe_030.png
+C1B
+6 p- HandAxe_034.png
+3 p- HandAxe_000.png
+C06
+C0D
+~~~
+/// - Mode 9
+2 p- HandAxe_000.png
+C01
+~~~
+/// - Mode 10
+2 p- HandAxe_000.png
+C01
+~~~
+/// - Mode 11
+2 p- HandAxe_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+6 p- HandAxe_000.png
+4 p- HandAxe_001.png
+3 p- HandAxe_002.png
+3 p- HandAxe_003.png
+3 p- HandAxe_004.png
+C1B
+4 p- HandAxe_005.png
+6 p- HandAxe_006.png
+3 p- HandAxe_007.png
+2 p- HandAxe_008.png
+1 p- HandAxe_009.png
+C22
+2 p- HandAxe_010.png
+C1B
+C05
+3 p- HandAxe_011.png
+3 p- HandAxe_012.png
+3 p- HandAxe_013.png
+3 p- HandAxe_014.png
+C13
+2 p- HandAxe_015.png
+C43
+4 p- HandAxe_016.png
+4 p- HandAxe_017.png
+4 p- HandAxe_018.png
+4 p- HandAxe_019.png
+3 p- HandAxe_020.png
+C1B
+6 p- HandAxe_000.png
+C01
+C06
+C0D
+~~~
+/// - End of animation

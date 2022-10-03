@@ -5,7 +5,7 @@
 
 ## Credits
 
-Improved/Smoothed Axe by BwdYeti.
+Improved/Smoothed Axe by BwdYeti. F2U only.
 
 Scripting by Shadowofchaos.
 

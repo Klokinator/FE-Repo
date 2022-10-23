@@ -12,7 +12,7 @@ C1B                               #Play quick "heavy step" SFE
 4 p- Lance_002.png
 6 p- Lance_003.png
 C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C1A                               #Normal hit
 1 p- Lance_004.png
 C01                               #NOP
@@ -42,7 +42,7 @@ C23                               #Play shorter sword swinging SFE
 C1B                               #Play quick "heavy step" SFE
 4 p- Lance_002.png
 6 p- Lance_003.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C23                               #Play shorter sword swinging SFE
 C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
 C0C                               #Critical hit
@@ -148,7 +148,7 @@ C07                               #Start attack animation; need 03 right before 
 C1B                               #Play quick "heavy step" SFE
 4 p- Lance_002.png
 6 p- Lance_003.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C23                               #Play shorter sword swinging SFE
 1 p- Lance_028.png
 C01                               #NOP

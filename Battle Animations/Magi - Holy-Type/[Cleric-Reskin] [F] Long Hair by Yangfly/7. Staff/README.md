@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Yangfly Master.
+
+Magic animation by 7743.

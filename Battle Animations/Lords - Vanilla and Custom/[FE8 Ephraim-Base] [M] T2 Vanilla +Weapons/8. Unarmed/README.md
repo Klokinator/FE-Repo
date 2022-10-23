@@ -19,3 +19,5 @@ Axe by Belle, St jack.
 Handaxe by Belle, St jack.
 
 Bow by Belle, St jack.
+
+Staff by Fates-Blade.

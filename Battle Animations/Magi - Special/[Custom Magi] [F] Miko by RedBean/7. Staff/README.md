@@ -11,3 +11,5 @@
 Made by Red Bean.
 
 Scripted by Dolkar.
+
+Staff Script improvement by 7743.

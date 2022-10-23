@@ -9,3 +9,5 @@
 ## Credit
 
 Made by BatimaTheBat.
+
+Magic Animation by 7743.

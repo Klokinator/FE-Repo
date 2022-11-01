@@ -10,4 +10,4 @@
 
 Vanilla animation by IS.
 
-Lance by ???
+Lance by Skitty and Feaw.

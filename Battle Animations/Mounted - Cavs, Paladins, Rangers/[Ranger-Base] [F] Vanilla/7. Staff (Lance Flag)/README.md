@@ -1,4 +1,4 @@
-# [\[Centaur-Reskin\] \[F\] Centaur by Alfred Kamon](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Basic%20Types%2F%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon%2F7.%20Staff)
+# [\[Ranger-Base\] \[F\] Vanilla](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BRanger-Base%5D%20%5BF%5D%20Vanilla%2F7.%20Staff%20(Lance%20Flag))
 
 ## Staff
 
@@ -8,8 +8,6 @@
 
 ## Credit
 
-Base Sword by Alfred Kamon. 
+Vanilla animation by IS.
 
-Improvements (???) by Starter.
-
-Magic and Staff by Pikmin1211.
+Lance by Skitty and Feaw.

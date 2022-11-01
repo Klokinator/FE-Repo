@@ -11,3 +11,8 @@
 Vanilla animation by IS.
 
 Magic w/staff animation by seergiioo.
+
+Daggers by DatonDemand.
+
+Crit motion by Ellie, Mommy Who Loves You!
+

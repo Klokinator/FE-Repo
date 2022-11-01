@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Magic animations by Blue Druid.
 
 Sword by ZoramineFae.
+
+Removed a white pixel in face by Vilk.

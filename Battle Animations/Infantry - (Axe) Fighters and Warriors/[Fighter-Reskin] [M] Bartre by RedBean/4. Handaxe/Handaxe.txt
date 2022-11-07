@@ -1,5 +1,5 @@
 #######################################################
-#01 lorm_sp1 Lord Lance
+#07 lomm_sp1 Great Lord Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -11,7 +11,7 @@ C07                               #Start attack animation; need 03 right before 
 3 p- Handaxe_002.png
 4 p- Handaxe_003.png
 4 p- Handaxe_004.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_005.png
 1 p- Handaxe_006.png
@@ -45,7 +45,7 @@ C38                               #Play heavy spear spinning SFE
 2 p- Handaxe_018.png
 2 p- Handaxe_019.png
 2 p- Handaxe_020.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_005.png
 1 p- Handaxe_006.png
@@ -67,7 +67,7 @@ C07                               #Start attack animation; need 03 right before 
 3 p- Handaxe_002.png
 4 p- Handaxe_003.png
 4 p- Handaxe_004.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_005.png
 1 p- Handaxe_006.png
@@ -101,7 +101,7 @@ C38                               #Play heavy spear spinning SFE
 2 p- Handaxe_018.png
 2 p- Handaxe_019.png
 2 p- Handaxe_020.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_005.png
 1 p- Handaxe_006.png
@@ -155,7 +155,7 @@ C07                               #Start attack animation; need 03 right before 
 3 p- Handaxe_002.png
 4 p- Handaxe_003.png
 4 p- Handaxe_004.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_005.png
 1 p- Handaxe_006.png

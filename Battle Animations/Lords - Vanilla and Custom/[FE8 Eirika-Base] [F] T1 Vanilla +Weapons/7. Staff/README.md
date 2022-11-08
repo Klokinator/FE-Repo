@@ -15,3 +15,7 @@ Sword (Backflip) by SamirPlayz.
 Lance sprites by PrincessKilvas, formatted by Reyk_Retro0337.
 
 Magic and Staff by Lisandra_Brave.
+
+Beta Backflip by Plant_Academy and special thanks to:
+
+Obsidian_Daddy, Feier, Struedelmuffin.

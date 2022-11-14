@@ -1,0 +1,261 @@
+#######################################################
+#04 lorf_sw1 Lord Item
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+12 p- Item_002.png
+C34                               #Play heavy stepping SFE
+2 p- Item_003.png
+C34                               #Play heavy stepping SFE
+2 p- Item_004.png
+2 p- Item_005.png
+2 p- Item_006.png
+2 p- Item_007.png
+C34                               #Play heavy stepping SFE
+2 p- Item_008.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Item_009.png
+4 p- Item_010.png
+4 p- Item_011.png
+4 p- Item_012.png
+2 p- Item_013.png
+C22                               #Play short sword swinging SFE
+2 p- Item_014.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+2 p- Item_015.png
+1 p- Item_016.png
+C01                               #NOP
+2 p- Item_017.png
+C42                               #Play Axe falling SFE; long axe swinging SFE
+2 p- Item_018.png
+4 p- Item_009.png
+4 p- Item_019.png
+4 p- Item_020.png
+4 p- Item_021.png
+4 p- Item_022.png
+4 p- Item_023.png
+4 p- Item_024.png
+4 p- Item_025.png
+4 p- Item_026.png
+12 p- Item_002.png
+3 p- Item_001.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+6 p- Item_002.png
+4 p- Item_001.png
+5 p- Item_027.png
+3 p- Item_028.png
+5 p- Item_029.png
+3 p- Item_030.png
+5 p- Item_029.png
+3 p- Item_030.png
+5 p- Item_029.png
+3 p- Item_030.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+5 p- Item_027.png
+12 p- Item_002.png
+3 p- Item_031.png
+3 p- Item_032.png
+C22                               #Play short sword swinging SFE
+12 p- Item_033.png
+3 p- Item_034.png
+3 p- Item_035.png
+1 p- Item_036.png
+2 p- Item_037.png
+2 p- Item_038.png
+C22                               #Play short sword swinging SFE
+2 p- Item_039.png
+2 p- Item_040.png
+2 p- Item_041.png
+2 p- Item_042.png
+C22                               #Play short sword swinging SFE
+2 p- Item_043.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C15                               #Slight vibration of screen
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+1 p- Item_044.png
+C01                               #NOP
+2 p- Item_017.png
+C42                               #Play Axe falling SFE; long axe swinging SFE
+2 p- Item_018.png
+4 p- Item_009.png
+4 p- Item_019.png
+4 p- Item_020.png
+4 p- Item_021.png
+4 p- Item_022.png
+4 p- Item_023.png
+4 p- Item_024.png
+4 p- Item_025.png
+4 p- Item_026.png
+12 p- Item_002.png
+3 p- Item_001.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+12 p- Item_002.png
+C34                               #Play heavy stepping SFE
+2 p- Item_003.png
+C34                               #Play heavy stepping SFE
+2 p- Item_004.png
+2 p- Item_005.png
+2 p- Item_006.png
+2 p- Item_007.png
+C34                               #Play heavy stepping SFE
+2 p- Item_008.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C05                               #Call spell associated with equipped weapon
+4 p- Item_010.png
+4 p- Item_011.png
+4 p- Item_012.png
+4 p- Item_020.png
+4 p- Item_023.png
+4 p- Item_024.png
+4 p- Item_025.png
+C01                               #NOP
+4 p- Item_026.png
+12 p- Item_002.png
+3 p- Item_001.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+6 p- Item_002.png
+4 p- Item_001.png
+5 p- Item_027.png
+3 p- Item_028.png
+5 p- Item_029.png
+3 p- Item_030.png
+5 p- Item_029.png
+3 p- Item_030.png
+5 p- Item_029.png
+3 p- Item_030.png
+C22                               #Play short sword swinging SFE
+2 p- Item_003.png
+C34                               #Play heavy stepping SFE
+2 p- Item_004.png
+2 p- Item_005.png
+2 p- Item_006.png
+2 p- Item_007.png
+C34                               #Play heavy stepping SFE
+2 p- Item_008.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C05                               #Call spell associated with equipped weapon
+4 p- Item_010.png
+4 p- Item_011.png
+4 p- Item_012.png
+4 p- Item_020.png
+4 p- Item_023.png
+4 p- Item_024.png
+4 p- Item_025.png
+C01                               #NOP
+4 p- Item_026.png
+12 p- Item_002.png
+3 p- Item_001.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Item_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Item_045.png
+1 p- Item_046.png
+C01                               #NOP
+3 p- Item_045.png
+1 p- Item_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Item_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Item_045.png
+1 p- Item_046.png
+C01                               #NOP
+3 p- Item_045.png
+1 p- Item_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+3 p- Item_001.png
+12 p- Item_002.png
+C34                               #Play heavy stepping SFE
+2 p- Item_003.png
+C34                               #Play heavy stepping SFE
+2 p- Item_004.png
+2 p- Item_005.png
+2 p- Item_006.png
+2 p- Item_007.png
+C34                               #Play heavy stepping SFE
+2 p- Item_008.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Item_009.png
+4 p- Item_010.png
+4 p- Item_011.png
+4 p- Item_012.png
+2 p- Item_013.png
+C22                               #Play short sword swinging SFE
+2 p- Item_014.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+2 p- Item_015.png
+1 p- Item_016.png
+C01                               #NOP
+2 p- Item_017.png
+C42                               #Play Axe falling SFE; long axe swinging SFE
+2 p- Item_018.png
+4 p- Item_009.png
+4 p- Item_019.png
+4 p- Item_020.png
+4 p- Item_021.png
+4 p- Item_022.png
+4 p- Item_023.png
+4 p- Item_024.png
+4 p- Item_025.png
+4 p- Item_026.png
+12 p- Item_002.png
+3 p- Item_001.png
+1 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

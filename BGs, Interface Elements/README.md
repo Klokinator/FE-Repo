@@ -376,6 +376,16 @@
 
 </details>
 
+## [Fenreir's Status Screens](Status%20Screen%20Backgrounds/Fenreir's%20Status%20Screens)
+
+<details><summary>Click to expand!</summary>
+
+# Status Screen Backgrounds/Fenreir's Status Screens
+
+![Statscreen1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/Fenreir's%20Status%20Screens/Statscreen1.png "Statscreen1.png")
+
+</details>
+
 ## [Lord Glenn's 30 Anniv Screens](Status%20Screen%20Backgrounds/Lord%20Glenn's%2030%20Anniv%20Screens)
 
 <details><summary>Click to expand!</summary>

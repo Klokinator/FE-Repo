@@ -9,10 +9,28 @@
 
 
 
+## [\[Centaur-Reskin\] \[F\] Centaur Armor Promo by Dutch Introvert](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Armor%20Promo%20by%20Dutch%20Introvert) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Armor%20Promo%20by%20Dutch%20Introvert)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Armor%20Promo%20by%20Dutch%20Introvert/1.%20Sword/Sword.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Armor%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Magic (Staffless)</b><br/><img alt="Magic (Staffless)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Armor%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staffless)/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Armor%20Promo%20by%20Dutch%20Introvert/7.%20Staff/Staff.gif"/> |
+
+
+
+
 ## [\[Centaur-Reskin\] \[F\] Centaur by Alfred Kamon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20by%20Alfred%20Kamon/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Centaur-Reskin\] \[F\] Centaur Promo by Dutch Introvert](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/1.%20Sword/Sword.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Magic (Staffless)</b><br/><img alt="Magic (Staffless)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staffless)/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/7.%20Staff/Staff.gif"/> |
 
 
 
@@ -64,6 +82,14 @@
 ## [\[Gorgon-Custom\] \[U\] Gorgon Eggs by Ryn](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Custom%5D%20%5BU%5D%20Gorgon%20Eggs%20by%20Ryn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Custom%5D%20%5BU%5D%20Gorgon%20Eggs%20by%20Ryn)
 
 | <b>Unarmed (Large)</b><br/><img alt="Unarmed (Large)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Custom%5D%20%5BU%5D%20Gorgon%20Eggs%20by%20Ryn/8.%20Unarmed%20(Large)/Unarmed.gif"/> | <b>Unarmed (Medium)</b><br/><img alt="Unarmed (Medium)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Custom%5D%20%5BU%5D%20Gorgon%20Eggs%20by%20Ryn/8.%20Unarmed%20(Medium)/Unarmed.gif"/> | <b>Unarmed (Small)</b><br/><img alt="Unarmed (Small)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Custom%5D%20%5BU%5D%20Gorgon%20Eggs%20by%20Ryn/8.%20Unarmed%20(Small)/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Gorgon-Variant\] \[F\] Lamia by DATonDemand](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Variant%5D%20%5BF%5D%20Lamia%20by%20DATonDemand) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Variant%5D%20%5BF%5D%20Lamia%20by%20DATonDemand)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Variant%5D%20%5BF%5D%20Lamia%20by%20DATonDemand/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Variant%5D%20%5BF%5D%20Lamia%20by%20DATonDemand/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BGorgon-Variant%5D%20%5BF%5D%20Lamia%20by%20DATonDemand/8.%20Refresh/Refresh.gif"/> |
 | :---: | :---: | :---: |
 
 

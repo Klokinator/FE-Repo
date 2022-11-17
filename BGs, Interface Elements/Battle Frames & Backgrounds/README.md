@@ -4,6 +4,8 @@ undefined## [(Lisandra_Brave} Dojo Platform]((Lisandra_Brave%7D%20Dojo%20Platfor
 
 ## [Sokaballa's Battle Screen](Sokaballa's%20Battle%20Screen)
 
+## [{7743}  Battle Backgrounds](%7B7743%7D%20%20Battle%20Backgrounds)
+
 ## [{Sacred War} Backgrounds](%7BSacred%20War%7D%20Backgrounds)
 
 ## [{Sacred War} Battle Frames](%7BSacred%20War%7D%20Battle%20Frames)

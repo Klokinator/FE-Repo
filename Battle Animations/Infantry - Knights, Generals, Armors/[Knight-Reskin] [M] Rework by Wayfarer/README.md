@@ -5,5 +5,5 @@
 
 ## Credits
 
-Armor Rework No Helm by Wayfarer.
+Armor Rework by Wayfarer.
 

@@ -8,4 +8,6 @@
 
 ## Credit
 
+Animation by IS.
 
+Sword (Daggers) by DatonDemand.

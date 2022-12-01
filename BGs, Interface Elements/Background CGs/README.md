@@ -1,4 +1,6 @@
-undefined## [Assorted CGs {Zeldacrafter}](Assorted%20CGs%20%7BZeldacrafter%7D)
+undefined## [7743's BG's {7743}](7743's%20BG's%20%7B7743%7D)
+
+## [Assorted CGs {Zeldacrafter}](Assorted%20CGs%20%7BZeldacrafter%7D)
 
 ## [AW DoR BGs {Amdy}](AW%20DoR%20BGs%20%7BAmdy%7D)
 

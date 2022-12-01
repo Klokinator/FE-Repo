@@ -1,0 +1,292 @@
+#######################################################
+#BE gar_sp1 Baron Anima
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic_000.png
+5 p- Magic_001.png
+5 p- Magic_002.png
+5 p- Magic_003.png
+5 p- Magic_004.png
+C15                               #Slight vibration of screen
+4 p- Magic_005.png
+C05                               #Call spell associated with equipped weapon
+C2B                               #Play armored unit "leaping" SFE
+1 p- Magic_006.png
+C01                               #NOP
+5 p- Magic_007.png
+5 p- Magic_008.png
+5 p- Magic_009.png
+5 p- Magic_010.png
+5 p- Magic_011.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+5 p- Magic_012.png
+2 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic_000.png
+5 p- Magic_013.png
+5 p- Magic_014.png
+5 p- Magic_013.png
+C2B                               #Play armored unit "leaping" SFE
+12 p- Magic_015.png
+1 p- Magic_016.png
+1 p- Magic_017.png
+1 p- Magic_018.png
+1 p- Magic_019.png
+C46                               #Play dropped axe crashing onto ground SFE
+1 p- Magic_020.png
+C39                               #Sacred Flash. White screen flash.
+C14                               #Heavy vibration of screen
+2 p- Magic_021.png
+C28                               #Play electrical charging SFE
+1 p- Magic_015.png
+C14                               #Heavy vibration of screen
+2 p- Magic_021.png
+1 p- Magic_022.png
+1 p- Magic_023.png
+1 p- Magic_021.png
+1 p- Magic_024.png
+1 p- Magic_025.png
+1 p- Magic_021.png
+1 p- Magic_026.png
+1 p- Magic_027.png
+1 p- Magic_028.png
+2 p- Magic_029.png
+2 p- Magic_030.png
+2 p- Magic_029.png
+2 p- Magic_030.png
+2 p- Magic_029.png
+2 p- Magic_030.png
+C2B                               #Play armored unit "leaping" SFE
+2 p- Magic_031.png
+2 p- Magic_032.png
+2 p- Magic_031.png
+2 p- Magic_032.png
+2 p- Magic_031.png
+2 p- Magic_032.png
+5 p- Magic_033.png
+5 p- Magic_034.png
+5 p- Magic_035.png
+7 p- Magic_036.png
+4 p- Magic_037.png
+C1B                               #Play quick "heavy step" SFE
+C14                               #Heavy vibration of screen
+4 p- Magic_038.png
+C2B                               #Play armored unit "leaping" SFE
+6 p- Magic_039.png
+2 p- Magic_040.png
+2 p- Magic_041.png
+2 p- Magic_042.png
+2 p- Magic_043.png
+16 p- Magic_044.png
+2 p- Magic_045.png
+C28                               #Play electrical charging SFE
+2 p- Magic_046.png
+2 p- Magic_045.png
+2 p- Magic_046.png
+2 p- Magic_045.png
+2 p- Magic_046.png
+2 p- Magic_045.png
+2 p- Magic_046.png
+3 p- Magic_047.png
+C05                               #Call spell associated with equipped weapon
+C25                               #Play wing flap SFE
+4 p- Magic_048.png
+1 p- Magic_049.png
+C01                               #NOP
+5 p- Magic_050.png
+5 p- Magic_051.png
+5 p- Magic_052.png
+5 p- Magic_053.png
+5 p- Magic_011.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+5 p- Magic_012.png
+2 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic_000.png
+5 p- Magic_001.png
+5 p- Magic_002.png
+5 p- Magic_003.png
+5 p- Magic_004.png
+C15                               #Slight vibration of screen
+4 p- Magic_005.png
+C05                               #Call spell associated with equipped weapon
+C2B                               #Play armored unit "leaping" SFE
+1 p- Magic_006.png
+C01                               #NOP
+5 p- Magic_007.png
+5 p- Magic_008.png
+5 p- Magic_009.png
+5 p- Magic_010.png
+5 p- Magic_011.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+5 p- Magic_012.png
+2 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic_000.png
+5 p- Magic_013.png
+5 p- Magic_014.png
+5 p- Magic_013.png
+C2B                               #Play armored unit "leaping" SFE
+12 p- Magic_015.png
+1 p- Magic_016.png
+1 p- Magic_017.png
+1 p- Magic_018.png
+1 p- Magic_019.png
+C46                               #Play dropped axe crashing onto ground SFE
+1 p- Magic_020.png
+C39                               #Sacred Flash. White screen flash.
+C14                               #Heavy vibration of screen
+2 p- Magic_021.png
+C28                               #Play electrical charging SFE
+1 p- Magic_015.png
+C14                               #Heavy vibration of screen
+2 p- Magic_021.png
+1 p- Magic_022.png
+1 p- Magic_023.png
+1 p- Magic_021.png
+1 p- Magic_024.png
+1 p- Magic_025.png
+1 p- Magic_021.png
+1 p- Magic_026.png
+1 p- Magic_027.png
+1 p- Magic_028.png
+2 p- Magic_029.png
+2 p- Magic_030.png
+2 p- Magic_029.png
+2 p- Magic_030.png
+2 p- Magic_029.png
+2 p- Magic_030.png
+C2B                               #Play armored unit "leaping" SFE
+2 p- Magic_031.png
+2 p- Magic_032.png
+2 p- Magic_031.png
+2 p- Magic_032.png
+2 p- Magic_031.png
+2 p- Magic_032.png
+5 p- Magic_033.png
+5 p- Magic_034.png
+5 p- Magic_035.png
+7 p- Magic_036.png
+4 p- Magic_037.png
+C1B                               #Play quick "heavy step" SFE
+C14                               #Heavy vibration of screen
+4 p- Magic_038.png
+C2B                               #Play armored unit "leaping" SFE
+6 p- Magic_039.png
+2 p- Magic_040.png
+2 p- Magic_041.png
+2 p- Magic_042.png
+2 p- Magic_043.png
+16 p- Magic_044.png
+2 p- Magic_045.png
+C28                               #Play electrical charging SFE
+2 p- Magic_046.png
+2 p- Magic_045.png
+2 p- Magic_046.png
+2 p- Magic_045.png
+2 p- Magic_046.png
+2 p- Magic_045.png
+2 p- Magic_046.png
+3 p- Magic_047.png
+C05                               #Call spell associated with equipped weapon
+C25                               #Play wing flap SFE
+4 p- Magic_048.png
+1 p- Magic_049.png
+C01                               #NOP
+5 p- Magic_050.png
+5 p- Magic_051.png
+5 p- Magic_052.png
+5 p- Magic_053.png
+5 p- Magic_011.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+5 p- Magic_012.png
+2 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_054.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- Magic_055.png
+C01                               #NOP
+3 p- Magic_054.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_054.png
+C2B                               #Play armored unit "leaping" SFE
+1 p- Magic_055.png
+C01                               #NOP
+3 p- Magic_054.png
+C2B                               #Play armored unit "leaping" SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic_000.png
+5 p- Magic_001.png
+5 p- Magic_002.png
+5 p- Magic_003.png
+5 p- Magic_004.png
+C15                               #Slight vibration of screen
+4 p- Magic_005.png
+C05                               #Call spell associated with equipped weapon
+C2B                               #Play armored unit "leaping" SFE
+1 p- Magic_006.png
+C01                               #NOP
+5 p- Magic_007.png
+5 p- Magic_008.png
+5 p- Magic_009.png
+5 p- Magic_010.png
+5 p- Magic_011.png
+C15                               #Slight vibration of screen
+C2B                               #Play armored unit "leaping" SFE
+5 p- Magic_012.png
+2 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

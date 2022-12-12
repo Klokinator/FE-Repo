@@ -15,3 +15,5 @@ Scripted by Jeorge_Reds.
 Lance by Marlon0024, Jeorge_Reds, EA, Smash, Red Bean.
 
 Eirika-Style variant made by EA.
+
+Magic (Alt) animation by UltraxBlade and scripted by 7743.

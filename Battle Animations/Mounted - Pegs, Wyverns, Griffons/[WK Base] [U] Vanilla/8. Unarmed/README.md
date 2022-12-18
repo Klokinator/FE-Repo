@@ -9,3 +9,11 @@
 ## Credit
 
 Vanilla animation by IS.
+
+Sword by Lord_Tweed.
+
+Axe and Handaxe by St Jack.
+
+Bow by ltranc.
+
+This edit uses the vanilla color and equalizes the color palettes for all the animations.

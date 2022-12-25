@@ -1,5 +1,5 @@
 #######################################################
-#3A pakm_sw1 Paladin Sword
+#40 armm_sp1 Knight Lance
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

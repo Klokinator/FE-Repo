@@ -9,3 +9,5 @@
 ## Credit
 
 {Velvet Kitsune, Author_Pendragon}
+
+Hair Loop versions by Velvet Kitsune.

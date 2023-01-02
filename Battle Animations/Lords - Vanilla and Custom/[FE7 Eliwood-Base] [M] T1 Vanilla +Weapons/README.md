@@ -20,3 +20,5 @@ Bow by Jj09, PrincessKilvas, Spud.
 
 Durandal by Mercenary Lord.
 
+Bat form and animation by An odd Dutch Introvert.
+

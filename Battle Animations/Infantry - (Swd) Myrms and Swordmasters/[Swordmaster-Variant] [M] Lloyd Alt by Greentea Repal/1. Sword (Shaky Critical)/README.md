@@ -9,3 +9,5 @@
 ## Credit
 
 Greentea, DerTheVaporeon, ltranc.
+
+VelvetKitsune for Gun animation.

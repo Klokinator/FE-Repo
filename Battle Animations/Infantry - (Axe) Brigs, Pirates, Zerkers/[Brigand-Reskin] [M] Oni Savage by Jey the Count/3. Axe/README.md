@@ -10,4 +10,6 @@
 
 Vanilla Brigand by IS.
 
-Oni reskin by Jey the Count
+Oni reskin by Jey the Count.
+
+Magic by Jj09.

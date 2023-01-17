@@ -1,0 +1,1 @@
+![{VelvetKitsune} Flail 1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Item%20Icons/Flails/%7BVelvetKitsune%7D%20Flail%201.png "{VelvetKitsune} Flail 1.png")![{VelvetKitsune} Savagery.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Item%20Icons/Flails/%7BVelvetKitsune%7D%20Savagery.png "{VelvetKitsune} Savagery.png")

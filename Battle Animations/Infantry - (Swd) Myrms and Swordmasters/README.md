@@ -176,6 +176,14 @@
 
 
 
+## [\[Rogue-Variant\] \[F\] Samurai - Iaijutsu Rogue](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Rogue-Variant\] \[M\] Samurai - Iaijutsu Rogue](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BM%5D%20Samurai%20-%20Iaijutsu%20Rogue) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BM%5D%20Samurai%20-%20Iaijutsu%20Rogue)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BM%5D%20Samurai%20-%20Iaijutsu%20Rogue/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BM%5D%20Samurai%20-%20Iaijutsu%20Rogue/8.%20Unarmed/Unarmed.gif"/> |
@@ -188,14 +196,6 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRogue-Variant%5D%20%5BM%5D%20Samurai%20Sonic%20by%20Gabriel%20Knight/1.%20Sword/Sword.gif"/> |
 | :---: |
-
-
-
-
-## [\[Rouge-Variant\] \[F\] Samurai - Iaijutsu Rogue](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRouge-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRouge-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRouge-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BRouge-Variant%5D%20%5BF%5D%20Samurai%20-%20Iaijutsu%20Rogue/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
 
 
 
@@ -578,7 +578,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword/Sword.gif"/> | <b>Sword (Shaky Critical)</b><br/><img alt="Sword (Shaky Critical)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Shaky%20Critical)/Sword.gif"/> | <b>Sword (Slash Crit)</b><br/><img alt="Sword (Slash Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Crit)/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Sword (Slash Shaky Crit)</b><br/><img alt="Sword (Slash Shaky Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Shaky%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword (Slash Shaky Crit)</b><br/><img alt="Sword (Slash Shaky Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/1.%20Sword%20(Slash%20Shaky%20Crit)/Sword.gif"/> | <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/5.%20Bow%20(Gun)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Lloyd%20Alt%20by%20Greentea%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

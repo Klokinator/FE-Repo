@@ -222,7 +222,6 @@ C1B
 3 p- Sword_085.png
 C21
 C04
-C1A
 3 p- Sword_011.png
 3 p- Sword_012.png
 C01

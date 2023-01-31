@@ -139,7 +139,7 @@ C38
 1 p- Sword_016.png
 1 p- Sword_043.png
 1 p- Sword_016.png
-C08
+C51
 C1F
 C25
 2 p- Sword_044.png

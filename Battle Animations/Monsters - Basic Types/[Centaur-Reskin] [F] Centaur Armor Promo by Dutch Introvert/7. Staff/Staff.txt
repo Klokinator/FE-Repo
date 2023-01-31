@@ -1,11 +1,11 @@
 #######################################################
-#1B Sniper Ballista
+#0114 lorm_sp1 
 #
-#When importing to FEEditorAdv delete # and after each line.
+#When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
-C03                               #Start Monster animation; should be followed by 0x07
-C07                               #Start Monster animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Staff_000.png
 3 p- Staff_001.png
 3 p- Staff_002.png
@@ -16,12 +16,13 @@ C01                               #NOP
 3 p- Staff_003.png
 3 p- Staff_002.png
 3 p- Staff_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Staff_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
-C03                               #Start Monster animation; should be followed by 0x07
-C07                               #Start Monster animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Staff_000.png
 3 p- Staff_001.png
 3 p- Staff_002.png
@@ -32,12 +33,13 @@ C01                               #NOP
 3 p- Staff_003.png
 3 p- Staff_002.png
 3 p- Staff_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Staff_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
-C03                               #Start Monster animation; should be followed by 0x07
-C07                               #Start Monster animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Staff_000.png
 3 p- Staff_001.png
 3 p- Staff_002.png
@@ -48,12 +50,13 @@ C01                               #NOP
 3 p- Staff_003.png
 3 p- Staff_002.png
 3 p- Staff_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Staff_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
-C03                               #Start Monster animation; should be followed by 0x07
-C07                               #Start Monster animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Staff_000.png
 3 p- Staff_001.png
 3 p- Staff_002.png
@@ -64,10 +67,11 @@ C01                               #NOP
 3 p- Staff_003.png
 3 p- Staff_002.png
 3 p- Staff_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Staff_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 7               #Dodge Melee Monster
+/// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
 1 p- Staff_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
@@ -77,7 +81,7 @@ C01                               #NOP
 3 p- Staff_005.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 8               #Dodge Ranged Monster
+/// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
 1 p- Staff_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
@@ -91,7 +95,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 1 p- Staff_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #standing motions?
+/// - Mode 10               #Standing motions
 1 p- Staff_000.png
 C01                               #NOP
 ~~~
@@ -99,9 +103,9 @@ C01                               #NOP
 1 p- Staff_000.png
 C01                               #NOP
 ~~~
-/// - Mode 12               #Monster Missed Animation
-C03                               #Start Monster animation; should be followed by 0x07
-C07                               #Start Monster animation; should be preceeded by 0x03
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Staff_000.png
 3 p- Staff_001.png
 3 p- Staff_002.png
@@ -112,6 +116,7 @@ C01                               #NOP
 3 p- Staff_003.png
 3 p- Staff_002.png
 3 p- Staff_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Staff_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~

@@ -220,7 +220,6 @@ C1B
 3 p- Lance_094.png
 C21
 C04
-C1A
 3 p- Lance_095.png
 3 p- Lance_096.png
 C01

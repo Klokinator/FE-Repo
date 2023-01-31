@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Nuramon.
+
+Lance (Thrust) by RRSKAI.

@@ -1,0 +1,3 @@
+ngo for the sprites.
+
+VelvetKitsune for scripting.

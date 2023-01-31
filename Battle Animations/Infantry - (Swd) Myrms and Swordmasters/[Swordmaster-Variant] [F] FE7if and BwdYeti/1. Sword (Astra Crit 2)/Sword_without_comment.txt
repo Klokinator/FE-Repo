@@ -66,7 +66,6 @@ C36
 2 p- Sword_029.png
 2 p- Sword_030.png
 24 p- Sword_031.png
-C04
 C23
 C15
 C1F
@@ -77,7 +76,6 @@ C1F
 4 p- Sword_036.png
 2 p- Sword_037.png
 2 p- Sword_038.png
-C04
 C23
 C15
 C1F
@@ -86,7 +84,6 @@ C1F
 1 p- Sword_041.png
 8 p- Sword_042.png
 5 p- Sword_043.png
-C04
 C23
 C15
 C1F
@@ -98,10 +95,9 @@ C1F
 5 p- Sword_049.png
 2 p- Sword_050.png
 2 p- Sword_051.png
-C04
 C23
 C1F
-C08
+C51
 3 p- Sword_052.png
 3 p- Sword_053.png
 5 p- Sword_054.png

@@ -27,6 +27,7 @@ C01
 3 p- Staff_without_comment_003.png
 3 p- Staff_without_comment_002.png
 3 p- Staff_without_comment_001.png
+C06
 1 p- Staff_without_comment_000.png
 C0D
 ~~~
@@ -43,6 +44,7 @@ C01
 3 p- Staff_without_comment_003.png
 3 p- Staff_without_comment_002.png
 3 p- Staff_without_comment_001.png
+C06
 1 p- Staff_without_comment_000.png
 C0D
 ~~~
@@ -59,6 +61,7 @@ C01
 3 p- Staff_without_comment_003.png
 3 p- Staff_without_comment_002.png
 3 p- Staff_without_comment_001.png
+C06
 1 p- Staff_without_comment_000.png
 C0D
 ~~~
@@ -107,6 +110,7 @@ C01
 3 p- Staff_without_comment_003.png
 3 p- Staff_without_comment_002.png
 3 p- Staff_without_comment_001.png
+C06
 1 p- Staff_without_comment_000.png
 C0D
 ~~~

@@ -1,0 +1,25 @@
+//NAME=闇2
+1	star.MapActionAnimation_g000.png
+2	star.MapActionAnimation_g001.png
+1	star.MapActionAnimation_g002.png
+2	star.MapActionAnimation_g003.png
+1	star.MapActionAnimation_g004.png
+1	star.MapActionAnimation_g005.png
+1	star.MapActionAnimation_g006.png
+1	star.MapActionAnimation_g004.png
+1	star.MapActionAnimation_g007.png
+1	star.MapActionAnimation_g008.png
+1	star.MapActionAnimation_g004.png
+1	star.MapActionAnimation_g009.png
+1	star.MapActionAnimation_g010.png
+1	star.MapActionAnimation_g004.png
+1	star.MapActionAnimation_g011.png
+1	star.MapActionAnimation_g012.png
+1	star.MapActionAnimation_g004.png
+1	star.MapActionAnimation_g013.png
+1	star.MapActionAnimation_g014.png
+1	star.MapActionAnimation_g004.png
+1	star.MapActionAnimation_g015.png
+1	star.MapActionAnimation_g016.png
+1	star.MapActionAnimation_g004.png
+1	star.MapActionAnimation_g016.png

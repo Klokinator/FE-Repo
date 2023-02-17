@@ -1,0 +1,423 @@
+#######################################################
+#D1 lorm_sp1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- standing.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- standing.png
+4 p- melee_ata_000.png
+4 p- melee_ata_001.png
+4 p- melee_ata_002.png
+C1B				  #Play quick "heavy step" SFE
+4 p- melee_ata_003.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_004.png
+C2B                               #Play armored unit "leaping" SFE
+6 p- melee_ata_005.png
+6 p- melee_ata_006.png
+4 p- melee_ata_007.png
+4 p- melee_ata_008.png
+C25                               #Play wing flap SFE
+3 p- melee_ata_009.png
+C2B                               #Play armored unit "leaping" SFE
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- melee_ata_010.png
+3 p- melee_ata_011.png
+3 p- melee_ata_012.png
+3 p- melee_ata_013.png
+3 p- melee_ata_014.png
+C01                               #NOP
+4 p- melee_ata_015.png
+4 p- melee_ata_016.png
+4 p- melee_ata_017.png
+4 p- melee_ata_018.png
+4 p- melee_ata_019.png
+6 p- melee_ata_020.png
+6 p- melee_ata_021.png
+4 p- melee_ata_022.png
+4 p- melee_ata_023.png
+4 p- melee_ata_024.png
+4 p- melee_ata_025.png
+4 p- melee_ata_026.png
+4 p- melee_ata_027.png
+4 p- melee_ata_026.png
+3 p- melee_ata_027.png
+3 p- melee_ata_026.png
+6 p- melee_ata_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_029.png
+4 p- melee_ata_030.png
+4 p- melee_ata_031.png
+4 p- melee_ata_032.png
+4 p- melee_ata_033.png
+6 p- melee_ata_034.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_035.png
+C1B				  #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_036.png
+4 p- melee_ata_002.png
+4 p- melee_ata_001.png
+4 p- melee_ata_000.png
+3 p- standing.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- standing.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- standing.png
+4 p- melee_ata_000.png
+4 p- melee_ata_001.png
+4 p- melee_ata_002.png
+C1B				  #Play quick "heavy step" SFE
+9 p- melee_ata_036.png
+6 p- melee_crit_000a.png
+4 p- melee_crit_000b.png
+4 p- melee_crit_001.png
+4 p- melee_crit_002.png
+12 p- melee_crit_003.png
+6 p- melee_crit_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- melee_crit_004.png
+4 p- melee_crit_005.png
+3 p- melee_crit_006.png
+3 p- melee_crit_007.png
+C38                               #Play heavy spear spinning SFE
+2 p- melee_crit_008.png
+2 p- melee_crit_009.png
+2 p- melee_crit_010.png
+2 p- melee_crit_011.png
+C38                               #Play heavy spear spinning SFE
+3 p- melee_crit_008.png
+3 p- melee_crit_009.png
+3 p- melee_crit_010.png
+3 p- melee_crit_011.png
+C38                               #Play heavy spear spinning SFE
+2 p- melee_crit_008.png
+2 p- melee_crit_009.png
+3 p- melee_crit_010.png
+C43                               #Play weapon stance SFE (Clicking noise)
+C2B                               #Play armored unit "leaping" SFE
+6 p- melee_ata_004.png
+6 p- melee_ata_005.png
+6 p- melee_ata_006.png
+4 p- melee_ata_007.png
+4 p- melee_ata_008.png
+C25                               #Play wing flap SFE
+3 p- melee_ata_009.png
+C2B                               #Play armored unit "leaping" SFE
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C0C                               #Critical hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- melee_ata_010.png
+3 p- melee_ata_011.png
+3 p- melee_ata_012.png
+3 p- melee_ata_013.png
+3 p- melee_ata_014.png
+C01                               #NOP
+4 p- melee_ata_015.png
+4 p- melee_ata_016.png
+4 p- melee_ata_017.png
+4 p- melee_ata_018.png
+4 p- melee_ata_019.png
+6 p- melee_ata_020.png
+6 p- melee_ata_021.png
+4 p- melee_ata_022.png
+4 p- melee_ata_023.png
+4 p- melee_ata_024.png
+4 p- melee_ata_025.png
+4 p- melee_ata_026.png
+4 p- melee_ata_027.png
+4 p- melee_ata_026.png
+3 p- melee_ata_027.png
+3 p- melee_ata_026.png
+6 p- melee_ata_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_029.png
+4 p- melee_ata_030.png
+4 p- melee_ata_031.png
+4 p- melee_ata_032.png
+4 p- melee_ata_033.png
+6 p- melee_ata_034.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_035.png
+C1B				  #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_036.png
+4 p- melee_ata_002.png
+4 p- melee_ata_001.png
+4 p- melee_ata_000.png
+3 p- standing.png              #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+
+~~~
+/// - Mode 5               #Ranged Animation 
+1 p- standing.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- standing.png
+4 p- melee_ata_000.png
+4 p- melee_ata_001.png
+4 p- melee_ata_002.png
+C1B				  #Play quick "heavy step" SFE
+4 p- melee_ata_003.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_004.png
+C2B                               #Play armored unit "leaping" SFE
+6 p- melee_ata_005.png
+6 p- melee_ata_006.png
+4 p- melee_ata_007.png
+4 p- melee_ata_008.png
+C25                               #Play wing flap SFE
+3 p- melee_ata_009.png
+2 p- range_ata_010.png
+C2B                               #Play armored unit "leaping" SFE
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- range_ata_011.png
+3 p- range_ata_012.png
+3 p- range_ata_013.png
+3 p- range_ata_014.png
+C01                               #NOP
+4 p- range_ata_015.png
+4 p- range_ata_016.png
+4 p- range_ata_017.png
+4 p- range_ata_018.png
+4 p- range_ata_019.png
+6 p- range_ata_020.png
+6 p- range_ata_021.png
+4 p- range_ata_022.png
+4 p- range_ata_023.png
+4 p- range_ata_024.png
+4 p- range_ata_025.png
+4 p- range_ata_026.png
+4 p- range_ata_025.png
+4 p- range_ata_026.png
+3 p- range_ata_025.png
+3 p- range_ata_026.png
+6 p- range_ata_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_029.png
+4 p- melee_ata_030.png
+4 p- melee_ata_031.png
+4 p- melee_ata_032.png
+4 p- melee_ata_033.png
+6 p- melee_ata_034.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_035.png
+C1B				  #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_036.png
+4 p- melee_ata_002.png
+4 p- melee_ata_001.png
+4 p- melee_ata_000.png
+3 p- standing.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+
+~~~
+/// - Mode 6               #Ranged Critical Animation
+1 p- standing.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- standing.png
+4 p- melee_ata_000.png
+4 p- melee_ata_001.png
+4 p- melee_ata_002.png
+C1B				  #Play quick "heavy step" SFE
+9 p- melee_ata_036.png
+6 p- melee_crit_000a.png
+4 p- melee_crit_000b.png
+4 p- melee_crit_001.png
+4 p- melee_crit_002.png
+12 p- melee_crit_003.png
+6 p- melee_crit_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- melee_crit_004.png
+4 p- melee_crit_005.png
+3 p- melee_crit_006.png
+3 p- melee_crit_007.png
+C38                               #Play heavy spear spinning SFE
+2 p- melee_crit_008.png
+2 p- melee_crit_009.png
+2 p- melee_crit_010.png
+2 p- melee_crit_011.png
+C38                               #Play heavy spear spinning SFE
+3 p- melee_crit_008.png
+3 p- melee_crit_009.png
+3 p- melee_crit_010.png
+3 p- melee_crit_011.png
+C38                               #Play heavy spear spinning SFE
+2 p- melee_crit_008.png
+2 p- melee_crit_009.png
+3 p- melee_crit_010.png
+C43                               #Play weapon stance SFE (Clicking noise)
+C2B                               #Play armored unit "leaping" SFE
+6 p- melee_ata_004.png
+6 p- melee_ata_005.png
+6 p- melee_ata_006.png
+4 p- melee_ata_007.png
+4 p- melee_ata_008.png
+C25                               #Play wing flap SFE
+3 p- melee_ata_009.png
+2 p- range_ata_010.png
+C2B                               #Play armored unit "leaping" SFE
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C0C                               #Critical hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- range_ata_011.png
+3 p- range_ata_012.png
+3 p- range_ata_013.png
+3 p- range_ata_014.png
+C01                               #NOP
+4 p- range_ata_015.png
+4 p- range_ata_016.png
+4 p- range_ata_017.png
+4 p- range_ata_018.png
+4 p- range_ata_019.png
+6 p- range_ata_020.png
+6 p- range_ata_021.png
+4 p- range_ata_022.png
+4 p- range_ata_023.png
+4 p- range_ata_024.png
+4 p- range_ata_025.png
+4 p- range_ata_026.png
+4 p- range_ata_025.png
+4 p- range_ata_026.png
+3 p- range_ata_025.png
+3 p- range_ata_026.png
+6 p- range_ata_028.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_029.png
+4 p- melee_ata_030.png
+4 p- melee_ata_031.png
+4 p- melee_ata_032.png
+4 p- melee_ata_033.png
+6 p- melee_ata_034.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_035.png
+C1B				  #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_036.png
+4 p- melee_ata_002.png
+4 p- melee_ata_001.png
+4 p- melee_ata_000.png
+3 p- standing.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+
+~~~
+/// - Mode 7               #Dodge Melee Attack
+1 p- standing.png
+C02                               #Start of dodge
+1 p- standing.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- dodge_001.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- dodge_002.png
+4 p- dodge_003.png
+3 p- dodge_004.png
+C01                               #NOP
+6 p- dodge_001.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+3 p- standing.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+1 p- standing.png
+C02                               #Start of dodge
+1 p- standing.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- dodge_001.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- dodge_002.png
+4 p- dodge_003.png
+3 p- dodge_004.png
+C01                               #NOP
+6 p- dodge_001.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+3 p- standing.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+2 p- standing.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+2 p- standing.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+2 p- standing.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+1 p- standing.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- standing.png
+4 p- melee_ata_000.png
+4 p- melee_ata_001.png
+4 p- melee_ata_002.png
+C1B				  #Play quick "heavy step" SFE
+4 p- melee_ata_003.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_004.png
+C2B                               #Play armored unit "leaping" SFE
+6 p- melee_ata_005.png
+6 p- melee_ata_006.png
+4 p- melee_ata_007.png
+4 p- melee_ata_008.png
+C25                               #Play wing flap SFE
+3 p- melee_ata_009.png
+C2B                               #Play armored unit "leaping" SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- melee_miss_010.png
+4 p- melee_miss_011.png
+6 p- melee_miss_012.png
+4 p- melee_miss_013.png
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_029.png
+4 p- melee_ata_030.png
+4 p- melee_ata_031.png
+4 p- melee_ata_032.png
+4 p- melee_ata_033.png
+6 p- melee_ata_034.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+4 p- melee_ata_035.png
+C1B				  #Play quick "heavy step" SFE
+C2B                               #Play armored unit "leaping" SFE
+4 p- melee_ata_036.png
+4 p- melee_ata_002.png
+4 p- melee_ata_001.png
+4 p- melee_ata_000.png
+3 p- standing.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

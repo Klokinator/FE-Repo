@@ -1,0 +1,11 @@
+//NAME=黄色い思想
+5	Yellow.MapActionAnimation_g000.png
+4	Yellow.MapActionAnimation_g001.png
+2	Yellow.MapActionAnimation_g002.png
+2	Yellow.MapActionAnimation_g003.png
+2	Yellow.MapActionAnimation_g004.png
+2	Yellow.MapActionAnimation_g005.png
+2	Yellow.MapActionAnimation_g002.png
+2	Yellow.MapActionAnimation_g003.png
+2	Yellow.MapActionAnimation_g004.png
+2	Yellow.MapActionAnimation_g005.png

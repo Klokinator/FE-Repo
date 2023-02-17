@@ -1,0 +1,19 @@
+//NAME=光ライト
+2	light.MapActionAnimation_g000.png
+2	light.MapActionAnimation_g001.png
+2	light.MapActionAnimation_g002.png
+2	light.MapActionAnimation_g003.png
+2	light.MapActionAnimation_g004.png
+2	light.MapActionAnimation_g005.png
+2	light.MapActionAnimation_g006.png
+2	light.MapActionAnimation_g007.png
+2	light.MapActionAnimation_g008.png
+2	light.MapActionAnimation_g009.png
+2	light.MapActionAnimation_g010.png
+2	light.MapActionAnimation_g011.png
+2	light.MapActionAnimation_g012.png
+2	light.MapActionAnimation_g013.png
+2	light.MapActionAnimation_g014.png
+2	light.MapActionAnimation_g015.png
+2	light.MapActionAnimation_g016.png
+2	light.MapActionAnimation_g017.png

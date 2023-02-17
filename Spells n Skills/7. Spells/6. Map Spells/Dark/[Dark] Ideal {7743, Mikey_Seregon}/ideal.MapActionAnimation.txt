@@ -1,0 +1,11 @@
+//NAME=白い思想
+5	ideal.MapActionAnimation_g000.png
+4	ideal.MapActionAnimation_g001.png
+2	ideal.MapActionAnimation_g002.png
+2	ideal.MapActionAnimation_g003.png
+2	ideal.MapActionAnimation_g004.png
+2	ideal.MapActionAnimation_g005.png
+2	ideal.MapActionAnimation_g002.png
+2	ideal.MapActionAnimation_g003.png
+2	ideal.MapActionAnimation_g004.png
+2	ideal.MapActionAnimation_g005.png

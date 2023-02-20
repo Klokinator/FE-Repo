@@ -2,7 +2,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BM%5D%20Dark%20Flier%20by%20Camus%20Regan/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BM%5D%20Dark%20Flier%20by%20Camus%20Regan/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BM%5D%20Dark%20Flier%20by%20Camus%20Regan/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BM%5D%20Dark%20Flier%20by%20Camus%20Regan/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Magic (Ver.2)</b><br/><img alt="Magic (Ver.2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BM%5D%20Dark%20Flier%20by%20Camus%20Regan/6.%20Magic%20(Ver.2)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Reskin%5D%20%5BM%5D%20Dark%20Flier%20by%20Camus%20Regan/8.%20Unarmed/Unarmed.gif"/> |
 
 ## Credits
 

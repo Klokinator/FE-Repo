@@ -8,5 +8,8 @@
 
 ## Credit
 
-Ayr - Animation + Script
-Faolin - Fixed small mistake in script
+Ayr - Animation + Script.
+
+DATonDemand - daggers.
+
+Faolin - Fixed small mistake in script.

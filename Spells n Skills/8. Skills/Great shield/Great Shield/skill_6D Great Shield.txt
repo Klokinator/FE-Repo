@@ -1,0 +1,24 @@
+D #is defender anim
+S03D1 #play sound SE:Activate Skill Animation
+2 skill_6D_Great_Shield_g000.png
+5 skill_6D_Great_Shield_g001.png
+5 skill_6D_Great_Shield_g002.png
+5 skill_6D_Great_Shield_g003.png
+5 skill_6D_Great_Shield_g004.png
+5 skill_6D_Great_Shield_g005.png
+5 skill_6D_Great_Shield_g006.png
+5 skill_6D_Great_Shield_g007.png
+5 skill_6D_Great_Shield_g008.png
+5 skill_6D_Great_Shield_g009.png
+10 skill_6D_Great_Shield_g010.png
+10 skill_6D_Great_Shield_g009.png
+10 skill_6D_Great_Shield_g008.png
+10 skill_6D_Great_Shield_g007.png
+10 skill_6D_Great_Shield_g006.png
+10 skill_6D_Great_Shield_g005.png
+10 skill_6D_Great_Shield_g004.png
+10 skill_6D_Great_Shield_g003.png
+10 skill_6D_Great_Shield_g002.png
+10 skill_6D_Great_Shield_g001.png
+10 skill_6D_Great_Shield_g011.png
+10 skill_6D_Great_Shield_g011.png

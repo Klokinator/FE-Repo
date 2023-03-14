@@ -1,0 +1,4 @@
+The repalette allows changes to the color of the pants by using either:
+
+1. The lightest metal colors (1,2)
+2. The darkest metal colors (2,3)

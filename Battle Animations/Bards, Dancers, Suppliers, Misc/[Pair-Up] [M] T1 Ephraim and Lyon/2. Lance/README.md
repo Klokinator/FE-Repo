@@ -1,4 +1,4 @@
-# [\[FE8 Ephraim-Variant\] \[M\] T1 Tag-Team Lyon](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20Vanilla%20and%20Custom%2F%5BFE8%20Ephraim-Variant%5D%20%5BM%5D%20T1%20Tag-Team%20Lyon%2F2.%20Lance)
+# [\[Pair-Up\] \[M\] T1 Ephraim and Lyon](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BPair-Up%5D%20%5BM%5D%20T1%20Ephraim%20and%20Lyon%2F2.%20Lance)
 
 ## Lance
 

@@ -1,0 +1,171 @@
+#######################################################
+#ED lorm_sp1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+4 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+9 p- Dragonstone_004.png
+4 p- Dragonstone_005.png
+C25                               #Play wing flap SFE
+2 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_007.png
+4 p- Dragonstone_008.png
+C01                               #NOP
+6 p- Dragonstone_009.png
+6 p- Dragonstone_010.png
+1 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+7 p- Dragonstone_011.png
+4 p- Dragonstone_012.png
+C77                               #draco zombie scream SFE
+4 p- Dragonstone_013.png
+4 p- Dragonstone_014.png
+4 p- Dragonstone_013.png
+6 p- Dragonstone_014.png
+6 p- Dragonstone_013.png
+6 p- Dragonstone_014.png
+7 p- Dragonstone_015.png
+7 p- Dragonstone_011.png
+6 p- Dragonstone_001.png
+4 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+9 p- Dragonstone_004.png
+4 p- Dragonstone_005.png
+C25                               #Play wing flap SFE
+2 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_007.png
+4 p- Dragonstone_008.png
+C01                               #NOP
+6 p- Dragonstone_009.png
+6 p- Dragonstone_010.png
+1 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+4 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+9 p- Dragonstone_004.png
+4 p- Dragonstone_005.png
+C25                               #Play wing flap SFE
+2 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_007.png
+4 p- Dragonstone_008.png
+C01                               #NOP
+6 p- Dragonstone_009.png
+6 p- Dragonstone_010.png
+1 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+7 p- Dragonstone_011.png
+4 p- Dragonstone_012.png
+C77                               #draco zombie scream SFE
+4 p- Dragonstone_013.png
+4 p- Dragonstone_014.png
+4 p- Dragonstone_013.png
+6 p- Dragonstone_014.png
+6 p- Dragonstone_013.png
+6 p- Dragonstone_014.png
+7 p- Dragonstone_015.png
+7 p- Dragonstone_011.png
+6 p- Dragonstone_001.png
+4 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+9 p- Dragonstone_004.png
+4 p- Dragonstone_005.png
+C25                               #Play wing flap SFE
+2 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_007.png
+4 p- Dragonstone_008.png
+C01                               #NOP
+6 p- Dragonstone_009.png
+6 p- Dragonstone_010.png
+1 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Dragonstone_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+6 p- Dragonstone_011.png
+2 p- Dragonstone_016.png
+4 p- Dragonstone_017.png
+C01                               #NOP
+3 p- Dragonstone_016.png
+6 p- Dragonstone_010.png
+1 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Dragonstone_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+6 p- Dragonstone_011.png
+2 p- Dragonstone_016.png
+4 p- Dragonstone_017.png
+C01                               #NOP
+3 p- Dragonstone_016.png
+6 p- Dragonstone_010.png
+1 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+4 p- Dragonstone_002.png
+4 p- Dragonstone_003.png
+9 p- Dragonstone_004.png
+4 p- Dragonstone_005.png
+C25                               #Play wing flap SFE
+2 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+6 p- Dragonstone_007.png
+4 p- Dragonstone_008.png
+C01                               #NOP
+6 p- Dragonstone_009.png
+6 p- Dragonstone_010.png
+1 p- Dragonstone_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

@@ -13,5 +13,5 @@ Obsidian_Daddy
 
 Devisian_Nights
 
-Raulster - Fixed some frames where the eye was misplaced, and added the Ponytail
+Raulster/Alice - Fixed some frames where the eye was misplaced, and added the Ponytail.
 

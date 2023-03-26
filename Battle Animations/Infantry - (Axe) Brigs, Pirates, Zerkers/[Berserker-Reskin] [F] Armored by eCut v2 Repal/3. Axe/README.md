@@ -18,4 +18,4 @@ This animation separates the various colors to make the Armored Female Zerker by
 
 More details here: https://feuniverse.us/t/ultimate-graphics-repository-new-update-now-using-github/3326/1382
 
-Magic Axe by Raulster. Inspired by DerTheVaporeon's Berserker animation.
+Magic Axe by Raulster/Alice. Inspired by DerTheVaporeon's Berserker animation.

@@ -16,4 +16,4 @@ Obsidian_Daddy
 
 Devisian_Nights
 
-Raulster - Fixed some frames where the eye was misplaced
+Raulster/Alice - Fixed some frames where the eye was misplaced.

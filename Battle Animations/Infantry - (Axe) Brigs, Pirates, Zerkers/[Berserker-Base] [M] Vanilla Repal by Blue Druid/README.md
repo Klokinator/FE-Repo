@@ -10,5 +10,5 @@ Original Berserker by IS.
 
 Repalette by Blue Druid.
 
-Magic Axe by Raulster. Inspired by DerTheVaporeon's Berserker animation.
+Magic Axe by Raulster/Alice. Inspired by DerTheVaporeon's Berserker animation.
 

@@ -8,5 +8,5 @@
 
 Sword and Unarmed by FPZero, Moocavo, Riku.
 
-Knife by Pushwall, Jj09.Bow by Itranc. Hair by Raulster
+Knife by Pushwall, Jj09.Bow by Itranc. Hair by Raulster/Alice.
 

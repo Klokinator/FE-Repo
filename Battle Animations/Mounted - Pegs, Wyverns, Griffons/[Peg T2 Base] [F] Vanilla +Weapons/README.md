@@ -12,3 +12,5 @@ Magic Jeorge_Reds.
 
 Staff by ShadowOfChaos.
 
+Bow animation by Flasuban, Knabepicer, and Nuramon.
+

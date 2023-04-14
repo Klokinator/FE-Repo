@@ -1,0 +1,9 @@
+//NAME=理 紫
+3	flare_blue.MapActionAnimation_g000.png
+3	flare_blue.MapActionAnimation_g001.png
+3	flare_blue.MapActionAnimation_g002.png
+3	flare_blue.MapActionAnimation_g003.png
+3	flare_blue.MapActionAnimation_g004.png
+3	flare_blue.MapActionAnimation_g005.png
+3	flare_blue.MapActionAnimation_g006.png
+8	flare_blue.MapActionAnimation_g007.png

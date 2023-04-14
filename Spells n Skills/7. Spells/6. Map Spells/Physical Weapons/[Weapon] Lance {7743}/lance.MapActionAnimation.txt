@@ -1,0 +1,6 @@
+//NAME=槍
+3	lance.MapActionAnimation_g000.png
+3	lance.MapActionAnimation_g001.png
+4	lance.MapActionAnimation_g002.png
+4	lance.MapActionAnimation_g003.png
+3	lance.MapActionAnimation_g004.png

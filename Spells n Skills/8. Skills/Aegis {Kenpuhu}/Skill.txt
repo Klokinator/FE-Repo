@@ -1,3 +1,4 @@
+D #is defender anim
 S03D1 #play sound SE:Activate Skill Animation
 2 Skill_g000.png
 2 Skill_g001.png

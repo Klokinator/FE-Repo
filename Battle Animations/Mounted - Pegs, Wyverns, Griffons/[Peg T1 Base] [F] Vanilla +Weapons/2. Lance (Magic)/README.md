@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Sword by MK404.
 
 Staff by MakeFEGayer.
+
+Bow animation by RiriK, Flasuban, Knabepicer, and Nuramon.

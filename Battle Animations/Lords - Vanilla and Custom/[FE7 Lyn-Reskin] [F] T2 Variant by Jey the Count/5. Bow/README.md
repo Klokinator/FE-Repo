@@ -11,3 +11,5 @@
 Vanilla animation by IS.
 
 Variant by Jey the Count.
+
+Bow palette fix by RiriK.

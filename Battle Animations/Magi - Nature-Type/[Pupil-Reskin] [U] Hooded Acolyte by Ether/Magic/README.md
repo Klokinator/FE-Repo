@@ -8,6 +8,8 @@
 
 ## Credit
 
-Pupil animation by IS
-Hood edit by Ether
-Script code fix by Raulster (cape loop was previously bugged)
+Pupil animation by IS.
+
+Hood edit by Ether.
+
+Script code fix by Raulster/Alice (cape loop was previously bugged).

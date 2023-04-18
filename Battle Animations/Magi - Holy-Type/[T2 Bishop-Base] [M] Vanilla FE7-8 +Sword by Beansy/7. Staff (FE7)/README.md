@@ -11,3 +11,5 @@
 Vanilla animation by IS.
 
 Sword by Beansy.
+
+Staff Fix by Sax Marine.

@@ -8,6 +8,6 @@
 
 ## Credit
 
-RedBean, Mikey Seregon, Marlon0024, yikes.
+RedBean, Mikey Seregon, Marlon0024, Max Limit.
 
 Wing Spam Sound Fix by 7743.

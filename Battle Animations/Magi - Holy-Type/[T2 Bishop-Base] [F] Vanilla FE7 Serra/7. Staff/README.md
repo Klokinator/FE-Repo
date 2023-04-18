@@ -8,4 +8,6 @@
 
 ## Credit
 
+Animation made by IS.
 
+Staff Fix by Sax Marine.

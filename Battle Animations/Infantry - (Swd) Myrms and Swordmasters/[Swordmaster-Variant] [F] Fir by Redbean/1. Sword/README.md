@@ -11,3 +11,5 @@
 Animation by RedBean. 
 
 Scripting by Jj09.
+
+Lance animation by VelvetKitsune, Spud.

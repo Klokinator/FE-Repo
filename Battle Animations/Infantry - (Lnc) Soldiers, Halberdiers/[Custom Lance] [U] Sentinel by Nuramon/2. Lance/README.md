@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Nuramon.
+
+Sword versions by Craigrandall55.

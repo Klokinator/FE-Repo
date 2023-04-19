@@ -9,3 +9,5 @@
 ## Credit
 
 Stills and animations by Nuramon.
+
+Big Handaxe animation by UltraFenix.

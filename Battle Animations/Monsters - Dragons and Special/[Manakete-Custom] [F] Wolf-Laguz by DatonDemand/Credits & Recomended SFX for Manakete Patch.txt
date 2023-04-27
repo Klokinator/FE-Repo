@@ -1,0 +1,14 @@
+Unarmed by DatonDemand
+
+Transform and Revert by DatonDemand & Vilk
+
+Monster by Velvet Kitsune
+
+When using this animation with the multiple Manakete class patch by Tequila ,UNKNOWN ,Aera , circleseverywhere the recomended sfx are as follows:
+
+
+Transform Start sound: 032A
+
+Transform Finished Sound: 09B
+
+Untransform Sound: 0B6

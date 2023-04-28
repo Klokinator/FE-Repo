@@ -1,0 +1,1 @@
+![Brawler (F) Claw {Dora Drago}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Class%20Cards/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/Brawler%20(F)%20Claw%20%7BDora%20Drago%7D.png "Brawler (F) Claw {Dora Drago}.png")

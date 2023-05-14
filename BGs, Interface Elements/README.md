@@ -416,6 +416,16 @@
 
 </details>
 
+## [FE Radiant Dawn](Status%20Screen%20Backgrounds/FE%20Radiant%20Dawn)
+
+<details><summary>Click to expand!</summary>
+
+# Status Screen Backgrounds/FE Radiant Dawn
+
+![Radiant Dawn.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/FE%20Radiant%20Dawn/Radiant%20Dawn.png "Radiant Dawn.png")
+
+</details>
+
 ## [FE4 Status Screen (LordGlenn) (2)](Status%20Screen%20Backgrounds/FE4%20Status%20Screen%20(LordGlenn)%20(2))
 
 <details><summary>Click to expand!</summary>

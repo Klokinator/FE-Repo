@@ -9,3 +9,5 @@ Animation by IS.
 
 Magic by Merpin.
 
+Edit by ShadowAllyX
+

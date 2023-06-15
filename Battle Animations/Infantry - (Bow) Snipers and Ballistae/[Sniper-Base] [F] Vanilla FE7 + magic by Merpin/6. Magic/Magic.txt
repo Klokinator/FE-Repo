@@ -1,5 +1,5 @@
 #######################################################
-#2C snif_ar1 Sniper Bow
+#06 Magic 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -46,7 +46,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 1 p- Magic_000.png
-45 p- Magic_014.png
+45 p- Magic_000.png
 3 p- Magic_001.png
 2 p- Magic_002.png
 2 p- Magic_003.png
@@ -70,19 +70,19 @@ C4B                               #Play monk's magic casting SFE
 2 p- Magic_002.png
 3 p- Magic_011.png
 2 p- Magic_002.png
-3 p- Magic_015.png
-2 p- Magic_002.png
-3 p- Magic_016.png
+3 p- Magic_014.png
 2 p- Magic_002.png
 3 p- Magic_015.png
 2 p- Magic_002.png
-3 p- Magic_016.png
+3 p- Magic_014.png
 2 p- Magic_002.png
 3 p- Magic_015.png
 2 p- Magic_002.png
-3 p- Magic_016.png
+3 p- Magic_014.png
 2 p- Magic_002.png
 3 p- Magic_015.png
+2 p- Magic_002.png
+3 p- Magic_014.png
 2 p- Magic_002.png
 5 p- Magic_011.png
 C05                               #Call spell associated with equipped weapon
@@ -139,7 +139,7 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 C53                               #?
 1 p- Magic_000.png
-45 p- Magic_014.png
+45 p- Magic_000.png
 3 p- Magic_001.png
 2 p- Magic_002.png
 2 p- Magic_003.png
@@ -163,19 +163,19 @@ C4B                               #Play monk's magic casting SFE
 2 p- Magic_002.png
 2 p- Magic_011.png
 2 p- Magic_002.png
-2 p- Magic_015.png
-2 p- Magic_002.png
-2 p- Magic_016.png
+2 p- Magic_014.png
 2 p- Magic_002.png
 2 p- Magic_015.png
 2 p- Magic_002.png
-2 p- Magic_016.png
+2 p- Magic_014.png
 2 p- Magic_002.png
 2 p- Magic_015.png
 2 p- Magic_002.png
-2 p- Magic_016.png
+2 p- Magic_014.png
 2 p- Magic_002.png
 2 p- Magic_015.png
+2 p- Magic_002.png
+2 p- Magic_014.png
 2 p- Magic_002.png
 5 p- Magic_011.png
 C05                               #Call spell associated with equipped weapon

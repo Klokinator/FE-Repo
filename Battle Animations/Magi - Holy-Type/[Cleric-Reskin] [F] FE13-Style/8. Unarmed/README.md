@@ -11,3 +11,5 @@
 Made by BatimaTheBat.
 
 Magic Animation by 7743.
+
+Staff script fix by FrecciaVerde.

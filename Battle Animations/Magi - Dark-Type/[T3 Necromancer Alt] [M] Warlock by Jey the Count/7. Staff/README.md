@@ -8,4 +8,6 @@
 
 ## Credit
 
+Animation by Jey.
 
+Alt Magic animation by UltraFenix.

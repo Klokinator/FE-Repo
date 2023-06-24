@@ -1,0 +1,3 @@
+Animation by VelvetKitsune.
+
+In order to get the 'proper' sound working you will need to import the '104 Revolver (Saoirse Attack)' file into sound slot 104 and set the 'Priority' to 00050005 = Mid-Low

@@ -1,5 +1,5 @@
 #######################################################
-#01 lorm_sp1 Lord Lance
+#04 Handaxe 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -8,18 +8,18 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 10 p- Handaxe_000.png
 3 p- Handaxe_001.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_002.png
 3 p- Handaxe_003.png
 10 p- Handaxe_004.png
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_005.png
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_006.png
 1 p- Handaxe_007.png
 C13                               #ranged attack - hand axe for Hector
 3 p- Handaxe_006.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_008.png
 3 p- Handaxe_009.png
 3 p- Handaxe_010.png
@@ -34,7 +34,7 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 20 p- Handaxe_000.png
 3 p- Handaxe_001.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_012.png
 3 p- Handaxe_013.png
 C22                               #Play short sword swinging SFE
@@ -61,13 +61,13 @@ C22                               #Play short sword swinging SFE
 3 p- Handaxe_032.png
 3 p- Handaxe_033.png
 3 p- Handaxe_004.png
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_005.png
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_006.png
 1 p- Handaxe_007.png
 C13                               #ranged attack - hand axe for Hector
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_006.png
 3 p- Handaxe_008.png
 3 p- Handaxe_009.png
@@ -83,11 +83,11 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 10 p- Handaxe_000.png
 3 p- Handaxe_001.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_002.png
 3 p- Handaxe_003.png
 10 p- Handaxe_004.png
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_005.png
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_006.png
@@ -108,7 +108,7 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 20 p- Handaxe_000.png
 3 p- Handaxe_001.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_012.png
 3 p- Handaxe_013.png
 C22                               #Play short sword swinging SFE
@@ -135,13 +135,13 @@ C22                               #Play short sword swinging SFE
 3 p- Handaxe_032.png
 3 p- Handaxe_033.png
 3 p- Handaxe_004.png
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_005.png
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_006.png
 1 p- Handaxe_007.png
 C13                               #ranged attack - hand axe for Hector
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_006.png
 3 p- Handaxe_008.png
 3 p- Handaxe_009.png
@@ -191,11 +191,11 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 10 p- Handaxe_000.png
 3 p- Handaxe_001.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_002.png
 3 p- Handaxe_003.png
 10 p- Handaxe_004.png
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_005.png
 C05                               #Call spell associated with equipped weapon
 3 p- Handaxe_006.png

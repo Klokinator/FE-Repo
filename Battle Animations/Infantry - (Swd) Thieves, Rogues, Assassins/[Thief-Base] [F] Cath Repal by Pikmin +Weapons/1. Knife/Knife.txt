@@ -1,24 +1,29 @@
-/// - Mode 1
-C03
-C07
+#######################################################
+#02 cath_knife Noble 道具
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
 1 p- Knife_000.png
 4 p- Knife_001.png
 4 p- Knife_002.png
 6 p- Knife_003.png
 4 p- Knife_004.png
-C22
-C04
+C22                               #リンロードの剣を振る音
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
 2 p- Knife_005.png
 2 p- Knife_006.png
-C1A
-C1F
+C1A                               #ノーマルヒットのエフェクト
+C1F                               #クリティカルの効果音 ずどーん
 1 p- Knife_007.png
-C01
+C01                               #NOP
 8 p- Knife_008.png
-C23
+C23                               #剣を振る音　小さい
 3 p- Knife_009.png
 8 p- Knife_010.png
-C34
+C34                               #足音の再生
 4 p- Knife_011.png
 4 p- Knife_012.png
 4 p- Knife_013.png
@@ -26,18 +31,18 @@ C34
 3 p- Knife_015.png
 3 p- Knife_016.png
 4 p- Knife_017.png
-C34
+C34                               #足音の再生
 4 p- Knife_018.png
 7 p- Knife_019.png
 1 p- Knife_020.png
-C06
+C06                               #攻撃アニメ終了 後に0Dが来る
 3 p- Knife_020.png
 3 p- Knife_021.png
-C0D
+C0D                               #攻撃アニメ終了 前に06が来る
 ~~~
-/// - Mode 3
-C03
-C07
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
 1 p- Knife_000.png
 3 p- Knife_022.png
 5 p- Knife_023.png
@@ -45,27 +50,27 @@ C07
 4 p- Knife_025.png
 6 p- Knife_026.png
 7 p- Knife_027.png
-C04
-C22
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C22                               #リンロードの剣を振る音
 2 p- Knife_028.png
-C20
+C20                               #クリティカルの効果音 ずどーん
 4 p- Knife_029.png
 4 p- Knife_009.png
 5 p- Knife_010.png
-C20
+C20                               #クリティカルの効果音 ずどーん
 4 p- Knife_029.png
 4 p- Knife_009.png
 5 p- Knife_010.png
 2 p- Knife_006.png
-C20
-C09
+C20                               #クリティカルの効果音 ずどーん
+C09                               #クリティカルヒット
 1 p- Knife_007.png
-C01
+C01                               #NOP
 8 p- Knife_030.png
-C23
+C23                               #剣を振る音　小さい
 3 p- Knife_009.png
 8 p- Knife_010.png
-C34
+C34                               #足音の再生
 4 p- Knife_011.png
 4 p- Knife_012.png
 4 p- Knife_013.png
@@ -73,40 +78,40 @@ C34
 3 p- Knife_015.png
 3 p- Knife_016.png
 4 p- Knife_017.png
-C34
+C34                               #足音の再生
 4 p- Knife_018.png
 7 p- Knife_019.png
 1 p- Knife_020.png
-C06
+C06                               #攻撃アニメ終了 後に0Dが来る
 3 p- Knife_020.png
 3 p- Knife_021.png
-C0D
+C0D                               #攻撃アニメ終了 前に06が来る
 ~~~
-/// - Mode 5
-C03
-C07
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
 1 p- Knife_000.png
 2 p- Knife_022.png
 3 p- Knife_031.png
 8 p- Knife_032.png
 3 p- Knife_033.png
 2 p- Knife_034.png
-C05
+C05                               #魔法の呼び出し
 3 p- Knife_035.png
-C01
+C01                               #NOP
 3 p- Knife_036.png
 2 p- Knife_037.png
 4 p- Knife_002.png
 5 p- Knife_003.png
 5 p- Knife_002.png
 5 p- Knife_001.png
-C06
+C06                               #攻撃アニメ終了 後に0Dが来る
 3 p- Knife_022.png
-C0D
+C0D                               #攻撃アニメ終了 前に06が来る
 ~~~
-/// - Mode 6
-C03
-C07
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
 1 p- Knife_000.png
 2 p- Knife_022.png
 2 p- Knife_038.png
@@ -121,85 +126,85 @@ C07
 2 p- Knife_042.png
 2 p- Knife_033.png
 2 p- Knife_034.png
-C05
+C05                               #魔法の呼び出し
 3 p- Knife_035.png
-C01
+C01                               #NOP
 3 p- Knife_036.png
 2 p- Knife_037.png
 4 p- Knife_002.png
 5 p- Knife_003.png
 5 p- Knife_002.png
 5 p- Knife_001.png
-C06
+C06                               #攻撃アニメ終了 後に0Dが来る
 3 p- Knife_022.png
-C0D
+C0D                               #攻撃アニメ終了 前に06が来る
 ~~~
-/// - Mode 7
-C02
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
 1 p- Knife_000.png
-C0E
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
 3 p- Knife_043.png
 1 p- Knife_044.png
-C01
+C01                               #NOP
 3 p- Knife_043.png
-C0D
+C0D                               #攻撃アニメ終了 前に06が来る
 ~~~
-/// - Mode 8
-C02
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
 1 p- Knife_000.png
-C0E
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
 3 p- Knife_043.png
 1 p- Knife_044.png
-C01
+C01                               #NOP
 3 p- Knife_043.png
-C0D
+C0D                               #攻撃アニメ終了 前に06が来る
 ~~~
-/// - Mode 9
+/// - Mode 9               #至近時棒立ちモーション
 1 p- Knife_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 10
+/// - Mode 10               #棒立ちモーション
 1 p- Knife_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 11
+/// - Mode 11               #間接時棒立ちモーション
 1 p- Knife_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 12
-C03
-C07
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
 1 p- Knife_000.png
 1 p- Knife_001.png
 4 p- Knife_002.png
 4 p- Knife_003.png
 6 p- Knife_004.png
 4 p- Knife_005.png
-C22
-C04
+C22                               #リンロードの剣を振る音
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
 2 p- Knife_006.png
 1 p- Knife_007.png
 8 p- Knife_008.png
 9 p- Knife_009.png
-C23
+C23                               #剣を振る音　小さい
 3 p- Knife_010.png
 8 p- Knife_011.png
-C34
+C34                               #足音の再生
 4 p- Knife_012.png
 4 p- Knife_013.png
 4 p- Knife_014.png
 6 p- Knife_015.png
-C01
+C01                               #NOP
 3 p- Knife_016.png
 3 p- Knife_017.png
 4 p- Knife_018.png
-C34
+C34                               #足音の再生
 4 p- Knife_019.png
 7 p- Knife_020.png
 1 p- Knife_020.png
-C06
+C06                               #攻撃アニメ終了 後に0Dが来る
 3 p- Knife_021.png
 3 p- Knife_000.png
-C0D
+C0D                               #攻撃アニメ終了 前に06が来る
 ~~~
 /// - End of animation

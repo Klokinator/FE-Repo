@@ -1,0 +1,227 @@
+/// - Mode 1
+C03
+C07
+1 p- Melee_000.png
+4 p- Melee_001.png
+1 p- Melee_002.png
+C30
+C2B
+C15
+4 p- Melee_003.png
+6 p- Melee_004.png
+C42
+1 p- Melee_005.png
+C46
+C14
+10 p- Melee_006.png
+C20
+4 p- Melee_007.png
+1 p- Melee_008.png
+3 p- Melee_009.png
+5 p- Melee_010.png
+2 p- Melee_011.png
+3 p- Melee_010.png
+C42
+C04
+C14
+C1A
+C1F
+2 p- Melee_010.png
+2 p- Melee_011.png
+3 p- Melee_010.png
+15 p- Melee_012.png
+C01
+15 p- Melee_012.png
+4 p- Melee_013.png
+1 p- Melee_014.png
+4 p- Melee_015.png
+C2B
+C15
+5 p- Melee_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+2 p- Melee_000.png
+6 p- Melee_016.png
+6 p- Melee_017.png
+6 p- Melee_016.png
+6 p- Melee_017.png
+6 p- Melee_016.png
+6 p- Melee_017.png
+20 p- Melee_000.png
+4 p- Melee_001.png
+1 p- Melee_002.png
+C30
+C2B
+C15
+5 p- Melee_003.png
+7 p- Melee_004.png
+C42
+1 p- Melee_005.png
+C46
+C14
+10 p- Melee_006.png
+C20
+4 p- Melee_007.png
+1 p- Melee_008.png
+3 p- Melee_009.png
+5 p- Melee_010.png
+2 p- Melee_011.png
+3 p- Melee_010.png
+C42
+C20
+C14
+C04
+2 p- Melee_010.png
+2 p- Melee_011.png
+3 p- Melee_010.png
+C0A
+C01
+10 p- Melee_012.png
+4 p- Melee_013.png
+1 p- Melee_014.png
+4 p- Melee_015.png
+C34
+3 p- Melee_000.png
+C2B
+C15
+6 p- Melee_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Melee_000.png
+4 p- Melee_018.png
+C3C
+3 p- Melee_019.png
+50 p- Melee_020.png
+C49
+C2E
+1 p- Melee_021.png
+60 p- Melee_022.png
+C05
+6 p- Melee_023.png
+C01
+6 p- Melee_023.png
+2 p- Melee_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+4 p- Melee_000.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+C3D
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+C3C
+1 p- Melee_026.png
+80 p- Melee_027.png
+C14
+C2F
+80 p- Melee_027.png
+13 p- Melee_028.png
+2 p- Melee_029.png
+C3C
+13 p- Melee_030.png
+C05
+C01
+30 p- Melee_030.png
+1 p- Melee_031.png
+5 p- Melee_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Melee_000.png
+C0E
+3 p- Melee_032.png
+C01
+3 p- Melee_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Melee_000.png
+C0E
+3 p- Melee_032.png
+C01
+3 p- Melee_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Melee_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Melee_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Melee_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Melee_000.png
+2 p- Melee_001.png
+1 p- Melee_002.png
+C30
+S0266
+2 p- Melee_003.png
+3 p- Melee_004.png
+1 p- Melee_005.png
+C42
+3 p- Melee_006.png
+C04
+C15
+2 p- Melee_007.png
+1 p- Melee_008.png
+2 p- Melee_009.png
+2 p- Melee_010.png
+2 p- Melee_011.png
+C42
+2 p- Melee_010.png
+2 p- Melee_011.png
+13 p- Melee_012.png
+C01
+3 p- Melee_013.png
+1 p- Melee_014.png
+2 p- Melee_001.png
+C34
+2 p- Melee_000.png
+C06
+C0D
+~~~
+/// - End of animation

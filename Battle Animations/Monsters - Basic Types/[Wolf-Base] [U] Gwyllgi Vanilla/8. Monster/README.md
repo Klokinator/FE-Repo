@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by .
+Created by IS.
+
+Magic animation put together by CraigRandall55.

@@ -174,14 +174,6 @@
 
 
 
-## [\[Gunner-Custom\] Saoirse Bersagliere by VelvetKitsune](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BGunner-Custom%5D%20Saoirse%20Bersagliere%20by%20VelvetKitsune) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BGunner-Custom%5D%20Saoirse%20Bersagliere%20by%20VelvetKitsune)
-
-| <b>Gun</b><br/><img alt="Gun" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BGunner-Custom%5D%20Saoirse%20Bersagliere%20by%20VelvetKitsune/8.%20Gun/Gun.gif"/> | <b>Gun (Proper Sound)</b><br/><img alt="Gun (Proper Sound)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BGunner-Custom%5D%20Saoirse%20Bersagliere%20by%20VelvetKitsune/8.%20Gun%20(Proper%20Sound)/Gun.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BGunner-Custom%5D%20Saoirse%20Bersagliere%20by%20VelvetKitsune/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ## [\[Misc-Supplier\] \[F\] Bandana Alt by JonoTheRed](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Bandana%20Alt%20by%20JonoTheRed) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Bandana%20Alt%20by%20JonoTheRed)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Bandana%20Alt%20by%20JonoTheRed/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supplier%5D%20%5BF%5D%20Bandana%20Alt%20by%20JonoTheRed/7.%20Staff/Staff.gif"/> |
@@ -234,14 +226,6 @@
 ## [\[Misc\] \[M\] Rifleman by Dolkar](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar)
 
 | <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow.gif"/> |
-| :---: |
-
-
-
-
-## [\[Misc\] \[M\] Strong Guy by TytheBub](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Strong%20Guy%20by%20TytheBub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Strong%20Guy%20by%20TytheBub)
-
-| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Strong%20Guy%20by%20TytheBub/8.%20Monster/Monster.gif"/> |
 | :---: |
 
 

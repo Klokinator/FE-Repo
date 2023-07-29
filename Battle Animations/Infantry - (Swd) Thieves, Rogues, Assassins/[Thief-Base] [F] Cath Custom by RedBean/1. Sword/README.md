@@ -10,6 +10,8 @@
 
 Animation by Redbean.
 
+Knife by UltraFenix
+
 Unarmed by RiriK.
 
 Scrpited by 7743.

@@ -1,0 +1,202 @@
+/// - Mode 1
+C03
+C07
+1 p- Knife_000.png
+C25
+2 p- Knife_001.png
+2 p- Knife_002.png
+2 p- Knife_003.png
+C43
+30 p- Knife_004.png
+C05
+2 p- Knife_005.png
+C23
+1 p- Knife_006.png
+C01
+2 p- Knife_007.png
+13 p- Knife_008.png
+2 p- Knife_009.png
+C25
+2 p- Knife_010.png
+1 p- Knife_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Knife_000.png
+C25
+2 p- Knife_001.png
+C22
+1 p- Knife_002.png
+C38
+1 p- Knife_011.png
+1 p- Knife_012.png
+1 p- Knife_013.png
+1 p- Knife_014.png
+C38
+1 p- Knife_015.png
+1 p- Knife_016.png
+1 p- Knife_017.png
+1 p- Knife_018.png
+C38
+1 p- Knife_011.png
+1 p- Knife_012.png
+1 p- Knife_013.png
+1 p- Knife_014.png
+C38
+1 p- Knife_015.png
+1 p- Knife_016.png
+1 p- Knife_017.png
+1 p- Knife_018.png
+C43
+30 p- Knife_019.png
+2 p- Knife_020.png
+C22
+50 p- Knife_004.png
+C05
+2 p- Knife_005.png
+C23
+1 p- Knife_006.png
+C01
+2 p- Knife_007.png
+13 p- Knife_008.png
+2 p- Knife_009.png
+C25
+2 p- Knife_010.png
+1 p- Knife_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Knife_000.png
+C25
+2 p- Knife_001.png
+2 p- Knife_002.png
+2 p- Knife_003.png
+C43
+30 p- Knife_004.png
+C05
+2 p- Knife_005.png
+C23
+1 p- Knife_006.png
+C01
+2 p- Knife_007.png
+13 p- Knife_008.png
+2 p- Knife_009.png
+C25
+2 p- Knife_010.png
+1 p- Knife_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Knife_000.png
+C25
+2 p- Knife_001.png
+C22
+1 p- Knife_002.png
+C38
+1 p- Knife_011.png
+1 p- Knife_012.png
+1 p- Knife_013.png
+1 p- Knife_014.png
+C38
+1 p- Knife_015.png
+1 p- Knife_016.png
+1 p- Knife_017.png
+1 p- Knife_018.png
+C38
+1 p- Knife_011.png
+1 p- Knife_012.png
+1 p- Knife_013.png
+1 p- Knife_014.png
+C38
+1 p- Knife_015.png
+1 p- Knife_016.png
+1 p- Knife_017.png
+1 p- Knife_018.png
+C43
+30 p- Knife_019.png
+2 p- Knife_020.png
+C22
+50 p- Knife_004.png
+C05
+2 p- Knife_005.png
+C23
+1 p- Knife_006.png
+C01
+2 p- Knife_007.png
+13 p- Knife_008.png
+2 p- Knife_009.png
+C25
+2 p- Knife_010.png
+1 p- Knife_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Knife_000.png
+C0E
+2 p- Knife_021.png
+1 p- Knife_022.png
+C01
+2 p- Knife_021.png
+1 p- Knife_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Knife_000.png
+C0E
+1 p- Knife_021.png
+2 p- Knife_022.png
+1 p- Knife_023.png
+C01
+2 p- Knife_022.png
+1 p- Knife_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Knife_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Knife_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Knife_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Knife_000.png
+C25
+2 p- Knife_001.png
+2 p- Knife_002.png
+2 p- Knife_003.png
+C43
+30 p- Knife_004.png
+C05
+2 p- Knife_005.png
+C23
+1 p- Knife_006.png
+C01
+2 p- Knife_007.png
+13 p- Knife_008.png
+2 p- Knife_009.png
+C25
+2 p- Knife_010.png
+1 p- Knife_000.png
+C06
+C0D
+~~~
+/// - End of animation

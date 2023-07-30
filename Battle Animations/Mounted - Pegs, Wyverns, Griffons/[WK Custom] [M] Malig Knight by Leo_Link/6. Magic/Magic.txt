@@ -1,5 +1,5 @@
 #######################################################
-#06 Magic Soldier Anima
+#06 Magic 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -151,8 +151,8 @@ C02                               #Start of dodge
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Magic_026.png
 2 p- Magic_027.png
-3 p- Magic_026.png
 C01                               #NOP
+3 p- Magic_026.png
 4 p- Magic_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
@@ -163,8 +163,8 @@ C02                               #Start of dodge
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Magic_026.png
 2 p- Magic_027.png
-3 p- Magic_026.png
 C01                               #NOP
+3 p- Magic_026.png
 4 p- Magic_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06

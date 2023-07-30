@@ -146,8 +146,8 @@ C02
 C0E
 3 p- Magic_026.png
 2 p- Magic_027.png
-3 p- Magic_026.png
 C01
+3 p- Magic_026.png
 4 p- Magic_000.png
 C06
 C0D
@@ -158,8 +158,8 @@ C02
 C0E
 3 p- Magic_026.png
 2 p- Magic_027.png
-3 p- Magic_026.png
 C01
+3 p- Magic_026.png
 4 p- Magic_000.png
 C06
 C0D

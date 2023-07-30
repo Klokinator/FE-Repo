@@ -1,5 +1,5 @@
 #######################################################
-#0156 lorm_sp1 Malig Knight Hand Axe
+#04 Handaxe 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

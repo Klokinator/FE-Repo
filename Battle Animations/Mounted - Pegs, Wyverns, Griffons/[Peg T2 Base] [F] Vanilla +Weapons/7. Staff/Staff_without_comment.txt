@@ -75,10 +75,24 @@ C06
 C0D
 ~~~
 /// - Mode 7
+C02
+1 p- Staff_000.png
+C0E
 3 p- Staff_000.png
+1 p- Staff_006.png
+C01
+3 p- Staff_000.png
+C0D
 ~~~
 /// - Mode 8
+C02
+1 p- Staff_000.png
+C0E
 3 p- Staff_000.png
+1 p- Staff_006.png
+C01
+3 p- Staff_000.png
+C0D
 ~~~
 /// - Mode 9
 3 p- Staff_000.png

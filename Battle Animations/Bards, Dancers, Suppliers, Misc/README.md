@@ -101,8 +101,8 @@
 
 ## [\[Dancer-Base\] \[F\] Larum by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean/1.%20Sword/Sword.gif"/> |
-| :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean/8.%20Refresh/Refresh.gif"/> |
+| :---: | :---: |
 
 
 
@@ -112,6 +112,14 @@
 | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh/Refresh.gif"/> | <b>Refresh (Fixed SFX)</b><br/><img alt="Refresh (Fixed SFX)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Fixed%20SFX)/Refresh.gif"/> |
 | :---: | :---: | :---: |
 | <b>Refresh (Heart FE8)</b><br/><img alt="Refresh (Heart FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20+FE7-8,%20Staff/8.%20Refresh%20(Heart%20FE8)/Refresh.gif"/> |
+
+
+
+
+## [\[Dancer-Base\] \[F\] Vanilla FE6 Larum Long Hair by Momo](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20Long%20Hair%20by%20Momo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20Long%20Hair%20by%20Momo)
+
+| <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20Long%20Hair%20by%20Momo/8.%20Refresh/Refresh.gif"/> |
+| :---: |
 
 
 
@@ -170,6 +178,21 @@
 
 | <b>Item</b><br/><img alt="Item" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean/8.%20Item/Item.gif"/> |
 | :---: |
+
+
+
+
+## [\[Flail-Knight-Reskin\] \[M\] Bolo by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BFlail-Knight-Reskin%5D%20%5BM%5D%20Bolo%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BFlail-Knight-Reskin%5D%20%5BM%5D%20Bolo%20by%20Stephano)
+
+
+
+
+
+
+## [\[Hector-Reskin\] \[F\] Rottytops by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BHector-Reskin%5D%20%5BF%5D%20Rottytops%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BHector-Reskin%5D%20%5BF%5D%20Rottytops%20by%20Stephano)
+
+| <b>Axe (Leg)</b><br/><img alt="Axe (Leg)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BHector-Reskin%5D%20%5BF%5D%20Rottytops%20by%20Stephano/3.%20Axe%20(Leg)/Axe.gif"/> | <b>Handaxe (Head)</b><br/><img alt="Handaxe (Head)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BHector-Reskin%5D%20%5BF%5D%20Rottytops%20by%20Stephano/4.%20Handaxe%20(Head)/Handaxe.gif"/> |
+| :---: | :---: |
 
 
 

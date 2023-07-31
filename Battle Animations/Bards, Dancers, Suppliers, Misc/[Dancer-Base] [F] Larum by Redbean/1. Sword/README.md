@@ -8,7 +8,6 @@
 
 ## Credit
 
-Author: RedBean
+Animation made by Red Bean
 
-Script: 7743
-
+Fixed Script by UltraFenix

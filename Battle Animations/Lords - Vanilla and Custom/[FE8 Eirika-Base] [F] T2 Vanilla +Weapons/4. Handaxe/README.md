@@ -8,10 +8,8 @@
 
 ## Credit
 
-Vanilla animation by IS.
+Repalette by Teraspark.
 
-Staff by Sephie.
+Knife by ShadowAllyX
 
-Lance/Axe/Handaxe by St jack.
-
-Bow by Belle and St jack.
+Big thanks to Toji Magia for the edits

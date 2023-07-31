@@ -11,3 +11,5 @@
 Vanilla animation by IS.
 
 Fixed magic by Shin19.
+
+Knife animation by DatonDemand.

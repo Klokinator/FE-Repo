@@ -12,6 +12,6 @@ Vanilla animation by IS.
 
 Magic Jeorge_Reds.
 
-Staff by ShadowOfChaos.
+Staff by ShadowOfChaos, fixes by UltraxBlade.
 
 Bow animation by Flasuban, Knabepicer, and Nuramon.

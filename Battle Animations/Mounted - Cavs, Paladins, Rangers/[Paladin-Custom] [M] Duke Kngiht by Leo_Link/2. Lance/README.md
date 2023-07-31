@@ -10,4 +10,6 @@
 
 Animation by Leo_Link.
 
-Script by Enjin.
+Lance and Unarmed Script by Enjin.
+
+Sword Script by Jj09.

@@ -292,6 +292,14 @@
 
 
 
+## [\[Spider-Reskin\] \[U\] Older Bael Queen](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Older%20Bael%20Queen) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Older%20Bael%20Queen)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Older%20Bael%20Queen/8.%20Monster/Monster.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Spider-Reskin\] \[U\] Queen Bael by TytheBub](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Reskin%5D%20%5BU%5D%20Queen%20Bael%20by%20TytheBub/7.%20Staff/Staff.gif"/> |
@@ -358,8 +366,8 @@
 
 ## [\[Wolf-Reskin\] \[U\] Winged Cerberus by Pikmin1211 +SM Crit](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20%2BSM%20Crit) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20%2BSM%20Crit)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster.gif"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif"/> |
-| :---: | :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/6.%20Magic/Magic.gif"/> | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster/Monster.gif"/> | <b>Monster (Swordmaster Crit)</b><br/><img alt="Monster (Swordmaster Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BWolf-Reskin%5D%20%5BU%5D%20Winged%20Cerberus%20by%20Pikmin1211%20+SM%20Crit/8.%20Monster%20(Swordmaster%20Crit)/Monster.gif"/> |
+| :---: | :---: | :---: |
 
 
 

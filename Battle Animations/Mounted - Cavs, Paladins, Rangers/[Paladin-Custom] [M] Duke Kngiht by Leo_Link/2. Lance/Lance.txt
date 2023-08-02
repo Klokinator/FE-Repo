@@ -1,5 +1,5 @@
 #######################################################
-#B0 cyc_ax1 Duke Knight Lance
+#02 Lance Lord Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -61,6 +61,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 /// - Mode 3               #Melee Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
+2 p- Lance_000.png
 4 p- Lance_001.png
 6 p- Lance_002.png
 C1D                               #Play light horse stepping SFE; pitch increases
@@ -128,96 +129,88 @@ C0D                               #End of dodge animation. preceeded by 0x06
 /// - Mode 5               #Ranged Animation 
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-2 p- Lance_059.png
-6 p- Lance_060.png
-2 p- Lance_061.png
+2 p- Lance_000.png
+4 p- Lance_059.png
+C1C                               #Play light horse stepping SFE; pitch decreases
+2 p- Lance_060.png
+3 p- Lance_061.png
 3 p- Lance_062.png
 3 p- Lance_063.png
 3 p- Lance_064.png
 3 p- Lance_065.png
-3 p- Lance_066.png
-15 p- Lance_067.png
+15 p- Lance_066.png
 C25                               #Play wing flap SFE
 C05                               #Call spell associated with equipped weapon
-3 p- Lance_068.png
-25 p- Lance_069.png
+3 p- Lance_067.png
+8 p- Lance_068.png
 C01                               #NOP
-3 p- Lance_070.png
+3 p- Lance_069.png
+4 p- Lance_070.png
 4 p- Lance_071.png
+5 p- Lance_072.png
 C06                               #Begin opponent's turn after hit.next code 0D.
-4 p- Lance_072.png
-1 p- Lance_073.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-10 p- Lance_074.png
-10 p- Lance_075.png
-10 p- Lance_076.png
-4 p- Lance_077.png
-6 p- Lance_078.png
-2 p- Lance_059.png
+2 p- Lance_000.png
+6 p- Lance_073.png
+6 p- Lance_074.png
+4 p- Lance_075.png
+4 p- Lance_076.png
 C38                               #Play heavy spear spinning SFE
-2 p- Lance_079.png
+3 p- Lance_077.png
+3 p- Lance_078.png
+3 p- Lance_079.png
+C38                               #Play heavy spear spinning SFE
 3 p- Lance_080.png
-4 p- Lance_081.png
+3 p- Lance_081.png
 3 p- Lance_082.png
-4 p- Lance_083.png
+C38                               #Play heavy spear spinning SFE
+3 p- Lance_083.png
 3 p- Lance_084.png
+3 p- Lance_085.png
 C38                               #Play heavy spear spinning SFE
-2 p- Lance_085.png
-2 p- Lance_086.png
-2 p- Lance_087.png
-2 p- Lance_088.png
+3 p- Lance_086.png
+3 p- Lance_087.png
+3 p- Lance_088.png
 C38                               #Play heavy spear spinning SFE
-2 p- Lance_089.png
-2 p- Lance_090.png
-2 p- Lance_091.png
-C38                               #Play heavy spear spinning SFE
-2 p- Lance_092.png
-2 p- Lance_093.png
-2 p- Lance_094.png
-C38                               #Play heavy spear spinning SFE
-2 p- Lance_095.png
-2 p- Lance_096.png
-2 p- Lance_097.png
-9 p- Lance_067.png
+3 p- Lance_089.png
+3 p- Lance_090.png
+3 p- Lance_091.png
+3 p- Lance_092.png
+3 p- Lance_093.png
+15 p- Lance_066.png
 C25                               #Play wing flap SFE
 C05                               #Call spell associated with equipped weapon
-3 p- Lance_068.png
-25 p- Lance_069.png
+2 p- Lance_067.png
+8 p- Lance_068.png
 C01                               #NOP
-3 p- Lance_070.png
+3 p- Lance_069.png
+4 p- Lance_070.png
 4 p- Lance_071.png
-4 p- Lance_072.png
-10 p- Lance_073.png
+5 p- Lance_072.png
 C06                               #Begin opponent's turn after hit.next code 0D.
-10 p- Lance_098.png
-10 p- Lance_099.png
-4 p- Lance_100.png
-6 p- Lance_101.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
-2 p- Lance_102.png
-2 p- Lance_103.png
-25 p- Lance_104.png
+2 p- Lance_000.png
+2 p- Lance_094.png
+2 p- Lance_095.png
 C01                               #NOP
-2 p- Lance_103.png
-2 p- Lance_102.png
+2 p- Lance_094.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
-2 p- Lance_102.png
-2 p- Lance_103.png
-25 p- Lance_104.png
+2 p- Lance_000.png
+2 p- Lance_094.png
+2 p- Lance_095.png
 C01                               #NOP
-2 p- Lance_103.png
-2 p- Lance_102.png
+2 p- Lance_094.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -268,8 +261,6 @@ C38                               #Play heavy spear spinning SFE
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C24                               #Play sword slashing air SFE
 3 p- Lance_021.png
-C1A                               #Normal hit
-C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
 3 p- Lance_022.png
 5 p- Lance_023.png
 24 p- Lance_024.png

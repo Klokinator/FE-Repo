@@ -11,3 +11,5 @@
 Original animation by Greentea.
 
 Lowen edit by UltraFenix.
+
+Lowen Lance frame fix by Jj09.

@@ -3,3 +3,4 @@ node_modules
 vim.exe.stackdump
 
 *.DS_Store
+ZZ Repo Updater.bat

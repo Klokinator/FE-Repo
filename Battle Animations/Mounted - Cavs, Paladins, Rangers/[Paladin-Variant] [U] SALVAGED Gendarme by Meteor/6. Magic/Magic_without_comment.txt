@@ -12,6 +12,7 @@ C01
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06
 1 p- Magic_005.png
 C0D
 ~~~
@@ -37,6 +38,7 @@ C01
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06
 1 p- Magic_005.png
 C0D
 ~~~
@@ -54,6 +56,7 @@ C01
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06
 1 p- Magic_005.png
 C0D
 ~~~
@@ -79,6 +82,7 @@ C01
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06
 1 p- Magic_005.png
 C0D
 ~~~
@@ -128,6 +132,7 @@ C01
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06
 1 p- Magic_005.png
 C0D
 ~~~

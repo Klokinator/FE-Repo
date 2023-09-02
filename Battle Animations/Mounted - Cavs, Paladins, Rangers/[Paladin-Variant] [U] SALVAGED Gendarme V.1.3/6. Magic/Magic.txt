@@ -1,5 +1,5 @@
 #######################################################
-#3D paif_sw1 Paladin Sword
+#CF lorm_sp1 Death Knight Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -17,6 +17,7 @@ C01                               #NOP
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Magic_005.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -42,6 +43,7 @@ C01                               #NOP
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Magic_005.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -59,6 +61,7 @@ C01                               #NOP
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Magic_005.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -84,6 +87,7 @@ C01                               #NOP
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Magic_005.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -133,6 +137,7 @@ C01                               #NOP
 3 p- Magic_003.png
 2 p- Magic_002.png
 2 p- Magic_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Magic_005.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~

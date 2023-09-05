@@ -14,4 +14,6 @@ Bow by Obsidian Daddy.
 
 Magic by Zoramine Fae.
 
-Mane recolor by Jey the Count
+Mane recolor by Jey the Count.
+
+Magic Script fix by UltraxBlade.

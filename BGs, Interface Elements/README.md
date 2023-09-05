@@ -520,3 +520,13 @@
 
 </details>
 
+## [Updated Bad Status Icon Sheet](Updated%20Bad%20Status%20Icon%20Sheet)
+
+<details><summary>Click to expand!</summary>
+
+# Updated Bad Status Icon Sheet
+
+![updated bad status icon sheet.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Updated%20Bad%20Status%20Icon%20Sheet/updated%20bad%20status%20icon%20sheet.png "updated bad status icon sheet.png")
+
+</details>
+

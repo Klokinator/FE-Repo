@@ -13,3 +13,5 @@ Base animation by SALVAGED.
 Magic by Zoramine Fae.
 
 Helmet edit and repal by MeteorSR23.
+
+Magic Script fix by UltraxBlade.

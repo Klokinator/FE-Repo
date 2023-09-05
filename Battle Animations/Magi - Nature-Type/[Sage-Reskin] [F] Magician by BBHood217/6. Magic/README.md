@@ -13,3 +13,5 @@ Based on the Vanilla F Sage (Lilina).
 Ponytail added by Lisandra Brave.
 
 Magician Variant by BBHood217.
+
+Staff Animation by Sable Mage

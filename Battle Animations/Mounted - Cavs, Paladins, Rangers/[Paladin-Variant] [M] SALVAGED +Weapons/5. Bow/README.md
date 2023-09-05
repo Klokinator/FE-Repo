@@ -13,3 +13,5 @@ Base animation by SALVAGED.
 Bow by Obsidian Daddy.
 
 Magic by Zoramine Fae.
+
+Magic Script fix by UltraxBlade.

@@ -20,6 +20,7 @@ C25                               #Play wing flap SFE
 30 p- Magic_010.png
 3 p- Magic_011.png
 C2E                               #Show sage's normal magic rune drawing animation
+C49                               #Play sage's magic firing SFE
 C25                               #Play wing flap SFE
 2 p- Magic_012.png
 2 p- Magic_013.png
@@ -157,6 +158,8 @@ C25                               #Play wing flap SFE
 6 p- Magic_009.png
 30 p- Magic_010.png
 3 p- Magic_011.png
+C49                               #Play sage's magic firing SFE
+C2E                               #Show sage's normal magic rune drawing animation
 C25                               #Play wing flap SFE
 2 p- Magic_012.png
 2 p- Magic_013.png
@@ -344,6 +347,8 @@ C25                               #Play wing flap SFE
 6 p- Magic_009.png
 30 p- Magic_010.png
 3 p- Magic_011.png
+C2E                               #Show sage's normal magic rune drawing animation
+C49                               #Play sage's magic firing SFE
 C25                               #Play wing flap SFE
 2 p- Magic_012.png
 2 p- Magic_013.png

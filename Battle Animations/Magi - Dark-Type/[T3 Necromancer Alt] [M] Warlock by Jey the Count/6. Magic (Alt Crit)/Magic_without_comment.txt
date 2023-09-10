@@ -15,6 +15,7 @@ C25
 30 p- Magic_010.png
 3 p- Magic_011.png
 C2E
+C49
 C25
 2 p- Magic_012.png
 2 p- Magic_013.png
@@ -152,6 +153,8 @@ C25
 6 p- Magic_009.png
 30 p- Magic_010.png
 3 p- Magic_011.png
+C49
+C2E
 C25
 2 p- Magic_012.png
 2 p- Magic_013.png
@@ -339,6 +342,8 @@ C25
 6 p- Magic_009.png
 30 p- Magic_010.png
 3 p- Magic_011.png
+C2E
+C49
 C25
 2 p- Magic_012.png
 2 p- Magic_013.png

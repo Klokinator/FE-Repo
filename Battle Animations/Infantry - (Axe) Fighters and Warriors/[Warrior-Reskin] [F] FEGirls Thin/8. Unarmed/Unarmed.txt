@@ -1,7 +1,7 @@
 #######################################################
-#40 Ｗａｒｒｉｏｒ Item
+#08 Unarmed Great Lord Sword
 #
-#When importing to FEEditorAdv delete # and after each line.
+#When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
 C02                               #Start of dodge
@@ -67,7 +67,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #standing motions?
+/// - Mode 10               #Standing motions
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~

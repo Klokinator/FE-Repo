@@ -103,55 +103,23 @@ C06
 C0D
 ~~~
 /// - Mode 7
-C03
-C07
-1 p- Staff_000.png
-C1C
-4 p- Staff_001.png
-4 p- Staff_002.png
-C1C
-5 p- Staff_003.png
-4 p- Staff_004.png
-10 p- Staff_005.png
-10 p- Staff_006.png
-C05
-1 p- Staff_007.png
+C02
+3 p- Staff_000.png
+C0E
+3 p- Staff_013.png
+3 p- Staff_014.png
 C01
-4 p- Staff_005.png
-4 p- Staff_008.png
-4 p- Staff_009.png
-7 p- Staff_010.png
-C1E
-1 p- Staff_011.png
-C06
-3 p- Staff_011.png
-3 p- Staff_012.png
+3 p- Staff_013.png
 C0D
 ~~~
 /// - Mode 8
-C03
-C07
-1 p- Staff_000.png
-C1C
-4 p- Staff_001.png
-4 p- Staff_002.png
-C1C
-5 p- Staff_003.png
-4 p- Staff_004.png
-10 p- Staff_005.png
-10 p- Staff_006.png
-C05
-1 p- Staff_007.png
+C02
+3 p- Staff_000.png
+C0E
+3 p- Staff_013.png
+3 p- Staff_014.png
 C01
-4 p- Staff_005.png
-4 p- Staff_008.png
-4 p- Staff_009.png
-7 p- Staff_010.png
-C1E
-1 p- Staff_011.png
-C06
-3 p- Staff_011.png
-3 p- Staff_012.png
+3 p- Staff_013.png
 C0D
 ~~~
 /// - Mode 9

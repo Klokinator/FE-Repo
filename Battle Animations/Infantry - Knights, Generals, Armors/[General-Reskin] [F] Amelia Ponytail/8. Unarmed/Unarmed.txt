@@ -1,0 +1,85 @@
+#######################################################
+#013F Unarmed 
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C02                               #回避モーションの始め
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C02                               #回避モーションの始め
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C02                               #回避モーションの始め
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C02                               #回避モーションの始め
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+C2B                               #アーマー系の鎧音の再生
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C2B                               #アーマー系の鎧音の再生
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+C2B                               #アーマー系の鎧音の再生
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C2B                               #アーマー系の鎧音の再生
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C02                               #回避モーションの始め
+1 p- Unarmed_000.png
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+3 p- Unarmed_001.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

@@ -1,0 +1,371 @@
+#######################################################
+#013D Axe 
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+C55                               #未使用　何もなし
+1 p- Axe_000.png
+5 p- Axe_001.png
+5 p- Axe_002.png
+5 p- Axe_003.png
+7 p- Axe_004.png
+4 p- Axe_005.png
+C1B                               #重い足音
+C14                               #画面揺れる　大きい　アルマーズ
+4 p- Axe_006.png
+C2B                               #アーマー系の鎧音の再生
+30 p- Axe_007.png
+8 p- Axe_008.png
+C24                               #剣で空を切る音
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+3 p- Axe_009.png
+3 p- Axe_010.png
+C14                               #画面揺れる　大きい　アルマーズ
+C1A                               #ノーマルヒットのエフェクト
+C1F                               #クリティカルの効果音 ずどーん
+1 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+6 p- Axe_014.png
+C1B                               #重い足音
+C15                               #画面揺れる　小さい
+6 p- Axe_015.png
+6 p- Axe_016.png
+20 p- Axe_017.png
+C23                               #剣を振る音　小さい
+6 p- Axe_018.png
+4 p- Axe_019.png
+3 p- Axe_020.png
+3 p- Axe_021.png
+2 p- Axe_020.png
+2 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+6 p- Axe_022.png
+C1B                               #重い足音
+C15                               #画面揺れる　小さい
+4 p- Axe_023.png
+C2B                               #アーマー系の鎧音の再生
+20 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #画面揺れる　大きい　アルマーズ
+10 p- Axe_027.png
+C1B                               #重い足音
+C2B                               #アーマー系の鎧音の再生
+8 p- Axe_028.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+C55                               #未使用　何もなし
+1 p- Axe_000.png
+8 p- Axe_001.png
+C2B                               #アーマー系の鎧音の再生
+16 p- Axe_002.png
+C38                               #槍を回す音
+3 p- Axe_029.png
+2 p- Axe_030.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+C24                               #剣で空を切る音
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+C24                               #剣で空を切る音
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+C38                               #槍を回す音
+2 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+C24                               #剣で空を切る音
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+C24                               #剣で空を切る音
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+8 p- Axe_008.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C22                               #リンロードの剣を振る音
+3 p- Axe_009.png
+3 p- Axe_010.png
+C14                               #画面揺れる　大きい　アルマーズ
+C0A                               #クリティカルヒット
+C1F                               #クリティカルの効果音 ずどーん
+1 p- Axe_011.png
+C01                               #NOP
+4 p- Axe_012.png
+4 p- Axe_013.png
+6 p- Axe_014.png
+C1B                               #重い足音
+C15                               #画面揺れる　小さい
+6 p- Axe_015.png
+6 p- Axe_016.png
+53 p- Axe_017.png
+C23                               #剣を振る音　小さい
+6 p- Axe_018.png
+4 p- Axe_019.png
+3 p- Axe_020.png
+3 p- Axe_021.png
+2 p- Axe_020.png
+2 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+1 p- Axe_020.png
+1 p- Axe_021.png
+6 p- Axe_022.png
+C1B                               #重い足音
+C15                               #画面揺れる　小さい
+4 p- Axe_023.png
+C2B                               #アーマー系の鎧音の再生
+36 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #画面揺れる　大きい　アルマーズ
+10 p- Axe_027.png
+C1B                               #重い足音
+C2B                               #アーマー系の鎧音の再生
+8 p- Axe_028.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+C55                               #未使用　何もなし
+1 p- Axe_000.png
+5 p- Axe_001.png
+5 p- Axe_002.png
+5 p- Axe_003.png
+7 p- Axe_004.png
+4 p- Axe_005.png
+C1B                               #重い足音
+C14                               #画面揺れる　大きい　アルマーズ
+4 p- Axe_006.png
+C2B                               #アーマー系の鎧音の再生
+30 p- Axe_007.png
+8 p- Axe_008.png
+C24                               #剣で空を切る音
+1 p- Axe_003.png
+1 p- Axe_002.png
+C05                               #魔法の呼び出し
+1 p- Axe_044.png
+C01                               #NOP
+6 p- Axe_002.png
+C2B                               #アーマー系の鎧音の再生
+6 p- Axe_001.png
+1 p- Axe_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+C55                               #未使用　何もなし
+1 p- Axe_000.png
+8 p- Axe_001.png
+C2B                               #アーマー系の鎧音の再生
+16 p- Axe_002.png
+C38                               #槍を回す音
+3 p- Axe_029.png
+2 p- Axe_030.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+C24                               #剣で空を切る音
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+C24                               #剣で空を切る音
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+1 p- Axe_032.png
+1 p- Axe_033.png
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_030.png
+1 p- Axe_031.png
+C38                               #槍を回す音
+2 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+C24                               #剣で空を切る音
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+C24                               #剣で空を切る音
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_041.png
+1 p- Axe_042.png
+1 p- Axe_043.png
+1 p- Axe_038.png
+8 p- Axe_008.png
+C24                               #剣で空を切る音
+1 p- Axe_003.png
+1 p- Axe_002.png
+C05                               #魔法の呼び出し
+2 p- Axe_044.png
+3 p- Axe_045.png
+2 p- Axe_044.png
+2 p- Axe_045.png
+1 p- Axe_044.png
+2 p- Axe_045.png
+2 p- Axe_044.png
+2 p- Axe_045.png
+1 p- Axe_044.png
+C01                               #NOP
+6 p- Axe_002.png
+C2B                               #アーマー系の鎧音の再生
+6 p- Axe_001.png
+1 p- Axe_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Axe_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Axe_046.png
+C2B                               #アーマー系の鎧音の再生
+1 p- Axe_047.png
+C01                               #NOP
+3 p- Axe_046.png
+C2B                               #アーマー系の鎧音の再生
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Axe_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Axe_046.png
+C2B                               #アーマー系の鎧音の再生
+1 p- Axe_047.png
+C01                               #NOP
+3 p- Axe_046.png
+C2B                               #アーマー系の鎧音の再生
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Axe_000.png
+5 p- Axe_001.png
+5 p- Axe_002.png
+5 p- Axe_003.png
+7 p- Axe_004.png
+4 p- Axe_005.png
+C1B                               #重い足音
+C14                               #画面揺れる　大きい　アルマーズ
+4 p- Axe_006.png
+C2B                               #アーマー系の鎧音の再生
+20 p- Axe_007.png
+8 p- Axe_008.png
+C24                               #剣で空を切る音
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+3 p- Axe_009.png
+2 p- Axe_048.png
+8 p- Axe_049.png
+C01                               #NOP
+3 p- Axe_050.png
+4 p- Axe_023.png
+C1B                               #重い足音
+C15                               #画面揺れる　小さい
+C2B                               #アーマー系の鎧音の再生
+36 p- Axe_024.png
+4 p- Axe_025.png
+4 p- Axe_026.png
+C14                               #画面揺れる　大きい　アルマーズ
+10 p- Axe_027.png
+C1B                               #重い足音
+C2B                               #アーマー系の鎧音の再生
+8 p- Axe_028.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

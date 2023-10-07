@@ -1,1 +1,1 @@
-undefined![Radiant Dawn.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/FE%20Radiant%20Dawn/Radiant%20Dawn.png "Radiant Dawn.png")
+undefined![{CanDY} Radiant Dawn.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/FE%20Radiant%20Dawn/%7BCanDY%7D%20Radiant%20Dawn.png "{CanDY} Radiant Dawn.png")

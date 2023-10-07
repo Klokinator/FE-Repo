@@ -15,3 +15,7 @@ All weapon variants sprited by Hairyblob from Deviantart.
 Importing/scripting of all new weapons by Maiser6.
 
 Repal Fix by MageBoy.
+
+Eckesachs(No transformation) critical animation：Victor.
+
+Edits by tatutachang.

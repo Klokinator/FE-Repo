@@ -52,6 +52,22 @@
 
 
 
+## [\[Centaur-Variant\] \[F\] CentaurZerker by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Centaur-Variant\] \[M\] CentaurZerker by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BM%5D%20CentaurZerker%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BM%5D%20CentaurZerker%20by%20Alexsplode)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BM%5D%20CentaurZerker%20by%20Alexsplode/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BM%5D%20CentaurZerker%20by%20Alexsplode/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BM%5D%20CentaurZerker%20by%20Alexsplode/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Cyclops-Base\] \[U\] Vanilla +Bow](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20%2BBow) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20%2BBow)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20+Bow/5.%20Bow/Bow.gif"/> |
@@ -65,6 +81,16 @@
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Reskin%5D%20%5BU%5D%20Armored%20by%20ShadowAllyX/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Reskin%5D%20%5BU%5D%20Armored%20by%20ShadowAllyX/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Cyclops-Variant\] \[U\] Ronin Cyclops by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode/5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Bow (Variant 1)</b><br/><img alt="Bow (Variant 1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode/5.%20Bow%20(Variant%201)/Bow.gif"/> | <b>Bow (Variant 2)</b><br/><img alt="Bow (Variant 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode/5.%20Bow%20(Variant%202)/Bow.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode/8.%20Refresh/Refresh.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Variant%5D%20%5BU%5D%20Ronin%20Cyclops%20by%20Alexsplode/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -183,6 +209,22 @@
 
 
 
+## [\[Mogall-Variant\] \[U\] Watcher by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Watcher%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Watcher%20by%20Alexsplode)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Watcher%20by%20Alexsplode/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Watcher%20by%20Alexsplode/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Skeleton-Base\] \[U\] Bonewalker \(one arm, sword\) by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20(one%20arm,%20sword)%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20(one%20arm,%20sword)%20by%20Alexsplode)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20(one%20arm,%20sword)%20by%20Alexsplode/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20(one%20arm,%20sword)%20by%20Alexsplode/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Skeleton-Base\] \[U\] Bonewalker Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20%2BWeapons)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe {MrNight}</b><br/><img alt="Axe {MrNight}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20Vanilla%20+Weapons/3.%20Axe%20%7BMrNight%7D/Axe.gif"/> |
@@ -206,6 +248,14 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Axe (Handaxe Ranged)</b><br/><img alt="Axe (Handaxe Ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/3.%20Axe%20(Handaxe%20Ranged)/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe (Magic Ranged)</b><br/><img alt="Axe (Magic Ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/3.%20Axe%20(Magic%20Ranged)/Axe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Wight%20Repal%20by%20Teraspark%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Skeleton-Custom\] \[U\] Specter by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode/6.%20Magic/Magic.gif"/> |
+| :---: | :---: |
 
 
 
@@ -312,6 +362,14 @@
 
 | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand/5.%20Bow/Bow.gif"/> | <b>Bow (Ballista)</b><br/><img alt="Bow (Ballista)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand/5.%20Bow%20(Ballista)/Bow.gif"/> | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20(U)%20Bael-lista!!%20by%20DATonDemand/8.%20Monster/Monster.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Spider-Variant\] \[F\] Bael Widow by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20%5BF%5D%20Bael%20Widow%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20%5BF%5D%20Bael%20Widow%20by%20Alexsplode)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20%5BF%5D%20Bael%20Widow%20by%20Alexsplode/6.%20Magic/Magic.gif"/> |
+| :---: |
 
 
 
@@ -468,10 +526,26 @@
 
 
 
+## [\[Zombie-Base\] \[U\] Revenant Vanilla Repalette](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20Repalette) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20Repalette)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Revenant%20Vanilla%20Repalette/8.%20Monster/Monster.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Zombie-Base\] \[U\] Vanilla Entombed +Ranged](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20%2BRanged) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20%2BRanged)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/8.%20Monster/Monster.gif"/> | <b>Monster (Magic Ranged)</b><br/><img alt="Monster (Magic Ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20+Ranged/8.%20Monster%20(Magic%20Ranged)/Monster.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Zombie-Custom\] \[U\] Gore by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Custom%5D%20%5BU%5D%20Gore%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Custom%5D%20%5BU%5D%20Gore%20by%20Alexsplode)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Custom%5D%20%5BU%5D%20Gore%20by%20Alexsplode/8.%20Monster/Monster.gif"/> |
+| :---: |
 
 
 

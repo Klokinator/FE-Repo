@@ -13,3 +13,5 @@ Made by Redbean.
 Scripted by Marlon0024.
 
 Lance Fix by Sax Marine.
+
+Durandal Freeze Fix by UltraFenix

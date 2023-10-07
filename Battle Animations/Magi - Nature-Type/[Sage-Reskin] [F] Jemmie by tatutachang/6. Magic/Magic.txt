@@ -1,0 +1,307 @@
+#######################################################
+#D6 Magic 
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Magic_000.png
+4 p- Magic_001.png
+C2E                               #賢者の魔法エフェクト　効果音なし
+C49                               #賢者　魔法効果音
+8 p- Magic_002.png
+C1B                               #重い足音
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                               #重い足音
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Magic_008.png
+3 p- Magic_009.png
+2 p- Magic_010.png
+3 p- Magic_008.png
+2 p- Magic_009.png
+3 p- Magic_010.png
+C01                               #LOOPEND }  NOP
+1 p- Magic_008.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+C1B                               #重い足音
+3 p- Magic_015.png
+3 p- Magic_016.png
+2 p- Magic_017.png
+C1B                               #重い足音
+3 p- Magic_018.png
+3 p- Magic_019.png
+8 p- Magic_020.png
+6 p- Magic_021.png
+3 p- Magic_022.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Magic_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Magic_000.png
+8 p- Magic_023.png
+C2F                               #賢者のクリティカルエフェクト　効果音あり
+4 p- Magic_024.png
+8 p- Magic_025.png
+4 p- Magic_026.png
+3 p- Magic_027.png
+8 p- Magic_028.png
+4 p- Magic_029.png
+8 p- Magic_030.png
+4 p- Magic_031.png
+3 p- Magic_027.png
+8 p- Magic_032.png
+4 p- Magic_033.png
+8 p- Magic_034.png
+4 p- Magic_035.png
+10 p- Magic_036.png
+4 p- Magic_036.png
+4 p- Magic_037.png
+12 p- Magic_037.png
+C2E                               #賢者の魔法エフェクト　効果音なし
+C49                               #賢者　魔法効果音
+8 p- Magic_002.png
+C1B                               #重い足音
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                               #重い足音
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Magic_008.png
+3 p- Magic_009.png
+2 p- Magic_010.png
+3 p- Magic_008.png
+2 p- Magic_009.png
+3 p- Magic_010.png
+C01                               #LOOPEND }  NOP
+1 p- Magic_008.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+C1B                               #重い足音
+3 p- Magic_015.png
+3 p- Magic_016.png
+2 p- Magic_017.png
+C1B                               #重い足音
+3 p- Magic_018.png
+3 p- Magic_019.png
+8 p- Magic_020.png
+6 p- Magic_021.png
+3 p- Magic_022.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Magic_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Magic_000.png
+4 p- Magic_001.png
+C2E                               #賢者の魔法エフェクト　効果音なし
+C49                               #賢者　魔法効果音
+8 p- Magic_002.png
+C1B                               #重い足音
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                               #重い足音
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Magic_008.png
+3 p- Magic_009.png
+2 p- Magic_010.png
+3 p- Magic_008.png
+2 p- Magic_009.png
+3 p- Magic_010.png
+C01                               #LOOPEND }  NOP
+1 p- Magic_008.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+C1B                               #重い足音
+3 p- Magic_015.png
+3 p- Magic_016.png
+2 p- Magic_017.png
+C1B                               #重い足音
+3 p- Magic_018.png
+3 p- Magic_019.png
+8 p- Magic_020.png
+6 p- Magic_021.png
+3 p- Magic_022.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Magic_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Magic_000.png
+8 p- Magic_023.png
+C2F                               #賢者のクリティカルエフェクト　効果音あり
+4 p- Magic_024.png
+8 p- Magic_025.png
+4 p- Magic_026.png
+3 p- Magic_027.png
+8 p- Magic_028.png
+4 p- Magic_029.png
+8 p- Magic_030.png
+4 p- Magic_031.png
+3 p- Magic_027.png
+8 p- Magic_032.png
+4 p- Magic_033.png
+8 p- Magic_034.png
+4 p- Magic_035.png
+10 p- Magic_036.png
+4 p- Magic_036.png
+4 p- Magic_037.png
+12 p- Magic_037.png
+C2E                               #賢者の魔法エフェクト　効果音なし
+C49                               #賢者　魔法効果音
+8 p- Magic_002.png
+C1B                               #重い足音
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                               #重い足音
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Magic_008.png
+3 p- Magic_009.png
+2 p- Magic_010.png
+3 p- Magic_008.png
+2 p- Magic_009.png
+3 p- Magic_010.png
+C01                               #LOOPEND }  NOP
+1 p- Magic_008.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+C1B                               #重い足音
+3 p- Magic_015.png
+3 p- Magic_016.png
+2 p- Magic_017.png
+C1B                               #重い足音
+3 p- Magic_018.png
+3 p- Magic_019.png
+8 p- Magic_020.png
+6 p- Magic_021.png
+3 p- Magic_022.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Magic_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Magic_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Magic_038.png
+1 p- Magic_039.png
+C01                               #NOP
+3 p- Magic_038.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Magic_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Magic_038.png
+1 p- Magic_039.png
+C01                               #NOP
+3 p- Magic_038.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+4 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+4 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+4 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Magic_000.png
+4 p- Magic_001.png
+C2E                               #賢者の魔法エフェクト　効果音なし
+C49                               #賢者　魔法効果音
+8 p- Magic_002.png
+C1B                               #重い足音
+7 p- Magic_003.png
+8 p- Magic_004.png
+C1B                               #重い足音
+11 p- Magic_005.png
+4 p- Magic_006.png
+4 p- Magic_007.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Magic_008.png
+3 p- Magic_009.png
+2 p- Magic_010.png
+3 p- Magic_008.png
+2 p- Magic_009.png
+3 p- Magic_010.png
+C01                               #LOOPEND }  NOP
+1 p- Magic_008.png
+4 p- Magic_011.png
+4 p- Magic_012.png
+4 p- Magic_013.png
+4 p- Magic_014.png
+C1B                               #重い足音
+3 p- Magic_015.png
+3 p- Magic_016.png
+2 p- Magic_017.png
+C1B                               #重い足音
+3 p- Magic_018.png
+3 p- Magic_019.png
+8 p- Magic_020.png
+6 p- Magic_021.png
+3 p- Magic_022.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+1 p- Magic_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Magic_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

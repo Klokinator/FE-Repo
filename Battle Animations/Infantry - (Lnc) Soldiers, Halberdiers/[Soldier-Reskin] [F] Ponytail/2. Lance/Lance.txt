@@ -1,0 +1,169 @@
+#######################################################
+#AC Lance ソルジャー 槍
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Lance_000.png
+4 p- Lance_001.png
+C1B                               #重い足音
+4 p- Lance_002.png
+6 p- Lance_003.png
+C21                               #通常攻撃の効果音
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C1A                               #ノーマルヒットのエフェクト
+1 p- Lance_004.png
+C01                               #NOP
+4 p- Lance_005.png
+C22                               #リンロードの剣を振る音
+2 p- Lance_006.png
+5 p- Lance_007.png
+C1B                               #重い足音
+3 p- Lance_008.png
+5 p- Lance_009.png
+C1B                               #重い足音
+6 p- Lance_010.png
+1 p- Lance_011.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance_011.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Lance_000.png
+3 p- Lance_012.png
+4 p- Lance_013.png
+C23                               #剣を振る音　小さい
+3 p- Lance_014.png
+23 p- Lance_015.png
+C1B                               #重い足音
+4 p- Lance_002.png
+6 p- Lance_003.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C23                               #剣を振る音　小さい
+C21                               #通常攻撃の効果音
+C0C                               #クリティカルヒット
+1 p- Lance_004.png
+C01                               #NOP
+4 p- Lance_005.png
+C22                               #リンロードの剣を振る音
+2 p- Lance_006.png
+5 p- Lance_007.png
+C1B                               #重い足音
+3 p- Lance_008.png
+5 p- Lance_009.png
+C1B                               #重い足音
+6 p- Lance_010.png
+1 p- Lance_011.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance_011.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Lance_000.png
+C22                               #リンロードの剣を振る音
+5 p- Lance_016.png
+5 p- Lance_017.png
+11 p- Lance_018.png
+C25                               #ブンという音
+4 p- Lance_019.png
+C05                               #魔法の呼び出し
+1 p- Lance_020.png
+C01                               #NOP
+7 p- Lance_018.png
+3 p- Lance_017.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- Lance_016.png
+3 p- Lance_021.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Lance_000.png
+C38                               #槍を回す音
+4 p- Lance_022.png
+3 p- Lance_023.png
+2 p- Lance_024.png
+1 p- Lance_025.png
+10 p- Lance_000.png
+C22                               #リンロードの剣を振る音
+5 p- Lance_016.png
+5 p- Lance_017.png
+11 p- Lance_018.png
+C25                               #ブンという音
+4 p- Lance_019.png
+C05                               #魔法の呼び出し
+1 p- Lance_020.png
+C01                               #NOP
+7 p- Lance_018.png
+3 p- Lance_017.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- Lance_016.png
+3 p- Lance_021.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Lance_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Lance_026.png
+1 p- Lance_027.png
+C01                               #NOP
+3 p- Lance_026.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Lance_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Lance_026.png
+1 p- Lance_027.png
+C01                               #NOP
+3 p- Lance_026.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+1 p- Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+1 p- Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+1 p- Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Lance_000.png
+4 p- Lance_001.png
+C1B                               #重い足音
+4 p- Lance_002.png
+6 p- Lance_003.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C23                               #剣を振る音　小さい
+1 p- Lance_028.png
+C01                               #NOP
+4 p- Lance_029.png
+C22                               #リンロードの剣を振る音
+2 p- Lance_006.png
+5 p- Lance_007.png
+C1B                               #重い足音
+3 p- Lance_008.png
+5 p- Lance_009.png
+C1B                               #重い足音
+6 p- Lance_010.png
+1 p- Lance_011.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance_011.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

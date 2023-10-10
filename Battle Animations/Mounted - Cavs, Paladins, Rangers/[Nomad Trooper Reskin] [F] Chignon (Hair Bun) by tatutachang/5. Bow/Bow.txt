@@ -1,0 +1,154 @@
+#######################################################
+#0117 Bow 
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+4 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+4 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Bow_000.png
+3 p- Bow_001.png
+2 p- Bow_002.png
+6 p- Bow_003.png
+C1C                               #ナイトの足音
+3 p- Bow_004.png
+5 p- Bow_005.png
+1 p- Bow_006.png
+2 p- Bow_007.png
+1 p- Bow_008.png
+C23                               #剣を振る音　小さい
+2 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+2 p- Bow_012.png
+1 p- Bow_013.png
+1 p- Bow_014.png
+20 p- Bow_015.png
+4 p- Bow_016.png
+C05                               #魔法の呼び出し
+2 p- Bow_017.png
+2 p- Bow_018.png
+16 p- Bow_019.png
+6 p- Bow_020.png
+2 p- Bow_021.png
+4 p- Bow_022.png
+1 p- Bow_023.png
+C01                               #NOP
+4 p- Bow_024.png
+5 p- Bow_025.png
+6 p- Bow_026.png
+4 p- Bow_027.png
+4 p- Bow_028.png
+C1C                               #ナイトの足音
+5 p- Bow_029.png
+5 p- Bow_030.png
+4 p- Bow_031.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+4 p- Bow_032.png
+1 p- Bow_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Bow_000.png
+5 p- Bow_033.png
+6 p- Bow_034.png
+C1C                               #ナイトの足音
+3 p- Bow_035.png
+5 p- Bow_036.png
+4 p- Bow_037.png
+4 p- Bow_038.png
+4 p- Bow_039.png
+4 p- Bow_040.png
+3 p- Bow_041.png
+1 p- Bow_039.png
+6 p- Bow_042.png
+C24                               #剣で空を切る音
+4 p- Bow_043.png
+2 p- Bow_044.png
+2 p- Bow_045.png
+2 p- Bow_046.png
+2 p- Bow_047.png
+C23                               #剣を振る音　小さい
+2 p- Bow_048.png
+2 p- Bow_049.png
+2 p- Bow_050.png
+2 p- Bow_051.png
+C23                               #剣を振る音　小さい
+2 p- Bow_052.png
+2 p- Bow_053.png
+2 p- Bow_054.png
+2 p- Bow_055.png
+2 p- Bow_056.png
+2 p- Bow_014.png
+8 p- Bow_015.png
+2 p- Bow_016.png
+C05                               #魔法の呼び出し
+1 p- Bow_017.png
+2 p- Bow_018.png
+12 p- Bow_019.png
+6 p- Bow_020.png
+2 p- Bow_021.png
+4 p- Bow_022.png
+1 p- Bow_023.png
+C01                               #NOP
+4 p- Bow_024.png
+5 p- Bow_025.png
+6 p- Bow_026.png
+4 p- Bow_027.png
+4 p- Bow_028.png
+C1C                               #ナイトの足音
+5 p- Bow_029.png
+5 p- Bow_030.png
+4 p- Bow_031.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+4 p- Bow_032.png
+1 p- Bow_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Bow_000.png
+2 p- Bow_057.png
+1 p- Bow_058.png
+C01                               #NOP
+4 p- Bow_057.png
+C1C                               #ナイトの足音
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Bow_000.png
+2 p- Bow_057.png
+1 p- Bow_058.png
+C01                               #NOP
+4 p- Bow_057.png
+C1C                               #ナイトの足音
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+4 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+4 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+4 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+4 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - End of animation

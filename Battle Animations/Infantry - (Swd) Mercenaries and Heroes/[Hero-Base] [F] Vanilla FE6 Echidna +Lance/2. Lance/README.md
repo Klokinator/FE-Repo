@@ -11,3 +11,7 @@
 Animation by IS.
 
 Lance by Pushwall.
+
+Shield Edit by tatutachang.
+
+Note: The shield edit does not use the shield loop command in the script. It can be edited frame by frame.

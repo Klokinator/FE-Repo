@@ -296,6 +296,16 @@
 
 </details>
 
+## [(Tatutachang} Battle Backgrounds](Battle%20Frames%20&%20Backgrounds/(Tatutachang%7D%20Battle%20Backgrounds)
+
+<details><summary>Click to expand!</summary>
+
+# Battle Frames & Backgrounds/(Tatutachang} Battle Backgrounds
+
+![God's Eye.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Battle%20Frames%20&%20Backgrounds/(Tatutachang%7D%20Battle%20Backgrounds/God's%20Eye.png "God's Eye.png")
+
+</details>
+
 ## [Fenreir's Egyptian-Style (F2E)](Battle%20Frames%20&%20Backgrounds/Fenreir's%20Egyptian-Style%20(F2E))
 
 <details><summary>Click to expand!</summary>
@@ -442,7 +452,7 @@
 
 # Status Screen Backgrounds/Fenreir's Status Screens
 
-![Statscreen1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/Fenreir's%20Status%20Screens/Statscreen1.png "Statscreen1.png")
+![Stat Screen 2 variant.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/Fenreir's%20Status%20Screens/Stat%20Screen%202%20variant.png "Stat Screen 2 variant.png")![Stat Screen 2.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/Fenreir's%20Status%20Screens/Stat%20Screen%202.png "Stat Screen 2.png")![Statscreen1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/Fenreir's%20Status%20Screens/Statscreen1.png "Statscreen1.png")
 
 </details>
 

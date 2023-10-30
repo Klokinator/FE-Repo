@@ -8,4 +8,6 @@
 
 ## Credit
 
+Repal by Skitty.
 
+Magic and Staff Animations by Primefusion and UltraFenix.

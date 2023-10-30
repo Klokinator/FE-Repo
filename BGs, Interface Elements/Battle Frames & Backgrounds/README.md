@@ -1,5 +1,7 @@
 undefined## [(Lisandra_Brave} Dojo Platform]((Lisandra_Brave%7D%20Dojo%20Platform)
 
+## [(Tatutachang} Battle Backgrounds]((Tatutachang%7D%20Battle%20Backgrounds)
+
 ## [Fenreir's Egyptian-Style (F2E)](Fenreir's%20Egyptian-Style%20(F2E))
 
 ## [Sokaballa's Battle Screen](Sokaballa's%20Battle%20Screen)

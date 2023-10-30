@@ -9,3 +9,5 @@ Animation by RedBean.
 
 Script by Knabepicer.
 
+Script Fix by UltraxBlade
+

@@ -1,0 +1,214 @@
+#######################################################
+#0A Item Great Lord Item
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+2 p- Item_001.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Item_002.png
+2 p- Item_003.png
+2 p- Item_004.png
+SF1                               #Sound 241 SE:Fire charge @C85_3E
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+SF7                               #Sound 247 SE:Fire spell hitting
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C14                               #Heavy vibration of screen
+3 p- Item_008.png
+3 p- Item_009.png
+3 p- Item_010.png
+3 p- Item_011.png
+3 p- Item_012.png
+3 p- Item_013.png
+3 p- Item_014.png
+27 p- Item_015.png
+2 p- Item_016.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+1 p- Item_017.png
+C43                               #Play weapon stance SFE (Clicking noise)
+1 p- Item_018.png
+C22                               #Play short sword swinging SFE
+3 p- Item_019.png
+3 p- Item_020.png
+3 p- Item_019.png
+3 p- Item_020.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Item_021.png
+3 p- Item_022.png
+3 p- Item_023.png
+3 p- Item_024.png
+3 p- Item_025.png
+C44                               #Play short "light emission" SFE
+2 p- Item_026.png
+2 p- Item_027.png
+2 p- Item_028.png
+2 p- Item_029.png
+2 p- Item_030.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+SF1                               #Sound 241 SE:Fire charge @C85_3E
+3 p- Item_031.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C3E                               #Play burning SFE
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+C0C                               #Critical hit
+3 p- Item_032.png
+3 p- Item_033.png
+3 p- Item_034.png
+3 p- Item_035.png
+3 p- Item_036.png
+3 p- Item_037.png
+3 p- Item_038.png
+27 p- Item_000.png
+4 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+2 p- Item_001.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Item_002.png
+2 p- Item_003.png
+2 p- Item_004.png
+SF1                               #Sound 241 SE:Fire charge @C85_3E
+3 p- Item_005.png
+3 p- Item_007.png
+3 p- Item_039.png
+3 p- Item_040.png
+SF7                               #Sound 247 SE:Fire spell hitting
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C14                               #Heavy vibration of screen
+3 p- Item_041.png
+3 p- Item_042.png
+3 p- Item_043.png
+3 p- Item_044.png
+3 p- Item_045.png
+3 p- Item_046.png
+3 p- Item_047.png
+27 p- Item_015.png
+2 p- Item_016.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+1 p- Item_017.png
+C43                               #Play weapon stance SFE (Clicking noise)
+1 p- Item_018.png
+C22                               #Play short sword swinging SFE
+3 p- Item_019.png
+3 p- Item_020.png
+3 p- Item_019.png
+3 p- Item_020.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Item_021.png
+3 p- Item_022.png
+3 p- Item_023.png
+3 p- Item_024.png
+3 p- Item_025.png
+C44                               #Play short "light emission" SFE
+2 p- Item_026.png
+2 p- Item_027.png
+2 p- Item_028.png
+2 p- Item_029.png
+2 p- Item_030.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+SF1                               #Sound 241 SE:Fire charge @C85_3E
+3 p- Item_031.png
+3 p- Item_048.png
+3 p- Item_049.png
+3 p- Item_050.png
+3 p- Item_051.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C3E                               #Play burning SFE
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+C0C                               #Critical hit
+3 p- Item_052.png
+3 p- Item_053.png
+3 p- Item_054.png
+3 p- Item_055.png
+3 p- Item_056.png
+3 p- Item_057.png
+27 p- Item_000.png
+4 p- Item_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Item_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Item_058.png
+1 p- Item_059.png
+C01                               #NOP
+3 p- Item_058.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Item_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Item_058.png
+1 p- Item_059.png
+C01                               #NOP
+3 p- Item_058.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Item_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Item_000.png
+2 p- Item_001.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Item_002.png
+2 p- Item_003.png
+2 p- Item_004.png
+SF1                               #Sound 241 SE:Fire charge @C85_3E
+3 p- Item_005.png
+3 p- Item_006.png
+3 p- Item_007.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Item_060.png
+3 p- Item_039.png
+3 p- Item_061.png
+3 p- Item_040.png
+3 p- Item_062.png
+2 p- Item_016.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Item_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

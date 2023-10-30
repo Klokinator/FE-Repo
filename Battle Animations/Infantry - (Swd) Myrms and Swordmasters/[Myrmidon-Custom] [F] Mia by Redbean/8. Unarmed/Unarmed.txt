@@ -1,5 +1,5 @@
 #######################################################
-#04 lorf_sw1 Lord Item
+#03 lorf_sw1 Lord Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -18,6 +18,7 @@
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
 1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Unarmed_001.png
 2 p- Unarmed_002.png
 C01                               #NOP
@@ -27,6 +28,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
 1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Unarmed_001.png
 2 p- Unarmed_002.png
 C01                               #NOP

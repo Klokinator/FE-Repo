@@ -1,0 +1,96 @@
+/// - Mode 1
+C03
+C07
+1 p- Staff_000.png
+3 p- Staff_001.png
+C05
+1 p- Staff_002.png
+C01
+C06
+3 p- Staff_001.png
+1 p- Staff_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Staff_000.png
+C05
+C01
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Staff_000.png
+3 p- Staff_001.png
+C05
+1 p- Staff_002.png
+C01
+C06
+3 p- Staff_001.png
+1 p- Staff_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Staff_000.png
+3 p- Staff_001.png
+C05
+1 p- Staff_002.png
+C01
+C06
+3 p- Staff_001.png
+1 p- Staff_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Staff_000.png
+C0E
+2 p- Staff_003.png
+1 p- Staff_004.png
+C01
+3 p- Staff_003.png
+1 p- Staff_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Staff_000.png
+C0E
+2 p- Staff_003.png
+1 p- Staff_004.png
+C01
+3 p- Staff_003.png
+1 p- Staff_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Staff_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Staff_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Staff_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Staff_000.png
+3 p- Staff_001.png
+C05
+1 p- Staff_002.png
+C01
+C06
+3 p- Staff_001.png
+1 p- Staff_000.png
+C0D
+~~~
+/// - End of animation

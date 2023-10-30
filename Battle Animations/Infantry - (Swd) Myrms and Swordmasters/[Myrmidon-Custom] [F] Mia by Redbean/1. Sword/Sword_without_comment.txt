@@ -145,6 +145,7 @@ C0D
 /// - Mode 7
 C02
 1 p- Sword_000.png
+C0E
 3 p- Sword_042.png
 2 p- Sword_043.png
 C01
@@ -154,6 +155,7 @@ C0D
 /// - Mode 8
 C02
 1 p- Sword_000.png
+C0E
 3 p- Sword_042.png
 2 p- Sword_043.png
 C01

@@ -1,5 +1,5 @@
 #######################################################
-#06 lorf_sw1 Lord Sword
+#03 lorf_sw1 Lord Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -18,7 +18,7 @@ C22                               #Play short sword swinging SFE
 4 p- Sword_008.png
 4 p- Sword_009.png
 4 p- Sword_010.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 12 p- Sword_011.png
 4 p- Sword_012.png
 4 p- Sword_013.png
@@ -81,7 +81,7 @@ C20                               #Play hit SFE (sounds like Knight Lord with Du
 4 p- Sword_011.png
 4 p- Sword_013.png
 4 p- Sword_017.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 4 p- Sword_011.png
 4 p- Sword_012.png
 4 p- Sword_013.png
@@ -150,6 +150,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
 1 p- Sword_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Sword_042.png
 2 p- Sword_043.png
 C01                               #NOP
@@ -159,6 +160,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
 1 p- Sword_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Sword_042.png
 2 p- Sword_043.png
 C01                               #NOP
@@ -189,7 +191,7 @@ C22                               #Play short sword swinging SFE
 4 p- Sword_008.png
 4 p- Sword_009.png
 4 p- Sword_010.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 12 p- Sword_011.png
 4 p- Sword_012.png
 4 p- Sword_013.png

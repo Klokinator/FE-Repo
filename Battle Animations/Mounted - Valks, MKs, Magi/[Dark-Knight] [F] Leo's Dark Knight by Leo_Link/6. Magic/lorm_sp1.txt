@@ -1,0 +1,265 @@
+#######################################################
+#012A lorm_sp1 Mage Knight Anima
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
+1 p- lorm_sp1_000.png
+6 p- lorm_sp1_001.png
+6 p- lorm_sp1_002.png
+5 p- lorm_sp1_003.png
+13 p- lorm_sp1_004.png
+3 p- lorm_sp1_005.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_006.png
+3 p- lorm_sp1_007.png
+3 p- lorm_sp1_008.png
+3 p- lorm_sp1_009.png
+3 p- lorm_sp1_010.png
+3 p- lorm_sp1_011.png
+3 p- lorm_sp1_012.png
+3 p- lorm_sp1_013.png
+3 p- lorm_sp1_014.png
+3 p- lorm_sp1_014.png
+3 p- lorm_sp1_015.png
+3 p- lorm_sp1_016.png
+3 p- lorm_sp1_017.png
+3 p- lorm_sp1_018.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_019.png
+3 p- lorm_sp1_020.png
+3 p- lorm_sp1_021.png
+3 p- lorm_sp1_022.png
+S03AD                               #Sound 941 SE:Gleipnir Hitting
+3 p- lorm_sp1_023.png
+3 p- lorm_sp1_024.png
+3 p- lorm_sp1_025.png
+5 p- lorm_sp1_026.png
+3 p- lorm_sp1_027.png
+3 p- lorm_sp1_028.png
+C24                               #Play sword slashing air SFE
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- lorm_sp1_001.png
+3 p- lorm_sp1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
+1 p- lorm_sp1_001.png
+3 p- lorm_sp1_029.png
+2 p- lorm_sp1_030.png
+C4F                               #Play druid critical charging SFE
+3 p- lorm_sp1_031.png
+3 p- lorm_sp1_032.png
+3 p- lorm_sp1_033.png
+3 p- lorm_sp1_034.png
+3 p- lorm_sp1_035.png
+3 p- lorm_sp1_036.png
+3 p- lorm_sp1_037.png
+3 p- lorm_sp1_038.png
+S0384                               #Sound 900 SE:Dark magic (one of the monster spells?)
+3 p- lorm_sp1_039.png
+2 p- lorm_sp1_040.png
+2 p- lorm_sp1_041.png
+3 p- lorm_sp1_042.png
+2 p- lorm_sp1_043.png
+2 p- lorm_sp1_044.png
+3 p- lorm_sp1_045.png
+2 p- lorm_sp1_046.png
+2 p- lorm_sp1_047.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_048.png
+3 p- lorm_sp1_049.png
+3 p- lorm_sp1_050.png
+3 p- lorm_sp1_051.png
+3 p- lorm_sp1_023.png
+3 p- lorm_sp1_024.png
+3 p- lorm_sp1_025.png
+3 p- lorm_sp1_026.png
+3 p- lorm_sp1_027.png
+3 p- lorm_sp1_028.png
+C28                               #Play electrical charging SFE
+S03AD                               #Sound 941 SE:Gleipnir Hitting
+C24                               #Play sword slashing air SFE
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- lorm_sp1_001.png
+3 p- lorm_sp1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
+1 p- lorm_sp1_000.png
+6 p- lorm_sp1_001.png
+6 p- lorm_sp1_002.png
+5 p- lorm_sp1_003.png
+13 p- lorm_sp1_004.png
+3 p- lorm_sp1_005.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_006.png
+3 p- lorm_sp1_007.png
+3 p- lorm_sp1_008.png
+3 p- lorm_sp1_009.png
+3 p- lorm_sp1_010.png
+3 p- lorm_sp1_011.png
+3 p- lorm_sp1_012.png
+3 p- lorm_sp1_013.png
+3 p- lorm_sp1_014.png
+3 p- lorm_sp1_014.png
+3 p- lorm_sp1_015.png
+3 p- lorm_sp1_016.png
+3 p- lorm_sp1_017.png
+3 p- lorm_sp1_018.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_019.png
+3 p- lorm_sp1_020.png
+3 p- lorm_sp1_021.png
+3 p- lorm_sp1_022.png
+S03AD                               #Sound 941 SE:Gleipnir Hitting
+3 p- lorm_sp1_023.png
+3 p- lorm_sp1_024.png
+3 p- lorm_sp1_025.png
+5 p- lorm_sp1_026.png
+3 p- lorm_sp1_027.png
+3 p- lorm_sp1_028.png
+C24                               #Play sword slashing air SFE
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- lorm_sp1_001.png
+3 p- lorm_sp1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
+1 p- lorm_sp1_001.png
+3 p- lorm_sp1_029.png
+2 p- lorm_sp1_030.png
+C4F                               #Play druid critical charging SFE
+3 p- lorm_sp1_031.png
+3 p- lorm_sp1_032.png
+3 p- lorm_sp1_033.png
+3 p- lorm_sp1_034.png
+3 p- lorm_sp1_035.png
+3 p- lorm_sp1_036.png
+3 p- lorm_sp1_037.png
+3 p- lorm_sp1_038.png
+S0384                               #Sound 900 SE:Dark magic (one of the monster spells?)
+3 p- lorm_sp1_039.png
+2 p- lorm_sp1_040.png
+2 p- lorm_sp1_041.png
+3 p- lorm_sp1_042.png
+2 p- lorm_sp1_043.png
+2 p- lorm_sp1_044.png
+3 p- lorm_sp1_045.png
+2 p- lorm_sp1_046.png
+2 p- lorm_sp1_047.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_048.png
+3 p- lorm_sp1_049.png
+3 p- lorm_sp1_050.png
+3 p- lorm_sp1_051.png
+3 p- lorm_sp1_023.png
+3 p- lorm_sp1_024.png
+3 p- lorm_sp1_025.png
+3 p- lorm_sp1_026.png
+3 p- lorm_sp1_027.png
+3 p- lorm_sp1_028.png
+C28                               #Play electrical charging SFE
+S03AD                               #Sound 941 SE:Gleipnir Hitting
+C24                               #Play sword slashing air SFE
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- lorm_sp1_001.png
+3 p- lorm_sp1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- lorm_sp1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- lorm_sp1_052.png
+1 p- lorm_sp1_053.png
+C01                               #NOP
+3 p- lorm_sp1_052.png
+1 p- lorm_sp1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- lorm_sp1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- lorm_sp1_052.png
+1 p- lorm_sp1_053.png
+C01                               #NOP
+3 p- lorm_sp1_052.png
+1 p- lorm_sp1_053.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- lorm_sp1_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- lorm_sp1_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- lorm_sp1_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
+1 p- lorm_sp1_000.png
+6 p- lorm_sp1_001.png
+6 p- lorm_sp1_002.png
+5 p- lorm_sp1_003.png
+13 p- lorm_sp1_004.png
+3 p- lorm_sp1_005.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_006.png
+3 p- lorm_sp1_007.png
+3 p- lorm_sp1_008.png
+3 p- lorm_sp1_009.png
+3 p- lorm_sp1_010.png
+3 p- lorm_sp1_011.png
+3 p- lorm_sp1_012.png
+3 p- lorm_sp1_013.png
+3 p- lorm_sp1_014.png
+3 p- lorm_sp1_014.png
+3 p- lorm_sp1_015.png
+3 p- lorm_sp1_016.png
+3 p- lorm_sp1_017.png
+3 p- lorm_sp1_018.png
+C28                               #Play electrical charging SFE
+3 p- lorm_sp1_019.png
+3 p- lorm_sp1_020.png
+3 p- lorm_sp1_021.png
+3 p- lorm_sp1_022.png
+S03AD                               #Sound 941 SE:Gleipnir Hitting
+3 p- lorm_sp1_023.png
+3 p- lorm_sp1_024.png
+3 p- lorm_sp1_025.png
+5 p- lorm_sp1_026.png
+3 p- lorm_sp1_027.png
+3 p- lorm_sp1_028.png
+C24                               #Play sword slashing air SFE
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- lorm_sp1_001.png
+3 p- lorm_sp1_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~                  #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

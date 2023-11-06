@@ -1,0 +1,270 @@
+#######################################################
+#0163 lorm_sp1 Ballerina Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Swords_000.png
+C23                               #Play shorter sword swinging SFE
+3 p- Swords_001.png
+2 p- Swords_002.png
+C25                               #Play wing flap SFE
+5 p- Swords_003.png
+10 p- Swords_004.png
+7 p- Swords_005.png
+C25                               #Play wing flap SFE
+5 p- Swords_006.png
+2 p- Swords_007.png
+3 p- Swords_008.png
+3 p- Swords_009.png
+C25                               #Play wing flap SFE
+2 p- Swords_010.png
+15 p- Swords_010.png
+C23                               #Play shorter sword swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Swords_011.png
+C1A                               #Normal hit
+C23                               #Play shorter sword swinging SFE
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- Swords_012.png
+4 p- Swords_013.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+3 p- Swords_014.png
+2 p- Swords_015.png
+1 p- Swords_016.png
+C35                               #Play longer wing flapping SFE
+3 p- Swords_017.png
+3 p- Swords_018.png
+2 p- Swords_019.png
+2 p- Swords_020.png
+2 p- Swords_021.png
+2 p- Swords_022.png
+2 p- Swords_023.png
+2 p- Swords_024.png
+2 p- Swords_025.png
+1 p- Swords_026.png
+C25                               #Play wing flap SFE
+2 p- Swords_027.png
+2 p- Swords_028.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Swords_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Swords_000.png
+C23                               #Play shorter sword swinging SFE
+3 p- Swords_001.png
+2 p- Swords_002.png
+C25                               #Play wing flap SFE
+5 p- Swords_003.png
+10 p- Swords_004.png
+7 p- Swords_005.png
+C25                               #Play wing flap SFE
+5 p- Swords_006.png
+2 p- Swords_007.png
+3 p- Swords_008.png
+3 p- Swords_009.png
+C25                               #Play wing flap SFE
+7 p- Swords_010.png
+10 p- Swords_029.png
+C3A                               #Play dancer magic release SFE
+2 p- Swords_030.png
+2 p- Swords_031.png
+2 p- Swords_032.png
+2 p- Swords_033.png
+2 p- Swords_034.png
+2 p- Swords_035.png
+2 p- Swords_036.png
+2 p- Swords_037.png
+2 p- Swords_038.png
+2 p- Swords_039.png
+2 p- Swords_040.png
+2 p- Swords_041.png
+2 p- Swords_042.png
+2 p- Swords_043.png
+2 p- Swords_044.png
+2 p- Swords_045.png
+2 p- Swords_046.png
+5 p- Swords_047.png
+10 p- Swords_048.png
+C23                               #Play shorter sword swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Swords_049.png
+C1A                               #Normal hit
+C23                               #Play shorter sword swinging SFE
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- Swords_050.png
+4 p- Swords_051.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+3 p- Swords_014.png
+2 p- Swords_015.png
+1 p- Swords_016.png
+C35                               #Play longer wing flapping SFE
+3 p- Swords_017.png
+3 p- Swords_018.png
+2 p- Swords_019.png
+2 p- Swords_020.png
+2 p- Swords_021.png
+2 p- Swords_022.png
+2 p- Swords_023.png
+2 p- Swords_024.png
+2 p- Swords_025.png
+1 p- Swords_026.png
+C25                               #Play wing flap SFE
+2 p- Swords_027.png
+2 p- Swords_028.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Swords_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Swords_000.png
+4 p- Swords_004.png
+C22                               #Play short sword swinging SFE
+C05                               #Call spell associated with equipped weapon
+1 p- Swords_005.png
+C23                               #Play shorter sword swinging SFE
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- Swords_004.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Swords_000.png
+C23                               #Play shorter sword swinging SFE
+3 p- Swords_001.png
+2 p- Swords_002.png
+C25                               #Play wing flap SFE
+5 p- Swords_003.png
+10 p- Swords_004.png
+7 p- Swords_005.png
+C25                               #Play wing flap SFE
+5 p- Swords_006.png
+2 p- Swords_007.png
+3 p- Swords_008.png
+3 p- Swords_009.png
+C25                               #Play wing flap SFE
+7 p- Swords_010.png
+10 p- Swords_029.png
+C3A                               #Play dancer magic release SFE
+2 p- Swords_030.png
+2 p- Swords_031.png
+2 p- Swords_032.png
+2 p- Swords_033.png
+2 p- Swords_034.png
+2 p- Swords_035.png
+2 p- Swords_036.png
+2 p- Swords_037.png
+2 p- Swords_038.png
+2 p- Swords_039.png
+2 p- Swords_040.png
+2 p- Swords_041.png
+2 p- Swords_042.png
+2 p- Swords_043.png
+2 p- Swords_044.png
+2 p- Swords_045.png
+2 p- Swords_046.png
+C05                               #Call spell associated with equipped weapon
+5 p- Swords_047.png
+10 p- Swords_048.png
+C01                               #NOP
+C23                               #Play shorter sword swinging SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- Swords_010.png
+4 p- Swords_005.png
+4 p- Swords_004.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+4 p- Swords_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Swords_052.png
+C01                               #NOP
+3 p- Swords_001.png
+3 p- Swords_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+4 p- Swords_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Swords_052.png
+C01                               #NOP
+3 p- Swords_001.png
+3 p- Swords_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Swords_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Swords_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Swords_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Swords_000.png
+C23                               #Play shorter sword swinging SFE
+3 p- Swords_001.png
+2 p- Swords_002.png
+C25                               #Play wing flap SFE
+5 p- Swords_003.png
+10 p- Swords_004.png
+7 p- Swords_005.png
+C25                               #Play wing flap SFE
+5 p- Swords_006.png
+2 p- Swords_007.png
+3 p- Swords_008.png
+3 p- Swords_009.png
+C25                               #Play wing flap SFE
+2 p- Swords_010.png
+15 p- Swords_010.png
+C23                               #Play shorter sword swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Swords_011.png
+C1A                               #Normal hit
+C23                               #Play shorter sword swinging SFE
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+4 p- Swords_053.png
+4 p- Swords_013.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+3 p- Swords_014.png
+2 p- Swords_015.png
+1 p- Swords_016.png
+C35                               #Play longer wing flapping SFE
+3 p- Swords_017.png
+3 p- Swords_018.png
+2 p- Swords_019.png
+2 p- Swords_020.png
+2 p- Swords_021.png
+2 p- Swords_022.png
+2 p- Swords_023.png
+2 p- Swords_024.png
+2 p- Swords_025.png
+1 p- Swords_026.png
+C25                               #Play wing flap SFE
+2 p- Swords_027.png
+2 p- Swords_028.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Swords_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

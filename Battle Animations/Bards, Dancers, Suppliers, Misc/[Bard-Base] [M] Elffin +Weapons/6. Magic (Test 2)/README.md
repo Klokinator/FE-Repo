@@ -1,4 +1,4 @@
-# [\[Bard-Base\] \[M\] Elffin +Weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BBard-Base%5D%20%5BM%5D%20Elffin%20%2BWeapons%2F6.%20Magic)
+# [\[Bard-Base\] \[M\] Elffin +Weapons](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BBard-Base%5D%20%5BM%5D%20Elffin%20%2BWeapons%2F6.%20Magic%20(Test%202))
 
 ## Magic
 
@@ -16,4 +16,4 @@ Refresh (FE6)(Bird Sfx) by Orihara_Saki.
 
 Refresh (FE7-8) by Eldritch Abomination.
 
-Test.
+Test. 2 Tests.

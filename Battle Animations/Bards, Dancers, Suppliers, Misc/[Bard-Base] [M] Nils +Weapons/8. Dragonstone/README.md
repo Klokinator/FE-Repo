@@ -14,4 +14,8 @@ Staff (+Magic) by FaerieFruit, Mikey Seregon
 
 Staff by Mikey Seregon
 
-Dragonstone by Marlon0024
+Dragonstone by Marlon0024.
+
+Ice and Fire Transform/Revert animations inspired by Marlon0024.
+
+Ice and Fire Transform/Revert animations made by Sirknite31.

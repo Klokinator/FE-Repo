@@ -15,3 +15,7 @@ Lance by MeatOfJustice.
 Staff by Mikey_Seregon.
 
 Dragonstone by Marlon0024.
+
+Ice and Fire Transform/Revert animations inspired by Marlon0024.
+
+Ice and Fire Transform/Revert animations made by Sirknite31.

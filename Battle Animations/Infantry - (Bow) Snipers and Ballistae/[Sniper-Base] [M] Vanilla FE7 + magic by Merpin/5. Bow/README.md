@@ -11,3 +11,7 @@
 Animation by IS.
 
 Magic by Merpin.
+
+Crossbow Animation by Sphealnuke.
+
+Crossbow Animation commissioned by Greg.

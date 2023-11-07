@@ -18,4 +18,6 @@ undefined## [Cardcafe](Cardcafe)
 
 ## [Stat Screen Blitz 2](Stat%20Screen%20Blitz%202)
 
+## [{FE4-FE5} Status Sceens](%7BFE4-FE5%7D%20Status%20Sceens)
+
 ![{Seal, Sacred War] BG.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/%7BSeal,%20Sacred%20War%5D%20BG.png "{Seal, Sacred War] BG.png")

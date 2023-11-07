@@ -146,6 +146,16 @@
 
 </details>
 
+## [FE5 CG's](Background%20CGs/FE5%20CG's)
+
+<details><summary>Click to expand!</summary>
+
+# Background CGs/FE5 CG's
+
+![CG 1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/FE5%20CG's/CG%201.png "CG 1.png")![FE5 World Map.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/FE5%20CG's/FE5%20World%20Map.png "FE5 World Map.png")
+
+</details>
+
 ## [FE7 BG's](Background%20CGs/FE7%20BG's)
 
 <details><summary>Click to expand!</summary>
@@ -506,6 +516,16 @@
 
 </details>
 
+## [{FE4-FE5} Status Sceens](Status%20Screen%20Backgrounds/%7BFE4-FE5%7D%20Status%20Sceens)
+
+<details><summary>Click to expand!</summary>
+
+# Status Screen Backgrounds/{FE4-FE5} Status Sceens
+
+![FE4 Status Background 1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/%7BFE4-FE5%7D%20Status%20Sceens/FE4%20Status%20Background%201.png "FE4 Status Background 1.png")![FE4 Status Background 2.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/%7BFE4-FE5%7D%20Status%20Sceens/FE4%20Status%20Background%202.png "FE4 Status Background 2.png")![FE5 Status Background.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/%7BFE4-FE5%7D%20Status%20Sceens/FE5%20Status%20Background.png "FE5 Status Background.png")
+
+</details>
+
 ![{Seal, Sacred War] BG.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Status%20Screen%20Backgrounds/%7BSeal,%20Sacred%20War%5D%20BG.png "{Seal, Sacred War] BG.png")
 
 </details>
@@ -515,6 +535,16 @@
 <details><summary>Click to expand!</summary>
 
 # Title Screen Backgrounds
+
+## [{FE5} Title Screen](Title%20Screen%20Backgrounds/%7BFE5%7D%20Title%20Screen)
+
+<details><summary>Click to expand!</summary>
+
+# Title Screen Backgrounds/{FE5} Title Screen
+
+![Thracia 776 Title Card.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Title%20Screen%20Backgrounds/%7BFE5%7D%20Title%20Screen/Thracia%20776%20Title%20Card.png "Thracia 776 Title Card.png")
+
+</details>
 
 ## [{Seal, Sacred War} Title Screen](Title%20Screen%20Backgrounds/%7BSeal,%20Sacred%20War%7D%20Title%20Screen)
 

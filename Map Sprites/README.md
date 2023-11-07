@@ -192,3 +192,19 @@
 &emsp;&emsp;
 </details>
 
+## [[AB] FE4 Map Sprites](%5BAB%5D%20FE4%20Map%20Sprites)
+
+<details>
+<summary>click to expand</summary>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+</details>
+
+## [[AB] FE5 Map Sprites](%5BAB%5D%20FE5%20Map%20Sprites)
+
+<details>
+<summary>click to expand</summary>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+</details>
+

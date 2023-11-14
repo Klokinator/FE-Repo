@@ -15,3 +15,5 @@ Sword by Circleseverywhere.
 Refresh (FE7) by Marlon0024.
 
 Refresh (Fixed) by Kao.
+
+Magic Animation by SaintRubenio.

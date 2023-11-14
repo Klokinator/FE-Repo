@@ -16,4 +16,4 @@ Refresh (FE6)(Bird Sfx) by Orihara_Saki.
 
 Refresh (FE7-8) by Eldritch Abomination.
 
-Test. 2 Tests.
+Magic animation by SaintRubenio.

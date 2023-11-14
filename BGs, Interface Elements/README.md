@@ -370,6 +370,16 @@
 
 </details>
 
+## [CG Images](CG%20Images)
+
+<details><summary>Click to expand!</summary>
+
+# CG Images
+
+![{WhatIsAnAubin} Formatted Realistic Sans Jumpscare.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/CG%20Images/%7BWhatIsAnAubin%7D%20Formatted%20Realistic%20Sans%20Jumpscare.png "{WhatIsAnAubin} Formatted Realistic Sans Jumpscare.png")
+
+</details>
+
 ## [Chapter and Main Menu BG {Sacred War}](Chapter%20and%20Main%20Menu%20BG%20%7BSacred%20War%7D)
 
 <details><summary>Click to expand!</summary>

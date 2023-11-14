@@ -2,9 +2,9 @@
 
 ## [\[Bard-Base\] \[M\] Elffin +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20%2BWeapons)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Magic (Test 2)</b><br/><img alt="Magic (Test 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic%20(Test%202)/Magic.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh/Refresh.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Magic (SaintRubenio)</b><br/><img alt="Magic (SaintRubenio)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic%20(SaintRubenio)/Magic.gif"/> | <b>Magic (Test 2)</b><br/><img alt="Magic (Test 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/6.%20Magic%20(Test%202)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Refresh (FE6)(Bird Sfx)</b><br/><img alt="Refresh (FE6)(Bird Sfx)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE6)(Bird%20Sfx)/Refresh.gif"/> | <b>Refresh (FE7-8)</b><br/><img alt="Refresh (FE7-8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE7-8)/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh/Refresh.gif"/> | <b>Refresh (FE6)(Bird Sfx)</b><br/><img alt="Refresh (FE6)(Bird Sfx)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE6)(Bird%20Sfx)/Refresh.gif"/> | <b>Refresh (FE7-8)</b><br/><img alt="Refresh (FE7-8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20+Weapons/8.%20Refresh%20(FE7-8)/Refresh.gif"/> |
 
 
 
@@ -100,6 +100,14 @@
 
 
 
+## [\[Dancer-Base\] \[F\] FE8 Tethys Repalette by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31/1.%20Sword/Sword.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31/8.%20Refresh/Refresh.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Dancer-Base\] \[F\] Larum by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Larum%20by%20Redbean/8.%20Refresh/Refresh.gif"/> |
@@ -137,9 +145,9 @@
 
 ## [\[Dancer-Base\] \[F\] Vanilla FE8 Tethys +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20%2BWeapons)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh/Refresh.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Magic (SaintRubenio)</b><br/><img alt="Magic (SaintRubenio)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/6.%20Magic%20(SaintRubenio)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
-| <b>Refresh (FE7)</b><br/><img alt="Refresh (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(FE7)/Refresh.gif"/> | <b>Refresh (Fixed)</b><br/><img alt="Refresh (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(Fixed)/Refresh.gif"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh/Refresh.gif"/> | <b>Refresh (FE7)</b><br/><img alt="Refresh (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(FE7)/Refresh.gif"/> | <b>Refresh (Fixed)</b><br/><img alt="Refresh (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20+Weapons/8.%20Refresh%20(Fixed)/Refresh.gif"/> |
 
 
 
@@ -284,6 +292,14 @@
 ## [\[Misc\] \[U\] Sandbag by SHYUTERz](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz)
 
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sandbag%20by%20SHYUTERz/8.%20Unarmed/Unarmed.gif"/> |
+| :---: |
+
+
+
+
+## [\[Misc\] \[U\] Sommie by SaintRubenio](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sommie%20by%20SaintRubenio) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sommie%20by%20SaintRubenio)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BU%5D%20Sommie%20by%20SaintRubenio/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 

@@ -226,18 +226,11 @@
 
 
 
-## [\[Berserker-Variant\] \[F\] Risky Boots \(no Hat\) by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20(no%20Hat)%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20(no%20Hat)%20by%20Stephano)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20(no%20Hat)%20by%20Stephano/1.%20Sword/Sword.gif"/> |
-| :---: |
-
-
-
-
 ## [\[Berserker-Variant\] \[F\] Risky Boots by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano)
 
-| <b>Sword (Hat)</b><br/><img alt="Sword (Hat)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano/1.%20Sword%20(Hat)/Sword.gif"/> |
-| :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano/1.%20Sword/Sword.gif"/> | <b>Sword (No Hat)</b><br/><img alt="Sword (No Hat)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano/1.%20Sword%20(No%20Hat)/Sword.gif"/> | <b>Bow (Cannon - No Hat)</b><br/><img alt="Bow (Cannon - No Hat)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano/5.%20Bow%20(Cannon%20-%20No%20Hat)/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Bow (Pistol - No Hat)</b><br/><img alt="Bow (Pistol - No Hat)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano/5.%20Bow%20(Pistol%20-%20No%20Hat)/Bow.gif"/> |
 
 
 

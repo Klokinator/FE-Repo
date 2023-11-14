@@ -1,4 +1,4 @@
-# [\[Berserker-Variant\] \[F\] Risky Boots \(no Hat\) by Stephano](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20(no%20Hat)%20by%20Stephano%2F1.%20Sword)
+# [\[Berserker-Variant\] \[F\] Risky Boots by Stephano](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Variant%5D%20%5BF%5D%20Risky%20Boots%20by%20Stephano%2F1.%20Sword%20(No%20Hat))
 
 ## Sword
 

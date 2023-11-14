@@ -1,0 +1,291 @@
+#######################################################
+#05 Bow Great Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+3 p- Bow_001.png
+C22                               #Play short sword swinging SFE
+3 p- Bow_002.png
+3 p- Bow_003.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_004.png
+C41                               #Play Axe rising SFE
+3 p- Bow_005.png
+7 p- Bow_006.png
+7 p- Bow_007.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+C05                               #Call spell associated with equipped weapon
+3 p- Bow_008.png
+3 p- Bow_009.png
+5 p- Bow_010.png
+C01                               #NOP
+5 p- Bow_010.png
+C22                               #Play short sword swinging SFE
+3 p- Bow_011.png
+C41                               #Play Axe rising SFE
+3 p- Bow_012.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_004.png
+3 p- Bow_003.png
+3 p- Bow_002.png
+3 p- Bow_001.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+4 p- Bow_013.png
+4 p- Bow_014.png
+4 p- Bow_015.png
+4 p- Bow_014.png
+6 p- Bow_016.png
+2 p- Bow_017.png
+2 p- Bow_018.png
+2 p- Bow_019.png
+4 p- Bow_020.png
+S02DD                               #Sound 733 SE:Glittery sound @C85_4B
+6 p- Bow_021.png
+6 p- Bow_022.png
+6 p- Bow_023.png
+6 p- Bow_024.png
+6 p- Bow_025.png
+S02CD                               #Sound 717 SE:Level up Sparkle
+6 p- Bow_026.png
+6 p- Bow_027.png
+6 p- Bow_028.png
+6 p- Bow_029.png
+4 p- Bow_030.png
+27 p- Bow_014.png
+C41                               #Play Axe rising SFE
+1 p- Bow_031.png
+1 p- Bow_032.png
+10 p- Bow_033.png
+C38                               #Play heavy spear spinning SFE
+1 p- Bow_034.png
+2 p- Bow_035.png
+1 p- Bow_036.png
+2 p- Bow_037.png
+1 p- Bow_038.png
+2 p- Bow_039.png
+1 p- Bow_040.png
+3 p- Bow_041.png
+1 p- Bow_042.png
+C22                               #Play short sword swinging SFE
+6 p- Bow_043.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_044.png
+3 p- Bow_045.png
+3 p- Bow_046.png
+3 p- Bow_047.png
+3 p- Bow_048.png
+3 p- Bow_049.png
+2 p- Bow_050.png
+2 p- Bow_051.png
+2 p- Bow_052.png
+2 p- Bow_053.png
+2 p- Bow_054.png
+SF0                               #Sound 240 SE:Divine weapon shine
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+C05                               #Call spell associated with equipped weapon
+3 p- Bow_055.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+C41                               #Play Axe rising SFE
+2 p- Bow_056.png
+1 p- Bow_057.png
+2 p- Bow_058.png
+1 p- Bow_059.png
+2 p- Bow_060.png
+1 p- Bow_061.png
+2 p- Bow_062.png
+1 p- Bow_063.png
+2 p- Bow_064.png
+1 p- Bow_065.png
+27 p- Bow_066.png
+C41                               #Play Axe rising SFE
+3 p- Bow_067.png
+3 p- Bow_068.png
+3 p- Bow_069.png
+3 p- Bow_070.png
+4 p- Bow_071.png
+4 p- Bow_014.png
+1 p- Bow_013.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+3 p- Bow_001.png
+C22                               #Play short sword swinging SFE
+3 p- Bow_002.png
+3 p- Bow_003.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_004.png
+C41                               #Play Axe rising SFE
+3 p- Bow_005.png
+7 p- Bow_006.png
+7 p- Bow_007.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+C05                               #Call spell associated with equipped weapon
+3 p- Bow_008.png
+3 p- Bow_009.png
+5 p- Bow_010.png
+C01                               #NOP
+5 p- Bow_010.png
+C22                               #Play short sword swinging SFE
+3 p- Bow_011.png
+C41                               #Play Axe rising SFE
+3 p- Bow_012.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_004.png
+3 p- Bow_003.png
+3 p- Bow_002.png
+3 p- Bow_001.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+4 p- Bow_013.png
+4 p- Bow_014.png
+4 p- Bow_015.png
+4 p- Bow_014.png
+6 p- Bow_016.png
+2 p- Bow_017.png
+2 p- Bow_018.png
+2 p- Bow_019.png
+4 p- Bow_020.png
+S02DD                               #Sound 733 SE:Glittery sound @C85_4B
+6 p- Bow_021.png
+6 p- Bow_022.png
+6 p- Bow_023.png
+6 p- Bow_024.png
+6 p- Bow_025.png
+S02CD                               #Sound 717 SE:Level up Sparkle
+6 p- Bow_026.png
+6 p- Bow_027.png
+6 p- Bow_028.png
+6 p- Bow_029.png
+4 p- Bow_030.png
+27 p- Bow_014.png
+C41                               #Play Axe rising SFE
+1 p- Bow_031.png
+1 p- Bow_032.png
+10 p- Bow_033.png
+C38                               #Play heavy spear spinning SFE
+1 p- Bow_034.png
+2 p- Bow_035.png
+1 p- Bow_036.png
+2 p- Bow_037.png
+1 p- Bow_038.png
+2 p- Bow_039.png
+1 p- Bow_040.png
+3 p- Bow_041.png
+1 p- Bow_042.png
+C22                               #Play short sword swinging SFE
+6 p- Bow_043.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_044.png
+3 p- Bow_045.png
+3 p- Bow_046.png
+3 p- Bow_047.png
+3 p- Bow_048.png
+3 p- Bow_049.png
+2 p- Bow_050.png
+2 p- Bow_051.png
+2 p- Bow_052.png
+2 p- Bow_053.png
+2 p- Bow_054.png
+SF0                               #Sound 240 SE:Divine weapon shine
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+C05                               #Call spell associated with equipped weapon
+3 p- Bow_055.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+C41                               #Play Axe rising SFE
+2 p- Bow_056.png
+1 p- Bow_057.png
+2 p- Bow_058.png
+1 p- Bow_059.png
+2 p- Bow_060.png
+1 p- Bow_061.png
+2 p- Bow_062.png
+1 p- Bow_063.png
+2 p- Bow_064.png
+1 p- Bow_065.png
+27 p- Bow_066.png
+C41                               #Play Axe rising SFE
+3 p- Bow_067.png
+3 p- Bow_068.png
+3 p- Bow_069.png
+3 p- Bow_070.png
+4 p- Bow_071.png
+4 p- Bow_014.png
+1 p- Bow_013.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Bow_072.png
+1 p- Bow_073.png
+C01                               #NOP
+3 p- Bow_072.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Bow_072.png
+1 p- Bow_073.png
+C01                               #NOP
+3 p- Bow_072.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+C05                               #Call spell associated with equipped weapon
+C41                               #Play Axe rising SFE
+3 p- Bow_013.png
+1 p- Bow_014.png
+C13                               #ranged attack - hand axe for Hector
+3 p- Bow_015.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Bow_000.png
+C01                               #NOP
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

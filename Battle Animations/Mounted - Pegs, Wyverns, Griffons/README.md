@@ -68,8 +68,8 @@
 
 ## [\[Peg Custom\] \[F\] Harrier by Ayr](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr)
 
-| <b>Sword (Dagger)</b><br/><img alt="Sword (Dagger)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/1.%20Sword%20(Dagger)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/6.%20Magic/Magic.gif"/> |
-| :---: | :---: |
+| <b>Sword (Dagger)</b><br/><img alt="Sword (Dagger)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/1.%20Sword%20(Dagger)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20by%20Ayr/6.%20Magic/Magic.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -314,6 +314,14 @@
 ## [\[Peg T2-Variant\] \[F\] Sky Knight by JeyTheCount](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2-Variant%5D%20%5BF%5D%20Sky%20Knight%20by%20JeyTheCount/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Peg T3 Base\] \[F\] Seraph Knight by Dinar](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T3%20Base%5D%20%5BF%5D%20Seraph%20Knight%20by%20Dinar) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T3%20Base%5D%20%5BF%5D%20Seraph%20Knight%20by%20Dinar)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T3%20Base%5D%20%5BF%5D%20Seraph%20Knight%20by%20Dinar/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T3%20Base%5D%20%5BF%5D%20Seraph%20Knight%20by%20Dinar/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T3%20Base%5D%20%5BF%5D%20Seraph%20Knight%20by%20Dinar/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 

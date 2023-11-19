@@ -3,3 +3,7 @@ Ayr - Animation + Script.
 DATonDemand - daggers.
 
 Faolin - Fixed small mistake in script.
+
+Lance from the Tethys varient by 7743.
+
+Lance Port to Ayr's version - WhatIsAnAubin

@@ -1,0 +1,3 @@
+Tileset based on "Fort FE 7" in Tilesets/Unsorted/Custom Tilesets{FEAWS Collection}/Fort/
+
+Rework and Config by WhatIsAnAubin

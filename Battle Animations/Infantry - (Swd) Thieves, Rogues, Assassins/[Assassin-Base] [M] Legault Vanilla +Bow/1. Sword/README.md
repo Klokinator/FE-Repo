@@ -13,3 +13,5 @@ Base animation by IS.
 Bow by Andy, SD9K.
 
 Lyn-Bow by BatimaTheBat.
+
+Magic by Angel Dragon Ezech.

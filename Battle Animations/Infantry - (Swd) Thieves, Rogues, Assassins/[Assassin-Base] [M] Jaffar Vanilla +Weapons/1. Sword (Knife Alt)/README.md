@@ -23,3 +23,5 @@ Bow by Andy and SD9K.
 Sword Fix/Knife Combo by Pushwall, Glenwing, Jj09.
 
 Lyn-Bow by BatimaTheBat.
+
+Magic by Angel Dragon Ezech.

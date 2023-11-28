@@ -10,4 +10,6 @@
 
 Original male version by Caim Van Fang.
 
-Female Variant by MysteriousDancer
+Female Variant by MysteriousDancer.
+
+Full Slash/Stab by Angel Dragon Ezech.

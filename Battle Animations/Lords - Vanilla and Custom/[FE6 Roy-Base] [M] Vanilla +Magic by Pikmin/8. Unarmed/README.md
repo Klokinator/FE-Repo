@@ -11,3 +11,5 @@
 Vanilla animation by IS.
 
 Magic animation by Pikmin1211.
+
+Axe and Handaxe by Angel Dragon Ezech.

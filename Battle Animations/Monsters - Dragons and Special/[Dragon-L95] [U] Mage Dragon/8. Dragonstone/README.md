@@ -8,4 +8,6 @@
 
 ## Credit
 
-Dragonstone by L95.
+Mage Dragon by L95.
+
+Transformation/Reverting by Jotari

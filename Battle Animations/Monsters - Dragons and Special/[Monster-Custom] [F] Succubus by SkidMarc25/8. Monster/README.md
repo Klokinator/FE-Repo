@@ -8,4 +8,10 @@
 
 ## Credit
 
-Made by SkidMarc25.
+Original animation made by SkidMarc25.
+
+Lance by TytheBub.
+
+Magic by TytheBub.
+
+Monster Edit by TytheBub.

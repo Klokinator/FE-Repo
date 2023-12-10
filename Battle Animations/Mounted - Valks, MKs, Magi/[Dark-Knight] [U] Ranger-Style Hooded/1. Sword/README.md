@@ -16,6 +16,8 @@ Magic animation by jj09 and DerTheVaporeon
 
 Sword animation by jj09 and DerTheVaporeon
 
+Axe animation by Jotari.
+
 Staff animation by Pikmin1211 and DerTheVaporeon
 
 Palettes by Pikmin1211

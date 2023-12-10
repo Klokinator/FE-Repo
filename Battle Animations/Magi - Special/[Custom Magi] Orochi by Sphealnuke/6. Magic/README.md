@@ -1,0 +1,13 @@
+# [\[Custom Magi\] Orochi by Sphealnuke](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Special%2F%5BCustom%20Magi%5D%20Orochi%20by%20Sphealnuke%2F6.%20Magic)
+
+## Magic
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Magic still](./Magic_000.png) | ![Magic](./Magic.gif) |
+
+## Credit
+
+Animation by Sphealnuke
+
+Orochi is from Fire Emblem Fates. Please support the official release.

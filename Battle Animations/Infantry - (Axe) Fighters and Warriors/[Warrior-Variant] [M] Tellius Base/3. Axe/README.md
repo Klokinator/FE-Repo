@@ -8,4 +8,6 @@
 
 ## Credit
 
-Leo_Link, Nuramon, Spud, Jey the Count
+Leo_Link, Nuramon, Spud, Jey the Count.
+
+Crossbow by Jotari.

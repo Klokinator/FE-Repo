@@ -11,3 +11,5 @@
 Vanilla animation by IS.
 
 Axe and Handaxe by Vilkalizer.
+
+Sword (Katana) by Angel Dragon Ezech.

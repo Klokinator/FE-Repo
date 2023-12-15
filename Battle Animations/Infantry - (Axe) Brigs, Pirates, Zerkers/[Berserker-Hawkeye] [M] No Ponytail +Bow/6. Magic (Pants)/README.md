@@ -15,3 +15,5 @@ Bow by HyperGammaSpaces.
 Magic animation by ZoramineFae, added by ltranc.
 
 Pants edits made by ltranc. Note that he has not yet made a Bow+Pants variant.
+
+Axe (Armads) by Apolo15.

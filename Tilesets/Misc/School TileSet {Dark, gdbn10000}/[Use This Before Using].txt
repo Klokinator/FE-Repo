@@ -1,2 +1,0 @@
-This tileset is extremly unstable, if you want to modify it, be really careful.
-This tileset also don't work in fog mode and very likely don't work with animated tiles.

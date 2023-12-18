@@ -1,0 +1,3 @@
+- Sprite ripped by: {Ryan914}.
+
+- Formatted and ported by: {Dark}.

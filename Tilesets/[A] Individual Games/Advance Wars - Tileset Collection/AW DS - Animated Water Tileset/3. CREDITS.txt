@@ -1,0 +1,5 @@
+- Tileset ripped: {Amyd}.
+
+- For teaching me the basic to create maps: {Vesly}.
+
+- Formated and ported to FEBuilderGBA by: {Dark}.

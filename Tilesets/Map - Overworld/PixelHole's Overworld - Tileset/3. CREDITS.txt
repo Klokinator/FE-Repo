@@ -1,0 +1,3 @@
+Tileset made by: {PixelHole}.
+
+Formated to fit GBA by: {Dark}.

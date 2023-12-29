@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Apolo15.
+
+Desgin by Jeorge Reds.

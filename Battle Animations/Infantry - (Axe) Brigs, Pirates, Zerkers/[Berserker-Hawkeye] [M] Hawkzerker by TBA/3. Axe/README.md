@@ -17,3 +17,5 @@ Sword and Unarmed by Maiser6.
 Fixed Handaxe by TBA and Maiser6.
 
 Lance, Bow, Magic, and Staff by ZoramineFae.
+
+Greatsword by NX.

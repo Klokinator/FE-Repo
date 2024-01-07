@@ -11,3 +11,6 @@
 Original Warrior by IS. 
 
 Magic and Staff by Orihara_Saki.
+
+Realer Axe by Sphealnuke. Commissioned by MournfulRelic.
+

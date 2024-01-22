@@ -1536,6 +1536,14 @@
 
 
 
+### [\[Fighter-Reskin\] \[M\] Armored Edit by YellowToadstool](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Armored%20Edit%20by%20YellowToadstool) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Armored%20Edit%20by%20YellowToadstool)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Armored%20Edit%20by%20YellowToadstool/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Armored%20Edit%20by%20YellowToadstool/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Armored%20Edit%20by%20YellowToadstool/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Fighter-Reskin\] \[M\] Bald Fighter by TytheBub](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Bald%20Fighter%20by%20TytheBub) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Bald%20Fighter%20by%20TytheBub)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Bald%20Fighter%20by%20TytheBub/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Bald%20Fighter%20by%20TytheBub/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Bald%20Fighter%20by%20TytheBub/8.%20Unarmed/Unarmed.gif"/> |
@@ -9254,14 +9262,6 @@
 
 
 
-### [\[Monster-Custom\] Mouse by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20Mouse%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20Mouse%20by%20Stephano)
-
-| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20Mouse%20by%20Stephano/8.%20Monster/Monster.gif"/> |
-| :---: |
-
-
-
-
 ### [\[Monster-Custom\] \[F\] Death](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death/3.%20Axe/Axe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death/6.%20Magic/Magic.gif"/> |
@@ -9313,6 +9313,14 @@
 ### [\[Monster-Custom\] \[F\] Nether Dryad by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Nether%20Dryad%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Nether%20Dryad%20by%20Alexsplode)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Nether%20Dryad%20by%20Alexsplode/6.%20Magic/Magic.gif"/> | <b>Magic (Small)</b><br/><img alt="Magic (Small)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Nether%20Dryad%20by%20Alexsplode/6.%20Magic%20(Small)/Magic.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Monster-Custom\] \[F\] ScorpGal by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20ScorpGal%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20ScorpGal%20by%20Stephano)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20ScorpGal%20by%20Stephano/1.%20Sword/Sword.gif"/> | <b>Sword (Physics)</b><br/><img alt="Sword (Physics)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20ScorpGal%20by%20Stephano/1.%20Sword%20(Physics)/Sword.gif"/> |
 | :---: | :---: |
 
 
@@ -9513,6 +9521,14 @@
 
 
 
+### [\[Monster-Custom\] \[U\] Mouse by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Mouse%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Mouse%20by%20Stephano)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Mouse%20by%20Stephano/8.%20Monster/Monster.gif"/> |
+| :---: |
+
+
+
+
 ### [\[Monster-Custom\] \[U\] Nemesis by GabrielKnight](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Nemesis%20by%20GabrielKnight) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Nemesis%20by%20GabrielKnight)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Nemesis%20by%20GabrielKnight/1.%20Sword/Sword.gif"/> |
@@ -9541,6 +9557,14 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Poltergeist%20by%20Eldritch/6.%20Magic/Magic.gif"/> |
 | :---: |
+
+
+
+
+### [\[Monster-Custom\] \[U\] Slime by Yellowtoad](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Slime%20by%20Yellowtoad) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Slime%20by%20Yellowtoad)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Slime%20by%20Yellowtoad/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Slime%20by%20Yellowtoad/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 
@@ -10393,6 +10417,14 @@
 <details>
 <summary>Click to expand!</summary>
 
+### [\[Bird-Rider\] \[F\] Sky & Wrench by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20by%20Stephano)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20by%20Stephano/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20by%20Stephano/4.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20by%20Stephano/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Brigand-Reskin\] \[F\] Brigand Drake Rider by Dutch Introvert](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert/4.%20Handaxe/Handaxe.gif"/> |
@@ -10417,6 +10449,14 @@
 | <b>Bow (Tusk Attack)</b><br/><img alt="Bow (Tusk Attack)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/5.%20Bow%20(Tusk%20Attack)/Bow.gif"/> | <b>Bow (Volley)</b><br/><img alt="Bow (Volley)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/5.%20Bow%20(Volley)/Bow.gif"/> | <b>Monster (Bld Tusk Crit)</b><br/><img alt="Monster (Bld Tusk Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/8.%20Monster%20(Bld%20Tusk%20Crit)/Monster.gif"/> |
 | <b>Monster (Bld Tusk Fcs Atk)</b><br/><img alt="Monster (Bld Tusk Fcs Atk)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/8.%20Monster%20(Bld%20Tusk%20Fcs%20Atk)/Monster.gif"/> | <b>Monster (Bld Tusk Trunk)</b><br/><img alt="Monster (Bld Tusk Trunk)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/8.%20Monster%20(Bld%20Tusk%20Trunk)/Monster.gif"/> | <b>Monster (Trunk Swing)</b><br/><img alt="Monster (Trunk Swing)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/8.%20Monster%20(Trunk%20Swing)/Monster.gif"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Basic Melee Attack)</b><br/><img alt="Unarmed (Basic Melee Attack)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/8.%20Unarmed%20(Basic%20Melee%20Attack)/Unarmed.gif"/> |
+
+
+
+
+### [\[Cavalry-Custom\] \[U\] Updated Grand Mahout by Orihara_Saki, DatonDemand](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Updated%20Grand%20Mahout%20by%20Orihara_Saki,%20DatonDemand) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Updated%20Grand%20Mahout%20by%20Orihara_Saki,%20DatonDemand)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Updated%20Grand%20Mahout%20by%20Orihara_Saki,%20DatonDemand/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Updated%20Grand%20Mahout%20by%20Orihara_Saki,%20DatonDemand/5.%20Bow/Bow.gif"/> | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Updated%20Grand%20Mahout%20by%20Orihara_Saki,%20DatonDemand/8.%20Monster/Monster.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -11289,6 +11329,15 @@
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Helmetless%20by%20eCut/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+### [\[WR Reskin\] \[M\] Repal by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix/3.%20Axe/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

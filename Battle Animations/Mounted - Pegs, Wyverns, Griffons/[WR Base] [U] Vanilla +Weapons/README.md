@@ -11,7 +11,7 @@ Vanilla animation by IS.
 
 Sword has 2 versions, one by Rawr776, one by SamirPlayz.
 
-Axe and Handaxe by Mikey Seregon, Alfred Kamon.
+Axe and Handaxe by eCut, Alfred Kamon.
 
 Bow by PrincessKilvas, Spud.
 

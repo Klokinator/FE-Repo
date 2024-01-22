@@ -1,0 +1,297 @@
+/// - Mode 1
+C03
+C07
+15 p- Lance_000.png
+C15
+S015A
+9 p- Lance_001.png
+15 p- Lance_002.png
+C15
+S015A
+6 p- Lance_003.png
+6 p- Lance_004.png
+15 p- Lance_005.png
+C15
+S015A
+12 p- Lance_006.png
+6 p- Lance_007.png
+12 p- Lance_008.png
+C41
+5 p- Lance_009.png
+5 p- Lance_010.png
+21 p- Lance_011.png
+C04
+C1A
+C1F
+3 p- Lance_012.png
+C21
+6 p- Lance_013.png
+C15
+30 p- Lance_014.png
+C01
+C22
+3 p- Lance_015.png
+15 p- Lance_016.png
+5 p- Lance_017.png
+5 p- Lance_018.png
+6 p- Lance_019.png
+12 p- Lance_020.png
+C15
+S015A
+15 p- Lance_021.png
+9 p- Lance_022.png
+6 p- Lance_023.png
+C15
+S015A
+15 p- Lance_024.png
+9 p- Lance_025.png
+C15
+S015A
+6 p- Lance_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+18 p- Lance_000.png
+C24
+6 p- Lance_026.png
+S015C
+5 p- Lance_027.png
+C24
+4 p- Lance_028.png
+4 p- Lance_029.png
+4 p- Lance_030.png
+C24
+4 p- Lance_031.png
+4 p- Lance_032.png
+C36
+4 p- Lance_029.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+4 p- Lance_035.png
+4 p- Lance_034.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+4 p- Lance_035.png
+4 p- Lance_034.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+4 p- Lance_035.png
+4 p- Lance_034.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+4 p- Lance_035.png
+4 p- Lance_034.png
+4 p- Lance_033.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+4 p- Lance_035.png
+4 p- Lance_034.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+4 p- Lance_035.png
+4 p- Lance_034.png
+4 p- Lance_033.png
+4 p- Lance_034.png
+4 p- Lance_035.png
+4 p- Lance_034.png
+4 p- Lance_033.png
+4 p- Lance_036.png
+5 p- Lance_037.png
+C43
+6 p- Lance_038.png
+15 p- Lance_000.png
+C15
+S015A
+9 p- Lance_001.png
+15 p- Lance_002.png
+C15
+S015A
+6 p- Lance_003.png
+6 p- Lance_004.png
+15 p- Lance_005.png
+C15
+S015A
+12 p- Lance_006.png
+6 p- Lance_007.png
+12 p- Lance_008.png
+C41
+5 p- Lance_009.png
+5 p- Lance_010.png
+21 p- Lance_011.png
+C04
+C0C
+3 p- Lance_012.png
+C21
+6 p- Lance_013.png
+30 p- Lance_014.png
+C01
+C22
+3 p- Lance_015.png
+15 p- Lance_016.png
+5 p- Lance_017.png
+5 p- Lance_018.png
+6 p- Lance_019.png
+12 p- Lance_020.png
+C15
+S015A
+15 p- Lance_021.png
+9 p- Lance_022.png
+6 p- Lance_023.png
+C15
+S015A
+15 p- Lance_024.png
+9 p- Lance_025.png
+C15
+S015A
+6 p- Lance_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+15 p- Lance_000.png
+5 p- Lance_039.png
+5 p- Lance_040.png
+C43
+12 p- Lance_041.png
+15 p- Lance_042.png
+C24
+3 p- Lance_043.png
+C05
+21 p- Lance_044.png
+C01
+C37
+4 p- Lance_045.png
+4 p- Lance_046.png
+6 p- Lance_047.png
+C15
+S015A
+15 p- Lance_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+15 p- Lance_000.png
+5 p- Lance_039.png
+5 p- Lance_040.png
+C38
+3 p- Lance_048.png
+3 p- Lance_049.png
+3 p- Lance_050.png
+C43
+15 p- Lance_042.png
+C24
+3 p- Lance_043.png
+C05
+21 p- Lance_044.png
+C01
+C37
+4 p- Lance_045.png
+4 p- Lance_046.png
+6 p- Lance_047.png
+C15
+S015A
+15 p- Lance_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C03
+C07
+C02
+1 p- Lance_000.png
+C0E
+3 p- Lance_051.png
+1 p- Lance_052.png
+C01
+3 p- Lance_051.png
+S015A
+1 p- Lance_000.png
+C0D
+~~~
+/// - Mode 8
+C03
+C07
+C02
+1 p- Lance_000.png
+C0E
+3 p- Lance_051.png
+1 p- Lance_052.png
+C01
+3 p- Lance_051.png
+S015A
+1 p- Lance_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Lance_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Lance_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Lance_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+15 p- Lance_000.png
+C15
+S015A
+9 p- Lance_001.png
+15 p- Lance_002.png
+C15
+S015A
+6 p- Lance_003.png
+6 p- Lance_004.png
+15 p- Lance_005.png
+C15
+S015A
+12 p- Lance_006.png
+6 p- Lance_007.png
+12 p- Lance_008.png
+C41
+5 p- Lance_009.png
+5 p- Lance_010.png
+21 p- Lance_011.png
+C04
+C1A
+C1F
+3 p- Lance_012.png
+C21
+6 p- Lance_013.png
+C15
+30 p- Lance_014.png
+C01
+C22
+3 p- Lance_015.png
+15 p- Lance_016.png
+5 p- Lance_017.png
+5 p- Lance_018.png
+6 p- Lance_019.png
+12 p- Lance_020.png
+C15
+S015A
+15 p- Lance_021.png
+9 p- Lance_022.png
+6 p- Lance_023.png
+C15
+S015A
+15 p- Lance_024.png
+9 p- Lance_025.png
+C15
+S015A
+6 p- Lance_000.png
+C06
+C0D
+~~~
+/// - End of animation

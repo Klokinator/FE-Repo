@@ -1,4 +1,4 @@
-{Gray Floor + Dark Green Grass} and {Pink Floor} made by Dark, inspired by {ZeN2002} and {LeifOClaude}.
+{Gray Floor} and {Pink Floor} made by Dark.
 
-{Gray Floor + Dark Green Grass + Carpet Variants} tileset inspired by {ZeN2002}.
-{Pink Fog} tileset inspired by {LeifOClaude}.
+{Gray Floor + Carpet Variants} tileset inspired by {ZeN2002}.
+{Pink} tileset inspired by {LeifOClaude}.

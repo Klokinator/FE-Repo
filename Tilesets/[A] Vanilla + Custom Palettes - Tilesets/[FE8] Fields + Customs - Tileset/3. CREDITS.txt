@@ -1,3 +1,7 @@
-Snow fields made by: {N426}.
+{Snow} made by: {N426}.
 
-{Aquamarine Roofs + Gray Mountains} tileset was made by {Dark}, inspired by {LeifOClaude}.
+{Aquamarine Roofs + Gray Mountains} tileset was made by {Dark}, inspired by {Unkown}.
+
+Aquamarine Roofs and Gray Mountains were all around FEU, couldn't track the source of the object palette.
+Tried to replicate it using the original palette.
+Ass. Dark

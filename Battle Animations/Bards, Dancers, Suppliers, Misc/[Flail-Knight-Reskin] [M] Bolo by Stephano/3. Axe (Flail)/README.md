@@ -1,0 +1,13 @@
+# [\[Flail-Knight-Reskin\] \[M\] Bolo by Stephano](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BFlail-Knight-Reskin%5D%20%5BM%5D%20Bolo%20by%20Stephano%2F3.%20Axe%20(Flail))
+
+## Axe
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Axe still](./Axe_000.png) | ![Axe](./Axe.gif) |
+
+## Credit
+
+Aniamtion by JonoTheRed, ZoramineFae
+
+Edit by Stephano.

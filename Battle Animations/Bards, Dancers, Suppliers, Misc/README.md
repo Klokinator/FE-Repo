@@ -185,6 +185,14 @@
 
 
 
+## [\[Dancer-Reskin\] \[F\] Vera by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Vera%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Vera%20by%20Stephano)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Vera%20by%20Stephano/5.%20Magic/Magic.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Vera%20by%20Stephano/8.%20Refresh/Refresh.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Dancer-Reskin\] \[M\] Tethys-Style Shirtless by L95](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95)
 
 | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BM%5D%20Tethys-Style%20Shirtless%20by%20L95/8.%20Refresh/Refresh.gif"/> |
@@ -203,7 +211,8 @@
 
 ## [\[Flail-Knight-Reskin\] \[M\] Bolo by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BFlail-Knight-Reskin%5D%20%5BM%5D%20Bolo%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BFlail-Knight-Reskin%5D%20%5BM%5D%20Bolo%20by%20Stephano)
 
-
+| <b>Axe (Flail)</b><br/><img alt="Axe (Flail)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BFlail-Knight-Reskin%5D%20%5BM%5D%20Bolo%20by%20Stephano/3.%20Axe%20(Flail)/Axe.gif"/> |
+| :---: |
 
 
 
@@ -269,14 +278,6 @@
 
 | <b>Magic (Merlinus hot air)</b><br/><img alt="Magic (Merlinus hot air)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/6.%20Magic%20(Merlinus%20hot%20air)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Checkered)</b><br/><img alt="Unarmed (Checkered)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T2%20Merlinus%20Hot%20Air%20Ballon/8.%20Unarmed%20(Checkered)/Unarmed.gif"/> |
 | :---: | :---: | :---: |
-
-
-
-
-## [\[Misc\] \[M\] Rifleman by Dolkar](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar)
-
-| <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20Rifleman%20by%20Dolkar/5.%20Bow%20(Gun)/Bow.gif"/> |
-| :---: |
 
 
 
@@ -355,7 +356,8 @@
 
 ## [\[Non-FE\] \[F\] Patrcia-Wagon by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Patrcia-Wagon%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Patrcia-Wagon%20by%20Stephano)
 
-
+| <b>Item (Blaster)</b><br/><img alt="Item (Blaster)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Patrcia-Wagon%20by%20Stephano/8.%20Item%20(Blaster)/Item.gif"/> |
+| :---: |
 
 
 

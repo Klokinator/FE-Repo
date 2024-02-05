@@ -1,0 +1,160 @@
+/// - Mode 1
+C03
+C07
+1 p- Shotgun_000.png
+2 p- Shotgun_001.png
+SD3
+2 p- Shotgun_002.png
+C1A
+C04
+2 p- Shotgun_003.png
+2 p- Shotgun_004.png
+2 p- Shotgun_005.png
+C01
+C06
+2 p- Shotgun_006.png
+3 p- Shotgun_007.png
+3 p- Shotgun_008.png
+3 p- Shotgun_009.png
+3 p- Shotgun_010.png
+3 p- Shotgun_011.png
+3 p- Shotgun_012.png
+3 p- Shotgun_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Shotgun_000.png
+2 p- Shotgun_013.png
+3 p- Shotgun_014.png
+2 p- Shotgun_015.png
+SD3
+2 p- Shotgun_016.png
+C09
+C04
+2 p- Shotgun_017.png
+2 p- Shotgun_018.png
+2 p- Shotgun_019.png
+C01
+C06
+2 p- Shotgun_020.png
+3 p- Shotgun_021.png
+3 p- Shotgun_022.png
+3 p- Shotgun_023.png
+3 p- Shotgun_024.png
+3 p- Shotgun_025.png
+3 p- Shotgun_026.png
+2 p- Shotgun_014.png
+2 p- Shotgun_013.png
+3 p- Shotgun_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Shotgun_000.png
+2 p- Shotgun_001.png
+SD3
+2 p- Shotgun_002.png
+C1A
+C04
+2 p- Shotgun_003.png
+2 p- Shotgun_004.png
+2 p- Shotgun_005.png
+C01
+C06
+2 p- Shotgun_006.png
+3 p- Shotgun_007.png
+3 p- Shotgun_008.png
+3 p- Shotgun_009.png
+3 p- Shotgun_010.png
+3 p- Shotgun_011.png
+3 p- Shotgun_012.png
+3 p- Shotgun_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Shotgun_000.png
+2 p- Shotgun_013.png
+3 p- Shotgun_014.png
+2 p- Shotgun_015.png
+SD3
+2 p- Shotgun_016.png
+C09
+C04
+2 p- Shotgun_017.png
+2 p- Shotgun_018.png
+2 p- Shotgun_019.png
+C01
+C06
+2 p- Shotgun_020.png
+3 p- Shotgun_021.png
+3 p- Shotgun_022.png
+3 p- Shotgun_023.png
+3 p- Shotgun_024.png
+3 p- Shotgun_025.png
+3 p- Shotgun_026.png
+2 p- Shotgun_014.png
+2 p- Shotgun_013.png
+3 p- Shotgun_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Shotgun_000.png
+C0E
+3 p- Shotgun_027.png
+1 p- Shotgun_028.png
+C01
+3 p- Shotgun_027.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Shotgun_000.png
+C0E
+3 p- Shotgun_027.png
+1 p- Shotgun_028.png
+C01
+3 p- Shotgun_027.png
+C0D
+~~~
+/// - Mode 9
+1 p- Shotgun_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Shotgun_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Shotgun_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Shotgun_000.png
+2 p- Shotgun_001.png
+SD3
+2 p- Shotgun_002.png
+C04
+2 p- Shotgun_003.png
+2 p- Shotgun_004.png
+2 p- Shotgun_005.png
+C01
+C06
+2 p- Shotgun_006.png
+3 p- Shotgun_007.png
+3 p- Shotgun_008.png
+3 p- Shotgun_009.png
+3 p- Shotgun_010.png
+3 p- Shotgun_011.png
+3 p- Shotgun_012.png
+3 p- Shotgun_000.png
+C0D
+~~~
+/// - End of animation

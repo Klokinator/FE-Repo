@@ -1,194 +1,194 @@
 #######################################################
-#03 Rifle Ammo Soldier Sword
+#05 Bow Great Lord Lance
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- Rifle_000.png
+1 p- Bow_000.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_001.png
-2 p- Rifle_002.png
+2 p- Bow_001.png
+2 p- Bow_002.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_003.png
-2 p- Rifle_004.png
+2 p- Bow_003.png
+2 p- Bow_004.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 C1A                               #Normal hit
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C01                               #NOP
 C06                               #Begin opponent's turn after hit.next code 0D.
-3 p- Rifle_007.png
-3 p- Rifle_008.png
-3 p- Rifle_000.png
+3 p- Bow_007.png
+3 p- Bow_008.png
+3 p- Bow_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- Rifle_000.png
-1 p- Rifle_009.png
-3 p- Rifle_010.png
-5 p- Rifle_010.png
+1 p- Bow_000.png
+1 p- Bow_009.png
+3 p- Bow_010.png
+5 p- Bow_010.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_011.png
-2 p- Rifle_012.png
+2 p- Bow_011.png
+2 p- Bow_012.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 C09                               #Critical hit
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C01                               #NOP
 C06                               #Begin opponent's turn after hit.next code 0D.
-3 p- Rifle_015.png
-3 p- Rifle_016.png
-3 p- Rifle_009.png
-3 p- Rifle_000.png
+3 p- Bow_015.png
+3 p- Bow_016.png
+3 p- Bow_009.png
+3 p- Bow_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- Rifle_000.png
+1 p- Bow_000.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_001.png
-2 p- Rifle_002.png
+2 p- Bow_001.png
+2 p- Bow_002.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_003.png
-2 p- Rifle_004.png
+2 p- Bow_003.png
+2 p- Bow_004.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_005.png
-2 p- Rifle_006.png
+2 p- Bow_005.png
+2 p- Bow_006.png
 C1A                               #Normal hit
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C01                               #NOP
 C06                               #Begin opponent's turn after hit.next code 0D.
-3 p- Rifle_007.png
-3 p- Rifle_008.png
-3 p- Rifle_000.png
+3 p- Bow_007.png
+3 p- Bow_008.png
+3 p- Bow_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- Rifle_000.png
-1 p- Rifle_009.png
-3 p- Rifle_010.png
-5 p- Rifle_010.png
+1 p- Bow_000.png
+1 p- Bow_009.png
+3 p- Bow_010.png
+5 p- Bow_010.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_011.png
-2 p- Rifle_012.png
+2 p- Bow_011.png
+2 p- Bow_012.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 SD3                               #Sound 211 SE:Hit 2(map)
-2 p- Rifle_013.png
-2 p- Rifle_014.png
+2 p- Bow_013.png
+2 p- Bow_014.png
 C09                               #Critical hit
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C01                               #NOP
 C06                               #Begin opponent's turn after hit.next code 0D.
-3 p- Rifle_015.png
-3 p- Rifle_016.png
-3 p- Rifle_009.png
-3 p- Rifle_000.png
+3 p- Bow_015.png
+3 p- Bow_016.png
+3 p- Bow_009.png
+3 p- Bow_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
-1 p- Rifle_000.png
+1 p- Bow_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Rifle_017.png
-1 p- Rifle_018.png
+3 p- Bow_017.png
+1 p- Bow_018.png
 C01                               #NOP
-3 p- Rifle_017.png
+3 p- Bow_017.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
-1 p- Rifle_000.png
+1 p- Bow_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Rifle_017.png
-1 p- Rifle_018.png
+3 p- Bow_017.png
+1 p- Bow_018.png
 C01                               #NOP
-3 p- Rifle_017.png
+3 p- Bow_017.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 9               #Equiped with Melee Weapon
-1 p- Rifle_000.png
+1 p- Bow_000.png
 C01                               #NOP
 ~~~
 /// - Mode 10               #Standing motions
-1 p- Rifle_000.png
+1 p- Bow_000.png
 C01                               #NOP
 ~~~
 /// - Mode 11               #Equiped with Ranged weapon
-1 p- Rifle_000.png
+1 p- Bow_000.png
 C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- Rifle_000.png
+1 p- Bow_000.png
 SD3                               #Sound 211 SE:Hit 2(map)
-1 p- Rifle_001.png
-1 p- Rifle_002.png
+1 p- Bow_001.png
+1 p- Bow_002.png
 SD3                               #Sound 211 SE:Hit 2(map)
-1 p- Rifle_003.png
-1 p- Rifle_004.png
+1 p- Bow_003.png
+1 p- Bow_004.png
 SD3                               #Sound 211 SE:Hit 2(map)
-1 p- Rifle_005.png
-1 p- Rifle_006.png
+1 p- Bow_005.png
+1 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-1 p- Rifle_005.png
-1 p- Rifle_006.png
+1 p- Bow_005.png
+1 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
-1 p- Rifle_005.png
-1 p- Rifle_006.png
+1 p- Bow_005.png
+1 p- Bow_006.png
 SD3                               #Sound 211 SE:Hit 2(map)
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-1 p- Rifle_005.png
-1 p- Rifle_006.png
+1 p- Bow_005.png
+1 p- Bow_006.png
 C01                               #NOP
 C06                               #Begin opponent's turn after hit.next code 0D.
-1 p- Rifle_007.png
-1 p- Rifle_008.png
-1 p- Rifle_000.png
+1 p- Bow_007.png
+1 p- Bow_008.png
+1 p- Bow_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

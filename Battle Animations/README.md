@@ -1080,6 +1080,15 @@
 
 
 
+### [\[Berserker-Reskin\] \[M\] Durban by Piero](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Durban%20by%20Piero) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Durban%20by%20Piero)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Durban%20by%20Piero/3.%20Axe/Axe.gif"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Durban%20by%20Piero/3.%20Axe%20(Armads)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Durban%20by%20Piero/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Durban%20by%20Piero/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ### [\[Berserker-Reskin\] \[M\] Fargus by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Fargus%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
@@ -1578,6 +1587,14 @@
 
 
 
+### [\[Fighter-Reskin\] \[M\] Dorcas by Piero](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Piero) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Piero)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Piero/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Piero/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Dorcas%20by%20Piero/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Fighter-Reskin\] \[M\] Fighter Pants Repalette by Stitch](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Fighter%20Pants%20Repalette%20by%20Stitch) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Fighter%20Pants%20Repalette%20by%20Stitch)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Fighter%20Pants%20Repalette%20by%20Stitch/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Fighter%20Pants%20Repalette%20by%20Stitch/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BFighter-Reskin%5D%20%5BM%5D%20Fighter%20Pants%20Repalette%20by%20Stitch/8.%20Unarmed/Unarmed.gif"/> |
@@ -1880,6 +1897,15 @@
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe/Axe.gif"/> | <b>Axe (Alt Attack)</b><br/><img alt="Axe (Alt Attack)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe%20(Alt%20Attack)/Axe.gif"/> | <b>Axe (Vanilla Crit + Magic)</b><br/><img alt="Axe (Vanilla Crit + Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/3.%20Axe%20(Vanilla%20Crit%20+%20Magic)/Axe.gif"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+### [\[Warrior-Variant\] \[M\] Tellius Rework v2 by Leo_Link](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework%20v2%20by%20Leo_Link) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework%20v2%20by%20Leo_Link)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework%20v2%20by%20Leo_Link/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework%20v2%20by%20Leo_Link/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework%20v2%20by%20Leo_Link/5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Rework%20v2%20by%20Leo_Link/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -3315,6 +3341,14 @@
 
 
 
+### [\[Hero-Reskin\] \[M\] Raven by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Raven%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Raven%20by%20Greentea)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Raven%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Raven%20by%20Greentea/3.%20Axe/Axe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Raven%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Hero-Variant\] \[F\] Armored +Pants by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BF%5D%20Armored%20%2BPants%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BF%5D%20Armored%20%2BPants%20by%20Nuramon)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20%5BF%5D%20Armored%20+Pants%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> |
@@ -3633,10 +3667,26 @@
 
 
 
+### [\[Villager-Custom\] \[F\] Villager v2 by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BF%5D%20Villager%20v2%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BF%5D%20Villager%20v2%20by%20Nuramon)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BF%5D%20Villager%20v2%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword (+Intro)</b><br/><img alt="Sword (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BF%5D%20Villager%20v2%20by%20Nuramon/1.%20Sword%20(+Intro)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BF%5D%20Villager%20v2%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Villager-Custom\] \[M\] Villager by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Villager-Custom\] \[M\] Villager v2 by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20v2%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20v2%20by%20Nuramon)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20v2%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword (+Intro)</b><br/><img alt="Sword (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20v2%20by%20Nuramon/1.%20Sword%20(+Intro)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20%5BM%5D%20Villager%20v2%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -4011,6 +4061,22 @@
 
 
 
+### [\[Sword FE16 Custom\] \[U\] Dread Fighter by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Sword FE16 Custom\] \[U\] Dread Fighter by Nuramon \(Intro\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon%20(Intro)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon%20(Intro))
+
+| <b>Sword (+intro)</b><br/><img alt="Sword (+intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon%20(Intro)/1.%20Sword%20(+intro)/Sword.gif"/> | <b>Magic (+intro)</b><br/><img alt="Magic (+intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20FE16%20Custom%5D%20%5BU%5D%20Dread%20Fighter%20by%20Nuramon%20(Intro)/6.%20Magic%20(+intro)/Magic.gif"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Swordmaster-Base\] \[F\] Pants](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants/1.%20Sword/Sword.gif"/> |
@@ -4189,6 +4255,14 @@
 
 
 
+### [\[Swordmaster-Reskin\] \[M\] Guy by Piero](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Piero) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Piero)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Piero/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Guy%20by%20Piero/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Swordmaster-Reskin\] \[M\] Joshua by SD9K Stance 1](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9K%20Stance%201/8.%20Unarmed/Unarmed.gif"/> |
@@ -4200,6 +4274,14 @@
 ### [\[Swordmaster-Reskin\] \[M\] Joshua by SD9k Stance 2](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Joshua%20by%20SD9k%20Stance%202/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Swordmaster-Reskin\] \[M\] Karel FE6 by Rain Knife](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Karel%20FE6%20by%20Rain%20Knife) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Karel%20FE6%20by%20Rain%20Knife)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Karel%20FE6%20by%20Rain%20Knife/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Karel%20FE6%20by%20Rain%20Knife/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -4331,6 +4413,14 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/1.%20Sword%20(Alt%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20FE10-Style%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+### [\[Swordmaster-Variant\] \[M\] Guy by Leixian](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Guy%20by%20Leixian) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Guy%20by%20Leixian)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Guy%20by%20Leixian/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 
@@ -4560,8 +4650,8 @@
 
 ### [\[Assassin-Reskin\] \[M\] Matthew by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Matthew%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Matthew%20by%20Greentea)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Matthew%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Matthew%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Matthew%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Sword (alt motion)</b><br/><img alt="Sword (alt motion)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Matthew%20by%20Greentea/1.%20Sword%20(alt%20motion)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20Matthew%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -4801,7 +4891,7 @@
 
 | <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife%20+Bow/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife%20+Bow/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife%20+Bow/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife%20+Bow/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BM%5D%20Matthew%20Repal%20by%20Pikmin%20+Knife%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -5186,6 +5276,15 @@
 
 
 
+### [\[General-Variant\] \[M\] Oswin by Rain Knife](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BM%5D%20Oswin%20by%20Rain%20Knife) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BM%5D%20Oswin%20by%20Rain%20Knife)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BM%5D%20Oswin%20by%20Rain%20Knife/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BM%5D%20Oswin%20by%20Rain%20Knife/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BM%5D%20Oswin%20by%20Rain%20Knife/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BM%5D%20Oswin%20by%20Rain%20Knife/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ### [\[General-Variant\] \[U\] IronShell-Tiny General by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BU%5D%20IronShell-Tiny%20General%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BU%5D%20IronShell-Tiny%20General%20by%20Alexsplode)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BU%5D%20IronShell-Tiny%20General%20by%20Alexsplode/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BGeneral-Variant%5D%20%5BU%5D%20IronShell-Tiny%20General%20by%20Alexsplode/8.%20Unarmed/Unarmed.gif"/> |
@@ -5417,6 +5516,14 @@
 
 
 
+### [\[Marshall\] \[U\] Fiend by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BU%5D%20Fiend%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BU%5D%20Fiend%20by%20Nuramon)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BU%5D%20Fiend%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Lance (+Intro)</b><br/><img alt="Lance (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BU%5D%20Fiend%20by%20Nuramon/2.%20Lance%20(+Intro)/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BU%5D%20Fiend%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[Zephiel-Base\] \[M\] King Zephiel Vanilla +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20%2BWeapons)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Eckesachs FE6 Repal)</b><br/><img alt="Sword (Eckesachs FE6 Repal)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/1.%20Sword%20(Eckesachs%20FE6%20Repal)/Sword.gif"/> | <b>Sword (Eckesachs FE6)</b><br/><img alt="Sword (Eckesachs FE6)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BZephiel-Base%5D%20%5BM%5D%20King%20Zephiel%20Vanilla%20+Weapons/1.%20Sword%20(Eckesachs%20FE6)/Sword.gif"/> |
@@ -5484,6 +5591,33 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Light%20Mage%20Micaiah%20by%20Cipher%20Lee/6.%20Magic/Magic.gif"/> |
 | :---: |
+
+
+
+
+### [\[FE15 Lord Custom\] \[M\] Alm T1 by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T1%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T1%20by%20Nuramon)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T1%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword (+Intro)</b><br/><img alt="Sword (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T1%20by%20Nuramon/1.%20Sword%20(+Intro)/Sword.gif"/> | <b>Sword (Royal Sword)</b><br/><img alt="Sword (Royal Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T1%20by%20Nuramon/1.%20Sword%20(Royal%20Sword)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Royal Sword) (+Intro)</b><br/><img alt="Sword (Royal Sword) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T1%20by%20Nuramon/1.%20Sword%20(Royal%20Sword)%20(+Intro)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T1%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+### [\[FE15 Lord Custom\] \[M\] Alm T2 by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Sword (Falchion Finisher)</b><br/><img alt="Sword (Falchion Finisher)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon/1.%20Sword%20(Falchion%20Finisher)/Sword.gif"/> | <b>Sword (Falchion)</b><br/><img alt="Sword (Falchion)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon/1.%20Sword%20(Falchion)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Royal Sword)</b><br/><img alt="Sword (Royal Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon/1.%20Sword%20(Royal%20Sword)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+### [\[FE15 Lord Custom\] \[M\] Alm T2 by Nuramon \(Intro\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro))
+
+| <b>Sword (+Intro)</b><br/><img alt="Sword (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(+Intro)/Sword.gif"/> | <b>Sword (Falchion Finisher) (+Intro)</b><br/><img alt="Sword (Falchion Finisher) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(Falchion%20Finisher)%20(+Intro)/Sword.gif"/> | <b>Sword (Falchion) (+Intro)</b><br/><img alt="Sword (Falchion) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(Falchion)%20(+Intro)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Royal Sword) (+Intro)</b><br/><img alt="Sword (Royal Sword) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(Royal%20Sword)%20(+Intro)/Sword.gif"/> | <b>Bow (+Intro)</b><br/><img alt="Bow (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/5.%20Bow%20(+Intro)/Bow.gif"/> |
 
 
 
@@ -5697,9 +5831,9 @@
 
 ### [\[FE7 Eliwood-Reskin\] \[M\] T2 Master Eliwood by Apolo15](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/5.%20Bow/Bow.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/1.%20Sword/Sword.gif"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/1.%20Sword%20(Durandal)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T2%20Master%20Eliwood%20by%20Apolo15/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -6454,6 +6588,15 @@
 <details>
 <summary>Click to expand!</summary>
 
+### [\[Custom DM \[M\] Arcanist by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%20%5BM%5D%20Arcanist%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%20%5BM%5D%20Arcanist%20by%20Nuramon)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%20%5BM%5D%20Arcanist%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%20%5BM%5D%20Arcanist%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%20%5BM%5D%20Arcanist%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%20%5BM%5D%20Arcanist%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
+
+
+
+
 ### [\[Custom DM\] \[F\] Dark Mage by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
@@ -6474,6 +6617,24 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Sophia%20by%20Redbean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Sophia%20by%20Redbean/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Custom DM\] \[M\] Cantor by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
+
+
+
+
+### [\[Custom DM\] \[M\] Cantor Jedah by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
 
 
 
@@ -7290,6 +7451,14 @@
 
 
 
+### [\[T2 Bishop-Reskin} \[M\] Renault by Red Bean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%7D%20%5BM%5D%20Renault%20by%20Red%20Bean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%7D%20%5BM%5D%20Renault%20by%20Red%20Bean)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%7D%20%5BM%5D%20Renault%20by%20Red%20Bean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%7D%20%5BM%5D%20Renault%20by%20Red%20Bean/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%7D%20%5BM%5D%20Renault%20by%20Red%20Bean/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ### [\[T2 Bishop-Type\] \[F\] Inquisitor by Jey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Type%5D%20%5BF%5D%20Inquisitor%20by%20Jey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Type%5D%20%5BF%5D%20Inquisitor%20by%20Jey)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Type%5D%20%5BF%5D%20Inquisitor%20by%20Jey/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Type%5D%20%5BF%5D%20Inquisitor%20by%20Jey/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Type%5D%20%5BF%5D%20Inquisitor%20by%20Jey/6.%20Magic/Magic.gif"/> |
@@ -7754,6 +7923,14 @@
 
 
 
+### [\[Sage-Custom\] \[F\] Sonia by Red Bean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[Sage-Custom\] \[F\] Yggdra Lute by Aruka](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka/7.%20Staff/Staff.gif"/> |
@@ -8055,6 +8232,14 @@
 
 
 
+### [\[T3 FE7\] \[M\] Archsage Athos by Red Bean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[T3.1 Sage\] \[F\] High Magus by MrNight48](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20%5BF%5D%20High%20Magus%20by%20MrNight48/7.%20Staff/Staff.gif"/> |
@@ -8131,6 +8316,24 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
 | :---: |
+
+
+
+
+### [\[Custom Magi\] \[F\] Witch Nuibaba by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Nuibaba%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Nuibaba%20by%20Nuramon)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Nuibaba%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Nuibaba%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Nuibaba%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Nuibaba%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
+
+
+
+
+### [\[Custom Magi\] \[F\] Witch Rinea \(Vestal\) by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Rinea%20(Vestal)%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Rinea%20(Vestal)%20by%20Nuramon)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Rinea%20(Vestal)%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Rinea%20(Vestal)%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Rinea%20(Vestal)%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Witch%20Rinea%20(Vestal)%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
 
 
 
@@ -10207,6 +10410,15 @@
 
 
 
+### [\[Paladin-Custom\] \[U\] Gold Knight v2 by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20v2%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20v2%20by%20Nuramon)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20v2%20by%20Nuramon/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20v2%20by%20Nuramon/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20v2%20by%20Nuramon/3.%20Axe/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20v2%20by%20Nuramon/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Custom%5D%20%5BU%5D%20Gold%20Knight%20v2%20by%20Nuramon/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ### [\[Paladin-Variant\] \[F\] SALVAGED Alt](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Alt/3.%20Axe/Axe.gif"/> |
@@ -10488,6 +10700,24 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Camel%20Rider%20by%20Orihara%20Saki/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+### [\[Cavalier-Custom\] \[M\] Plumber Knight by Uncle Mikey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+### [\[Cavalier-Custom\] \[M\] Star Knight by Uncle Mikey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

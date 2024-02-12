@@ -1,0 +1,10 @@
+# [\[FE15 Lord Custom\] \[M\] Alm T2 by Nuramon \(Intro\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro))
+
+| <b>Sword (+Intro)</b><br/><img alt="Sword (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(+Intro)/Sword.gif"/> | <b>Sword (Falchion Finisher) (+Intro)</b><br/><img alt="Sword (Falchion Finisher) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(Falchion%20Finisher)%20(+Intro)/Sword.gif"/> | <b>Sword (Falchion) (+Intro)</b><br/><img alt="Sword (Falchion) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(Falchion)%20(+Intro)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Royal Sword) (+Intro)</b><br/><img alt="Sword (Royal Sword) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/1.%20Sword%20(Royal%20Sword)%20(+Intro)/Sword.gif"/> | <b>Bow (+Intro)</b><br/><img alt="Bow (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE15%20Lord%20Custom%5D%20%5BM%5D%20Alm%20T2%20by%20Nuramon%20(Intro)/5.%20Bow%20(+Intro)/Bow.gif"/> |
+
+## Credits
+
+Still and animation by Nuramon.
+

@@ -393,6 +393,14 @@
 
 
 
+## [\[Sage-Custom\] \[F\] Sonia by Red Bean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Sonia%20by%20Red%20Bean/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Sage-Custom\] \[F\] Yggdra Lute by Aruka](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Yggdra%20Lute%20by%20Aruka/7.%20Staff/Staff.gif"/> |
@@ -690,6 +698,14 @@
 | :---: | :---: | :---: |
 | <b>Magic (FEx)</b><br/><img alt="Magic (FEx)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(FEx)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff/Staff.gif"/> |
 | <b>Staff (Fixed)</b><br/><img alt="Staff (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20+Fixes/7.%20Staff%20(Fixed)/Staff.gif"/> |
+
+
+
+
+## [\[T3 FE7\] \[M\] Archsage Athos by Red Bean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20%5BM%5D%20Archsage%20Athos%20by%20Red%20Bean/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 

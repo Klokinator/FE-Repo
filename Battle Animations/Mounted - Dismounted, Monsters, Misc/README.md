@@ -25,6 +25,24 @@
 
 
 
+## [\[Cavalier-Custom\] \[M\] Plumber Knight by Uncle Mikey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Plumber%20Knight%20by%20Uncle%20Mikey/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Cavalier-Custom\] \[M\] Star Knight by Uncle Mikey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BM%5D%20Star%20Knight%20by%20Uncle%20Mikey/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ## [\[Cavalry-Custom\] \[U\] Grand Mahout by Orihara_Saki](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalry-Custom%5D%20%5BU%5D%20Grand%20Mahout%20by%20Orihara_Saki/5.%20Bow/Bow.gif"/> |

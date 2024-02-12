@@ -17,3 +17,5 @@ Bow by Spud.
 Desgin by Jorge Reds.
 
 Animation by Apolo15.
+
+Durandal by Nuramon.

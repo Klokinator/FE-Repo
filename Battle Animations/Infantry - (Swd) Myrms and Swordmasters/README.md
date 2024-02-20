@@ -177,14 +177,6 @@
 
 
 
-## [\[Myrmidon-Reskin\] \[M\] Lloyd Hair by tatutachang](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Lloyd%20Hair%20by%20tatutachang) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Lloyd%20Hair%20by%20tatutachang)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Lloyd%20Hair%20by%20tatutachang/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Lloyd%20Hair%20by%20tatutachang/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
-
-
-
-
 ## [\[Myrmidon-Reskin\] \[M\] Shorter Hair by Pushwall](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Shorter%20Hair%20by%20Pushwall) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Shorter%20Hair%20by%20Pushwall)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Shorter%20Hair%20by%20Pushwall/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Reskin%5D%20%5BM%5D%20Shorter%20Hair%20by%20Pushwall/8.%20Unarmed/Unarmed.gif"/> |
@@ -269,22 +261,6 @@
 ## [\[Sword Custom\] \[F\] Purple Twin - Shortsword by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BF%5D%20Purple%20Twin%20-%20Shortsword%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BF%5D%20Purple%20Twin%20-%20Shortsword%20by%20RedBean)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BF%5D%20Purple%20Twin%20-%20Shortsword%20by%20RedBean/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BF%5D%20Purple%20Twin%20-%20Shortsword%20by%20RedBean/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
-
-
-
-
-## [\[Sword Custom\] \[M\] Tales of Destiny Judas by tatutachang](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Judas%20by%20tatutachang) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Judas%20by%20tatutachang)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Judas%20by%20tatutachang/1.%20Sword/Sword.gif"/> | <b>Sword (Chaltier)</b><br/><img alt="Sword (Chaltier)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Judas%20by%20tatutachang/1.%20Sword%20(Chaltier)/Sword.gif"/> |
-| :---: | :---: |
-
-
-
-
-## [\[Sword Custom\] \[M\] Tales of Destiny Magnus by tatutachang](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Magnus%20by%20tatutachang) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Magnus%20by%20tatutachang)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Magnus%20by%20tatutachang/1.%20Sword/Sword.gif"/> | <b>Sword (Chaltier)</b><br/><img alt="Sword (Chaltier)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20%5BM%5D%20Tales%20of%20Destiny%20Magnus%20by%20tatutachang/1.%20Sword%20(Chaltier)/Sword.gif"/> |
 | :---: | :---: |
 
 

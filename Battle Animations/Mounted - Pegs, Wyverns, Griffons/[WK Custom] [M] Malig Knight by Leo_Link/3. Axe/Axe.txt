@@ -1,5 +1,5 @@
 #######################################################
-#03 Axe 
+#03 Axe Soldier Axe
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -126,17 +126,8 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 6 p- Axe_000.png
-6 p- Axe_000.png
-2 p- Axe_033.png
-2 p- Axe_034.png
-2 p- Axe_035.png
-2 p- Axe_036.png
 C05                               #Call spell associated with equipped weapon
-2 p- Axe_036.png
 C01                               #NOP
-2 p- Axe_035.png
-2 p- Axe_034.png
-2 p- Axe_033.png
 6 p- Axe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 C06                               #Begin opponent's turn after hit.next code 0D.
@@ -145,26 +136,9 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 6 p- Axe_000.png
-2 p- Axe_033.png
-2 p- Axe_034.png
-2 p- Axe_035.png
-2 p- Axe_036.png
-C28                               #Play electrical charging SFE
-4 p- Axe_037.png
-2 p- Axe_036.png
-4 p- Axe_037.png
-2 p- Axe_036.png
-4 p- Axe_037.png
-2 p- Axe_036.png
-4 p- Axe_037.png
-1 p- Axe_036.png
 C05                               #Call spell associated with equipped weapon
 C08                               #Critical hit
-2 p- Axe_036.png
 C01                               #NOP
-2 p- Axe_035.png
-2 p- Axe_034.png
-2 p- Axe_033.png
 6 p- Axe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 C06                               #Begin opponent's turn after hit.next code 0D.
@@ -172,10 +146,10 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
 4 p- Axe_000.png
-4 p- Axe_038.png
+4 p- Axe_033.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-20 p- Axe_039.png
-4 p- Axe_038.png
+20 p- Axe_034.png
+4 p- Axe_033.png
 4 p- Axe_000.png
 C01                               #NOP
 C0D                               #End of dodge animation. preceeded by 0x06
@@ -183,10 +157,10 @@ C0D                               #End of dodge animation. preceeded by 0x06
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
 4 p- Axe_000.png
-4 p- Axe_038.png
+4 p- Axe_033.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-20 p- Axe_039.png
-4 p- Axe_038.png
+20 p- Axe_034.png
+4 p- Axe_033.png
 4 p- Axe_000.png
 C01                               #NOP
 C0D                               #End of dodge animation. preceeded by 0x06

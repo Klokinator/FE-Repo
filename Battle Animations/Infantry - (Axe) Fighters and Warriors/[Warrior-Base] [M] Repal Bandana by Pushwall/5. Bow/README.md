@@ -11,3 +11,5 @@
 Original Warrior by IS.
 
 Repalette/bandana by Pushwall.
+
+NOTE: The Magic Axe rotation becomes blurry when imported through FeBuilder. The Non-Magic Axe does not have this issue.

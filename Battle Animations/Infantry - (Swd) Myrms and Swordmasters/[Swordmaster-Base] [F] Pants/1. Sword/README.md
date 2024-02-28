@@ -10,4 +10,4 @@
 
 Animation by IS.
 
-Pants edit by Angel Dragon Ezech.
+Pants edit by Seliost1.

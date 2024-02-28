@@ -18,3 +18,5 @@ Magic by DerTheVaporeon.
 
 Magic (Thunder Shield) by RRSKAI.
 
+Magic Axe animations UltraFenix.
+

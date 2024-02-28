@@ -19,3 +19,5 @@ Lance, Bow, Magic, and Staff by ZoramineFae.
 
 Greatsword by NX.
 
+Magic Axe animations UltraFenix.
+

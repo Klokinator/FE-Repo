@@ -11,3 +11,4 @@
 Animation by 水野武弘 (Takehiro Mizuno).
 
 Formatting by GibGib!.
+Updated Bow animation and script by Seliost1.

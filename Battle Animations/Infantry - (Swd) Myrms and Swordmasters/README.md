@@ -59,8 +59,9 @@
 
 ## [\[Myrmidon-Base\] \[M\] Vanilla FE6-8 Generic](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/1.%20Sword/Sword.gif"/> | <b>Gun</b><br/><img alt="Gun" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/8.%20Gun/Gun.gif"/> | <b>Gun (Magic)</b><br/><img alt="Gun (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/8.%20Gun%20(Magic)/Gun.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20%5BM%5D%20Vanilla%20FE6-8%20Generic/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -357,8 +358,8 @@
 
 ## [\[Swordmaster-Base\] \[F\] Pants](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants/1.%20Sword/Sword.gif"/> |
-| :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BF%5D%20Pants/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 
@@ -405,8 +406,9 @@
 
 ## [\[Swordmaster-Base\] \[M\] Vanilla FE7 Karel](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Crit 2)</b><br/><img alt="Sword (Alt Crit 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/1.%20Sword%20(Alt%20Crit%202)/Sword.gif"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/1.%20Sword%20(Alt%20Crit)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Base%5D%20%5BM%5D%20Vanilla%20FE7%20Karel/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -431,6 +433,14 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Catherine%20by%20Garytop/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Catherine%20by%20Garytop/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Swordmaster-Reskin\] \[F\] Dress by Seliost1](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Dress%20by%20Seliost1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Dress%20by%20Seliost1)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BF%5D%20Dress%20by%20Seliost1/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 
@@ -558,8 +568,8 @@
 
 ## [\[Swordmaster-Reskin\] \[M\] Vergil by Angel Dragon Ezech](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Vergil%20by%20Angel%20Dragon%20Ezech) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Vergil%20by%20Angel%20Dragon%20Ezech)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Vergil%20by%20Angel%20Dragon%20Ezech/1.%20Sword/Sword.gif"/> |
-| :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Vergil%20by%20Angel%20Dragon%20Ezech/1.%20Sword/Sword.gif"/> | <b>Sword (Generic Crit)</b><br/><img alt="Sword (Generic Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20%5BM%5D%20Vergil%20by%20Angel%20Dragon%20Ezech/1.%20Sword%20(Generic%20Crit)/Sword.gif"/> |
+| :---: | :---: |
 
 
 

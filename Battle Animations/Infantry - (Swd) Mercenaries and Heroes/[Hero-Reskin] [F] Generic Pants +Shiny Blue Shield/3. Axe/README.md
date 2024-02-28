@@ -8,4 +8,6 @@
 
 ## Credit
 
+Edit by Pushwall.
 
+Unarmed animation by Seliost1.

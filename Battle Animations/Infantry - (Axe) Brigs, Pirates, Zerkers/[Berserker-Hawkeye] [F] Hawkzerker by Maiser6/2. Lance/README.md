@@ -16,4 +16,6 @@ Lance and Bow by ZoramineFae.
 
 Map Sprite by Pikmin1211 and DerTheVaporeon
 
-Class Card by DerTheVaporeon
+Class Card by DerTheVaporeon.
+
+Magic Axe animations UltraFenix.

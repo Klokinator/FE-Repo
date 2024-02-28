@@ -9,3 +9,7 @@
 ## Credit
 
 Team SALVAGED, HGS, Levin64, RJ_Exists, Obsidian_Daddy
+
+Magic Anim Conversion for F.Paladin by WhatIsAnAubin
+
+Magic Axe animations UltraFenix.

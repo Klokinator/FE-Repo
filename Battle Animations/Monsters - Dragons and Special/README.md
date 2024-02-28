@@ -315,6 +315,14 @@
 
 
 
+## [\[Monster-Custom\] \(F\) Batgal by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20(F)%20Batgal%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20(F)%20Batgal%20by%20Stephano)
+
+| <b>Flail</b><br/><img alt="Flail" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20(F)%20Batgal%20by%20Stephano/1.%20Flail/Flail.gif"/> | <b>Flail (Physics)</b><br/><img alt="Flail (Physics)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20(F)%20Batgal%20by%20Stephano/1.%20Flail%20(Physics)/Flail.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Monster-Custom\] \[F\] Death](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death/3.%20Axe/Axe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Death/6.%20Magic/Magic.gif"/> |
@@ -535,8 +543,8 @@
 
 ## [\[Monster-Custom\] \[U\] Kerendu](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Kerendu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Kerendu)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Kerendu/8.%20Monster/Monster.gif"/> |
-| :---: |
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Kerendu/8.%20Monster/Monster.gif"/> | <b>Monster (Improved)</b><br/><img alt="Monster (Improved)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Kerendu/8.%20Monster%20(Improved)/Monster.gif"/> |
+| :---: | :---: |
 
 
 

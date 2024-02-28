@@ -1,0 +1,331 @@
+/// - Mode 1
+C03
+C07
+3 p- Flail_000.png
+3 p- Flail_001.png
+C0C41
+3 p- Flail_002.png
+3 p- Flail_003.png
+3 p- Flail_004.png
+3 p- Flail_005.png
+3 p- Flail_006.png
+1 p- Flail_007.png
+C04
+C1A
+C21
+3 p- Flail_008.png
+10 p- Flail_008.png
+C01
+1 p- Flail_009.png
+1 p- Flail_010.png
+1 p- Flail_011.png
+1 p- Flail_012.png
+C0C42
+3 p- Flail_006.png
+3 p- Flail_005.png
+3 p- Flail_004.png
+3 p- Flail_003.png
+3 p- Flail_002.png
+3 p- Flail_001.png
+4 p- Flail_013.png
+4 p- Flail_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+1 p- Flail_000.png
+C03
+C07
+3 p- Flail_000.png
+3 p- Flail_014.png
+3 p- Flail_015.png
+3 p- Flail_016.png
+3 p- Flail_017.png
+C1B
+3 p- Flail_018.png
+3 p- Flail_019.png
+3 p- Flail_020.png
+3 p- Flail_021.png
+3 p- Flail_022.png
+3 p- Flail_023.png
+3 p- Flail_024.png
+3 p- Flail_025.png
+SC9
+3 p- Flail_026.png
+3 p- Flail_027.png
+3 p- Flail_026.png
+3 p- Flail_025.png
+2 p- Flail_024.png
+3 p- Flail_025.png
+SC9
+3 p- Flail_026.png
+3 p- Flail_027.png
+3 p- Flail_026.png
+3 p- Flail_025.png
+3 p- Flail_024.png
+3 p- Flail_023.png
+3 p- Flail_022.png
+3 p- Flail_021.png
+3 p- Flail_020.png
+C1B
+3 p- Flail_019.png
+3 p- Flail_018.png
+3 p- Flail_017.png
+3 p- Flail_016.png
+3 p- Flail_015.png
+3 p- Flail_014.png
+6 p- Flail_000.png
+S0132
+2 p- Flail_028.png
+2 p- Flail_029.png
+2 p- Flail_030.png
+2 p- Flail_031.png
+2 p- Flail_032.png
+2 p- Flail_033.png
+2 p- Flail_034.png
+2 p- Flail_035.png
+2 p- Flail_036.png
+2 p- Flail_037.png
+2 p- Flail_038.png
+2 p- Flail_039.png
+2 p- Flail_040.png
+2 p- Flail_041.png
+2 p- Flail_042.png
+2 p- Flail_043.png
+2 p- Flail_044.png
+2 p- Flail_045.png
+2 p- Flail_046.png
+2 p- Flail_047.png
+2 p- Flail_048.png
+2 p- Flail_049.png
+2 p- Flail_050.png
+2 p- Flail_051.png
+S0132
+2 p- Flail_052.png
+2 p- Flail_053.png
+2 p- Flail_054.png
+2 p- Flail_055.png
+2 p- Flail_056.png
+3 p- Flail_057.png
+C0C41
+3 p- Flail_058.png
+3 p- Flail_059.png
+3 p- Flail_060.png
+3 p- Flail_061.png
+C22
+1 p- Flail_062.png
+C14
+C04
+C0C
+C21
+4 p- Flail_063.png
+20 p- Flail_064.png
+C01
+1 p- Flail_065.png
+1 p- Flail_066.png
+1 p- Flail_067.png
+1 p- Flail_068.png
+1 p- Flail_069.png
+1 p- Flail_070.png
+1 p- Flail_071.png
+1 p- Flail_072.png
+16 p- Flail_073.png
+3 p- Flail_074.png
+3 p- Flail_075.png
+3 p- Flail_076.png
+3 p- Flail_077.png
+3 p- Flail_078.png
+3 p- Flail_079.png
+2 p- Flail_080.png
+2 p- Flail_081.png
+2 p- Flail_082.png
+2 p- Flail_083.png
+2 p- Flail_084.png
+C1B
+4 p- Flail_085.png
+4 p- Flail_086.png
+4 p- Flail_087.png
+4 p- Flail_088.png
+4 p- Flail_089.png
+4 p- Flail_090.png
+4 p- Flail_091.png
+4 p- Flail_092.png
+4 p- Flail_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+3 p- Flail_000.png
+3 p- Flail_001.png
+C0C41
+3 p- Flail_002.png
+3 p- Flail_003.png
+3 p- Flail_004.png
+3 p- Flail_005.png
+3 p- Flail_006.png
+1 p- Flail_007.png
+C05
+C0C42
+3 p- Flail_093.png
+C01
+3 p- Flail_006.png
+3 p- Flail_005.png
+3 p- Flail_004.png
+3 p- Flail_003.png
+3 p- Flail_002.png
+3 p- Flail_001.png
+4 p- Flail_013.png
+4 p- Flail_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+3 p- Flail_000.png
+3 p- Flail_014.png
+3 p- Flail_015.png
+3 p- Flail_016.png
+3 p- Flail_017.png
+C1B
+3 p- Flail_018.png
+3 p- Flail_019.png
+3 p- Flail_020.png
+3 p- Flail_021.png
+3 p- Flail_022.png
+3 p- Flail_023.png
+3 p- Flail_024.png
+3 p- Flail_025.png
+3 p- Flail_026.png
+SC9
+3 p- Flail_027.png
+3 p- Flail_026.png
+3 p- Flail_025.png
+2 p- Flail_024.png
+3 p- Flail_025.png
+3 p- Flail_026.png
+SC9
+3 p- Flail_027.png
+3 p- Flail_026.png
+3 p- Flail_025.png
+3 p- Flail_024.png
+3 p- Flail_023.png
+3 p- Flail_022.png
+3 p- Flail_021.png
+3 p- Flail_020.png
+3 p- Flail_019.png
+3 p- Flail_018.png
+3 p- Flail_017.png
+3 p- Flail_016.png
+3 p- Flail_015.png
+3 p- Flail_014.png
+6 p- Flail_000.png
+3 p- Flail_000.png
+3 p- Flail_001.png
+C0C41
+3 p- Flail_002.png
+3 p- Flail_003.png
+3 p- Flail_004.png
+3 p- Flail_005.png
+3 p- Flail_006.png
+1 p- Flail_007.png
+C05
+3 p- Flail_093.png
+C01
+C0C42
+3 p- Flail_006.png
+3 p- Flail_005.png
+3 p- Flail_004.png
+3 p- Flail_003.png
+3 p- Flail_002.png
+3 p- Flail_001.png
+4 p- Flail_013.png
+4 p- Flail_000.png
+C06
+C0D
+C06
+C0D
+~~~
+/// - Mode 7
+1 p- Flail_000.png
+C02
+S0132
+1 p- Flail_028.png
+2 p- Flail_030.png
+2 p- Flail_032.png
+3 p- Flail_033.png
+C01
+2 p- Flail_032.png
+2 p- Flail_031.png
+2 p- Flail_028.png
+C1B
+3 p- Flail_000.png
+C06
+C0D
+~~~
+/// - Mode 8
+1 p- Flail_000.png
+C02
+S0132
+1 p- Flail_028.png
+2 p- Flail_030.png
+2 p- Flail_032.png
+3 p- Flail_033.png
+C01
+2 p- Flail_032.png
+2 p- Flail_031.png
+2 p- Flail_028.png
+C1B
+3 p- Flail_000.png
+C06
+C0D
+~~~
+/// - Mode 9
+2 p- Flail_000.png
+C01
+~~~
+/// - Mode 10
+2 p- Flail_000.png
+C01
+~~~
+/// - Mode 11
+2 p- Flail_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+3 p- Flail_000.png
+3 p- Flail_001.png
+C0C41
+3 p- Flail_002.png
+3 p- Flail_003.png
+3 p- Flail_004.png
+3 p- Flail_005.png
+3 p- Flail_006.png
+1 p- Flail_007.png
+C04
+3 p- Flail_094.png
+C01
+3 p- Flail_095.png
+3 p- Flail_094.png
+1 p- Flail_009.png
+1 p- Flail_010.png
+1 p- Flail_011.png
+1 p- Flail_012.png
+C0C42
+3 p- Flail_006.png
+3 p- Flail_005.png
+3 p- Flail_004.png
+3 p- Flail_003.png
+3 p- Flail_002.png
+3 p- Flail_001.png
+4 p- Flail_013.png
+4 p- Flail_000.png
+C06
+C0D
+C0D
+~~~
+/// - End of animation

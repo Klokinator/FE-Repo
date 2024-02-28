@@ -1,5 +1,5 @@
 #######################################################
-#92 pbfm_ax1 Journeyman Axe
+#03 Axe 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -82,21 +82,62 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
+3 p- Axe_030.png
+3 p- Axe_031.png
+C05                               #Call spell associated with equipped weapon
+1 p- Axe_031.png
 C01                               #NOP
+3 p- Axe_030.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
+8 p- Axe_017.png
+6 p- Axe_018.png
+12 p- Axe_019.png
+C38                               #Play heavy spear spinning SFE
+6 p- Axe_020.png
+2 p- Axe_021.png
+20 p- Axe_022.png
+4 p- Axe_023.png
+4 p- Axe_024.png
+C38                               #Play heavy spear spinning SFE
+2 p- Axe_025.png
+3 p- Axe_026.png
+6 p- Axe_027.png
+10 p- Axe_028.png
+C28                               #Play electrical charging SFE
+4 p- Axe_032.png
+2 p- Axe_028.png
+4 p- Axe_032.png
+2 p- Axe_028.png
+4 p- Axe_032.png
+2 p- Axe_028.png
+4 p- Axe_032.png
+2 p- Axe_028.png
+1 p- Axe_032.png
+C05                               #Call spell associated with equipped weapon
+C08                               #Critical hit
+1 p- Axe_028.png
 C01                               #NOP
+4 p- Axe_033.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
 1 p- Axe_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-2 p- Axe_030.png
-1 p- Axe_031.png
+2 p- Axe_034.png
+1 p- Axe_035.png
 C01                               #NOP
-3 p- Axe_032.png
+3 p- Axe_036.png
 1 p- Axe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -104,10 +145,10 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Axe_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-2 p- Axe_030.png
-1 p- Axe_031.png
+2 p- Axe_034.png
+1 p- Axe_035.png
 C01                               #NOP
-3 p- Axe_032.png
+3 p- Axe_036.png
 1 p- Axe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -134,8 +175,8 @@ C07                               #Start attack animation; need 03 right before 
 20 p- Axe_005.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C42                               #Play Axe falling SFE; long axe swinging SFE
-2 p- Axe_033.png
-1 p- Axe_034.png
+2 p- Axe_037.png
+1 p- Axe_038.png
 C01                               #NOP
 8 p- Axe_008.png
 6 p- Axe_009.png

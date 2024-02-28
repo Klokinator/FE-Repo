@@ -1,11 +1,11 @@
 #######################################################
-#01 lorm_sp1 
+#03 Axe 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
 3 p- Axe_001.png
 2 p- Axe_002.png
@@ -22,7 +22,7 @@ C25                               #Play wing flap SFE
 2 p- Axe_010.png
 14 p- Axe_011.png
 C23                               #Play shorter sword swinging SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Axe_012.png
 C1A                               #Normal hit
 C24                               #Play sword slashing air SFE
@@ -69,8 +69,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
 4 p- Axe_044.png
 C38                               #Play heavy spear spinning SFE
@@ -111,7 +111,7 @@ C25                               #Play wing flap SFE
 2 p- Axe_010.png
 17 p- Axe_011.png
 C23                               #Play shorter sword swinging SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Axe_012.png
 C0C                               #Critical hit
 C24                               #Play sword slashing air SFE
@@ -158,71 +158,66 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
-4 p- Axe_044.png
-7 p- Axe_049.png
-4 p- Axe_050.png
-8 p- Axe_051.png
-19 p- Axe_052.png
-C23                               #Play shorter sword swinging SFE
-3 p- Axe_053.png
+4 p- Axe_049.png
 C05                               #Call spell associated with equipped weapon
-1 p- Axe_054.png
+1 p- Axe_050.png
 C01                               #NOP
+4 p- Axe_049.png
 C06                               #Begin opponent's turn after hit.next code 0D.
-4 p- Axe_044.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
-4 p- Axe_044.png
-C38                               #Play heavy spear spinning SFE
-2 p- Axe_045.png
-2 p- Axe_046.png
-2 p- Axe_047.png
-2 p- Axe_048.png
-10 p- Axe_049.png
-4 p- Axe_050.png
-8 p- Axe_051.png
-17 p- Axe_052.png
-C23                               #Play shorter sword swinging SFE
-3 p- Axe_053.png
+4 p- Axe_049.png
+2 p- Axe_050.png
+C28                               #Play electrical charging SFE
+4 p- Axe_051.png
+2 p- Axe_050.png
+4 p- Axe_051.png
+2 p- Axe_050.png
+4 p- Axe_051.png
+2 p- Axe_050.png
+4 p- Axe_051.png
+2 p- Axe_050.png
+1 p- Axe_051.png
 C05                               #Call spell associated with equipped weapon
-1 p- Axe_054.png
+C08                               #Critical hit
+1 p- Axe_050.png
 C01                               #NOP
+4 p- Axe_049.png
 C06                               #Begin opponent's turn after hit.next code 0D.
-4 p- Axe_044.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
 4 p- Axe_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Axe_055.png
-1 p- Axe_056.png
+3 p- Axe_052.png
+1 p- Axe_053.png
 C01                               #NOP
-3 p- Axe_055.png
+3 p- Axe_052.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
 4 p- Axe_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Axe_055.png
-1 p- Axe_056.png
+3 p- Axe_052.png
+1 p- Axe_053.png
 C01                               #NOP
-3 p- Axe_055.png
+3 p- Axe_052.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 9               #Equiped with Melee Weapon
 1 p- Axe_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #standing motions?
+/// - Mode 10               #Standing motions
 1 p- Axe_000.png
 C01                               #NOP
 ~~~
@@ -231,8 +226,8 @@ C01                               #NOP
 C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
 3 p- Axe_001.png
 2 p- Axe_002.png
@@ -250,14 +245,14 @@ C25                               #Play wing flap SFE
 2 p- Axe_010.png
 11 p- Axe_011.png
 C23                               #Play shorter sword swinging SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 2 p- Axe_012.png
 C24                               #Play sword slashing air SFE
-2 p- Axe_057.png
-2 p- Axe_058.png
-1 p- Axe_059.png
+2 p- Axe_054.png
+2 p- Axe_055.png
+1 p- Axe_056.png
 C01                               #NOP
-3 p- Axe_060.png
+3 p- Axe_057.png
 8 p- Axe_017.png
 5 p- Axe_018.png
 C25                               #Play wing flap SFE

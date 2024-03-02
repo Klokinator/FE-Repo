@@ -1,7 +1,0 @@
-Vanilla animation by IS.
-
-Additional weapons (???) by DerTheVaporeon, Pikmin1211.
-
-Staff by ZoramineFae.
-
-Fixed Staff by Permafrost. This fix allows the staff to ALSO be used as a magic animation, if desired.

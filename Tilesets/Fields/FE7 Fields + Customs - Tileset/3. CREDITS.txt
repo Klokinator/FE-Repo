@@ -1,0 +1,11 @@
+{Snow} made by: {N426}.
+
+{Aquamarine Roofs + Gray Mountains} tileset was made by {Dark}, inspired by {Unkown}.
+
+{Bright Field} and {Dark Field} were made by {MaxTheMagelord, WAve, RandomWizard, Beast}.
+
+{Hallow Field} was made by {MaxTheMagelord}.
+
+Aquamarine Roofs and Gray Mountains were all around FEU, couldn't track the source of the object palette.
+Tried to replicate it using the original palette.
+Ass. Dark

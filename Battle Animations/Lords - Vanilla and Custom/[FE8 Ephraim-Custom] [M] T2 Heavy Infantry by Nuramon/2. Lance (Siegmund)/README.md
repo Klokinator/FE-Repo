@@ -8,4 +8,6 @@
 
 ## Credit
 
+Animation by Nura.
 
+Aura Crit inspired by Mysterious Dancer and made by Seliost1.

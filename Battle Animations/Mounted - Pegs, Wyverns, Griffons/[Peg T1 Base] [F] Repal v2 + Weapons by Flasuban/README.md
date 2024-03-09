@@ -6,5 +6,7 @@
 
 ## Credits
 
-Sword/Lance/Axe/Handaxe/Unarmed/Repalette by Flasuban
+Sword/Lance/Axe/Handaxe/Unarmed/Repalette by Flasuban.
+
+Unarmed palette fix by UltraFenix.
 

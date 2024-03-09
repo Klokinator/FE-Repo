@@ -10,4 +10,10 @@
 
 Original animation by IS. 
 
+Knife by JJ09.
+
+Lyn-Bow by BatimaTheBat.
+
+Bow and Knife repal by UltraFenix
+
 Repalette by Huichelaar.

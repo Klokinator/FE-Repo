@@ -9,3 +9,5 @@
 ## Credit
 
 Made by the developers of FE7if.
+
+More accurate bow version by Seliost1.

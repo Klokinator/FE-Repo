@@ -1,10 +1,15 @@
-/// - Mode 1
-C03
-C07
+#######################################################
+#06 Magic 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Magic_000.png
 3 p- Magic_001.png
 12 p- Magic_002.png
-C4A
+C4A                               #Play valkyrie's magic charging SFE
 2 p- Magic_003.png
 2 p- Magic_004.png
 2 p- Magic_005.png
@@ -49,7 +54,7 @@ C4A
 3 p- Magic_024.png
 3 p- Magic_025.png
 3 p- Magic_026.png
-C25
+C25                               #Play wing flap SFE
 2 p- Magic_027.png
 1 p- Magic_028.png
 1 p- Magic_029.png
@@ -57,21 +62,21 @@ C25
 3 p- Magic_031.png
 6 p- Magic_032.png
 2 p- Magic_033.png
-C25
+C25                               #Play wing flap SFE
 8 p- Magic_034.png
 4 p- Magic_035.png
 3 p- Magic_036.png
 25 p- Magic_037.png
 1 p- Magic_038.png
 6 p- Magic_039.png
-C05
-L
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
 2 p- Magic_040.png
 2 p- Magic_041.png
 2 p- Magic_042.png
 2 p- Magic_043.png
 2 p- Magic_044.png
-C01
+C01                               #LOOPEND }  NOP
 4 p- Magic_045.png
 12 p- Magic_046.png
 2 p- Magic_047.png
@@ -79,16 +84,16 @@ C01
 4 p- Magic_049.png
 5 p- Magic_001.png
 7 p- Magic_000.png
-C06
-C0D
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 3
-C03
-C07
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Magic_000.png
 3 p- Magic_001.png
 12 p- Magic_002.png
-C28
+C28                               #Play electrical charging SFE
 3 p- Magic_050.png
 3 p- Magic_004.png
 3 p- Magic_051.png
@@ -141,7 +146,7 @@ C28
 3 p- Magic_024.png
 3 p- Magic_025.png
 3 p- Magic_026.png
-C25
+C25                               #Play wing flap SFE
 2 p- Magic_027.png
 1 p- Magic_028.png
 1 p- Magic_029.png
@@ -149,21 +154,21 @@ C25
 3 p- Magic_031.png
 6 p- Magic_032.png
 2 p- Magic_033.png
-C25
+C25                               #Play wing flap SFE
 8 p- Magic_034.png
 4 p- Magic_035.png
 3 p- Magic_036.png
 25 p- Magic_037.png
 1 p- Magic_038.png
 6 p- Magic_039.png
-C05
-L
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
 2 p- Magic_040.png
 2 p- Magic_041.png
 2 p- Magic_042.png
 2 p- Magic_043.png
 2 p- Magic_044.png
-C01
+C01                               #LOOPEND }  NOP
 4 p- Magic_045.png
 12 p- Magic_046.png
 2 p- Magic_047.png
@@ -171,16 +176,16 @@ C01
 4 p- Magic_049.png
 5 p- Magic_001.png
 7 p- Magic_000.png
-C06
-C0D
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 5
-C03
-C07
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Magic_000.png
 3 p- Magic_001.png
 12 p- Magic_002.png
-C4A
+C4A                               #Play valkyrie's magic charging SFE
 2 p- Magic_003.png
 2 p- Magic_004.png
 2 p- Magic_005.png
@@ -225,7 +230,7 @@ C4A
 3 p- Magic_024.png
 3 p- Magic_025.png
 3 p- Magic_026.png
-C25
+C25                               #Play wing flap SFE
 2 p- Magic_027.png
 1 p- Magic_028.png
 1 p- Magic_029.png
@@ -233,21 +238,21 @@ C25
 3 p- Magic_031.png
 6 p- Magic_032.png
 2 p- Magic_033.png
-C25
+C25                               #Play wing flap SFE
 8 p- Magic_034.png
 4 p- Magic_035.png
 3 p- Magic_036.png
 25 p- Magic_037.png
 1 p- Magic_038.png
 6 p- Magic_039.png
-C05
-L
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
 2 p- Magic_040.png
 2 p- Magic_041.png
 2 p- Magic_042.png
 2 p- Magic_043.png
 2 p- Magic_044.png
-C01
+C01                               #LOOPEND }  NOP
 4 p- Magic_045.png
 12 p- Magic_046.png
 2 p- Magic_047.png
@@ -255,16 +260,16 @@ C01
 4 p- Magic_049.png
 5 p- Magic_001.png
 7 p- Magic_000.png
-C06
-C0D
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 6
-C03
-C07
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Magic_000.png
 3 p- Magic_001.png
 12 p- Magic_002.png
-C28
+C28                               #Play electrical charging SFE
 3 p- Magic_050.png
 3 p- Magic_004.png
 3 p- Magic_051.png
@@ -317,7 +322,7 @@ C28
 3 p- Magic_024.png
 3 p- Magic_025.png
 3 p- Magic_026.png
-C25
+C25                               #Play wing flap SFE
 2 p- Magic_027.png
 1 p- Magic_028.png
 1 p- Magic_029.png
@@ -325,21 +330,21 @@ C25
 3 p- Magic_031.png
 6 p- Magic_032.png
 2 p- Magic_033.png
-C25
+C25                               #Play wing flap SFE
 8 p- Magic_034.png
 4 p- Magic_035.png
 3 p- Magic_036.png
 25 p- Magic_037.png
 1 p- Magic_038.png
 6 p- Magic_039.png
-C05
-L
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
 2 p- Magic_040.png
 2 p- Magic_041.png
 2 p- Magic_042.png
 2 p- Magic_043.png
 2 p- Magic_044.png
-C01
+C01                               #LOOPEND }  NOP
 4 p- Magic_045.png
 12 p- Magic_046.png
 2 p- Magic_047.png
@@ -347,48 +352,48 @@ C01
 4 p- Magic_049.png
 5 p- Magic_001.png
 7 p- Magic_000.png
-C06
-C0D
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 7
-C02
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
 1 p- Magic_000.png
-C0E
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Magic_068.png
 1 p- Magic_069.png
-C01
+C01                               #NOP
 3 p- Magic_068.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 8
-C02
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
 1 p- Magic_000.png
-C0E
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Magic_068.png
 1 p- Magic_069.png
-C01
+C01                               #NOP
 3 p- Magic_068.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 9
+/// - Mode 9               #Equiped with Melee Weapon
 1 p- Magic_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 10
+/// - Mode 10               #Standing motions
 1 p- Magic_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 11
+/// - Mode 11               #Equiped with Ranged weapon
 1 p- Magic_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 12
-C03
-C07
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Magic_000.png
 3 p- Magic_001.png
 12 p- Magic_002.png
-C4A
+C4A                               #Play valkyrie's magic charging SFE
 3 p- Magic_003.png
 3 p- Magic_004.png
 3 p- Magic_005.png
@@ -433,7 +438,7 @@ C4A
 3 p- Magic_024.png
 3 p- Magic_025.png
 3 p- Magic_026.png
-C25
+C25                               #Play wing flap SFE
 2 p- Magic_027.png
 1 p- Magic_028.png
 1 p- Magic_029.png
@@ -441,21 +446,21 @@ C25
 3 p- Magic_031.png
 6 p- Magic_032.png
 2 p- Magic_033.png
-C25
+C25                               #Play wing flap SFE
 6 p- Magic_034.png
 4 p- Magic_035.png
 3 p- Magic_036.png
 6 p- Magic_037.png
 3 p- Magic_038.png
 6 p- Magic_039.png
-C05
-L
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
 2 p- Magic_040.png
 2 p- Magic_041.png
 2 p- Magic_042.png
 2 p- Magic_043.png
 2 p- Magic_044.png
-C01
+C01                               #LOOPEND }  NOP
 4 p- Magic_045.png
 8 p- Magic_046.png
 2 p- Magic_047.png
@@ -463,7 +468,7 @@ C01
 3 p- Magic_049.png
 3 p- Magic_001.png
 3 p- Magic_000.png
-C06
-C0D
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

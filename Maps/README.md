@@ -176,7 +176,7 @@
 
 # Map Pack Nobles {Blue Druid} (2)
 
-
+![forest temple concept map.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20Nobles%20%7BBlue%20Druid%7D%20(2)/forest%20temple%20concept%20map.png "forest temple concept map.png")![forest temple concept map_fog.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20Nobles%20%7BBlue%20Druid%7D%20(2)/forest%20temple%20concept%20map_fog.png "forest temple concept map_fog.png")![huge castle.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20Nobles%20%7BBlue%20Druid%7D%20(2)/huge%20castle.png "huge castle.png")![huge castle_fog.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20Nobles%20%7BBlue%20Druid%7D%20(2)/huge%20castle_fog.png "huge castle_fog.png")
 
 </details>
 
@@ -546,7 +546,7 @@
 
 # Map Pack {Regi} (5)
 
-
+![Castle #1.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Castle%20#1.png "Castle #1.png")![Castle #1_fog.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Castle%20#1_fog.png "Castle #1_fog.png")![Castle #2.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Castle%20#2.png "Castle #2.png")![Castle #2_fog.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Castle%20#2_fog.png "Castle #2_fog.png")![Kotaro's Ninja Cave.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Kotaro's%20Ninja%20Cave.png "Kotaro's Ninja Cave.png")![Kotaro's Ninja Cave_fog.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Kotaro's%20Ninja%20Cave_fog.png "Kotaro's Ninja Cave_fog.png")![Mountain Range.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Mountain%20Range.png "Mountain Range.png")![Mountain Range_fog.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Mountain%20Range_fog.png "Mountain Range_fog.png")![Old Fort.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Old%20Fort.png "Old Fort.png")![Old Fort_fog.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Maps/Map%20Pack%20%7BRegi%7D%20(5)/Old%20Fort_fog.png "Old Fort_fog.png")
 
 </details>
 

@@ -8,4 +8,6 @@
 
 ## Credit
 
+Vanilla animation by IS.
 
+Athos staff variant by Alice.

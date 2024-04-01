@@ -11,3 +11,5 @@
 Original Druid by IS.
 
 Hoodless variant by Jey the Count.
+
+Athos staff variant by Alice.

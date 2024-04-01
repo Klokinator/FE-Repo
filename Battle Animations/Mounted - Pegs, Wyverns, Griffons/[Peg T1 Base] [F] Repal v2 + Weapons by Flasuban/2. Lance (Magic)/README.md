@@ -11,3 +11,5 @@
 Sword/Lance/Axe/Handaxe/Unarmed/Repalette by Flasuban.
 
 Unarmed palette fix by UltraFenix.
+
+Magic by UltraFenix, using Light Mage by Leo_link and L95 as base.

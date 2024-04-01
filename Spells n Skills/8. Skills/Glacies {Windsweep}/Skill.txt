@@ -1,0 +1,12 @@
+S0123 #play sound SE:Fimbulvetr ice
+1 Skill_g000.png
+1 Skill_g001.png
+1 Skill_g002.png
+1 Skill_g003.png
+1 Skill_g004.png
+1 Skill_g005.png
+1 Skill_g006.png
+1 Skill_g007.png
+1 Skill_g008.png
+1 Skill_g009.png
+30 Skill_g010.png

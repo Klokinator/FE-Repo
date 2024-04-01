@@ -1,0 +1,13 @@
+S00F1 #play sound SE:Fire charge @C85_3E
+3 Skill_g000.png
+2 Skill_g001.png
+2 Skill_g002.png
+2 Skill_g003.png
+2 Skill_g004.png
+2 Skill_g005.png
+2 Skill_g006.png
+2 Skill_g007.png
+2 Skill_g008.png
+3 Skill_g009.png
+3 Skill_g010.png
+3 Skill_g011.png

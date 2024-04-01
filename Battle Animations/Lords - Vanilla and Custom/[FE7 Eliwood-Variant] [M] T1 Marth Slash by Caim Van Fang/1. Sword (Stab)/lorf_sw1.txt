@@ -1,0 +1,245 @@
+#######################################################
+#09 lorf_sw1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- lorf_sw1_000.png
+2 p- lorf_sw1_001.png
+2 p- lorf_sw1_001.png
+6 p- lorf_sw1_002.png
+C43                               #Play weapon stance SFE (Clicking noise)
+10 p- lorf_sw1_003.png
+C22                               #Play short sword swinging SFE
+2 p- lorf_sw1_004.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- lorf_sw1_005.png
+C01                               #NOP
+5 p- lorf_sw1_006.png
+4 p- lorf_sw1_007.png
+C22                               #Play short sword swinging SFE
+2 p- lorf_sw1_008.png
+2 p- lorf_sw1_009.png
+1 p- lorf_sw1_010.png
+1 p- lorf_sw1_011.png
+1 p- lorf_sw1_012.png
+1 p- lorf_sw1_013.png
+2 p- lorf_sw1_014.png
+C25                               #Play wing flap SFE
+1 p- lorf_sw1_015.png
+2 p- lorf_sw1_016.png
+2 p- lorf_sw1_017.png
+C34                               #Play heavy stepping SFE
+3 p- lorf_sw1_018.png
+1 p- lorf_sw1_019.png
+1 p- lorf_sw1_020.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- lorf_sw1_021.png
+3 p- lorf_sw1_022.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- lorf_sw1_000.png
+2 p- lorf_sw1_001.png
+2 p- lorf_sw1_023.png
+2 p- lorf_sw1_024.png
+2 p- lorf_sw1_025.png
+10 p- lorf_sw1_026.png
+2 p- lorf_sw1_027.png
+2 p- lorf_sw1_028.png
+2 p- lorf_sw1_029.png
+2 p- lorf_sw1_030.png
+2 p- lorf_sw1_031.png
+C44                               #Play short "light emission" SFE
+2 p- lorf_sw1_031.png
+1 p- lorf_sw1_026.png
+1 p- lorf_sw1_030.png
+20 p- lorf_sw1_026.png
+2 p- lorf_sw1_032.png
+2 p- lorf_sw1_033.png
+4 p- lorf_sw1_034.png
+C23                               #Play shorter sword swinging SFE
+3 p- lorf_sw1_035.png
+2 p- lorf_sw1_036.png
+1 p- lorf_sw1_037.png
+1 p- lorf_sw1_038.png
+1 p- lorf_sw1_039.png
+3 p- lorf_sw1_040.png
+7 p- lorf_sw1_041.png
+C23                               #Play shorter sword swinging SFE
+2 p- lorf_sw1_042.png
+2 p- lorf_sw1_043.png
+6 p- lorf_sw1_044.png
+5 p- lorf_sw1_045.png
+4 p- lorf_sw1_046.png
+3 p- lorf_sw1_047.png
+24 p- lorf_sw1_048.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- lorf_sw1_049.png
+6 p- lorf_sw1_050.png
+4 p- lorf_sw1_051.png
+3 p- lorf_sw1_052.png
+3 p- lorf_sw1_053.png
+C22                               #Play short sword swinging SFE
+3 p- lorf_sw1_054.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C09                               #Critical hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- lorf_sw1_005.png
+C01                               #NOP
+5 p- lorf_sw1_006.png
+4 p- lorf_sw1_007.png
+C25                               #Play wing flap SFE
+3 p- lorf_sw1_055.png
+1 p- lorf_sw1_056.png
+2 p- lorf_sw1_057.png
+2 p- lorf_sw1_058.png
+2 p- lorf_sw1_059.png
+2 p- lorf_sw1_060.png
+2 p- lorf_sw1_061.png
+2 p- lorf_sw1_062.png
+2 p- lorf_sw1_063.png
+1 p- lorf_sw1_064.png
+1 p- lorf_sw1_065.png
+1 p- lorf_sw1_066.png
+1 p- lorf_sw1_067.png
+1 p- lorf_sw1_068.png
+1 p- lorf_sw1_069.png
+1 p- lorf_sw1_070.png
+C34                               #Play heavy stepping SFE
+5 p- lorf_sw1_071.png
+4 p- lorf_sw1_072.png
+3 p- lorf_sw1_073.png
+C25                               #Play wing flap SFE
+2 p- lorf_sw1_074.png
+2 p- lorf_sw1_075.png
+2 p- lorf_sw1_076.png
+5 p- lorf_sw1_077.png
+4 p- lorf_sw1_078.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- lorf_sw1_079.png
+2 p- lorf_sw1_080.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- lorf_sw1_000.png
+1 p- lorf_sw1_001.png
+1 p- lorf_sw1_023.png
+1 p- lorf_sw1_024.png
+1 p- lorf_sw1_025.png
+C05                               #Call spell associated with equipped weapon
+1 p- lorf_sw1_026.png
+C01                               #NOP
+2 p- lorf_sw1_025.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- lorf_sw1_024.png
+2 p- lorf_sw1_023.png
+2 p- lorf_sw1_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- lorf_sw1_000.png
+1 p- lorf_sw1_001.png
+1 p- lorf_sw1_023.png
+1 p- lorf_sw1_024.png
+1 p- lorf_sw1_025.png
+1 p- lorf_sw1_026.png
+2 p- lorf_sw1_026.png
+3 p- lorf_sw1_026.png
+1 p- lorf_sw1_026.png
+2 p- lorf_sw1_026.png
+3 p- lorf_sw1_026.png
+2 p- lorf_sw1_026.png
+2 p- lorf_sw1_026.png
+C05                               #Call spell associated with equipped weapon
+1 p- lorf_sw1_026.png
+C01                               #NOP
+2 p- lorf_sw1_025.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- lorf_sw1_024.png
+2 p- lorf_sw1_023.png
+2 p- lorf_sw1_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- lorf_sw1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- lorf_sw1_081.png
+1 p- lorf_sw1_082.png
+C01                               #NOP
+3 p- lorf_sw1_081.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- lorf_sw1_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- lorf_sw1_081.png
+1 p- lorf_sw1_082.png
+C01                               #NOP
+3 p- lorf_sw1_081.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- lorf_sw1_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- lorf_sw1_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- lorf_sw1_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- lorf_sw1_000.png
+2 p- lorf_sw1_001.png
+2 p- lorf_sw1_001.png
+6 p- lorf_sw1_002.png
+C43                               #Play weapon stance SFE (Clicking noise)
+10 p- lorf_sw1_003.png
+C22                               #Play short sword swinging SFE
+2 p- lorf_sw1_004.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+1 p- lorf_sw1_083.png
+C01                               #NOP
+4 p- lorf_sw1_084.png
+3 p- lorf_sw1_085.png
+2 p- lorf_sw1_086.png
+4 p- lorf_sw1_087.png
+C22                               #Play short sword swinging SFE
+2 p- lorf_sw1_008.png
+2 p- lorf_sw1_009.png
+1 p- lorf_sw1_010.png
+1 p- lorf_sw1_011.png
+1 p- lorf_sw1_012.png
+1 p- lorf_sw1_013.png
+2 p- lorf_sw1_014.png
+C25                               #Play wing flap SFE
+1 p- lorf_sw1_015.png
+2 p- lorf_sw1_016.png
+2 p- lorf_sw1_017.png
+C34                               #Play heavy stepping SFE
+3 p- lorf_sw1_018.png
+1 p- lorf_sw1_019.png
+1 p- lorf_sw1_020.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- lorf_sw1_021.png
+3 p- lorf_sw1_022.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

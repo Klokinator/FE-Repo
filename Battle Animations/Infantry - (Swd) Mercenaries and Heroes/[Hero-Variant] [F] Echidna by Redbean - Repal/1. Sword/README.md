@@ -9,3 +9,5 @@
 ## Credit
 
 {WarPath, Red Bean}
+
+Alt Sword by Seliost1.

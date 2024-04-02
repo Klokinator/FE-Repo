@@ -5,5 +5,7 @@
 
 ## Credits
 
-Animation by Seliost1.
+Sword animation by Seliost1.
+
+Gun animation by Seliost1 and credits to Toa Cazo for the gun sprite.
 

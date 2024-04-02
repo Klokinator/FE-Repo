@@ -8,4 +8,8 @@
 
 ## Credit
 
-Credits are currently in the process of being implemented fully. Please use the names within {} in the title until the work is complete.
+Axe/Handaxe/Unarmed by ReanuKeeves7716
+
+Class Card by ReanuKeeves7716
+
+Map Sprites by ReanuKeeves7716

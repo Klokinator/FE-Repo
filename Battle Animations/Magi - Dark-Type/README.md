@@ -115,10 +115,26 @@
 
 
 
+## [\[Shaman-Reskin\] \[F\] Sophia](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BF%5D%20Sophia) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BF%5D%20Sophia)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BF%5D%20Sophia/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Shaman-Reskin\] \[M\] Hoodless +Staff by Temp](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20%2BStaff%20by%20Temp) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20%2BStaff%20by%20Temp)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Hoodless%20+Staff%20by%20Temp/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Shaman-Reskin\] \[M\] Raigh by HeroDW](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Raigh%20by%20HeroDW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Raigh%20by%20HeroDW)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BShaman-Reskin%5D%20%5BM%5D%20Raigh%20by%20HeroDW/6.%20Magic/Magic.gif"/> |
+| :---: |
 
 
 
@@ -162,6 +178,14 @@
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/7.%20Staff/Staff.gif"/> | <b>Staff (Athos tilt)</b><br/><img alt="Staff (Athos tilt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/7.%20Staff%20(Athos%20tilt)/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Staff (Athos)</b><br/><img alt="Staff (Athos)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Hoodless%20by%20JeyTheCount/7.%20Staff%20(Athos)/Staff.gif"/> |
+
+
+
+
+## [\[T2 Druid-Reskin\] \[M\] Raigh by HeroDW](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Raigh%20by%20HeroDW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Raigh%20by%20HeroDW)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Raigh%20by%20HeroDW/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Reskin%5D%20%5BM%5D%20Raigh%20by%20HeroDW/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 

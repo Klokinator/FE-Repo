@@ -11,3 +11,7 @@
 Made by FlyingAce24.
 
 Improved by Dark Seraph.
+
+Sword (Traditional Ranged) and Sword (Blade Beam) by Seliost1.
+
+Magic animation by Seliost1.

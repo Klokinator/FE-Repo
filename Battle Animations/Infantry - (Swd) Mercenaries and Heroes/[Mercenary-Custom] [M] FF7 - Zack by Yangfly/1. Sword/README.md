@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Lord Zymeth, Yangfly Master.
+
+Sword (Fix) by Seliost1.

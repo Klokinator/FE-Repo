@@ -6,7 +6,9 @@
 
 ## Credits
 
-Still and animation by Red Bean.
+Still by Red Bean.
+
+Animation by Leo_Link.
 
 Script by Nuramon.
 

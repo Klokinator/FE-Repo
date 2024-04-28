@@ -1,0 +1,370 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C000153                               #screen stretching YY
+O Magic_o_000.png
+B Magic_b_001.png
+3
+
+C00F148                               #Sound 241 SE:Fire charge @C85_3E
+O Magic_o_000.png
+B Magic_b_002.png
+4
+
+O Magic_o_000.png
+B Magic_b_003.png
+3
+
+O Magic_o_000.png
+B Magic_b_004.png
+2
+
+O Magic_o_000.png
+B Magic_b_005.png
+3
+
+O Magic_o_000.png
+B Magic_b_006.png
+3
+
+O Magic_o_000.png
+B Magic_b_007.png
+3
+
+O Magic_o_000.png
+B Magic_b_008.png
+3
+
+O Magic_o_000.png
+B Magic_b_009.png
+3
+
+O Magic_o_000.png
+B Magic_b_010.png
+3
+
+O Magic_o_000.png
+B Magic_b_011.png
+3
+
+O Magic_o_000.png
+B Magic_b_012.png
+3
+
+C00F948                               #Sound 249 SE:Berserk staff (realtime)
+O Magic_o_000.png
+B Magic_b_013.png
+3
+
+O Magic_o_000.png
+B Magic_b_014.png
+3
+
+O Magic_o_000.png
+B Magic_b_015.png
+3
+
+O Magic_o_000.png
+B Magic_b_016.png
+3
+
+O Magic_o_000.png
+B Magic_b_017.png
+3
+
+O Magic_o_000.png
+B Magic_b_018.png
+3
+
+O Magic_o_000.png
+B Magic_b_019.png
+3
+
+O Magic_o_000.png
+B Magic_b_020.png
+3
+
+O Magic_o_000.png
+B Magic_b_021.png
+3
+
+O Magic_o_000.png
+B Magic_b_022.png
+3
+
+O Magic_o_000.png
+B Magic_b_023.png
+3
+
+O Magic_o_000.png
+B Magic_b_024.png
+3
+
+O Magic_o_000.png
+B Magic_b_025.png
+3
+
+O Magic_o_000.png
+B Magic_b_026.png
+3
+
+O Magic_o_000.png
+B Magic_b_027.png
+3
+
+O Magic_o_000.png
+B Magic_b_028.png
+3
+
+O Magic_o_000.png
+B Magic_b_029.png
+3
+
+O Magic_o_000.png
+B Magic_b_030.png
+3
+
+O Magic_o_000.png
+B Magic_b_031.png
+3
+
+O Magic_o_000.png
+B Magic_b_032.png
+3
+
+O Magic_o_000.png
+B Magic_b_033.png
+3
+
+O Magic_o_000.png
+B Magic_b_034.png
+3
+
+O Magic_o_000.png
+B Magic_b_035.png
+3
+
+O Magic_o_000.png
+B Magic_b_036.png
+3
+
+O Magic_o_000.png
+B Magic_b_037.png
+3
+
+O Magic_o_000.png
+B Magic_b_038.png
+3
+
+O Magic_o_000.png
+B Magic_b_039.png
+3
+
+O Magic_o_000.png
+B Magic_b_040.png
+3
+
+O Magic_o_000.png
+B Magic_b_041.png
+3
+
+O Magic_o_000.png
+B Magic_b_042.png
+3
+
+O Magic_o_000.png
+B Magic_b_043.png
+3
+
+O Magic_o_000.png
+B Magic_b_044.png
+3
+
+O Magic_o_000.png
+B Magic_b_045.png
+3
+
+O Magic_o_000.png
+B Magic_b_046.png
+3
+
+O Magic_o_000.png
+B Magic_b_047.png
+3
+
+O Magic_o_000.png
+B Magic_b_048.png
+3
+
+O Magic_o_000.png
+B Magic_b_049.png
+3
+
+O Magic_o_000.png
+B Magic_b_050.png
+3
+
+O Magic_o_000.png
+B Magic_b_051.png
+3
+
+O Magic_o_000.png
+B Magic_b_052.png
+3
+
+O Magic_o_000.png
+B Magic_b_053.png
+3
+
+O Magic_o_000.png
+B Magic_b_054.png
+3
+
+O Magic_o_000.png
+B Magic_b_055.png
+3
+
+O Magic_o_000.png
+B Magic_b_056.png
+3
+
+O Magic_o_000.png
+B Magic_b_057.png
+3
+
+O Magic_o_000.png
+B Magic_b_058.png
+3
+
+O Magic_o_000.png
+B Magic_b_059.png
+3
+
+O Magic_o_000.png
+B Magic_b_060.png
+3
+
+O Magic_o_000.png
+B Magic_b_061.png
+3
+
+O Magic_o_000.png
+B Magic_b_062.png
+3
+
+O Magic_o_000.png
+B Magic_b_063.png
+3
+
+O Magic_o_000.png
+B Magic_b_064.png
+3
+
+C00F248                               #Sound 242 SE:Fire shoot
+O Magic_o_000.png
+B Magic_b_065.png
+3
+
+O Magic_o_000.png
+B Magic_b_066.png
+3
+
+O Magic_o_000.png
+B Magic_b_067.png
+3
+
+O Magic_o_000.png
+B Magic_b_068.png
+3
+
+O Magic_o_000.png
+B Magic_b_069.png
+3
+
+O Magic_o_000.png
+B Magic_b_070.png
+3
+
+O Magic_o_000.png
+B Magic_b_071.png
+3
+
+O Magic_o_000.png
+B Magic_b_072.png
+3
+
+O Magic_o_000.png
+B Magic_b_073.png
+3
+
+O Magic_o_000.png
+B Magic_b_074.png
+3
+
+O Magic_o_000.png
+B Magic_b_075.png
+3
+
+O Magic_o_000.png
+B Magic_b_076.png
+3
+
+C000039                               #Sacred Flash. White screen flash.
+C00001A                               #Required before 1F or miss termination branch
+~~~                               #miss terminator
+C012948                               #Sound 297 SE:Divine strike
+C00001F                               #Play a hit tone (requires 1A just before)
+O Magic_o_000.png
+B Magic_b_077.png
+8
+
+C012348                               #Sound 291 SE:Fimbulvetr ice
+O Magic_o_000.png
+B Magic_b_078.png
+10
+
+O Magic_o_000.png
+B Magic_b_079.png
+2
+
+O Magic_o_000.png
+B Magic_b_080.png
+1
+
+O Magic_o_000.png
+B Magic_b_081.png
+1
+
+O Magic_o_000.png
+B Magic_b_082.png
+2
+
+O Magic_o_000.png
+B Magic_b_083.png
+2
+
+O Magic_o_000.png
+B Magic_b_084.png
+2
+
+O Magic_o_000.png
+B Magic_b_085.png
+2
+
+O Magic_o_000.png
+B Magic_b_086.png
+2
+
+O Magic_o_000.png
+B Magic_b_087.png
+2
+
+C000053                               #screen stretching YY
+/// - End of animation

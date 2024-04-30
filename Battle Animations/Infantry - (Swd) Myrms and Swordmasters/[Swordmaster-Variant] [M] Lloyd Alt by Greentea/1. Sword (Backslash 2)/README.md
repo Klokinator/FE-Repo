@@ -11,3 +11,5 @@
 Made by Greentea. 
 
 Scripting by DerTheVaporeon.
+
+1. Sword (Alt) by Seliost1 and rain knife.

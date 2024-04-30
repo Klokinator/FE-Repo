@@ -1,0 +1,51 @@
+/// - Mode 1
+3 p- Return_000.png
+3 p- Return_001.png
+3 p- Return_002.png
+3 p- Return_003.png
+3 p- Return_004.png
+3 p- Return_005.png
+3 p- Return_006.png
+3 p- Return_007.png
+3 p- Return_008.png
+3 p- Return_009.png
+3 p- Return_010.png
+3 p- Return_011.png
+3 p- Return_012.png
+C34
+3 p- Return_013.png
+3 p- Return_014.png
+3 p- Return_015.png
+3 p- Return_016.png
+3 p- Return_017.png
+3 p- Return_018.png
+3 p- Return_019.png
+~~~
+/// - Mode 3
+4 p- Return_000.png
+~~~
+/// - Mode 5
+4 p- Return_000.png
+~~~
+/// - Mode 6
+4 p- Return_000.png
+~~~
+/// - Mode 7
+4 p- Return_000.png
+~~~
+/// - Mode 8
+4 p- Return_000.png
+~~~
+/// - Mode 9
+4 p- Return_000.png
+~~~
+/// - Mode 10
+4 p- Return_000.png
+~~~
+/// - Mode 11
+4 p- Return_000.png
+~~~
+/// - Mode 12
+4 p- Return_000.png
+~~~
+/// - End of animation

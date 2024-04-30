@@ -1,0 +1,144 @@
+#######################################################
+#
+#When importing to CSA_Creator delete # and after each line.
+#######################################################
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000000                               #NOP
+C000040                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C000153                               #screen stretching YY
+O Magic_o_000.png
+B Magic_b_001.png
+3
+
+C00F148                               #Sound 241 SE:Fire charge @C85_3E
+O Magic_o_000.png
+B Magic_b_002.png
+4
+
+O Magic_o_000.png
+B Magic_b_003.png
+3
+
+O Magic_o_000.png
+B Magic_b_004.png
+2
+
+O Magic_o_000.png
+B Magic_b_005.png
+3
+
+O Magic_o_000.png
+B Magic_b_006.png
+3
+
+O Magic_o_000.png
+B Magic_b_007.png
+3
+
+O Magic_o_000.png
+B Magic_b_008.png
+3
+
+O Magic_o_000.png
+B Magic_b_009.png
+3
+
+O Magic_o_000.png
+B Magic_b_010.png
+3
+
+O Magic_o_000.png
+B Magic_b_011.png
+3
+
+O Magic_o_000.png
+B Magic_b_012.png
+3
+
+C02C048                               #Sound 704 SE:Excalibur cutting
+O Magic_o_000.png
+B Magic_b_013.png
+3
+
+O Magic_o_000.png
+B Magic_b_014.png
+3
+
+O Magic_o_000.png
+B Magic_b_015.png
+3
+
+O Magic_o_000.png
+B Magic_b_016.png
+3
+
+O Magic_o_000.png
+B Magic_b_017.png
+3
+
+O Magic_o_000.png
+B Magic_b_018.png
+3
+
+O Magic_o_000.png
+B Magic_b_018.png
+3
+
+O Magic_o_000.png
+B Magic_b_019.png
+3
+
+C00001A                               #Required before 1F or miss termination branch
+~~~                               #miss terminator
+C012948                               #Sound 297 SE:Divine strike
+C00001F                               #Play a hit tone (requires 1A just before)
+O Magic_o_000.png
+B Magic_b_020.png
+8
+
+C012348                               #Sound 291 SE:Fimbulvetr ice
+O Magic_o_000.png
+B Magic_b_021.png
+10
+
+O Magic_o_000.png
+B Magic_b_022.png
+2
+
+O Magic_o_000.png
+B Magic_b_023.png
+1
+
+O Magic_o_000.png
+B Magic_b_024.png
+1
+
+O Magic_o_000.png
+B Magic_b_025.png
+2
+
+O Magic_o_000.png
+B Magic_b_026.png
+2
+
+O Magic_o_000.png
+B Magic_b_027.png
+2
+
+O Magic_o_000.png
+B Magic_b_028.png
+2
+
+O Magic_o_000.png
+B Magic_b_029.png
+2
+
+O Magic_o_000.png
+B Magic_b_030.png
+2
+
+C000053                               #screen stretching YY
+/// - End of animation

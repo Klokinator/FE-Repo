@@ -15,3 +15,5 @@ Sword by Zane Avernathy.
 Axe (Punch Crit) by Vilkalizer.
 
 Broadsword by Seliost1.
+
+Handaxe (Alt) by Seliost1.

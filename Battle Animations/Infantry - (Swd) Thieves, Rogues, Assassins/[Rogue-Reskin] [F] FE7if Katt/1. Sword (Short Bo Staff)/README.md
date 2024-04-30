@@ -9,3 +9,5 @@
 ## Credit
 
 Made by the creators of FE7if.
+
+Ranged animation by Seliost1.

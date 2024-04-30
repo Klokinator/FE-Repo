@@ -11,3 +11,5 @@
 Animation made by the FE7if devs.
 
 Fixed animations by (???)
+
+All ranged animations by Seliost1.

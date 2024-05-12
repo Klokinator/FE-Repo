@@ -1,5 +1,5 @@
 #######################################################
-#EA lorm_sp1 Swordmaster Anima
+#CE lorm_sp1 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -23,7 +23,7 @@ C07                               #Start attack animation; need 03 right before 
 C28                               #Play electrical charging SFE
 2 p- Magic_002.png
 2 p- Magic_003.png
-2 p- Magic_002.png
+2 p- Magic_004.png
 2 p- Magic_004.png
 2 p- Magic_002.png
 2 p- Magic_005.png
@@ -38,13 +38,13 @@ C28                               #Play electrical charging SFE
 2 p- Magic_002.png
 2 p- Magic_010.png
 2 p- Magic_002.png
-2 p- Magic_011.png
-2 p- Magic_002.png
-2 p- Magic_011.png
+2 p- Magic_010.png
 2 p- Magic_002.png
 2 p- Magic_010.png
 2 p- Magic_002.png
-2 p- Magic_009.png
+2 p- Magic_011.png
+2 p- Magic_002.png
+2 p- Magic_012.png
 2 p- Magic_002.png
 2 p- Magic_012.png
 C05                               #Call spell associated with equipped weapon
@@ -86,13 +86,13 @@ C28                               #Play electrical charging SFE
 2 p- Magic_002.png
 2 p- Magic_009.png
 2 p- Magic_002.png
-2 p- Magic_010.png
-2 p- Magic_002.png
-2 p- Magic_011.png
-2 p- Magic_002.png
 2 p- Magic_011.png
 2 p- Magic_002.png
 2 p- Magic_010.png
+2 p- Magic_002.png
+2 p- Magic_010.png
+2 p- Magic_002.png
+2 p- Magic_011.png
 2 p- Magic_002.png
 2 p- Magic_009.png
 2 p- Magic_002.png

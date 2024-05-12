@@ -11,3 +11,5 @@
 Made by the FE7if devs.
 
 Sword by Seliost1.
+
+Scythe Alt Crit by Seliost1.

@@ -2,7 +2,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/1.%20Sword/Sword.gif"/> | <b>Sword (Shirayuki)</b><br/><img alt="Sword (Shirayuki)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/1.%20Sword%20(Shirayuki)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow (Magic Bow)</b><br/><img alt="Bow (Magic Bow)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/5.%20Bow%20(Magic%20Bow)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Karla/8.%20Unarmed/Unarmed.gif"/> |
 
 ## Credits
 
@@ -11,4 +11,6 @@ Made by the developers of FE7if.
 More accurate bow version by Seliost1.
 
 Unarmed by Seliost1.
+
+Magic Bow by Seliost1.
 

@@ -13,3 +13,5 @@ Made by the developers of FE7if.
 More accurate bow version by Seliost1.
 
 Unarmed by Seliost1.
+
+Magic Bow by Seliost1.

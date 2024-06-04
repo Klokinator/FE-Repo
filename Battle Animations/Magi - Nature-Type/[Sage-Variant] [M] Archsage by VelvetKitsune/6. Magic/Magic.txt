@@ -1,0 +1,192 @@
+#######################################################
+#8C Archer Ballista
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_001.png
+C2E                               #Show sage's normal magic rune drawing animation
+C3D                               #FE7:Show Nergal's dark aura animation
+C49                               #Play sage's magic firing SFE
+4 p- Magic_002.png
+4 p- Magic_003.png
+4 p- Magic_004.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_005.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_006.png
+C01                               #NOP
+4 p- Magic_007.png
+4 p- Magic_008.png
+4 p- Magic_009.png
+4 p- Magic_010.png
+4 p- Magic_011.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_012.png
+4 p- Magic_013.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_014.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_015.png
+C2E                               #Show sage's normal magic rune drawing animation
+C3D                               #FE7:Show Nergal's dark aura animation
+C49                               #Play sage's magic firing SFE
+4 p- Magic_016.png
+4 p- Magic_017.png
+4 p- Magic_018.png
+C50                               #FE7:Nergal's critical
+20 p- Magic_019.png
+20 p- Magic_020.png
+20 p- Magic_021.png
+20 p- Magic_022.png
+4 p- Magic_023.png
+4 p- Magic_024.png
+4 p- Magic_025.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_026.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_027.png
+C01                               #NOP
+4 p- Magic_028.png
+4 p- Magic_029.png
+4 p- Magic_030.png
+4 p- Magic_031.png
+4 p- Magic_032.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_033.png
+4 p- Magic_034.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_035.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_036.png
+C2E                               #Show sage's normal magic rune drawing animation
+C3D                               #FE7:Show Nergal's dark aura animation
+C49                               #Play sage's magic firing SFE
+4 p- Magic_037.png
+4 p- Magic_038.png
+4 p- Magic_039.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_040.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_041.png
+C01                               #NOP
+4 p- Magic_042.png
+4 p- Magic_043.png
+4 p- Magic_044.png
+4 p- Magic_045.png
+4 p- Magic_046.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_047.png
+4 p- Magic_048.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_049.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_050.png
+C2E                               #Show sage's normal magic rune drawing animation
+C3D                               #FE7:Show Nergal's dark aura animation
+C49                               #Play sage's magic firing SFE
+4 p- Magic_051.png
+4 p- Magic_052.png
+4 p- Magic_053.png
+C50                               #FE7:Nergal's critical
+20 p- Magic_054.png
+20 p- Magic_055.png
+20 p- Magic_056.png
+20 p- Magic_057.png
+4 p- Magic_058.png
+4 p- Magic_059.png
+4 p- Magic_060.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_061.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_062.png
+C01                               #NOP
+4 p- Magic_063.png
+4 p- Magic_064.png
+4 p- Magic_065.png
+4 p- Magic_066.png
+4 p- Magic_067.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_068.png
+4 p- Magic_069.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+4 p- Magic_070.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Magic_071.png
+C01                               #NOP
+4 p- Magic_072.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+4 p- Magic_073.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Magic_074.png
+C01                               #NOP
+4 p- Magic_075.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+4 p- Magic_076.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+4 p- Magic_077.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+4 p- Magic_078.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_079.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_080.png
+C2E                               #Show sage's normal magic rune drawing animation
+C3D                               #FE7:Show Nergal's dark aura animation
+C49                               #Play sage's magic firing SFE
+4 p- Magic_081.png
+4 p- Magic_082.png
+4 p- Magic_083.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_084.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_085.png
+C01                               #NOP
+4 p- Magic_086.png
+4 p- Magic_087.png
+4 p- Magic_088.png
+4 p- Magic_089.png
+4 p- Magic_090.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Magic_091.png
+4 p- Magic_092.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

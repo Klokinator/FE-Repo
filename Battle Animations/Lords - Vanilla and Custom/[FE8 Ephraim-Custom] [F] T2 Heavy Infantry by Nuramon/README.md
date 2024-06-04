@@ -13,5 +13,5 @@ Female variant by ZoramineFae.
 
 Excalibur Recolored Sword, by Mysterious Dancer.
 
-Excalibur Recolored Sword, Flashy Crit, by Mysterious Dancer.
+Excalibur Recolored Sword, Flashy Crit, by Sax Knight.
 

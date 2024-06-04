@@ -12,5 +12,5 @@ Magic Jeorge_Reds.
 
 Staff by ShadowOfChaos, fixes by UltraxBlade.
 
-Bow animation by Flasuban, Knabepicer, and Nuramon.
+Bow animation (Falcoknight v2) by Flasuban, Knabepicer, and Nuramon. Vanilla style Bow by RiriK
 

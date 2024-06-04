@@ -9,5 +9,5 @@
 
 Animation by Nura.
 
-Aura Crit inspired by Mysterious Dancer and made by Seliost1.
+Aura Crit inspired by Sax Knight and made by Seliost1.
 

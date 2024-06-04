@@ -24,6 +24,14 @@
 
 
 
+## [\[Mage-Base\] \[M\] Repal by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Repal%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Repal%20by%20UltraFenix)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Repal%20by%20UltraFenix/Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Mage-Base\] \[M\] Vanilla FE6 +Fix by Shin19](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20%2BFix%20by%20Shin19) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20%2BFix%20by%20Shin19)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fix%20by%20Shin19/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Vanilla%20FE6%20+Fix%20by%20Shin19/6.%20Magic%20(Fixed)/Magic.gif"/> |
@@ -224,6 +232,14 @@
 
 
 
+## [\[Mage-Reskin\] \[M\] Hatless Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repal)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repal/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Mage-Reskin\] \[M\] Lugh by HeroDW](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Lugh%20by%20HeroDW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Lugh%20by%20HeroDW)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Lugh%20by%20HeroDW/6.%20Magic/Magic.gif"/> |
@@ -389,6 +405,14 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Magistra%20by%20Cynon/6.%20Magic/Magic.gif"/> | <b>Magic (Black Eyes)</b><br/><img alt="Magic (Black Eyes)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Magistra%20by%20Cynon/6.%20Magic%20(Black%20Eyes)/Magic.gif"/> | <b>Magic (Black Eyes, No Idle)</b><br/><img alt="Magic (Black Eyes, No Idle)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Magistra%20by%20Cynon/6.%20Magic%20(Black%20Eyes,%20No%20Idle)/Magic.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Sage-Custom\] \[F\] Magistra Long Hair](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Magistra%20Long%20Hair) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Magistra%20Long%20Hair)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Magistra%20Long%20Hair/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20%5BF%5D%20Magistra%20Long%20Hair/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 
@@ -663,6 +687,14 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BF%5D%20Speedy%20Sage%20by%20L95%20Repal/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BF%5D%20Speedy%20Sage%20by%20L95%20Repal/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Sage-Variant\] \[M\] Archsage by VelvetKitsune](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BM%5D%20Archsage%20by%20VelvetKitsune) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BM%5D%20Archsage%20by%20VelvetKitsune)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Variant%5D%20%5BM%5D%20Archsage%20by%20VelvetKitsune/6.%20Magic/Magic.gif"/> |
+| :---: |
 
 
 

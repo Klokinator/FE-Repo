@@ -13,3 +13,5 @@ Base still made by Iscaneus.
 Animation and scripting by Nuramon and Jeorge Reds.
 
 Magic by flasuban.
+
+Unarmed with quiver and critical recoil bow edits by Topaz Light.

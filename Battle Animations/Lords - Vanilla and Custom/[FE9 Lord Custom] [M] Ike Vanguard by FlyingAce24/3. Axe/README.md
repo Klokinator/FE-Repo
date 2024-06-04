@@ -11,3 +11,5 @@
 Made by FlyingAce24.
 
 Scripted by Primefusion.
+
+Sword (Default) by Seliost1.

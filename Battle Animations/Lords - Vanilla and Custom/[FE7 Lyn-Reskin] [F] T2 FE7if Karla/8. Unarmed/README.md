@@ -12,6 +12,12 @@ Made by the developers of FE7if.
 
 More accurate bow version by Seliost1.
 
+Sword (Alt) by Seliost1. (Note: The palette does not align with the other animations here.)
+
 Unarmed by Seliost1.
 
 Magic Bow by Seliost1.
+
+Bow (Hope's Arc) by Seliost1. 
+
+Bow (Big Arrow) by Seliost1.

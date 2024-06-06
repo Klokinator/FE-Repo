@@ -5239,6 +5239,22 @@
 
 
 
+
+### [\[Enchanter\] \[F\] Enchanter by Dora Drago](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago)
+
+| <b>Dagger</b><br/><img alt="Dagger" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago/1.%20Dagger/Dagger.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago/8.%20Melee/Melee.gif"/> |
+| :---: | :---: |
+
+
+
+
+### [\[Enchanter\] \[M\] Enchanter by Dora Drago](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago)
+
+| <b>Dagger</b><br/><img alt="Dagger" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago/1.%20Dagger/Dagger.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago/8.%20Melee/Melee.gif"/> |
+| :---: | :---: |
+
+
+
 </details>
 
 
@@ -5598,6 +5614,23 @@
 
 
 
+### [\[Knight-Variant\] \[M\] SALVAGED Barthe](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Barthe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Barthe)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Barthe/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Barthe/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Barthe/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+### [\[Knight-Variant\] \[M\] SALVAGED Bors](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Bors) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Bors)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Bors/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Bors/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Bors/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20%5BM%5D%20SALVAGED%20Bors/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ### [\[Marshall\] \[F\] Zelgius v1](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BF%5D%20Zelgius%20v1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BF%5D%20Zelgius%20v1)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BF%5D%20Zelgius%20v1/1.%20Sword/Sword.gif"/> | <b>Sword (Alondite)</b><br/><img alt="Sword (Alondite)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BF%5D%20Zelgius%20v1/1.%20Sword%20(Alondite)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BF%5D%20Zelgius%20v1/8.%20Unarmed/Unarmed.gif"/> |
@@ -5733,6 +5766,15 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Light%20Mage%20Micaiah%20by%20Cipher%20Lee/6.%20Magic/Magic.gif"/> |
 | :---: |
+
+
+
+
+### [\[FE10 Lord Custom\] \[F\] Vanguard Ike](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Vanguard%20Ike) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Vanguard%20Ike)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Vanguard%20Ike/1.%20Sword/Sword.gif"/> | <b>Sword (Ragnell)</b><br/><img alt="Sword (Ragnell)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Vanguard%20Ike/1.%20Sword%20(Ragnell)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Vanguard%20Ike/3.%20Axe/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20%5BF%5D%20Vanguard%20Ike/4.%20Handaxe/Handaxe.gif"/> |
 
 
 
@@ -6277,6 +6319,14 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20Repal%20by%20Sax-Marine/1.%20Sword/Sword.gif"/> | <b>Sword (Sol Katti)</b><br/><img alt="Sword (Sol Katti)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20Repal%20by%20Sax-Marine/1.%20Sword%20(Sol%20Katti)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20Repal%20by%20Sax-Marine/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Base%5D%20%5BF%5D%20T2%20Vanilla%20Repal%20by%20Sax-Marine/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+### [\[FE7 Lyn-Custom\] \[F\] T2 Durandal by SteamingTofu](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Custom%5D%20%5BF%5D%20T2%20Durandal%20by%20SteamingTofu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Custom%5D%20%5BF%5D%20T2%20Durandal%20by%20SteamingTofu)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Custom%5D%20%5BF%5D%20T2%20Durandal%20by%20SteamingTofu/1.%20Sword/Sword.gif"/> |
+| :---: |
 
 
 
@@ -11638,7 +11688,8 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/2.%20Lance/Lance.gif"/> | <b>Lance (Magic)</b><br/><img alt="Lance (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/2.%20Lance%20(Magic)/Lance.gif"/> |
 | :---: | :---: | :---: |
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/7.%20Staff/Staff.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20T2%20Base%5D%20%5BF%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

@@ -1,3 +1,9 @@
 Tileset based on "Fort FE 7" in Tilesets/Unsorted/Custom Tilesets{FEAWS Collection}/Fort/
 
 Rework and Config by WhatIsAnAubin
+
+(Desert) Made by {Zarg}.
+
+(Nightfall) Made by {Zarg}.
+
+(Sunset) Made by {Zarg}.

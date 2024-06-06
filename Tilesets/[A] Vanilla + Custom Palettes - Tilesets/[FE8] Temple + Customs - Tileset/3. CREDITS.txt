@@ -3,3 +3,5 @@ The Following custom tilesets were made by {Dark}, but they were inspired and ha
 {Gold}, inspired and based on {RandomWizard} tileset.
 {Blue}, inspired and based on {Keymavega} tileset.
 {Light Blue} , inspired and based on {HyperGammaSpaces} tileset.
+
+(Dark) made by {Zarg}.

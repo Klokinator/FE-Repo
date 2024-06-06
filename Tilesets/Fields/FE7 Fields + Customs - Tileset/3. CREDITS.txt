@@ -9,3 +9,9 @@
 Aquamarine Roofs and Gray Mountains were all around FEU, couldn't track the source of the object palette.
 Tried to replicate it using the original palette.
 Ass. Dark
+
+(Autumn) made by {Zarg}.
+
+(Marsh) made by {Zarg}.
+
+(Verdant) made by {Zarg}.

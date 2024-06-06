@@ -1,6 +1,15 @@
-{Gray Floor} and {Pink Floor} made by Dark.
+(Gray Floor and Pink Floor) made by {Dark}.
 
-{Gray Floor + Carpet Variants} tileset inspired by {ZeN2002}.
-{Pink} tileset inspired by {LeifOClaude}.
+(Gray Floor + Carpet Variants) tileset inspired by {ZeN2002}.
 
-{Hallow Castle} made by {MaxTheMagelord}.
+(Pink) tileset inspired by {LeifOClaude}.
+
+(Hallow Castle) made by {MaxTheMagelord}.
+
+(Aqueduct) made by {Zarg}.
+
+(Northern) made by {Zarg}.
+
+(Ominous) made by {Zarg}.
+
+(Twilight) made by {Zarg}.

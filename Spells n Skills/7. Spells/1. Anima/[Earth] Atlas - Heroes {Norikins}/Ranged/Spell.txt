@@ -127,6 +127,7 @@ B Spell_b_030.png
 1
 
 C00001A
+~~~
 C00001F
 C00AF48
 O Spell_o_000.png
@@ -204,6 +205,4 @@ B Spell_b_048.png
 O Spell_o_000.png
 B Spell_b_049.png
 1
-
-~~~
 /// - End of animation

@@ -1,0 +1,140 @@
+/// - Mode 1
+C03
+C07
+1 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+4 p- Axe_003.png
+8 p- Axe_004.png
+C42
+3 p- Axe_005.png
+C04
+2 p- Axe_006.png
+C1A
+C1F
+1 p- Axe_007.png
+C01
+2 p- Axe_008.png
+4 p- Axe_009.png
+2 p- Axe_010.png
+C1B
+4 p- Axe_011.png
+2 p- Axe_012.png
+C1B
+3 p- Axe_013.png
+C06
+4 p- Axe_001.png
+C1B
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_014.png
+2 p- Axe_015.png
+3 p- Axe_016.png
+3 p- Axe_017.png
+C33
+3 p- Axe_018.png
+4 p- Axe_019.png
+6 p- Axe_020.png
+4 p- Axe_019.png
+8 p- Axe_020.png
+4 p- Axe_019.png
+12 p- Axe_020.png
+4 p- Axe_019.png
+2 p- Axe_021.png
+1 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+4 p- Axe_003.png
+8 p- Axe_004.png
+C42
+3 p- Axe_005.png
+C04
+2 p- Axe_006.png
+C21
+C0C
+1 p- Axe_007.png
+C01
+2 p- Axe_008.png
+4 p- Axe_009.png
+2 p- Axe_010.png
+C1B
+4 p- Axe_011.png
+2 p- Axe_012.png
+C1B
+3 p- Axe_013.png
+C06
+4 p- Axe_001.png
+C1B
+C0D
+~~~
+/// - Mode 5
+1 p- Axe_000.png
+~~~
+/// - Mode 6
+1 p- Axe_000.png
+~~~
+/// - Mode 7
+C02
+1 p- Axe_000.png
+C0E
+3 p- Axe_002.png
+1 p- Axe_003.png
+C01
+3 p- Axe_002.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Axe_000.png
+C0E
+3 p- Axe_002.png
+1 p- Axe_003.png
+C01
+3 p- Axe_002.png
+C0D
+~~~
+/// - Mode 9
+1 p- Axe_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Axe_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Axe_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Axe_000.png
+4 p- Axe_001.png
+4 p- Axe_002.png
+4 p- Axe_003.png
+8 p- Axe_004.png
+C42
+3 p- Axe_005.png
+C04
+2 p- Axe_006.png
+1 p- Axe_007.png
+C01
+2 p- Axe_008.png
+4 p- Axe_009.png
+2 p- Axe_010.png
+C1B
+4 p- Axe_011.png
+2 p- Axe_012.png
+C1B
+3 p- Axe_013.png
+C06
+4 p- Axe_001.png
+C1B
+C0D
+~~~
+/// - End of animation

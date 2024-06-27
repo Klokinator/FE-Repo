@@ -18,7 +18,8 @@ const getHeading = (depth = 1) => '#'.repeat(depth)
  */
 const escapeParens = (string) => string.replace(/(?=[()\[\]])/g, '\\')
 
-const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)"
+const DOWNLOAD_BUTTON = "[![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)]"
+const DISCORD_BUTTON = "[![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)"
 
 /**
  * Given anim and weapon objects, generates the README text for an anim weapon folder.
@@ -29,7 +30,7 @@ const DOWNLOAD_BUTTON = "![Download](https://img.shields.io/badge/Download--red?
  * @returns {String}
  */
 const makeWeaponReadmeText = ({anim, weapon, path}) => (
-	`# [${escapeParens(anim.name)}](./) [${DOWNLOAD_BUTTON}](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path).replace("+", "%2B")})
+	`# [${escapeParens(anim.name)}](./) ${DOWNLOAD_BUTTON}(https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/${encodeURIComponent(path).replace("+", "%2B")}) ${DISCORD_BUTTON}
 
 ## ${weapon.type}
 
@@ -68,9 +69,10 @@ ${anim.credits}
 		showWeaponsHeading = true
 	}
 
-    let downloadButton = `[${DOWNLOAD_BUTTON}](${anim.downloadUri})`
+    let downloadButton = `${DOWNLOAD_BUTTON}(${anim.downloadUri})`
+    let discordButton = DISCORD_BUTTON
 
-	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${anim.uri}) ${downloadButton}
+	return (`${getHeading(headingDepth)} [${escapeParens(anim.name)}](${anim.uri}) ${downloadButton} ${discordButton}
 
 ${makeWeaponsContent({anim, currentDir})}
 

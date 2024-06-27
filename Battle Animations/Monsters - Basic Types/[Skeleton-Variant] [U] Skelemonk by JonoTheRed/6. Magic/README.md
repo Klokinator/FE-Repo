@@ -1,4 +1,4 @@
-# [\[Skeleton-Variant\] \[U\] Skelemonk by JonoTheRed](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Basic%20Types%2F%5BSkeleton-Variant%5D%20%5BU%5D%20Skelemonk%20by%20JonoTheRed%2F6.%20Magic)
+# [\[Skeleton-Variant\] \[U\] Skelemonk by JonoTheRed](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Basic%20Types%2F%5BSkeleton-Variant%5D%20%5BU%5D%20Skelemonk%20by%20JonoTheRed%2F6.%20Magic) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 ## Magic
 

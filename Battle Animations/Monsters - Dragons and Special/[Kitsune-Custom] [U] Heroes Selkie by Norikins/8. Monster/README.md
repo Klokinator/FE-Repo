@@ -1,4 +1,4 @@
-# [\[Kitsune-Custom\] \[U\] Heroes Selkie by Norikins](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BKitsune-Custom%5D%20%5BU%5D%20Heroes%20Selkie%20by%20Norikins%2F8.%20Monster)
+# [\[Kitsune-Custom\] \[U\] Heroes Selkie by Norikins](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BKitsune-Custom%5D%20%5BU%5D%20Heroes%20Selkie%20by%20Norikins%2F8.%20Monster) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 ## Monster
 

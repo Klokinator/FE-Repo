@@ -1,6 +1,8 @@
 # The Community-Maintained Fire Emblem Graphics Repository
 
-# [Join the Fire Emblem Resource Repository Discord today!](https://discord.gg/C7VNGnyTPA)
+<a href="https://discord.gg/C7VNGnyTPA">
+  <img src="repo-tools/Discord.png" alt="Join the Fire Emblem Resource Repository Discord today!">
+</a>
 
 This is a public free to use and (sometimes) free to edit repository of graphics for [Fire Emblem Rom Modding](https://feuniverse.us/t/fe-builder-gba-if-you-have-any-questions-attach-report7z/2845), [Tactile Game Creation](https://feuniverse.us/t/tactile-srpg-game-engine-and-fexna/10614), and [Lex Talionis](https://lt-maker.readthedocs.io/) game creation. There are probably other Fire Emblem game creation tools that can use the resources in this repository, too. For a comparison of the major engines, [here's an older post I wrote](https://feuniverse.us/t/romhacking-lex-talionis-tactile-and-srpg-studio-an-engine-comparison-post-which-game-creation-engine-will-best-suit-your-needs/17559) to demonstrate what the major Fire Emblem game creation kits each offer.
 

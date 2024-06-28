@@ -1,8 +1,8 @@
-# The Community-Maintained Fire Emblem Graphics Repository
+# The Communal Fire Emblem Graphics Repository
 
 <p align="center">
   <a href="https://discord.gg/C7VNGnyTPA">
-    <img src="repo-tools/Discord.png" alt="Join the Fire Emblem Resource Repository Discord today!">
+    <img src="repo-tools/Discord.png" alt="Join the Fire Emblem Graphics Repository Discord today!">
   </a>
 </p>
 

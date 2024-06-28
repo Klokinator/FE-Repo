@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.gg/C7VNGnyTPA">
-    <img src="repo-tools/Discord.png" alt="Join the Fire Emblem Graphics Repository Discord today!">
+    <img src="repo-tools/Discord-DL.png" alt="Join the Fire Emblem Graphics Repository Discord today!">
   </a>
 </p>
 

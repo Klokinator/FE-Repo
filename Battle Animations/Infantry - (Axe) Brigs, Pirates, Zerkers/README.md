@@ -24,7 +24,19 @@
 
 
 
+<<<<<<< Updated upstream
 ## [\[Berserker-Base\] \[M\] Vanilla +Magic](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20%2BMagic) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20%2BMagic) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+=======
+## [\[Berseker-Hawkeye\] \[M\] Tights Repal by RRSKAI](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerseker-Hawkeye%5D%20%5BM%5D%20Tights%20Repal%20by%20RRSKAI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerseker-Hawkeye%5D%20%5BM%5D%20Tights%20Repal%20by%20RRSKAI)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerseker-Hawkeye%5D%20%5BM%5D%20Tights%20Repal%20by%20RRSKAI/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerseker-Hawkeye%5D%20%5BM%5D%20Tights%20Repal%20by%20RRSKAI/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerseker-Hawkeye%5D%20%5BM%5D%20Tights%20Repal%20by%20RRSKAI/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Berserker-Base\] \[M\] Vanilla +Magic](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20%2BMagic) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20%2BMagic)
+>>>>>>> Stashed changes
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Base%5D%20%5BM%5D%20Vanilla%20+Magic/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
@@ -75,7 +87,19 @@
 
 
 
+<<<<<<< Updated upstream
 ## [\[Berserker-Hawkeye\] \[M\] Hawkzerker by TBA](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+=======
+## [\[Berserker-Hawkeye\] \[F\] Squidsmith by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Squidsmith%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Squidsmith%20by%20Stephano)
+
+| <b>Axe (Hammer)</b><br/><img alt="Axe (Hammer)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Squidsmith%20by%20Stephano/3.%20Axe%20(Hammer)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Squidsmith%20by%20Stephano/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BF%5D%20Squidsmith%20by%20Stephano/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Berserker-Hawkeye\] \[M\] Hawkzerker by TBA](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA)
+>>>>>>> Stashed changes
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Sword (Greatsword)</b><br/><img alt="Sword (Greatsword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/1.%20Sword%20(Greatsword)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BM%5D%20Hawkzerker%20by%20TBA/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
@@ -250,7 +274,7 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/1.%20Sword/Sword.gif"/> | <b>Sword (Alt)</b><br/><img alt="Sword (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/1.%20Sword%20(Alt)/Sword.gif"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/1.%20Sword%20(Durandal)/Sword.gif"/> |
 | :---: | :---: | :---: |
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/3.%20Axe/Axe.gif"/> | <b>Axe (Alt)</b><br/><img alt="Axe (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/3.%20Axe%20(Alt)/Axe.gif"/> | <b>Axe (Armads)</b><br/><img alt="Axe (Armads)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/3.%20Axe%20(Armads)/Axe.gif"/> |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/4.%20Handaxe/Handaxe.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Reskin%5D%20%5BM%5D%20Lizardzerker%20by%20Seliost1/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -419,7 +443,35 @@
 
 
 
+<<<<<<< Updated upstream
 ## [\[Brigand-Reskin\] \[M\] Fully-Clothed Reskin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Reskin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Reskin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+=======
+## [\[Brigand-Reskin\] \[M\] Fully-Clothed Headband Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Headband%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Headband%20Repal)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Headband%20Repal/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Headband%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Headband%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Brigand-Reskin\] \[M\] Fully-Clothed No Headband Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20No%20Headband%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20No%20Headband%20Repal)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20No%20Headband%20Repal/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20No%20Headband%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20No%20Headband%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Brigand-Reskin\] \[M\] Fully-Clothed Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Repal)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Repal/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Brigand-Reskin\] \[M\] Fully-Clothed Reskin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Reskin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Reskin)
+>>>>>>> Stashed changes
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Reskin/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Reskin/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20Reskin/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
@@ -427,7 +479,19 @@
 
 
 
+<<<<<<< Updated upstream
 ## [\[Brigand-Reskin\] \[M\] Gonzalez by HeroDW](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Gonzalez%20by%20HeroDW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Gonzalez%20by%20HeroDW) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+=======
+## [\[Brigand-Reskin\] \[M\] Fully-Clothed V2 Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20V2%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20V2%20Repal)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20V2%20Repal/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20V2%20Repal/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Fully-Clothed%20V2%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Brigand-Reskin\] \[M\] Gonzalez by HeroDW](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Gonzalez%20by%20HeroDW) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Gonzalez%20by%20HeroDW)
+>>>>>>> Stashed changes
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Gonzalez%20by%20HeroDW/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Gonzalez%20by%20HeroDW/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Gonzalez%20by%20HeroDW/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
@@ -468,7 +532,20 @@
 
 
 
+<<<<<<< Updated upstream
 ## [\[Brigand-Reskin\] \[M\] Wolf by CookieMaster](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Wolf%20by%20CookieMaster) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Wolf%20by%20CookieMaster) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+=======
+## [\[Brigand-Reskin\] \[M\] Repal by RRSKAI](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Repal%20by%20RRSKAI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Repal%20by%20RRSKAI)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Repal%20by%20RRSKAI/3.%20Axe/Axe.gif"/> | <b>Axe (Magic)</b><br/><img alt="Axe (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Repal%20by%20RRSKAI/3.%20Axe%20(Magic)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Repal%20by%20RRSKAI/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Repal%20by%20RRSKAI/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Brigand-Reskin\] \[M\] Wolf by CookieMaster](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Wolf%20by%20CookieMaster) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Wolf%20by%20CookieMaster)
+>>>>>>> Stashed changes
 
 | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBrigand-Reskin%5D%20%5BM%5D%20Wolf%20by%20CookieMaster/8.%20Monster/Monster.gif"/> |
 | :---: |

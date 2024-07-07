@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Issac (aka Ken)
+
+Unarmed and 1.Sword (Alt) animation by Seliost1.

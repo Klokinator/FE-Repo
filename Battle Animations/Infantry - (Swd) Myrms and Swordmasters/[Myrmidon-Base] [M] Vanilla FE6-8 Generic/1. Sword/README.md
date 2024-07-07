@@ -9,3 +9,5 @@
 ## Credit
 
 Vanilla animation by IS.
+
+1.Sword and 8.Unarmed (Tail) by Seliost1.

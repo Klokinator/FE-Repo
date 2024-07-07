@@ -1,5 +1,5 @@
 #######################################################
-#06 lorf_sw1 Lord Item
+#09 lorf_sw1 Lord Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

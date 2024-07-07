@@ -1,0 +1,19 @@
+# [\[Berserker-Hawkeye\] \[F\] Squidsmith by Stephano](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Axe)%20Brigs%2C%20Pirates%2C%20Zerkers%2F%5BBerserker-Hawkeye%5D%20%5BF%5D%20Squidsmith%20by%20Stephano%2F3.%20Axe%20(Hammer))
+
+## Axe
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Axe still](./Axe_000.png) | ![Axe](./Axe.gif) |
+
+## Credit
+
+Original Axe\Handaxe animation by Maiser6.
+
+Character and sprite elements by WayForward.
+
+Squidsmith Animation Varient by Stephano.
+
+
+
+

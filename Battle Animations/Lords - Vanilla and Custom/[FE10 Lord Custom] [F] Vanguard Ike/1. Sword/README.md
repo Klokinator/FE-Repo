@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by xxx的戏剧 (xxx Drama).
+
+1.Sword (Ragnell - No Flame Aura).

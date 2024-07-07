@@ -11,3 +11,5 @@
 Animation by Jey.
 
 Alt Magic animation by UltraFenix.
+
+6. Magic (Palette Fix) changes the crit aura palette. (Minor color changes.)

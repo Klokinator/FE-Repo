@@ -1,5 +1,5 @@
 #######################################################
-#CC lorm_sp1 Sniper Ballista
+#06 lorf_sw1 Lord Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

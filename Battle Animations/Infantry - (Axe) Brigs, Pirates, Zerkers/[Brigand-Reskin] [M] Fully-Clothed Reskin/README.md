@@ -7,5 +7,7 @@
 
 Made by Flasuban.
 
-Reskin by UltraFenix.
+Reskin by UltraFenix. 
+
+Note: Unlike V2, where the pants colors use the same palette as the axe, this version uses the hair colors on the pants.
 

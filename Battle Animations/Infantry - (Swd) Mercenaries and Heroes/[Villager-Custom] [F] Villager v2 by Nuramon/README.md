@@ -9,3 +9,5 @@ Still by ErrantShepherd and Nuramon.
 
 Animation by Nuramon.
 
+1. Sword (Blade Beam) by SageHapuiaJDJ.
+

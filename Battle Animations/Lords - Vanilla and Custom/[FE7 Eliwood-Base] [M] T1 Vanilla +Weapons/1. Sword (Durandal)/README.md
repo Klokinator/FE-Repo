@@ -25,3 +25,7 @@ Bat form and animation by An odd Dutch Introvert.
 Alt Sword range by Seliost1.
 
 Magic based on TytheBub's Mage Lord edited by Seliost1.
+
+Sword Slash V3 by Seliost1.
+
+Sword StabV3 by Seliost1.

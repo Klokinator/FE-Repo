@@ -1079,8 +1079,8 @@
 
 ### [\[Berserker-Hawkeye\] \[U\] Horsezerker \(Sword Only\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)/1.%20Sword/Sword.gif"/> |
-| :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Brigs,%20Pirates,%20Zerkers/%5BBerserker-Hawkeye%5D%20%5BU%5D%20Horsezerker%20(Sword%20Only)/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 
@@ -2064,6 +2064,15 @@
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+### [\[Warrior-Variant\] \[M\] Tellius Version - Bartre by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre%20by%20UltraFenix/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre%20by%20UltraFenix/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre%20by%20UltraFenix/5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Axe)%20Fighters%20and%20Warriors/%5BWarrior-Variant%5D%20%5BM%5D%20Tellius%20Version%20-%20Bartre%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -3497,9 +3506,9 @@
 
 ### [\[Hero-Reskin\] \[M\] Long Hair - Coat by Seliost1](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/1.%20Sword/Sword.gif"/> | <b>Sword (Default Sword)</b><br/><img alt="Sword (Default Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/1.%20Sword%20(Default%20Sword)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/3.%20Axe/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/1.%20Sword/Sword.gif"/> | <b>Sword (Default Sword)</b><br/><img alt="Sword (Default Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/1.%20Sword%20(Default%20Sword)/Sword.gif"/> | <b>Lance (whip)</b><br/><img alt="Lance (whip)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/2.%20Lance%20(whip)/Lance.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20%5BM%5D%20Long%20Hair%20-%20Coat%20by%20Seliost1/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -4768,9 +4777,9 @@
 
 ### [\[Swordmaster-Variant\] \[M\] Trueblade by Cybaster](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Range 2)</b><br/><img alt="Sword (Alt Range 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword%20(Alt%20Range%202)/Sword.gif"/> | <b>Sword (Alt Range)</b><br/><img alt="Sword (Alt Range)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword%20(Alt%20Range)/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Attack)</b><br/><img alt="Sword (Alt Attack)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword%20(Alt%20Attack)/Sword.gif"/> | <b>Sword (Alt Range 2)</b><br/><img alt="Sword (Alt Range 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword%20(Alt%20Range%202)/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword (Alt Range)</b><br/><img alt="Sword (Alt Range)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword%20(Alt%20Range)/Sword.gif"/> | <b>Sword (Astra)</b><br/><img alt="Sword (Astra)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/1.%20Sword%20(Astra)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20%5BM%5D%20Trueblade%20by%20Cybaster/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -7594,6 +7603,14 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BF%5D%20Repal%20by%20Eldritch/6.%20Magic/Magic.gif"/> |
 | :---: |
+
+
+
+
+### [\[Monk-Base\] \[M\] Repal + Staff by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20%2B%20Staff%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20%2B%20Staff%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20+%20Staff%20by%20UltraFenix/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Base%5D%20%5BM%5D%20Repal%20+%20Staff%20by%20UltraFenix/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 

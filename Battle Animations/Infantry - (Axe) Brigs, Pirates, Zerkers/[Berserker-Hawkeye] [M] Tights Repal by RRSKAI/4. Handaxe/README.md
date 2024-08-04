@@ -15,3 +15,5 @@ No Ponytail by Orihara_Saki.
 Repal, Tights, and wider headband by RRSKAI.
 
 Repal by RRSKAI. Magic Axe inspired by DerTheVaporeon's Berserker animation.
+
+Alt Axe/Handaxe uses darker brown shaft. Alt Magic axe inspired by Warrior Tellius v2 by Red Bean & Nurmamon.

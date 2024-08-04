@@ -14,4 +14,4 @@ Sword by MK404.
 
 Staff by MakeFEGayer, fixes by UltraxBlade.
 
-Bow animation by RiriK, Flasuban, Knabepicer, and Nuramon.
+

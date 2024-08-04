@@ -11,3 +11,7 @@
 Animation by Leo_Link, Nuramon, Spud.
 
 Axe (Vanilla Crit + Magic) by Sax-Marine.
+
+Sword model by RedBean.
+
+Sword edit by NamelessX.

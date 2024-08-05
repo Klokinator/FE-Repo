@@ -70,6 +70,39 @@
 
 
 
+## [\[Dismount\] \[F\] Dismounted Ranger by Fiuke_Bnuy](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BF%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BF%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BF%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BF%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Dismount\] \[M\] Dismounted Paladin by Russel Clark](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Paladin%20by%20Russel%20Clark) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Paladin%20by%20Russel%20Clark) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Paladin%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Sword (Updated)</b><br/><img alt="Sword (Updated)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Paladin%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Paladin%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed (Updated)</b><br/><img alt="Unarmed (Updated)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Paladin%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif"/> |
+
+
+
+
+## [\[Dismount\] \[M\] Dismounted Ranger by Fiuke_Bnuy](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy/5.%20Bow/Bow.gif"/> | <b>Bow (Alt)</b><br/><img alt="Bow (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy/5.%20Bow%20(Alt)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BM%5D%20Dismounted%20Ranger%20by%20Fiuke_Bnuy/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Dismount\] \[U\] Dismounted Paladin by Russel Clark](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BU%5D%20Dismounted%20Paladin%20by%20Russel%20Clark) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BU%5D%20Dismounted%20Paladin%20by%20Russel%20Clark) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BU%5D%20Dismounted%20Paladin%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BDismount%5D%20%5BU%5D%20Dismounted%20Paladin%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Hog Rider\] \[M\] Hog Rider by ReanuKeeves7716](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BHog%20Rider%5D%20%5BM%5D%20Hog%20Rider%20by%20ReanuKeeves7716) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BHog%20Rider%5D%20%5BM%5D%20Hog%20Rider%20by%20ReanuKeeves7716) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BHog%20Rider%5D%20%5BM%5D%20Hog%20Rider%20by%20ReanuKeeves7716/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BHog%20Rider%5D%20%5BM%5D%20Hog%20Rider%20by%20ReanuKeeves7716/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BHog%20Rider%5D%20%5BM%5D%20Hog%20Rider%20by%20ReanuKeeves7716/8.%20Unarmed/Unarmed.gif"/> |
@@ -138,39 +171,6 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Salamander%20Rider%20by%20Aruka/1.%20Sword/Sword.gif"/> |
 | :---: |
-
-
-
-
-## [\[Paladin-Type\] \[M\] Dismounted Squire by Russel Clark](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BM%5D%20Dismounted%20Squire%20by%20Russel%20Clark) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BM%5D%20Dismounted%20Squire%20by%20Russel%20Clark) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BM%5D%20Dismounted%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Sword (Updated)</b><br/><img alt="Sword (Updated)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BM%5D%20Dismounted%20Squire%20by%20Russel%20Clark/1.%20Sword%20(Updated)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BM%5D%20Dismounted%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed (Updated)</b><br/><img alt="Unarmed (Updated)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BM%5D%20Dismounted%20Squire%20by%20Russel%20Clark/8.%20Unarmed%20(Updated)/Unarmed.gif"/> |
-
-
-
-
-## [\[Paladin-Type\] \[U\] Dismounted Squire by Russel Clark](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BU%5D%20Dismounted%20Squire%20by%20Russel%20Clark) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BU%5D%20Dismounted%20Squire%20by%20Russel%20Clark) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BU%5D%20Dismounted%20Squire%20by%20Russel%20Clark/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BPaladin-Type%5D%20%5BU%5D%20Dismounted%20Squire%20by%20Russel%20Clark/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
-
-
-
-
-## [\[Ranger-Type\] \[F\] Dismounted by Fiuke_Bnuy](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BF%5D%20Dismounted%20by%20Fiuke_Bnuy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BF%5D%20Dismounted%20by%20Fiuke_Bnuy) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BF%5D%20Dismounted%20by%20Fiuke_Bnuy/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BF%5D%20Dismounted%20by%20Fiuke_Bnuy/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
-
-
-
-
-## [\[Ranger-Type\] \[M\] Dismounted by Fiuke_Bnuy](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BM%5D%20Dismounted%20by%20Fiuke_Bnuy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BM%5D%20Dismounted%20by%20Fiuke_Bnuy) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BM%5D%20Dismounted%20by%20Fiuke_Bnuy/5.%20Bow/Bow.gif"/> | <b>Bow (Alt)</b><br/><img alt="Bow (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BM%5D%20Dismounted%20by%20Fiuke_Bnuy/5.%20Bow%20(Alt)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BRanger-Type%5D%20%5BM%5D%20Dismounted%20by%20Fiuke_Bnuy/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: | :---: |
 
 
 

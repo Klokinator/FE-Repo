@@ -11,3 +11,5 @@
 Animation by Linkain, RenOokami, Russell Clark.
 
 Scripting and Formatting by Reyk_Retro0337.
+
+2. Lance (Javelin and Improvement) by Seliost1.

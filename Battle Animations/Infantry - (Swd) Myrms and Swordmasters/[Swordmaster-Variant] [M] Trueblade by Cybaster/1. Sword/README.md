@@ -12,4 +12,4 @@ Made by Cybaster.
 
 Note that this animation is very old and needs touchups by the community. It could use smoothing in the frames, retiming, and an Unarmed frame.
 
-Alt Range animation by Seliost1.
+Alt Range, Alt Range 2, and Unarmed animation by Seliost1.

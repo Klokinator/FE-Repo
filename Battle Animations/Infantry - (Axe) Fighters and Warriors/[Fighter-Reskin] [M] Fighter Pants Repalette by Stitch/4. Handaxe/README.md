@@ -11,3 +11,5 @@
 Original by IS.
 
 Repallete by Stitch.
+
+Visual fix by RRS_KAI.

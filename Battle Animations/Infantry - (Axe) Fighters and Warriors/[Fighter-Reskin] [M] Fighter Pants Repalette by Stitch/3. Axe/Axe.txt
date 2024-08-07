@@ -1,5 +1,5 @@
 #######################################################
-#03 Axe 
+#19 figm_ax1 Fighter Axe
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

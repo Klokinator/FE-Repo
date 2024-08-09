@@ -11,3 +11,5 @@
 Animation by Dinar.
 
 Repal by 7743.
+
+Staff and Magic animations by darkjaden (based on Camus Regan's Dark Flier animation).

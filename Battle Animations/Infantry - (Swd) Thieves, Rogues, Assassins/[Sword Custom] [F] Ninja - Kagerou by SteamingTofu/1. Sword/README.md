@@ -11,3 +11,5 @@
 Animation by SteamingTofu.
 
 Alt Crit and More 'Physics' by 7743.
+
+1.Sword (Magic Range) by Seliost1.

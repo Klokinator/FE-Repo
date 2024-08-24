@@ -7,3 +7,5 @@
 
 Made by IS.
 
+Magic by CraigRandall25.
+

@@ -12,4 +12,6 @@ Animation by Mycahel.
 
 Removed Text and Fixed Miss by Dededester.
 
+Flashy ranged Crit by Seliost1.
+
 Sword Edit by 7743.

@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by .
+Made by IS.
+
+Sword and Bow animation By Saint Rubenio.

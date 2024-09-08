@@ -1,6 +1,11 @@
-/// - Mode 1
-C03
-C07
+#######################################################
+#01 Sword Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 4 p- Sword_000.png
 3 p- Sword_001.png
 4 p- Sword_002.png
@@ -8,7 +13,7 @@ C07
 3 p- Sword_004.png
 18 p- Sword_005.png
 6 p- Sword_006.png
-C24
+C24                               #Play sword slashing air SFE
 3 p- Sword_007.png
 3 p- Sword_008.png
 2 p- Sword_009.png
@@ -18,7 +23,7 @@ C24
 3 p- Sword_013.png
 3 p- Sword_014.png
 14 p- Sword_015.png
-C57
+C57                               #bael 2 SFE
 4 p- Sword_015.png
 3 p- Sword_016.png
 3 p- Sword_017.png
@@ -32,13 +37,13 @@ C57
 3 p- Sword_025.png
 3 p- Sword_026.png
 3 p- Sword_027.png
-C37
+C37                               #Play sword clicking SFE
 4 p- Sword_028.png
 12 p- Sword_029.png
 3 p- Sword_030.png
 3 p- Sword_031.png
 3 p- Sword_032.png
-C19
+C19                               #Play bow pulling SFE
 5 p- Sword_033.png
 3 p- Sword_034.png
 3 p- Sword_035.png
@@ -50,19 +55,19 @@ C19
 1 p- Sword_037.png
 1 p- Sword_038.png
 4 p- Sword_039.png
-C24
+C24                               #Play sword slashing air SFE
 3 p- Sword_040.png
 3 p- Sword_041.png
-C21
-C04
-C1A
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
 3 p- Sword_042.png
 3 p- Sword_043.png
 3 p- Sword_044.png
 3 p- Sword_045.png
 3 p- Sword_046.png
-C01
-C57
+C01                               #NOP
+C57                               #bael 2 SFE
 4 p- Sword_047.png
 3 p- Sword_048.png
 2 p- Sword_049.png
@@ -70,7 +75,7 @@ C57
 2 p- Sword_051.png
 2 p- Sword_052.png
 2 p- Sword_053.png
-C1B
+C1B                               #Play quick "heavy step" SFE
 6 p- Sword_054.png
 2 p- Sword_055.png
 8 p- Sword_056.png
@@ -81,7 +86,7 @@ C1B
 2 p- Sword_061.png
 1 p- Sword_062.png
 1 p- Sword_063.png
-C57
+C57                               #bael 2 SFE
 1 p- Sword_064.png
 3 p- Sword_065.png
 3 p- Sword_066.png
@@ -89,14 +94,14 @@ C57
 3 p- Sword_068.png
 3 p- Sword_069.png
 6 p- Sword_070.png
-C06
+C06                               #Begin opponent's turn after hit.next code 0D.
 4 p- Sword_071.png
 2 p- Sword_072.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 3
-C03
-C07
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 4 p- Sword_000.png
 3 p- Sword_001.png
 4 p- Sword_002.png
@@ -107,10 +112,10 @@ C07
 18 p- Sword_074.png
 3 p- Sword_075.png
 12 p- Sword_076.png
-C37
+C37                               #Play sword clicking SFE
 2 p- Sword_077.png
-C15
-C32
+C15                               #Slight vibration of screen
+C32                               #Show medium sized dirt wave moving backward animation
 3 p- Sword_078.png
 3 p- Sword_079.png
 3 p- Sword_080.png
@@ -119,7 +124,7 @@ C32
 2 p- Sword_083.png
 2 p- Sword_084.png
 3 p- Sword_085.png
-C78
+C78                               #jeejeejee SFE
 3 p- Sword_086.png
 3 p- Sword_087.png
 3 p- Sword_088.png
@@ -161,7 +166,7 @@ C78
 2 p- Sword_108.png
 2 p- Sword_109.png
 1 p- Sword_110.png
-C57
+C57                               #bael 2 SFE
 1 p- Sword_110.png
 2 p- Sword_111.png
 1 p- Sword_112.png
@@ -172,7 +177,7 @@ C57
 2 p- Sword_117.png
 3 p- Sword_118.png
 3 p- Sword_119.png
-C19
+C19                               #Play bow pulling SFE
 2 p- Sword_120.png
 1 p- Sword_121.png
 1 p- Sword_122.png
@@ -184,17 +189,17 @@ C19
 2 p- Sword_128.png
 2 p- Sword_129.png
 3 p- Sword_130.png
-C32
-C21
-C04
-C0C
+C32                               #Show medium sized dirt wave moving backward animation
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C0C                               #Critical hit
 3 p- Sword_131.png
 3 p- Sword_132.png
 3 p- Sword_133.png
 3 p- Sword_134.png
 2 p- Sword_135.png
-C01
-C57
+C01                               #NOP
+C57                               #bael 2 SFE
 4 p- Sword_135.png
 3 p- Sword_136.png
 2 p- Sword_137.png
@@ -202,7 +207,7 @@ C57
 2 p- Sword_139.png
 2 p- Sword_140.png
 2 p- Sword_141.png
-C1B
+C1B                               #Play quick "heavy step" SFE
 6 p- Sword_142.png
 2 p- Sword_143.png
 2 p- Sword_144.png
@@ -214,7 +219,7 @@ C1B
 2 p- Sword_061.png
 1 p- Sword_062.png
 1 p- Sword_063.png
-C57
+C57                               #bael 2 SFE
 1 p- Sword_064.png
 3 p- Sword_065.png
 3 p- Sword_066.png
@@ -222,36 +227,36 @@ C57
 3 p- Sword_068.png
 3 p- Sword_069.png
 6 p- Sword_070.png
-C06
+C06                               #Begin opponent's turn after hit.next code 0D.
 4 p- Sword_071.png
 2 p- Sword_072.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 5
-C03
-C07
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Sword_145.png
-C36
+C36                               #Play sword unsheathing SFE
 2 p- Sword_146.png
 2 p- Sword_147.png
-C05
+C05                               #Call spell associated with equipped weapon
 3 p- Sword_148.png
-C01
+C01                               #NOP
 2 p- Sword_147.png
-C37
-C06
+C37                               #Play sword clicking SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
 2 p- Sword_146.png
 3 p- Sword_145.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 6
-C03
-C07
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Sword_145.png
-C36
+C36                               #Play sword unsheathing SFE
 2 p- Sword_146.png
 2 p- Sword_147.png
-C05
+C05                               #Call spell associated with equipped weapon
 3 p- Sword_148.png
 2 p- Sword_149.png
 2 p- Sword_148.png
@@ -263,49 +268,49 @@ C05
 2 p- Sword_148.png
 2 p- Sword_149.png
 2 p- Sword_148.png
-C01
+C01                               #NOP
 2 p- Sword_147.png
-C37
-C06
+C37                               #Play sword clicking SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
 2 p- Sword_146.png
 3 p- Sword_145.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 7
-C18
+/// - Mode 7               #Dodge Melee Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
 1 p- Sword_150.png
-C0E
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Sword_151.png
 1 p- Sword_152.png
-C01
+C01                               #NOP
 3 p- Sword_151.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 8
-C18
+/// - Mode 8               #Dodge Ranged Attack
+C18                               #Use this instead of 02 to dodge toward the foreground instead of toward the background
 1 p- Sword_150.png
-C0E
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Sword_151.png
 1 p- Sword_152.png
-C01
+C01                               #NOP
 3 p- Sword_151.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 9
+/// - Mode 9               #Equiped with Melee Weapon
 1 p- Sword_150.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 10
+/// - Mode 10               #Standing motions
 1 p- Sword_150.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 11
+/// - Mode 11               #Equiped with Ranged weapon
 1 p- Sword_150.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 12
-C03
-C07
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 4 p- Sword_000.png
 3 p- Sword_001.png
 4 p- Sword_002.png
@@ -313,7 +318,7 @@ C07
 3 p- Sword_004.png
 18 p- Sword_005.png
 6 p- Sword_006.png
-C24
+C24                               #Play sword slashing air SFE
 3 p- Sword_007.png
 3 p- Sword_008.png
 2 p- Sword_009.png
@@ -323,14 +328,14 @@ C24
 3 p- Sword_013.png
 3 p- Sword_014.png
 14 p- Sword_015.png
-C57
+C57                               #bael 2 SFE
 4 p- Sword_015.png
-C04
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Sword_016.png
 3 p- Sword_153.png
 5 p- Sword_154.png
 3 p- Sword_155.png
-C01
+C01                               #NOP
 2 p- Sword_156.png
 2 p- Sword_157.png
 4 p- Sword_158.png
@@ -338,15 +343,15 @@ C01
 3 p- Sword_160.png
 3 p- Sword_161.png
 3 p- Sword_162.png
-C37
+C37                               #Play sword clicking SFE
 4 p- Sword_163.png
 12 p- Sword_164.png
 4 p- Sword_165.png
 3 p- Sword_166.png
 3 p- Sword_167.png
 3 p- Sword_168.png
-C06
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Sword_003.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

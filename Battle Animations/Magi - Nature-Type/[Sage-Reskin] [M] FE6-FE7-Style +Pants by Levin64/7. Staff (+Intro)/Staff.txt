@@ -1,5 +1,5 @@
 #######################################################
-#6E sagm_ro1 Sage Light
+#07 Staff Great Lord Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -78,14 +78,14 @@ C01                               #NOP
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 9               #Equiped with Melee Weapon
-3 p- Intro_001.png
-3 p- Intro_002.png
-3 p- Intro_003.png
-3 p- Intro_004.png
-3 p- Intro_005.png
-3 p- Intro_006.png
-9 p- Intro_007.png
-4 p- Intro_008.png
+3 p- Staff_005.png
+3 p- Staff_006.png
+3 p- Staff_007.png
+3 p- Staff_008.png
+3 p- Staff_009.png
+3 p- Staff_010.png
+9 p- Staff_011.png
+4 p- Staff_012.png
 1 p- Staff_000.png
 ~~~
 /// - Mode 10               #Standing motions
@@ -93,14 +93,14 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C01                               #NOP
 ~~~
 /// - Mode 11               #Equiped with Ranged weapon
-3 p- Intro_001.png
-3 p- Intro_002.png
-3 p- Intro_003.png
-3 p- Intro_004.png
-3 p- Intro_005.png
-3 p- Intro_006.png
-9 p- Intro_007.png
-4 p- Intro_008.png
+3 p- Staff_005.png
+3 p- Staff_006.png
+3 p- Staff_007.png
+3 p- Staff_008.png
+3 p- Staff_009.png
+3 p- Staff_010.png
+9 p- Staff_011.png
+4 p- Staff_012.png
 1 p- Staff_000.png
 ~~~
 /// - Mode 12               #Attack Missed Animation

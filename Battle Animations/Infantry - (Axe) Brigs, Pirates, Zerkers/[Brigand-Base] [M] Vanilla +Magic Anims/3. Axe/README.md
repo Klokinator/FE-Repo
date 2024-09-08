@@ -15,3 +15,5 @@ Magic animations by Blue Druid.
 Sword by ZoramineFae.
 
 Removed a white pixel in face by Vilk.
+
+Magic Axe script by Chi-Chi.

@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Aruka, Kenpuhu.
+
+Handaxe critical and Unarmed by Seliost1.

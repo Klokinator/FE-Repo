@@ -9,5 +9,5 @@ Vanilla Repalette by Wan/Eliwan.
 
 Slim F Pirate by Furious Squid. 
 
-Remake + Repalette by Raulster/Alice.
+Remake + Repalette by Alice.
 

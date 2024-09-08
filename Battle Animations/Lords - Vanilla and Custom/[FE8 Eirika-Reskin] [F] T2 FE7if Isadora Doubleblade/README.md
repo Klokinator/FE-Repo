@@ -7,5 +7,7 @@
 
 Made by the FE7if devs.
 
+Magic Sword animation by Seliost1.
+
 This folder needs unarmed frames.
 

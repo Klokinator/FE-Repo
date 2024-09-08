@@ -8,5 +8,8 @@
 
 ## Credit
 
-St jack, The_Big_Dededester, Dolkar
-7. Staff {The_Big_Dededester, Dolkar}
+St jack, The_Big_Dededester, Dolkar.
+
+7. Staff {The_Big_Dededester, Dolkar}.
+
+Sword (Alt) by Jj09.

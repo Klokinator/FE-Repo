@@ -688,7 +688,8 @@
 
 ### [\[Misc-Supply\] \[F\] T1 Anna Transport](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BF%5D%20T1%20Anna%20Transport) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BF%5D%20T1%20Anna%20Transport) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BF%5D%20T1%20Anna%20Transport/8.%20Unarmed/Unarmed.gif"/> |
+| :---: |
 
 
 
@@ -5045,7 +5046,7 @@
 
 ### [\[Assassin-Reskin\] \[M\] AS Colter](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20AS%20Colter) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20AS%20Colter) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20AS%20Colter/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20AS%20Colter/1.%20Sword/Sword.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20AS%20Colter/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20%5BM%5D%20AS%20Colter/1.%20Sword%20(Knife)/Sword.gif"/> |
 | :---: | :---: |
 
 
@@ -5134,7 +5135,7 @@
 
 ### [\[Rogue-Base\] \[M\] Repal +Staff \(Community Effort\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20%2BStaff%20(Community%20Effort)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20%2BStaff%20(Community%20Effort)) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/7.%20Staff/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Repal%20+Staff%20(Community%20Effort)/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -5151,7 +5152,7 @@
 
 ### [\[Rogue-Base\] \[M\] Vanilla +Staff](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20%2BStaff) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20%2BStaff) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/7.%20Staff/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BRogue-Base%5D%20%5BM%5D%20Vanilla%20+Staff/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -5237,7 +5238,7 @@
 
 ### [\[Sword Custom\] \[M\] Ninja by Pikmin and Der](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20%5BM%5D%20Ninja%20by%20Pikmin%20and%20Der/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -5261,8 +5262,9 @@
 
 ### [\[Thief-Base\] \[F\] Cath Custom by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Custom%20by%20RedBean/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -5277,7 +5279,7 @@
 
 ### [\[Thief-Base\] \[F\] Cath Repal by Pikmin +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20%2BWeapons) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20+Weapons/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20+Weapons/5.%20Bow/Bow.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20+Weapons/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20+Weapons/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Base%5D%20%5BF%5D%20Cath%20Repal%20by%20Pikmin%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -5439,7 +5441,7 @@
 
 ### [\[Thief-Variant\] \[M\] FEDS Thief by DerTheVaporeon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Sword/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BThief-Variant%5D%20%5BM%5D%20FEDS%20Thief%20by%20DerTheVaporeon/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 
@@ -5463,8 +5465,8 @@
 
 ### [\[Trickster\] \[F\] Trickster V.1 by Leo_Link](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster%5D%20%5BF%5D%20Trickster%20V.1%20by%20Leo_Link) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster%5D%20%5BF%5D%20Trickster%20V.1%20by%20Leo_Link) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster%5D%20%5BF%5D%20Trickster%20V.1%20by%20Leo_Link/5.%20Bow/Bow.gif"/> |
-| :---: |
+| <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster%5D%20%5BF%5D%20Trickster%20V.1%20by%20Leo_Link/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BTrickster%5D%20%5BF%5D%20Trickster%20V.1%20by%20Leo_Link/5.%20Bow/Bow.gif"/> |
+| :---: | :---: |
 
 
 
@@ -5505,16 +5507,16 @@
 
 ### [\[Brawler-Reskin\] \[F\] Kyoko by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Kyoko%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Kyoko%20by%20Stephano) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Kyoko%20by%20Stephano/8.%20Melee/Melee.gif"/> |
-| :---: |
+| <b>Axe (Bat)</b><br/><img alt="Axe (Bat)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Kyoko%20by%20Stephano/3.%20Axe%20(Bat)/Axe.gif"/> | <b>Handaxe (Sports Ball)</b><br/><img alt="Handaxe (Sports Ball)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Kyoko%20by%20Stephano/4.%20Handaxe%20(Sports%20Ball)/Handaxe.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Kyoko%20by%20Stephano/8.%20Melee/Melee.gif"/> |
+| :---: | :---: | :---: |
 
 
 
 
 ### [\[Brawler-Reskin\] \[F\] Misako by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Misako%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Misako%20by%20Stephano) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Misako%20by%20Stephano/8.%20Melee/Melee.gif"/> |
-| :---: |
+| <b>Axe (Bat)</b><br/><img alt="Axe (Bat)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Misako%20by%20Stephano/3.%20Axe%20(Bat)/Axe.gif"/> | <b>Handaxe (Sports Ball)</b><br/><img alt="Handaxe (Sports Ball)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Misako%20by%20Stephano/4.%20Handaxe%20(Sports%20Ball)/Handaxe.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BBrawler-Reskin%5D%20%5BF%5D%20Misako%20by%20Stephano/8.%20Melee/Melee.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -5569,7 +5571,7 @@
 
 ### [\[Enchanter\] \[F\] Enchanter by Dora Drago](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Dagger</b><br/><img alt="Dagger" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago/1.%20Dagger/Dagger.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago/8.%20Melee/Melee.gif"/> |
+| <b>Sword (Dagger)</b><br/><img alt="Sword (Dagger)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago/1.%20Sword%20(Dagger)/Sword.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BF%5D%20Enchanter%20by%20Dora%20Drago/8.%20Melee/Melee.gif"/> |
 | :---: | :---: |
 
 
@@ -5577,7 +5579,7 @@
 
 ### [\[Enchanter\] \[M\] Enchanter by Dora Drago](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Dagger</b><br/><img alt="Dagger" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago/1.%20Dagger/Dagger.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago/8.%20Melee/Melee.gif"/> |
+| <b>Sword (Dagger)</b><br/><img alt="Sword (Dagger)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago/1.%20Sword%20(Dagger)/Sword.gif"/> | <b>Melee</b><br/><img alt="Melee" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Unarmed)%20Brawlers,%20Fistfighters/%5BEnchanter%5D%20%5BM%5D%20Enchanter%20by%20Dora%20Drago/8.%20Melee/Melee.gif"/> |
 | :---: | :---: |
 
 
@@ -5968,7 +5970,7 @@
 
 ### [\[Marshall\] \[M\] Black Knight by Luerock](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock/8.%20Legendary%20Sword%20(Alondite)/Legendary.gif"/> |
+| <b>Sword (Alondite) (Fix)</b><br/><img alt="Sword (Alondite) (Fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BMarshall%5D%20%5BM%5D%20Black%20Knight%20by%20Luerock/1.%20Sword%20(Alondite)%20(Fix)/Sword.gif"/> |
 | :---: |
 
 
@@ -6162,8 +6164,8 @@
 
 ### [\[FE4 Lord Custom\] \[M\] Seliph by Obsidian Daddy](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20%5BM%5D%20Seliph%20by%20Obsidian%20Daddy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20%5BM%5D%20Seliph%20by%20Obsidian%20Daddy) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20%5BM%5D%20Seliph%20by%20Obsidian%20Daddy/2.%20Lance/Lance.gif"/> |
-| :---: |
+| <b>Sword (Tyrfing)</b><br/><img alt="Sword (Tyrfing)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20%5BM%5D%20Seliph%20by%20Obsidian%20Daddy/1.%20Sword%20(Tyrfing)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20%5BM%5D%20Seliph%20by%20Obsidian%20Daddy/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE4%20Lord%20Custom%5D%20%5BM%5D%20Seliph%20by%20Obsidian%20Daddy/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -6851,7 +6853,7 @@
 
 ### [\[FE8 Eirika-Base\] \[F\] T1 Repal +Weapons](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20%2BWeapons) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20%2BWeapons) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Knife (Magic)</b><br/><img alt="Knife (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/1.%20Knife%20(Magic)/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/2.%20Lance/Lance.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Sword (Knife Magic)</b><br/><img alt="Sword (Knife Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/1.%20Sword%20(Knife%20Magic)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/6.%20Magic/Magic.gif"/> | <b>Magic Alt</b><br/><img alt="Magic Alt" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/6.%20Magic%20Alt/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20%5BF%5D%20T1%20Repal%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
@@ -8332,7 +8334,7 @@
 
 ### [\[Mage-Base\] \[M\] Repal by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Repal%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Repal%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Repal%20by%20UltraFenix/Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20%5BM%5D%20Repal%20by%20UltraFenix/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
@@ -8628,7 +8630,7 @@
 
 ### [\[Pupil-Reskin\] \[U\] Hooded Acolyte by Ether](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BPupil-Reskin%5D%20%5BU%5D%20Hooded%20Acolyte%20by%20Ether) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BPupil-Reskin%5D%20%5BU%5D%20Hooded%20Acolyte%20by%20Ether) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BPupil-Reskin%5D%20%5BU%5D%20Hooded%20Acolyte%20by%20Ether/Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BPupil-Reskin%5D%20%5BU%5D%20Hooded%20Acolyte%20by%20Ether/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
@@ -8653,8 +8655,9 @@
 
 ### [\[Sage-Base\] \[F\] Vanilla FE8 Lute +Fixes](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20%2BFixes) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20%2BFixes) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/7.%20Staff/Staff.gif"/> |
+| <b>Sword (Knife Physical)</b><br/><img alt="Sword (Knife Physical)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/1.%20Sword%20(Knife%20Physical)/Sword.gif"/> | <b>Sword (Knife)</b><br/><img alt="Sword (Knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/1.%20Sword%20(Knife)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
+| <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Lute%20+Fixes/7.%20Staff/Staff.gif"/> |
 
 
 
@@ -12165,8 +12168,8 @@
 
 ### [\[Peg Custom\] \[F\] Harrier Tethys Repalette](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20Repalette) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20Repalette) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20Repalette/6.%20Magic/Magic.gif"/> |
-| :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20Repalette/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BPeg%20Custom%5D%20%5BF%5D%20Harrier%20Tethys%20Repalette/6.%20Magic/Magic.gif"/> |
+| :---: | :---: |
 
 
 

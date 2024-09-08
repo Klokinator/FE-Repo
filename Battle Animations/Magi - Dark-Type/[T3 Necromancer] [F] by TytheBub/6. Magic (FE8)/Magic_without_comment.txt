@@ -99,7 +99,6 @@ C03
 1 p- Magic_000.png
 6 p- Magic_041.png
 6 p- Magic_042.png
-C3D
 6 p- Magic_043.png
 3 p- Magic_044.png
 3 p- Magic_045.png

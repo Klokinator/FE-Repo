@@ -1,0 +1,441 @@
+/// - Mode 1
+C03
+C07
+6 p- Axe_000.png
+4 p- Axe_001.png
+C74
+5 p- Axe_002.png
+4 p- Axe_003.png
+C24
+3 p- Axe_004.png
+6 p- Axe_005.png
+6 p- Axe_006.png
+6 p- Axe_005.png
+6 p- Axe_006.png
+7 p- Axe_005.png
+7 p- Axe_006.png
+8 p- Axe_005.png
+8 p- Axe_006.png
+15 p- Axe_005.png
+4 p- Axe_007.png
+4 p- Axe_008.png
+5 p- Axe_009.png
+5 p- Axe_010.png
+C1B
+27 p- Axe_011.png
+C04
+C3F
+3 p- Axe_012.png
+3 p- Axe_013.png
+C1A
+C1F
+C15
+1 p- Axe_014.png
+C01
+4 p- Axe_015.png
+4 p- Axe_016.png
+6 p- Axe_017.png
+6 p- Axe_018.png
+20 p- Axe_019.png
+C19
+6 p- Axe_020.png
+4 p- Axe_021.png
+3 p- Axe_022.png
+3 p- Axe_023.png
+2 p- Axe_022.png
+2 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+6 p- Axe_013.png
+C1B
+4 p- Axe_024.png
+C2B
+20 p- Axe_025.png
+4 p- Axe_026.png
+6 p- Axe_027.png
+C74
+4 p- Axe_028.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+6 p- Axe_000.png
+4 p- Axe_001.png
+C74
+5 p- Axe_002.png
+4 p- Axe_003.png
+C24
+4 p- Axe_004.png
+3 p- Axe_005.png
+4 p- Axe_029.png
+6 p- Axe_030.png
+6 p- Axe_031.png
+C74
+12 p- Axe_032.png
+12 p- Axe_031.png
+C74
+10 p- Axe_032.png
+10 p- Axe_033.png
+C74
+8 p- Axe_032.png
+8 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+18 p- Axe_032.png
+4 p- Axe_007.png
+4 p- Axe_008.png
+5 p- Axe_009.png
+C1B
+5 p- Axe_010.png
+C38
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_034.png
+C24
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+C24
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+C24
+20 p- Axe_041.png
+C04
+C3F
+3 p- Axe_012.png
+3 p- Axe_013.png
+C0A
+C1F
+C15
+1 p- Axe_014.png
+C01
+4 p- Axe_015.png
+4 p- Axe_016.png
+6 p- Axe_017.png
+6 p- Axe_018.png
+45 p- Axe_019.png
+C19
+6 p- Axe_020.png
+4 p- Axe_021.png
+3 p- Axe_022.png
+3 p- Axe_023.png
+2 p- Axe_022.png
+2 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+6 p- Axe_013.png
+4 p- Axe_024.png
+C2B
+36 p- Axe_025.png
+4 p- Axe_026.png
+6 p- Axe_027.png
+4 p- Axe_028.png
+C74
+6 p- Axe_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+6 p- Axe_000.png
+4 p- Axe_001.png
+C1B
+5 p- Axe_002.png
+4 p- Axe_003.png
+C24
+4 p- Axe_004.png
+4 p- Axe_005.png
+C24
+4 p- Axe_006.png
+5 p- Axe_005.png
+C23
+5 p- Axe_006.png
+6 p- Axe_005.png
+C23
+6 p- Axe_006.png
+7 p- Axe_005.png
+C23
+6 p- Axe_006.png
+6 p- Axe_005.png
+4 p- Axe_007.png
+5 p- Axe_008.png
+5 p- Axe_009.png
+7 p- Axe_010.png
+C1B
+30 p- Axe_011.png
+C04
+C24
+3 p- Axe_012.png
+3 p- Axe_013.png
+C1A
+C1F
+1 p- Axe_014.png
+C01
+4 p- Axe_015.png
+4 p- Axe_016.png
+6 p- Axe_017.png
+C1B
+6 p- Axe_018.png
+20 p- Axe_019.png
+C19
+6 p- Axe_020.png
+4 p- Axe_021.png
+3 p- Axe_022.png
+3 p- Axe_023.png
+2 p- Axe_022.png
+2 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+6 p- Axe_013.png
+C1B
+4 p- Axe_024.png
+C2B
+20 p- Axe_025.png
+4 p- Axe_026.png
+6 p- Axe_027.png
+C74
+4 p- Axe_028.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+6 p- Axe_000.png
+4 p- Axe_001.png
+C74
+5 p- Axe_002.png
+4 p- Axe_003.png
+C24
+4 p- Axe_004.png
+3 p- Axe_005.png
+4 p- Axe_029.png
+6 p- Axe_030.png
+6 p- Axe_031.png
+C74
+12 p- Axe_032.png
+12 p- Axe_031.png
+C74
+10 p- Axe_032.png
+10 p- Axe_033.png
+C74
+8 p- Axe_032.png
+8 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+6 p- Axe_032.png
+6 p- Axe_033.png
+C74
+18 p- Axe_032.png
+4 p- Axe_007.png
+4 p- Axe_008.png
+5 p- Axe_009.png
+C1B
+5 p- Axe_010.png
+C38
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+1 p- Axe_034.png
+C24
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+C24
+1 p- Axe_034.png
+1 p- Axe_035.png
+1 p- Axe_036.png
+1 p- Axe_037.png
+1 p- Axe_038.png
+1 p- Axe_039.png
+1 p- Axe_040.png
+C24
+20 p- Axe_041.png
+C04
+C3F
+3 p- Axe_012.png
+3 p- Axe_013.png
+C0A
+C1F
+C15
+1 p- Axe_014.png
+C01
+4 p- Axe_015.png
+4 p- Axe_016.png
+6 p- Axe_017.png
+6 p- Axe_018.png
+45 p- Axe_019.png
+C19
+6 p- Axe_020.png
+4 p- Axe_021.png
+3 p- Axe_022.png
+3 p- Axe_023.png
+2 p- Axe_022.png
+2 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+6 p- Axe_013.png
+4 p- Axe_024.png
+C2B
+36 p- Axe_025.png
+4 p- Axe_026.png
+6 p- Axe_027.png
+4 p- Axe_028.png
+C74
+6 p- Axe_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Axe_000.png
+C0E
+6 p- Axe_042.png
+C74
+1 p- Axe_043.png
+C01
+6 p- Axe_042.png
+C74
+1 p- Axe_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Axe_000.png
+C0E
+6 p- Axe_042.png
+C74
+1 p- Axe_043.png
+C01
+6 p- Axe_042.png
+C74
+1 p- Axe_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Axe_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Axe_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Axe_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+6 p- Axe_000.png
+4 p- Axe_001.png
+C1B
+5 p- Axe_002.png
+4 p- Axe_003.png
+C24
+4 p- Axe_004.png
+4 p- Axe_005.png
+C24
+4 p- Axe_006.png
+5 p- Axe_005.png
+C23
+5 p- Axe_006.png
+6 p- Axe_005.png
+C23
+6 p- Axe_006.png
+7 p- Axe_005.png
+C23
+6 p- Axe_006.png
+6 p- Axe_005.png
+4 p- Axe_007.png
+5 p- Axe_008.png
+5 p- Axe_009.png
+7 p- Axe_010.png
+C1B
+30 p- Axe_011.png
+C04
+C24
+3 p- Axe_012.png
+3 p- Axe_013.png
+1 p- Axe_014.png
+C01
+4 p- Axe_015.png
+4 p- Axe_016.png
+6 p- Axe_017.png
+C1B
+6 p- Axe_018.png
+20 p- Axe_019.png
+C19
+6 p- Axe_020.png
+4 p- Axe_021.png
+3 p- Axe_022.png
+3 p- Axe_023.png
+2 p- Axe_022.png
+2 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+1 p- Axe_022.png
+1 p- Axe_023.png
+6 p- Axe_013.png
+C1B
+4 p- Axe_024.png
+C2B
+20 p- Axe_025.png
+4 p- Axe_026.png
+6 p- Axe_027.png
+C1B
+4 p- Axe_028.png
+C06
+C0D
+~~~
+/// - End of animation

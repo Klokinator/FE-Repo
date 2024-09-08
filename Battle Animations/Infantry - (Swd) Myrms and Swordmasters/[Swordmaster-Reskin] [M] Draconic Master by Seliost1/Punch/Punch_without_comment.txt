@@ -1,0 +1,186 @@
+/// - Mode 1
+C03
+C07
+1 p- Punch_000.png
+2 p- Punch_001.png
+2 p- Punch_002.png
+2 p- Punch_003.png
+C24
+5 p- Punch_004.png
+C04
+3 p- Punch_005.png
+C1F
+C1A
+3 p- Punch_006.png
+3 p- Punch_007.png
+C01
+3 p- Punch_007.png
+3 p- Punch_008.png
+3 p- Punch_009.png
+C25
+3 p- Punch_010.png
+20 p- Punch_011.png
+C06
+C25
+4 p- Punch_012.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+C2F
+1 p- Punch_000.png
+C2E
+96 p- Punch_000.png
+2 p- Punch_001.png
+2 p- Punch_002.png
+2 p- Punch_003.png
+C28
+2 p- Punch_013.png
+2 p- Punch_014.png
+2 p- Punch_015.png
+2 p- Punch_016.png
+2 p- Punch_017.png
+2 p- Punch_015.png
+2 p- Punch_018.png
+2 p- Punch_013.png
+2 p- Punch_014.png
+2 p- Punch_015.png
+2 p- Punch_016.png
+2 p- Punch_017.png
+2 p- Punch_015.png
+2 p- Punch_018.png
+2 p- Punch_019.png
+C24
+2 p- Punch_004.png
+2 p- Punch_005.png
+C04
+3 p- Punch_006.png
+C1F
+C09
+3 p- Punch_007.png
+C01
+3 p- Punch_007.png
+3 p- Punch_008.png
+3 p- Punch_009.png
+C25
+3 p- Punch_010.png
+20 p- Punch_011.png
+C25
+C06
+4 p- Punch_012.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Punch_000.png
+2 p- Punch_020.png
+C05
+1 p- Punch_021.png
+C01
+C06
+2 p- Punch_020.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+C2F
+1 p- Punch_000.png
+C2E
+96 p- Punch_000.png
+2 p- Punch_020.png
+2 p- Punch_021.png
+C28
+2 p- Punch_021.png
+2 p- Punch_022.png
+2 p- Punch_021.png
+2 p- Punch_023.png
+2 p- Punch_021.png
+2 p- Punch_024.png
+2 p- Punch_021.png
+2 p- Punch_024.png
+2 p- Punch_021.png
+2 p- Punch_025.png
+2 p- Punch_021.png
+2 p- Punch_026.png
+2 p- Punch_021.png
+2 p- Punch_027.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_029.png
+2 p- Punch_030.png
+C05
+1 p- Punch_021.png
+C01
+C06
+2 p- Punch_020.png
+C0D
+~~~
+/// - Mode 7
+C03
+C07
+2 p- Punch_000.png
+C0E
+4 p- Punch_012.png
+C01
+C0D
+~~~
+/// - Mode 8
+C02
+2 p- Punch_000.png
+C0E
+4 p- Punch_012.png
+C01
+C0D
+~~~
+/// - Mode 9
+1 p- Punch_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Punch_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Punch_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Punch_000.png
+2 p- Punch_020.png
+10 p- Punch_021.png
+2 p- Punch_020.png
+1 p- Punch_000.png
+1 p- Punch_001.png
+1 p- Punch_002.png
+1 p- Punch_003.png
+1 p- Punch_004.png
+1 p- Punch_005.png
+1 p- Punch_006.png
+C01
+1 p- Punch_007.png
+1 p- Punch_008.png
+1 p- Punch_009.png
+1 p- Punch_010.png
+C25
+10 p- Punch_011.png
+C01
+C06
+C25
+4 p- Punch_012.png
+C0D
+~~~
+/// - End of animation

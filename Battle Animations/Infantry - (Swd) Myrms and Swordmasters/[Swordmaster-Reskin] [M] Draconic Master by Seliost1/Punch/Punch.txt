@@ -1,0 +1,191 @@
+#######################################################
+#06 lorf_sw1 Lord Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Punch_000.png
+2 p- Punch_001.png
+2 p- Punch_002.png
+2 p- Punch_003.png
+C24                               #Play sword slashing air SFE
+5 p- Punch_004.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Punch_005.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C1A                               #Normal hit
+3 p- Punch_006.png
+3 p- Punch_007.png
+C01                               #NOP
+3 p- Punch_007.png
+3 p- Punch_008.png
+3 p- Punch_009.png
+C25                               #Play wing flap SFE
+3 p- Punch_010.png
+20 p- Punch_011.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C25                               #Play wing flap SFE
+4 p- Punch_012.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C2F                               #Show sage's critical magic rune drawing animation
+1 p- Punch_000.png
+C2E                               #Show sage's normal magic rune drawing animation
+96 p- Punch_000.png
+2 p- Punch_001.png
+2 p- Punch_002.png
+2 p- Punch_003.png
+C28                               #Play electrical charging SFE
+2 p- Punch_013.png
+2 p- Punch_014.png
+2 p- Punch_015.png
+2 p- Punch_016.png
+2 p- Punch_017.png
+2 p- Punch_015.png
+2 p- Punch_018.png
+2 p- Punch_013.png
+2 p- Punch_014.png
+2 p- Punch_015.png
+2 p- Punch_016.png
+2 p- Punch_017.png
+2 p- Punch_015.png
+2 p- Punch_018.png
+2 p- Punch_019.png
+C24                               #Play sword slashing air SFE
+2 p- Punch_004.png
+2 p- Punch_005.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Punch_006.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C09                               #Critical hit
+3 p- Punch_007.png
+C01                               #NOP
+3 p- Punch_007.png
+3 p- Punch_008.png
+3 p- Punch_009.png
+C25                               #Play wing flap SFE
+3 p- Punch_010.png
+20 p- Punch_011.png
+C25                               #Play wing flap SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- Punch_012.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Punch_000.png
+2 p- Punch_020.png
+C05                               #Call spell associated with equipped weapon
+1 p- Punch_021.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Punch_020.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C2F                               #Show sage's critical magic rune drawing animation
+1 p- Punch_000.png
+C2E                               #Show sage's normal magic rune drawing animation
+96 p- Punch_000.png
+2 p- Punch_020.png
+2 p- Punch_021.png
+C28                               #Play electrical charging SFE
+2 p- Punch_021.png
+2 p- Punch_022.png
+2 p- Punch_021.png
+2 p- Punch_023.png
+2 p- Punch_021.png
+2 p- Punch_024.png
+2 p- Punch_021.png
+2 p- Punch_024.png
+2 p- Punch_021.png
+2 p- Punch_025.png
+2 p- Punch_021.png
+2 p- Punch_026.png
+2 p- Punch_021.png
+2 p- Punch_027.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_028.png
+2 p- Punch_021.png
+2 p- Punch_029.png
+2 p- Punch_030.png
+C05                               #Call spell associated with equipped weapon
+1 p- Punch_021.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+2 p- Punch_020.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+2 p- Punch_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Punch_012.png
+C01                               #NOP
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+2 p- Punch_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Punch_012.png
+C01                               #NOP
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Punch_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Punch_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Punch_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Punch_000.png
+2 p- Punch_020.png
+10 p- Punch_021.png
+2 p- Punch_020.png
+1 p- Punch_000.png
+1 p- Punch_001.png
+1 p- Punch_002.png
+1 p- Punch_003.png
+1 p- Punch_004.png
+1 p- Punch_005.png
+1 p- Punch_006.png
+C01                               #NOP
+1 p- Punch_007.png
+1 p- Punch_008.png
+1 p- Punch_009.png
+1 p- Punch_010.png
+C25                               #Play wing flap SFE
+10 p- Punch_011.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C25                               #Play wing flap SFE
+4 p- Punch_012.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

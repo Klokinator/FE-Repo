@@ -1,0 +1,315 @@
+#######################################################
+#43 armm_sp1 Knight Item
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+6 p- Bow_000.png
+4 p- Bow_001.png
+C74                               #bonewalker critical SFE
+5 p- Bow_002.png
+4 p- Bow_003.png
+3 p- Bow_004.png
+C24                               #Play sword slashing air SFE
+3 p- Bow_005.png
+6 p- Bow_006.png
+6 p- Bow_007.png
+6 p- Bow_006.png
+15 p- Bow_008.png
+6 p- Bow_009.png
+6 p- Bow_010.png
+3 p- Bow_011.png
+C3E                               #Play burning SFE
+4 p- Bow_012.png
+4 p- Bow_013.png
+4 p- Bow_014.png
+C19                               #Play bow pulling SFE
+4 p- Bow_015.png
+4 p- Bow_016.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+12 p- Bow_017.png
+C3F                               #Play alternate arrow firing SFE?
+4 p- Bow_018.png
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_019.png
+7 p- Bow_020.png
+C01                               #NOP
+20 p- Bow_021.png
+3 p- Bow_022.png
+3 p- Bow_023.png
+5 p- Bow_024.png
+5 p- Bow_025.png
+4 p- Bow_003.png
+C74                               #bonewalker critical SFE
+4 p- Bow_002.png
+6 p- Bow_001.png
+4 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+6 p- Bow_000.png
+10 p- Bow_026.png
+10 p- Bow_027.png
+C74                               #bonewalker critical SFE
+8 p- Bow_026.png
+8 p- Bow_027.png
+C74                               #bonewalker critical SFE
+6 p- Bow_026.png
+6 p- Bow_027.png
+C74                               #bonewalker critical SFE
+6 p- Bow_026.png
+6 p- Bow_027.png
+C74                               #bonewalker critical SFE
+20 p- Bow_026.png
+4 p- Bow_001.png
+C74                               #bonewalker critical SFE
+5 p- Bow_002.png
+4 p- Bow_003.png
+3 p- Bow_004.png
+3 p- Bow_005.png
+C24                               #Play sword slashing air SFE
+6 p- Bow_006.png
+6 p- Bow_007.png
+6 p- Bow_006.png
+15 p- Bow_008.png
+6 p- Bow_009.png
+6 p- Bow_010.png
+3 p- Bow_011.png
+C3E                               #Play burning SFE
+4 p- Bow_028.png
+4 p- Bow_029.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+4 p- Bow_030.png
+C19                               #Play bow pulling SFE
+4 p- Bow_031.png
+4 p- Bow_032.png
+14 p- Bow_033.png
+C3F                               #Play alternate arrow firing SFE?
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Bow_034.png
+C3F                               #Play alternate arrow firing SFE?
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Bow_035.png
+C3F                               #Play alternate arrow firing SFE?
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Bow_036.png
+C3F                               #Play alternate arrow firing SFE?
+C05                               #Call spell associated with equipped weapon
+1 p- Bow_037.png
+4 p- Bow_038.png
+C01                               #NOP
+20 p- Bow_039.png
+3 p- Bow_040.png
+3 p- Bow_041.png
+5 p- Bow_042.png
+5 p- Bow_043.png
+4 p- Bow_044.png
+C74                               #bonewalker critical SFE
+4 p- Bow_045.png
+6 p- Bow_046.png
+4 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+6 p- Bow_000.png
+4 p- Bow_001.png
+C74                               #bonewalker critical SFE
+5 p- Bow_002.png
+4 p- Bow_003.png
+3 p- Bow_004.png
+C24                               #Play sword slashing air SFE
+3 p- Bow_005.png
+6 p- Bow_006.png
+6 p- Bow_007.png
+6 p- Bow_006.png
+15 p- Bow_008.png
+6 p- Bow_009.png
+6 p- Bow_010.png
+3 p- Bow_011.png
+C3E                               #Play burning SFE
+4 p- Bow_012.png
+4 p- Bow_013.png
+4 p- Bow_014.png
+C19                               #Play bow pulling SFE
+4 p- Bow_015.png
+4 p- Bow_016.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+12 p- Bow_017.png
+C3F                               #Play alternate arrow firing SFE?
+4 p- Bow_018.png
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_019.png
+7 p- Bow_020.png
+C01                               #NOP
+20 p- Bow_021.png
+3 p- Bow_022.png
+3 p- Bow_023.png
+5 p- Bow_024.png
+5 p- Bow_025.png
+4 p- Bow_003.png
+C74                               #bonewalker critical SFE
+4 p- Bow_002.png
+6 p- Bow_001.png
+4 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+6 p- Bow_000.png
+10 p- Bow_026.png
+10 p- Bow_027.png
+C74                               #bonewalker critical SFE
+8 p- Bow_026.png
+8 p- Bow_027.png
+C74                               #bonewalker critical SFE
+6 p- Bow_026.png
+6 p- Bow_027.png
+C74                               #bonewalker critical SFE
+6 p- Bow_026.png
+6 p- Bow_027.png
+C74                               #bonewalker critical SFE
+20 p- Bow_026.png
+4 p- Bow_001.png
+C74                               #bonewalker critical SFE
+5 p- Bow_002.png
+4 p- Bow_003.png
+3 p- Bow_004.png
+3 p- Bow_005.png
+C24                               #Play sword slashing air SFE
+6 p- Bow_006.png
+6 p- Bow_007.png
+6 p- Bow_006.png
+15 p- Bow_008.png
+6 p- Bow_009.png
+6 p- Bow_010.png
+3 p- Bow_011.png
+C3E                               #Play burning SFE
+4 p- Bow_028.png
+4 p- Bow_029.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+4 p- Bow_030.png
+C19                               #Play bow pulling SFE
+4 p- Bow_031.png
+4 p- Bow_032.png
+14 p- Bow_033.png
+C3F                               #Play alternate arrow firing SFE?
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Bow_034.png
+C3F                               #Play alternate arrow firing SFE?
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Bow_035.png
+C3F                               #Play alternate arrow firing SFE?
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+1 p- Bow_036.png
+C3F                               #Play alternate arrow firing SFE?
+C05                               #Call spell associated with equipped weapon
+1 p- Bow_037.png
+4 p- Bow_038.png
+C01                               #NOP
+20 p- Bow_039.png
+3 p- Bow_040.png
+3 p- Bow_041.png
+5 p- Bow_042.png
+5 p- Bow_043.png
+4 p- Bow_044.png
+C74                               #bonewalker critical SFE
+4 p- Bow_045.png
+6 p- Bow_046.png
+4 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Bow_047.png
+C74                               #bonewalker critical SFE
+1 p- Bow_048.png
+C01                               #NOP
+3 p- Bow_047.png
+C74                               #bonewalker critical SFE
+1 p- Bow_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Bow_047.png
+C74                               #bonewalker critical SFE
+1 p- Bow_048.png
+C01                               #NOP
+3 p- Bow_047.png
+C74                               #bonewalker critical SFE
+1 p- Bow_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+6 p- Bow_000.png
+4 p- Bow_001.png
+C74                               #bonewalker critical SFE
+5 p- Bow_002.png
+4 p- Bow_003.png
+3 p- Bow_004.png
+C24                               #Play sword slashing air SFE
+3 p- Bow_005.png
+6 p- Bow_006.png
+6 p- Bow_007.png
+6 p- Bow_006.png
+15 p- Bow_008.png
+6 p- Bow_009.png
+6 p- Bow_010.png
+3 p- Bow_011.png
+C3E                               #Play burning SFE
+4 p- Bow_012.png
+4 p- Bow_013.png
+4 p- Bow_014.png
+C19                               #Play bow pulling SFE
+4 p- Bow_015.png
+4 p- Bow_016.png
+12 p- Bow_017.png
+C3F                               #Play alternate arrow firing SFE?
+4 p- Bow_018.png
+C05                               #Call spell associated with equipped weapon
+4 p- Bow_019.png
+7 p- Bow_020.png
+C01                               #NOP
+20 p- Bow_021.png
+3 p- Bow_022.png
+3 p- Bow_023.png
+5 p- Bow_024.png
+5 p- Bow_025.png
+4 p- Bow_003.png
+C74                               #bonewalker critical SFE
+4 p- Bow_002.png
+6 p- Bow_001.png
+4 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

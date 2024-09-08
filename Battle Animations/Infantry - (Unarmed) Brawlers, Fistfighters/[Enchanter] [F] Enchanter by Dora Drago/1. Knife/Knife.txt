@@ -1,0 +1,194 @@
+#######################################################
+#10 Knife Hero Item
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+5 p- Knife_001.png
+5 p- Knife_002.png
+C25                               #Play wing flap SFE
+2 p- Knife_003.png
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C1A                               #Normal hit
+8 p- Knife_004.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+5 p- Knife_005.png
+5 p- Knife_002.png
+3 p- Knife_001.png
+1 p- Knife_000.png
+C34                               #Play heavy stepping SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+C38                               #Play heavy spear spinning SFE
+2 p- Knife_006.png
+2 p- Knife_007.png
+2 p- Knife_006.png
+2 p- Knife_007.png
+2 p- Knife_006.png
+3 p- Knife_001.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+5 p- Knife_002.png
+C25                               #Play wing flap SFE
+2 p- Knife_003.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C14                               #Heavy vibration of screen
+3 p- Knife_008.png
+2 p- Knife_009.png
+C38                               #Play heavy spear spinning SFE
+2 p- Knife_010.png
+3 p- Knife_011.png
+C38                               #Play heavy spear spinning SFE
+3 p- Knife_012.png
+3 p- Knife_013.png
+4 p- Knife_014.png
+C38                               #Play heavy spear spinning SFE
+5 p- Knife_015.png
+8 p- Knife_016.png
+C37                               #Play sword clicking SFE
+13 p- Knife_017.png
+3 p- Knife_018.png
+2 p- Knife_003.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C08                               #Critical hit
+C14                               #Heavy vibration of screen
+7 p- Knife_019.png
+4 p- Knife_020.png
+4 p- Knife_021.png
+C01                               #NOP
+C38                               #Play heavy spear spinning SFE
+5 p- Knife_022.png
+3 p- Knife_023.png
+3 p- Knife_024.png
+3 p- Knife_025.png
+C38                               #Play heavy spear spinning SFE
+3 p- Knife_026.png
+3 p- Knife_027.png
+3 p- Knife_028.png
+C38                               #Play heavy spear spinning SFE
+3 p- Knife_029.png
+3 p- Knife_030.png
+3 p- Knife_031.png
+3 p- Knife_032.png
+2 p- Knife_033.png
+C37                               #Play sword clicking SFE
+8 p- Knife_034.png
+2 p- Knife_035.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+2 p- Knife_000.png
+2 p- Knife_035.png
+5 p- Knife_036.png
+C38                               #Play heavy spear spinning SFE
+3 p- Knife_037.png
+C37                               #Play sword clicking SFE
+15 p- Knife_038.png
+4 p- Knife_002.png
+C05                               #Call spell associated with equipped weapon
+10 p- Knife_039.png
+C01                               #NOP
+3 p- Knife_002.png
+3 p- Knife_001.png
+2 p- Knife_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+2 p- Knife_035.png
+5 p- Knife_036.png
+C38                               #Play heavy spear spinning SFE
+3 p- Knife_037.png
+5 p- Knife_038.png
+C38                               #Play heavy spear spinning SFE
+3 p- Knife_040.png
+3 p- Knife_041.png
+3 p- Knife_040.png
+3 p- Knife_041.png
+5 p- Knife_038.png
+C05                               #Call spell associated with equipped weapon
+4 p- Knife_002.png
+10 p- Knife_039.png
+C01                               #NOP
+3 p- Knife_002.png
+3 p- Knife_001.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Knife_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Knife_042.png
+2 p- Knife_043.png
+3 p- Knife_044.png
+C01                               #NOP
+2 p- Knife_043.png
+3 p- Knife_042.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Knife_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Knife_042.png
+2 p- Knife_043.png
+3 p- Knife_044.png
+C01                               #NOP
+2 p- Knife_043.png
+3 p- Knife_042.png
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Knife_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Knife_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Knife_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+3 p- Knife_001.png
+5 p- Knife_002.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+2 p- Knife_003.png
+C25                               #Play wing flap SFE
+4 p- Knife_045.png
+8 p- Knife_004.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+5 p- Knife_005.png
+5 p- Knife_002.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+3 p- Knife_001.png
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

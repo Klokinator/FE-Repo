@@ -1,0 +1,312 @@
+#######################################################
+#10 Knife Hero Item
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+3 p- Knife_001.png
+3 p- Knife_002.png
+3 p- Knife_003.png
+C24                               #Play sword slashing air SFE
+3 p- Knife_004.png
+3 p- Knife_005.png
+3 p- Knife_006.png
+3 p- Knife_007.png
+3 p- Knife_008.png
+3 p- Knife_009.png
+3 p- Knife_010.png
+C23                               #Play shorter sword swinging SFE
+3 p- Knife_011.png
+3 p- Knife_012.png
+3 p- Knife_013.png
+3 p- Knife_014.png
+3 p- Knife_015.png
+C24                               #Play sword slashing air SFE
+3 p- Knife_016.png
+3 p- Knife_017.png
+3 p- Knife_018.png
+3 p- Knife_019.png
+3 p- Knife_020.png
+3 p- Knife_021.png
+30 p- Knife_022.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Knife_023.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Knife_024.png
+C1A                               #Normal hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+3 p- Knife_025.png
+3 p- Knife_026.png
+6 p- Knife_027.png
+C01                               #NOP
+C22                               #Play short sword swinging SFE
+3 p- Knife_028.png
+6 p- Knife_029.png
+C19                               #Play bow pulling SFE
+3 p- Knife_030.png
+3 p- Knife_031.png
+3 p- Knife_030.png
+3 p- Knife_032.png
+30 p- Knife_022.png
+3 p- Knife_033.png
+S96                               #Sound 150 SE:Footsteps 1
+3 p- Knife_034.png
+3 p- Knife_035.png
+3 p- Knife_036.png
+3 p- Knife_037.png
+3 p- Knife_038.png
+3 p- Knife_039.png
+3 p- Knife_040.png
+3 p- Knife_041.png
+3 p- Knife_042.png
+3 p- Knife_043.png
+3 p- Knife_044.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+3 p- Knife_045.png
+3 p- Knife_046.png
+SF1                               #Sound 241 SE:Fire charge @C85_3E
+5 p- Knife_047.png
+3 p- Knife_048.png
+3 p- Knife_049.png
+3 p- Knife_050.png
+3 p- Knife_051.png
+3 p- Knife_052.png
+3 p- Knife_053.png
+5 p- Knife_054.png
+3 p- Knife_055.png
+C19                               #Play bow pulling SFE
+3 p- Knife_056.png
+3 p- Knife_057.png
+3 p- Knife_058.png
+30 p- Knife_059.png
+S02BF                               #Sound 703 SE:Excalibur forming
+5 p- Knife_060.png
+4 p- Knife_061.png
+4 p- Knife_062.png
+4 p- Knife_063.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Knife_064.png
+3 p- Knife_065.png
+C08                               #Critical hit
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- Knife_066.png
+3 p- Knife_067.png
+3 p- Knife_068.png
+C01                               #NOP
+C22                               #Play short sword swinging SFE
+3 p- Knife_069.png
+C3F                               #Play alternate arrow firing SFE?
+3 p- Knife_070.png
+3 p- Knife_071.png
+5 p- Knife_072.png
+3 p- Knife_073.png
+3 p- Knife_074.png
+3 p- Knife_075.png
+3 p- Knife_076.png
+3 p- Knife_077.png
+3 p- Knife_078.png
+3 p- Knife_079.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Knife_080.png
+3 p- Knife_081.png
+3 p- Knife_082.png
+3 p- Knife_083.png
+3 p- Knife_084.png
+3 p- Knife_083.png
+3 p- Knife_084.png
+3 p- Knife_083.png
+3 p- Knife_084.png
+3 p- Knife_085.png
+C24                               #Play sword slashing air SFE
+3 p- Knife_086.png
+3 p- Knife_087.png
+3 p- Knife_088.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Knife_089.png
+3 p- Knife_090.png
+3 p- Knife_091.png
+3 p- Knife_092.png
+C43                               #Play weapon stance SFE (Clicking noise)
+3 p- Knife_093.png
+3 p- Knife_094.png
+3 p- Knife_095.png
+3 p- Knife_096.png
+3 p- Knife_097.png
+3 p- Knife_098.png
+C05                               #Call spell associated with equipped weapon
+3 p- Knife_099.png
+3 p- Knife_100.png
+3 p- Knife_101.png
+C01                               #NOP
+C23                               #Play shorter sword swinging SFE
+3 p- Knife_102.png
+3 p- Knife_089.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Knife_089.png
+3 p- Knife_090.png
+3 p- Knife_091.png
+C22                               #Play short sword swinging SFE
+1 p- Knife_103.png
+2 p- Knife_104.png
+1 p- Knife_105.png
+2 p- Knife_106.png
+1 p- Knife_103.png
+2 p- Knife_104.png
+1 p- Knife_105.png
+2 p- Knife_106.png
+3 p- Knife_092.png
+C43                               #Play weapon stance SFE (Clicking noise)
+3 p- Knife_107.png
+6 p- Knife_094.png
+3 p- Knife_095.png
+3 p- Knife_096.png
+3 p- Knife_097.png
+3 p- Knife_098.png
+C05                               #Call spell associated with equipped weapon
+3 p- Knife_099.png
+3 p- Knife_100.png
+3 p- Knife_101.png
+C01                               #NOP
+C22                               #Play short sword swinging SFE
+3 p- Knife_102.png
+3 p- Knife_089.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Knife_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+SB8                               #Sound 184 SE:UI or status-related sound effect?
+3 p- Knife_108.png
+3 p- Knife_109.png
+3 p- Knife_110.png
+3 p- Knife_111.png
+C01                               #NOP
+SB8                               #Sound 184 SE:UI or status-related sound effect?
+3 p- Knife_108.png
+3 p- Knife_109.png
+3 p- Knife_110.png
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Knife_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+SB8                               #Sound 184 SE:UI or status-related sound effect?
+3 p- Knife_108.png
+3 p- Knife_109.png
+3 p- Knife_110.png
+3 p- Knife_111.png
+C01                               #NOP
+SB8                               #Sound 184 SE:UI or status-related sound effect?
+3 p- Knife_108.png
+3 p- Knife_109.png
+3 p- Knife_110.png
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Knife_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Knife_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Knife_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Knife_000.png
+3 p- Knife_001.png
+3 p- Knife_002.png
+3 p- Knife_003.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Knife_004.png
+3 p- Knife_005.png
+3 p- Knife_006.png
+3 p- Knife_007.png
+3 p- Knife_008.png
+3 p- Knife_009.png
+3 p- Knife_010.png
+C23                               #Play shorter sword swinging SFE
+3 p- Knife_011.png
+3 p- Knife_012.png
+3 p- Knife_013.png
+3 p- Knife_014.png
+3 p- Knife_015.png
+3 p- Knife_016.png
+3 p- Knife_017.png
+3 p- Knife_018.png
+3 p- Knife_019.png
+3 p- Knife_020.png
+3 p- Knife_021.png
+30 p- Knife_022.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Knife_023.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Knife_024.png
+C24                               #Play sword slashing air SFE
+3 p- Knife_025.png
+3 p- Knife_026.png
+6 p- Knife_112.png
+C01                               #NOP
+C22                               #Play short sword swinging SFE
+3 p- Knife_028.png
+3 p- Knife_029.png
+3 p- Knife_030.png
+3 p- Knife_031.png
+3 p- Knife_030.png
+3 p- Knife_032.png
+30 p- Knife_022.png
+3 p- Knife_033.png
+S96                               #Sound 150 SE:Footsteps 1
+3 p- Knife_034.png
+3 p- Knife_035.png
+3 p- Knife_036.png
+3 p- Knife_037.png
+3 p- Knife_038.png
+3 p- Knife_039.png
+3 p- Knife_040.png
+3 p- Knife_041.png
+3 p- Knife_042.png
+3 p- Knife_043.png
+3 p- Knife_044.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Knife_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

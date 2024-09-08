@@ -1,0 +1,336 @@
+#######################################################
+#09 Monster 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Monster_000.png
+3 p- Monster_001.png
+C0C41                               #Play Axe rising SFE
+3 p- Monster_002.png
+3 p- Monster_003.png
+3 p- Monster_004.png
+3 p- Monster_005.png
+3 p- Monster_006.png
+1 p- Monster_007.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+3 p- Monster_008.png
+10 p- Monster_008.png
+C01                               #NOP
+1 p- Monster_009.png
+1 p- Monster_010.png
+1 p- Monster_011.png
+1 p- Monster_012.png
+C0C42                               #Play Axe falling SFE; long axe swinging SFE
+3 p- Monster_006.png
+3 p- Monster_005.png
+3 p- Monster_004.png
+3 p- Monster_003.png
+3 p- Monster_002.png
+3 p- Monster_001.png
+4 p- Monster_013.png
+4 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- Monster_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Monster_000.png
+3 p- Monster_014.png
+3 p- Monster_015.png
+3 p- Monster_016.png
+3 p- Monster_017.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Monster_018.png
+3 p- Monster_019.png
+3 p- Monster_020.png
+3 p- Monster_021.png
+3 p- Monster_022.png
+3 p- Monster_023.png
+3 p- Monster_024.png
+3 p- Monster_025.png
+SC9                               #Sound 201 SE:Light plunk? @C85_22
+3 p- Monster_026.png
+3 p- Monster_027.png
+3 p- Monster_026.png
+3 p- Monster_025.png
+2 p- Monster_024.png
+3 p- Monster_025.png
+SC9                               #Sound 201 SE:Light plunk? @C85_22
+3 p- Monster_026.png
+3 p- Monster_027.png
+3 p- Monster_026.png
+3 p- Monster_025.png
+3 p- Monster_024.png
+3 p- Monster_023.png
+3 p- Monster_022.png
+3 p- Monster_021.png
+3 p- Monster_020.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Monster_019.png
+3 p- Monster_018.png
+3 p- Monster_017.png
+3 p- Monster_016.png
+3 p- Monster_015.png
+3 p- Monster_014.png
+6 p- Monster_000.png
+S0132                               #Sound 306 SE:Fenrir flame
+2 p- Monster_028.png
+2 p- Monster_029.png
+2 p- Monster_030.png
+2 p- Monster_031.png
+2 p- Monster_032.png
+2 p- Monster_033.png
+2 p- Monster_034.png
+2 p- Monster_035.png
+2 p- Monster_036.png
+2 p- Monster_037.png
+2 p- Monster_038.png
+2 p- Monster_039.png
+2 p- Monster_040.png
+2 p- Monster_041.png
+2 p- Monster_042.png
+2 p- Monster_043.png
+2 p- Monster_044.png
+2 p- Monster_045.png
+2 p- Monster_046.png
+2 p- Monster_047.png
+2 p- Monster_048.png
+2 p- Monster_049.png
+2 p- Monster_050.png
+2 p- Monster_051.png
+S0132                               #Sound 306 SE:Fenrir flame
+2 p- Monster_052.png
+2 p- Monster_053.png
+2 p- Monster_054.png
+2 p- Monster_055.png
+2 p- Monster_056.png
+3 p- Monster_057.png
+C0C41                               #Play Axe rising SFE
+3 p- Monster_058.png
+3 p- Monster_059.png
+3 p- Monster_060.png
+3 p- Monster_061.png
+C22                               #Play short sword swinging SFE
+1 p- Monster_062.png
+C14                               #Heavy vibration of screen
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C0C                               #Critical hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+4 p- Monster_063.png
+20 p- Monster_064.png
+C01                               #NOP
+1 p- Monster_065.png
+1 p- Monster_066.png
+1 p- Monster_067.png
+1 p- Monster_068.png
+1 p- Monster_069.png
+1 p- Monster_070.png
+1 p- Monster_071.png
+1 p- Monster_072.png
+16 p- Monster_073.png
+3 p- Monster_074.png
+3 p- Monster_075.png
+3 p- Monster_076.png
+3 p- Monster_077.png
+3 p- Monster_078.png
+3 p- Monster_079.png
+2 p- Monster_080.png
+2 p- Monster_081.png
+2 p- Monster_082.png
+2 p- Monster_083.png
+2 p- Monster_084.png
+C1B                               #Play quick "heavy step" SFE
+4 p- Monster_085.png
+4 p- Monster_086.png
+4 p- Monster_087.png
+4 p- Monster_088.png
+4 p- Monster_089.png
+4 p- Monster_090.png
+4 p- Monster_091.png
+4 p- Monster_092.png
+4 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Monster_000.png
+3 p- Monster_001.png
+C0C41                               #Play Axe rising SFE
+3 p- Monster_002.png
+3 p- Monster_003.png
+3 p- Monster_004.png
+3 p- Monster_005.png
+3 p- Monster_006.png
+1 p- Monster_007.png
+C05                               #Call spell associated with equipped weapon
+C0C42                               #Play Axe falling SFE; long axe swinging SFE
+3 p- Monster_093.png
+C01                               #NOP
+3 p- Monster_006.png
+3 p- Monster_005.png
+3 p- Monster_004.png
+3 p- Monster_003.png
+3 p- Monster_002.png
+3 p- Monster_001.png
+4 p- Monster_013.png
+4 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Monster_000.png
+3 p- Monster_014.png
+3 p- Monster_015.png
+3 p- Monster_016.png
+3 p- Monster_017.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Monster_018.png
+3 p- Monster_019.png
+3 p- Monster_020.png
+3 p- Monster_021.png
+3 p- Monster_022.png
+3 p- Monster_023.png
+3 p- Monster_024.png
+3 p- Monster_025.png
+3 p- Monster_026.png
+SC9                               #Sound 201 SE:Light plunk? @C85_22
+3 p- Monster_027.png
+3 p- Monster_026.png
+3 p- Monster_025.png
+2 p- Monster_024.png
+3 p- Monster_025.png
+3 p- Monster_026.png
+SC9                               #Sound 201 SE:Light plunk? @C85_22
+3 p- Monster_027.png
+3 p- Monster_026.png
+3 p- Monster_025.png
+3 p- Monster_024.png
+3 p- Monster_023.png
+3 p- Monster_022.png
+3 p- Monster_021.png
+3 p- Monster_020.png
+3 p- Monster_019.png
+3 p- Monster_018.png
+3 p- Monster_017.png
+3 p- Monster_016.png
+3 p- Monster_015.png
+3 p- Monster_014.png
+6 p- Monster_000.png
+3 p- Monster_000.png
+3 p- Monster_001.png
+C0C41                               #Play Axe rising SFE
+3 p- Monster_002.png
+3 p- Monster_003.png
+3 p- Monster_004.png
+3 p- Monster_005.png
+3 p- Monster_006.png
+1 p- Monster_007.png
+C05                               #Call spell associated with equipped weapon
+3 p- Monster_093.png
+C01                               #NOP
+C0C42                               #Play Axe falling SFE; long axe swinging SFE
+3 p- Monster_006.png
+3 p- Monster_005.png
+3 p- Monster_004.png
+3 p- Monster_003.png
+3 p- Monster_002.png
+3 p- Monster_001.png
+4 p- Monster_013.png
+4 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+1 p- Monster_000.png
+C02                               #Start of dodge
+S0132                               #Sound 306 SE:Fenrir flame
+1 p- Monster_028.png
+2 p- Monster_030.png
+2 p- Monster_032.png
+3 p- Monster_033.png
+C01                               #NOP
+2 p- Monster_032.png
+2 p- Monster_031.png
+2 p- Monster_028.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+1 p- Monster_000.png
+C02                               #Start of dodge
+S0132                               #Sound 306 SE:Fenrir flame
+1 p- Monster_028.png
+2 p- Monster_030.png
+2 p- Monster_032.png
+3 p- Monster_033.png
+C01                               #NOP
+2 p- Monster_032.png
+2 p- Monster_031.png
+2 p- Monster_028.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+2 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+2 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+2 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Monster_000.png
+3 p- Monster_001.png
+C0C41                               #Play Axe rising SFE
+3 p- Monster_002.png
+3 p- Monster_003.png
+3 p- Monster_004.png
+3 p- Monster_005.png
+3 p- Monster_006.png
+1 p- Monster_007.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Monster_094.png
+C01                               #NOP
+3 p- Monster_095.png
+3 p- Monster_094.png
+1 p- Monster_009.png
+1 p- Monster_010.png
+1 p- Monster_011.png
+1 p- Monster_012.png
+C0C42                               #Play Axe falling SFE; long axe swinging SFE
+3 p- Monster_006.png
+3 p- Monster_005.png
+3 p- Monster_004.png
+3 p- Monster_003.png
+3 p- Monster_002.png
+3 p- Monster_001.png
+4 p- Monster_013.png
+4 p- Monster_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

@@ -11,3 +11,5 @@
 
 7. Staff by TytheBub
 
+The only difference between the 7 and 8 animation is the nergal aura being included in the 7 animation. the 8 one doesn't have it.
+

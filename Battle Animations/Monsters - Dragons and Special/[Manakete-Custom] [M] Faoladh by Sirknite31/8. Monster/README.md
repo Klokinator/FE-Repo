@@ -10,4 +10,7 @@
 
 Animation by Sirknite31.
 
+Kitsune base by ZoramineFae and Clendo.
+
+Magic animation by CraigRandall25.
 

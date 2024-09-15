@@ -14,3 +14,6 @@ Magic by Sme, Lisandra_Brave.
 
 Magic Alt by FaerieFruit.
 
+Magic Alt (Magus) by Teraspark, Repal by JaidynReiman.
+
+Staff by Teraspark, Repal by JaidynReiman.

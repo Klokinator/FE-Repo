@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by SteamingTofu
+Made by SteamingTofu.
+
+Range and Unarmed animation by Seliost1.

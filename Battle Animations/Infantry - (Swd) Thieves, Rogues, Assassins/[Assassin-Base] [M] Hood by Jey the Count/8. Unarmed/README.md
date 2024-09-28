@@ -10,5 +10,8 @@
 
 Original animation by IS. 
 
-Edit by Jey the Count
+Hood Edit by Jey the Count.
+
 Original repalette by Huichelaar.
+
+Bow by BatimaTheBat.

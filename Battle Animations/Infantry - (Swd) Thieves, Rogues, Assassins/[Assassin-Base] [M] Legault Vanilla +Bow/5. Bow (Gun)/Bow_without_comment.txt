@@ -1,0 +1,184 @@
+/// - Mode 1
+C03
+C07
+3 p- Bow_000.png
+2 p- Bow_001.png
+C22
+3 p- Bow_002.png
+30 p- Bow_003.png
+C21
+1 p- Bow_004.png
+1 p- Bow_005.png
+C04
+C1A
+10 p- Bow_003.png
+C01
+3 p- Bow_003.png
+1 p- Bow_002.png
+C37
+2 p- Bow_001.png
+3 p- Bow_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+3 p- Bow_000.png
+2 p- Bow_001.png
+C22
+3 p- Bow_002.png
+30 p- Bow_003.png
+1 p- Bow_004.png
+C21
+1 p- Bow_005.png
+C51
+6 p- Bow_003.png
+1 p- Bow_004.png
+C21
+1 p- Bow_005.png
+6 p- Bow_003.png
+1 p- Bow_004.png
+C21
+1 p- Bow_005.png
+C04
+C08
+3 p- Bow_003.png
+3 p- Bow_006.png
+3 p- Bow_007.png
+3 p- Bow_008.png
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_003.png
+C01
+3 p- Bow_003.png
+3 p- Bow_002.png
+C37
+2 p- Bow_001.png
+3 p- Bow_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+3 p- Bow_000.png
+2 p- Bow_001.png
+C22
+3 p- Bow_002.png
+30 p- Bow_003.png
+C21
+1 p- Bow_004.png
+1 p- Bow_005.png
+C04
+C1A
+10 p- Bow_003.png
+C01
+3 p- Bow_003.png
+3 p- Bow_002.png
+C37
+2 p- Bow_001.png
+3 p- Bow_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+3 p- Bow_000.png
+2 p- Bow_001.png
+C22
+3 p- Bow_002.png
+30 p- Bow_003.png
+1 p- Bow_004.png
+C21
+1 p- Bow_005.png
+C51
+6 p- Bow_003.png
+1 p- Bow_004.png
+C21
+1 p- Bow_005.png
+6 p- Bow_003.png
+1 p- Bow_004.png
+C21
+1 p- Bow_005.png
+C04
+C08
+3 p- Bow_003.png
+3 p- Bow_006.png
+3 p- Bow_007.png
+3 p- Bow_008.png
+3 p- Bow_009.png
+3 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_003.png
+C01
+3 p- Bow_003.png
+3 p- Bow_002.png
+C37
+2 p- Bow_001.png
+3 p- Bow_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+2 p- Bow_000.png
+C0E
+2 p- Bow_000.png
+3 p- Bow_013.png
+C01
+2 p- Bow_014.png
+C06
+2 p- Bow_013.png
+C0D
+~~~
+/// - Mode 8
+C02
+2 p- Bow_000.png
+C0E
+2 p- Bow_000.png
+3 p- Bow_013.png
+C01
+2 p- Bow_014.png
+C06
+2 p- Bow_013.png
+C0D
+~~~
+/// - Mode 9
+3 p- Bow_000.png
+C01
+~~~
+/// - Mode 10
+3 p- Bow_000.png
+C01
+~~~
+/// - Mode 11
+3 p- Bow_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+3 p- Bow_000.png
+5 p- Bow_001.png
+C22
+5 p- Bow_002.png
+20 p- Bow_003.png
+1 p- Bow_004.png
+1 p- Bow_005.png
+C04
+10 p- Bow_003.png
+C01
+3 p- Bow_003.png
+2 p- Bow_002.png
+C37
+2 p- Bow_001.png
+3 p- Bow_000.png
+C06
+C0D
+~~~
+/// - End of animation

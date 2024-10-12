@@ -1,0 +1,9 @@
+//NAME=Cut 1
+1	Cut_1_g000.png
+1	Cut_1_g001.png
+2	Cut_1_g002.png
+4	Cut_1_g003.png
+2	Cut_1_g004.png
+2	Cut_1_g005.png
+
+//inspired by ThinSlash by Viktor Hahn

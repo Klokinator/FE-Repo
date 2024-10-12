@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Nuramon.
+
+Black Arrow variant by VelvetKitsune.

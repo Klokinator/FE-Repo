@@ -1,0 +1,11 @@
+//NAME=Flame Wheel
+1	Flame_Wheel_g000.png
+2	Flame_Wheel_g001.png
+2	Flame_Wheel_g002.png
+2	Flame_Wheel_g003.png
+2	Flame_Wheel_g004.png
+2	Flame_Wheel_g005.png
+2	Flame_Wheel_g006.png
+2	Flame_Wheel_g007.png
+
+//inspired by Cauterize by Viktor Hahn

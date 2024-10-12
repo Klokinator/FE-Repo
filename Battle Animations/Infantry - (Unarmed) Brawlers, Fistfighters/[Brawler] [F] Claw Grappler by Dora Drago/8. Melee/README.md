@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Dora Drago (ドラドラゴ).
+
+Staff animation by VelvetKitsune.

@@ -1,0 +1,11 @@
+//NAME=Arrow Shockwave 1
+1	Arrow_Shockwave_1_g000.png
+2	Arrow_Shockwave_1_g001.png
+2	Arrow_Shockwave_1_g002.png
+2	Arrow_Shockwave_1_g003.png
+2	Arrow_Shockwave_1_g004.png
+2	Arrow_Shockwave_1_g005.png
+2	Arrow_Shockwave_1_g006.png
+2	Arrow_Shockwave_1_g007.png
+
+//inspired by Impact1 by Viktor Hahn

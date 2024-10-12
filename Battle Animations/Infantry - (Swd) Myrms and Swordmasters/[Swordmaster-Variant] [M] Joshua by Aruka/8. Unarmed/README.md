@@ -11,3 +11,5 @@
 Animation by Aruka, Kenpuhu.
 
 Unarmed by Blood.
+
+Sword (Alt) by Seliost1.

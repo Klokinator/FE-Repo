@@ -9,3 +9,5 @@
 ## Credit
 
 Created by SteamingTofu.
+
+Alt range and Unarmed by Seliost1.

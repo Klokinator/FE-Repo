@@ -1,0 +1,9 @@
+//NAME=Cut 2
+1	Cut_2_g000.png
+2	Cut_2_g001.png
+3	Cut_2_g002.png
+4	Cut_2_g003.png
+3	Cut_2_g004.png
+2	Cut_2_g005.png
+
+//inspired by ThickSlash by Viktor Hahn

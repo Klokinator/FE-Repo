@@ -1,0 +1,11 @@
+//NAME=Dark Shards
+1	Dark_Shards_g000.png
+2	Dark_Shards_g001.png
+2	Dark_Shards_g002.png
+2	Dark_Shards_g003.png
+2	Dark_Shards_g004.png
+2	Dark_Shards_g005.png
+2	Dark_Shards_g006.png
+2	Dark_Shards_g007.png
+
+//inspired by Shards1 by Viktor Hahn

@@ -12,4 +12,4 @@ Made by the FE7if devs.
 
 Magic Sword animation by Seliost1.
 
-This folder needs unarmed frames.
+This folder needs unarmed frames. (Eirika T2 uses the same palette order. That can be a stand-in for a lack of an Unarmed animation.)

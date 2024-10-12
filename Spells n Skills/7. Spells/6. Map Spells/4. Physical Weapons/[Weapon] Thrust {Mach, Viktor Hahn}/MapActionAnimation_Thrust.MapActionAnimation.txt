@@ -1,0 +1,10 @@
+//NAME=Thrust
+1	Thrust_g000.png
+1	Thrust_g001.png
+1	Thrust_g002.png
+2	Thrust_g003.png
+3	Thrust_g004.png
+2	Thrust_g005.png
+2	Thrust_g006.png
+
+//inspired by Shards2 by Viktor Hahn

@@ -1,5 +1,5 @@
 #######################################################
-#04 ldy_itm Lady Item
+#
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

@@ -1,5 +1,5 @@
 #######################################################
-#03 ldy1_mag Lady Staff
+#
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

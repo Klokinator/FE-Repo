@@ -15,7 +15,3 @@ Lance by Flasuban.
 Magic by Sme, Lisandra_Brave.
 
 Magic Alt by FaerieFruit.
-
-Magic Alt (Magus) by Teraspark, Repal from Magus by JaidynReiman.
-
-Staff by Teraspark, Repal from Magus by JaidynReiman.

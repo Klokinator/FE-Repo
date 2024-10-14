@@ -1,0 +1,11 @@
+//NAME=Swipe
+1	Swipe_g000.png
+2	Swipe_g001.png
+2	Swipe_g002.png
+2	Swipe_g003.png
+2	Swipe_g004.png
+1	Swipe_g005.png
+1	Swipe_g006.png
+1	Swipe_g007.png
+
+//inspired by Circle02 by Viktor Hahn

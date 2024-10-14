@@ -1,0 +1,11 @@
+//NAME=Neck Slice
+1	Neck_Slice_g000.png
+1	Neck_Slice_g001.png
+1	Neck_Slice_g002.png
+2	Neck_Slice_g003.png
+3	Neck_Slice_g004.png
+2	Neck_Slice_g005.png
+1	Neck_Slice_g006.png
+1	Neck_Slice_g007.png
+
+//inspired by Circle01 by Viktor Hahn

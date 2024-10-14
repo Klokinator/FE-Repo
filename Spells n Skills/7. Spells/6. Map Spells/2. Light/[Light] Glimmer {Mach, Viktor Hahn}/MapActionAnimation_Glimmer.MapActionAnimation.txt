@@ -1,0 +1,11 @@
+//NAME=Glimmer
+1	Glimmer_g000.png
+2	Glimmer_g001.png
+2	Glimmer_g002.png
+2	Glimmer_g003.png
+2	Glimmer_g004.png
+2	Glimmer_g005.png
+2	Glimmer_g006.png
+2	Glimmer_g007.png
+
+//inspired by Flash by Viktor Hahn

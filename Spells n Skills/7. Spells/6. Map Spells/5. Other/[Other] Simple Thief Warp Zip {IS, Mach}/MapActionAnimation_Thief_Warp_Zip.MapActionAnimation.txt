@@ -1,0 +1,11 @@
+//NAME=Thief_Warp
+1	Thief_Warp_Zip_g000.png
+2	Thief_Warp_Zip_g001.png
+2	Thief_Warp_Zip_g002.png
+2	Thief_Warp_Zip_g003.png
+2	Thief_Warp_Zip_g004.png
+2	Thief_Warp_Zip_g005.png
+2	Thief_Warp_Zip_g006.png
+2	Thief_Warp_Zip_g007.png
+
+//based on Fire Emblem 7 by Intelligent Systems (sound effects not included)

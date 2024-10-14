@@ -1,0 +1,11 @@
+//NAME=Scissor Wind
+2	Scissor_Wind_g000.png
+2	Scissor_Wind_g001.png
+2	Scissor_Wind_g002.png
+1	Scissor_Wind_g003.png
+2	Scissor_Wind_g004.png
+1	Scissor_Wind_g005.png
+2	Scissor_Wind_g006.png
+3	Scissor_Wind_g007.png
+
+//inspired by Feather by Viktor Hahn

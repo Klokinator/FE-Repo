@@ -13,3 +13,8 @@ Vanilla animation by IS.
 Magic and Staff by Skitty.
 
 1. Sword (Durandal) and 6. Magic (No Staff) by Seliost1.
+
+Lance by BatimaTheBat and credit to Mycahel for the desgin.
+
+Official Art Armads by BatimaTheBat and credit to Nuramon for the desgin.
+

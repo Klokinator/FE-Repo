@@ -15,3 +15,5 @@ Bow {ltranc, Genocike, Kao, DerTheVaporeon}
 Magic {Primefusion}
 
 Staff {Primefusion}
+
+Axe (With Handaxe) was combined by Seliost1.

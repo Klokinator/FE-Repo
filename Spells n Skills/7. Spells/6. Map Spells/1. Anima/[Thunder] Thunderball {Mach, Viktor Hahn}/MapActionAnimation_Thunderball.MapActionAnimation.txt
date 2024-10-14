@@ -1,0 +1,9 @@
+//NAME=Thunderball
+1	Thunderball_g000.png
+3	Thunderball_g001.png
+3	Thunderball_g002.png
+3	Thunderball_g003.png
+3	Thunderball_g004.png
+2	Thunderball_g005.png
+
+//inspired by Freeze by Viktor Hahn

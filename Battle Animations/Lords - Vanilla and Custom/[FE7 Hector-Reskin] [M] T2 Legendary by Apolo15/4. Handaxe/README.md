@@ -11,3 +11,11 @@
 Animation by Apolo15.
 
 Desgin by Jeorge Reds.
+
+Lance by BatimaTheBat and credit to Mycahel for the desgin.
+
+Vanilla Armads by BatimaTheBat.
+
+Official Art Armads by BatimaTheBat and credit to Nuramon for the desgin.
+
+Durandal by BatimaTheBat.

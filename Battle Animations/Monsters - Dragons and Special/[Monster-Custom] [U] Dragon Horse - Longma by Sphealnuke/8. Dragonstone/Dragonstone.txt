@@ -1,0 +1,224 @@
+#######################################################
+#F3 Dragonstone Manakete D.Stone/Monster Weapon
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+C25                               #Play wing flap SFE
+3 p- Dragonstone_003.png
+3 p- Dragonstone_004.png
+9 p- Dragonstone_005.png
+C41                               #Play Axe rising SFE
+3 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+3 p- Dragonstone_007.png
+3 p- Dragonstone_008.png
+C01                               #LOOPEND }  NOP
+3 p- Dragonstone_009.png
+3 p- Dragonstone_010.png
+6 p- Dragonstone_011.png
+3 p- Dragonstone_012.png
+6 p- Dragonstone_013.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_014.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_015.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_016.png
+C3E                               #Play burning SFE
+3 p- Dragonstone_017.png
+2 p- Dragonstone_018.png
+3 p- Dragonstone_019.png
+2 p- Dragonstone_020.png
+3 p- Dragonstone_021.png
+3 p- Dragonstone_022.png
+3 p- Dragonstone_023.png
+9 p- Dragonstone_024.png
+6 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+C25                               #Play wing flap SFE
+3 p- Dragonstone_025.png
+3 p- Dragonstone_026.png
+S02FB                               #Sound 763 SE:Fire Dragon attacking
+3 p- Dragonstone_027.png
+6 p- Dragonstone_028.png
+4 p- Dragonstone_029.png
+4 p- Dragonstone_030.png
+3 p- Dragonstone_031.png
+4 p- Dragonstone_032.png
+9 p- Dragonstone_005.png
+C41                               #Play Axe rising SFE
+3 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+3 p- Dragonstone_007.png
+3 p- Dragonstone_008.png
+C01                               #LOOPEND }  NOP
+3 p- Dragonstone_009.png
+3 p- Dragonstone_010.png
+6 p- Dragonstone_011.png
+3 p- Dragonstone_012.png
+6 p- Dragonstone_013.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_014.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_015.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+C25                               #Play wing flap SFE
+3 p- Dragonstone_003.png
+3 p- Dragonstone_004.png
+9 p- Dragonstone_005.png
+C41                               #Play Axe rising SFE
+3 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+3 p- Dragonstone_007.png
+3 p- Dragonstone_008.png
+C01                               #LOOPEND }  NOP
+3 p- Dragonstone_009.png
+3 p- Dragonstone_010.png
+6 p- Dragonstone_011.png
+3 p- Dragonstone_012.png
+6 p- Dragonstone_013.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_014.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_015.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_016.png
+C3E                               #Play burning SFE
+3 p- Dragonstone_017.png
+2 p- Dragonstone_018.png
+3 p- Dragonstone_019.png
+2 p- Dragonstone_020.png
+3 p- Dragonstone_021.png
+3 p- Dragonstone_022.png
+3 p- Dragonstone_023.png
+9 p- Dragonstone_024.png
+6 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+C25                               #Play wing flap SFE
+3 p- Dragonstone_025.png
+3 p- Dragonstone_026.png
+S02FB                               #Sound 763 SE:Fire Dragon attacking
+3 p- Dragonstone_027.png
+6 p- Dragonstone_028.png
+4 p- Dragonstone_029.png
+4 p- Dragonstone_030.png
+3 p- Dragonstone_031.png
+4 p- Dragonstone_032.png
+9 p- Dragonstone_005.png
+C41                               #Play Axe rising SFE
+3 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+3 p- Dragonstone_007.png
+3 p- Dragonstone_008.png
+C01                               #LOOPEND }  NOP
+3 p- Dragonstone_009.png
+3 p- Dragonstone_010.png
+6 p- Dragonstone_011.png
+3 p- Dragonstone_012.png
+6 p- Dragonstone_013.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_014.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_015.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Dragonstone_033.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Dragonstone_034.png
+1 p- Dragonstone_035.png
+C01                               #NOP
+3 p- Dragonstone_034.png
+1 p- Dragonstone_033.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Dragonstone_033.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Dragonstone_034.png
+1 p- Dragonstone_035.png
+C01                               #NOP
+3 p- Dragonstone_034.png
+1 p- Dragonstone_033.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Dragonstone_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Dragonstone_000.png
+6 p- Dragonstone_001.png
+3 p- Dragonstone_002.png
+C25                               #Play wing flap SFE
+3 p- Dragonstone_003.png
+3 p- Dragonstone_004.png
+9 p- Dragonstone_005.png
+C41                               #Play Axe rising SFE
+3 p- Dragonstone_006.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+3 p- Dragonstone_007.png
+3 p- Dragonstone_008.png
+C01                               #LOOPEND }  NOP
+3 p- Dragonstone_009.png
+3 p- Dragonstone_010.png
+6 p- Dragonstone_011.png
+3 p- Dragonstone_012.png
+6 p- Dragonstone_013.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_014.png
+C1D                               #Play light horse stepping SFE; pitch increases
+4 p- Dragonstone_015.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Dragonstone_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

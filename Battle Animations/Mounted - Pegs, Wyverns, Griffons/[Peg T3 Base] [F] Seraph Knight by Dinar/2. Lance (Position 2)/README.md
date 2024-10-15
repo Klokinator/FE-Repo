@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Dinar.
+
+Magic (Staff) by CelestiaHeart.

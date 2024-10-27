@@ -1,210 +1,205 @@
-#######################################################
-#43 wlff_itm Ranger Bow
-#
-#When importing to FEditorAdv delete # and after each line.
-#######################################################
-/// - Mode 1               #Melee Animation
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
+/// - Mode 1
+C03
+C07
 10 p- Bow_000.png
 3 p- Bow_001.png
 3 p- Bow_002.png
-C23                               #Play shorter sword swinging SFE
+C23
 3 p- Bow_003.png
 3 p- Bow_004.png
 6 p- Bow_005.png
-C19                               #Play bow pulling SFE
+C19
 3 p- Bow_006.png
 10 p- Bow_007.png
 10 p- Bow_008.png
 3 p- Bow_009.png
-C05                               #Call spell associated with equipped weapon
+C05
 1 p- Bow_010.png
-C01                               #NOP
+C01
 3 p- Bow_011.png
 3 p- Bow_012.png
-C06                               #Begin opponent's turn after hit.next code 0D.
+C06
 10 p- Bow_000.png
-C0D                               #End of dodge animation. preceeded by 0x06
+C0D
 ~~~
-/// - Mode 3               #Melee Critical Animation
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
+/// - Mode 3
+C03
+C07
 1 p- Bow_000.png
-C5A                               #mauthedoog 1 SFE
+C5A
 2 p- Bow_013.png
-C38                               #Play heavy spear spinning SFE
+C38
 2 p- Bow_014.png
 2 p- Bow_015.png
 2 p- Bow_016.png
 2 p- Bow_017.png
 2 p- Bow_018.png
 3 p- Bow_019.png
-C38                               #Play heavy spear spinning SFE
+C38
 3 p- Bow_020.png
 3 p- Bow_021.png
 3 p- Bow_022.png
 3 p- Bow_023.png
-C39                               #Sacred Flash. White screen flash.
-C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C51
+C20
 3 p- Bow_024.png
 3 p- Bow_025.png
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C1F
 3 p- Bow_026.png
 3 p- Bow_027.png
-C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C21
 3 p- Bow_028.png
-C5B                               #mauthedoog 2 SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C5B
+C04
 6 p- Bow_029.png
 6 p- Bow_030.png
 6 p- Bow_031.png
-C05                               #Call spell associated with equipped weapon
-C08                               #Critical hit
+C05
+C08
 6 p- Bow_032.png
 6 p- Bow_033.png
 3 p- Bow_034.png
-C5D                               #mauthedoog 3 SFE
+C5D
 3 p- Bow_035.png
 3 p- Bow_036.png
 3 p- Bow_037.png
-C06                               #Begin opponent's turn after hit.next code 0D.
-C5D                               #mauthedoog 3 SFE
+C06
+C5D
 3 p- Bow_000.png
-C01                               #NOP
-C0D                               #End of dodge animation. preceeded by 0x06
+C01
+C0D
 ~~~
-/// - Mode 5               #Ranged Animation 
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
+/// - Mode 5
+C03
+C07
 10 p- Bow_000.png
 3 p- Bow_001.png
 3 p- Bow_002.png
-C23                               #Play shorter sword swinging SFE
+C23
 3 p- Bow_003.png
 3 p- Bow_004.png
 6 p- Bow_005.png
-C19                               #Play bow pulling SFE
+C19
 3 p- Bow_006.png
 10 p- Bow_007.png
 10 p- Bow_008.png
 3 p- Bow_009.png
-C05                               #Call spell associated with equipped weapon
+C05
 1 p- Bow_010.png
-C01                               #NOP
+C01
 3 p- Bow_011.png
 3 p- Bow_012.png
-C06                               #Begin opponent's turn after hit.next code 0D.
+C06
 10 p- Bow_000.png
-C0D                               #End of dodge animation. preceeded by 0x06
+C0D
 ~~~
-/// - Mode 6               #Ranged Critical Animation
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
+/// - Mode 6
+C03
+C07
 1 p- Bow_000.png
-C5A                               #mauthedoog 1 SFE
+C5A
 2 p- Bow_013.png
-C38                               #Play heavy spear spinning SFE
+C38
 2 p- Bow_014.png
 2 p- Bow_015.png
 2 p- Bow_016.png
 2 p- Bow_017.png
 2 p- Bow_018.png
 3 p- Bow_019.png
-C38                               #Play heavy spear spinning SFE
+C38
 3 p- Bow_020.png
 3 p- Bow_021.png
 3 p- Bow_022.png
 3 p- Bow_023.png
-C39                               #Sacred Flash. White screen flash.
-C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C51
+C20
 3 p- Bow_024.png
 3 p- Bow_025.png
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C1F
 3 p- Bow_026.png
 3 p- Bow_027.png
-C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C21
 3 p- Bow_028.png
-C5B                               #mauthedoog 2 SFE
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C5B
+C04
 6 p- Bow_029.png
 6 p- Bow_030.png
 6 p- Bow_031.png
-C05                               #Call spell associated with equipped weapon
-C08                               #Critical hit
+C05
+C08
 6 p- Bow_032.png
 6 p- Bow_033.png
 3 p- Bow_034.png
-C5D                               #mauthedoog 3 SFE
+C5D
 3 p- Bow_035.png
 3 p- Bow_036.png
 3 p- Bow_037.png
-C06                               #Begin opponent's turn after hit.next code 0D.
-C5D                               #mauthedoog 3 SFE
+C06
+C5D
 3 p- Bow_000.png
-C01                               #NOP
-C0D                               #End of dodge animation. preceeded by 0x06
+C01
+C0D
 ~~~
-/// - Mode 7               #Dodge Melee Attack
-C02                               #Start of dodge
+/// - Mode 7
+C02
 1 p- Bow_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C0E
 3 p- Bow_038.png
 3 p- Bow_039.png
 1 p- Bow_040.png
-C01                               #NOP
+C01
 3 p- Bow_038.png
 3 p- Bow_037.png
 1 p- Bow_000.png
-C0D                               #End of dodge animation. preceeded by 0x06
+C0D
 ~~~
-/// - Mode 8               #Dodge Ranged Attack
-C02                               #Start of dodge
+/// - Mode 8
+C02
 1 p- Bow_000.png
-C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C0E
 3 p- Bow_038.png
 3 p- Bow_039.png
 1 p- Bow_040.png
-C01                               #NOP
+C01
 3 p- Bow_038.png
 3 p- Bow_037.png
 1 p- Bow_000.png
-C0D                               #End of dodge animation. preceeded by 0x06
+C0D
 ~~~
-/// - Mode 9               #Equiped with Melee Weapon
+/// - Mode 9
 1 p- Bow_000.png
-C01                               #NOP
+C01
 ~~~
-/// - Mode 10               #Standing motions
+/// - Mode 10
 1 p- Bow_000.png
-C01                               #NOP
+C01
 ~~~
-/// - Mode 11               #Equiped with Ranged weapon
+/// - Mode 11
 1 p- Bow_000.png
-C01                               #NOP
+C01
 ~~~
-/// - Mode 12               #Attack Missed Animation
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
+/// - Mode 12
+C03
+C07
 10 p- Bow_000.png
 3 p- Bow_001.png
 3 p- Bow_002.png
-C23                               #Play shorter sword swinging SFE
+C23
 3 p- Bow_003.png
 3 p- Bow_004.png
 6 p- Bow_005.png
-C19                               #Play bow pulling SFE
+C19
 3 p- Bow_006.png
 10 p- Bow_007.png
 10 p- Bow_008.png
 3 p- Bow_009.png
-C05                               #Call spell associated with equipped weapon
+C05
 1 p- Bow_010.png
-C01                               #NOP
+C01
 3 p- Bow_011.png
 3 p- Bow_012.png
-C06                               #Begin opponent's turn after hit.next code 0D.
+C06
 10 p- Bow_000.png
-C0D                               #End of dodge animation. preceeded by 0x06
+C0D
 ~~~
 /// - End of animation

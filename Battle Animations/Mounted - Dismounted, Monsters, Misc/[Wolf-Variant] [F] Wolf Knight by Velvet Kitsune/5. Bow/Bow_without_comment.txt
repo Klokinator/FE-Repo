@@ -40,7 +40,7 @@ C38
 3 p- Bow_021.png
 3 p- Bow_022.png
 3 p- Bow_023.png
-C39
+C51
 C20
 3 p- Bow_024.png
 3 p- Bow_025.png
@@ -111,7 +111,7 @@ C38
 3 p- Bow_021.png
 3 p- Bow_022.png
 3 p- Bow_023.png
-C39
+C51
 C20
 3 p- Bow_024.png
 3 p- Bow_025.png

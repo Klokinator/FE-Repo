@@ -13,3 +13,5 @@ Base animation by Greentea (Lloyd Alt).
 Reskin by Leixian.
 
 Only F2U until further notice.
+
+Unarmed by Seliost1.

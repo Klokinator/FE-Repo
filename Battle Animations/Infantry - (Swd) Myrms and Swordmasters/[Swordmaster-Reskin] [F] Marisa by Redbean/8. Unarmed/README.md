@@ -12,4 +12,4 @@ Animation by Red Bean.
 
 Scripting by Marlon0024.
 
-Improved Sword by 7743.
+Improved + Fixed script by Seliost1 and 7743.

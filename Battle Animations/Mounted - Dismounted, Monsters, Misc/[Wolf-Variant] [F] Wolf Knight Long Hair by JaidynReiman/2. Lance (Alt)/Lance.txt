@@ -1,5 +1,5 @@
 #######################################################
-#3B wlfm_lnc Paladin Lance
+#41 wlff_lnc 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

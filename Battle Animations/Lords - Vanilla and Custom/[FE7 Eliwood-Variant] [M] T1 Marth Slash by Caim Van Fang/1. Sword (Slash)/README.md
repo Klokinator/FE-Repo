@@ -11,3 +11,5 @@
 Made by Caim Van Fang.
 
 Sword (Stab) and Sword (Slash) by Seliost1.
+
+Unarmed by Seliost1.

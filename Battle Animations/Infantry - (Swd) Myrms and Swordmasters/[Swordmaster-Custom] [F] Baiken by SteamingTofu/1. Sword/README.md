@@ -10,4 +10,4 @@
 
 Created by SteamingTofu.
 
-Script fix by Seliost1.
+Script fix and Unarmed by Seliost1.

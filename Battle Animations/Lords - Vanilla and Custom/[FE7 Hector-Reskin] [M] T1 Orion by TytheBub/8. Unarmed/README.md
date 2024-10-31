@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by: {TytheBub}
+Made by: {TytheBub}.
+
+Sword range animation added by Seliost1.

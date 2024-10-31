@@ -1,5 +1,5 @@
 #######################################################
-#43 wlff_itm Ranger Bow
+#44 wlff_bow Barbarian Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

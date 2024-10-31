@@ -1,5 +1,5 @@
 #######################################################
-#42 wlff_hnd 
+#43 wlff_hnd Ranger Bow
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

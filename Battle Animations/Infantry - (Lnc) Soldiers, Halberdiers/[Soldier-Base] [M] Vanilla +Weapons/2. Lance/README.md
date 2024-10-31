@@ -13,3 +13,5 @@ Base Soldier by IS.
 Sword animation by Arthur Pendragon.
 
 Staff by Orihara_Saki.
+
+Sword (Alt Range) by Seliost1.

@@ -4,12 +4,14 @@
 
 | Still | Animation |
 | :---: | :-------: |
-| ![Bow still](./Bow_000.png) | ![Handaxe](./Bow.gif) |
+| ![Bow still](./Bow_000.png) | ![Bow](./Bow.gif) |
 
 ## Credit
 
-Original Animation by VelvetKitsune.
+Animation by VelvetKitsune.
 
 Bow Animation by JaidynReiman. Original Bow based on SALVAGED Bow by Epicer. DATonDemand for providing tips on how to improve the animation!
+
+Lance (Alt) and Axe (Alt) Animations by JaidynReiman. Body moves more in ranged animations.
 
 Long Hair by JaidynReiman.

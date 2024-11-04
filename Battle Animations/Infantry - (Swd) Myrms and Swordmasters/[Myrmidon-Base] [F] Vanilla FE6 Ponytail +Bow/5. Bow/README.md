@@ -12,4 +12,4 @@ Base animation by IS.
 
 Bow by N426.
 
-Tails by JaidynReiman, based on original Vanilla FE6-8 Generic Myrmidon Sword and Unarmed (Tail) by Seliost1
+Tails by JaidynReiman, based on original Vanilla FE6-8 Generic Myrmidon Sword and Unarmed (Tail) by Seliost1.

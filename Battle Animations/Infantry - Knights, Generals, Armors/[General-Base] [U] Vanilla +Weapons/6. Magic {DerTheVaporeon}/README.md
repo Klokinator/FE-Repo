@@ -10,6 +10,8 @@
 
 Base General (chainless sword, chained lance/axe) by IS.
 
+Magic Axe frames by Tatutachang.
+
 Chained Sword by knabepicer.
 
 Chainless Lance by knabepicer, with coding fixes by Dabmaster110.
@@ -23,7 +25,6 @@ Bow and Chainless Axe by TheBlindArcher.
 Magic by DerTheVaporeon.
 
 Pincer Blades animation by A Guy That Exists/Existslot.
-
 
 Marshall style sword by tatutachang. Sword Original Animation by Luerock, Nuramon, Team SALVAGED.
 

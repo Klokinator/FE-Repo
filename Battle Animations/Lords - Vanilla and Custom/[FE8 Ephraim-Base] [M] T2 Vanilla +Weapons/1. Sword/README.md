@@ -21,3 +21,5 @@ Handaxe by Belle, St jack.
 Bow by Belle, St jack.
 
 Staff by Fates-Blade.
+
+Blue Gem edit by UltraFenix.

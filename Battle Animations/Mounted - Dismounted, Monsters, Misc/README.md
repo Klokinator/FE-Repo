@@ -8,6 +8,14 @@
 
 
 
+## [\[Bird-Rider\] \[F\] Sky & Wrench Generic by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20Generic%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20Generic%20by%20Stephano) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20Generic%20by%20Stephano/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20&%20Wrench%20Generic%20by%20Stephano/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Brigand-Reskin\] \[F\] Brigand Drake Rider by Dutch Introvert](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert/4.%20Handaxe/Handaxe.gif"/> |

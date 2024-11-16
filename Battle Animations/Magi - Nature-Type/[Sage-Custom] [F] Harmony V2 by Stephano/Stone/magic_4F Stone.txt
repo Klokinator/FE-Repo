@@ -1,0 +1,101 @@
+#######################################################
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Start Animation
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C00                               #NOP
+C40                               #Scrolls the screen from being centered on the attacker to being centered on the defender
+C100029                               #Background brightness and opacity XX
+C03C948                               #Sound 969 SE:Egg grow
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_001.png
+2
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_002.png
+2
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_003.png
+2
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_004.png
+2
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_005.png
+2
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_006.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_007.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_008.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_009.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_010.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_011.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_012.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_013.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_014.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_015.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_016.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_017.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_018.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_019.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_020.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_021.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_022.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_023.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_024.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_025.png
+1
+C1A                               #Required before 1F or miss termination branch
+C1F                               #Play a hit tone (requires 1A just before)
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_026.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_027.png
+1
+O  p- magic_4F Stone_o_000.png
+B  p- magic_4F Stone_b_028.png
+1
+~~~                               #miss terminator
+/// - End of animation

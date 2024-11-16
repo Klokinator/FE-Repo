@@ -8,6 +8,8 @@
 
 ## Credit
 
-Mikey Seregon, Khrene Kleaver, Khardros
+Mikey Seregon, Khrene Kleaver, Khardros.
 
-8. Legendary (Binding Blade) {Khardros}
+8. Legendary (Binding Blade) {Khardros}.
+
+1. Sword (slash ranged) by Seliost1.

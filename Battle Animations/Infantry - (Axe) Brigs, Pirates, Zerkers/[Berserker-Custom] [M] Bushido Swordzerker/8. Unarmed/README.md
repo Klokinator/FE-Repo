@@ -9,3 +9,11 @@
 ## Credit
 
 Intestine, IS, Maiser6, TBA, The_Big_Dededester
+
+Sword (Alt) by ZoramineFae and Jj09.
+
+Magic by Jj09.
+
+Note: The Sword (Alt) animation combines ZoramineFae's defualt attack animation and the vanilla critical animation.
+
+Note2: The magic critical animation uses the sage's critical rune code.

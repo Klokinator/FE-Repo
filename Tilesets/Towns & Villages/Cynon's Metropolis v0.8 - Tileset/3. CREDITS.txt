@@ -1,0 +1,9 @@
+Made by: Cynon
+
+Tileset is currently unfinished. I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever palette changes you like. 
+
+Uses tiles adapted and modified from;
+- Final Fantasy 4, 5, and 6 (SNES)
+- Live-A-Live (SNES)
+- RPG Maker 2000
+- RPG Maker 2003

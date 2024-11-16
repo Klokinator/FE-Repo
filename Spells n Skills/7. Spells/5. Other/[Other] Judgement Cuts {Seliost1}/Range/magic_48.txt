@@ -1,0 +1,70 @@
+/// - Start Animation
+C00
+C00
+C00
+C00
+C00
+C100829
+O  p- magic_48_o_000.png
+B  p- magic_48_b_001.png
+2
+C40
+O  p- magic_48_o_000.png
+B  p- magic_48_b_001.png
+2
+C38
+O  p- magic_48_o_000.png
+B  p- magic_48_b_001.png
+2
+C1F
+C0114
+O  p- magic_48_o_002.png
+B  p- magic_48_b_001.png
+1
+C1F
+C0114
+O  p- magic_48_o_003.png
+B  p- magic_48_b_001.png
+1
+C51
+C1F
+C0114
+O  p- magic_48_o_004.png
+B  p- magic_48_b_001.png
+1
+C1F
+C0114
+O  p- magic_48_o_005.png
+B  p- magic_48_b_001.png
+1
+C1F
+C0114
+O  p- magic_48_o_006.png
+B  p- magic_48_b_001.png
+1
+C1F
+C0114
+O  p- magic_48_o_007.png
+B  p- magic_48_b_001.png
+1
+C1F
+C0114
+O  p- magic_48_o_008.png
+B  p- magic_48_b_001.png
+1
+C1F
+C0114
+O  p- magic_48_o_009.png
+B  p- magic_48_b_001.png
+1
+C1F
+C0114
+O  p- magic_48_o_010.png
+B  p- magic_48_b_001.png
+1
+C1A
+~~~
+O  p- magic_48_o_000.png
+B  p- magic_48_b_001.png
+1
+/// - End of animation

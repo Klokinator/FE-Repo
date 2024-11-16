@@ -9,3 +9,7 @@
 ## Credit
 
 Vanilla animation by IS.
+
+Sword (TLP 1&2) by Seliost1.
+
+Sword (Astra) by Seliost1.

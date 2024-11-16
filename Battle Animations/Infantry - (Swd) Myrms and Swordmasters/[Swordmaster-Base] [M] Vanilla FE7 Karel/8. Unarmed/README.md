@@ -15,3 +15,7 @@ Alt Crit 1 & 2 by Seliost1.
 1. Sword and 8.Unarmed (Tail) by Seliost1.
 
 Magic by Seliost1.
+
+1. Sword (TLP 1&2) by Seliost1.
+
+1 Sword (Astra) by Seliost1.

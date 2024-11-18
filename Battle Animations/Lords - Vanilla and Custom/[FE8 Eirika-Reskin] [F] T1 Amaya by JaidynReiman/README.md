@@ -1,0 +1,13 @@
+# [\[FE8 Eirika-Reskin\] \[F\] T1 Amaya by JaidynReiman](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman/1.%20Sword/Sword.gif"/> | <b>Sword (No Front Strands)</b><br/><img alt="Sword (No Front Strands)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman/1.%20Sword%20(No%20Front%20Strands)/Sword.gif"/> | <b>Sword (No Armor)</b><br/><img alt="Sword (No Armor)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman/1.%20Sword%20(No%20Armor)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (No Front Strands)</b><br/><img alt="Unarmed (No Front Strands)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman/8.%20Unarmed%20(No%20Front%20Strands)/Unarmed.gif"/> | <b>Unarmed (No Armor)</b><br/><img alt="Unarmed (No Armor)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Amaya%20by%20JaidynReiman/8.%20Unarmed%20(No%20Armor)/Unarmed.gif"/> |
+
+## Credits
+
+Original animation by IS, fixed version by Jono the Red.
+
+Full Amaya Reskin by JaidynReiman. Missing sword frames and script adjustments based on Gaiden Priestess by HyperGammaSpace, Jono.
+
+Special Thanks to 7743 for Celes Chere Reskin (used as inspiration for cleanup).

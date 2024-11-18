@@ -8,8 +8,12 @@
 
 ## Credit
 
-Original animation by IS, fixed version by Jono the Red.
+Original animation by IS.
 
-Full Amaya Reskin by JaidynReiman. Missing sword frames and script adjustments based on Gaiden Priestess by HyperGammaSpace, Jono.
+Fixed versions by Jono the Red.
+
+Fixed Missing Sword by JaidynReiman, original frames and assets from Gaiden Priestess by HyperGammaSpace, Jono.
+
+Full Amaya Reskin by JaidynReiman.
 
 Special Thanks to 7743 for Celes Chere Reskin (used as inspiration for cleanup).

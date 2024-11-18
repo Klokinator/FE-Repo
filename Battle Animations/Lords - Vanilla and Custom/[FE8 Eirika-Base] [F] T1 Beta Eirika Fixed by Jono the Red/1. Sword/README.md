@@ -12,4 +12,4 @@ Original animation by IS.
 
 Fixed versions by Jono the Red.
 
-Fixed Missing Sword by JaidynReiman, original frames and assets from Gaiden Priestess by HyperGammaSpace, Jono. Script Adjustments (missing crit sound effect, swing sound effects) also from Gaiden Priestess.
+Fixed Missing Sword by JaidynReiman, original frames and assets from Gaiden Priestess by HyperGammaSpace, Jono.

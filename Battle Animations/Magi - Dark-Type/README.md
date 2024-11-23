@@ -1,5 +1,29 @@
 # [Magi - Dark-Type Battle Animations](./)
 
+## [\[Custom DM\]  Awakening Dark Mage  \[F\] by BatimatheBat](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%20%5BF%5D%20by%20BatimatheBat) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%20%5BF%5D%20by%20BatimatheBat) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic (F)</b><br/><img alt="Magic (F)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%20%5BF%5D%20by%20BatimatheBat/6.%20Magic%20(F)/Magic.gif"/> |
+| :---: |
+
+
+
+
+## [\[Custom DM\]  Awakening Dark Mage \[M\] by BatimatheBat](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%5BM%5D%20by%20BatimatheBat) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%5BM%5D%20by%20BatimatheBat) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic (M)</b><br/><img alt="Magic (M)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%5BM%5D%20by%20BatimatheBat/6.%20Magic%20(M)/Magic.gif"/> |
+| :---: |
+
+
+
+
+## [\[Custom DM\]  Awakening Dark Mage \[U\] by BatimatheBat](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%5BU%5D%20by%20BatimatheBat) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%5BU%5D%20by%20BatimatheBat) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic (U)</b><br/><img alt="Magic (U)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%20Awakening%20Dark%20Mage%20%5BU%5D%20by%20BatimatheBat/6.%20Magic%20(U)/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Custom DM\] \[F\] Dark Mage by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif"/> |

@@ -9,3 +9,7 @@
 ## Credit
 
 Animation by ZoramineFae.
+
+1. Sword (alt 1-4 + alt ranged) by Seliost1.
+
+8. Unarmed by Seliost1.

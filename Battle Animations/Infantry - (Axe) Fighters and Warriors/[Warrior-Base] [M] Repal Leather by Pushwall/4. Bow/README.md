@@ -17,3 +17,5 @@ Alternate Axe by a3d3.
 Realer Axe Repal By Sphealnuke and ported by UltraFenix.
 
 NOTE: The Magic Axe rotation becomes blurry when imported through FeBuilder. The Non-Magic Axe and the Realer Axe does not have this issue.
+
+Lance by LoreLeek.

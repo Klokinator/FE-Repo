@@ -244,6 +244,7 @@ C34                               #Play heavy stepping SFE
 C24                               #Play sword slashing air SFE
 3 p- Lance_010.png
 3 p- Lance_069.png
+C04
 2 p- Lance_070.png
 2 p- Lance_071.png
 C01                               #NOP

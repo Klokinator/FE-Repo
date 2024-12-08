@@ -24,61 +24,61 @@
 
 
 
-## [\[Custom DM\] \[F\] Dark Mage by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+## [\[Custom DM\] Arcanist \[M\] by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Arcanist%20%5BM%5D%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Arcanist%20%5BM%5D%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Arcanist%20%5BM%5D%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Arcanist%20%5BM%5D%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Arcanist%20%5BM%5D%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Arcanist%20%5BM%5D%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
+
+
+
+
+## [\[Custom DM\] Cantor by \[M\] Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20by%20%5BM%5D%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20by%20%5BM%5D%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20by%20%5BM%5D%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20by%20%5BM%5D%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20by%20%5BM%5D%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20by%20%5BM%5D%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
+
+
+
+
+## [\[Custom DM\] Cantor Jedah \[M\] by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20Jedah%20%5BM%5D%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20Jedah%20%5BM%5D%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20Jedah%20%5BM%5D%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20Jedah%20%5BM%5D%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20Jedah%20%5BM%5D%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Cantor%20Jedah%20%5BM%5D%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
+
+
+
+
+## [\[Custom DM\] Dark Mage Tharja \[F\] by SteamingTofu](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20Tharja%20%5BF%5D%20by%20SteamingTofu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20Tharja%20%5BF%5D%20by%20SteamingTofu) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20Tharja%20%5BF%5D%20by%20SteamingTofu/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Custom DM\] \[F\] Dark Mage Tharja by SteamingTofu](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20Tharja%20by%20SteamingTofu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20Tharja%20by%20SteamingTofu) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+## [\[Custom DM\] Dark Mage \[F\] by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20%5BF%5D%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20%5BF%5D%20by%20Pikmin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Dark%20Mage%20Tharja%20by%20SteamingTofu/6.%20Magic/Magic.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20%5BF%5D%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
 
 
-## [\[Custom DM\] \[F\] Sophia by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Sophia%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Sophia%20by%20Redbean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+## [\[Custom DM\] Dark Mage \[M\] by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20%5BM%5D%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20%5BM%5D%20by%20Pikmin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Sophia%20by%20Redbean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BF%5D%20Sophia%20by%20Redbean/7.%20Staff/Staff.gif"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Dark%20Mage%20%5BM%5D%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
+## [\[Custom DM\] Sophia \[F\] by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Sophia%20%5BF%5D%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Sophia%20%5BF%5D%20by%20Redbean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Sophia%20%5BF%5D%20by%20Redbean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Sophia%20%5BF%5D%20by%20Redbean/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
-
-
-
-
-## [\[Custom DM\] \[M\] Arcanist by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Arcanist%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Arcanist%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Arcanist%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Arcanist%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Arcanist%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
-| :---: | :---: | :---: |
-| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Arcanist%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
-
-
-
-
-## [\[Custom DM\] \[M\] Cantor by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
-| :---: | :---: | :---: |
-| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
-
-
-
-
-## [\[Custom DM\] \[M\] Cantor Jedah by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (+Intro)</b><br/><img alt="Magic (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/6.%20Magic%20(+Intro)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/7.%20Staff/Staff.gif"/> |
-| :---: | :---: | :---: |
-| <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Cantor%20Jedah%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
-
-
-
-
-## [\[Custom DM\] \[M\] Dark Mage by Pikmin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20%5BM%5D%20Dark%20Mage%20by%20Pikmin/6.%20Magic/Magic.gif"/> |
-| :---: |
 
 
 
@@ -302,6 +302,14 @@
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[T3 Dark Druid-Variant\] \[M\] Nergal by Yonyin and Tutún](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid-Variant%5D%20%5BM%5D%20Nergal%20by%20Yonyin%20and%20Tut%C3%BAn) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid-Variant%5D%20%5BM%5D%20Nergal%20by%20Yonyin%20and%20Tut%C3%BAn) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Dark%20Druid-Variant%5D%20%5BM%5D%20Nergal%20by%20Yonyin%20and%20Tut%C3%BAn/6.%20Magic/Magic.gif"/> |
+| :---: |
 
 
 

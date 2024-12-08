@@ -1,0 +1,22 @@
+Made by: Cynon
+
+Additional credits:
+- GoudaGrabber (Assistance with the rolling stock on the train, downwards stairway facing north)
+
+Tileset is currently unfinished. I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever palette changes you like. 
+
+I also endorse converting this tileset to be used in other engines.
+
+Uses tiles adapted and modified from;
+- Final Fantasy 4, 5, and 6 (SNES)
+- Live-A-Live (SNES)
+- RPG Maker 2000
+- RPG Maker 2003
+- Pokemon Gold/Silver/Crystal
+
+Known issues;
+- The locomotive may be a bit too small.
+- The lampposts may look odd since units will appear to walk over them. This is a GBAFE problem just in general.
+- Some building types (eg. the wooden buildings) don't have many decorative tiles (hanging banners, destroyed variants). This is a tileset space issue that I don't think I can resolve without making a tileset specifically for those. Perhaps I should make one for the wood buildings, but I was thinking mostly in terms of brick buildings when I made/assembled this.
+- No obvious west/east doorways.
+- No breakable wall tiles. 

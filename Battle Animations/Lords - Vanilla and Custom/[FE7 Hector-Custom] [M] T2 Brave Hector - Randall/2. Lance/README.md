@@ -10,4 +10,6 @@
 
 Original animation by Nuramon.
 
-Randall Edit by NamelessX
+Randall Edit by NamelessX.
+
+Shield added by Seliost1.

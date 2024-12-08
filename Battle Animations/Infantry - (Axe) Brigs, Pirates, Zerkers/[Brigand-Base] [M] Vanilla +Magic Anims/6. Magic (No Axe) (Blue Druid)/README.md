@@ -17,3 +17,5 @@ Sword by ZoramineFae.
 Removed a white pixel in face by Vilk.
 
 Magic Axe script by Chi-Chi.
+
+Axe (+Handaxe) by Yerek.

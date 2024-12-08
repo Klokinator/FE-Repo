@@ -12,6 +12,8 @@ Base General (chainless sword, chained lance/axe) by IS.
 
 Magic Axe frames by Tatutachang.
 
+Axe (+Handaxe) by Yerek.
+
 Chained Sword by knabepicer.
 
 Chainless Lance by knabepicer, with coding fixes by Dabmaster110.

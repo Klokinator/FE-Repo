@@ -19,3 +19,6 @@ Magic by Jeorge_Reds.
 Repaletted by Furious
 
 Base Cleric Magic Crit by RiriK
+
+Magic {Yerek} by Yerek.
+

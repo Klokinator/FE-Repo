@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Staff Magic by Shtick.
 
 Magic animation by Jeorge_Reds.
+
+Magic {Yerek} by Yerek.

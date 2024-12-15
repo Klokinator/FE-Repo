@@ -1,0 +1,58 @@
+/// - Mode 1
+C03
+C07
+1 p- Transform_000.png
+3 p- Transform_000.png
+4 p- Transform_001.png
+4 p- Transform_002.png
+4 p- Transform_003.png
+4 p- Transform_004.png
+C0E
+4 p- Transform_005.png
+4 p- Transform_006.png
+4 p- Transform_007.png
+4 p- Transform_008.png
+4 p- Transform_009.png
+4 p- Transform_010.png
+4 p- Transform_011.png
+4 p- Transform_012.png
+4 p- Transform_013.png
+4 p- Transform_014.png
+4 p- Transform_014.png
+4 p- Transform_015.png
+4 p- Transform_016.png
+4 p- Transform_017.png
+C51
+4 p- Transform_018.png
+~~~
+/// - Mode 3
+4 p- Transform_000.png
+~~~
+/// - Mode 5
+4 p- Transform_000.png
+~~~
+/// - Mode 6
+4 p- Transform_000.png
+~~~
+/// - Mode 7
+4 p- Transform_000.png
+~~~
+/// - Mode 8
+4 p- Transform_000.png
+~~~
+/// - Mode 9
+1 p- Transform_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Transform_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Transform_000.png
+C01
+~~~
+/// - Mode 12
+4 p- Transform_000.png
+~~~
+/// - End of animation

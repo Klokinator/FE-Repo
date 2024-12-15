@@ -5,5 +5,7 @@
 
 ## Credits
 
+Animation by Marlon0024, Asael, MysteriousDancer.
 
+Robin edit by Seliost1.
 

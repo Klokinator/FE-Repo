@@ -8,6 +8,11 @@
 
 ## Credit
 
-Magic & Staff by DatonDemand
+Magic & Staff by DatonDemand.
 
-Scripting by Vyland
+Sword modified script & movement by DatonDemand.
+
+Original Sword animation & movement by Aruka.
+
+Scripting by Vyland.
+

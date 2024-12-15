@@ -10,4 +10,9 @@
 
 Magic & Staff by DatonDemand.
 
+Sword modified script & movement by DatonDemand.
+
+Original Sword animation & movement by Aruka.
+
 Scripting by Vyland.
+

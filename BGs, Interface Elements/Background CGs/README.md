@@ -20,6 +20,8 @@ undefined## [7743's BG's {7743}](7743's%20BG's%20%7B7743%7D)
 
 ## [FGO CG's {WAve, ZoramineFae}](FGO%20CG's%20%7BWAve,%20ZoramineFae%7D)
 
+## [Fire Emblem Heroes {Norikins}](Fire%20Emblem%20Heroes%20%7BNorikins%7D)
+
 ## [Gundam {Fenreir}](Gundam%20%7BFenreir%7D)
 
 ## [King of Fighters BGs (Fenreir)](King%20of%20Fighters%20BGs%20(Fenreir))

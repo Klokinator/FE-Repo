@@ -10,5 +10,7 @@ Pikmin1211, Maiser6, Skitty, GabrielKnight
 
 Bow by ZoramineFae.
 
-Knife Palette Fix by 7743.
+Knife Palette Fix by Seliost1.
+
+
 

@@ -18,4 +18,5 @@ Sword spliced from Leo_link's ranger
 
 Scripting Done by Sable Mage
 
+Staff and Unarmed by MeatOfJustice.
 

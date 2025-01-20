@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by IS
+Made by IS.
+
+Axe (+Handaxe) by Yerek.

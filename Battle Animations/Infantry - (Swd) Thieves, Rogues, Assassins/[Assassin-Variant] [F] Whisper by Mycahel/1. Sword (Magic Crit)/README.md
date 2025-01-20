@@ -8,4 +8,6 @@
 
 ## Credit
 
-{Mycahel}
+Animation by {Mycahel}.
+
+1. Knife by Seliost1.

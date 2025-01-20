@@ -12,4 +12,6 @@ Bishop animation made by IS.
 
 Inspired by Blazer's long-haired Bishop animation from the Last Promise.
 
+Animation and colors from Tythebub's [T2 Bishop-Reskin] [F] FE7 Serra Hair Down Repal
+
 Short-haired variant made by Puppet. 

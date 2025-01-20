@@ -1,5 +1,5 @@
 #######################################################
-#02 lorm_sp1 Lord Item
+#0100 RNGAxe Freyjard Axe
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -21,7 +21,7 @@ C1E                               #Similar to 0x1D; a bit louder
 4 p- Axe_010.png
 4 p- Axe_011.png
 3 p- Axe_012.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C23                               #Play shorter sword swinging SFE
 1 p- Axe_013.png
 C1A                               #Normal hit
@@ -97,7 +97,7 @@ C1B                               #Play quick "heavy step" SFE
 C24                               #Play sword slashing air SFE
 2 p- Axe_067.png
 C1C                               #Play light horse stepping SFE; pitch decreases
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C23                               #Play shorter sword swinging SFE
 1 p- Axe_014.png
 C14                               #Heavy vibration of screen
@@ -211,7 +211,7 @@ C1E                               #Similar to 0x1D; a bit louder
 4 p- Axe_010.png
 4 p- Axe_011.png
 3 p- Axe_078.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C23                               #Play shorter sword swinging SFE
 1 p- Axe_079.png
 C1A                               #Normal hit

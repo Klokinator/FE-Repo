@@ -1,6 +1,11 @@
-/// - Mode 1
-C07
-C03
+#######################################################
+#01 Magic Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
 1 p- Magic_000.png
 4 p- Magic_001.png
 2 p- Magic_002.png
@@ -12,7 +17,7 @@ C03
 3 p- Magic_008.png
 3 p- Magic_009.png
 15 p- Magic_010.png
-C79
+C79                               #picorin SFE
 2 p- Magic_011.png
 2 p- Magic_012.png
 2 p- Magic_013.png
@@ -29,21 +34,21 @@ C79
 2 p- Magic_011.png
 9 p- Magic_010.png
 2 p- Magic_022.png
-C05
+C05                               #Call spell associated with equipped weapon
 2 p- Magic_023.png
 1 p- Magic_024.png
 2 p- Magic_025.png
-C01
-C06
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Magic_026.png
 3 p- Magic_027.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 3
-C07
-C03
+/// - Mode 3               #Melee Critical Animation
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
 1 p- Magic_000.png
-C1C
+C1C                               #Play light horse stepping SFE; pitch decreases
 6 p- Magic_028.png
 2 p- Magic_029.png
 3 p- Magic_030.png
@@ -52,7 +57,7 @@ C1C
 3 p- Magic_033.png
 3 p- Magic_034.png
 2 p- Magic_035.png
-C7A
+C7A                               #elec jee SFE
 4 p- Magic_036.png
 3 p- Magic_037.png
 2 p- Magic_036.png
@@ -98,22 +103,22 @@ C7A
 6 p- Magic_070.png
 3 p- Magic_071.png
 1 p- Magic_041.png
-C05
-C01
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
 4 p- Magic_072.png
 4 p- Magic_073.png
-C1D
+C1D                               #Play light horse stepping SFE; pitch increases
 4 p- Magic_074.png
 4 p- Magic_075.png
 2 p- Magic_000.png
-C06
+C06                               #Begin opponent's turn after hit.next code 0D.
 2 p- Magic_000.png
 4 p- Magic_076.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 5
-C07
-C03
+/// - Mode 5               #Ranged Animation 
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
 1 p- Magic_000.png
 4 p- Magic_001.png
 2 p- Magic_002.png
@@ -125,7 +130,7 @@ C03
 3 p- Magic_008.png
 3 p- Magic_009.png
 15 p- Magic_010.png
-C79
+C79                               #picorin SFE
 2 p- Magic_011.png
 2 p- Magic_012.png
 2 p- Magic_013.png
@@ -142,21 +147,21 @@ C79
 2 p- Magic_011.png
 9 p- Magic_010.png
 2 p- Magic_022.png
-C05
+C05                               #Call spell associated with equipped weapon
 2 p- Magic_023.png
 1 p- Magic_024.png
 2 p- Magic_025.png
-C01
-C06
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Magic_026.png
 3 p- Magic_027.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 6
-C07
-C03
+/// - Mode 6               #Ranged Critical Animation
+C07                               #Start attack animation; need 03 right before this.
+C03                               #Start attack animation; need 07 right after this.
 1 p- Magic_000.png
-C1C
+C1C                               #Play light horse stepping SFE; pitch decreases
 1 p- Magic_028.png
 2 p- Magic_029.png
 3 p- Magic_030.png
@@ -165,7 +170,7 @@ C1C
 3 p- Magic_033.png
 3 p- Magic_034.png
 2 p- Magic_035.png
-C7A
+C7A                               #elec jee SFE
 4 p- Magic_036.png
 3 p- Magic_037.png
 2 p- Magic_036.png
@@ -211,54 +216,54 @@ C7A
 6 p- Magic_070.png
 3 p- Magic_071.png
 1 p- Magic_041.png
-C05
-C01
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
 4 p- Magic_072.png
 4 p- Magic_073.png
-C1D
+C1D                               #Play light horse stepping SFE; pitch increases
 4 p- Magic_074.png
 4 p- Magic_075.png
 2 p- Magic_000.png
-C06
+C06                               #Begin opponent's turn after hit.next code 0D.
 2 p- Magic_000.png
 4 p- Magic_076.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 7
-C02
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
 1 p- Magic_000.png
-C0E
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Magic_077.png
 1 p- Magic_078.png
-C01
+C01                               #NOP
 3 p- Magic_077.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 8
-C02
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
 1 p- Magic_000.png
-C0E
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Magic_077.png
 1 p- Magic_078.png
-C01
+C01                               #NOP
 3 p- Magic_077.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 9
+/// - Mode 9               #Equiped with Melee Weapon
 1 p- Magic_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 10
+/// - Mode 10               #Standing motions
 1 p- Magic_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 11
+/// - Mode 11               #Equiped with Ranged weapon
 1 p- Magic_000.png
-C01
+C01                               #NOP
 ~~~
-/// - Mode 12
-C03
-C07
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Magic_000.png
 4 p- Magic_001.png
 2 p- Magic_002.png
@@ -270,7 +275,7 @@ C07
 3 p- Magic_008.png
 3 p- Magic_009.png
 15 p- Magic_010.png
-C79
+C79                               #picorin SFE
 2 p- Magic_011.png
 2 p- Magic_012.png
 2 p- Magic_013.png
@@ -287,14 +292,14 @@ C79
 2 p- Magic_011.png
 9 p- Magic_010.png
 2 p- Magic_022.png
-C05
+C05                               #Call spell associated with equipped weapon
 2 p- Magic_023.png
 1 p- Magic_024.png
 2 p- Magic_025.png
-C01
-C06
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Magic_026.png
 3 p- Magic_027.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

@@ -11,3 +11,5 @@
 Edited by RattleSalad.
 
 Sword by RattleSalad.
+
+No cut-in edits by Seliost1.

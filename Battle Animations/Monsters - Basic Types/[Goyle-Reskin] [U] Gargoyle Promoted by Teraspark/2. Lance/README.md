@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Teraspark, L95.
+
+Used Sword animation from Saint Rubenio.

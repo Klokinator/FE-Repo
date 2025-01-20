@@ -11,5 +11,3 @@
 Character Design by Wayforward.
 
 Ported by Stephano.
-
-

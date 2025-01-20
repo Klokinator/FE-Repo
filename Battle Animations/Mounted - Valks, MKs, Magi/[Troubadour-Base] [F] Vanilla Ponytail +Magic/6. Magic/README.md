@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Magic Staff by seergioo.
 
 Magic by Lisandra_Brave.
+
+Magic {Yerek} by Yerek.

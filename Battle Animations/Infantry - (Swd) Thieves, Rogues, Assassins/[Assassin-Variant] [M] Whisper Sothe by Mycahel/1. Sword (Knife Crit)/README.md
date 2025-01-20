@@ -8,4 +8,6 @@
 
 ## Credit
 
-Made by {Mycahel}
+Made by {Mycahel}.
+
+1. Knife by Seliost1.

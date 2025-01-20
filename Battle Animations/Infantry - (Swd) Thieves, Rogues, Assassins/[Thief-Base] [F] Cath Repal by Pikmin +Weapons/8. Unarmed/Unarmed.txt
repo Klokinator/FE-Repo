@@ -1,5 +1,5 @@
 #######################################################
-#D0 lorm_sp1 
+#03 lorf_sw1 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -7,11 +7,11 @@
 C02                               #Start of dodge
 1 p- Unarmed_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
 C01                               #NOP
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -19,11 +19,11 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Unarmed_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
 C01                               #NOP
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -31,11 +31,11 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Unarmed_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
 C01                               #NOP
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -43,11 +43,11 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Unarmed_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
 C01                               #NOP
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -55,11 +55,11 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Unarmed_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
 C01                               #NOP
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -67,11 +67,11 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Unarmed_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
 C01                               #NOP
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -79,7 +79,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #standing motions?
+/// - Mode 10               #Standing motions
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~
@@ -91,11 +91,11 @@ C01                               #NOP
 C02                               #Start of dodge
 1 p- Unarmed_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
 C01                               #NOP
-C25                               #Refresh wing flap SFE
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~

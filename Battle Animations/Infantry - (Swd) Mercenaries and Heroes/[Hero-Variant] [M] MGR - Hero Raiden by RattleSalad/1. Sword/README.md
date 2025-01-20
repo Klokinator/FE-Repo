@@ -11,3 +11,5 @@
 Edited by RattleSalad.
 
 Sword by RattleSalad.
+
+Range crit by Seliost1.

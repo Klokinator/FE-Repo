@@ -11,3 +11,5 @@
 Animation by  Khrene Kleaver.
 
 Female version by Seliost1.
+
+Sword (slash ranged) by Seliost1.

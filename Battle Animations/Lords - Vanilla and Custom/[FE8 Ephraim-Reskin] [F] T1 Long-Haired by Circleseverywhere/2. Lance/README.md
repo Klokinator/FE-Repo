@@ -10,4 +10,4 @@
 
 Made by Circleseverywhere.
 
-Needs an unarmed animation.
+Unarmed by Seliost1.

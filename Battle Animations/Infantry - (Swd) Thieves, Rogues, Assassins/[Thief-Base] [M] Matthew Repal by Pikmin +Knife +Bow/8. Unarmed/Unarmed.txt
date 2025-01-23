@@ -1,97 +1,102 @@
-/// - Mode 1
-C02
+#######################################################
+#8A thim_sw1 Thief Item
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C02                               #Start of dodge
 1 p- Unarmed_000.png
-C0E
-C25
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
-C01
-C25
+C01                               #NOP
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 3
-C02
+/// - Mode 3               #Melee Critical Animation
+C02                               #Start of dodge
 1 p- Unarmed_000.png
-C0E
-C25
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
-C01
-C25
+C01                               #NOP
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 5
-C02
+/// - Mode 5               #Ranged Animation 
+C02                               #Start of dodge
 1 p- Unarmed_000.png
-C0E
-C25
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
-C01
-C25
+C01                               #NOP
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 6
-C02
+/// - Mode 6               #Ranged Critical Animation
+C02                               #Start of dodge
 1 p- Unarmed_000.png
-C0E
-C25
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
-C01
-C25
+C01                               #NOP
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 7
-C02
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
 1 p- Unarmed_000.png
-C0E
-C25
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
-C01
-C25
+C01                               #NOP
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 8
-C02
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
 1 p- Unarmed_000.png
-C0E
-C25
-3 p- Unarmed_001.png
-1 p- Unarmed_002.png
-C01
-C25
-3 p- Unarmed_001.png
-C0D
-~~~
-/// - Mode 9
-1 p- Unarmed_000.png
-C01
-~~~
-/// - Mode 10
-1 p- Unarmed_000.png
-C01
-~~~
-/// - Mode 11
-1 p- Unarmed_000.png
-C01
-~~~
-/// - Mode 12
-C02
-1 p- Unarmed_000.png
-C0E
-C25
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
 1 p- Unarmed_002.png
-C01
-C25
+C01                               #NOP
+C25                               #Play wing flap SFE
 3 p- Unarmed_001.png
-C0D
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C02                               #Start of dodge
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+C25                               #Play wing flap SFE
+3 p- Unarmed_001.png
+1 p- Unarmed_002.png
+C01                               #NOP
+C25                               #Play wing flap SFE
+3 p- Unarmed_001.png
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

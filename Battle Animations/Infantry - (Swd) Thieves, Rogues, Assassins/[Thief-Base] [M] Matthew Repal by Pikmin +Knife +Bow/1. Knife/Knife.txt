@@ -1,5 +1,5 @@
 #######################################################
-#10 Knife Hero Item
+#89 thim_sw1 Thief Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

@@ -12,6 +12,10 @@ Knife animation by Skitty, GabrielKnight.
 
 Repalette by Pikmin1211, Maiser6.
 
+Palette order fix by Alice
+
+Stab variations by IS, compiled by Alice
+
 Bow by ZoramineFae.
 
 Staff animation by Sphealnuke. Original repalette by Pikmin1121 and Maiser6. Commissioned by Flaming.

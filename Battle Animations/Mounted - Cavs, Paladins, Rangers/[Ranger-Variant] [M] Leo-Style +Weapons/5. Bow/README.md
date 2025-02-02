@@ -12,7 +12,7 @@ Sword, Bow and Unarmed by Leo_Link.
 
 Lance by Jey the Count.
 
-Axe/Handaxe/Magic by SALVAGED/knabepicer/Jey the Count.
+Axe/Handaxe by knabepicer. Used assets by SALVAGED.
 
-Staff by knabepicer.
+Staff and Magic by knabepicer.
 

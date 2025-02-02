@@ -5,5 +5,7 @@
 
 ## Credits
 
+Original still and frames by MageKnight404.
 
+Author for the animation unknown.
 

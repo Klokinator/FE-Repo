@@ -9,5 +9,9 @@ FE10 Soldier animated by Flasuban.
 
 FE10 Enhanced Revision by Nuramon.
 
-FE15-Style Reskin by Nuramon, based on Jeorge Red's still.
+FE15-Style Reskin by Nuramon, based on Jeorge Red's still. Uses FE10 Enhanced Revision as a base.
+
+
+
+
 

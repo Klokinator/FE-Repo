@@ -10,5 +10,5 @@ Sword, Bow and Unarmed by Leo_Link.
 
 Lance by Jey the Count.
 
-Axe and handaxe by Ririki.
+Axe and handaxe by Ririki. Based on used assets by SALVAGED and knabepicer.
 

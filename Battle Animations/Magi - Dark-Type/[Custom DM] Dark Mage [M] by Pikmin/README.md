@@ -5,5 +5,9 @@
 
 ## Credits
 
-{Jj09, Pikmin1211}
+F2U/F2E
+
+Still made by Pikmin1211.
+
+Animation made by Jj09.
 

@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Original: ねねるね(nenerune).
 
 improved version: Red Bean.

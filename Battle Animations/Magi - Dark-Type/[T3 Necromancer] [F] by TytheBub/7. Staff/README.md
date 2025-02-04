@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 6. Magic FE7 by TytheBub
 
 6. Magic FE8 by TytheBub

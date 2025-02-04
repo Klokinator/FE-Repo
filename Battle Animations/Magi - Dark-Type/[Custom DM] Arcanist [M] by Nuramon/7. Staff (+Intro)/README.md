@@ -8,4 +8,6 @@
 
 ## Credit
 
+F2U/F2E
+
 Still and animation by Nuramon.

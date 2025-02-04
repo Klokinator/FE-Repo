@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Still by BatimatheBat.
 
 Animation by Leo_Link.

@@ -1,210 +1,210 @@
 /// - Mode 1
 C03
 C07
-2 p- sword_000.png
-2 p- sword_001.png
+2 p- Sword_000.png
+2 p- Sword_001.png
 C3C
-4 p- sword_002.png
-4 p- sword_003.png
-4 p- sword_004.png
-24 p- sword_005.png
-2 p- sword_006.png
+4 p- Sword_002.png
+4 p- Sword_003.png
+4 p- Sword_004.png
+24 p- Sword_005.png
+2 p- Sword_006.png
 C22
-2 p- sword_007.png
-2 p- sword_008.png
+2 p- Sword_007.png
+2 p- Sword_008.png
 C1F
 C1A
-4 p- sword_009.png
+4 p- Sword_009.png
 C04
-4 p- sword_010.png
-4 p- sword_011.png
-4 p- sword_012.png
+4 p- Sword_010.png
+4 p- Sword_011.png
+4 p- Sword_012.png
 C01
-2 p- sword_013.png
+2 p- Sword_013.png
 C3C
-2 p- sword_014.png
-3 p- sword_015.png
-3 p- sword_016.png
-3 p- sword_017.png
+2 p- Sword_014.png
+3 p- Sword_015.png
+3 p- Sword_016.png
+3 p- Sword_017.png
 C06
 C0D
 ~~~
 /// - Mode 3
 C03
 C07
-2 p- sword_000.png
-2 p- sword_001.png
+2 p- Sword_000.png
+2 p- Sword_001.png
 C3C
-4 p- sword_002.png
-4 p- sword_003.png
-4 p- sword_004.png
-2 p- sword_005.png
-2 p- sword_018.png
-2 p- sword_019.png
-2 p- sword_020.png
-2 p- sword_021.png
+4 p- Sword_002.png
+4 p- Sword_003.png
+4 p- Sword_004.png
+2 p- Sword_005.png
+2 p- Sword_018.png
+2 p- Sword_019.png
+2 p- Sword_020.png
+2 p- Sword_021.png
 C44
-2 p- sword_022.png
-24 p- sword_005.png
-2 p- sword_006.png
+2 p- Sword_022.png
+24 p- Sword_005.png
+2 p- Sword_006.png
 C22
-2 p- sword_007.png
-2 p- sword_008.png
+2 p- Sword_007.png
+2 p- Sword_008.png
 C1F
 C08
-4 p- sword_009.png
+4 p- Sword_009.png
 C04
-4 p- sword_010.png
-4 p- sword_011.png
-4 p- sword_012.png
+4 p- Sword_010.png
+4 p- Sword_011.png
+4 p- Sword_012.png
 C01
-3 p- sword_023.png
+3 p- Sword_023.png
 C3C
-3 p- sword_024.png
-3 p- sword_025.png
-3 p- sword_026.png
-3 p- sword_027.png
-3 p- sword_028.png
-3 p- sword_029.png
-3 p- sword_030.png
-2 p- sword_031.png
-2 p- sword_032.png
-2 p- sword_033.png
-3 p- sword_034.png
+3 p- Sword_024.png
+3 p- Sword_025.png
+3 p- Sword_026.png
+3 p- Sword_027.png
+3 p- Sword_028.png
+3 p- Sword_029.png
+3 p- Sword_030.png
+2 p- Sword_031.png
+2 p- Sword_032.png
+2 p- Sword_033.png
+3 p- Sword_034.png
 C1B
-3 p- sword_035.png
-6 p- sword_036.png
-2 p- sword_037.png
+3 p- Sword_035.png
+6 p- Sword_036.png
+2 p- Sword_037.png
 C3C
-4 p- sword_015.png
-4 p- sword_016.png
-4 p- sword_017.png
+4 p- Sword_015.png
+4 p- Sword_016.png
+4 p- Sword_017.png
 C06
 C0D
 ~~~
 /// - Mode 5
 C03
 C07
-2 p- sword_000.png
-2 p- sword_001.png
+2 p- Sword_000.png
+2 p- Sword_001.png
 C3C
-4 p- sword_002.png
-4 p- sword_003.png
-4 p- sword_004.png
-24 p- sword_005.png
-2 p- sword_006.png
+4 p- Sword_002.png
+4 p- Sword_003.png
+4 p- Sword_004.png
+24 p- Sword_005.png
+2 p- Sword_006.png
 C22
-2 p- sword_007.png
-2 p- sword_008.png
+2 p- Sword_007.png
+2 p- Sword_008.png
 C05
-1 p- sword_038.png
-1 p- sword_039.png
-1 p- sword_040.png
-1 p- sword_041.png
+1 p- Sword_038.png
+1 p- Sword_039.png
+1 p- Sword_040.png
+1 p- Sword_041.png
 C01
-2 p- sword_013.png
+2 p- Sword_013.png
 C3C
-2 p- sword_014.png
-3 p- sword_015.png
-3 p- sword_016.png
-3 p- sword_017.png
-2 p- sword_000.png
+2 p- Sword_014.png
+3 p- Sword_015.png
+3 p- Sword_016.png
+3 p- Sword_017.png
+2 p- Sword_000.png
 C06
 C0D
 ~~~
 /// - Mode 6
 C03
 C07
-2 p- sword_000.png
-2 p- sword_001.png
+2 p- Sword_000.png
+2 p- Sword_001.png
 C3C
-4 p- sword_002.png
-4 p- sword_003.png
-4 p- sword_004.png
-24 p- sword_005.png
-2 p- sword_018.png
-2 p- sword_019.png
-2 p- sword_020.png
-2 p- sword_021.png
+4 p- Sword_002.png
+4 p- Sword_003.png
+4 p- Sword_004.png
+24 p- Sword_005.png
+2 p- Sword_018.png
+2 p- Sword_019.png
+2 p- Sword_020.png
+2 p- Sword_021.png
 C44
-2 p- sword_022.png
-24 p- sword_005.png
-2 p- sword_006.png
+2 p- Sword_022.png
+24 p- Sword_005.png
+2 p- Sword_006.png
 C22
-2 p- sword_007.png
-2 p- sword_008.png
+2 p- Sword_007.png
+2 p- Sword_008.png
 C05
-1 p- sword_038.png
-1 p- sword_039.png
-1 p- sword_040.png
-1 p- sword_041.png
+1 p- Sword_038.png
+1 p- Sword_039.png
+1 p- Sword_040.png
+1 p- Sword_041.png
 C01
-2 p- sword_013.png
+2 p- Sword_013.png
 C3C
-2 p- sword_014.png
-3 p- sword_015.png
-3 p- sword_016.png
-3 p- sword_017.png
-2 p- sword_000.png
+2 p- Sword_014.png
+3 p- Sword_015.png
+3 p- Sword_016.png
+3 p- Sword_017.png
+2 p- Sword_000.png
 C06
 C0D
 ~~~
 /// - Mode 7
 C02
-6 p- sword_042.png
+6 p- Sword_042.png
 C0E
-16 p- sword_043.png
+16 p- Sword_043.png
 C01
-6 p- sword_044.png
+6 p- Sword_044.png
 C0D
 ~~~
 /// - Mode 8
 C02
-6 p- sword_042.png
+6 p- Sword_042.png
 C0E
-16 p- sword_043.png
+16 p- Sword_043.png
 C01
-6 p- sword_044.png
+6 p- Sword_044.png
 C0D
 ~~~
 /// - Mode 9
-16 p- sword_000.png
+16 p- Sword_000.png
 C01
 ~~~
 /// - Mode 10
-16 p- sword_000.png
+16 p- Sword_000.png
 C01
 ~~~
 /// - Mode 11
-16 p- sword_000.png
+16 p- Sword_000.png
 C01
 ~~~
 /// - Mode 12
 C03
 C07
-2 p- sword_000.png
-2 p- sword_001.png
+2 p- Sword_000.png
+2 p- Sword_001.png
 C3C
-4 p- sword_002.png
-4 p- sword_003.png
-4 p- sword_004.png
-24 p- sword_005.png
-2 p- sword_006.png
+4 p- Sword_002.png
+4 p- Sword_003.png
+4 p- Sword_004.png
+24 p- Sword_005.png
+2 p- Sword_006.png
 C22
-2 p- sword_007.png
-2 p- sword_008.png
-4 p- sword_009.png
+2 p- Sword_007.png
+2 p- Sword_008.png
+4 p- Sword_009.png
 C04
-4 p- sword_010.png
-4 p- sword_011.png
-4 p- sword_012.png
+4 p- Sword_010.png
+4 p- Sword_011.png
+4 p- Sword_012.png
 C01
-2 p- sword_013.png
+2 p- Sword_013.png
 C3C
-2 p- sword_014.png
-3 p- sword_015.png
-3 p- sword_016.png
-3 p- sword_017.png
+2 p- Sword_014.png
+3 p- Sword_015.png
+3 p- Sword_016.png
+3 p- Sword_017.png
 C06
 C0D
 ~~~

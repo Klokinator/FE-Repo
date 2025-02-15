@@ -1,5 +1,5 @@
 #######################################################
-#01 lorm_sp1 
+#08 Unarmed Great Lord Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -33,6 +33,7 @@ C0E                               #Start of dodging frames (should go after stan
 1 p- Unarmed_002.png
 C01                               #NOP
 3 p- Unarmed_001.png
+1 p- Unarmed_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
@@ -43,6 +44,7 @@ C0E                               #Start of dodging frames (should go after stan
 1 p- Unarmed_002.png
 C01                               #NOP
 3 p- Unarmed_001.png
+1 p- Unarmed_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
@@ -71,7 +73,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #standing motions?
+/// - Mode 10               #Standing motions
 1 p- Unarmed_000.png
 C01                               #NOP
 ~~~
@@ -87,6 +89,7 @@ C0E                               #Start of dodging frames (should go after stan
 1 p- Unarmed_002.png
 C01                               #NOP
 3 p- Unarmed_001.png
+1 p- Unarmed_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

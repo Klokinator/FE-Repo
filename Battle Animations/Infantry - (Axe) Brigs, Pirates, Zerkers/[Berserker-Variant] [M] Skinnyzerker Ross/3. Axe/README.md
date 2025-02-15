@@ -16,4 +16,8 @@ Scripting by Maiser6.
 
 Ross Variant by Waleed.
 
+Both Sword animations by Seliost1.
+
+Axe (alt magic) and Axe (magic) by Seliost1.
+
 Note: This animation is somewhat choppy and could use improvements.

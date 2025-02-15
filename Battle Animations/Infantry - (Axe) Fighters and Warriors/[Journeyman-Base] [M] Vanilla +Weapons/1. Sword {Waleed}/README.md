@@ -8,4 +8,12 @@
 
 ## Credit
 
-IS, Waleed, blood
+Animation by IS.
+
+Sword animation by Waleed and improvements by Seliost1.
+
+Sword (Vanilia dodge) by Seliost1.
+
+Handaxe (Alt) and Handaxe (Hatchet Alt) by blood.
+
+

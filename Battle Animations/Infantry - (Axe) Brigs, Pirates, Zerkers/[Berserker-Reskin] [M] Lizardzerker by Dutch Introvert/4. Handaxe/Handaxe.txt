@@ -1,5 +1,5 @@
 #######################################################
-#F0 lorm_sp1 Chieftain Hand Axe
+#09 lorf_sw1 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -8,7 +8,7 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
 C05                               #Call spell associated with equipped weapon
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector
@@ -29,7 +29,7 @@ C38                               #Play heavy spear spinning SFE
 2 p- Handaxe_007.png
 15 p- Handaxe_000.png
 C05                               #Call spell associated with equipped weapon
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector
@@ -44,7 +44,7 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
 C05                               #Call spell associated with equipped weapon
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector
@@ -65,7 +65,7 @@ C38                               #Play heavy spear spinning SFE
 2 p- Handaxe_007.png
 15 p- Handaxe_000.png
 C05                               #Call spell associated with equipped weapon
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector
@@ -112,7 +112,7 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
 C05                               #Call spell associated with equipped weapon
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 3 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector

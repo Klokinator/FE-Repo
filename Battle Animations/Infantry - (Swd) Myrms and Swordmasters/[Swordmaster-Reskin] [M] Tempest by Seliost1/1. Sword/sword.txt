@@ -1,241 +1,241 @@
 #######################################################
-#09 lorf_sw1 
+#01 Sword Lord Lance
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- sword_000.png
+1 p- Sword_000.png
 C24                               #Play sword slashing air SFE
-4 p- sword_001.png
-4 p- sword_002.png
-3 p- sword_003.png
-4 p- sword_004.png
-4 p- sword_005.png
-4 p- sword_006.png
-8 p- sword_007.png
-8 p- sword_008.png
-2 p- sword_009.png
-1 p- sword_010.png
-25 p- sword_011.png
-1 p- sword_012.png
-1 p- sword_013.png
-1 p- sword_014.png
-1 p- sword_015.png
+4 p- Sword_001.png
+4 p- Sword_002.png
+3 p- Sword_003.png
+4 p- Sword_004.png
+4 p- Sword_005.png
+4 p- Sword_006.png
+8 p- Sword_007.png
+8 p- Sword_008.png
+2 p- Sword_009.png
+1 p- Sword_010.png
+25 p- Sword_011.png
+1 p- Sword_012.png
+1 p- Sword_013.png
+1 p- Sword_014.png
+1 p- Sword_015.png
 C38                               #Play heavy spear spinning SFE
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-2 p- sword_016.png
-2 p- sword_017.png
-2 p- sword_018.png
-2 p- sword_019.png
-2 p- sword_020.png
-2 p- sword_021.png
-2 p- sword_022.png
-2 p- sword_023.png
-2 p- sword_024.png
+2 p- Sword_016.png
+2 p- Sword_017.png
+2 p- Sword_018.png
+2 p- Sword_019.png
+2 p- Sword_020.png
+2 p- Sword_021.png
+2 p- Sword_022.png
+2 p- Sword_023.png
+2 p- Sword_024.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C24                               #Play sword slashing air SFE
-2 p- sword_025.png
+2 p- Sword_025.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 C1A                               #Normal hit
-2 p- sword_026.png
-2 p- sword_027.png
-3 p- sword_028.png
-2 p- sword_029.png
+2 p- Sword_026.png
+2 p- Sword_027.png
+3 p- Sword_028.png
+2 p- Sword_029.png
 C25                               #Play wing flap SFE
-3 p- sword_030.png
-5 p- sword_011.png
+3 p- Sword_030.png
+5 p- Sword_011.png
 C01                               #NOP
-30 p- sword_011.png
+30 p- Sword_011.png
 C25                               #Play wing flap SFE
-3 p- sword_031.png
-3 p- sword_000.png
+3 p- Sword_031.png
+3 p- Sword_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
-3 p- sword_000.png
+3 p- Sword_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-3 p- sword_000.png
+3 p- Sword_000.png
 C24                               #Play sword slashing air SFE
-3 p- sword_001.png
-3 p- sword_002.png
-3 p- sword_003.png
-3 p- sword_004.png
-3 p- sword_005.png
-3 p- sword_006.png
-3 p- sword_032.png
-3 p- sword_007.png
-3 p- sword_008.png
-3 p- sword_002.png
-3 p- sword_033.png
-3 p- sword_002.png
-3 p- sword_033.png
-3 p- sword_002.png
-3 p- sword_034.png
-3 p- sword_002.png
-3 p- sword_034.png
-3 p- sword_002.png
-3 p- sword_035.png
-3 p- sword_002.png
-3 p- sword_035.png
-3 p- sword_002.png
+3 p- Sword_001.png
+3 p- Sword_002.png
+3 p- Sword_003.png
+3 p- Sword_004.png
+3 p- Sword_005.png
+3 p- Sword_006.png
+3 p- Sword_032.png
+3 p- Sword_007.png
+3 p- Sword_008.png
+3 p- Sword_002.png
+3 p- Sword_033.png
+3 p- Sword_002.png
+3 p- Sword_033.png
+3 p- Sword_002.png
+3 p- Sword_034.png
+3 p- Sword_002.png
+3 p- Sword_034.png
+3 p- Sword_002.png
+3 p- Sword_035.png
+3 p- Sword_002.png
+3 p- Sword_035.png
+3 p- Sword_002.png
 C25                               #Play wing flap SFE
-3 p- sword_009.png
-10 p- sword_011.png
+3 p- Sword_009.png
+10 p- Sword_011.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-3 p- sword_036.png
-3 p- sword_037.png
-10 p- sword_011.png
+3 p- Sword_036.png
+3 p- Sword_037.png
+10 p- Sword_011.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-3 p- sword_038.png
-3 p- sword_039.png
-10 p- sword_011.png
+3 p- Sword_038.png
+3 p- Sword_039.png
+10 p- Sword_011.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-3 p- sword_040.png
-3 p- sword_041.png
-10 p- sword_011.png
+3 p- Sword_040.png
+3 p- Sword_041.png
+10 p- Sword_011.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-3 p- sword_042.png
-3 p- sword_043.png
+3 p- Sword_042.png
+3 p- Sword_043.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-10 p- sword_011.png
+10 p- Sword_011.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 C15                               #Slight vibration of screen
-5 p- sword_044.png
-5 p- sword_045.png
+5 p- Sword_044.png
+5 p- Sword_045.png
 C25                               #Play wing flap SFE
-5 p- sword_046.png
+5 p- Sword_046.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-5 p- sword_025.png
-5 p- sword_029.png
+5 p- Sword_025.png
+5 p- Sword_029.png
 C25                               #Play wing flap SFE
-5 p- sword_030.png
+5 p- Sword_030.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-4 p- sword_047.png
-4 p- sword_048.png
+4 p- Sword_047.png
+4 p- Sword_048.png
 C25                               #Play wing flap SFE
-5 p- sword_049.png
+5 p- Sword_049.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-4 p- sword_016.png
-4 p- sword_022.png
+4 p- Sword_016.png
+4 p- Sword_022.png
 C25                               #Play wing flap SFE
-6 p- sword_050.png
+6 p- Sword_050.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 C08                               #Critical hit
 C15                               #Slight vibration of screen
-4 p- sword_051.png
-4 p- sword_052.png
+4 p- Sword_051.png
+4 p- Sword_052.png
 C25                               #Play wing flap SFE
-5 p- sword_053.png
-10 p- sword_011.png
+5 p- Sword_053.png
+10 p- Sword_011.png
 C01                               #NOP
-10 p- sword_011.png
+10 p- Sword_011.png
 C25                               #Play wing flap SFE
-3 p- sword_031.png
+3 p- Sword_031.png
 C06                               #Begin opponent's turn after hit.next code 0D.
-3 p- sword_000.png
+3 p- Sword_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- sword_000.png
+1 p- Sword_000.png
 C22                               #Play short sword swinging SFE
-3 p- sword_054.png
+3 p- Sword_054.png
 C05                               #Call spell associated with equipped weapon
-1 p- sword_055.png
+1 p- Sword_055.png
 C01                               #NOP
 C23                               #Play shorter sword swinging SFE
-3 p- sword_054.png
-1 p- sword_000.png
+3 p- Sword_054.png
+1 p- Sword_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- sword_000.png
+1 p- Sword_000.png
 C22                               #Play short sword swinging SFE
-3 p- sword_054.png
+3 p- Sword_054.png
 SF6                               #Sound 246 SE:Shaman charging @C85_28
-2 p- sword_056.png
-3 p- sword_055.png
-3 p- sword_056.png
-2 p- sword_055.png
-3 p- sword_056.png
-2 p- sword_055.png
-3 p- sword_056.png
-2 p- sword_055.png
-3 p- sword_056.png
-2 p- sword_055.png
-3 p- sword_056.png
-2 p- sword_055.png
-3 p- sword_056.png
-2 p- sword_055.png
+2 p- Sword_056.png
+3 p- Sword_055.png
+3 p- Sword_056.png
+2 p- Sword_055.png
+3 p- Sword_056.png
+2 p- Sword_055.png
+3 p- Sword_056.png
+2 p- Sword_055.png
+3 p- Sword_056.png
+2 p- Sword_055.png
+3 p- Sword_056.png
+2 p- Sword_055.png
+3 p- Sword_056.png
+2 p- Sword_055.png
 C05                               #Call spell associated with equipped weapon
-1 p- sword_055.png
+1 p- Sword_055.png
 C01                               #NOP
-1 p- sword_055.png
-1 p- sword_054.png
+1 p- Sword_055.png
+1 p- Sword_054.png
 C23                               #Play shorter sword swinging SFE
-3 p- sword_000.png
+3 p- Sword_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
-1 p- sword_000.png
+1 p- Sword_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- sword_031.png
+3 p- Sword_031.png
 C01                               #NOP
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
-1 p- sword_000.png
+1 p- Sword_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- sword_031.png
+3 p- Sword_031.png
 C01                               #NOP
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 9               #Equiped with Melee Weapon
-1 p- sword_000.png
+1 p- Sword_000.png
 C01                               #NOP
 ~~~
 /// - Mode 10               #Standing motions
-1 p- sword_000.png
+1 p- Sword_000.png
 C01                               #NOP
 ~~~
 /// - Mode 11               #Equiped with Ranged weapon
-1 p- sword_000.png
+1 p- Sword_000.png
 C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-1 p- sword_000.png
+1 p- Sword_000.png
 C24                               #Play sword slashing air SFE
-4 p- sword_001.png
-4 p- sword_002.png
-3 p- sword_009.png
-1 p- sword_010.png
-25 p- sword_011.png
-1 p- sword_057.png
-2 p- sword_058.png
+4 p- Sword_001.png
+4 p- Sword_002.png
+3 p- Sword_009.png
+1 p- Sword_010.png
+25 p- Sword_011.png
+1 p- Sword_057.png
+2 p- Sword_058.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C23                               #Play shorter sword swinging SFE
-4 p- sword_025.png
-3 p- sword_029.png
-1 p- sword_030.png
-1 p- sword_011.png
+4 p- Sword_025.png
+3 p- Sword_029.png
+1 p- Sword_030.png
+1 p- Sword_011.png
 C01                               #NOP
 C25                               #Play wing flap SFE
-1 p- sword_031.png
+1 p- Sword_031.png
 C06                               #Begin opponent's turn after hit.next code 0D.
-3 p- sword_000.png
+3 p- Sword_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

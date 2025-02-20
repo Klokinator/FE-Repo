@@ -13,3 +13,7 @@ Berserker by IS.
 Lizard head by Lenh.
 
 Lizardzerker by An odd Dutch introvert.
+
+Sword by Seliost1.
+
+Magic Axe frames and some minor color fixes by Seliost1.

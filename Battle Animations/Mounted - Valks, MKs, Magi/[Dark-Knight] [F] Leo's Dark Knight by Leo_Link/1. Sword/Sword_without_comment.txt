@@ -74,7 +74,7 @@ C4F
 4 p- Sword_008.png
 C1C
 C20
-C1A
+C0C
 C04
 2 p- Sword_009.png
 2 p- Sword_010.png
@@ -207,8 +207,7 @@ C07
 3 p- Sword_007.png
 2 p- Sword_008.png
 C1C
-C20
-C1A
+C23
 C04
 2 p- Sword_009.png
 2 p- Sword_010.png

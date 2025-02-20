@@ -8,4 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Animation by SteamingTofu.
+
+3. Axe (magic axe V1/V2) by Seliost1.

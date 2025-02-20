@@ -10,4 +10,8 @@
 
 Animation by Leo_Link.
 
-Script by Apolo15.
+Sword and Unarmed Script by Apolo15.
+
+Sword script inprovement by Itranc.
+
+Lance Script by Itranc.

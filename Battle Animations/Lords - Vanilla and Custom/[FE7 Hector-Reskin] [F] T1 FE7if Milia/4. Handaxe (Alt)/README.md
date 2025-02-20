@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Made by the FE7if devs.
 
 Sword by Seliost1.
@@ -19,3 +21,9 @@ Handaxe (Alt) by Seliost1.
 Sword (Sutr) by Seliost1.
 
 Unarmed by Seliost1.
+
+3. Axe (Scythe, alt crit 2 + ranged) by Seliost1.
+
+3. Axe (Scythe, alt crit 3) by Seliost1.
+
+3. Axe (Scythe, alt crit) by Seliost1.

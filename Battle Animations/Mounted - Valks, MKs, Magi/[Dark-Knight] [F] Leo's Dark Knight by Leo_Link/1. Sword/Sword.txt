@@ -1,5 +1,5 @@
 #######################################################
-#01 Sword Lord Lance
+#0A lomf_sw1 Downloaded Anima
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -79,7 +79,7 @@ C4F                               #Play druid critical charging SFE
 4 p- Sword_008.png
 C1C                               #Play light horse stepping SFE; pitch decreases
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-C1A                               #Normal hit
+C0C                               #Critical hit
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 2 p- Sword_009.png
 2 p- Sword_010.png
@@ -212,8 +212,7 @@ C07                               #Start attack animation; need 03 right before 
 3 p- Sword_007.png
 2 p- Sword_008.png
 C1C                               #Play light horse stepping SFE; pitch decreases
-C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
-C1A                               #Normal hit
+C23                               #Play shorter sword swinging SFE
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 2 p- Sword_009.png
 2 p- Sword_010.png

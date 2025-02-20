@@ -1,0 +1,336 @@
+#######################################################
+#DF lorm_sp1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+C05                               #Call spell associated with equipped weapon
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+C22                               #Play short sword swinging SFE
+6 p- Magic_002.png
+10 p- Magic_003.png
+5 p- Magic_004.png
+C4B                               #Play monk's magic casting SFE
+5 p- Magic_005.png
+6 p- Magic_006.png
+6 p- Magic_007.png
+6 p- Magic_008.png
+6 p- Magic_009.png
+6 p- Magic_010.png
+6 p- Magic_011.png
+6 p- Magic_012.png
+5 p- Magic_013.png
+5 p- Magic_014.png
+5 p- Magic_015.png
+5 p- Magic_016.png
+8 p- Magic_017.png
+6 p- Magic_018.png
+4 p- Magic_019.png
+4 p- Magic_020.png
+8 p- Magic_021.png
+C44                               #Play short "light emission" SFE
+5 p- Magic_022.png
+5 p- Magic_023.png
+5 p- Magic_024.png
+5 p- Magic_025.png
+4 p- Magic_026.png
+4 p- Magic_027.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_028.png
+4 p- Magic_029.png
+4 p- Magic_030.png
+4 p- Magic_031.png
+4 p- Magic_032.png
+4 p- Magic_033.png
+L                                 #LOOPSTART {
+4 p- Magic_034.png
+4 p- Magic_035.png
+4 p- Magic_036.png
+4 p- Magic_037.png
+4 p- Magic_038.png
+4 p- Magic_039.png
+4 p- Magic_040.png
+4 p- Magic_041.png
+4 p- Magic_042.png
+3 p- Magic_043.png
+3 p- Magic_044.png
+3 p- Magic_045.png
+3 p- Magic_046.png
+3 p- Magic_047.png
+3 p- Magic_048.png
+3 p- Magic_049.png
+C01                               #LOOPEND }  NOP
+4 p- Magic_050.png
+4 p- Magic_051.png
+4 p- Magic_052.png
+4 p- Magic_053.png
+4 p- Magic_054.png
+4 p- Magic_055.png
+4 p- Magic_056.png
+4 p- Magic_057.png
+4 p- Magic_058.png
+5 p- Magic_059.png
+5 p- Magic_060.png
+5 p- Magic_061.png
+5 p- Magic_062.png
+5 p- Magic_063.png
+5 p- Magic_064.png
+5 p- Magic_065.png
+5 p- Magic_066.png
+5 p- Magic_067.png
+5 p- Magic_068.png
+4 p- Magic_069.png
+4 p- Magic_070.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Magic_071.png
+3 p- Magic_072.png
+3 p- Magic_073.png
+3 p- Magic_074.png
+3 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+C22                               #Play short sword swinging SFE
+6 p- Magic_002.png
+10 p- Magic_003.png
+5 p- Magic_004.png
+C4B                               #Play monk's magic casting SFE
+5 p- Magic_005.png
+6 p- Magic_006.png
+6 p- Magic_007.png
+6 p- Magic_008.png
+6 p- Magic_009.png
+6 p- Magic_010.png
+6 p- Magic_011.png
+6 p- Magic_012.png
+5 p- Magic_013.png
+5 p- Magic_014.png
+5 p- Magic_015.png
+8 p- Magic_016.png
+6 p- Magic_017.png
+6 p- Magic_018.png
+5 p- Magic_019.png
+5 p- Magic_020.png
+C4F                               #Play druid critical charging SFE
+8 p- Magic_075.png
+5 p- Magic_076.png
+5 p- Magic_077.png
+5 p- Magic_078.png
+5 p- Magic_079.png
+5 p- Magic_080.png
+4 p- Magic_081.png
+4 p- Magic_082.png
+4 p- Magic_083.png
+4 p- Magic_084.png
+4 p- Magic_085.png
+4 p- Magic_086.png
+4 p- Magic_087.png
+4 p- Magic_088.png
+4 p- Magic_089.png
+4 p- Magic_090.png
+4 p- Magic_091.png
+4 p- Magic_092.png
+4 p- Magic_093.png
+3 p- Magic_094.png
+3 p- Magic_095.png
+4 p- Magic_096.png
+3 p- Magic_097.png
+C05                               #Call spell associated with equipped weapon
+3 p- Magic_098.png
+L                                 #LOOPSTART {
+3 p- Magic_098.png
+3 p- Magic_099.png
+3 p- Magic_100.png
+3 p- Magic_101.png
+3 p- Magic_102.png
+3 p- Magic_103.png
+3 p- Magic_104.png
+3 p- Magic_105.png
+3 p- Magic_106.png
+3 p- Magic_107.png
+3 p- Magic_108.png
+3 p- Magic_109.png
+3 p- Magic_110.png
+3 p- Magic_111.png
+3 p- Magic_112.png
+3 p- Magic_113.png
+3 p- Magic_114.png
+3 p- Magic_115.png
+3 p- Magic_116.png
+4 p- Magic_117.png
+4 p- Magic_118.png
+4 p- Magic_119.png
+C01                               #LOOPEND }  NOP
+4 p- Magic_056.png
+4 p- Magic_057.png
+4 p- Magic_058.png
+4 p- Magic_059.png
+4 p- Magic_060.png
+4 p- Magic_061.png
+4 p- Magic_062.png
+4 p- Magic_063.png
+4 p- Magic_064.png
+4 p- Magic_065.png
+4 p- Magic_066.png
+4 p- Magic_067.png
+4 p- Magic_068.png
+4 p- Magic_069.png
+4 p- Magic_070.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Magic_071.png
+4 p- Magic_072.png
+4 p- Magic_073.png
+3 p- Magic_074.png
+3 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+3 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_120.png
+3 p- Magic_121.png
+C01                               #NOP
+3 p- Magic_122.png
+3 p- Magic_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+3 p- Magic_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic_120.png
+3 p- Magic_121.png
+C01                               #NOP
+3 p- Magic_122.png
+3 p- Magic_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Magic_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+4 p- Magic_000.png
+4 p- Magic_001.png
+C22                               #Play short sword swinging SFE
+6 p- Magic_002.png
+10 p- Magic_003.png
+5 p- Magic_004.png
+C4B                               #Play monk's magic casting SFE
+5 p- Magic_005.png
+6 p- Magic_006.png
+6 p- Magic_007.png
+6 p- Magic_008.png
+6 p- Magic_009.png
+6 p- Magic_010.png
+6 p- Magic_011.png
+5 p- Magic_012.png
+5 p- Magic_013.png
+5 p- Magic_014.png
+5 p- Magic_015.png
+8 p- Magic_016.png
+6 p- Magic_017.png
+6 p- Magic_018.png
+6 p- Magic_019.png
+6 p- Magic_020.png
+10 p- Magic_021.png
+C44                               #Play short "light emission" SFE
+5 p- Magic_022.png
+5 p- Magic_023.png
+5 p- Magic_024.png
+5 p- Magic_025.png
+5 p- Magic_026.png
+4 p- Magic_027.png
+C05                               #Call spell associated with equipped weapon
+4 p- Magic_028.png
+4 p- Magic_029.png
+4 p- Magic_030.png
+4 p- Magic_031.png
+4 p- Magic_032.png
+4 p- Magic_033.png
+L                                 #LOOPSTART {
+4 p- Magic_034.png
+4 p- Magic_035.png
+4 p- Magic_036.png
+4 p- Magic_037.png
+4 p- Magic_038.png
+4 p- Magic_039.png
+4 p- Magic_040.png
+4 p- Magic_041.png
+3 p- Magic_042.png
+3 p- Magic_043.png
+3 p- Magic_044.png
+3 p- Magic_045.png
+3 p- Magic_046.png
+3 p- Magic_047.png
+3 p- Magic_048.png
+3 p- Magic_049.png
+C01                               #LOOPEND }  NOP
+4 p- Magic_050.png
+4 p- Magic_051.png
+4 p- Magic_052.png
+4 p- Magic_053.png
+4 p- Magic_054.png
+4 p- Magic_055.png
+4 p- Magic_056.png
+4 p- Magic_057.png
+4 p- Magic_058.png
+5 p- Magic_059.png
+5 p- Magic_060.png
+5 p- Magic_061.png
+5 p- Magic_062.png
+5 p- Magic_063.png
+5 p- Magic_064.png
+5 p- Magic_065.png
+5 p- Magic_066.png
+5 p- Magic_067.png
+5 p- Magic_068.png
+5 p- Magic_069.png
+4 p- Magic_070.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Magic_071.png
+4 p- Magic_072.png
+4 p- Magic_073.png
+4 p- Magic_074.png
+4 p- Magic_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

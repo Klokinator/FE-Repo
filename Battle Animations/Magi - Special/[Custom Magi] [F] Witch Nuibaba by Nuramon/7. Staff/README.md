@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Base witch animation by HyperGammaSpaces (HGS).
 
 Still and reskin by Nuramon.

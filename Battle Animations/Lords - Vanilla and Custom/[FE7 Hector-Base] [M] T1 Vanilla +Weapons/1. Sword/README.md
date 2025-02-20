@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Original animation by IS.
 
 Sword by Zane Avernathy.
@@ -16,4 +18,4 @@ Axe (Punch Crit) by Vilkalizer.
 
 Broadsword by Seliost1.
 
-Handaxe (Alt) by Seliost1.
+Handaxe (Alt Crit 1/2) by Seliost1.

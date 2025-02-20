@@ -8,8 +8,12 @@
 
 ## Credit
 
+F2U/F2E
+
 Sentinel Animation by Nuramon.
 
 Sword version by Craigrandall55.
 
 Jakka edit by NamelessX.
+
+1. Sword (no shaky ranged crit) by Seliost1.

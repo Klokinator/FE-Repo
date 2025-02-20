@@ -8,4 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Still and animation by Nuramon.
+
+1. Sword (SoV Crit/ SoV Crit +more slashes) done by Seliost1.

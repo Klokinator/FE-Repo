@@ -8,4 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Animation custom-made by SteamingTofu.
+
+Handaxe (Alt Crit), Handaxe (Bigger handaxe), and magic Axe frames edit by Seliost1.

@@ -8,8 +8,12 @@
 
 ## Credit
 
+F2U/F2E
+
 Animation by Leo_Link.
 
 Ponytail edit by Sable Mage.
 
 color fix by UltraFenix.
+
+5. Bow (Triple arrows) edit by Seliost1.

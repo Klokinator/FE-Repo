@@ -12,4 +12,6 @@ Author RedBean
 
 AnimationScript 7743
 
+Unarmed animation by Seliost1.
+
 https://tieba.baidu.com/p/7146291531?pn=5

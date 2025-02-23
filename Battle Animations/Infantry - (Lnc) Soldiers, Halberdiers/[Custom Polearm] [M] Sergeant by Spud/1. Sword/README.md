@@ -9,3 +9,5 @@
 ## Credit
 
 Spud, Leolink, Iscaneous, Nuramon
+
+Axe and Handaxe frames by ltranc.

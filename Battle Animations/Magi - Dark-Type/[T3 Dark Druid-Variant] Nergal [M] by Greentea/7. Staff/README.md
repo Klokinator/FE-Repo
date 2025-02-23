@@ -8,4 +8,6 @@
 
 ## Credit
 
+F2U/F2E only.
+
 Made by Greentea.

@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U only.
+
 Still made by Piero.
 
 Animations made by Red Bean.

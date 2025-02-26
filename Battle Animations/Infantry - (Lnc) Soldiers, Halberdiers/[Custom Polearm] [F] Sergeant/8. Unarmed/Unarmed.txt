@@ -1,5 +1,5 @@
 #######################################################
-#08 Unarmed Great Lord Sword
+#10 bram_sw1 Hero Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

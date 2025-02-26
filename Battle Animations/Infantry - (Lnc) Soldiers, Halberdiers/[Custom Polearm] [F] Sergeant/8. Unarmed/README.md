@@ -11,3 +11,7 @@
 Spud, Leolink, Iscaneous, Nuramon.
 
 Female Version by ドラドラゴ (Dora Drago).
+
+Axe and Handaxe animation by Itranc.
+
+Removed white pixels from face by Itranc.

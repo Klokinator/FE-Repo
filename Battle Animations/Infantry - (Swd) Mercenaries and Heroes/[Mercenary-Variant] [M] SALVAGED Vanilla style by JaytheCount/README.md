@@ -9,3 +9,5 @@ SALVAGED
 
 Jey the Count for hair edit.
 
+No white pixel and fixes by UltraFenix.
+

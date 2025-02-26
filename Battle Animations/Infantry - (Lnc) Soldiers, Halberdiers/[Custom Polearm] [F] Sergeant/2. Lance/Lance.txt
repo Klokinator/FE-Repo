@@ -1,5 +1,5 @@
 #######################################################
-#02 Lance Lord Item
+#0E bram_sw1 Hero Axe
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

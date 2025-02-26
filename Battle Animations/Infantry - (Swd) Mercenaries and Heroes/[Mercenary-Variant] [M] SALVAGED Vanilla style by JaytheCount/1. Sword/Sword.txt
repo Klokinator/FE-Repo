@@ -1,5 +1,5 @@
 #######################################################
-#0C merm_sw1 Swordfighter Item
+#0B merm_sw1 Mercenary Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -23,7 +23,7 @@ C15                               #Slight vibration of screen
 3 p- Sword_010.png
 C22                               #Play short sword swinging SFE
 2 p- Sword_011.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C15                               #Slight vibration of screen
 C1A                               #Normal hit
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
@@ -128,7 +128,7 @@ C15                               #Slight vibration of screen
 3 p- Sword_090.png
 C24                               #Play sword slashing air SFE
 2 p- Sword_091.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C14                               #Heavy vibration of screen
 C0C                               #Critical hit
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
@@ -291,7 +291,7 @@ C15                               #Slight vibration of screen
 3 p- Sword_010.png
 C22                               #Play short sword swinging SFE
 1 p- Sword_132.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 1 p- Sword_132.png
 C15                               #Slight vibration of screen
 3 p- Sword_133.png

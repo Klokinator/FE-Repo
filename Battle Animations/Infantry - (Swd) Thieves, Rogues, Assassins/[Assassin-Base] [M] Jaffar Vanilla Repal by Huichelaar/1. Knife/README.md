@@ -17,3 +17,5 @@ Lyn-Bow by BatimaTheBat.
 Bow and Knife repal by UltraFenix
 
 Repalette by Huichelaar.
+
+Sword (Knife + Sword) by Itranc.

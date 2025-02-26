@@ -1,3 +1,5 @@
 Spud, Leolink, Iscaneous, Nuramon
 
 Axe and Handaxe frames by ltranc.
+
+Fixes to the Sword and Lance Script to have it play the crit+flash critical hit effect.

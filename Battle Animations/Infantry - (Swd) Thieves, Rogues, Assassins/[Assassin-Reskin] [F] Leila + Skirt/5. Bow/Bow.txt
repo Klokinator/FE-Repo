@@ -1,5 +1,5 @@
 #######################################################
-#8E asnm_sw1 Assassin Item
+#8D asnm_sw1 Assassin Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

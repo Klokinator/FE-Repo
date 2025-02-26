@@ -1,5 +1,5 @@
 #######################################################
-#0C merm_sw1 Swordfighter Item
+#0C merm_sw1 Mercenary Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

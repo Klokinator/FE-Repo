@@ -11,3 +11,7 @@
 Sword and Unarmed by FPZero, Moocavo, Riku.
 
 Knife by Pushwall, Jj09.Bow by Itranc. Hair by Raulster/Alice.
+
+Bow (Lyn-style) by Itranc.
+
+Removed white pixel in face by Itranc.

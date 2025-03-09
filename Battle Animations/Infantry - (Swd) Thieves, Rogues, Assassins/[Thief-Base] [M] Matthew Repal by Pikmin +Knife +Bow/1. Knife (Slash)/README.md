@@ -19,3 +19,5 @@ Stab variations by IS, compiled by Alice
 Bow by ZoramineFae.
 
 Staff animation by Sphealnuke. Original repalette by Pikmin1121 and Maiser6. Commissioned by Flaming.
+
+Color palette improvements and fixes for the Sword animations by UltraFenix.

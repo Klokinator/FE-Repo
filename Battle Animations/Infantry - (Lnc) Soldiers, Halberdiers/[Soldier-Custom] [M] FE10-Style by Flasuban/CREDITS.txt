@@ -1,7 +1,0 @@
-Flasuban sprited the base version of the FE10 Soldier.
-
-Slow/Angled is Flasuban's first version.
-
-Fast/Straight is a revision based off the vanilla GBA Soldier movements, made to look more like the GBA timings. This was animated by Nuramon.
-
-Sword animation is based on the Fast/Straight animation done by Nuramon. This was animated by Craigrandall55.

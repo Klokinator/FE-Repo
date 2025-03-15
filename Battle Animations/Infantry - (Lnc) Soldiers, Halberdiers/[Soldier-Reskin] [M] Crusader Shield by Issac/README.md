@@ -5,5 +5,7 @@
 
 ## Credits
 
+F2U/F2E
+
 Animation by Issac (aka Ken)
 

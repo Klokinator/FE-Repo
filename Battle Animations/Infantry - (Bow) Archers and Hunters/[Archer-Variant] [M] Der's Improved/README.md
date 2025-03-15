@@ -5,6 +5,8 @@
 
 ## Credits
 
+F2U/F2E
+
 Original animation by IS.
 
 Archer Variant by Flasuban and DerTheVaporeon.

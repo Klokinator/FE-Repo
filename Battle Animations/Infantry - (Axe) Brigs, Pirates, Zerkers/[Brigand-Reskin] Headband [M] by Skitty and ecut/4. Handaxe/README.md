@@ -15,3 +15,7 @@ Original animation by IS.
 Edit by EldritchAbomination.
 
 Headband by Skitty and ecut.
+
+Magic axe frames by Itanc.
+
+Removal of white pixel in face by Itranc.

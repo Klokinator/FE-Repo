@@ -10,4 +10,6 @@
 
 F2U/F2E
 
-Animation by Nuramon, MarioKirby, Wan
+Animation by Nuramon, MarioKirby, Wan.
+
+3. Axe (Magic) by Itranc.

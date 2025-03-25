@@ -99,34 +99,54 @@ C0D
 C03
 C07
 1 p- Axe_000.png
+4 p- Axe_041.png
+C05
+1 p- Axe_042.png
+C01
 C06
+4 p- Axe_041.png
 C0D
 ~~~
 /// - Mode 6
 C03
 C07
 1 p- Axe_000.png
+4 p- Axe_041.png
+C22
+2 p- Axe_042.png
+4 p- Axe_043.png
+2 p- Axe_042.png
+4 p- Axe_043.png
+2 p- Axe_042.png
+3 p- Axe_043.png
+3 p- Axe_042.png
+1 p- Axe_043.png
+C05
+1 p- Axe_042.png
+C01
+C23
 C06
+4 p- Axe_041.png
 C0D
 ~~~
 /// - Mode 7
 C02
 1 p- Axe_000.png
 C0E
-3 p- Axe_041.png
-1 p- Axe_042.png
+3 p- Axe_044.png
+1 p- Axe_045.png
 C01
-3 p- Axe_041.png
+3 p- Axe_044.png
 C0D
 ~~~
 /// - Mode 8
 C02
 1 p- Axe_000.png
 C0E
-3 p- Axe_041.png
-1 p- Axe_042.png
+3 p- Axe_044.png
+1 p- Axe_045.png
 C01
-3 p- Axe_041.png
+3 p- Axe_044.png
 C0D
 ~~~
 /// - Mode 9

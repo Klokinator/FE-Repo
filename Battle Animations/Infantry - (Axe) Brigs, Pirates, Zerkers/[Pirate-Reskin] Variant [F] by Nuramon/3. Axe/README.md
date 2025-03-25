@@ -10,4 +10,6 @@
 
 F2U/F2E
 
-Nuramon, MarioKirby, Wan
+Nuramon, MarioKirby, Wan.
+
+3. Axe (Magic) by Itranc.

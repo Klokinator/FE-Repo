@@ -7,12 +7,12 @@
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 4 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_003.png
 1 p- Handaxe_000.png
 C01                               #NOP
@@ -29,12 +29,12 @@ C38                               #Play heavy spear spinning SFE
 2 p- Handaxe_006.png
 2 p- Handaxe_007.png
 15 p- Handaxe_000.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 4 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_003.png
 1 p- Handaxe_000.png
 C01                               #NOP
@@ -65,12 +65,12 @@ C38                               #Play heavy spear spinning SFE
 2 p- Handaxe_006.png
 2 p- Handaxe_007.png
 15 p- Handaxe_000.png
-C41                               #EMPTY
+C41                               #Play Axe rising SFE
 C05                               #Call spell associated with equipped weapon
 4 p- Handaxe_001.png
 1 p- Handaxe_002.png
 C13                               #ranged attack - hand axe for Hector
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Handaxe_003.png
 1 p- Handaxe_000.png
 C01                               #NOP

@@ -11,3 +11,5 @@
 F2U/F2E
 
 {Markyjoe, Feaw, Shin19}
+
+6. Magic (Fixed V2) by Itranc. (Removes white pixels from face and fix a few frames cape trim.)

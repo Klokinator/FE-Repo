@@ -10,4 +10,4 @@
 
 Made by Nuramon.
 
-Axe animation added by Jotari. Currently lacks a Handaxe.
+1. Sword (Alt Crit) original frames by Seliost1 and added by Itranc.

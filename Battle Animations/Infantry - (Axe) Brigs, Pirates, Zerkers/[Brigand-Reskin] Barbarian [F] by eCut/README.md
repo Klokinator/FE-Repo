@@ -11,3 +11,7 @@ Made by eCut.
 
 Scripted by Skitty.
 
+Magic axe frames by Chi-Chi and scripted by Itranc.
+
+Removal of white pixel in face by Itranc.
+

@@ -1,11 +1,11 @@
 #######################################################
-#17 braf_sw1 Hero Hand axe
+#0F bram_sw1 Hero Hand Axe
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 6 p- Handaxe_000.png
 3 p- Handaxe_001.png
 2 p- Handaxe_002.png
@@ -51,8 +51,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 6 p- Handaxe_000.png
 60 p- Handaxe_026.png
 12 p- Handaxe_000.png
@@ -104,8 +104,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 6 p- Handaxe_000.png
 3 p- Handaxe_001.png
 2 p- Handaxe_002.png
@@ -151,8 +151,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 6 p- Handaxe_000.png
 60 p- Handaxe_026.png
 12 p- Handaxe_000.png
@@ -248,8 +248,8 @@ C01                               #NOP
 C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 6 p- Handaxe_000.png
 3 p- Handaxe_001.png
 2 p- Handaxe_002.png

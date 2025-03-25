@@ -1,0 +1,5 @@
+Original repalette by UltraFenix.
+
+Palette edit based on Teraspark's F!Monk by Itranc. 
+
+Edits to make the eyes black, instead of using a hair color, and using the lightest (blue in the default player palette) clothing color on the magic effect instead of a skin color.

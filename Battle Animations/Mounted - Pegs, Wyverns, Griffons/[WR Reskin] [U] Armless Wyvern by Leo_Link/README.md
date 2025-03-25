@@ -10,3 +10,5 @@ Animation by Leo_Link.
 
 Script by Jj09.
 
+Magic frames by Itranc.
+

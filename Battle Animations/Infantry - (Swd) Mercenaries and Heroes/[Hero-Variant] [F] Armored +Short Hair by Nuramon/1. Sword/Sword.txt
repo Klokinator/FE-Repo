@@ -1,11 +1,11 @@
 #######################################################
-#15 braf_sw1 Hero Sword
+#0D bram_sw1 Hero Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Sword_000.png
 3 p- Sword_001.png
 2 p- Sword_002.png
@@ -29,7 +29,7 @@ C36                               #Play sword unsheathing SFE
 2 p- Sword_019.png
 C22                               #Play short sword swinging SFE
 2 p- Sword_020.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 C1A                               #Normal hit
 2 p- Sword_021.png
@@ -95,8 +95,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Sword_000.png
 3 p- Sword_072.png
 2 p- Sword_073.png
@@ -108,7 +108,7 @@ C07                               #Start attack animation; should be preceeded b
 2 p- Sword_079.png
 2 p- Sword_080.png
 2 p- Sword_081.png
-C42                               #Play long axe swinging SFE
+C42                               #Play Axe falling SFE; long axe swinging SFE
 2 p- Sword_082.png
 1 p- Sword_083.png
 1 p- Sword_084.png
@@ -148,7 +148,7 @@ C15                               #Slight vibration of screen
 C23                               #Play shorter sword swinging SFE
 2 p- Sword_116.png
 C14                               #Heavy vibration of screen
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 C08                               #Critical hit
 2 p- Sword_117.png
@@ -266,8 +266,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Sword_000.png
 3 p- Sword_001.png
 2 p- Sword_002.png
@@ -297,8 +297,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 3 p- Sword_000.png
 3 p- Sword_001.png
 2 p- Sword_002.png
@@ -383,8 +383,8 @@ C01                               #NOP
 C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Sword_000.png
 3 p- Sword_001.png
 2 p- Sword_002.png
@@ -408,7 +408,7 @@ C36                               #Play sword unsheathing SFE
 2 p- Sword_019.png
 C22                               #Play short sword swinging SFE
 2 p- Sword_020.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 2 p- Sword_161.png
 2 p- Sword_162.png
 2 p- Sword_163.png

@@ -1,16 +1,16 @@
 #######################################################
+#20 banm_ax1 Brigand Axe
 #
-#
-#When importing to FEEditorAdv delete # and after each line.
+#When importing to FEditorAdv delete # and after each line.
 #######################################################
-/// - Mode 1                            #Melee Animation
-C03                                     #Start attack animation; should be followed by 0x07
-C07                                     #Start attack animation; should be preceeded by 0x03
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
 5 p- Axe_001.png
-C41                                     #EMPTY FE7:086EB188
+C41                               #Play Axe rising SFE
 5 p- Axe_002.png
-C30                                     #Show dirt kicking (as from dashing forward) animation
+C30                               #Show dirt kicking (as from dashing forward) animation
 4 p- Axe_003.png
 1 p- Axe_004.png
 1 p- Axe_005.png
@@ -19,17 +19,17 @@ C30                                     #Show dirt kicking (as from dashing forw
 4 p- Axe_008.png
 2 p- Axe_009.png
 1 p- Axe_010.png
-C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C42                                     #Refresh long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Axe_011.png
-C1A                                     #Normal hit
-C1F                                     #Refresh hit SFE (sounds like Eliwood with sword's hit)
-C34                                     #Refresh heavy stepping SFE
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C34                               #Play heavy stepping SFE
 4 p- Axe_012.png
 2 p- Axe_013.png
 2 p- Axe_014.png
 1 p- Axe_015.png
-C01                                     #NOP
+C01                               #NOP
 3 p- Axe_016.png
 6 p- Axe_017.png
 2 p- Axe_018.png
@@ -40,18 +40,18 @@ C01                                     #NOP
 4 p- Axe_023.png
 3 p- Axe_024.png
 2 p- Axe_025.png
-C34                                     #Refresh heavy stepping SFE
+C34                               #Play heavy stepping SFE
 3 p- Axe_026.png
-C06                                     #Begin opponent's turn after hit.next code 0D.
+C06                               #Begin opponent's turn after hit.next code 0D.
 6 p- Axe_000.png
 1 p- Axe_027.png
-C0D                                     #End of dodge animation. preceeded by 0x06
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 3                            #Melee Critical Animation
-C03                                     #Start attack animation; should be followed by 0x07
-C07                                     #Start attack animation; should be preceeded by 0x03
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
-C33                                     #Refresh battle cry SFE (REALLY stupid)
+C33                               #Play battle cry SFE (REALLY stupid)
 2 p- Axe_028.png
 2 p- Axe_029.png
 2 p- Axe_028.png
@@ -65,9 +65,9 @@ C33                                     #Refresh battle cry SFE (REALLY stupid)
 13 p- Axe_029.png
 5 p- Axe_000.png
 5 p- Axe_001.png
-C41                                     #EMPTY FE7:086EB188
+C41                               #Play Axe rising SFE
 5 p- Axe_002.png
-C30                                     #Show dirt kicking (as from dashing forward) animation
+C30                               #Show dirt kicking (as from dashing forward) animation
 4 p- Axe_003.png
 1 p- Axe_004.png
 1 p- Axe_005.png
@@ -76,17 +76,17 @@ C30                                     #Show dirt kicking (as from dashing forw
 4 p- Axe_008.png
 2 p- Axe_009.png
 1 p- Axe_010.png
-C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C42                                     #Refresh long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Axe_011.png
-C0A                                     #Critical hit
-C1F                                     #Refresh hit SFE (sounds like Eliwood with sword's hit)
-C34                                     #Refresh heavy stepping SFE
+C0A                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C34                               #Play heavy stepping SFE
 4 p- Axe_012.png
 2 p- Axe_013.png
 2 p- Axe_014.png
 1 p- Axe_015.png
-C01                                     #NOP
+C01                               #NOP
 3 p- Axe_016.png
 6 p- Axe_017.png
 2 p- Axe_018.png
@@ -97,59 +97,95 @@ C01                                     #NOP
 4 p- Axe_023.png
 3 p- Axe_024.png
 2 p- Axe_025.png
-C34                                     #Refresh heavy stepping SFE
+C34                               #Play heavy stepping SFE
 3 p- Axe_026.png
-C06                                     #Begin opponent's turn after hit.next code 0D.
+C06                               #Begin opponent's turn after hit.next code 0D.
 6 p- Axe_000.png
 1 p- Axe_027.png
-C0D                                     #End of dodge animation. preceeded by 0x06
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 5                            #Ranged Animation 
+/// - Mode 5               #Ranged Animation 
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
-~~~
-/// - Mode 6                            #Ranged Critical Animation
+C41                               #Play Axe rising SFE
+2 p- Axe_030.png
+2 p- Axe_031.png
+C05                               #Call spell associated with equipped weapon
+2 p- Axe_031.png
+C01                               #NOP
+C42                               #Play Axe falling SFE; long axe swinging SFE
+2 p- Axe_030.png
 1 p- Axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+6 p- Axe_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 7                            #Dodge Melee Attack
-C02                                     #Start of dodge
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
-C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Axe_030.png
-1 p- Axe_031.png
-C01                                     #NOP
-3 p- Axe_030.png
-C0D                                     #End of dodge animation. preceeded by 0x06
-~~~
-/// - Mode 8                            #Dodge Ranged Attack
-C02                                     #Start of dodge
+C33                               #Play battle cry SFE (REALLY stupid)
+2 p- Axe_032.png
+2 p- Axe_033.png
+2 p- Axe_034.png
+2 p- Axe_033.png
+2 p- Axe_034.png
+2 p- Axe_035.png
+2 p- Axe_032.png
+2 p- Axe_035.png
+2 p- Axe_032.png
+4 p- Axe_034.png
+4 p- Axe_032.png
+C05                               #Call spell associated with equipped weapon
+2 p- Axe_032.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C42                               #Play Axe falling SFE; long axe swinging SFE
+2 p- Axe_030.png
 1 p- Axe_000.png
-C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Axe_030.png
-1 p- Axe_031.png
-C01                                     #NOP
-3 p- Axe_030.png
-C0D                                     #End of dodge animation. preceeded by 0x06
+6 p- Axe_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 9                            #Equiped with Melee Weapon
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
 1 p- Axe_000.png
-C01                                     #NOP
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_036.png
+1 p- Axe_037.png
+C01                               #NOP
+3 p- Axe_036.png
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 10                           #standing motions?
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
 1 p- Axe_000.png
-C01                                     #NOP
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_036.png
+1 p- Axe_037.png
+C01                               #NOP
+3 p- Axe_036.png
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 11                           #Equiped with Ranged weapon
+/// - Mode 9               #Equiped with Melee Weapon
 1 p- Axe_000.png
-C01                                     #NOP
+C01                               #NOP
 ~~~
-/// - Mode 12                           #Attack Missed Animation
-C03                                     #Start attack animation; should be followed by 0x07
-C07                                     #Start attack animation; should be preceeded by 0x03
+/// - Mode 10               #Standing motions
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Axe_000.png
 5 p- Axe_001.png
-C41                                     #EMPTY FE7:086EB188
+C41                               #Play Axe rising SFE
 5 p- Axe_002.png
-C30                                     #Show dirt kicking (as from dashing forward) animation
+C30                               #Show dirt kicking (as from dashing forward) animation
 4 p- Axe_003.png
 1 p- Axe_004.png
 1 p- Axe_005.png
@@ -158,15 +194,15 @@ C30                                     #Show dirt kicking (as from dashing forw
 4 p- Axe_008.png
 2 p- Axe_009.png
 1 p- Axe_010.png
-C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C42                                     #Refresh long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Axe_011.png
-C34                                     #Refresh heavy stepping SFE
-2 p- Axe_032.png
-2 p- Axe_033.png
-2 p- Axe_034.png
-1 p- Axe_035.png
-C01                                     #NOP
+C34                               #Play heavy stepping SFE
+2 p- Axe_038.png
+2 p- Axe_039.png
+2 p- Axe_040.png
+1 p- Axe_041.png
+C01                               #NOP
 3 p- Axe_016.png
 6 p- Axe_017.png
 2 p- Axe_018.png
@@ -177,11 +213,11 @@ C01                                     #NOP
 4 p- Axe_023.png
 3 p- Axe_024.png
 2 p- Axe_025.png
-C34                                     #Refresh heavy stepping SFE
+C34                               #Play heavy stepping SFE
 3 p- Axe_026.png
-C06                                     #Begin opponent's turn after hit.next code 0D.
+C06                               #Begin opponent's turn after hit.next code 0D.
 6 p- Axe_000.png
 1 p- Axe_027.png
-C0D                                     #End of dodge animation. preceeded by 0x06
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

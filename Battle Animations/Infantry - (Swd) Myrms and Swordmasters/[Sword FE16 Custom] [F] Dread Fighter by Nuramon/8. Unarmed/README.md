@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Nuramon.
+
+1. Sword (Alt Crit) original frames by Seliost1 and added by Itranc.

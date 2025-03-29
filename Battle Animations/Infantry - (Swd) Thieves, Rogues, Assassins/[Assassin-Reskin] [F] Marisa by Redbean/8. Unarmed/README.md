@@ -11,3 +11,5 @@
 Made by Red Bean.
 
 Scripted by Sable Mage.
+
+1. Sword (Knife Ranged) by Seliost1.

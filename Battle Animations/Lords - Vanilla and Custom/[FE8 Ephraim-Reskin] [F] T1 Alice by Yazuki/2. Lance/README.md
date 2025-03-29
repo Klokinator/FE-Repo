@@ -10,4 +10,6 @@
 
 Animation by Yazuki.
 
-Needs an unarmed animation.
+Needs an unarmed animation. (Ask and you shall receive lol.)
+
+Unarmed by Seliost1.

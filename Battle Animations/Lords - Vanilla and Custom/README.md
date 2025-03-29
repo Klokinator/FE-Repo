@@ -314,8 +314,8 @@
 
 ## [\[FE7 Eliwood-Reskin\] \[M\] T1 Long-Haired by Xenith](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith/1.%20Sword/Sword.gif"/> | <b>Sword (no flip)</b><br/><img alt="Sword (no flip)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith/1.%20Sword%20(no%20flip)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20%5BM%5D%20T1%20Long-Haired%20by%20Xenith/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -711,8 +711,16 @@
 
 ## [\[FE7 Lyn-Reskin\] \[F\] T2 FE7if Elena](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena/1.%20Sword/Sword.gif"/> | <b>Sword (Beta Durandal)</b><br/><img alt="Sword (Beta Durandal)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena/1.%20Sword%20(Beta%20Durandal)/Sword.gif"/> |
-| :---: | :---: |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena/1.%20Sword/Sword.gif"/> | <b>Sword (Beta Durandal)</b><br/><img alt="Sword (Beta Durandal)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena/1.%20Sword%20(Beta%20Durandal)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[FE7 Lyn-Reskin\] \[F\] T2 FE7if Elena Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena%20Repal) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena%20Repal/1.%20Sword/Sword.gif"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena%20Repal/1.%20Sword%20(Durandal)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20%5BF%5D%20T2%20FE7if%20Elena%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -1069,8 +1077,8 @@
 
 ## [\[FE8 Ephraim-Reskin\] \[F\] T1 Alice by Yazuki](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Ephraim-Reskin%5D%20%5BF%5D%20T1%20Alice%20by%20Yazuki) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Ephraim-Reskin%5D%20%5BF%5D%20T1%20Alice%20by%20Yazuki) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Ephraim-Reskin%5D%20%5BF%5D%20T1%20Alice%20by%20Yazuki/2.%20Lance/Lance.gif"/> |
-| :---: |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Ephraim-Reskin%5D%20%5BF%5D%20T1%20Alice%20by%20Yazuki/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Ephraim-Reskin%5D%20%5BF%5D%20T1%20Alice%20by%20Yazuki/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 
@@ -1177,9 +1185,9 @@
 
 ## [\[FE9 Lord Custom\] \[M\] Ike Vanguard by FlyingAce24](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/1.%20Sword/Sword.gif"/> | <b>Sword (Default)</b><br/><img alt="Sword (Default)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/1.%20Sword%20(Default)/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/3.%20Axe/Axe.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/1.%20Sword/Sword.gif"/> | <b>Sword (Default)</b><br/><img alt="Sword (Default)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/1.%20Sword%20(Default)/Sword.gif"/> | <b>Sword (flashy ranged)</b><br/><img alt="Sword (flashy ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/1.%20Sword%20(flashy%20ranged)/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20%5BM%5D%20Ike%20Vanguard%20by%20FlyingAce24/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

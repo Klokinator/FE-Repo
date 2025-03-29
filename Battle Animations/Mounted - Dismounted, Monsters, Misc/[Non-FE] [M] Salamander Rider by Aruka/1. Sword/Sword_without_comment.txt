@@ -129,6 +129,11 @@ C0D
 C03
 C07
 6 p- Sword_000.png
+C39
+4 p- Sword_030.png
+C05
+C01
+6 p- Sword_000.png
 C06
 C0D
 ~~~
@@ -136,6 +141,29 @@ C0D
 C03
 C07
 6 p- Sword_000.png
+C39
+3 p- Sword_000.png
+C77
+4 p- Sword_014.png
+4 p- Sword_015.png
+4 p- Sword_016.png
+4 p- Sword_017.png
+4 p- Sword_018.png
+4 p- Sword_019.png
+4 p- Sword_020.png
+4 p- Sword_021.png
+4 p- Sword_022.png
+4 p- Sword_023.png
+4 p- Sword_024.png
+4 p- Sword_025.png
+4 p- Sword_026.png
+4 p- Sword_027.png
+4 p- Sword_028.png
+4 p- Sword_029.png
+4 p- Sword_030.png
+C05
+C01
+3 p- Sword_000.png
 C06
 C0D
 ~~~

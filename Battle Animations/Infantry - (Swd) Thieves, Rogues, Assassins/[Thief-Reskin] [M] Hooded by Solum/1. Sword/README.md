@@ -9,3 +9,7 @@
 ## Credit
 
 Made by Solum.
+
+Knife by Seliost1.
+
+Sword (Magic) by Seliost1.

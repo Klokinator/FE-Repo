@@ -13,3 +13,5 @@ F2U/F2E
 Echidna Animation used as a base.{Red Bean, Zelix}
 
 Raven reskin by FelixRay.
+
+1. Sword (Binding Blade) port by Seliost1.

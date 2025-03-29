@@ -1,0 +1,256 @@
+/// - Mode 1
+1 p- Magic (Staff)_000.png
+C03
+C07
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B
+3 p- Magic (Staff)_005.png
+C23
+C05
+L
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+1 p- Magic (Staff)_000.png
+C03
+C07
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_024.png
+C44
+2 p- Magic (Staff)_025.png
+2 p- Magic (Staff)_026.png
+2 p- Magic (Staff)_027.png
+2 p- Magic (Staff)_028.png
+2 p- Magic (Staff)_029.png
+2 p- Magic (Staff)_030.png
+3 p- Magic (Staff)_031.png
+3 p- Magic (Staff)_032.png
+9 p- Magic (Staff)_033.png
+4 p- Magic (Staff)_034.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B
+3 p- Magic (Staff)_005.png
+C23
+C05
+L
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+1 p- Magic (Staff)_000.png
+C03
+C07
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B
+3 p- Magic (Staff)_005.png
+C23
+C05
+L
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+1 p- Magic (Staff)_000.png
+C03
+C07
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_024.png
+C44
+2 p- Magic (Staff)_025.png
+2 p- Magic (Staff)_026.png
+2 p- Magic (Staff)_027.png
+2 p- Magic (Staff)_028.png
+2 p- Magic (Staff)_029.png
+2 p- Magic (Staff)_030.png
+3 p- Magic (Staff)_031.png
+3 p- Magic (Staff)_032.png
+9 p- Magic (Staff)_033.png
+4 p- Magic (Staff)_034.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B
+3 p- Magic (Staff)_005.png
+C23
+C05
+L
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+1 p- Magic (Staff)_000.png
+C02
+1 p- Magic (Staff)_000.png
+C0E
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_036.png
+C01
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_000.png
+C0D
+~~~
+/// - Mode 8
+1 p- Magic (Staff)_000.png
+C02
+1 p- Magic (Staff)_000.png
+C0E
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_036.png
+C01
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Magic (Staff)_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Magic (Staff)_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Magic (Staff)_000.png
+C01
+~~~
+/// - Mode 12
+1 p- Magic (Staff)_000.png
+C03
+C07
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B
+3 p- Magic (Staff)_005.png
+C23
+C05
+L
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06
+C0D
+~~~
+/// - End of animation

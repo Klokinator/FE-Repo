@@ -6,9 +6,11 @@
 
 ## Credits
 
-Animation by  Khrene Kleaver.
+Original animation by Mikey Seregon, Khrene Kleaver, Khardros.
+
+8. Legendary (Binding Blade) {Khardros}.
+
+1. Sword (slash ranged) by Seliost1.
 
 Female version by Seliost1.
-
-Sword (slash ranged) by Seliost1.
 

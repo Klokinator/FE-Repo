@@ -13,3 +13,5 @@ F2U only.
 Still made by Piero.
 
 Animations made by Red Bean.
+
+6. Magic (FE8) script version made by UltraFenix.

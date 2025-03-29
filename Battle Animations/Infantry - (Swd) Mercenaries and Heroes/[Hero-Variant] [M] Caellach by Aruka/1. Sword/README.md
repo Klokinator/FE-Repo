@@ -18,3 +18,4 @@ Note that this animation is very choppy and could use community improvement.
 
 Both Alt versions are made by Seliost1.
 
+Both Magic axe versions are made by Seliost1.

@@ -10,6 +10,10 @@
 
 Animation by IS.
 
+FE5 Mareeta Rekins by UltraFenix, Commissioned by Arcth.
+
 Pants edit by Seliost1.
 
-FE5 Mareeta Rekins by UltraFenix, Commissioned by Arcth.
+1. Sword (Mirrored Arm Mesh) and (No Arm Mesh) by Seliost1.
+
+8. Unarmed (Mirrored Arm Mesh) by Seliost1.

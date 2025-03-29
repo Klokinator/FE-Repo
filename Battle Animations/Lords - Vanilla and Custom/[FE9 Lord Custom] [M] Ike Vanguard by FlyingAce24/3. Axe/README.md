@@ -13,3 +13,5 @@ Made by FlyingAce24.
 Scripted by Primefusion.
 
 Sword (Default) by Seliost1.
+
+Sword (Flashy Ranged) by Seliost1.

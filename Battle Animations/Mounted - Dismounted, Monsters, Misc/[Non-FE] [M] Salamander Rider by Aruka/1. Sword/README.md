@@ -9,3 +9,5 @@
 ## Credit
 
 {Aruka, Kenpuhu}
+
+Range animation for the Sword made by Seliost1.

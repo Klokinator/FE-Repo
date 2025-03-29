@@ -1,0 +1,261 @@
+#######################################################
+#6D sagm_mg1 Sage Anima
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Magic (Staff)_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_005.png
+C23                               #Play shorter sword swinging SFE
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01                               #LOOPEND }  NOP
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- Magic (Staff)_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_024.png
+C44                               #Play short "light emission" SFE
+2 p- Magic (Staff)_025.png
+2 p- Magic (Staff)_026.png
+2 p- Magic (Staff)_027.png
+2 p- Magic (Staff)_028.png
+2 p- Magic (Staff)_029.png
+2 p- Magic (Staff)_030.png
+3 p- Magic (Staff)_031.png
+3 p- Magic (Staff)_032.png
+9 p- Magic (Staff)_033.png
+4 p- Magic (Staff)_034.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_005.png
+C23                               #Play shorter sword swinging SFE
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01                               #LOOPEND }  NOP
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+1 p- Magic (Staff)_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_005.png
+C23                               #Play shorter sword swinging SFE
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01                               #LOOPEND }  NOP
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+1 p- Magic (Staff)_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_024.png
+C44                               #Play short "light emission" SFE
+2 p- Magic (Staff)_025.png
+2 p- Magic (Staff)_026.png
+2 p- Magic (Staff)_027.png
+2 p- Magic (Staff)_028.png
+2 p- Magic (Staff)_029.png
+2 p- Magic (Staff)_030.png
+3 p- Magic (Staff)_031.png
+3 p- Magic (Staff)_032.png
+9 p- Magic (Staff)_033.png
+4 p- Magic (Staff)_034.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_005.png
+C23                               #Play shorter sword swinging SFE
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01                               #LOOPEND }  NOP
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+1 p- Magic (Staff)_000.png
+C02                               #Start of dodge
+1 p- Magic (Staff)_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_036.png
+C01                               #NOP
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+1 p- Magic (Staff)_000.png
+C02                               #Start of dodge
+1 p- Magic (Staff)_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_036.png
+C01                               #NOP
+3 p- Magic (Staff)_035.png
+1 p- Magic (Staff)_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Magic (Staff)_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Magic (Staff)_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Magic (Staff)_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+1 p- Magic (Staff)_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Magic (Staff)_000.png
+4 p- Magic (Staff)_001.png
+4 p- Magic (Staff)_002.png
+6 p- Magic (Staff)_003.png
+6 p- Magic (Staff)_004.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_005.png
+C23                               #Play shorter sword swinging SFE
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+2 p- Magic (Staff)_006.png
+2 p- Magic (Staff)_007.png
+2 p- Magic (Staff)_008.png
+2 p- Magic (Staff)_009.png
+C01                               #LOOPEND }  NOP
+3 p- Magic (Staff)_010.png
+3 p- Magic (Staff)_011.png
+3 p- Magic (Staff)_012.png
+3 p- Magic (Staff)_013.png
+3 p- Magic (Staff)_014.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Magic (Staff)_015.png
+3 p- Magic (Staff)_016.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Magic (Staff)_017.png
+3 p- Magic (Staff)_018.png
+8 p- Magic (Staff)_019.png
+6 p- Magic (Staff)_020.png
+3 p- Magic (Staff)_021.png
+1 p- Magic (Staff)_022.png
+1 p- Magic (Staff)_023.png
+1 p- Magic (Staff)_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

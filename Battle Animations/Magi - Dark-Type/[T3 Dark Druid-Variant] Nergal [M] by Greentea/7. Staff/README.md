@@ -8,6 +8,8 @@
 
 ## Credit
 
-F2U/F2E only.
+F2U only.
 
 Made by Greentea.
+
+6. Magic (FE8) script version made by UltraFenix.

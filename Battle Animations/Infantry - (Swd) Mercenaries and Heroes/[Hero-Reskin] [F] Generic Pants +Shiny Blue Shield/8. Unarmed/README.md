@@ -10,4 +10,6 @@
 
 Edit by Pushwall.
 
+3. Axe (Handaxe) and (Magic) by Seliost1.
+
 Unarmed animation by Seliost1.

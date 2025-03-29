@@ -1,0 +1,1 @@
+1. Sword (Repal) edit by UltraFenix. (separates skin and sword colors.)

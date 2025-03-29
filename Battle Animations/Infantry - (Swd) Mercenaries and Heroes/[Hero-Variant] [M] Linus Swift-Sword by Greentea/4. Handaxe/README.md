@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Greentea, SHYUTERz, Dis.
+
+3. Axe (Magic) by Seliost1.

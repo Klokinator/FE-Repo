@@ -8,4 +8,6 @@
 
 ## Credit
 
+Animations by SALVAGED.
 
+Axe (Magic Axe) by Itanc.

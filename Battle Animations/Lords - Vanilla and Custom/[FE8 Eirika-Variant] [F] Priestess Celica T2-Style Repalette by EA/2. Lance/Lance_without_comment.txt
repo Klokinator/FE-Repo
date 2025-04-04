@@ -1,0 +1,209 @@
+/// - Mode 1
+C07
+C03
+5 p- Lance_without_comment_000.png
+3 p- Lance_without_comment_001.png
+3 p- Lance_without_comment_002.png
+3 p- Lance_without_comment_003.png
+C43
+15 p- Lance_without_comment_004.png
+C22
+3 p- Lance_without_comment_005.png
+3 p- Lance_without_comment_006.png
+C23
+3 p- Lance_without_comment_007.png
+3 p- Lance_without_comment_008.png
+9 p- Lance_without_comment_009.png
+3 p- Lance_without_comment_010.png
+3 p- Lance_without_comment_011.png
+9 p- Lance_without_comment_012.png
+C22
+3 p- Lance_without_comment_013.png
+C04
+C1A
+C20
+3 p- Lance_without_comment_014.png
+3 p- Lance_without_comment_015.png
+1 p- Lance_without_comment_016.png
+C01
+3 p- Lance_without_comment_017.png
+3 p- Lance_without_comment_018.png
+3 p- Lance_without_comment_019.png
+3 p- Lance_without_comment_020.png
+3 p- Lance_without_comment_021.png
+3 p- Lance_without_comment_022.png
+3 p- Lance_without_comment_023.png
+3 p- Lance_without_comment_024.png
+C06
+3 p- Lance_without_comment_025.png
+C34
+3 p- Lance_without_comment_026.png
+3 p- Lance_without_comment_027.png
+C0D
+~~~
+/// - Mode 3
+C07
+C03
+5 p- Lance_without_comment_000.png
+3 p- Lance_without_comment_028.png
+3 p- Lance_without_comment_029.png
+3 p- Lance_without_comment_030.png
+9 p- Lance_without_comment_031.png
+C22
+3 p- Lance_without_comment_032.png
+3 p- Lance_without_comment_033.png
+3 p- Lance_without_comment_034.png
+3 p- Lance_without_comment_035.png
+3 p- Lance_without_comment_036.png
+9 p- Lance_without_comment_037.png
+15 p- Lance_without_comment_038.png
+3 p- Lance_without_comment_039.png
+C23
+C34
+3 p- Lance_without_comment_040.png
+C09
+C04
+C1F
+3 p- Lance_without_comment_041.png
+3 p- Lance_without_comment_042.png
+3 p- Lance_without_comment_043.png
+1 p- Lance_without_comment_044.png
+C01
+3 p- Lance_without_comment_045.png
+3 p- Lance_without_comment_046.png
+3 p- Lance_without_comment_047.png
+3 p- Lance_without_comment_022.png
+3 p- Lance_without_comment_023.png
+3 p- Lance_without_comment_024.png
+C06
+3 p- Lance_without_comment_025.png
+C34
+3 p- Lance_without_comment_026.png
+3 p- Lance_without_comment_027.png
+C0D
+~~~
+/// - Mode 5
+C07
+C03
+5 p- Lance_without_comment_000.png
+3 p- Lance_without_comment_048.png
+7 p- Lance_without_comment_049.png
+12 p- Lance_without_comment_049.png
+C22
+C05
+4 p- Lance_without_comment_050.png
+1 p- Lance_without_comment_051.png
+C01
+3 p- Lance_without_comment_001.png
+C06
+C0D
+~~~
+/// - Mode 6
+C07
+C03
+5 p- Lance_without_comment_000.png
+3 p- Lance_without_comment_048.png
+1 p- Lance_without_comment_049.png
+C38
+2 p- Lance_without_comment_052.png
+2 p- Lance_without_comment_053.png
+2 p- Lance_without_comment_054.png
+1 p- Lance_without_comment_055.png
+C38
+2 p- Lance_without_comment_052.png
+2 p- Lance_without_comment_053.png
+1 p- Lance_without_comment_054.png
+1 p- Lance_without_comment_055.png
+7 p- Lance_without_comment_049.png
+12 p- Lance_without_comment_049.png
+C22
+C05
+4 p- Lance_without_comment_050.png
+1 p- Lance_without_comment_051.png
+C01
+3 p- Lance_without_comment_001.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Lance_without_comment_000.png
+C0E
+3 p- Lance_without_comment_056.png
+3 p- Lance_without_comment_057.png
+3 p- Lance_without_comment_058.png
+1 p- Lance_without_comment_059.png
+C01
+3 p- Lance_without_comment_060.png
+3 p- Lance_without_comment_061.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Lance_without_comment_000.png
+C0E
+3 p- Lance_without_comment_056.png
+3 p- Lance_without_comment_057.png
+3 p- Lance_without_comment_058.png
+1 p- Lance_without_comment_059.png
+C01
+3 p- Lance_without_comment_060.png
+3 p- Lance_without_comment_061.png
+C0D
+~~~
+/// - Mode 9
+1 p- Lance_without_comment_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Lance_without_comment_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Lance_without_comment_000.png
+C01
+~~~
+/// - Mode 12
+C07
+C03
+5 p- Lance_without_comment_000.png
+3 p- Lance_without_comment_001.png
+3 p- Lance_without_comment_002.png
+3 p- Lance_without_comment_003.png
+C43
+15 p- Lance_without_comment_004.png
+C22
+3 p- Lance_without_comment_005.png
+3 p- Lance_without_comment_006.png
+C23
+3 p- Lance_without_comment_007.png
+3 p- Lance_without_comment_008.png
+9 p- Lance_without_comment_009.png
+3 p- Lance_without_comment_010.png
+3 p- Lance_without_comment_011.png
+9 p- Lance_without_comment_012.png
+C22
+3 p- Lance_without_comment_013.png
+C04
+C1A
+C20
+3 p- Lance_without_comment_014.png
+3 p- Lance_without_comment_015.png
+1 p- Lance_without_comment_016.png
+C01
+3 p- Lance_without_comment_017.png
+3 p- Lance_without_comment_018.png
+3 p- Lance_without_comment_019.png
+3 p- Lance_without_comment_020.png
+3 p- Lance_without_comment_021.png
+3 p- Lance_without_comment_022.png
+3 p- Lance_without_comment_023.png
+3 p- Lance_without_comment_024.png
+C06
+3 p- Lance_without_comment_025.png
+C34
+3 p- Lance_without_comment_026.png
+3 p- Lance_without_comment_027.png
+C0D
+~~~
+/// - End of animation

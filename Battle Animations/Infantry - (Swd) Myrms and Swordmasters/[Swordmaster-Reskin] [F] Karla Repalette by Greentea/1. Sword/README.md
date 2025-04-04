@@ -11,3 +11,5 @@
 Original animation by Greentea.
 
 Repalette by ltranc.
+
+Sword (Alt Crit) by Itranc.

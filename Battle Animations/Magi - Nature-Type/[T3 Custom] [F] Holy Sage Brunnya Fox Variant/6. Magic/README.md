@@ -13,3 +13,5 @@ Made by Luerock.
 Scripted by Pikmin1211.
 
 Ears/Tail edited in by VelvetKitsune.
+
+Staff by UltraFenix.

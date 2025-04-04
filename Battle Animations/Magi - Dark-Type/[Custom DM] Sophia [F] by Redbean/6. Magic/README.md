@@ -14,6 +14,10 @@ Original: ねねるね(nenerune).
 
 improved version: Red Bean.
 
+Magic (Shaman Style) by UltraFenix.
+
 Script: 7743.
 
 Improved Script by UltraFenix.
+
+

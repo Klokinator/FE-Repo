@@ -1,0 +1,5 @@
+Made by Cynon for Atlas, using tiles made by WaVe and IS. Some FE7 ship tiles were brought over. As far as I'm concerned, it's free to edit.
+
+Palettes by Atlas and Cynon included.
+
+This tileset uses the same tile animation as the village tileset does (tile 12), but it's included in here just in case it's needed.

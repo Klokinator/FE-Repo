@@ -1,0 +1,1 @@
+the sword (fix) replaces the old one as it fixes the sword in some of the frames while the sword (alt) is a choice to use. the alt removes the second slash in the melee crit.

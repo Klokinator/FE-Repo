@@ -2,12 +2,26 @@
 C03
 C07
 6 p- Staff_000.png
+6 p- Staff_001.png
+5 p- Staff_002.png
+C05
+6 p- Staff_003.png
+C01
+6 p- Staff_001.png
+6 p- Staff_000.png
 C06
 C0D
 ~~~
 /// - Mode 3
 C03
 C07
+6 p- Staff_000.png
+6 p- Staff_001.png
+5 p- Staff_002.png
+C05
+6 p- Staff_003.png
+C01
+6 p- Staff_001.png
 6 p- Staff_000.png
 C06
 C0D
@@ -75,6 +89,13 @@ C01
 /// - Mode 12
 C03
 C07
+6 p- Staff_000.png
+6 p- Staff_001.png
+5 p- Staff_002.png
+C05
+6 p- Staff_003.png
+C01
+6 p- Staff_001.png
 6 p- Staff_000.png
 C06
 C0D

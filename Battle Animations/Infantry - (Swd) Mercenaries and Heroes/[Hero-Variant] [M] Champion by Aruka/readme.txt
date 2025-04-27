@@ -1,0 +1,1 @@
+the sword (fix) replaces the old one as it fixes the sword in some of the frames while the sword (alt) has additional frames in some parody to the vanilla hero. the alt also removes the second slash and has different timings.

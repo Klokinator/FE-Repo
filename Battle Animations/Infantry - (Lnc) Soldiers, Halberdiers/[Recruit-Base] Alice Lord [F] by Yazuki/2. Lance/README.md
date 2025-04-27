@@ -12,4 +12,4 @@ F2U/F2E
 
 Made by Yazuki.
 
-Missing an Unarmed animation.
+Unarmed animation by Seliost1.

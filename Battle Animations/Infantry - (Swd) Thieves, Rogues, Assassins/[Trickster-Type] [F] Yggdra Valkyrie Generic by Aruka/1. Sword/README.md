@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Aruka, Kenpuhu.
+
+Staff melee fix by Seliost1.

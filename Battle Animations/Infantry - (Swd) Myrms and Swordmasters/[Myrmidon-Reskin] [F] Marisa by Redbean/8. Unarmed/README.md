@@ -11,3 +11,5 @@
 Made by Red Bean.
 
 Scripted by Sable Mage.
+
+Sword (Alt Crit) by Seliost1.

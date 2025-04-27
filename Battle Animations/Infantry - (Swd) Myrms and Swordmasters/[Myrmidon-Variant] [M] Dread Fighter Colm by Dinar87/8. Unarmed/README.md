@@ -13,3 +13,5 @@ F2U/F2E
 Animation by Dinar.
 
 Scripted by Seliost1.
+
+Both Alt Dodge by Seliost1.

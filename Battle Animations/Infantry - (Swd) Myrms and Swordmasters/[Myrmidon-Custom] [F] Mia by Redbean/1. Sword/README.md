@@ -13,3 +13,5 @@ Animation by RedBean.
 Script by Knabepicer.
 
 Script Fix by UltraxBlade
+
+Sword (Alt Ranged Attack) by Seliost1.

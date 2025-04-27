@@ -20,4 +20,5 @@ Official Art Armads by BatimaTheBat and credit to Nuramon for the desgin.
 
 Female repalette by GigaExcalibur.
 
+Armads edit by Seliost1.
 

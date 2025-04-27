@@ -11,3 +11,5 @@
 F2U/F2E
 
 Made by DerTheVaporeon.
+
+Staff by Blademaster.

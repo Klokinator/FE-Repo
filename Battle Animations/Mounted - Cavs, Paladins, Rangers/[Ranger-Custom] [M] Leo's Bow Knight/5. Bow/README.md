@@ -13,3 +13,5 @@ F2U/F2E
 Animation by Leo_link, Team SALVAGED, Spud.
 
 Script and Army palettes by Alice.
+
+Bow (Alt Crit), Bow (Alt Melee), and Bow (Simple Attack) edits by Seliost1.

@@ -11,3 +11,5 @@
 Animation by Keks_Krebs, Beccarte, SD9K.
 
 Lyn Bow by BatimaTheBat.
+
+Knife by Blademaster.

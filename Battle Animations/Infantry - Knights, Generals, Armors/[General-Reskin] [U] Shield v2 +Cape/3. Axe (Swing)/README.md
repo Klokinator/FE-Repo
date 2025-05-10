@@ -17,3 +17,5 @@ Sword (Magic Flash) by The_Big_Dededester.
 Magic by DerTheVaporeon.
 
 Magic Axe animations UltraFenix.
+
+Staff by SaintRubenio.

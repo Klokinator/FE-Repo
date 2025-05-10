@@ -16,4 +16,6 @@ Axe and Handaxe by St Jack.
 
 Bow by ltranc.
 
+Magic by SaintRubenio.
+
 This edit uses the vanilla color and equalizes the color palettes for all the animations.

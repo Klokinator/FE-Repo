@@ -9,3 +9,5 @@
 ## Credit
 
 Animation by Nuramon.
+
+Magic and Staff animation by SaintRubenio.

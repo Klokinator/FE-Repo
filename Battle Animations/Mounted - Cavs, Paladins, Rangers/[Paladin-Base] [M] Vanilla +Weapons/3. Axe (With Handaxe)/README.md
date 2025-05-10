@@ -14,6 +14,8 @@ Bow {ltranc, Genocike, Kao, DerTheVaporeon}
 
 Magic {Primefusion}
 
+Magic (SaintRubenio) by SaintRubenio and credit to Primefusion.
+
 Staff {Primefusion}
 
 Axe (With Handaxe) was combined by Seliost1.

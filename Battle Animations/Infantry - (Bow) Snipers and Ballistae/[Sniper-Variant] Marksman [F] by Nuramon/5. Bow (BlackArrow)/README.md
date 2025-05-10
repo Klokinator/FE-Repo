@@ -12,4 +12,6 @@ F2U/F2E
 
 Made by Nuramon.
 
+Magic by SaintRubenio.
+
 Black Arrow variant by VelvetKitsune.

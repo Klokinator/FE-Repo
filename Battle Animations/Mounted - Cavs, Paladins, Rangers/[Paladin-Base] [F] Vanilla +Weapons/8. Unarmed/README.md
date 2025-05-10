@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Bow by ltranc, Genocike, Kao, DerTheVaporeon.
 
 Staff by Primefusion.
+
+Magic by SaintRubenio/

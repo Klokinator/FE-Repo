@@ -11,3 +11,5 @@
 Vanilla animation by IS.
 
 Lance by Skitty and Feaw.
+
+Magic by SaintRubenio.

@@ -1,8 +1,0 @@
-Vanilla animation by IS.
-
-Hat by SD9K
-
-Edit by darkjaden
-	- when importing the Unarmed animation, it displays a palette error, but "Ignore and force input" seems to work fine,
-	if anyone wants to fix this for me, feel free!
-F2U/F2E

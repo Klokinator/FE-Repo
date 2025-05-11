@@ -5,5 +5,7 @@
 
 ## Credits
 
+F2U/F2E
+
 Made by Trooper, AKA, and SHYUTERz.
 

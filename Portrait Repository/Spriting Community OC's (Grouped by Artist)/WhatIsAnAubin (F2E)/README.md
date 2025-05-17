@@ -1,0 +1,6 @@
+![{WhatIsAnAubin} [F2E] OC 1 {Left}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/WhatIsAnAubin%20(F2E)/%7BWhatIsAnAubin%7D%20%5BF2E%5D%20OC%201%20(Left).png "{WhatIsAnAubin} [F2E] OC 1 {Left}.png")![{WhatIsAnAubin} [F2E] OC 1 {Right}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/WhatIsAnAubin%20(F2E)/%7BWhatIsAnAubin%7D%20%5BF2E%5D%20OC%201%20(Right).png "{WhatIsAnAubin} [F2E] OC 1 {Right}.png")![{WhatIsAnAubin} [F2E] Pseudo-Generic {Full Visor}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/WhatIsAnAubin%20(F2E)/%7BWhatIsAnAubin%7D%20%5BF2E%5D%20Pseudo-Generic%20(Full%20Visor).png "{WhatIsAnAubin} [F2E] Pseudo-Generic {Full Visor}.png")![{WhatIsAnAubin} [F2E] Pseudo-Generic {Half Visor}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/WhatIsAnAubin%20(F2E)/%7BWhatIsAnAubin%7D%20%5BF2E%5D%20Pseudo-Generic%20(Half%20Visor).png "{WhatIsAnAubin} [F2E] Pseudo-Generic {Half Visor}.png")
+
+
+
+----
+

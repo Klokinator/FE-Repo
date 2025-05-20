@@ -1,0 +1,389 @@
+/// - Mode 1
+C03
+C07
+1 p- Banshee_000.png
+6 p- Banshee_001.png
+3 p- Banshee_002.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+6 p- Banshee_006.png
+C25
+4 p- Banshee_007.png
+3 p- Banshee_008.png
+4 p- Banshee_009.png
+4 p- Banshee_010.png
+3 p- Banshee_011.png
+6 p- Banshee_012.png
+3 p- Banshee_013.png
+3 p- Banshee_014.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+2 p- Banshee_017.png
+6 p- Banshee_018.png
+3 p- Banshee_019.png
+3 p- Banshee_018.png
+3 p- Banshee_019.png
+3 p- Banshee_018.png
+2 p- Banshee_019.png
+2 p- Banshee_018.png
+S02FB
+3 p- Banshee_020.png
+C15
+C1A
+3 p- Banshee_021.png
+3 p- Banshee_022.png
+3 p- Banshee_023.png
+3 p- Banshee_024.png
+3 p- Banshee_025.png
+3 p- Banshee_026.png
+C04
+L
+3 p- Banshee_027.png
+3 p- Banshee_028.png
+3 p- Banshee_029.png
+3 p- Banshee_030.png
+3 p- Banshee_031.png
+3 p- Banshee_032.png
+C01
+4 p- Banshee_033.png
+3 p- Banshee_034.png
+3 p- Banshee_035.png
+C25
+3 p- Banshee_036.png
+6 p- Banshee_037.png
+6 p- Banshee_038.png
+6 p- Banshee_039.png
+4 p- Banshee_040.png
+4 p- Banshee_041.png
+C06
+1 p- Banshee_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Banshee_000.png
+6 p- Banshee_042.png
+4 p- Banshee_043.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_046.png
+3 p- Banshee_047.png
+3 p- Banshee_048.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+6 p- Banshee_006.png
+C25
+4 p- Banshee_007.png
+3 p- Banshee_008.png
+4 p- Banshee_009.png
+4 p- Banshee_010.png
+3 p- Banshee_011.png
+6 p- Banshee_012.png
+3 p- Banshee_013.png
+3 p- Banshee_014.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+2 p- Banshee_017.png
+6 p- Banshee_018.png
+3 p- Banshee_049.png
+3 p- Banshee_018.png
+3 p- Banshee_019.png
+3 p- Banshee_018.png
+2 p- Banshee_019.png
+2 p- Banshee_018.png
+S02FB
+3 p- Banshee_020.png
+C08
+C14
+3 p- Banshee_021.png
+3 p- Banshee_022.png
+3 p- Banshee_023.png
+3 p- Banshee_024.png
+3 p- Banshee_025.png
+3 p- Banshee_026.png
+C04
+L
+3 p- Banshee_027.png
+3 p- Banshee_028.png
+3 p- Banshee_029.png
+3 p- Banshee_030.png
+3 p- Banshee_031.png
+3 p- Banshee_032.png
+C01
+4 p- Banshee_033.png
+3 p- Banshee_034.png
+3 p- Banshee_035.png
+C25
+3 p- Banshee_036.png
+6 p- Banshee_037.png
+6 p- Banshee_038.png
+6 p- Banshee_050.png
+4 p- Banshee_040.png
+4 p- Banshee_041.png
+C06
+1 p- Banshee_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Banshee_000.png
+6 p- Banshee_051.png
+3 p- Banshee_002.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+3 p- Banshee_003.png
+3 p- Banshee_052.png
+3 p- Banshee_053.png
+3 p- Banshee_054.png
+3 p- Banshee_055.png
+3 p- Banshee_054.png
+3 p- Banshee_055.png
+3 p- Banshee_054.png
+3 p- Banshee_055.png
+3 p- Banshee_054.png
+2 p- Banshee_056.png
+6 p- Banshee_057.png
+3 p- Banshee_058.png
+3 p- Banshee_057.png
+3 p- Banshee_058.png
+3 p- Banshee_057.png
+2 p- Banshee_058.png
+2 p- Banshee_057.png
+S02FB
+3 p- Banshee_059.png
+3 p- Banshee_060.png
+3 p- Banshee_061.png
+3 p- Banshee_062.png
+3 p- Banshee_063.png
+3 p- Banshee_064.png
+3 p- Banshee_065.png
+C05
+L
+3 p- Banshee_066.png
+3 p- Banshee_067.png
+3 p- Banshee_068.png
+3 p- Banshee_069.png
+3 p- Banshee_070.png
+3 p- Banshee_071.png
+C01
+4 p- Banshee_072.png
+3 p- Banshee_073.png
+3 p- Banshee_074.png
+3 p- Banshee_075.png
+6 p- Banshee_076.png
+6 p- Banshee_077.png
+C06
+1 p- Banshee_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Banshee_000.png
+6 p- Banshee_042.png
+4 p- Banshee_043.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_045.png
+3 p- Banshee_044.png
+3 p- Banshee_046.png
+3 p- Banshee_047.png
+3 p- Banshee_048.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+3 p- Banshee_003.png
+3 p- Banshee_052.png
+3 p- Banshee_053.png
+3 p- Banshee_054.png
+3 p- Banshee_055.png
+3 p- Banshee_054.png
+3 p- Banshee_055.png
+3 p- Banshee_054.png
+3 p- Banshee_055.png
+3 p- Banshee_054.png
+2 p- Banshee_056.png
+6 p- Banshee_057.png
+3 p- Banshee_058.png
+3 p- Banshee_057.png
+3 p- Banshee_058.png
+3 p- Banshee_057.png
+2 p- Banshee_058.png
+2 p- Banshee_057.png
+S02FB
+3 p- Banshee_059.png
+3 p- Banshee_060.png
+3 p- Banshee_061.png
+3 p- Banshee_062.png
+3 p- Banshee_063.png
+3 p- Banshee_064.png
+3 p- Banshee_065.png
+C05
+L
+3 p- Banshee_066.png
+3 p- Banshee_067.png
+3 p- Banshee_068.png
+3 p- Banshee_069.png
+3 p- Banshee_070.png
+3 p- Banshee_071.png
+C01
+4 p- Banshee_072.png
+3 p- Banshee_073.png
+3 p- Banshee_074.png
+3 p- Banshee_075.png
+6 p- Banshee_076.png
+6 p- Banshee_077.png
+C06
+1 p- Banshee_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Banshee_000.png
+C0E
+2 p- Banshee_078.png
+2 p- Banshee_079.png
+1 p- Banshee_080.png
+C01
+2 p- Banshee_079.png
+2 p- Banshee_078.png
+1 p- Banshee_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Banshee_000.png
+C0E
+2 p- Banshee_078.png
+2 p- Banshee_079.png
+1 p- Banshee_080.png
+C01
+2 p- Banshee_079.png
+2 p- Banshee_078.png
+1 p- Banshee_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Banshee_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Banshee_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Banshee_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Banshee_000.png
+6 p- Banshee_001.png
+3 p- Banshee_002.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_004.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+3 p- Banshee_003.png
+3 p- Banshee_005.png
+6 p- Banshee_006.png
+C25
+4 p- Banshee_007.png
+3 p- Banshee_008.png
+4 p- Banshee_009.png
+4 p- Banshee_010.png
+3 p- Banshee_011.png
+6 p- Banshee_012.png
+3 p- Banshee_013.png
+3 p- Banshee_014.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+3 p- Banshee_015.png
+3 p- Banshee_016.png
+2 p- Banshee_017.png
+6 p- Banshee_018.png
+3 p- Banshee_019.png
+3 p- Banshee_018.png
+3 p- Banshee_019.png
+3 p- Banshee_018.png
+2 p- Banshee_019.png
+2 p- Banshee_018.png
+S02FB
+3 p- Banshee_020.png
+C15
+3 p- Banshee_021.png
+3 p- Banshee_022.png
+3 p- Banshee_023.png
+3 p- Banshee_024.png
+3 p- Banshee_025.png
+3 p- Banshee_026.png
+C04
+L
+3 p- Banshee_027.png
+3 p- Banshee_028.png
+3 p- Banshee_029.png
+3 p- Banshee_030.png
+3 p- Banshee_031.png
+3 p- Banshee_032.png
+C01
+4 p- Banshee_033.png
+3 p- Banshee_034.png
+3 p- Banshee_035.png
+C25
+3 p- Banshee_036.png
+6 p- Banshee_037.png
+6 p- Banshee_038.png
+6 p- Banshee_039.png
+4 p- Banshee_040.png
+4 p- Banshee_041.png
+C06
+1 p- Banshee_000.png
+C0D
+~~~
+/// - End of animation

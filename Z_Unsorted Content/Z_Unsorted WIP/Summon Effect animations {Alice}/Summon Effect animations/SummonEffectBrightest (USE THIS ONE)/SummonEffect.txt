@@ -1,0 +1,21 @@
+//NAME=SummonEffect
+2	SummonEffect_g000.png
+5	SummonEffect_g001.png
+3	SummonEffect_g002.png
+4	SummonEffect_g003.png
+6	SummonEffect_g004.png
+2	SummonEffect_g005.png
+4	SummonEffect_g006.png
+4	SummonEffect_g004.png
+4	SummonEffect_g007.png
+4	SummonEffect_g008.png
+4	SummonEffect_g009.png
+4	SummonEffect_g010.png
+4	SummonEffect_g011.png
+4	SummonEffect_g012.png
+4	SummonEffect_g013.png
+4	SummonEffect_g014.png
+4	SummonEffect_g015.png
+4	SummonEffect_g016.png
+5	SummonEffect_g017.png
+4	SummonEffect_g000.png

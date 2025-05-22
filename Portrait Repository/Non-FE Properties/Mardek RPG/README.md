@@ -1,0 +1,6 @@
+![Bugman {XVI}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Mardek%20RPG/Bugman%20%7BXVI%7D.png "Bugman {XVI}.png")![Deugan {XVI}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Mardek%20RPG/Deugan%20%7BXVI%7D.png "Deugan {XVI}.png")![Emela {XVI}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Mardek%20RPG/Emela%20%7BXVI%7D.png "Emela {XVI}.png")![Mardek {XVI}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Mardek%20RPG/Mardek%20%7BXVI%7D.png "Mardek {XVI}.png")![Steele {XVI}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Mardek%20RPG/Steele%20%7BXVI%7D.png "Steele {XVI}.png")![Vehrn {XVI}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Mardek%20RPG/Vehrn%20%7BXVI%7D.png "Vehrn {XVI}.png")![Zach {XVI}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Mardek%20RPG/Zach%20%7BXVI%7D.png "Zach {XVI}.png")
+
+
+
+----
+

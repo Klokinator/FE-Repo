@@ -16,4 +16,6 @@ Female variant by Temp.
 
 Long-Haired edit by Pushwall.
 
+Realer axe edit by Sphealnuke. (Note: This animation palette does not match with the other animations palettes.)
+
 Repalette by tatutachang.

@@ -513,11 +513,11 @@
 
 
 
-### [\[Dancer-Base\] \[F\] Arcane Dragon by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Arcane%20Dragon%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Arcane%20Dragon%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+### [\[Dancer-Base\] \[F\] Dracodancer by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Dragonstone/Dragonstone.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Refresh/Refresh.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Revert/Revert.gif"/> |
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Dragonstone/Dragonstone.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Refresh/Refresh.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Revert/Revert.gif"/> |
 | :---: | :---: | :---: |
-| <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Transform/Transform.gif"/> |
+| <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Transform/Transform.gif"/> |
 
 
 
@@ -5387,9 +5387,10 @@
 
 ### [\[Assassin-Base\] \[M\] Legault Vanilla +Bow](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20%2BBow) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20%2BBow) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/1.%20Sword/Sword.gif"/> | <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20(Gun)/Bow.gif"/> | <b>Bow (Lyn Style)</b><br/><img alt="Bow (Lyn Style)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20(Lyn%20Style)/Bow.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/1.%20Sword/Sword.gif"/> | <b>Sword (CSA_fix)</b><br/><img alt="Sword (CSA_fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/1.%20Sword%20(CSA_fix)/Sword.gif"/> | <b>Bow (Gun)</b><br/><img alt="Bow (Gun)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20(Gun)/Bow.gif"/> |
 | :---: | :---: | :---: |
-| <b>Bow {Andy, SD9K}</b><br/><img alt="Bow {Andy, SD9K}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20%7BAndy,%20SD9K%7D/Bow.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow (Lyn Style)</b><br/><img alt="Bow (Lyn Style)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20(Lyn%20Style)/Bow.gif"/> | <b>Bow {Andy, SD9K}</b><br/><img alt="Bow {Andy, SD9K}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/5.%20Bow%20%7BAndy,%20SD9K%7D/Bow.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/6.%20Magic/Magic.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Legault%20Vanilla%20+Bow/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -7508,6 +7509,14 @@
 
 
 
+### [\[FE8 Eirika-Reskin\] \[F\] T1 Eirika by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Eirika%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Eirika%20by%20Redbean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Eirika%20by%20Redbean/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Eirika%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ### [\[FE8 Eirika-Reskin\] \[F\] T1 Leotard and cape](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Leotard%20and%20cape) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Leotard%20and%20cape) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Leotard%20and%20cape/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Reskin%5D%20%5BF%5D%20T1%20Leotard%20and%20cape/8.%20Unarmed/Unarmed.gif"/> |
@@ -8583,6 +8592,15 @@
 
 
 
+### [\[Monk-Reskin\] \[F\] Maiden by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Maiden%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Maiden%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic (Jeorge_Reds)</b><br/><img alt="Magic (Jeorge_Reds)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Maiden%20by%20Sirknite31/6.%20Magic%20(Jeorge_Reds)/Magic.gif"/> | <b>Magic (RiriK)</b><br/><img alt="Magic (RiriK)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Maiden%20by%20Sirknite31/6.%20Magic%20(RiriK)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Maiden%20by%20Sirknite31/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Maiden%20by%20Sirknite31/8.%20Refresh/Refresh.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Maiden%20by%20Sirknite31/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ### [\[Monk-Reskin\] \[M\] Bald by Pushwall](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall/6.%20Magic/Magic.gif"/> |
@@ -8888,6 +8906,15 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elen%20by%20HeroDW/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elen%20by%20HeroDW/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elen%20by%20HeroDW/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+### [\[T2 Bishop-Reskin\] \[F\] Elimine by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elimine%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elimine%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elimine%20by%20Sirknite31/6.%20Magic/Magic.gif"/> | <b>Magic (Light)</b><br/><img alt="Magic (Light)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elimine%20by%20Sirknite31/6.%20Magic%20(Light)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elimine%20by%20Sirknite31/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BF%5D%20Elimine%20by%20Sirknite31/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -11213,6 +11240,15 @@
 
 
 
+### [\[Manakete-Base\] \[U\] Generic Manakete by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Dragonstone/Dragonstone.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Revert/Revert.gif"/> | <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Transform/Transform.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ### [\[Manakete-Base\] \[U\] Vanilla FE8 Dracozombie +FE7](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20%2BFE7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20%2BFE7) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone/Dragonstone.gif"/> | <b>Dragonstone (FE7 Fixed)</b><br/><img alt="Dragonstone (FE7 Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(FE7%20Fixed)/Dragonstone.gif"/> | <b>Dragonstone (Imp +Transf)</b><br/><img alt="Dragonstone (Imp +Transf)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Dracozombie%20+FE7/8.%20Dragonstone%20(Imp%20+Transf)/Dragonstone.gif"/> |
@@ -11328,6 +11364,15 @@
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BF%5D%20Myrrh%20to%20FE7%20Fire%20Dragon/8.%20Dragonstone/Dragonstone.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BF%5D%20Myrrh%20to%20FE7%20Fire%20Dragon/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+### [\[Manakete-Reskin\] \[U\] Arcane Dragon by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BU%5D%20Arcane%20Dragon%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BU%5D%20Arcane%20Dragon%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BU%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Dragonstone/Dragonstone.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BU%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Revert/Revert.gif"/> | <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BU%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Transform/Transform.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Reskin%5D%20%5BU%5D%20Arcane%20Dragon%20by%20Sirknite31/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

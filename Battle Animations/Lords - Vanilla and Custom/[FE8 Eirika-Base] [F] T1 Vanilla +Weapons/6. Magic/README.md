@@ -21,3 +21,5 @@ Beta Backflip by Plant_Academy and special thanks to:
 Obsidian_Daddy, Feier, Struedelmuffin.
 
 Sword (Beta - RedBean) and Unarmed (Beta - RedBean) edits by (of course) RedBean.
+
+Sword (Alt Crit) by Seliost1.

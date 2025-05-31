@@ -12,6 +12,8 @@ Sword and Unarmed Script by Apolo15.
 
 Sword script inprovement by Itranc.
 
+Sword script (Miss routine) improvement by VelvetKitsune.
+
 Lance Script by Itranc.
 
 Further script improvements by UltraFenix.

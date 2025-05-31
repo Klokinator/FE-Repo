@@ -14,3 +14,5 @@ Scripted by RobertFPY, ltranc.
 
 Repal by Seliost1.
 
+Sword (Alt Crit + Ranged Crit) by NamelessX.
+

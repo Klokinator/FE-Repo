@@ -16,3 +16,4 @@ Improved version by RedBean.
 
 Script and fix critcal motion by 7743.
 
+Lance (Alt Crit) by Seliost1.

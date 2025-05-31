@@ -9,3 +9,5 @@
 ## Credit
 
 {Blue Druid, Alfred Kamon}
+
+Lance (Spin Crit) by Seliost1.

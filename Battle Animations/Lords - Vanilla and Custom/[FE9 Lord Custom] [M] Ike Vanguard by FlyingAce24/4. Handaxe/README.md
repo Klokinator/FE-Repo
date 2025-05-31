@@ -15,3 +15,5 @@ Scripted by Primefusion.
 Sword (Default) by Seliost1.
 
 Sword (Flashy Ranged) by Seliost1.
+
+Handaxe (Spin Crit) by Seliost1.

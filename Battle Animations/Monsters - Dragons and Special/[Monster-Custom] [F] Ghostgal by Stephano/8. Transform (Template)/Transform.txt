@@ -1,0 +1,89 @@
+#######################################################
+#FB Transform 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+5 p- Transform_000.png
+6 p- Transform_001.png
+6 p- Transform_002.png
+6 p- Transform_003.png
+6 p- Transform_004.png
+6 p- Transform_005.png
+6 p- Transform_006.png
+6 p- Transform_007.png
+6 p- Transform_008.png
+6 p- Transform_009.png
+6 p- Transform_000.png
+6 p- Transform_001.png
+6 p- Transform_002.png
+6 p- Transform_003.png
+6 p- Transform_004.png
+6 p- Transform_005.png
+6 p- Transform_006.png
+6 p- Transform_007.png
+S02C7                               #Sound 711 SE:Gespenst symbol
+6 p- Transform_010.png
+6 p- Transform_011.png
+6 p- Transform_012.png
+6 p- Transform_013.png
+6 p- Transform_014.png
+6 p- Transform_015.png
+6 p- Transform_016.png
+6 p- Transform_017.png
+6 p- Transform_018.png
+6 p- Transform_019.png
+6 p- Transform_020.png
+6 p- Transform_021.png
+4 p- Transform_022.png
+SDC                               #Sound 220 SE:Mamkute transform
+4 p- Transform_023.png
+4 p- Transform_024.png
+4 p- Transform_025.png
+4 p- Transform_026.png
+4 p- Transform_027.png
+4 p- Transform_028.png
+3 p- Transform_029.png
+3 p- Transform_030.png
+3 p- Transform_031.png
+3 p- Transform_032.png
+3 p- Transform_033.png
+S03BF                               #Sound 959 SE:Summon SFX
+12 p- Transform_034.png
+6 p- Transform_035.png
+6 p- Transform_036.png
+6 p- Transform_037.png
+12 p- Transform_038.png
+6 p- Transform_037.png
+6 p- Transform_036.png
+6 p- Transform_035.png
+12 p- Transform_034.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- Transform_000.png
+~~~
+/// - Mode 5               #Ranged Animation 
+1 p- Transform_000.png
+~~~
+/// - Mode 6               #Ranged Critical Animation
+1 p- Transform_000.png
+~~~
+/// - Mode 7               #Dodge Melee Attack
+1 p- Transform_000.png
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+1 p- Transform_000.png
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Transform_000.png
+~~~
+/// - Mode 10               #Standing motions
+1 p- Transform_000.png
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Transform_000.png
+~~~
+/// - Mode 12               #Attack Missed Animation
+1 p- Transform_000.png
+~~~
+/// - End of animation

@@ -13,3 +13,5 @@ F2U/F2E
 Original animation by Jubby, fuzz94.
 
 Updated by Pikmin1211.
+
+Sword (Flashy Ranged Crit) by Seliost1.

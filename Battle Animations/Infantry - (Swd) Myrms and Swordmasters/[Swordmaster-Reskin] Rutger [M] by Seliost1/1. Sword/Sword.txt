@@ -1,5 +1,5 @@
 #######################################################
-#01 Sword Lord Lance
+#09 lorf_sw1 Lord Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -131,7 +131,6 @@ C04                               #Prepare HP depletion routine; needed to anima
 1 p- Sword_057.png
 2 p- Sword_018.png
 C24                               #Play sword slashing air SFE
-S0273                               #Sound 627  [Empty Track]
 7 p- Sword_019.png
 C08                               #Critical hit
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
@@ -181,7 +180,6 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 1 p- Sword_000.png
 C22                               #Play short sword swinging SFE
-S0273                               #Sound 627  [Empty Track]
 3 p- Sword_058.png
 5 p- Sword_060.png
 4 p- Sword_061.png
@@ -252,7 +250,6 @@ C07                               #Start attack animation; need 03 right before 
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 4 p- Sword_018.png
 C23                               #Play shorter sword swinging SFE
-S026D                               #Sound 621  [Empty Track]
 3 p- Sword_065.png
 C22                               #Play short sword swinging SFE
 1 p- Sword_020.png

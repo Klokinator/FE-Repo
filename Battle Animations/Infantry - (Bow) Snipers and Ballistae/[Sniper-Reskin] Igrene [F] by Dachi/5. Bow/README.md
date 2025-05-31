@@ -11,3 +11,5 @@
 F2U/F2E
 
 Made by Dachi.
+
+Bow (Alt Crit) by Seliost1.

@@ -12,3 +12,6 @@ Animation by JPN.
 
 Scripting by ReykRS, Enjin.
 
+Fixed script by Seliost1.
+
+Generic Sword version by Seliost1.

@@ -1,0 +1,6 @@
+![Compa {Cygnus} [F2U].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Hyperdimension%20Neptunia/Compa%20%7BCygnus%7D%20%5BF2U%5D.png "Compa {Cygnus} [F2U].png")![Kurome {Cygnus} [F2U].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Hyperdimension%20Neptunia/Kurome%20%7BCygnus%7D%20%5BF2U%5D.png "Kurome {Cygnus} [F2U].png")![Neptune {Cygnus} [F2U].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Hyperdimension%20Neptunia/Neptune%20%7BCygnus%7D%20%5BF2U%5D.png "Neptune {Cygnus} [F2U].png")![Noire {Cygnus} [F2U].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Hyperdimension%20Neptunia/Noire%20%7BCygnus%7D%20%5BF2U%5D.png "Noire {Cygnus} [F2U].png")![Uzume {Cygnus} [F2U].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Hyperdimension%20Neptunia/Uzume%20%7BCygnus%7D%20%5BF2U%5D.png "Uzume {Cygnus} [F2U].png")![Vert {Cygnus} [F2U].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Non-FE%20Properties/Hyperdimension%20Neptunia/Vert%20%7BCygnus%7D%20%5BF2U%5D.png "Vert {Cygnus} [F2U].png")
+
+
+
+----
+

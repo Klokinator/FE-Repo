@@ -1,0 +1,6 @@
+![{Tom776} Archer Guy [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Tom776/%7BTom776%7D%20Archer%20Guy%20%5BF2E%5D.png "{Tom776} Archer Guy [F2E].png")![{Tom776} Brigand Boss [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Tom776/%7BTom776%7D%20Brigand%20Boss%20%5BF2E%5D.png "{Tom776} Brigand Boss [F2E].png")![{Tom776} Jeigan Guy [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Tom776/%7BTom776%7D%20Jeigan%20Guy%20%5BF2E%5D.png "{Tom776} Jeigan Guy [F2E].png")![{Tom776} Shaman 2 [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Tom776/%7BTom776%7D%20Shaman%202%20%5BF2E%5D.png "{Tom776} Shaman 2 [F2E].png")![{Tom776} Shaman [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Tom776/%7BTom776%7D%20Shaman%20%5BF2E%5D.png "{Tom776} Shaman [F2E].png")
+
+
+
+----
+

@@ -1,0 +1,6 @@
+![{Roxannity} Boris [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Roxannity/%7BRoxannity%7D%20Boris%20%5BF2E%5D.png "{Roxannity} Boris [F2E].png")![{Roxannity} Dixon [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Roxannity/%7BRoxannity%7D%20Dixon%20%5BF2E%5D.png "{Roxannity} Dixon [F2E].png")![{Roxannity} Lionel [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Roxannity/%7BRoxannity%7D%20Lionel%20%5BF2E%5D.png "{Roxannity} Lionel [F2E].png")![{Roxannity} Mary [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Roxannity/%7BRoxannity%7D%20Mary%20%5BF2E%5D.png "{Roxannity} Mary [F2E].png")![{Roxannity} Miriam [F2E].png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/Roxannity/%7BRoxannity%7D%20Miriam%20%5BF2E%5D.png "{Roxannity} Miriam [F2E].png")
+
+
+
+----
+

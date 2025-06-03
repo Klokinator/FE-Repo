@@ -24,4 +24,3 @@ Staff by Fates-Blade.
 
 Blue Gem edit by UltraFenix.
 
-Lance (Alt Range Crit) by Seliost1.

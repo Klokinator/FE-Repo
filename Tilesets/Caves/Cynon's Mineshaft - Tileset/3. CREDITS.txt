@@ -1,0 +1,23 @@
+Made by: Cynon
+
+Additional credits:
+- GoudaGrabber (Assistance with the rolling stock on the train, downwards stairway facing north)
+- Atlas (one of the palettes)
+
+This tileset has type 1 and type 2 animations, most of the type 2 animations put a shining effect on the crystals. 
+
+I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever changes you like -- I'd imagine some terrain types might not be quite so useful with the lava palette! 
+
+I plan on making battle platforms to go with the various terrain types here; there's a lot more terrain types used here than is typical for cave tilesets.
+
+I also endorse converting this tileset to be used in other engines.
+
+Uses tiles adapted and modified from;
+- Fire Emblem 6, 7, and 8
+- Thomas the Tank Engine & Friends (Amiga CD32)
+- Final Fantasy 4 and 6 (SNES)
+- Pokemon Mystery Dungeon
+- RPG Maker 2000
+- RPG Maker 2003
+- Pokemon Gold/Silver/Crystal
+- Treasure of the Rudras (one of the water tiles)

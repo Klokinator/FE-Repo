@@ -16,6 +16,8 @@ undefined## [7743's BG's {7743}](7743's%20BG's%20%7B7743%7D)
 
 ## [FE9-10 CG Rips](FE9-10%20CG%20Rips)
 
+## [FEGBA Cutscene BGs as Battle BGs {CelestiaHeart}](FEGBA%20Cutscene%20BGs%20as%20Battle%20BGs%20%7BCelestiaHeart%7D)
+
 ## [FF GBA {Fenreir}](FF%20GBA%20%7BFenreir%7D)
 
 ## [FGO CG's {WAve, ZoramineFae}](FGO%20CG's%20%7BWAve,%20ZoramineFae%7D)

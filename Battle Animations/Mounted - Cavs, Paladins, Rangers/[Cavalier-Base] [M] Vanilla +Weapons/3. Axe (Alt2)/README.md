@@ -21,3 +21,5 @@ Handaxe Alt2 by Skitty.
 Bow by Orihara_Saki, DerTheVaporeon, Kao, and Aurora.
 
 Magic by Orihara_Saki.
+
+2. Lance (Ranged Magic) by Seliost1.

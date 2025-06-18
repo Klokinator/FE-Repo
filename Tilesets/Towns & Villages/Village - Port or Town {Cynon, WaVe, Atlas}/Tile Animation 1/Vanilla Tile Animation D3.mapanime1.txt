@@ -1,0 +1,9 @@
+//wait	filename
+28	Vanilla Tile Animation D3.mapanime1_000.png	4096
+28	Vanilla Tile Animation D3.mapanime1_001.png	4096
+28	Vanilla Tile Animation D3.mapanime1_002.png	4096
+28	Vanilla Tile Animation D3.mapanime1_003.png	4096
+28	Vanilla Tile Animation D3.mapanime1_004.png	4096
+28	Vanilla Tile Animation D3.mapanime1_005.png	4096
+28	Vanilla Tile Animation D3.mapanime1_006.png	4096
+28	Vanilla Tile Animation D3.mapanime1_007.png	4096

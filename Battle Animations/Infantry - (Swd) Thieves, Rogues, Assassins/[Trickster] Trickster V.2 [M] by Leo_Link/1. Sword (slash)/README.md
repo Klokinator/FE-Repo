@@ -13,3 +13,5 @@ F2U/F2E
 Animation by Leo_Link.
 
 Script by Epicer and Kanto Emblem.
+
+Triple Arrow edit by Seliost1.

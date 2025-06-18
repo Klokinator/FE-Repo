@@ -1,0 +1,3 @@
+Vaguely inspired by the dialogue frames in FF9. Changing the colors on these is very straightforward, in case you don't like how I used colors on these. It's supposed to be very low-contrast. 
+
+You're free to edit these as you wish, if you want to use these to make other UI elements using the same theme, go for it.

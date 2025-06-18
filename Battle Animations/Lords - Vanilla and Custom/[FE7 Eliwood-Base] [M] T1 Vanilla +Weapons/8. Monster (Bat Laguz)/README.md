@@ -29,3 +29,5 @@ Magic based on TytheBub's Mage Lord edited by Seliost1.
 Sword Slash V3 by Seliost1.
 
 Sword StabV3 by Seliost1.
+
+Sword (Alt Crit) by Seliost1.

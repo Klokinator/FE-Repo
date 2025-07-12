@@ -9,3 +9,5 @@
 ## Credit
 
 Made by the developers of FE7if.
+
+Lance (+Magic Ranged) by Seliost1.

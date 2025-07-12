@@ -1,0 +1,15 @@
+# [\[FE14 Lord Custom\] Camilla Malig Knight \[F\] by SteamingTofu](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/3.%20Axe/Axe.gif"/> | <b>Axe (magic axe V1)</b><br/><img alt="Axe (magic axe V1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/3.%20Axe%20(magic%20axe%20V1)/Axe.gif"/> | <b>Axe (magic axe V2)</b><br/><img alt="Axe (magic axe V2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/3.%20Axe%20(magic%20axe%20V2)/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/6.%20Magic/Magic.gif"/> | <b>Magic (More 'Physics')</b><br/><img alt="Magic (More 'Physics')" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/6.%20Magic%20(More%20'Physics')/Magic.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20Malig%20Knight%20%5BF%5D%20by%20SteamingTofu/8.%20Unarmed/Unarmed.gif"/> |
+
+## Credits
+
+F2U/F2E
+
+Animation by SteamingTofu.
+
+3. Axe (magic axe V1/V2) by Seliost1.
+

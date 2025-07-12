@@ -119,15 +119,15 @@ C15                               #Slight vibration of screen
 1 p- Axe_089.png
 1 p- Axe_090.png
 1 p- Axe_091.png
-35 p- Axe_092.png
-2 p- Axe_093.png
+1 p- Axe_092.png
+35 p- Axe_093.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
 C0A                               #Critical hit
 C42                               #Play Axe falling SFE; long axe swinging SFE
 5 p- Axe_094.png
-C01                               #NOP
 2 p- Axe_095.png
+C01                               #NOP
 16 p- Axe_096.png
 1 p- Axe_097.png
 1 p- Axe_098.png
@@ -275,10 +275,9 @@ C36                               #Play sword unsheathing SFE
 C22                               #Play short sword swinging SFE
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Axe_016.png
-3 p- Axe_134.png
-1 p- Axe_135.png
+1 p- Axe_134.png
 C01                               #NOP
-2 p- Axe_025.png
+2 p- Axe_135.png
 C15                               #Slight vibration of screen
 1 p- Axe_026.png
 1 p- Axe_027.png

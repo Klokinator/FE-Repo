@@ -18,3 +18,5 @@ Sword (Astra Crit) by Seliost1.
 
 Sword (alt) by Seliost1.
 
+Unarmed (Sans Luceid palette) by Seliost1.
+

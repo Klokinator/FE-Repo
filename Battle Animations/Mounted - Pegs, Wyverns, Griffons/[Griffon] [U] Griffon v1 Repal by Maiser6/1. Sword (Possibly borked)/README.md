@@ -10,4 +10,4 @@
 
 Griffon by Blue Druid.
 
-Repalette by Maiser6.
+Repalette, Lance, Sword Fix by Maiser6.

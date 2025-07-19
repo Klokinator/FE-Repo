@@ -1,5 +1,5 @@
 #######################################################
-#08 Unarmed Great Lord Sword
+#06 snif_ar1 Sniper Bow
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

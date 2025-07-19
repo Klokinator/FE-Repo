@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Flasuban sprited the base version of the FE10 Soldier.
 
 Slow/Angled is Flasuban's first version.

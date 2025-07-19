@@ -16,4 +16,6 @@ Formatting by GibGib!.
 
 Updated Bow animation and script by Seliost1.
 
+Unarmed by Seliost1.
+
 Teto Kasane version done by Omega Zero

@@ -9,3 +9,5 @@
 ## Credit
 
 Fixes by Pushwall.
+
+Staff by Primefusion and ported by Citrus.

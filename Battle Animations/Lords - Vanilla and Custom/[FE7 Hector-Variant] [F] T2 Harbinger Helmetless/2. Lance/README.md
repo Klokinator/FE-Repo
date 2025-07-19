@@ -11,3 +11,5 @@
 Original Harbinger by Nuramon.
 
 Female variant by Mycahel.
+
+Magic (No thunder crit) edit by Seliost1.

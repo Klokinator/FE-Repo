@@ -16,4 +16,6 @@ Formatting by GibGib!.
 
 Updated Bow animation and script by Seliost1.
 
-Akita Neru version done by Omega Zero
+Unarmed by Seliost1.
+
+Akita Neru version done by Omega Zero.

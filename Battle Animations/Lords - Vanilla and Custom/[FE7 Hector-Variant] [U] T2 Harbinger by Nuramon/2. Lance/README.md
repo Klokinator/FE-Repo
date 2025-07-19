@@ -17,3 +17,5 @@ Female variant by Mycahel.
 Fixes by JJ09.
 
 Staff by GabrielKnight, scripted by ZoramineFae.
+
+Magic (Thunder crit) by Mycahel and ported by Seliost1.

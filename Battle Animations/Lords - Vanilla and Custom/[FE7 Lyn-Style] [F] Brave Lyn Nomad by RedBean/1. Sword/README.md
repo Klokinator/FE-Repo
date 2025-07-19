@@ -11,3 +11,5 @@
 [FE7 Lyn-Style] [F] Brave Lyn Nomad by RedBean.
 
 Updates and fixes by RiriK.
+
+Sol Katti edit by Seliost1.

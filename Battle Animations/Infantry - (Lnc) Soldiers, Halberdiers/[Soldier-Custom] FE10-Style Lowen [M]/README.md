@@ -5,6 +5,8 @@
 
 ## Credits
 
+F2U/F2E
+
 Original animation by Flasuban and Nuramon.
 
 The head by UltraFenix.

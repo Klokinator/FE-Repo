@@ -1,0 +1,10 @@
+D #is defender anim
+S03D1 #play sound SE:Activate Skill Animation
+2 skill_18_Aegis_g000.png
+4 skill_18_Aegis_g001.png
+6 skill_18_Aegis_g002.png
+8 skill_18_Aegis_g003.png
+10 skill_18_Aegis_g004.png
+12 skill_18_Aegis_g005.png
+14 skill_18_Aegis_g000.png
+15 skill_18_Aegis_g000.png

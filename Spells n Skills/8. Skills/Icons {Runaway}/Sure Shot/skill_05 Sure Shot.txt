@@ -1,0 +1,9 @@
+S03D1 #play sound SE:Activate Skill Animation
+2 skill_05_Sure_Shot_g000.png
+4 skill_05_Sure_Shot_g001.png
+6 skill_05_Sure_Shot_g002.png
+8 skill_05_Sure_Shot_g003.png
+10 skill_05_Sure_Shot_g004.png
+12 skill_05_Sure_Shot_g005.png
+14 skill_05_Sure_Shot_g000.png
+18 skill_05_Sure_Shot_g000.png

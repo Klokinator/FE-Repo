@@ -1,0 +1,233 @@
+C000040
+C101029
+C00F448
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_001.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_002.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_003.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_004.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_005.png
+1
+
+C00F448
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_006.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_007.png
+1
+
+C000051
+C00F448
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_008.png
+4
+
+C000015
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_009.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_010.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_011.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_012.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_013.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_005.png
+3
+
+C031029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_014.png
+1
+
+C091029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_014.png
+1
+
+C101029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_014.png
+1
+
+C00001A
+~
+C00001F
+C00F548
+C000014
+O Thunder Dragon_o_015.png
+B Thunder Dragon_b_016.png
+1
+
+O Thunder Dragon_o_017.png
+B Thunder Dragon_b_018.png
+1
+
+C00F548
+O Thunder Dragon_o_019.png
+B Thunder Dragon_b_020.png
+1
+
+C000014
+O Thunder Dragon_o_021.png
+B Thunder Dragon_b_022.png
+1
+
+O Thunder Dragon_o_023.png
+B Thunder Dragon_b_024.png
+1
+
+C00F548
+O Thunder Dragon_o_025.png
+B Thunder Dragon_b_026.png
+1
+
+O Thunder Dragon_o_027.png
+B Thunder Dragon_b_016.png
+1
+
+C00F548
+O Thunder Dragon_o_028.png
+B Thunder Dragon_b_018.png
+1
+
+C000014
+O Thunder Dragon_o_029.png
+B Thunder Dragon_b_020.png
+1
+
+C00F548
+O Thunder Dragon_o_030.png
+B Thunder Dragon_b_022.png
+2
+
+O Thunder Dragon_o_031.png
+B Thunder Dragon_b_024.png
+1
+
+C00F548
+O Thunder Dragon_o_032.png
+B Thunder Dragon_b_026.png
+1
+
+O Thunder Dragon_o_033.png
+B Thunder Dragon_b_016.png
+1
+
+C00F548
+O Thunder Dragon_o_034.png
+B Thunder Dragon_b_018.png
+1
+
+C000014
+O Thunder Dragon_o_035.png
+B Thunder Dragon_b_020.png
+1
+
+C00F548
+O Thunder Dragon_o_036.png
+B Thunder Dragon_b_022.png
+1
+
+O Thunder Dragon_o_037.png
+B Thunder Dragon_b_024.png
+1
+
+C00F548
+O Thunder Dragon_o_038.png
+B Thunder Dragon_b_026.png
+1
+
+O Thunder Dragon_o_039.png
+B Thunder Dragon_b_016.png
+1
+
+C00F548
+O Thunder Dragon_o_040.png
+B Thunder Dragon_b_018.png
+1
+
+C000014
+O Thunder Dragon_o_041.png
+B Thunder Dragon_b_020.png
+1
+
+C00F548
+O Thunder Dragon_o_042.png
+B Thunder Dragon_b_022.png
+1
+
+O Thunder Dragon_o_043.png
+B Thunder Dragon_b_024.png
+1
+
+C00F548
+O Thunder Dragon_o_044.png
+B Thunder Dragon_b_026.png
+1
+
+O Thunder Dragon_o_045.png
+B Thunder Dragon_b_016.png
+1
+
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_018.png
+1
+
+C0D1029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_020.png
+1
+
+C0A1029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_022.png
+1
+
+C071029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_024.png
+1
+
+C041029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_026.png
+1
+
+C011029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_046.png
+1
+
+C001029
+O Thunder Dragon_o_000.png
+B Thunder Dragon_b_005.png
+15
+
+/// - End of animation

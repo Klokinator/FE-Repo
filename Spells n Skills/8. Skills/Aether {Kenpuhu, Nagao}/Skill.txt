@@ -1,0 +1,12 @@
+S03D1 #play sound SE:スキル発動音
+3 skill0.png
+3 skill1.1.png
+3 skill1.2.png
+3 skill2.png
+3 skill1.png
+3 skill2.png
+3 skill3.png
+3 skill4.png
+3 skill5.png
+3 skill6.png
+3 skill7.png

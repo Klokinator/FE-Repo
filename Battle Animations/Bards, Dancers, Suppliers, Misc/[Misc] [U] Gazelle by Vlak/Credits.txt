@@ -1,0 +1,7 @@
+F2U/F2E
+
+By Vlak
+
+Dodge frame timing is quite messy, should be looked into.
+
+No enemy, ally, or 4th faction palettes.

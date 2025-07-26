@@ -5,3 +5,5 @@ The Following custom tilesets were made by {Dark}, but they were inspired and ha
 {Light Blue} , inspired and based on {HyperGammaSpaces} tileset.
 
 (Dark) made by {Zarg}.
+
+(Etruria Castle Yellow) & (Water Dragon Temple) made by {WAve}.

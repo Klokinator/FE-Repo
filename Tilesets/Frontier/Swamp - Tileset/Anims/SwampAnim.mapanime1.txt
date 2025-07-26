@@ -1,0 +1,17 @@
+//wait	filename
+28	SwampAnim.mapanime1_000.png	4096
+28	SwampAnim.mapanime1_001.png	4096
+28	SwampAnim.mapanime1_002.png	4096
+28	SwampAnim.mapanime1_003.png	4096
+28	SwampAnim.mapanime1_004.png	4096
+28	SwampAnim.mapanime1_005.png	4096
+28	SwampAnim.mapanime1_006.png	4096
+28	SwampAnim.mapanime1_007.png	4096
+28	SwampAnim.mapanime1_008.png	4096
+28	SwampAnim.mapanime1_009.png	4096
+28	SwampAnim.mapanime1_010.png	4096
+28	SwampAnim.mapanime1_011.png	4096
+28	SwampAnim.mapanime1_012.png	4096
+28	SwampAnim.mapanime1_013.png	4096
+28	SwampAnim.mapanime1_014.png	4096
+28	SwampAnim.mapanime1_015.png	4096

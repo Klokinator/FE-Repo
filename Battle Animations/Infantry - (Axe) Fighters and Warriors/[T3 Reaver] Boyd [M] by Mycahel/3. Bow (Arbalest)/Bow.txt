@@ -1,0 +1,344 @@
+#######################################################
+#1E warm_ar1 Warrior Bow
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+3 p- Bow_001.png
+2 p- Bow_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- Bow_003.png
+2 p- Bow_004.png
+2 p- Bow_005.png
+C37                               #Play sword clicking SFE
+3 p- Bow_006.png
+3 p- Bow_007.png
+10 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C05                               #Call spell associated with equipped weapon
+C15                               #Slight vibration of screen
+2 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_013.png
+3 p- Bow_014.png
+C01                               #NOP
+3 p- Bow_015.png
+C37                               #Play sword clicking SFE
+3 p- Bow_016.png
+3 p- Bow_002.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_002.png
+2 p- Bow_001.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+3 p- Bow_001.png
+2 p- Bow_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- Bow_003.png
+2 p- Bow_004.png
+2 p- Bow_005.png
+C37                               #Play sword clicking SFE
+3 p- Bow_006.png
+3 p- Bow_007.png
+10 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C14                               #Heavy vibration of screen
+2 p- Bow_010.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+3 p- Bow_017.png
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+2 p- Bow_012.png
+2 p- Bow_013.png
+2 p- Bow_014.png
+3 p- Bow_015.png
+3 p- Bow_016.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C14                               #Heavy vibration of screen
+2 p- Bow_010.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+3 p- Bow_017.png
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+2 p- Bow_012.png
+2 p- Bow_013.png
+2 p- Bow_014.png
+3 p- Bow_015.png
+3 p- Bow_016.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C14                               #Heavy vibration of screen
+2 p- Bow_010.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+3 p- Bow_017.png
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+3 p- Bow_012.png
+4 p- Bow_015.png
+3 p- Bow_018.png
+4 p- Bow_019.png
+4 p- Bow_020.png
+4 p- Bow_021.png
+4 p- Bow_022.png
+C37                               #Play sword clicking SFE
+14 p- Bow_023.png
+S02D0                               #Sound 720 SE:Eliwood's sword shining @C85_44
+4 p- Bow_024.png
+4 p- Bow_025.png
+4 p- Bow_026.png
+SF2                               #Sound 242 SE:Fire shoot
+3 p- Bow_027.png
+3 p- Bow_028.png
+SD0                               #Sound 208 SE:Ballista fire
+4 p- Bow_029.png
+C05                               #Call spell associated with equipped weapon
+3 p- Bow_030.png
+4 p- Bow_031.png
+5 p- Bow_032.png
+5 p- Bow_033.png
+5 p- Bow_034.png
+5 p- Bow_035.png
+3 p- Bow_036.png
+3 p- Bow_037.png
+2 p- Bow_038.png
+2 p- Bow_039.png
+2 p- Bow_040.png
+2 p- Bow_041.png
+2 p- Bow_042.png
+3 p- Bow_042.png
+2 p- Bow_043.png
+3 p- Bow_043.png
+2 p- Bow_044.png
+SCE                               #Sound 206 SE:Sword unsheathing @C85_36
+2 p- Bow_000.png
+3 p- Bow_045.png
+3 p- Bow_046.png
+C01                               #NOP
+3 p- Bow_045.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+3 p- Bow_001.png
+2 p- Bow_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- Bow_003.png
+2 p- Bow_004.png
+2 p- Bow_005.png
+C37                               #Play sword clicking SFE
+3 p- Bow_006.png
+3 p- Bow_007.png
+10 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C05                               #Call spell associated with equipped weapon
+C15                               #Slight vibration of screen
+2 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_013.png
+3 p- Bow_014.png
+C01                               #NOP
+3 p- Bow_015.png
+C37                               #Play sword clicking SFE
+3 p- Bow_016.png
+3 p- Bow_002.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_002.png
+2 p- Bow_001.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+3 p- Bow_001.png
+2 p- Bow_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- Bow_003.png
+2 p- Bow_004.png
+2 p- Bow_005.png
+C37                               #Play sword clicking SFE
+3 p- Bow_006.png
+3 p- Bow_007.png
+10 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C14                               #Heavy vibration of screen
+2 p- Bow_010.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+3 p- Bow_017.png
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+2 p- Bow_012.png
+2 p- Bow_013.png
+2 p- Bow_014.png
+3 p- Bow_015.png
+3 p- Bow_016.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C14                               #Heavy vibration of screen
+2 p- Bow_010.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+3 p- Bow_017.png
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+2 p- Bow_012.png
+2 p- Bow_013.png
+2 p- Bow_014.png
+3 p- Bow_015.png
+3 p- Bow_016.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C14                               #Heavy vibration of screen
+2 p- Bow_010.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+3 p- Bow_017.png
+SD8                               #Sound 216 SE:Critical Hit @C85_1F @C85_20 @C85_21
+3 p- Bow_012.png
+4 p- Bow_015.png
+3 p- Bow_018.png
+4 p- Bow_019.png
+4 p- Bow_020.png
+4 p- Bow_021.png
+4 p- Bow_022.png
+C37                               #Play sword clicking SFE
+14 p- Bow_023.png
+S02D0                               #Sound 720 SE:Eliwood's sword shining @C85_44
+4 p- Bow_024.png
+4 p- Bow_025.png
+4 p- Bow_026.png
+SF2                               #Sound 242 SE:Fire shoot
+3 p- Bow_027.png
+3 p- Bow_028.png
+SD0                               #Sound 208 SE:Ballista fire
+4 p- Bow_029.png
+C05                               #Call spell associated with equipped weapon
+3 p- Bow_030.png
+4 p- Bow_031.png
+5 p- Bow_032.png
+5 p- Bow_033.png
+5 p- Bow_034.png
+5 p- Bow_035.png
+3 p- Bow_036.png
+3 p- Bow_037.png
+2 p- Bow_038.png
+2 p- Bow_039.png
+2 p- Bow_040.png
+2 p- Bow_041.png
+2 p- Bow_042.png
+3 p- Bow_042.png
+2 p- Bow_043.png
+3 p- Bow_043.png
+2 p- Bow_044.png
+SCE                               #Sound 206 SE:Sword unsheathing @C85_36
+2 p- Bow_000.png
+3 p- Bow_045.png
+3 p- Bow_046.png
+C01                               #NOP
+3 p- Bow_045.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Bow_045.png
+1 p- Bow_046.png
+C01                               #NOP
+3 p- Bow_045.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Bow_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Bow_045.png
+1 p- Bow_046.png
+C01                               #NOP
+3 p- Bow_045.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Bow_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Bow_000.png
+3 p- Bow_001.png
+2 p- Bow_002.png
+C38                               #Play heavy spear spinning SFE
+3 p- Bow_003.png
+2 p- Bow_004.png
+2 p- Bow_005.png
+C37                               #Play sword clicking SFE
+3 p- Bow_006.png
+3 p- Bow_007.png
+10 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+2 p- Bow_009.png
+2 p- Bow_008.png
+SD0                               #Sound 208 SE:Ballista fire
+C05                               #Call spell associated with equipped weapon
+C15                               #Slight vibration of screen
+2 p- Bow_010.png
+3 p- Bow_011.png
+3 p- Bow_012.png
+3 p- Bow_013.png
+3 p- Bow_014.png
+C01                               #NOP
+3 p- Bow_015.png
+C37                               #Play sword clicking SFE
+3 p- Bow_016.png
+3 p- Bow_002.png
+C1B                               #Play quick "heavy step" SFE
+3 p- Bow_002.png
+2 p- Bow_001.png
+1 p- Bow_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

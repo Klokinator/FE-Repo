@@ -1,0 +1,89 @@
+/// - Mode 1
+C03
+C07
+1 p- vani3.png
+C05
+2 p- vani4.png
+C01
+C06
+1 p- vani3.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- vani3.png
+C28
+60 p- vani4.png
+5 p- vani3.png
+C05
+2 p- vani4.png
+C01
+C06
+1 p- vani3.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- vani3.png
+C05
+2 p- vani4.png
+C01
+C06
+1 p- vani3.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- vani3.png
+60 p- vani4.png
+C28
+5 p- vani3.png
+C05
+2 p- vani4.png
+C01
+C06
+1 p- vani3.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- vani3.png
+C0E
+2 p- vani4.png
+C01
+C0D
+~~~
+/// - Mode 8
+1 p- vani3.png
+C0E
+2 p- vani4.png
+C01
+C0D
+~~~
+/// - Mode 9
+1 p- vani3.png
+C01
+~~~
+/// - Mode 10
+1 p- vani3.png
+C01
+~~~
+/// - Mode 11
+1 p- vani3.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- vani3.png
+C05
+2 p- vani4.png
+C01
+C06
+1 p- vani3.png
+C0D
+~~~
+/// - End of animation

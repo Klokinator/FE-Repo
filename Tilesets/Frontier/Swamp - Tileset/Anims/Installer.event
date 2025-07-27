@@ -1,0 +1,68 @@
+ALIGN 4
+SwampAnimation0:
+#incbin "SwampAnim.mapanime1_000.dmp"
+ALIGN 4
+SwampAnimation1:
+#incbin "SwampAnim.mapanime1_001.dmp"
+ALIGN 4
+SwampAnimation2:
+#incbin "SwampAnim.mapanime1_002.dmp"
+ALIGN 4
+SwampAnimation3:
+#incbin "SwampAnim.mapanime1_003.dmp"
+ALIGN 4
+SwampAnimation4:
+#incbin "SwampAnim.mapanime1_004.dmp"
+ALIGN 4
+SwampAnimation5:
+#incbin "SwampAnim.mapanime1_005.dmp"
+ALIGN 4
+SwampAnimation6:
+#incbin "SwampAnim.mapanime1_006.dmp"
+ALIGN 4
+SwampAnimation7:
+#incbin "SwampAnim.mapanime1_007.dmp"
+ALIGN 4
+SwampAnimation8:
+#incbin "SwampAnim.mapanime1_008.dmp"
+ALIGN 4
+SwampAnimation9:
+#incbin "SwampAnim.mapanime1_009.dmp"
+ALIGN 4
+SwampAnimation10:
+#incbin "SwampAnim.mapanime1_010.dmp"
+ALIGN 4
+SwampAnimation11:
+#incbin "SwampAnim.mapanime1_011.dmp"
+ALIGN 4
+SwampAnimation12:
+#incbin "SwampAnim.mapanime1_012.dmp"
+ALIGN 4
+SwampAnimation13:
+#incbin "SwampAnim.mapanime1_013.dmp"
+ALIGN 4
+SwampAnimation14:
+#incbin "SwampAnim.mapanime1_014.dmp"
+ALIGN 4
+SwampAnimation15:
+#incbin "SwampAnim.mapanime1_015.dmp"
+
+ALIGN 4
+SwampAnimation:
+tilesetAnimation(0x1C,0x1000,SwampAnimation0)
+tilesetAnimation(0x1C,0x1000,SwampAnimation1)
+tilesetAnimation(0x1C,0x1000,SwampAnimation2)
+tilesetAnimation(0x1C,0x1000,SwampAnimation3)
+tilesetAnimation(0x1C,0x1000,SwampAnimation4)
+tilesetAnimation(0x1C,0x1000,SwampAnimation5)
+tilesetAnimation(0x1C,0x1000,SwampAnimation6)
+tilesetAnimation(0x1C,0x1000,SwampAnimation7)
+tilesetAnimation(0x1C,0x1000,SwampAnimation8)
+tilesetAnimation(0x1C,0x1000,SwampAnimation9)
+tilesetAnimation(0x1C,0x1000,SwampAnimation10)
+tilesetAnimation(0x1C,0x1000,SwampAnimation11)
+tilesetAnimation(0x1C,0x1000,SwampAnimation12)
+tilesetAnimation(0x1C,0x1000,SwampAnimation13)
+tilesetAnimation(0x1C,0x1000,SwampAnimation14)
+tilesetAnimation(0x1C,0x1000,SwampAnimation15)
+WORD 0 0

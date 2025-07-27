@@ -1,0 +1,10 @@
+D #is defender anim
+S00E7 #play sound SE:Brigand battle cry @C85_33
+2 skill_19_Pavise_g000.png
+4 skill_19_Pavise_g001.png
+6 skill_19_Pavise_g002.png
+8 skill_19_Pavise_g003.png
+10 skill_19_Pavise_g004.png
+12 skill_19_Pavise_g005.png
+14 skill_19_Pavise_g000.png
+18 skill_19_Pavise_g000.png

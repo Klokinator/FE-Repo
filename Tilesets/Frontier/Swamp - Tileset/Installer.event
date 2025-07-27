@@ -1,0 +1,19 @@
+#include "Anims/Installer.event"
+
+ALIGN 4
+SwampTiles:
+#incbin "Swamp_comp.dmp"
+
+ALIGN 4
+SwampObjects:
+#incbin "Swamps.dmp"
+
+ALIGN 4
+SwampPalette:
+#incbin "Swamps.pal.bin"
+
+//Swamp
+EventPointerTable(plSwampObj, SwampObjects) 
+EventPointerTable(plSwampPal, SwampPalette) 
+EventPointerTable(plSwampConf, SwampTiles) 
+EventPointerTable(plFieldsAnim, SwampAnimation)

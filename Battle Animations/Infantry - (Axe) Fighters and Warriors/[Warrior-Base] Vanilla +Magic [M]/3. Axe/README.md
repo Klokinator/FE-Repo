@@ -12,6 +12,8 @@ F2U/F2E
 
 Original Warrior by IS. 
 
+Sword by CookieMaster.
+
 Magic axe frames by UltraFenix.
 
 Magic and Staff by Orihara_Saki.

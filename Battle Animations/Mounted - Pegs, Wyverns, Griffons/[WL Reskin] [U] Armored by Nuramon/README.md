@@ -11,3 +11,5 @@ Animation by Nuramon.
 
 Lance (Thrust) by RRSKAI.
 
+Magic Axe by Venno.
+

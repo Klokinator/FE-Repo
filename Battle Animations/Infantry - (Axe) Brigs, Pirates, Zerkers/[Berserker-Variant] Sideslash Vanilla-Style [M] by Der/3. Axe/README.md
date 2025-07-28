@@ -13,3 +13,5 @@ F2U/F2E
 Side-slashing Dozlazerker variant originally made by Aruka and Kenpuhu.
 
 Derserker variant made by DerTheVaporeon.
+
+Sword by CookieMaster.

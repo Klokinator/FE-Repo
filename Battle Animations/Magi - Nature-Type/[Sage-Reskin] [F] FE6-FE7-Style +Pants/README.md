@@ -5,11 +5,9 @@
 
 ## Credits
 
-F2U/F2E
-
 Magic and Staff Basic Animations by Levin64, improved by HyperGammaSpaces.
 
 Magic (with staff) Animations by Nuramon.
 
-Female edit by GigaExcalibur.
+Ponytail edit by GigaExcalibur, physics in the hair by UltraFenix.
 

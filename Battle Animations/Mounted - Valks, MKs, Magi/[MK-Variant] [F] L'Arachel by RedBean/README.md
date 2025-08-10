@@ -5,5 +5,9 @@
 
 ## Credits
 
+F2U/F2E
+
 Animation by RedBean.
+
+Staff palette fix by UltraFenix.
 

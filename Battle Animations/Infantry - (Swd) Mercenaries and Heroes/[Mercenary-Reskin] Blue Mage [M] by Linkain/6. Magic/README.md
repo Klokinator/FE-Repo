@@ -14,3 +14,4 @@ Animation by Linkain, Lord Zymeth.
 
 Scripting and Formatting by Reyk_Retro0337.
 
+Sword (Combo Crit) by Seliost1.

@@ -1,0 +1,13 @@
+F2U/F2E
+
+Originally featured in FE7if.
+
+Featuring frames taken from BwdYeti's 'Astra' attack.
+
+Note that while this animation is in the repo and was 'made' by the creators of FE7if, generally their use of BwdYeti's frames without permission is looked-down on.
+
+Unarmed animation by Seliost1.
+
+Repalette by GigaExcalibur.
+
+Sword (Fixed hand) is a small edit to change the color on the hand. By Seliost1.

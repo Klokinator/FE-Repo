@@ -9,5 +9,7 @@ F2U/F2E
 
 Animation by Lenh.
 
-Pants edit by Seliost1.
+Pants edit by Eonia.
+
+Ported and magic axe animation made by Seliost1.
 

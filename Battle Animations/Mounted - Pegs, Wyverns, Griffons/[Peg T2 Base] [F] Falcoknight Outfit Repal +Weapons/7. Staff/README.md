@@ -11,3 +11,5 @@
 Repalette by Jeorge_Reds.
 
 Staff by ShadowOfChaos.
+
+Sword & Lance Fixed by Fiuke Bnuy

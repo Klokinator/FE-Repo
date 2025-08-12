@@ -11,3 +11,5 @@
 Mage Dragon by L95.
 
 Transformation/Reverting by Jotari
+
+FE6 style Transformation/Reverting by Fiuke Bnuy.

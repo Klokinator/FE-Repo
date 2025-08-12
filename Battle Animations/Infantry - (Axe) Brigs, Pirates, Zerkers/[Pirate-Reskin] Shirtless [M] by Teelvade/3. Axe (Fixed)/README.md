@@ -14,4 +14,4 @@ Repalette by Wan/Eliwan.
 
 Shirtless edit by Teelvade
 
-Axe (Fixed), Handaxe and Unarmed Shirtless edits by JaidynReiman.
+Handaxe and Unarmed Shirtless edits by JaidynReiman.

@@ -12,3 +12,5 @@ Knife by Pushwall, Jj09.
 
 Bow made by SD9K and Andy, added by ltranc.
 
+Bow (Lyn-style) by Itranc.
+

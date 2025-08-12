@@ -13,3 +13,5 @@ F2U/F2E
 Repalette by Wan/Eliwan.
 
 Shirtless edit by Teelvade
+
+Axe (Fixed), Handaxe, Unarmed Shirtless edits by JaidynReiman.

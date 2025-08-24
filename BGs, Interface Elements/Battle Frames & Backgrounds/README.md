@@ -16,6 +16,8 @@ undefined## [(Lisandra_Brave} Dojo Platform]((Lisandra_Brave%7D%20Dojo%20Platfor
 
 ## [{Cynon} Velvet Battle Screen](%7BCynon%7D%20Velvet%20Battle%20Screen)
 
+## [{Fenreir} Royal Gold and Silver Battle Frame](%7BFenreir%7D%20Royal%20Gold%20and%20Silver%20Battle%20Frame)
+
 ## [{Norikins} Fire Emblem Heroes Battle Background](%7BNorikins%7D%20Fire%20Emblem%20Heroes%20Battle%20Background)
 
 ## [{Sacred War} Backgrounds](%7BSacred%20War%7D%20Backgrounds)

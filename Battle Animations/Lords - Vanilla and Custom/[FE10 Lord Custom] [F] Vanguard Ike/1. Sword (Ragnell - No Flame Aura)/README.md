@@ -13,3 +13,7 @@ Animation by xxx的戏剧 (xxx Drama).
 1.Sword (Ragnell - No Flame Aura).
 
 Unarmed by Seliost1.
+
+Female edit by Seliost1.
+
+Removal of the Flame Aura and the white pixel in face by Seliost1.

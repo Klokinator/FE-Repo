@@ -93,15 +93,6 @@
 
 
 
-## [\[Dancer-Base\] \[F\] Dracodancer by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Dragonstone/Dragonstone.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Refresh/Refresh.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Revert/Revert.gif"/> |
-| :---: | :---: | :---: |
-| <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Dracodancer%20by%20Sirknite31/8.%20Transform/Transform.gif"/> |
-
-
-
-
 ## [\[Dancer-Base\] \[F\] FE8 Tethys Repalette by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31/1.%20Sword/Sword.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Base%5D%20%5BF%5D%20FE8%20Tethys%20Repalette%20by%20Sirknite31/8.%20Refresh/Refresh.gif"/> |
@@ -212,6 +203,15 @@
 
 
 
+## [\[Dancer-Reskin\] \[U\] Dracodancer V2 by Sirknite31](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31/6.%20Magic/Magic.gif"/> | <b>Magic (Dance)</b><br/><img alt="Magic (Dance)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31/6.%20Magic%20(Dance)/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31/7.%20Staff/Staff.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31/8.%20Refresh/Refresh.gif"/> | <b>Refresh (FE8)</b><br/><img alt="Refresh (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BU%5D%20Dracodancer%20V2%20by%20Sirknite31/8.%20Refresh%20(FE8)/Refresh.gif"/> |
+
+
+
+
 ## [\[Dancer-Variant\] \[F\] Dancer by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Item</b><br/><img alt="Item" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean/8.%20Item/Item.gif"/> |
@@ -305,6 +305,14 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Misc-Supply\] \[U\] T1 Merlinus Transport Repal by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20Repal%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20Repal%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20Repal%20by%20UltraFenix/1.%20Knife/Knife.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc-Supply%5D%20%5BU%5D%20T1%20Merlinus%20Transport%20Repal%20by%20UltraFenix/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 

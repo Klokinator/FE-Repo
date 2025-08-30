@@ -96,6 +96,14 @@
 
 
 
+## [\[Mage-Custom1\] \[F\] Light Mage Long Hair Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20Repal) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20Repal/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Mage-Custom1\] \[F\] Light Mage Long Hair Repal by RRSKAI](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20Repal%20by%20RRSKAI) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20Repal%20by%20RRSKAI) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BF%5D%20Light%20Mage%20Long%20Hair%20Repal%20by%20RRSKAI/6.%20Magic/Magic.gif"/> |
@@ -124,6 +132,22 @@
 ## [\[Mage-Custom1\] \[M\] Light Mage by L95](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
+## [\[Mage-Custom1\] \[M\] Light Mage Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20Repal) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20Repal/6.%20Magic/Magic.gif"/> | <b>Magic (Alt)</b><br/><img alt="Magic (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20Repal/6.%20Magic%20(Alt)/Magic.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Mage-Custom1\] \[M\] Light Mage Repal by L95](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20Repal%20by%20L95) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20Repal%20by%20L95) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20Repal%20by%20L95/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
@@ -190,6 +214,14 @@
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Lilina%20by%20Yerek/6.%20Magic/Magic.gif"/> | <b>Magic (Alt)</b><br/><img alt="Magic (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Lilina%20by%20Yerek/6.%20Magic%20(Alt)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Lilina%20by%20Yerek/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
 | <b>Staff (Alt)</b><br/><img alt="Staff (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Lilina%20by%20Yerek/7.%20Staff%20(Alt)/Staff.gif"/> |
+
+
+
+
+## [\[Mage-Reskin\] \[F\] Long-Hair \(No Headband\) by Solum](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Long-Hair%20(No%20Headband)%20by%20Solum) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Long-Hair%20(No%20Headband)%20by%20Solum) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BF%5D%20Long-Hair%20(No%20Headband)%20by%20Solum/6.%20Magic/Magic.gif"/> |
+| :---: |
 
 
 
@@ -270,6 +302,14 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repal/6.%20Magic/Magic.gif"/> | <b>Magic (Black Eyes)</b><br/><img alt="Magic (Black Eyes)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repal/6.%20Magic%20(Black%20Eyes)/Magic.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Mage-Reskin\] \[M\] Hatless Repalette](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repalette) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repalette) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20%5BM%5D%20Hatless%20Repalette/6.%20Magic/Magic.gif"/> |
+| :---: |
 
 
 

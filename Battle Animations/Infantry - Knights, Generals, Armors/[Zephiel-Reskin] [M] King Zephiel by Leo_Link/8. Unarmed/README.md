@@ -10,4 +10,6 @@
 
 Animation by Leo_Link.
 
-Script by UltraFenix.
+Axe design by Huichelaar.
+
+Script and light versions by UltraFenix.

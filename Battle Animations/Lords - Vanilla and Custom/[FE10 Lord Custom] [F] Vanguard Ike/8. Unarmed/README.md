@@ -15,3 +15,5 @@ Animation by xxx的戏剧 (xxx Drama).
 Unarmed by Seliost1.
 
 Female edit by Seliost1.
+
+Removal of the Flame Aura and the white pixel in face by Seliost1.

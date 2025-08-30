@@ -1,5 +1,5 @@
 #######################################################
-#08 Unarmed Great Lord Sword
+#03 lorf_sw1 Lord Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

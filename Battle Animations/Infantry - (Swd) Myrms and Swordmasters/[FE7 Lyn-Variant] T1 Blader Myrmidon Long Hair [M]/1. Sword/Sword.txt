@@ -1,5 +1,5 @@
 #######################################################
-#11 myrm_sw1 Myrmidon Sword
+#01 lorm_sp1 Lord Lance
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -182,6 +182,7 @@ C07                               #Start attack animation; need 03 right before 
 7 p- Sword_078.png
 C37                               #Play sword clicking SFE
 12 p- Sword_079.png
+C36                               #Play sword unsheathing SFE
 1 p- Sword_080.png
 1 p- Sword_081.png
 1 p- Sword_082.png
@@ -198,6 +199,7 @@ C4A                               #Play valkyrie's magic charging SFE
 4 p- Sword_085.png
 4 p- Sword_073.png
 4 p- Sword_085.png
+C05                               #Call spell associated with equipped weapon
 4 p- Sword_073.png
 C01                               #NOP
 3 p- Sword_074.png

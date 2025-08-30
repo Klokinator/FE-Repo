@@ -1,5 +1,5 @@
 #######################################################
-#02 Lance Lord Item
+#EF Lance 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -162,20 +162,24 @@ C0D                               #End of dodge animation. preceeded by 0x06
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
 1 p- Lance_000.png
-3 p- Lance_020.png
-1 p- Lance_003.png
+2 p- Lance_001.png
+2 p- Lance_020.png
+2 p- Lance_021.png
 C01                               #NOP
-3 p- Lance_020.png
+2 p- Lance_020.png
+2 p- Lance_001.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
 1 p- Lance_000.png
-3 p- Lance_020.png
-1 p- Lance_003.png
+2 p- Lance_001.png
+2 p- Lance_020.png
+2 p- Lance_021.png
 C01                               #NOP
-3 p- Lance_020.png
+2 p- Lance_020.png
+2 p- Lance_001.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -198,7 +202,7 @@ C07                               #Start attack animation; need 03 right before 
 3 p- Lance_001.png
 4 p- Lance_002.png
 7 p- Lance_003.png
-4 p- Lance_021.png
+4 p- Lance_004.png
 4 p- Lance_005.png
 8 p- Lance_007.png
 19 p- Lance_008.png

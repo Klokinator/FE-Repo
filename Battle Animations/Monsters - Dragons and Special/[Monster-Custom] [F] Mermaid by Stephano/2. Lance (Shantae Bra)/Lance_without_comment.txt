@@ -157,20 +157,24 @@ C0D
 /// - Mode 7
 C02
 1 p- Lance_000.png
-3 p- Lance_021.png
-1 p- Lance_003.png
+2 p- Lance_001.png
+2 p- Lance_021.png
+2 p- Lance_022.png
 C01
-3 p- Lance_021.png
+2 p- Lance_021.png
+2 p- Lance_001.png
 1 p- Lance_000.png
 C0D
 ~~~
 /// - Mode 8
 C02
 1 p- Lance_000.png
-3 p- Lance_021.png
-1 p- Lance_003.png
+2 p- Lance_001.png
+2 p- Lance_021.png
+2 p- Lance_022.png
 C01
-3 p- Lance_021.png
+2 p- Lance_021.png
+2 p- Lance_001.png
 1 p- Lance_000.png
 C0D
 ~~~

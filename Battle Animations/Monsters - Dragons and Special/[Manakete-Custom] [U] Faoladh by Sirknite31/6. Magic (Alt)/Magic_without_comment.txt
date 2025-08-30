@@ -226,36 +226,36 @@ C0D
 ~~~
 /// - Mode 7
 C02
-1 p- Magic_007.png
+1 p- Magic_000.png
 C0E
 3 p- Magic_022.png
 1 p- Magic_023.png
 C01
 3 p- Magic_022.png
-1 p- Magic_007.png
+1 p- Magic_000.png
 C0D
 ~~~
 /// - Mode 8
 C02
-1 p- Magic_007.png
+1 p- Magic_000.png
 C0E
 3 p- Magic_022.png
 1 p- Magic_023.png
 C01
 3 p- Magic_022.png
-1 p- Magic_007.png
+1 p- Magic_000.png
 C0D
 ~~~
 /// - Mode 9
-1 p- Magic_007.png
+1 p- Magic_000.png
 C01
 ~~~
 /// - Mode 10
-1 p- Magic_007.png
+1 p- Magic_000.png
 C01
 ~~~
 /// - Mode 11
-1 p- Magic_007.png
+1 p- Magic_000.png
 C01
 ~~~
 /// - Mode 12

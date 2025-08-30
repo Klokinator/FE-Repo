@@ -1,5 +1,5 @@
 #######################################################
-#01 Sword Lord Lance
+#03 lorf_sw1 Lord Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

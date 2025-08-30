@@ -177,6 +177,7 @@ C07
 7 p- Sword_078.png
 C37
 12 p- Sword_079.png
+C36
 1 p- Sword_080.png
 1 p- Sword_081.png
 1 p- Sword_082.png
@@ -193,6 +194,7 @@ C4A
 4 p- Sword_085.png
 4 p- Sword_073.png
 4 p- Sword_085.png
+C05
 4 p- Sword_073.png
 C01
 3 p- Sword_074.png

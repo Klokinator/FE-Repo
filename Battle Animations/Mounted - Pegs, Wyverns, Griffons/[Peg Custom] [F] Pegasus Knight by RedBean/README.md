@@ -4,5 +4,9 @@
 
 ## Credits
 
-Credits are currently in the process of being implemented fully. Please use the names within {} in the title until the work is complete.
+F2U/F2E
+
+Animation by Redbean.
+
+Scripting by Seliost1.
 

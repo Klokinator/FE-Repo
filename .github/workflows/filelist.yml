@@ -1,0 +1,44 @@
+name: Generate encoded image URLs
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate encoded image URL list
+        run: |
+          branch="main"
+          repo="${GITHUB_REPOSITORY}"
+          base="https://raw.githubusercontent.com/$repo/refs/heads/$branch"
+
+          rawurlencode() {
+            local string="$1"
+            local length="${#string}"
+            for (( i = 0; i < length; i++ )); do
+              c="${string:$i:1}"
+              case $c in
+                [a-zA-Z0-9.~_-]) printf "$c" ;;
+                *) printf '%%%02X' "'$c" ;;
+              esac
+            done
+          }
+
+          > file_urls.txt
+          while IFS= read -r path; do
+            encoded=$(rawurlencode "$path")
+            echo "$base/$encoded" >> file_urls.txt
+          done < <(find . -type f \( -iname "*.png" -o -iname "*.gif" \) | sed 's|^\./||' | sort)
+
+      - name: Commit and push file URLs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add file_urls.txt
+          git commit -m "Update image URL list [skip ci]" || echo "No changes"
+          git push

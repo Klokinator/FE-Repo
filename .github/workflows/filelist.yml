@@ -1,4 +1,4 @@
-name: Generate encoded image URLs
+name: Generate encoded asset URLs as JSON
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate encoded image URL list
+      - name: Generate encoded URL JSON
         run: |
           branch="main"
           repo="${GITHUB_REPOSITORY}"
@@ -29,16 +29,49 @@ jobs:
             done
           }
 
-          > file_urls.txt
-          while IFS= read -r path; do
-            encoded=$(rawurlencode "$path")
-            echo "$base/$encoded" >> file_urls.txt
-          done < <(find . -type f \( -iname "*.png" -o -iname "*.gif" \) | sed 's|^\./||' | sort)
+          echo "{" > file_urls.json
 
-      - name: Commit and push file URLs
+          first_category=true
+          for category in "Class Cards" "Item Icons" "Map Sprites" "Portrait Repository"; do
+            [ "$first_category" = true ] && first_category=false || echo "," >> file_urls.json
+            echo -n "  \"${category}\": [" >> file_urls.json
+
+            first=true
+            find "$category" -type f \( -iname "*.png" -o -iname "*.gif" \) 2>/dev/null | sed 's|^\./||' | sort | while read -r path; do
+              encoded=$(rawurlencode "$path")
+              url="$base/$encoded"
+              if [ "$first" = true ]; then
+                printf "\n    \"%s\"" "$url"
+                first=false
+              else
+                printf ",\n    \"%s\"" "$url"
+              fi
+            done >> file_urls.json
+            echo -n "\n  ]" >> file_urls.json
+          done
+
+          # Battle Animations
+          echo "," >> file_urls.json
+          echo -n "  \"Battle Animations\": [" >> file_urls.json
+          first=true
+          find "Battle Animations" -mindepth 2 -maxdepth 2 -type d 2>/dev/null | sed 's|^\./||' | sort | while read -r path; do
+            encoded=$(rawurlencode "$path")
+            url="https://github.com/$repo/tree/$branch/$encoded"
+            if [ "$first" = true ]; then
+              printf "\n    \"%s\"" "$url"
+              first=false
+            else
+              printf ",\n    \"%s\"" "$url"
+            fi
+          done >> file_urls.json
+          echo -e "\n  ]" >> file_urls.json
+
+          echo -e "\n}" >> file_urls.json
+
+      - name: Commit and push JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add file_urls.txt
-          git commit -m "Update image URL list [skip ci]" || echo "No changes"
+          git add file_urls.json
+          git commit -m "Update asset URL JSON [skip ci]" || echo "No changes"
           git push

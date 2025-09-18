@@ -32,15 +32,6 @@
 
 
 
-## [\[FE7 Lyn-Reskin\] T2 Ronin \[F\] by Seliost1](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Reskin%5D%20T2%20Ronin%20%5BF%5D%20by%20Seliost1) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Reskin%5D%20T2%20Ronin%20%5BF%5D%20by%20Seliost1) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Reskin%5D%20T2%20Ronin%20%5BF%5D%20by%20Seliost1/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Reskin%5D%20T2%20Ronin%20%5BF%5D%20by%20Seliost1/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Reskin%5D%20T2%20Ronin%20%5BF%5D%20by%20Seliost1/5.%20Bow/Bow.gif"/> |
-| :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Reskin%5D%20T2%20Ronin%20%5BF%5D%20by%20Seliost1/8.%20Unarmed/Unarmed.gif"/> |
-
-
-
-
 ## [\[FE7 Lyn-Variant\] T1 Blader Myrmidon Long Hair \[M\] by Leo_Link](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Variant%5D%20T1%20Blader%20Myrmidon%20Long%20Hair%20%5BM%5D%20by%20Leo_Link) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Variant%5D%20T1%20Blader%20Myrmidon%20Long%20Hair%20%5BM%5D%20by%20Leo_Link) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Variant%5D%20T1%20Blader%20Myrmidon%20Long%20Hair%20%5BM%5D%20by%20Leo_Link/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Variant%5D%20T1%20Blader%20Myrmidon%20Long%20Hair%20%5BM%5D%20by%20Leo_Link/8.%20Unarmed/Unarmed.gif"/> |
@@ -384,10 +375,28 @@
 
 
 
+## [\[Sword Custom\] Sword Twin Blue - Dual Wielder Repal \[F\] by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20Repal%20%5BF%5D%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20Repal%20%5BF%5D%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword (Dual wielding)</b><br/><img alt="Sword (Dual wielding)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20Repal%20%5BF%5D%20by%20RedBean/1.%20Sword%20(Dual%20wielding)/Sword.gif"/> | <b>Sword (short sword)</b><br/><img alt="Sword (short sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20Repal%20%5BF%5D%20by%20RedBean/1.%20Sword%20(short%20sword)/Sword.gif"/> | <b>Unarmed (Dual wielding)</b><br/><img alt="Unarmed (Dual wielding)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20Repal%20%5BF%5D%20by%20RedBean/8.%20Unarmed%20(Dual%20wielding)/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed (short sword)</b><br/><img alt="Unarmed (short sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20Repal%20%5BF%5D%20by%20RedBean/8.%20Unarmed%20(short%20sword)/Unarmed.gif"/> |
+
+
+
+
 ## [\[Sword Custom\] Sword Twin Blue - Dual Wielder \[F\] by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20%5BF%5D%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20%5BF%5D%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20%5BF%5D%20by%20RedBean/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Blue%20-%20Dual%20Wielder%20%5BF%5D%20by%20RedBean/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Sword Custom\] Sword Twin Purple- Shortsword Repal \[F\] by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Purple-%20Shortsword%20Repal%20%5BF%5D%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Purple-%20Shortsword%20Repal%20%5BF%5D%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword (Dual wielding)</b><br/><img alt="Sword (Dual wielding)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Purple-%20Shortsword%20Repal%20%5BF%5D%20by%20RedBean/1.%20Sword%20(Dual%20wielding)/Sword.gif"/> | <b>Sword (short sword)</b><br/><img alt="Sword (short sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Purple-%20Shortsword%20Repal%20%5BF%5D%20by%20RedBean/1.%20Sword%20(short%20sword)/Sword.gif"/> | <b>Unarmed (Dual wielding)</b><br/><img alt="Unarmed (Dual wielding)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Purple-%20Shortsword%20Repal%20%5BF%5D%20by%20RedBean/8.%20Unarmed%20(Dual%20wielding)/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed (short sword)</b><br/><img alt="Unarmed (short sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSword%20Custom%5D%20Sword%20Twin%20Purple-%20Shortsword%20Repal%20%5BF%5D%20by%20RedBean/8.%20Unarmed%20(short%20sword)/Unarmed.gif"/> |
 
 
 
@@ -895,6 +904,7 @@
 
 | <b>Sword (Astra)</b><br/><img alt="Sword (Astra)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/1.%20Sword%20(Astra)/Sword.gif"/> | <b>Sword (Fixed hand)</b><br/><img alt="Sword (Fixed hand)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/1.%20Sword%20(Fixed%20hand)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed (fixed palette)</b><br/><img alt="Unarmed (fixed palette)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/8.%20Unarmed%20(fixed%20palette)/Unarmed.gif"/> |
 
 
 
@@ -1001,6 +1011,14 @@
 ## [\[Swordmaster-Variant\] Mareeta - Ascended \[F\]](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Mareeta%20-%20Ascended%20%5BF%5D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Mareeta%20-%20Ascended%20%5BF%5D) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Mareeta%20-%20Ascended%20%5BF%5D/1.%20Sword/Sword.gif"/> | <b>Sword (Pants)</b><br/><img alt="Sword (Pants)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Mareeta%20-%20Ascended%20%5BF%5D/1.%20Sword%20(Pants)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Mareeta%20-%20Ascended%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Swordmaster-Variant\] Marisa Repal \[F\] by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Marisa%20Repal%20%5BF%5D%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Marisa%20Repal%20%5BF%5D%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Marisa%20Repal%20%5BF%5D%20by%20RedBean/1.%20Sword/Sword.gif"/> | <b>Sword (Alt Crit)</b><br/><img alt="Sword (Alt Crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Marisa%20Repal%20%5BF%5D%20by%20RedBean/1.%20Sword%20(Alt%20Crit)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Marisa%20Repal%20%5BF%5D%20by%20RedBean/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
 
 

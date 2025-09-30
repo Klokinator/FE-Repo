@@ -1,0 +1,11 @@
+F2U/F2E
+
+Original [Journeyman] by IS
+
+Squire made by Waleed
+
+Additions made by Booster_Seat87
+
+Ranged animation from Journeyman-base Vanilla + Weapons Seliost1
+
+Keeps v2 design and Repal and adds ranged animations, unarmed animations, and a more mercenary accurate dodge frame

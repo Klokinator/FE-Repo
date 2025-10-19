@@ -634,8 +634,8 @@
 
 ### [\[Dancer-Variant\] \[F\] Dancer by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Item</b><br/><img alt="Item" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean/8.%20Item/Item.gif"/> |
-| :---: |
+| <b>Item</b><br/><img alt="Item" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean/8.%20Item/Item.gif"/> | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Variant%5D%20%5BF%5D%20Dancer%20by%20Redbean/8.%20Refresh/Refresh.gif"/> |
+| :---: | :---: |
 
 
 
@@ -901,6 +901,14 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BF%5D%20Yggdra%20Yuril%20Artwaltz%20by%20Aruka/1.%20Sword/Sword.gif"/> |
 | :---: |
+
+
+
+
+### [\[Non-FE\] \[M\] Eggman by Saint Rubenio](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Eggman%20by%20Saint%20Rubenio) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Eggman%20by%20Saint%20Rubenio) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Melee (Physical)</b><br/><img alt="Melee (Physical)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Eggman%20by%20Saint%20Rubenio/8.%20Melee%20(Physical)/Melee.gif"/> | <b>Melee (Ranged)</b><br/><img alt="Melee (Ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BNon-FE%5D%20%5BM%5D%20Eggman%20by%20Saint%20Rubenio/8.%20Melee%20(Ranged)/Melee.gif"/> |
+| :---: | :---: |
 
 
 
@@ -3695,13 +3703,6 @@
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20Impaler%20%5BM%5D%20by%20Markex133/2.%20Lance/Lance.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20Impaler%20%5BM%5D%20by%20Markex133/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
-
-
-
-
-### [\[Soldier-Custom\] \[M\] FE10-Style AS Jakka](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20AS%20Jakka) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BSoldier-Custom%5D%20%5BM%5D%20FE10-Style%20AS%20Jakka) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-
 
 
 
@@ -7130,7 +7131,7 @@
 | :---: | :---: | :---: |
 | <b>Axs</b><br/><img alt="Axs" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/3.%20Axs/Axs.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/5.%20Bow/Bow.gif"/> |
 | <b>Bow (CriticalRain)</b><br/><img alt="Bow (CriticalRain)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/5.%20Bow%20(CriticalRain)/Bow.gif"/> | <b>Magic (Dark)</b><br/><img alt="Magic (Dark)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/6.%20Magic%20(Dark)/Magic.gif"/> | <b>Magic (MagicBook)</b><br/><img alt="Magic (MagicBook)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/6.%20Magic%20(MagicBook)/Magic.gif"/> |
-| <b>Staff (Attack)</b><br/><img alt="Staff (Attack)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/7.%20Staff%20(Attack)/Staff.gif"/> | <b>Staff (Short)</b><br/><img alt="Staff (Short)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/7.%20Staff%20(Short)/Staff.gif"/> |
+| <b>Staff (Attack)</b><br/><img alt="Staff (Attack)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/7.%20Staff%20(Attack)/Staff.gif"/> | <b>Staff (Short)</b><br/><img alt="Staff (Short)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/7.%20Staff%20(Short)/Staff.gif"/> | <b>Item (Hado-ken)</b><br/><img alt="Item (Hado-ken)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20%5BF%5D%20T2%20Mahou%20Shoujo%20Princess%20Youli%20by%20Redbean/8.%20Item%20(Hado-ken)/Item.gif"/> |
 
 
 
@@ -7437,7 +7438,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood%20Variant%5D%20%5BF%5D%20Generic%20-Titania%20Knight%20Face%20Edit%20by%207743/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood%20Variant%5D%20%5BF%5D%20Generic%20-Titania%20Knight%20Face%20Edit%20by%207743/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood%20Variant%5D%20%5BF%5D%20Generic%20-Titania%20Knight%20Face%20Edit%20by%207743/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood%20Variant%5D%20%5BF%5D%20Generic%20-Titania%20Knight%20Face%20Edit%20by%207743/4.%20Handaxe/Handaxe.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood%20Variant%5D%20%5BF%5D%20Generic%20-Titania%20Knight%20Face%20Edit%20by%207743/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood%20Variant%5D%20%5BF%5D%20Generic%20-Titania%20Knight%20Face%20Edit%20by%207743/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

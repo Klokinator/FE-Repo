@@ -14,7 +14,7 @@ Original Female General design by RiriK
 
 Repalette by Alice
 
-Magic Axe frames by unknown spriter. Taken from the Repo on October 18th, 2024.
+Magic Axe frames by Tatutachang.
 
 NOTE: Palettes from Vanilla should mostly be compatible with this animation, as the palette order is the same.
 4th Armor color was turned into 3rd hair color.

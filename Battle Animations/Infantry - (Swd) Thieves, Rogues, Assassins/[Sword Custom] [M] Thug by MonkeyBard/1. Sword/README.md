@@ -8,4 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Monkeybard, Miguel-Rojo
+
+1. Sword (Throw) by Enthusiasm.

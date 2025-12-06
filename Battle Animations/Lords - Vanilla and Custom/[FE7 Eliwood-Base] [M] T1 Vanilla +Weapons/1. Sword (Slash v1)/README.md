@@ -31,3 +31,5 @@ Sword Slash V3 by Seliost1.
 Sword StabV3 by Seliost1.
 
 Sword (Alt Crit) by Seliost1.
+
+Sword (Alt Crit 3) by Seliost1.

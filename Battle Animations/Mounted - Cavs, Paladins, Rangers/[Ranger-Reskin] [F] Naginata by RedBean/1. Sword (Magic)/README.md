@@ -8,6 +8,10 @@
 
 ## Credit
 
+F2U/F2E
+
 Animation by RedBean.
 
 Script by 7743.
+
+2. Lance (Throw range) by Seliost1.

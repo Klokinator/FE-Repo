@@ -21,3 +21,7 @@ Repal Fix by MageBoy.
 Eckesachs(No transformation) critical animation：Victor.
 
 Edits by tatutachang.
+
+Sword (Durandal) by Tatata.
+
+Axe (Armads) by Tatata.

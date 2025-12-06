@@ -17,5 +17,4 @@ This animation was made by Epicer.
 
 Female version made by DatonDemand.
 
-Bow (Crouch) by DatonDemand.
 

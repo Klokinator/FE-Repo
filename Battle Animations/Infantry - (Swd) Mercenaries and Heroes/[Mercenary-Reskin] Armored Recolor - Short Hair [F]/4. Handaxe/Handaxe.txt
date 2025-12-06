@@ -1,5 +1,5 @@
 #######################################################
-#01 erlm_sw1 Lord Sword
+#CB lorm_sp1 Mercenary Hand Axe
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -8,18 +8,17 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
-C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C1A                               #Normal hit
 C15                               #Slight vibration of screen
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01                               #NOP
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
@@ -36,20 +35,19 @@ C07                               #Start attack animation; need 03 right before 
 7 p- Handaxe_007.png
 7 p- Handaxe_006.png
 7 p- Handaxe_007.png
-8 p- Handaxe_007.png
-C05                               #Call spell associated with equipped weapon
+8 p- Handaxe_008.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C08                               #Critical hit
 C15                               #Slight vibration of screen
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01                               #NOP
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
@@ -59,18 +57,17 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
-C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C1A                               #Normal hit
 C15                               #Slight vibration of screen
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01                               #NOP
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
@@ -79,7 +76,6 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
-C38                               #Play heavy spear spinning SFE
 9 p- Handaxe_006.png
 7 p- Handaxe_007.png
 7 p- Handaxe_006.png
@@ -88,20 +84,19 @@ C38                               #Play heavy spear spinning SFE
 7 p- Handaxe_007.png
 7 p- Handaxe_006.png
 7 p- Handaxe_007.png
-8 p- Handaxe_007.png
-C05                               #Call spell associated with equipped weapon
+8 p- Handaxe_008.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C08                               #Critical hit
 C15                               #Slight vibration of screen
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01                               #NOP
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
@@ -110,10 +105,10 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Handaxe_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Handaxe_008.png
-1 p- Handaxe_009.png
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
 C01                               #NOP
-3 p- Handaxe_008.png
+3 p- Handaxe_009.png
 1 p- Handaxe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -121,10 +116,10 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C02                               #Start of dodge
 1 p- Handaxe_000.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
-3 p- Handaxe_008.png
-1 p- Handaxe_009.png
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
 C01                               #NOP
-3 p- Handaxe_008.png
+3 p- Handaxe_009.png
 1 p- Handaxe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
@@ -145,18 +140,17 @@ C03                               #Start attack animation; need 07 right after t
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
-C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C1A                               #Normal hit
 C15                               #Slight vibration of screen
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C05                               #Call spell associated with equipped weapon
 5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01                               #NOP
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06

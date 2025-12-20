@@ -1,5 +1,13 @@
 # [Mounted - Pegs, Wyverns, Griffons Battle Animations](./)
 
+## [\[Griffon\] Valkyr \[F\] by DatonDemand, Ayr, What's anAubin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20Valkyr%20%5BF%5D%20by%20DatonDemand,%20Ayr,%20What's%20anAubin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20Valkyr%20%5BF%5D%20by%20DatonDemand,%20Ayr,%20What's%20anAubin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20Valkyr%20%5BF%5D%20by%20DatonDemand,%20Ayr,%20What's%20anAubin/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20Valkyr%20%5BF%5D%20by%20DatonDemand,%20Ayr,%20What's%20anAubin/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Griffon\] \[U\] Arbalest - Tribalest](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20-%20Tribalest) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20-%20Tribalest) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20-%20Tribalest/2.%20Lance/Lance.gif"/> | <b>Lance (Black Eyes)</b><br/><img alt="Lance (Black Eyes)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20-%20Tribalest/2.%20Lance%20(Black%20Eyes)/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/%5BGriffon%5D%20%5BU%5D%20Arbalest%20-%20Tribalest/5.%20Bow/Bow.gif"/> |

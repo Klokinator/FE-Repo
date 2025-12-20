@@ -75,6 +75,22 @@
 
 
 
+## [\[Custom DM\] Idunn Mage \(Sealed\) \[F\] by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Idunn%20Mage%20(Sealed)%20%5BF%5D%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Idunn%20Mage%20(Sealed)%20%5BF%5D%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Idunn%20Mage%20(Sealed)%20%5BF%5D%20by%20Dejais/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
+## [\[Custom DM\] Idunn Mage \[F\] by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Idunn%20Mage%20%5BF%5D%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Idunn%20Mage%20%5BF%5D%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Idunn%20Mage%20%5BF%5D%20by%20Dejais/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Custom DM\] Niime \[F\] by Dachi](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Niime%20%5BF%5D%20by%20Dachi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Niime%20%5BF%5D%20by%20Dachi) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Niime%20%5BF%5D%20by%20Dachi/6.%20Magic/Magic.gif"/> | <b>Magic (Druid's circle crit)</b><br/><img alt="Magic (Druid's circle crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Niime%20%5BF%5D%20by%20Dachi/6.%20Magic%20(Druid's%20circle%20crit)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Niime%20%5BF%5D%20by%20Dachi/7.%20Staff/Staff.gif"/> |
@@ -95,6 +111,14 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Sophia%20%5BF%5D%20by%20Redbean/6.%20Magic/Magic.gif"/> | <b>Magic (Shaman style)</b><br/><img alt="Magic (Shaman style)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Sophia%20%5BF%5D%20by%20Redbean/6.%20Magic%20(Shaman%20style)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BCustom%20DM%5D%20Sophia%20%5BF%5D%20by%20Redbean/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Druid-Reskin\] \[M\] Horned Druid by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BDruid-Reskin%5D%20%5BM%5D%20Horned%20Druid%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BDruid-Reskin%5D%20%5BM%5D%20Horned%20Druid%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BDruid-Reskin%5D%20%5BM%5D%20Horned%20Druid%20by%20Dejais/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BDruid-Reskin%5D%20%5BM%5D%20Horned%20Druid%20by%20Dejais/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
 
 
 
@@ -198,9 +222,10 @@
 
 ## [\[T2 Druid-Base\] Vanilla FE6-8 \[M\]](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/6.%20Magic/Magic.gif"/> | <b>Magic (Lowered Arm)</b><br/><img alt="Magic (Lowered Arm)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/6.%20Magic%20(Lowered%20Arm)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/7.%20Staff/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff (Athos tilt)</b><br/><img alt="Staff (Athos tilt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/7.%20Staff%20(Athos%20tilt)/Staff.gif"/> | <b>Staff (Athos)</b><br/><img alt="Staff (Athos)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/7.%20Staff%20(Athos)/Staff.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/6.%20Magic/Magic.gif"/> | <b>Magic (Lowered Arm)</b><br/><img alt="Magic (Lowered Arm)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/6.%20Magic%20(Lowered%20Arm)/Magic.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/7.%20Staff/Staff.gif"/> | <b>Staff (Athos tilt)</b><br/><img alt="Staff (Athos tilt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/7.%20Staff%20(Athos%20tilt)/Staff.gif"/> | <b>Staff (Athos)</b><br/><img alt="Staff (Athos)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Druid-Base%5D%20Vanilla%20FE6-8%20%5BM%5D/7.%20Staff%20(Athos)/Staff.gif"/> |
 
 
 

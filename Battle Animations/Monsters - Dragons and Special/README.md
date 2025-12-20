@@ -90,6 +90,22 @@
 
 
 
+## [\[Dragon-Custom\] \[F\] Grima and Robin by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BF%5D%20Grima%20and%20Robin%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BF%5D%20Grima%20and%20Robin%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BF%5D%20Grima%20and%20Robin%20by%20Dejais/8.%20Monster/Monster.gif"/> |
+| :---: |
+
+
+
+
+## [\[Dragon-Custom\] \[U\] Anankos by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Anankos%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Anankos%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Anankos%20by%20Dejais/8.%20Monster/Monster.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Dragon-Custom\] \[U\] Bantu - Heroes by Norikins](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Bantu%20-%20Heroes%20by%20Norikins) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Bantu%20-%20Heroes%20by%20Norikins) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Bantu%20-%20Heroes%20by%20Norikins/8.%20Monster/Monster.gif"/> |
@@ -695,6 +711,14 @@
 
 
 
+## [\[Monster-Custom\] \[M\] Human Fomortiis by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Human%20Fomortiis%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Human%20Fomortiis%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Human%20Fomortiis%20by%20Dejais/8.%20Monster/Monster.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Monster-Custom\] \[M\] Sylph by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Sylph%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Sylph%20by%20Alexsplode) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Sylph%20by%20Alexsplode/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Sylph%20by%20Alexsplode/7.%20Staff/Staff.gif"/> |
@@ -810,6 +834,14 @@
 ## [\[Monster-Custom\] \[U\] Dragon Horse - Longma by Sphealnuke](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Dragon%20Horse%20-%20Longma%20by%20Sphealnuke) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Dragon%20Horse%20-%20Longma%20by%20Sphealnuke) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Dragon%20Horse%20-%20Longma%20by%20Sphealnuke/6.%20Magic/Magic.gif"/> | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Dragon%20Horse%20-%20Longma%20by%20Sphealnuke/8.%20Dragonstone/Dragonstone.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Monster-Custom\] \[U\] Eclipse Mage by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Eclipse%20Mage%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Eclipse%20Mage%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Eclipse%20Mage%20by%20Dejais/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Eclipse%20Mage%20by%20Dejais/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 

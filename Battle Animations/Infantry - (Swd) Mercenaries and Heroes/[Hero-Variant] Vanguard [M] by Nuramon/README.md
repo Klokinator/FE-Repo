@@ -12,3 +12,5 @@ F2U/F2E
 
 Animation by Nuramon.
 
+Sword and Axe (Flip on Crit) edit by CasualElf).
+

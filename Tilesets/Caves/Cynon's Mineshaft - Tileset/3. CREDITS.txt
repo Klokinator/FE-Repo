@@ -8,7 +8,7 @@ This tileset has type 1 and type 2 animations, most of the type 2 animations put
 
 I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever changes you like -- I'd imagine some terrain types might not be quite so useful with the lava palette! 
 
-I plan on making battle platforms to go with the various terrain types here; there's a lot more terrain types used here than is typical for cave tilesets.
+I made battle platforms for this tileset, but (at time of writing) only for the Navy Blue palettes. If you want to use them for some of the other palettes, you'll have to do it yourself, but that's a very simple process.
 
 I also endorse converting this tileset to be used in other engines.
 
@@ -20,4 +20,4 @@ Uses tiles adapted and modified from;
 - RPG Maker 2000
 - RPG Maker 2003
 - Pokemon Gold/Silver/Crystal
-- Treasure of the Rudras (one of the water tiles)
+- Treasure of the Rudras (some of the water tiles)

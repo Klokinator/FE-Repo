@@ -9,3 +9,5 @@
 ## Credit
 
 Made by Pwnagekirby, aka Charlotte.
+
+Sword (Alt Crit) by Seliost1.

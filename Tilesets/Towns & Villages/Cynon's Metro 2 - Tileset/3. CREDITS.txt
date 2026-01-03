@@ -3,6 +3,7 @@ Cynon's Metro 2 Tilesets by Cynon
 Additional credits:
 - GoudaGrabber (Assistance with the rolling stock on the train, downwards stairway facing north)
 - WaVe (The building style was borrowed from WaVe's earlier work)
+- Atlas (the Atlas's Nighttime palette)
 
 ---
 Using these tilesets;

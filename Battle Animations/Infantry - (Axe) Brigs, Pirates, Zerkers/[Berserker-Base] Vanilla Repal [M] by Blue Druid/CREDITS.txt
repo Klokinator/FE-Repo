@@ -5,3 +5,11 @@ Original Berserker by IS.
 Repalette by Blue Druid.
 
 Magic Axe by Raulster/Alice. Inspired by DerTheVaporeon's Berserker animation.
+
+Smoothed Versions by UltraFenix, using as base:
+DerTheVaporeon's Berserker animation.
+Berserker Rider by Zoramine.
+CentaurZerker by Alexsplode.
+Juggernaut by Sphealnuke.
+
+New Spin axe frames by Jeorge Reds (with permission)

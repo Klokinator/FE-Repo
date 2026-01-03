@@ -21,3 +21,5 @@ Magic by DerTheVaporeon.
 Magic (Thunder Shield) by RRSKAI.
 
 Magic Axe animations UltraFenix.
+
+Sword (Alt Range), Lance (Alt Range), Lance (Chainless), Handaxe (Revamped V2.0), Magic (Alt), 7. Staff - All by UltraFenix.

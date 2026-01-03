@@ -8,4 +8,8 @@
 
 ## Credit
 
+F2U/F2E
 
+Animation by Vilkalizer.
+
+Magic Script by UltraFenix.

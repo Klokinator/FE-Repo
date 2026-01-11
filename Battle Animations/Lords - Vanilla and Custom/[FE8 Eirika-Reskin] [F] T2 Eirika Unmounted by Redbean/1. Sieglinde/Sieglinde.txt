@@ -1,0 +1,324 @@
+#######################################################
+#11 myrm_sw1 Myrmidon Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Sieglinde_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Sieglinde_000.png
+2 p- Sieglinde_001.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Sieglinde_002.png
+3 p- Sieglinde_003.png
+C28                               #Play electrical charging SFE
+2 p- Sieglinde_004.png
+3 p- Sieglinde_005.png
+2 p- Sieglinde_006.png
+3 p- Sieglinde_007.png
+5 p- Sieglinde_003.png
+2 p- Sieglinde_008.png
+3 p- Sieglinde_009.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Sieglinde_010.png
+3 p- Sieglinde_011.png
+4 p- Sieglinde_012.png
+C24                               #Play sword slashing air SFE
+2 p- Sieglinde_013.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+2 p- Sieglinde_014.png
+2 p- Sieglinde_015.png
+2 p- Sieglinde_016.png
+2 p- Sieglinde_017.png
+1 p- Sieglinde_018.png
+C01                               #NOP
+3 p- Sieglinde_019.png
+3 p- Sieglinde_020.png
+5 p- Sieglinde_021.png
+C25                               #Play wing flap SFE
+2 p- Sieglinde_022.png
+3 p- Sieglinde_023.png
+2 p- Sieglinde_024.png
+3 p- Sieglinde_025.png
+1 p- Sieglinde_026.png
+2 p- Sieglinde_027.png
+2 p- Sieglinde_028.png
+1 p- Sieglinde_029.png
+1 p- Sieglinde_030.png
+2 p- Sieglinde_031.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Sieglinde_032.png
+3 p- Sieglinde_033.png
+2 p- Sieglinde_034.png
+4 p- Sieglinde_035.png
+3 p- Sieglinde_036.png
+3 p- Sieglinde_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- Sieglinde_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Sieglinde_000.png
+C23                               #Play shorter sword swinging SFE
+2 p- Sieglinde_037.png
+2 p- Sieglinde_038.png
+2 p- Sieglinde_039.png
+C23                               #Play shorter sword swinging SFE
+2 p- Sieglinde_040.png
+2 p- Sieglinde_041.png
+C23                               #Play shorter sword swinging SFE
+3 p- Sieglinde_042.png
+7 p- Sieglinde_043.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Sieglinde_044.png
+5 p- Sieglinde_003.png
+C28                               #Play electrical charging SFE
+2 p- Sieglinde_045.png
+2 p- Sieglinde_046.png
+2 p- Sieglinde_047.png
+2 p- Sieglinde_048.png
+2 p- Sieglinde_049.png
+2 p- Sieglinde_050.png
+2 p- Sieglinde_051.png
+2 p- Sieglinde_052.png
+2 p- Sieglinde_047.png
+2 p- Sieglinde_048.png
+2 p- Sieglinde_049.png
+5 p- Sieglinde_053.png
+2 p- Sieglinde_054.png
+C44                               #Play short "light emission" SFE
+3 p- Sieglinde_055.png
+2 p- Sieglinde_056.png
+3 p- Sieglinde_057.png
+2 p- Sieglinde_058.png
+3 p- Sieglinde_059.png
+2 p- Sieglinde_060.png
+3 p- Sieglinde_061.png
+7 p- Sieglinde_062.png
+3 p- Sieglinde_063.png
+5 p- Sieglinde_064.png
+C25                               #Play wing flap SFE
+2 p- Sieglinde_065.png
+2 p- Sieglinde_066.png
+2 p- Sieglinde_067.png
+3 p- Sieglinde_068.png
+2 p- Sieglinde_069.png
+3 p- Sieglinde_070.png
+2 p- Sieglinde_071.png
+3 p- Sieglinde_072.png
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+3 p- Sieglinde_073.png
+3 p- Sieglinde_074.png
+2 p- Sieglinde_075.png
+2 p- Sieglinde_076.png
+3 p- Sieglinde_077.png
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+3 p- Sieglinde_078.png
+2 p- Sieglinde_079.png
+2 p- Sieglinde_080.png
+3 p- Sieglinde_081.png
+3 p- Sieglinde_082.png
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+2 p- Sieglinde_083.png
+2 p- Sieglinde_084.png
+3 p- Sieglinde_085.png
+3 p- Sieglinde_086.png
+2 p- Sieglinde_087.png
+2 p- Sieglinde_088.png
+3 p- Sieglinde_089.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C0C                               #Critical hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+2 p- Sieglinde_090.png
+2 p- Sieglinde_091.png
+2 p- Sieglinde_092.png
+2 p- Sieglinde_093.png
+1 p- Sieglinde_018.png
+C01                               #NOP
+3 p- Sieglinde_019.png
+3 p- Sieglinde_020.png
+5 p- Sieglinde_021.png
+C25                               #Play wing flap SFE
+2 p- Sieglinde_022.png
+3 p- Sieglinde_023.png
+2 p- Sieglinde_024.png
+3 p- Sieglinde_025.png
+1 p- Sieglinde_026.png
+2 p- Sieglinde_027.png
+2 p- Sieglinde_028.png
+1 p- Sieglinde_029.png
+1 p- Sieglinde_030.png
+2 p- Sieglinde_031.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Sieglinde_032.png
+3 p- Sieglinde_033.png
+2 p- Sieglinde_034.png
+4 p- Sieglinde_035.png
+3 p- Sieglinde_036.png
+3 p- Sieglinde_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+1 p- Sieglinde_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Sieglinde_000.png
+C22                               #Play short sword swinging SFE
+1 p- Sieglinde_094.png
+2 p- Sieglinde_095.png
+10 p- Sieglinde_096.png
+2 p- Sieglinde_097.png
+2 p- Sieglinde_098.png
+2 p- Sieglinde_096.png
+2 p- Sieglinde_097.png
+2 p- Sieglinde_098.png
+C05                               #Call spell associated with equipped weapon
+1 p- Sieglinde_096.png
+C01                               #NOP
+3 p- Sieglinde_095.png
+2 p- Sieglinde_094.png
+3 p- Sieglinde_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+1 p- Sieglinde_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Sieglinde_000.png
+C23                               #Play shorter sword swinging SFE
+2 p- Sieglinde_037.png
+2 p- Sieglinde_038.png
+2 p- Sieglinde_039.png
+C23                               #Play shorter sword swinging SFE
+2 p- Sieglinde_040.png
+2 p- Sieglinde_041.png
+C23                               #Play shorter sword swinging SFE
+3 p- Sieglinde_042.png
+7 p- Sieglinde_043.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Sieglinde_044.png
+5 p- Sieglinde_003.png
+C28                               #Play electrical charging SFE
+2 p- Sieglinde_045.png
+2 p- Sieglinde_046.png
+2 p- Sieglinde_047.png
+2 p- Sieglinde_048.png
+2 p- Sieglinde_049.png
+2 p- Sieglinde_050.png
+2 p- Sieglinde_051.png
+2 p- Sieglinde_052.png
+2 p- Sieglinde_047.png
+2 p- Sieglinde_048.png
+2 p- Sieglinde_049.png
+5 p- Sieglinde_003.png
+C22                               #Play short sword swinging SFE
+2 p- Sieglinde_095.png
+C05                               #Call spell associated with equipped weapon
+L                                 #LOOPSTART {
+2 p- Sieglinde_098.png
+2 p- Sieglinde_099.png
+2 p- Sieglinde_097.png
+C01                               #LOOPEND }  NOP
+12 p- Sieglinde_096.png
+3 p- Sieglinde_095.png
+2 p- Sieglinde_094.png
+3 p- Sieglinde_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+1 p- Sieglinde_000.png
+C02                               #Start of dodge
+3 p- Sieglinde_100.png
+1 p- Sieglinde_101.png
+C01                               #NOP
+3 p- Sieglinde_100.png
+3 p- Sieglinde_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+1 p- Sieglinde_000.png
+C02                               #Start of dodge
+3 p- Sieglinde_100.png
+1 p- Sieglinde_101.png
+C01                               #NOP
+3 p- Sieglinde_100.png
+3 p- Sieglinde_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+2 p- Sieglinde_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+2 p- Sieglinde_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+2 p- Sieglinde_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+1 p- Sieglinde_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+3 p- Sieglinde_000.png
+2 p- Sieglinde_001.png
+C43                               #Play weapon stance SFE (Clicking noise)
+2 p- Sieglinde_002.png
+3 p- Sieglinde_003.png
+C28                               #Play electrical charging SFE
+2 p- Sieglinde_004.png
+3 p- Sieglinde_005.png
+2 p- Sieglinde_006.png
+3 p- Sieglinde_007.png
+5 p- Sieglinde_003.png
+2 p- Sieglinde_008.png
+3 p- Sieglinde_009.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Sieglinde_010.png
+3 p- Sieglinde_011.png
+4 p- Sieglinde_012.png
+C24                               #Play sword slashing air SFE
+2 p- Sieglinde_013.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+2 p- Sieglinde_014.png
+2 p- Sieglinde_015.png
+2 p- Sieglinde_016.png
+2 p- Sieglinde_017.png
+1 p- Sieglinde_018.png
+C01                               #NOP
+3 p- Sieglinde_019.png
+3 p- Sieglinde_020.png
+5 p- Sieglinde_021.png
+C25                               #Play wing flap SFE
+2 p- Sieglinde_022.png
+3 p- Sieglinde_023.png
+2 p- Sieglinde_024.png
+3 p- Sieglinde_025.png
+1 p- Sieglinde_026.png
+2 p- Sieglinde_027.png
+2 p- Sieglinde_028.png
+1 p- Sieglinde_029.png
+1 p- Sieglinde_030.png
+2 p- Sieglinde_031.png
+C1B                               #Play quick "heavy step" SFE
+2 p- Sieglinde_032.png
+3 p- Sieglinde_033.png
+2 p- Sieglinde_034.png
+4 p- Sieglinde_035.png
+3 p- Sieglinde_036.png
+3 p- Sieglinde_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

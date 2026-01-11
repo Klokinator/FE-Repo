@@ -3,18 +3,17 @@ C03
 C07
 1 p- Handaxe_000.png
 C42
-C05
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C1A
 C15
-C04
-C1F
+C05
 5 p- Handaxe_004.png
+C13
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06
 C0D
@@ -31,20 +30,19 @@ C07
 7 p- Handaxe_007.png
 7 p- Handaxe_006.png
 7 p- Handaxe_007.png
-8 p- Handaxe_007.png
-C05
+8 p- Handaxe_008.png
 C42
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C08
 C15
-C04
-C1F
+C05
 5 p- Handaxe_004.png
+C13
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06
 C0D
@@ -54,18 +52,17 @@ C03
 C07
 1 p- Handaxe_000.png
 C42
-C05
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C1A
 C15
-C04
-C1F
+C05
 5 p- Handaxe_004.png
+C13
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06
 C0D
@@ -74,7 +71,6 @@ C0D
 C03
 C07
 1 p- Handaxe_000.png
-C38
 9 p- Handaxe_006.png
 7 p- Handaxe_007.png
 7 p- Handaxe_006.png
@@ -83,20 +79,19 @@ C38
 7 p- Handaxe_007.png
 7 p- Handaxe_006.png
 7 p- Handaxe_007.png
-8 p- Handaxe_007.png
-C05
+8 p- Handaxe_008.png
 C42
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C08
 C15
-C04
-C1F
+C05
 5 p- Handaxe_004.png
+C13
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06
 C0D
@@ -105,10 +100,10 @@ C0D
 C02
 1 p- Handaxe_000.png
 C0E
-3 p- Handaxe_008.png
-1 p- Handaxe_009.png
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
 C01
-3 p- Handaxe_008.png
+3 p- Handaxe_009.png
 1 p- Handaxe_000.png
 C0D
 ~~~
@@ -116,10 +111,10 @@ C0D
 C02
 1 p- Handaxe_000.png
 C0E
-3 p- Handaxe_008.png
-1 p- Handaxe_009.png
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
 C01
-3 p- Handaxe_008.png
+3 p- Handaxe_009.png
 1 p- Handaxe_000.png
 C0D
 ~~~
@@ -140,18 +135,17 @@ C03
 C07
 1 p- Handaxe_000.png
 C42
-C05
 5 p- Handaxe_001.png
 4 p- Handaxe_002.png
 2 p- Handaxe_003.png
-C1A
 C15
-C04
-C1F
+C05
 5 p- Handaxe_004.png
+C13
 4 p- Handaxe_005.png
 6 p- Handaxe_002.png
 C01
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
 C06
 C0D

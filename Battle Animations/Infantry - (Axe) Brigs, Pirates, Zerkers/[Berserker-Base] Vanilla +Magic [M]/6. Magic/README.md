@@ -15,3 +15,13 @@ Original Berserker by IS.
 Magic and Staff animations by Orihara_Saki.
 
 Axe (+Handaxe) by Yerek.
+
+Sword & Sword (Durandal) by tatata.
+
+Lance by tatata.
+
+Axe (Armads) by tatata.
+
+Bow & Bow (Arm Raise) by tatata.
+
+Unarmed(Archers) by tatata.

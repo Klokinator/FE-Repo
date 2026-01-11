@@ -15,3 +15,5 @@ This animation is based on/edited from the following animations:
 
 This animation was made by Epicer.
 
+Bow (Crouch) by DatonDemand.
+

@@ -1,5 +1,5 @@
 #######################################################
-#08 Unarmed Great Lord Sword
+#48 genm_al1 General Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

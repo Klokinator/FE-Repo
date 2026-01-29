@@ -15,3 +15,5 @@ Axe/Handaxe by Skitty and Pushwall.
 Bow by DerTheVaporeon, Kao, and Aurora.
 
 2. Lance (Ranged magic) by Seliost1.
+
+Unarmed (Mount only) by tatata.

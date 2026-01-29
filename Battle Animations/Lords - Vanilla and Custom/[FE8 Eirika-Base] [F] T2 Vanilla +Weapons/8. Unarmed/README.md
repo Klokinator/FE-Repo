@@ -12,4 +12,6 @@ Repalette by Teraspark.
 
 Knife by ShadowAllyX
 
-Big thanks to Toji Magia for the edits
+Big thanks to Toji Magia for the edits.
+
+Unarmed (Mount only) by tatata.

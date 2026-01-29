@@ -18,6 +18,10 @@ Note that while this animation is in the repo and was 'made' by the creators of 
 
 Unarmed animation by Seliost1.
 
+Astra crit by Seliost1.
+
 Repalette by GigaExcalibur.
 
 Sword (Fixed hand) is a small edit to change the color on the hand. By Seliost1.
+
+Unarmed (fixed palette) is a small edit to change the color on the clothes. By Seliost1.

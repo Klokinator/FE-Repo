@@ -13,3 +13,5 @@ Made by Yangfly Master and Kramnaugh.
 Palette and dodge fix by RiriK.
 
 Sword (Alt Crit) and Sword (Fix) by Seliost1.
+
+Sword (Alt Crit 2) by Seliost1. 

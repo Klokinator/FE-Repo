@@ -17,3 +17,7 @@ Bow by Spud. Alternate dodge frame version by TytheBub.
 Durandal Beta Slash edit by TytheBub.
 
 Axe & Handaxe by TytheBub.
+
+Sword by (Durandal offical design).
+
+Unarmed (Mount only) by tatata.

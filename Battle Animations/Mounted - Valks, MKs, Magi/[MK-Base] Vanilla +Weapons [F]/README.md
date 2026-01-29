@@ -3,7 +3,7 @@
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/1.%20Sword%20(Rapidslash-crit)/Sword.gif"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/1.%20Sword%20(Thunder-crit)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Lance (Seliost1)</b><br/><img alt="Lance (Seliost1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/2.%20Lance%20(Seliost1)/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/6.%20Magic/Magic.gif"/> | <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/6.%20Magic%20(Sword)/Magic.gif"/> |
-| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/7.%20Staff/Staff.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/7.%20Staff/Staff.gif"/> | <b>Unarmed (Mount only)</b><br/><img alt="Unarmed (Mount only)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/8.%20Unarmed%20(Mount%20only)/Unarmed.gif"/> |
 
 ## Credits
 
@@ -20,4 +20,6 @@ Magic (Sword) by Seal, Sacred War.
 Lance based on Teraspark's male version ported by Merpin.
 
 Lance (Seliost1) by Seliost1.
+
+Unarmed (Mount only) by tatata.
 

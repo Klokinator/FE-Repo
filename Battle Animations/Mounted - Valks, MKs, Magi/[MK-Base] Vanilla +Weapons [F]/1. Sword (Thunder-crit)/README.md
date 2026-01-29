@@ -21,3 +21,5 @@ Magic (Sword) by Seal, Sacred War.
 Lance based on Teraspark's male version ported by Merpin.
 
 Lance (Seliost1) by Seliost1.
+
+Unarmed (Mount only) by tatata.

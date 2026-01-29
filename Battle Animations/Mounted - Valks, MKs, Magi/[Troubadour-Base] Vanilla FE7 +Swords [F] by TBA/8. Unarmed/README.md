@@ -13,3 +13,5 @@ F2U/F2E
 Vanilla animation by IS.
 
 Sword by TheBlindArcher.
+
+Unarmed (Mount only) by tatata.

@@ -23,3 +23,5 @@ Axe (With Handaxe) was combined by Seliost1.
 Sword (Durandal) by Tatata.
 
 Axe (Armads) by Tatata.
+
+Unarmed (Mount only) by tatata.

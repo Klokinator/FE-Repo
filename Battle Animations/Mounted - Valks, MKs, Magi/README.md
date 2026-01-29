@@ -91,7 +91,7 @@
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/1.%20Sword%20(Rapidslash-crit)/Sword.gif"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/1.%20Sword%20(Thunder-crit)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/2.%20Lance/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Lance (Seliost1)</b><br/><img alt="Lance (Seliost1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/2.%20Lance%20(Seliost1)/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/6.%20Magic/Magic.gif"/> | <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/6.%20Magic%20(Sword)/Magic.gif"/> |
-| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/7.%20Staff/Staff.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/7.%20Staff/Staff.gif"/> | <b>Unarmed (Mount only)</b><br/><img alt="Unarmed (Mount only)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BF%5D/8.%20Unarmed%20(Mount%20only)/Unarmed.gif"/> |
 
 
 
@@ -101,6 +101,7 @@
 | <b>Sword (Rapidslash-crit)</b><br/><img alt="Sword (Rapidslash-crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BM%5D/1.%20Sword%20(Rapidslash-crit)/Sword.gif"/> | <b>Sword (Thunder-crit)</b><br/><img alt="Sword (Thunder-crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BM%5D/1.%20Sword%20(Thunder-crit)/Sword.gif"/> | <b>Lance {Teraspark}</b><br/><img alt="Lance {Teraspark}" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BM%5D/2.%20Lance%20%7BTeraspark%7D/Lance.gif"/> |
 | :---: | :---: | :---: |
 | <b>Magic (+FE7 Compatible)</b><br/><img alt="Magic (+FE7 Compatible)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BM%5D/6.%20Magic%20(+FE7%20Compatible)/Magic.gif"/> | <b>Magic (Sword)</b><br/><img alt="Magic (Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BM%5D/6.%20Magic%20(Sword)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BM%5D/7.%20Staff/Staff.gif"/> |
+| <b>Unarmed (Mount only)</b><br/><img alt="Unarmed (Mount only)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20Vanilla%20+Weapons%20%5BM%5D/8.%20Unarmed%20(Mount%20only)/Unarmed.gif"/> |
 
 
 
@@ -211,6 +212,22 @@
 
 
 
+## [\[MK-Variant\] Fire Caster MK \[F\] by Tíxamas](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BF%5D%20by%20T%C3%ADxamas) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BF%5D%20by%20T%C3%ADxamas) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BF%5D%20by%20T%C3%ADxamas/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BF%5D%20by%20T%C3%ADxamas/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[MK-Variant\] Fire Caster MK \[M\] by Tíxamas](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BM%5D%20by%20T%C3%ADxamas) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BM%5D%20by%20T%C3%ADxamas) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BM%5D%20by%20T%C3%ADxamas/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Fire%20Caster%20MK%20%5BM%5D%20by%20T%C3%ADxamas/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[MK-Variant\] Holy Knight \[F\] by Teraspark](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Holy%20Knight%20%5BF%5D%20by%20Teraspark) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Holy%20Knight%20%5BF%5D%20by%20Teraspark) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Holy%20Knight%20%5BF%5D%20by%20Teraspark/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Variant%5D%20Holy%20Knight%20%5BF%5D%20by%20Teraspark/7.%20Staff/Staff.gif"/> |
@@ -239,6 +256,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Base%5D%20Vanilla%20FE7%20+Swords%20%5BF%5D%20by%20TBA/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Base%5D%20Vanilla%20FE7%20+Swords%20%5BF%5D%20by%20TBA/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Base%5D%20Vanilla%20FE7%20+Swords%20%5BF%5D%20by%20TBA/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed (Mount only)</b><br/><img alt="Unarmed (Mount only)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Base%5D%20Vanilla%20FE7%20+Swords%20%5BF%5D%20by%20TBA/8.%20Unarmed%20(Mount%20only)/Unarmed.gif"/> |
 
 
 

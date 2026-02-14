@@ -19,3 +19,5 @@ Sword (Magic Flash) by The_Big_Dededester.
 Chainless Lance and Chained Sword by Pushwall, spliced from knabepicer's vanilla General versions.
 
 Magic by DerTheVaporeon.
+
+Bow and Unarmed (No Shield) by tatata.

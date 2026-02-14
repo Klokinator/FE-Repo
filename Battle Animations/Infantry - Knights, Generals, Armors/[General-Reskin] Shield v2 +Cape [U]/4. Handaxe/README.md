@@ -21,3 +21,5 @@ Magic by DerTheVaporeon.
 Magic Axe animations UltraFenix.
 
 Staff by SaintRubenio.
+
+Bow and Unarmed (No Shield) by tatata.

@@ -33,3 +33,5 @@ Sword (Durandal) animation by tatata.
 Axe (Armads) (Chain) animation by tatata.
 
 Axe (Armads) (Swing) animation by tatata.
+
+Sword and Axe (V2) animation by tatata. (P.S. Changed the general’s attack animations from Sword_011.png to Sword_016.png and Axe_011.png to Axe_017.png.)

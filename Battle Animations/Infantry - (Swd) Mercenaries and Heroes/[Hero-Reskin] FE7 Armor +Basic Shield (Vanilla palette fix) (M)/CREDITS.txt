@@ -1,0 +1,5 @@
+F2U/F2E
+
+Animation by tatata.
+
+Note: The Durandal and Armads animations are huge, so you might encounter animation errors. It’s best to use V2.

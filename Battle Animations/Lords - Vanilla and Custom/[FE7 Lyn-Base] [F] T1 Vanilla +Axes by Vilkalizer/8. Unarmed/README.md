@@ -16,3 +16,4 @@ Sword (Katana) by Seliost1.
 
 Sword (Longsword) by Seliost1.
 
+Bow by Seliost1.

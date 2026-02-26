@@ -1,16 +1,25 @@
-Made by Cynon
+Cynon's Metro 2 Tilesets by Cynon
 
 Additional credits:
 - GoudaGrabber (Assistance with the rolling stock on the train, downwards stairway facing north)
 - WaVe (The building style was borrowed from WaVe's earlier work)
+- Atlas (the Atlas's Nighttime palette)
 
-This is not a replacement for the other metropolis tileset I submitted awhile ago. This tileset allows for a much larger geographic space to be depicted without making maps larger than they need to be. In other words, if you want to show two east/west streets with 4 buildings on each street, you can use fewer tiles to do that with this tileset. You can theoretically use both metropolis tilesets in the same project at the same time, depending on your needs. It uses almost the exact same palettes (I think there's only one color on palette 1 that's different) that the other metropolis tileset does. This one is more... vanilla FE adjacent, if that makes any sense. There's a lot more variance in terrain types with this as well, so this might lead to more interesting maps from a gameplay perspective. While this works best for large urban areas, there's enough here for it to be usable for agricultural towns as well, I included some wheat field tiles to help with that. 
+---
+Using these tilesets;
+All three variants of the metro 2 tileset use the exact same object palette, and it can very easily be used to make other variants as needed. I have no problems with people making their own versions as needed for their projects. I also endorse converting these tilesets for other engines as needed.
+- The normal version is for most densely populated urban centers. Multi-story buildings with the occasional train crossing. 
+- The suburban version is for more agricultural towns on the outer edges of large cities, or even just for rural towns. A lot of one-story buildings here and dirt roads. 
+- The rail yard version is for rail yards, places where freight trains get loaded, unloaded, and stored when they're not in use. As you might expect, this version has a lot of extra tiles for trains in very close proximity to each other. 
+- There may be more versions in the future depending on needs and feedback I get on these.
+
+If you don't plan on using the trains and train track tiles, then ignore this paragraph. The train tracks tiles all use terrain type 0x2C. You will need to make it so units can walk/fly over terrain 0x2C. If you don't, I recommend you edit the tile configuration, and change all train tracks tiles to use either terrain type 0x11 (Hill) or 0x40 (Deck). 
 
 Battle platforms meant for this tileset can be found in the battle platforms section. Look for the Dark Cobblestone/Dirty Castle sets -- should be more than enough there, including train track platforms.
 
-Tileset is not exactly finished but should be completely usable as-is. I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever palette changes you like. 
+All of these tilesets are still unfinished, but should be completely usable as-is. I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever palette changes you like. 
 
-I also endorse converting this tileset to be used in other engines.
+---
 
 Uses tiles adapted and modified from;
 - Final Fantasy 4, 5, and 6 (SNES)
@@ -18,9 +27,18 @@ Uses tiles adapted and modified from;
 - RPG Maker 2000
 - RPG Maker 2003
 - Pokemon Gold/Silver/Crystal
+- Pokemon TCG2
 
-Known issues;
-- Not many one-story buildings.
-- The one-story buildings look a little awkward next to the multistory buildings. This might be an unavoidable problem.
-- Lack of space on the tileset for placing river tiles -- this can be solved without changing the object palette, but that might be for another tileset.
+---
+Tileset strengths;
+- Extremely easy to make your own palettes, especially if you don't like the colors I used for the rooftops.
+- Extremely modular and versatile. 
+- Ease of creating maps -- it should be pretty easy to make a decent map with this tileset. 
+---
+
+Known issues:
+- No river tiles. These exist on the object palette already and will likely be re-added to the suburban tileset (or just another variant of it).
+- Some roof tiles don't exist in every color. Admittedly a minor problem.
 - West/East door tiles will look a bit awkward. 
+- West/East stairs will also look a bit awkward because there's no pillar tiles for either side of a staircase like there are in the vanilla tiles.
+- There's probably some unused/unusable tiles on these that I've forgotten to get rid of.

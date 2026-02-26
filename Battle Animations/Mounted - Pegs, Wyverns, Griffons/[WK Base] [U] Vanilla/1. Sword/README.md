@@ -18,4 +18,8 @@ Bow by ltranc.
 
 Magic by SaintRubenio.
 
+Unarmed (Mount only) by tatata.
+
 This edit uses the vanilla color and equalizes the color palettes for all the animations.
+
+

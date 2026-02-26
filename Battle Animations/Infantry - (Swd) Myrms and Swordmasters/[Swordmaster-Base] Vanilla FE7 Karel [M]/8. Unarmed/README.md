@@ -21,3 +21,5 @@ Magic by Seliost1.
 1. Sword (TLP 1&2) by Seliost1.
 
 1 Sword (Astra) by Seliost1.
+
+Sword (Durandal) by Tatata. Credit to SteamingTofu for motions.

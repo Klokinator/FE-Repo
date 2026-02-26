@@ -1,104 +1,104 @@
 #######################################################
-#04 Handaxe 
+#CB lorm_sp1 Mercenary Hand Axe
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-10 p- Handaxe_000.png
-C22                               #Play short sword swinging SFE
-2 p- Handaxe_001.png
-10 p- Handaxe_002.png
-C42                               #Play Axe falling SFE; long axe swinging SFE
-3 p- Handaxe_003.png
-C05                               #Call spell associated with equipped weapon
-3 p- Handaxe_004.png
-C13                               #ranged attack - hand axe for Hector
-1 p- Handaxe_005.png
-3 p- Handaxe_003.png
-15 p- Handaxe_002.png
-C01                               #NOP
-3 p- Handaxe_001.png
-C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Handaxe_000.png
+C42                               #Play Axe falling SFE; long axe swinging SFE
+5 p- Handaxe_001.png
+4 p- Handaxe_002.png
+2 p- Handaxe_003.png
+C15                               #Slight vibration of screen
+C05                               #Call spell associated with equipped weapon
+5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
+4 p- Handaxe_005.png
+6 p- Handaxe_002.png
+C01                               #NOP
+5 p- Handaxe_001.png
+1 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
-3 p- Handaxe_006.png
-30 p- Handaxe_007.png
-8 p- Handaxe_006.png
-8 p- Handaxe_007.png
-8 p- Handaxe_006.png
-8 p- Handaxe_007.png
-15 p- Handaxe_008.png
-C22                               #Play short sword swinging SFE
-2 p- Handaxe_001.png
-10 p- Handaxe_002.png
+9 p- Handaxe_006.png
+7 p- Handaxe_007.png
+7 p- Handaxe_006.png
+7 p- Handaxe_007.png
+7 p- Handaxe_006.png
+7 p- Handaxe_007.png
+7 p- Handaxe_006.png
+7 p- Handaxe_007.png
+8 p- Handaxe_008.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
-3 p- Handaxe_003.png
+5 p- Handaxe_001.png
+4 p- Handaxe_002.png
+2 p- Handaxe_003.png
+C15                               #Slight vibration of screen
 C05                               #Call spell associated with equipped weapon
-3 p- Handaxe_004.png
+5 p- Handaxe_004.png
 C13                               #ranged attack - hand axe for Hector
-1 p- Handaxe_005.png
-3 p- Handaxe_003.png
-15 p- Handaxe_002.png
+4 p- Handaxe_005.png
+6 p- Handaxe_002.png
 C01                               #NOP
-3 p- Handaxe_001.png
-C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-10 p- Handaxe_000.png
-C22                               #Play short sword swinging SFE
-2 p- Handaxe_001.png
-10 p- Handaxe_002.png
-C42                               #Play Axe falling SFE; long axe swinging SFE
-3 p- Handaxe_003.png
-C05                               #Call spell associated with equipped weapon
-3 p- Handaxe_004.png
-C13                               #ranged attack - hand axe for Hector
-1 p- Handaxe_005.png
-3 p- Handaxe_003.png
-15 p- Handaxe_002.png
-C01                               #NOP
-3 p- Handaxe_001.png
-C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Handaxe_000.png
+C42                               #Play Axe falling SFE; long axe swinging SFE
+5 p- Handaxe_001.png
+4 p- Handaxe_002.png
+2 p- Handaxe_003.png
+C15                               #Slight vibration of screen
+C05                               #Call spell associated with equipped weapon
+5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
+4 p- Handaxe_005.png
+6 p- Handaxe_002.png
+C01                               #NOP
+5 p- Handaxe_001.png
+1 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 1 p- Handaxe_000.png
-3 p- Handaxe_006.png
-30 p- Handaxe_007.png
-8 p- Handaxe_006.png
-8 p- Handaxe_007.png
-8 p- Handaxe_006.png
-8 p- Handaxe_007.png
-15 p- Handaxe_008.png
-C22                               #Play short sword swinging SFE
-2 p- Handaxe_001.png
-10 p- Handaxe_002.png
+9 p- Handaxe_006.png
+7 p- Handaxe_007.png
+7 p- Handaxe_006.png
+7 p- Handaxe_007.png
+7 p- Handaxe_006.png
+7 p- Handaxe_007.png
+7 p- Handaxe_006.png
+7 p- Handaxe_007.png
+8 p- Handaxe_008.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
-3 p- Handaxe_003.png
+5 p- Handaxe_001.png
+4 p- Handaxe_002.png
+2 p- Handaxe_003.png
+C15                               #Slight vibration of screen
 C05                               #Call spell associated with equipped weapon
-3 p- Handaxe_004.png
+5 p- Handaxe_004.png
 C13                               #ranged attack - hand axe for Hector
-1 p- Handaxe_005.png
-3 p- Handaxe_003.png
-15 p- Handaxe_002.png
+4 p- Handaxe_005.png
+6 p- Handaxe_002.png
 C01                               #NOP
-3 p- Handaxe_001.png
-C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Handaxe_001.png
 1 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
@@ -109,6 +109,7 @@ C0E                               #Start of dodging frames (should go after stan
 1 p- Handaxe_010.png
 C01                               #NOP
 3 p- Handaxe_009.png
+1 p- Handaxe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
@@ -119,6 +120,7 @@ C0E                               #Start of dodging frames (should go after stan
 1 p- Handaxe_010.png
 C01                               #NOP
 3 p- Handaxe_009.png
+1 p- Handaxe_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 9               #Equiped with Melee Weapon
@@ -126,7 +128,7 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C01                               #NOP
 ~~~
 /// - Mode 10               #Standing motions
-1 p- Handaxe_011.png
+1 p- Handaxe_000.png
 C01                               #NOP
 ~~~
 /// - Mode 11               #Equiped with Ranged weapon
@@ -136,22 +138,21 @@ C01                               #NOP
 /// - Mode 12               #Attack Missed Animation
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
-10 p- Handaxe_000.png
-C22                               #Play short sword swinging SFE
-2 p- Handaxe_001.png
-10 p- Handaxe_002.png
-C42                               #Play Axe falling SFE; long axe swinging SFE
-3 p- Handaxe_003.png
-C05                               #Call spell associated with equipped weapon
-3 p- Handaxe_004.png
-C13                               #ranged attack - hand axe for Hector
-1 p- Handaxe_005.png
-3 p- Handaxe_003.png
-15 p- Handaxe_002.png
-C01                               #NOP
-3 p- Handaxe_001.png
-C06                               #Begin opponent's turn after hit.next code 0D.
 1 p- Handaxe_000.png
+C42                               #Play Axe falling SFE; long axe swinging SFE
+5 p- Handaxe_001.png
+4 p- Handaxe_002.png
+2 p- Handaxe_003.png
+C15                               #Slight vibration of screen
+C05                               #Call spell associated with equipped weapon
+5 p- Handaxe_004.png
+C13                               #ranged attack - hand axe for Hector
+4 p- Handaxe_005.png
+6 p- Handaxe_002.png
+C01                               #NOP
+5 p- Handaxe_001.png
+1 p- Handaxe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation

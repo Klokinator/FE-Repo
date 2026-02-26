@@ -129,6 +129,22 @@
 
 
 
+## [\[Mage-Custom1\] \[M\] Battle Mage by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Battle%20Mage%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Battle%20Mage%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Battle%20Mage%20by%20Dejais/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
+## [\[Mage-Custom1\] \[M\] King Mage by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20King%20Mage%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20King%20Mage%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20King%20Mage%20by%20Dejais/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20King%20Mage%20by%20Dejais/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Mage-Custom1\] \[M\] Light Mage by L95](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Custom1%5D%20%5BM%5D%20Light%20Mage%20by%20L95/6.%20Magic/Magic.gif"/> |
@@ -394,6 +410,22 @@
 
 
 
+## [\[Sage Variant\] Doppelgänger Sage \[F\] by Tíxamas](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BF%5D%20by%20T%C3%ADxamas) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BF%5D%20by%20T%C3%ADxamas) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BF%5D%20by%20T%C3%ADxamas/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BF%5D%20by%20T%C3%ADxamas/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Sage Variant\] Doppelgänger Sage \[M\] by Tíxamas](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BM%5D%20by%20T%C3%ADxamas) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BM%5D%20by%20T%C3%ADxamas) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BM%5D%20by%20T%C3%ADxamas/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage%20Variant%5D%20Doppelg%C3%A4nger%20Sage%20%5BM%5D%20by%20T%C3%ADxamas/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Sage-Base\] \[F\] Vanilla FE6 Lilina +Fixes](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20%2BFixes) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20%2BFixes) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic/Magic.gif"/> | <b>Magic (FE8)</b><br/><img alt="Magic (FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic%20(FE8)/Magic.gif"/> | <b>Magic (Fixed)</b><br/><img alt="Magic (Fixed)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Lilina%20+Fixes/6.%20Magic%20(Fixed)/Magic.gif"/> |
@@ -576,6 +608,14 @@
 ## [\[Sage-Reskin\] Long Sleeves \[M\]](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20Long%20Sleeves%20%5BM%5D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20Long%20Sleeves%20%5BM%5D) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20Long%20Sleeves%20%5BM%5D/Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20Long%20Sleeves%20%5BM%5D/Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Sage-Reskin\] White Sage \(Bishop Motion\) \[F\] by Linkain](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20White%20Sage%20(Bishop%20Motion)%20%5BF%5D%20by%20Linkain) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20White%20Sage%20(Bishop%20Motion)%20%5BF%5D%20by%20Linkain) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20White%20Sage%20(Bishop%20Motion)%20%5BF%5D%20by%20Linkain/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20White%20Sage%20(Bishop%20Motion)%20%5BF%5D%20by%20Linkain/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
@@ -947,6 +987,24 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BF%5D%20Holy%20Sage%20Brunnya%20Fox%20Variant/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BF%5D%20Holy%20Sage%20Brunnya%20Fox%20Variant/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[T3 Custom\] \[M\] Archsage + Intro by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20%2B%20Intro%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20%2B%20Intro%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic (with Staff)  (+Intro)</b><br/><img alt="Magic (with Staff)  (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20+%20Intro%20by%20Nuramon/6.%20Magic%20(with%20Staff)%20%20(+Intro)/Magic.gif"/> | <b>Magic (with wooden Staff)  (+Intro)</b><br/><img alt="Magic (with wooden Staff)  (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20+%20Intro%20by%20Nuramon/6.%20Magic%20(with%20wooden%20Staff)%20%20(+Intro)/Magic.gif"/> | <b>Staff (+Intro)</b><br/><img alt="Staff (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20+%20Intro%20by%20Nuramon/7.%20Staff%20(+Intro)/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (Wooden) (+Intro)</b><br/><img alt="Staff (Wooden) (+Intro)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20+%20Intro%20by%20Nuramon/7.%20Staff%20(Wooden)%20(+Intro)/Staff.gif"/> |
+
+
+
+
+## [\[T3 Custom\] \[M\] Archsage by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (with Staff)</b><br/><img alt="Magic (with Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20by%20Nuramon/6.%20Magic%20(with%20Staff)/Magic.gif"/> | <b>Magic (with wooden Staff)</b><br/><img alt="Magic (with wooden Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20by%20Nuramon/6.%20Magic%20(with%20wooden%20Staff)/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20by%20Nuramon/7.%20Staff/Staff.gif"/> | <b>Staff (Wooden)</b><br/><img alt="Staff (Wooden)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20%5BM%5D%20Archsage%20by%20Nuramon/7.%20Staff%20(Wooden)/Staff.gif"/> |
 
 
 

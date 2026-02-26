@@ -1,0 +1,21 @@
+# [\[MK-Reskin\] Selena \[F\]by darkjaden](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2F%5BMK-Reskin%5D%20Selena%20%5BF%5Dby%20darkjaden%2F1.%20Sword%20(Thunder%20Crit)) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+## Sword
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Sword still](./Sword_000.png) | ![Sword](./Sword.gif) |
+
+## Credit
+
+F2U/F2E
+
+Animation by Brober.
+
+Desgin by Plant Academy’s Cecilia.
+
+Selena variant by darkjaden
+
+Sword (Thunder-crit) by Aruka, Kenpuhu.
+
+Credit to Teraspark and Seergiioo.

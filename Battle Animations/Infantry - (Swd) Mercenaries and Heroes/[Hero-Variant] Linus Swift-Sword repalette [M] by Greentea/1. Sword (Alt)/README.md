@@ -17,3 +17,5 @@ Made by Greentea, SHYUTERz, Dis.
 Repalette by Seliost1.
 
 Sword Alt attack by FelixRay.
+
+Axe (Alt) by Seliost.1

@@ -10,6 +10,8 @@
 
 F2U/F2E
 
-Axe/Handaxe/Unarmed by ReanuKeeves7716.
+Axe/Unarmed by ReanuKeeves7716.
+
+Handaxe by Seliost1.
 
 Boom Hower edits by Alexsplode.

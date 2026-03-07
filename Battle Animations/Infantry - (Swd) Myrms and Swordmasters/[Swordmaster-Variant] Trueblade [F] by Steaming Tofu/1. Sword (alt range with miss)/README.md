@@ -1,4 +1,4 @@
-# [\[Swordmaster-Variant\] Trueblade \[F\] by Steaming Tofu](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Myrms%20and%20Swordmasters%2F%5BSwordmaster-Variant%5D%20Trueblade%20%5BF%5D%20by%20Steaming%20Tofu%2F1.%20Sword%20(alt%20range)) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+# [\[Swordmaster-Variant\] Trueblade \[F\] by Steaming Tofu](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20(Swd)%20Myrms%20and%20Swordmasters%2F%5BSwordmaster-Variant%5D%20Trueblade%20%5BF%5D%20by%20Steaming%20Tofu%2F1.%20Sword%20(alt%20range%20with%20miss)) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 ## Sword
 
@@ -13,3 +13,5 @@ F2U/F2E
 Created by SteamingTofu.
 
 Alt range and Unarmed by Seliost1.
+
+Sword (for both miss animations) by Seliost1.

@@ -5,6 +5,8 @@
 
 ## Credits
 
+F2U/F2E
+
 Original Dark Knight by Teraspark
 
 Design by Pikmin1211 with special thanks to Nuramon

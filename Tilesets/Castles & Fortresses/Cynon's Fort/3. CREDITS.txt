@@ -1,0 +1,36 @@
+Cynon's Fort Tileset by Cynon
+
+Additional credits:
+- GoudaGrabber (Assistance with the rolling stock on the train, downwards stairway facing north)
+- WaVe (The building style was borrowed from WaVe's earlier work)
+
+---
+Using these tilesets;
+- I'd like to know 
+
+If you don't plan on using the trains and train track tiles, then ignore this paragraph. The train tracks tiles all use terrain type 0x2C. You will need to make it so units can walk/fly over terrain 0x2C. If you don't, I recommend you edit the tile configuration, and change all train tracks tiles to use either terrain type 0x11 (Hill) or 0x40 (Deck). 
+
+Battle platforms meant for this tileset can be found in the battle platforms section. Look for the Dark Cobblestone/Dirty Castle sets -- should be more than enough there, including train track platforms.
+
+All of these tilesets are still unfinished, but should be completely usable as-is. I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever palette changes you like. 
+
+---
+
+Uses tiles adapted and modified from;
+- Treasure of the Rudras
+- Final Fantasy 6 (SNES)
+- Live-A-Live (SNES)
+- RPG Maker 2000
+- RPG Maker 2003
+- Pokemon Gold/Silver/Crystal
+- Pokemon TCG2
+
+---
+Tileset strengths;
+- Extremely easy to make your own palettes, especially if you don't like the colors I used for the carpets and rooftops.
+- Extremely modular and versatile. 
+- Ease of creating maps -- it should be pretty easy to make a decent map with this tileset. 
+---
+
+Known issues:
+- Getting used to the cliffs might take some time.

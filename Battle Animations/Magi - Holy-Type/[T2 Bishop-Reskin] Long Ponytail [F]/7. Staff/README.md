@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Vanilla FE7 Serra bishop by IS.
 
 Single ponytail edit by Fiuke Bnuy.

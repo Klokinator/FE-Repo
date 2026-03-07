@@ -28,9 +28,9 @@
 
 ## [\[Centaur-Reskin\] \[F\] Centaur Promo by Dutch Introvert](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/1.%20Sword/Sword.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Magic (Staffless)</b><br/><img alt="Magic (Staffless)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staffless)/Magic.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/4.%20Handaxe/Handaxe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/7.%20Staff/Staff.gif"/> |
+| <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Magic (Staffless)</b><br/><img alt="Magic (Staffless)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/6.%20Magic%20(Staffless)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Reskin%5D%20%5BF%5D%20Centaur%20Promo%20by%20Dutch%20Introvert/7.%20Staff/Staff.gif"/> |
 
 
 
@@ -210,6 +210,15 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Reskin%5D%20%5BU%5D%20Gazer%20by%20Seal/6.%20Magic/Magic.gif"/> |
 | :---: |
+
+
+
+
+## [\[Mogall-Variant\] \[U\] Beholder by Nuramon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Beholder%20by%20Nuramon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Beholder%20by%20Nuramon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Beholder%20by%20Nuramon/6.%20Magic/Magic.gif"/> | <b>Magic (Big Eye Laser)</b><br/><img alt="Magic (Big Eye Laser)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Beholder%20by%20Nuramon/6.%20Magic%20(Big%20Eye%20Laser)/Magic.gif"/> | <b>Magic (Small Eye Laser)</b><br/><img alt="Magic (Small Eye Laser)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Beholder%20by%20Nuramon/6.%20Magic%20(Small%20Eye%20Laser)/Magic.gif"/> |
+| :---: | :---: | :---: |
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Beholder%20by%20Nuramon/8.%20Monster/Monster.gif"/> |
 
 
 

@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Vanilla animation by IS.
 
 Beard edit by unknown.

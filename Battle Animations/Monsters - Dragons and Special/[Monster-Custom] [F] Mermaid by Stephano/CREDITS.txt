@@ -1,3 +1,5 @@
 Character Design by Wayforward.
 
 Ported by Stephano.
+
+8. Refresh based on DATonDemand’s singing lamia animation.

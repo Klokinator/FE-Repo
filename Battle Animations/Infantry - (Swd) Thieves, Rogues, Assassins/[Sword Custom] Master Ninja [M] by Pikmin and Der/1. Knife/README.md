@@ -14,3 +14,4 @@ Still by Pikmin1211.
 
 Animation by DerTheVaporeon.
 
+Knife (Magic Ranged) by Seliost1.

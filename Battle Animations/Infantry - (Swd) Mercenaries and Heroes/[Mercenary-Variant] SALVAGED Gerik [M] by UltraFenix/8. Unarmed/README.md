@@ -15,3 +15,7 @@ Original animation by SALVAGED.
 Gerik's Head from Armored Hero Gerik by Nuramon.
 
 Reskin by UltraFenix
+
+3. Axe by tatata
+
+4. Handaxe by tatata

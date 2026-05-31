@@ -8,8 +8,12 @@
 
 ## Credit
 
+F2U/F2E
+
 Made by Russell Clark, Orihara_Saki.
 
 Wolf Girl with shield reskin by UltraFenix, Commissioned by DarkSlayer.
 
 Shield Design from Bird Soldier animation by Dutch Introvert.
+
+Axe and Handaxe by Seliost1.

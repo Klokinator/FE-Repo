@@ -16,5 +16,7 @@ Magic and Staff by Skitty.
 
 Lance by BatimaTheBat and credit to Mycahel for the desgin.
 
+Sword (Binding Blade) by Seliost1.
+
 Official Art Armads by BatimaTheBat and credit to Nuramon for the desgin.
 

@@ -5,6 +5,8 @@
 
 ## Credits
 
+F2U/F2E
+
 Fix by Blazer.
 
 Edit by Saint Rubenio.

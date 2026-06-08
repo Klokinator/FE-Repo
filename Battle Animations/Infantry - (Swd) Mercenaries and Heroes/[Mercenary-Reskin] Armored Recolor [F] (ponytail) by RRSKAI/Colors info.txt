@@ -1,0 +1,1 @@
+Removes the dark brown in the sprite's face to allow for leather straps recolors.

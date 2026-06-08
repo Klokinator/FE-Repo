@@ -1,0 +1,14 @@
+# [\[Custom-Lord\] Halberd Brighid \[F\] by Sphealnuke](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20Halberd%20Brighid%20%5BF%5D%20by%20Sphealnuke) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20Halberd%20Brighid%20%5BF%5D%20by%20Sphealnuke) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20Halberd%20Brighid%20%5BF%5D%20by%20Sphealnuke/3.%20Axe/Axe.gif"/> | <b>Axe (+Ranged Magic)</b><br/><img alt="Axe (+Ranged Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20Halberd%20Brighid%20%5BF%5D%20by%20Sphealnuke/3.%20Axe%20(+Ranged%20Magic)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20Halberd%20Brighid%20%5BF%5D%20by%20Sphealnuke/4.%20Handaxe/Handaxe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BCustom-Lord%5D%20Halberd%20Brighid%20%5BF%5D%20by%20Sphealnuke/8.%20Unarmed/Unarmed.gif"/> |
+
+## Credits
+
+F2U/F2E
+
+Animation by Sphealnuke.
+
+Originally commissioned by Bear_7, who permitted this animation to be added to the repository.
+

@@ -14,5 +14,9 @@ Bow by DATonDemand.
 
 Handaxe by DATonDemand.
 
+Lance by DATonDemand.
+
 Scripting done by Sable Mage.
+
+Axe (with Handaxe) by Seliost1.
 

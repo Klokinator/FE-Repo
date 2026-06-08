@@ -12,4 +12,6 @@ F2U/F2E
 
 Animation by Dinar87.
 
+Arm fix by Seliost1.
+
 Script by Seliost1.

@@ -13,3 +13,5 @@ F2U/F2E
 Made by Greentea, SHYUTERz, Dis.
 
 3. Axe (Magic) by Seliost1.
+
+Sword and Axe Alt attack by FelixRay.

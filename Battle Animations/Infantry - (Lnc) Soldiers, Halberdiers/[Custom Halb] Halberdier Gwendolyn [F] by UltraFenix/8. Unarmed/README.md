@@ -19,3 +19,9 @@ Unarmed by TheBlindArcher.
 Helmentless version by Rexacuse.
 
 Gwendolyn Variant By UltraFenix, using the Knight Wendy's design by RedBean as base
+
+3. Axe (Stab)  by tatata
+
+3. Axe (Swing) by tatata
+
+4. Handaxe by tatata

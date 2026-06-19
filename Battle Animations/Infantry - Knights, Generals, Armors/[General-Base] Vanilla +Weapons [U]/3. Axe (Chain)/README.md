@@ -45,3 +45,5 @@ Axe (Armads) (Chain) animation by tatata.
 Axe (Armads) (Swing) animation by tatata.
 
 Sword and Axe (V2) animation by tatata. (P.S. Changed the general’s attack animations from Sword_011.png to Sword_016.png and Axe_011.png to Axe_017.png.)
+
+Sword (Alt Range), Lance (Alt Range), Lance (Chainless), Handaxe (Alt Range), Magic (Alt), 7. Staff - All by UltraFenix, imported by Tatata.

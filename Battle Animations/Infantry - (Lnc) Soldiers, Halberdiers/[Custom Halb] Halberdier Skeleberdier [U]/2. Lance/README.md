@@ -14,4 +14,10 @@ Base animation by TheBlindArcher. Further improvements added by Spud, MeatofJust
 
 Reskin by UltraFenix, Commissioned by d_h.
 
-Map Sprites by Dei, dondon151, d_h
+Map Sprites by Dei, dondon151, d_h.
+
+3. Axe (Stab)  by tatata
+
+3. Axe (Swing) by tatata
+
+4. Handaxe by tatata

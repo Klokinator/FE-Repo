@@ -1,0 +1,13 @@
+# [\[FE7 Eliwood-Reskin\] T2 Roy \[M\] by SurfingKyogre](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre/1.%20Sword/Sword.gif"/> | <b>Sword (Binding Blade Updated)</b><br/><img alt="Sword (Binding Blade Updated)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre/1.%20Sword%20(Binding%20Blade%20Updated)/Sword.gif"/> | <b>Sword (Binding Blade)</b><br/><img alt="Sword (Binding Blade)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre/1.%20Sword%20(Binding%20Blade)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Sword (Durandal Repalette +Ranged)</b><br/><img alt="Sword (Durandal Repalette +Ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre/1.%20Sword%20(Durandal%20Repalette%20+Ranged)/Sword.gif"/> | <b>Sword (Durandal)</b><br/><img alt="Sword (Durandal)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre/1.%20Sword%20(Durandal)/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre/2.%20Lance/Lance.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Reskin%5D%20T2%20Roy%20%5BM%5D%20by%20SurfingKyogre/8.%20Unarmed/Unarmed.gif"/> |
+
+## Credits
+
+F2U/F2E
+
+Made by SurfingKyogre.
+

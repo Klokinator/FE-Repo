@@ -1,0 +1,198 @@
+#######################################################
+#06 lorf_sw1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- axe_000.png
+C5A                               #mauthedoog 1 SFE
+3 p- axe_001.png
+3 p- axe_002.png
+3 p- axe_003.png
+3 p- axe_004.png
+3 p- axe_005.png
+3 p- axe_006.png
+3 p- axe_007.png
+17 p- axe_006.png
+C5B                               #mauthedoog 2 SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C23                               #Play shorter sword swinging SFE
+3 p- axe_008.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C1A                               #Normal hit
+7 p- axe_009.png
+3 p- axe_010.png
+7 p- axe_011.png
+C01                               #NOP
+4 p- axe_012.png
+C5D                               #mauthedoog 3 SFE
+2 p- axe_013.png
+4 p- axe_014.png
+2 p- axe_015.png
+4 p- axe_016.png
+C5D                               #mauthedoog 3 SFE
+4 p- axe_017.png
+4 p- axe_018.png
+1 p- axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- axe_000.png
+C5C                               #mauthedoog scream SFE
+4 p- axe_019.png
+4 p- axe_020.png
+6 p- axe_021.png
+6 p- axe_022.png
+6 p- axe_023.png
+3 p- axe_024.png
+55 p- axe_025.png
+3 p- axe_026.png
+3 p- axe_001.png
+C5A                               #mauthedoog 1 SFE
+3 p- axe_002.png
+3 p- axe_003.png
+3 p- axe_004.png
+3 p- axe_005.png
+3 p- axe_006.png
+3 p- axe_007.png
+17 p- axe_006.png
+C5B                               #mauthedoog 2 SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C23                               #Play shorter sword swinging SFE
+3 p- axe_008.png
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C08                               #Critical hit
+7 p- axe_009.png
+3 p- axe_010.png
+9 p- axe_011.png
+C01                               #NOP
+3 p- axe_012.png
+C5D                               #mauthedoog 3 SFE
+2 p- axe_013.png
+4 p- axe_014.png
+2 p- axe_015.png
+4 p- axe_016.png
+C5D                               #mauthedoog 3 SFE
+4 p- axe_017.png
+4 p- axe_018.png
+1 p- axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C36                               #Play sword unsheathing SFE
+1 p- axe_000.png
+3 p- axe_027.png
+6 p- axe_028.png
+C22                               #Play short sword swinging SFE
+4 p- axe_029.png
+6 p- axe_030.png
+C05                               #Call spell associated with equipped weapon
+4 p- axe_029.png
+C01                               #NOP
+3 p- axe_028.png
+3 p- axe_027.png
+3 p- axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+C36                               #Play sword unsheathing SFE
+1 p- axe_000.png
+3 p- axe_031.png
+6 p- axe_032.png
+C22                               #Play short sword swinging SFE
+4 p- axe_033.png
+C44                               #Play short "light emission" SFE
+4 p- axe_034.png
+4 p- axe_035.png
+4 p- axe_036.png
+4 p- axe_037.png
+4 p- axe_038.png
+C05                               #Call spell associated with equipped weapon
+6 p- axe_039.png
+C01                               #NOP
+3 p- axe_032.png
+3 p- axe_031.png
+3 p- axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- axe_040.png
+5 p- axe_041.png
+C01                               #NOP
+3 p- axe_040.png
+1 p- axe_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- axe_040.png
+5 p- axe_041.png
+C01                               #NOP
+3 p- axe_040.png
+1 p- axe_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- axe_000.png
+C5A                               #mauthedoog 1 SFE
+3 p- axe_001.png
+3 p- axe_002.png
+3 p- axe_003.png
+3 p- axe_004.png
+3 p- axe_005.png
+3 p- axe_006.png
+3 p- axe_007.png
+17 p- axe_006.png
+C5B                               #mauthedoog 2 SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C23                               #Play shorter sword swinging SFE
+3 p- axe_008.png
+7 p- axe_009.png
+3 p- axe_010.png
+7 p- axe_011.png
+C01                               #NOP
+4 p- axe_012.png
+C5D                               #mauthedoog 3 SFE
+2 p- axe_013.png
+4 p- axe_014.png
+2 p- axe_015.png
+4 p- axe_016.png
+C5D                               #mauthedoog 3 SFE
+4 p- axe_017.png
+4 p- axe_018.png
+1 p- axe_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

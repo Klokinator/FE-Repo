@@ -1,0 +1,40 @@
+{
+  "Battle Animations": [
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BMisc%5D%20Halberdier%20Training%20Dummy%20%5BU%5D%20by%20tatata",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Axe%29%20Fighters%20and%20Warriors%2F%5BFighter-Custom%5D%20Gladiator%20Fergus%20%5BM%5D%20by%20ZoramineFae",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers%2F%5BCustom%20Halb%5D%20Halberdier%20Amelia%20Design%20%5BF%5D%20by%20tatata",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes%2F%5BHero-Reskin%5D%20FE6%20Armor%20%2BBasic%20Shield%20%28Vanilla%20palette%20fix%29%20%5BM%5D%20by%20tatata",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes%2F%5BMercenary-Reskin%5D%20Armored%20%5BF%5D%20by%20CelestiaHeart",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes%2F%5BMercenary-Reskin%5D%20Armored%20%5BM%5D%20by%20CelestiaHeart",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters%2F%5BSword%20Custom%5D%20SAO%20Asuna%20%5BF%5D%20by%20Zerorock",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BGeneral-Reskin%5D%20No%20Shield%20%2B%20Cape%20%5BU%5D%20by%20Tatata",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BKnight-Variant%5D%20Wendy%20-%20Vanilla%20Design%20%5BF%5D%20by%20tatata",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20Vanilla%20and%20Custom%2F%5BCustom-Lord%5D%20Nila%20by%20FrecciaVerde",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalier-Variant%5D%20Jugdral%20Arch%20Knight%20%5BF%5D%20by%20CelestiaHeart",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalier-Variant%5D%20Jugdral%20Arch%20Knight%20%5BM%5D%20by%20CelestiaHeart",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BPaladin-Variant%5D%20Jugdral%20Bow%20Knight%20%5BF%5D%20by%20CelestiaHeart",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BPaladin-Variant%5D%20Jugdral%20Bow%20Knight%20%5BM%5D%20by%20CelestiaHeart"
+  ],
+  "Class Cards": [],
+  "Item Icons": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20LT%20Skills%20%2817%2B%20Colors%29%2FColor%20Coded%20Weapon%20skills%20Blue%20%7BGiuseppers%7D.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20LT%20Skills%20%2817%2B%20Colors%29%2FColor%20Coded%20Weapon%20skills%20Gray%20%7BGiuseppers%7D.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20LT%20Skills%20%2817%2B%20Colors%29%2FColor%20Coded%20Weapon%20skills%20Green%20%7BGiuseppers%7D.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20LT%20Skills%20%2817%2B%20Colors%29%2FColor%20Coded%20Weapon%20skills%20Red%20%7BGiuseppers%7D.png"
+  ],
+  "Map Sprites": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2FNils%20%28Dead%29%20%7BMattiator%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2FNinian%20%28Dead%29%20%7BMattiator%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Axe%29%20Fighters%20and%20Warriors%2FFighter%20%28M%29%20FE10-Style%20Axe%20%7BZoramineFae%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Axe%29%20Fighters%20and%20Warriors%2FFighter%20%28M%29%20FE10-Style%20Axe%20%7BZoramineFae%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Bow%29%20Snipers%20and%20Ballistae%2FSniper%20%28M%29%20Plume%20%7BDespicableDuck%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Bow%29%20Snipers%20and%20Ballistae%2FSniper%20%28M%29%20Plume%20%7BDespicableDuck%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers%2FSoldier%20%28U%29%20Basic%20Shield%20%7BDespicableDuck%2C%20ZoramineFae%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers%2FSoldier%20%28U%29%20Basic%20Shield%20%7BDespicableDuck%2C%20ZoramineFae%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2FGeneral%20%28U%29%20Shield%20Axe%20%7BShinkuma%2C%20Nuramon%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2FGeneral%20%28U%29%20Shield%20Axe%20%7BShinkuma%2C%20Nuramon%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2FGeneral%20%28U%29%20Shield%20Sword%20%7BShinkuma%2C%20Nuramon%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2FGeneral%20%28U%29%20Shield%20Sword%20%7BShinkuma%2C%20Nuramon%7D-walk.png"
+  ],
+  "Portrait Repository": []
+}

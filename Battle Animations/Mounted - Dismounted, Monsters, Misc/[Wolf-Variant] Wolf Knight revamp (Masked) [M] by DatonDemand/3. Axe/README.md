@@ -20,4 +20,4 @@ Sword spliced from Leo_link's ranger
 
 Scripting Done by Sable Mage
 
-
+Unarmed and Staff animations Done by Stormblight

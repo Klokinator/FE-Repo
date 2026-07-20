@@ -1,0 +1,125 @@
+#######################################################
+#010C lorm_sp1 
+#
+#当输入到FEditorAdv时，请删除＃和每行之后。
+#######################################################
+/// - Mode 1               #攻击命中时的动作
+C03                               #攻击动作开始 07将在此之后
+C07                               #攻击动作开始 03就在此之前
+1 p- Handaxe_000.png
+C05                               #魔法的呼出
+C41                               #短斧摆动声音 
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13                               #赫克托尔的手斧
+3 p- Handaxe_003.png
+C06                               #0D在攻击动画结束后出现
+1 p- Handaxe_000.png
+C01                               #NOP
+C0D                               #06在攻击动画结束前出现
+~~~
+/// - Mode 3               #攻击必杀时的动作
+C03                               #攻击动作开始 07将在此之后
+C07                               #攻击动作开始 03就在此之前
+1 p- Handaxe_000.png
+C38                               #枪转动的声音
+2 p- Handaxe_004.png
+2 p- Handaxe_005.png
+2 p- Handaxe_006.png
+2 p- Handaxe_007.png
+15 p- Handaxe_000.png
+C05                               #魔法的呼出
+C41                               #短斧摆动声音 
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13                               #赫克托尔的手斧
+3 p- Handaxe_003.png
+C06                               #0D在攻击动画结束后出现
+1 p- Handaxe_000.png
+C01                               #NOP
+C0D                               #06在攻击动画结束前出现
+~~~
+/// - Mode 5               #间接攻击的动作
+C03                               #攻击动作开始 07将在此之后
+C07                               #攻击动作开始 03就在此之前
+1 p- Handaxe_000.png
+C05                               #魔法的呼出
+C41                               #短斧摆动声音 
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13                               #赫克托尔的手斧
+3 p- Handaxe_003.png
+C06                               #0D在攻击动画结束后出现
+1 p- Handaxe_000.png
+C01                               #NOP
+C0D                               #06在攻击动画结束前出现
+~~~
+/// - Mode 6               #间接攻击必杀时的动作
+C03                               #攻击动作开始 07将在此之后
+C07                               #攻击动作开始 03就在此之前
+1 p- Handaxe_000.png
+C38                               #枪转动的声音
+2 p- Handaxe_004.png
+2 p- Handaxe_005.png
+2 p- Handaxe_006.png
+2 p- Handaxe_007.png
+15 p- Handaxe_000.png
+C05                               #魔法的呼出
+C41                               #短斧摆动声音 
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13                               #赫克托尔的手斧
+3 p- Handaxe_003.png
+C06                               #0D在攻击动画结束后出现
+1 p- Handaxe_000.png
+C01                               #NOP
+C0D                               #06在攻击动画结束前出现
+~~~
+/// - Mode 7               #被攻击回避时的动作
+C02                               #开始回避运动
+1 p- Handaxe_000.png
+C0E                               #开始躲避帧(应该在静止帧之后，在躲避动画之前)
+3 p- Handaxe_008.png
+1 p- Handaxe_009.png
+C01                               #NOP
+3 p- Handaxe_008.png
+C0D                               #06在攻击动画结束前出现
+~~~
+/// - Mode 8               #被间接攻击回避时的动作
+C02                               #开始回避运动
+1 p- Handaxe_000.png
+C0E                               #开始躲避帧(应该在静止帧之后，在躲避动画之前)
+3 p- Handaxe_008.png
+1 p- Handaxe_009.png
+C01                               #NOP
+3 p- Handaxe_008.png
+C0D                               #06在攻击动画结束前出现
+~~~
+/// - Mode 9               #站立不动的动作
+1 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #站立不动的动作
+1 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #间接时站立不动的动作
+1 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻击失误时的动作
+C03                               #攻击动作开始 07将在此之后
+C07                               #攻击动作开始 03就在此之前
+1 p- Handaxe_000.png
+C05                               #魔法的呼出
+C41                               #短斧摆动声音 
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13                               #赫克托尔的手斧
+3 p- Handaxe_003.png
+C06                               #0D在攻击动画结束后出现
+1 p- Handaxe_000.png
+C01                               #NOP
+C0D                               #06在攻击动画结束前出现
+~~~
+/// - End of animation

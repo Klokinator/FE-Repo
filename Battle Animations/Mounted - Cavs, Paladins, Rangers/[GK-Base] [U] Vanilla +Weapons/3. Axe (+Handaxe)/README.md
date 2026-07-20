@@ -15,3 +15,7 @@ Staff and Magic by Primefusion.
 Axe (+Handaxe) by Yerek.
 
 Bow by SaintRubenio.
+
+Bow (ZoramineFae) by ZoramineFae.
+
+Unarmed (Mount only) by tatata.

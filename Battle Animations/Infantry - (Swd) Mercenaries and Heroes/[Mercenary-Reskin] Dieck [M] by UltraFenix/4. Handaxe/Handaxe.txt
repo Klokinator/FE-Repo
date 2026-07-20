@@ -1,0 +1,157 @@
+#######################################################
+#2D merm_sw1 佣兵 投斧
+#
+#当输入到FEditorAdv时，请删除＃和每行之后。
+#######################################################
+/// - Mode 1               #攻击命中时的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+10 p- Handaxe_000.png
+C22                               #摇摆的剑声
+2 p- Handaxe_001.png
+10 p- Handaxe_002.png
+C42                               #长斧摆动声音
+3 p- Handaxe_003.png
+C05                               #调用魔法
+3 p- Handaxe_004.png
+C13                               #赫克托的手斧
+1 p- Handaxe_005.png
+3 p- Handaxe_003.png
+15 p- Handaxe_002.png
+C01                               #NOP
+3 p- Handaxe_001.png
+C06                               #攻击动画结束0D会晚点来
+1 p- Handaxe_000.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 3               #攻击必杀时的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+1 p- Handaxe_000.png
+3 p- Handaxe_006.png
+30 p- Handaxe_007.png
+8 p- Handaxe_006.png
+8 p- Handaxe_007.png
+8 p- Handaxe_006.png
+8 p- Handaxe_007.png
+15 p- Handaxe_008.png
+C22                               #摇摆的剑声
+2 p- Handaxe_001.png
+10 p- Handaxe_002.png
+C42                               #长斧摆动声音
+3 p- Handaxe_003.png
+C05                               #调用魔法
+3 p- Handaxe_004.png
+C13                               #赫克托的手斧
+1 p- Handaxe_005.png
+3 p- Handaxe_003.png
+15 p- Handaxe_002.png
+C01                               #NOP
+3 p- Handaxe_001.png
+C06                               #攻击动画结束0D会晚点来
+1 p- Handaxe_000.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 5               #间接攻击的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+10 p- Handaxe_000.png
+C22                               #摇摆的剑声
+2 p- Handaxe_001.png
+10 p- Handaxe_002.png
+C42                               #长斧摆动声音
+3 p- Handaxe_003.png
+C05                               #调用魔法
+3 p- Handaxe_004.png
+C13                               #赫克托的手斧
+1 p- Handaxe_005.png
+3 p- Handaxe_003.png
+15 p- Handaxe_002.png
+C01                               #NOP
+3 p- Handaxe_001.png
+C06                               #攻击动画结束0D会晚点来
+1 p- Handaxe_000.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 6               #间接攻击必杀时的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+1 p- Handaxe_000.png
+3 p- Handaxe_006.png
+30 p- Handaxe_007.png
+8 p- Handaxe_006.png
+8 p- Handaxe_007.png
+8 p- Handaxe_006.png
+8 p- Handaxe_007.png
+15 p- Handaxe_008.png
+C22                               #摇摆的剑声
+2 p- Handaxe_001.png
+10 p- Handaxe_002.png
+C42                               #长斧摆动声音
+3 p- Handaxe_003.png
+C05                               #调用魔法
+3 p- Handaxe_004.png
+C13                               #赫克托的手斧
+1 p- Handaxe_005.png
+3 p- Handaxe_003.png
+15 p- Handaxe_002.png
+C01                               #NOP
+3 p- Handaxe_001.png
+C06                               #攻击动画结束0D会晚点来
+1 p- Handaxe_000.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 7               #被攻击回避时的动作
+C02                               #避免动议开始
+1 p- Handaxe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
+C01                               #NOP
+3 p- Handaxe_009.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 8               #被间接攻击回避时的动作
+C02                               #避免动议开始
+1 p- Handaxe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
+C01                               #NOP
+3 p- Handaxe_009.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 9               #站立不动的动作
+1 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #站立不动的动作
+1 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #间接时站立不动的动作
+1 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻击失误时的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+10 p- Handaxe_000.png
+C22                               #摇摆的剑声
+2 p- Handaxe_001.png
+10 p- Handaxe_002.png
+C42                               #长斧摆动声音
+3 p- Handaxe_003.png
+C05                               #调用魔法
+3 p- Handaxe_004.png
+C13                               #赫克托的手斧
+1 p- Handaxe_005.png
+3 p- Handaxe_003.png
+15 p- Handaxe_002.png
+C01                               #NOP
+3 p- Handaxe_001.png
+C06                               #攻击动画结束0D会晚点来
+1 p- Handaxe_000.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - End of animation

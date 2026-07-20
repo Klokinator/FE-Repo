@@ -1,0 +1,15 @@
+# [\[Knight-Variant\] Generic \[M\] by SALVAGED](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/3.%20Axe/Axe.gif"/> |
+| :---: | :---: | :---: |
+| <b>Axe (Magic Axe)</b><br/><img alt="Axe (Magic Axe)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/3.%20Axe%20(Magic%20Axe)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/5.%20Bow/Bow.gif"/> |
+| <b>Bow (shield on back)</b><br/><img alt="Bow (shield on back)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/5.%20Bow%20(shield%20on%20back)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20Knights,%20Generals,%20Armors/%5BKnight-Variant%5D%20Generic%20%5BM%5D%20by%20SALVAGED/8.%20Unarmed/Unarmed.gif"/> |
+
+## Credits
+
+F2U/F2E
+
+Animations by SALVAGED.
+
+Axe (Magic Axe) by Itanc.
+

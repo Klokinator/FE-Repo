@@ -1,0 +1,125 @@
+/// - Mode 1
+C03
+C07
+1 p- Handaxe_000.png
+C41
+C05
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13
+3 p- Handaxe_003.png
+C06
+3 p- Handaxe_004.png
+1 p- Handaxe_000.png
+C01
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Handaxe_000.png
+C38
+2 p- Handaxe_005.png
+2 p- Handaxe_006.png
+2 p- Handaxe_007.png
+2 p- Handaxe_008.png
+15 p- Handaxe_000.png
+C41
+C05
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13
+3 p- Handaxe_003.png
+C06
+3 p- Handaxe_004.png
+1 p- Handaxe_000.png
+C01
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Handaxe_000.png
+C41
+C05
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13
+3 p- Handaxe_003.png
+C06
+3 p- Handaxe_004.png
+1 p- Handaxe_000.png
+C01
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Handaxe_000.png
+C38
+2 p- Handaxe_005.png
+2 p- Handaxe_006.png
+2 p- Handaxe_007.png
+2 p- Handaxe_008.png
+15 p- Handaxe_000.png
+C41
+C05
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13
+3 p- Handaxe_003.png
+C06
+3 p- Handaxe_004.png
+1 p- Handaxe_000.png
+C01
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Handaxe_000.png
+C0E
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
+C01
+3 p- Handaxe_009.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Handaxe_000.png
+C0E
+3 p- Handaxe_009.png
+1 p- Handaxe_010.png
+C01
+3 p- Handaxe_009.png
+C0D
+~~~
+/// - Mode 9
+1 p- Handaxe_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Handaxe_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Handaxe_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Handaxe_000.png
+C41
+C05
+3 p- Handaxe_001.png
+1 p- Handaxe_002.png
+C13
+3 p- Handaxe_003.png
+C06
+3 p- Handaxe_004.png
+1 p- Handaxe_000.png
+C01
+C0D
+~~~
+/// - End of animation

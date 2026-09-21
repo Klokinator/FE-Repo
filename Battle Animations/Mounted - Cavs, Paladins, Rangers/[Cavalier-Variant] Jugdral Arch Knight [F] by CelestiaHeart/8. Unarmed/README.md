@@ -11,3 +11,7 @@
 F2U/F2E
 
 Animation by CelestiaHeart.
+
+Crossbow by tatata,
+
+Magic by tatata.

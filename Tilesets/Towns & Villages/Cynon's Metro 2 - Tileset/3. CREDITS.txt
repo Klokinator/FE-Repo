@@ -12,13 +12,16 @@ All four variants of the Metro 2 tileset use the exact same object palette, and 
 - The suburban version is for more agricultural towns on the outer edges of large cities, or even just for rural towns. A lot of one-story buildings here and dirt roads. 
 - The rail yard version is for rail yards, places where freight trains get loaded, unloaded, and stored when they're not in use. As you might expect, this version has a lot of extra tiles for trains in very close proximity to each other. 
 - The ravaged version has more destroyed building tiles. 
+- The temple grounds version is very similar to the suburb version, with some tiles meant specifically for a temple exterior. This version will probably change a bit in the future.
 - There may be more versions in the future depending on needs and feedback I get on these.
 
 Battle platforms meant for this tileset can be found in the battle platforms section. Look for the Dark Cobblestone/Dirty Castle sets -- should be more than enough there, including train track platforms.
 
-All of these tilesets are still unfinished, but should be completely usable as-is. I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever palette changes you like.
+All of these tilesets are unfinished, but are completely usable as-is. I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. You're free to make whatever palette changes you like.
 
 The Tile Type 1 animations these tilesets use are very similar to the ones I used for Cynon's Fields, but they are *NOT* the same. Do not use them interchangably, your coastlines will look bad if you do. 
+
+You are welcome to make your own versions of this tileset using what's already in the object palette. There are some extra fire tiles in there for those of you who are adept at using Builder's tileset and palette editor. :D
 
 ---
 

@@ -17,6 +17,14 @@
 
 
 
+## [\[Cavalier-Custom\] Snail Knight \[M\] by Squid1003](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20Snail%20Knight%20%5BM%5D%20by%20Squid1003) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20Snail%20Knight%20%5BM%5D%20by%20Squid1003) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20Snail%20Knight%20%5BM%5D%20by%20Squid1003/2.%20Lance/Lance.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20Snail%20Knight%20%5BM%5D%20by%20Squid1003/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20Snail%20Knight%20%5BM%5D%20by%20Squid1003/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Cavalier-Custom\] \[F\] Chocobo Rider by SkidMarc25](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BF%5D%20Chocobo%20Rider%20by%20SkidMarc25) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BF%5D%20Chocobo%20Rider%20by%20SkidMarc25) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BCavalier-Custom%5D%20%5BF%5D%20Chocobo%20Rider%20by%20SkidMarc25/2.%20Lance/Lance.gif"/> |
@@ -273,7 +281,8 @@
 
 | <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/1.%20Sword/Sword.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Axe (Magic)</b><br/><img alt="Axe (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/3.%20Axe%20(Magic)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/4.%20Handaxe/Handaxe.gif"/> |
+| <b>Axe (Magic)</b><br/><img alt="Axe (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/3.%20Axe%20(Magic)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/4.%20Handaxe/Handaxe.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/7.%20Staff/Staff.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Dismounted,%20Monsters,%20Misc/%5BWolf-Variant%5D%20Wolf%20Knight%20revamp%20%5BM%5D%20by%20DatonDemand/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

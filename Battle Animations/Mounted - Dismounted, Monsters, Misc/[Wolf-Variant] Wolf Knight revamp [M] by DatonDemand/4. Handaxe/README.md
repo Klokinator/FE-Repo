@@ -20,4 +20,8 @@ Sword spliced from Leo_link's ranger
 
 Scripting Done by Sable Mage
 
+Staff by Stormblight.
+
+Unarmed by Stormblight.
+
 

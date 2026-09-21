@@ -9,3 +9,5 @@ Fast/Straight is a revision based off the vanilla GBA Soldier movements, made to
 Sword animation is based on the Fast/Straight animation done by Nuramon. This was animated by Craigrandall55.
 
 2. Lance (Echoes Lance) by UltraFenix.
+
+Magic by tatata.

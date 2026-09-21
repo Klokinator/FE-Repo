@@ -1,0 +1,74 @@
+#######################################################
+#36 swmm_sw1 刀剑将帅 道具
+#
+#当输入到FEditorAdv时，请删除＃和每行之后。
+#######################################################
+/// - Mode 1               #攻击命中时的动作
+C02                               #避免动议开始
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Unarmed_001.png
+C01                               #NOP
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 3               #攻击必杀时的动作
+C02                               #避免动议开始
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Unarmed_001.png
+C01                               #NOP
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 5               #间接攻击的动作
+C02                               #避免动议开始
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Unarmed_001.png
+C01                               #NOP
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 6               #间接攻击必杀时的动作
+C02                               #避免动议开始
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Unarmed_001.png
+C01                               #NOP
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 7               #被攻击回避时的动作
+C02                               #避免动议开始
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Unarmed_001.png
+C01                               #NOP
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 8               #被间接攻击回避时的动作
+C02                               #避免动议开始
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Unarmed_001.png
+C01                               #NOP
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 9               #站立不动的动作
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #站立不动的动作
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #间接时站立不动的动作
+1 p- Unarmed_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻击失误时的动作
+C02                               #避免动议开始
+1 p- Unarmed_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+4 p- Unarmed_001.png
+C01                               #NOP
+C0D                               #攻击动画结束06前来
+~~~
+/// - End of animation

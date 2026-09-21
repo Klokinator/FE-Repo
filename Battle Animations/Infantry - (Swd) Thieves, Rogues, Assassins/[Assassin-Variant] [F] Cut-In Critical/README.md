@@ -8,6 +8,8 @@
 
 ## Credits
 
+F2U/F2E
+
 Animation by ZoramineFae.
 
 1. Sword (alt 1-4 + alt ranged) by Seliost1.

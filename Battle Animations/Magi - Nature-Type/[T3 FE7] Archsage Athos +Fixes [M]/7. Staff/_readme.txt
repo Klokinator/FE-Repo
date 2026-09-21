@@ -1,0 +1,1 @@
+The original script uses a C47 command, which is heavily hardcoded. It is recommended to import by using one of the fixed binaries/scripts to prevent issues.

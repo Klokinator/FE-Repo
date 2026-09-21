@@ -1,0 +1,190 @@
+#######################################################
+#A8 sks_sp1 Stalmaster Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Lance_000.png
+5 p- Lance_001.png
+5 p- Lance_002.png
+C67                               #bonewalker move SFE
+5 p- Lance_003.png
+5 p- Lance_004.png
+5 p- Lance_005.png
+SCF                               #Sound 207 SE:Sword unsheathing 2  @C85_37
+8 p- Lance_006.png
+15 p- Lance_007.png
+1 p- Lance_008.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C23                               #Play shorter sword swinging SFE
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C1A                               #Normal hit
+4 p- Lance_009.png
+C01                               #NOP
+4 p- Lance_010.png
+6 p- Lance_011.png
+C67                               #bonewalker move SFE
+6 p- Lance_012.png
+5 p- Lance_013.png
+5 p- Lance_014.png
+C67                               #bonewalker move SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Lance_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Lance_000.png
+C22                               #Play short sword swinging SFE
+SE7                               #Sound 231 SE:Brigand battle cry @C85_33
+3 p- Lance_015.png
+8 p- Lance_016.png
+5 p- Lance_017.png
+5 p- Lance_018.png
+S0266                               #Sound 614 SE:@C85_2B Play armored unit "leaping" SFE
+5 p- Lance_019.png
+5 p- Lance_020.png
+5 p- Lance_021.png
+5 p- Lance_022.png
+S0266                               #Sound 614 SE:@C85_2B Play armored unit "leaping" SFE
+5 p- Lance_021.png
+5 p- Lance_020.png
+5 p- Lance_019.png
+5 p- Lance_018.png
+S0266                               #Sound 614 SE:@C85_2B Play armored unit "leaping" SFE
+5 p- Lance_017.png
+5 p- Lance_001.png
+5 p- Lance_002.png
+C67                               #bonewalker move SFE
+5 p- Lance_003.png
+5 p- Lance_004.png
+5 p- Lance_005.png
+SCF                               #Sound 207 SE:Sword unsheathing 2  @C85_37
+8 p- Lance_006.png
+15 p- Lance_007.png
+1 p- Lance_008.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C23                               #Play shorter sword swinging SFE
+4 p- Lance_009.png
+C08                               #Critical hit
+C15                               #Slight vibration of screen
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+6 p- Lance_010.png
+5 p- Lance_011.png
+S0372                               #Sound 882 SE:@C85_67 bonewalker move SFE
+6 p- Lance_012.png
+5 p- Lance_013.png
+5 p- Lance_014.png
+C67                               #bonewalker move SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Lance_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Lance_000.png
+4 p- Lance_001.png
+4 p- Lance_023.png
+8 p- Lance_024.png
+1 p- Lance_025.png
+C05                               #Call spell associated with equipped weapon
+2 p- Lance_026.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- Lance_024.png
+4 p- Lance_023.png
+5 p- Lance_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Lance_000.png
+4 p- Lance_001.png
+4 p- Lance_023.png
+SCB                               #Sound 203 SE:Eliwood critical sword swing  @C85_38
+3 p- Lance_027.png
+3 p- Lance_028.png
+3 p- Lance_029.png
+3 p- Lance_030.png
+8 p- Lance_024.png
+1 p- Lance_025.png
+C05                               #Call spell associated with equipped weapon
+2 p- Lance_026.png
+C08                               #Critical hit
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+4 p- Lance_024.png
+4 p- Lance_023.png
+S0372                               #Sound 882 SE:@C85_67 bonewalker move SFE
+5 p- Lance_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Lance_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Lance_031.png
+2 p- Lance_032.png
+C01                               #NOP
+2 p- Lance_031.png
+5 p- Lance_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Lance_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Lance_031.png
+2 p- Lance_032.png
+C01                               #NOP
+2 p- Lance_031.png
+1 p- Lance_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Lance_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Lance_000.png
+5 p- Lance_001.png
+5 p- Lance_002.png
+C67                               #bonewalker move SFE
+5 p- Lance_003.png
+5 p- Lance_004.png
+5 p- Lance_005.png
+8 p- Lance_006.png
+15 p- Lance_007.png
+1 p- Lance_008.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C23                               #Play shorter sword swinging SFE
+4 p- Lance_009.png
+C01                               #NOP
+4 p- Lance_010.png
+6 p- Lance_011.png
+C67                               #bonewalker move SFE
+5 p- Lance_012.png
+6 p- Lance_013.png
+5 p- Lance_014.png
+C67                               #bonewalker move SFE
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Lance_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

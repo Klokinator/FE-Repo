@@ -13,3 +13,5 @@ F2U/F2E
 Animation by Lord Zymeth, Yangfly Master.
 
 Cloud edit by Seliost1.
+
+Sword (flashy ranged, and materia ranged) by Seliost1.

@@ -2,6 +2,7 @@
 
 | <b>Sword (Astra)</b><br/><img alt="Sword (Astra)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/1.%20Sword%20(Astra)/Sword.gif"/> | <b>Sword (Fixed hand)</b><br/><img alt="Sword (Fixed hand)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/1.%20Sword%20(Fixed%20hand)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed (fixed palette)</b><br/><img alt="Unarmed (fixed palette)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20Repalette%20%5BF%5D/8.%20Unarmed%20(fixed%20palette)/Unarmed.gif"/> |
 
 ## Credits
 
@@ -15,7 +16,11 @@ Note that while this animation is in the repo and was 'made' by the creators of 
 
 Unarmed animation by Seliost1.
 
+Astra crit by Seliost1.
+
 Repalette by GigaExcalibur.
 
 Sword (Fixed hand) is a small edit to change the color on the hand. By Seliost1.
+
+Unarmed (fixed palette) is a small edit to change the color on the clothes. By Seliost1.
 

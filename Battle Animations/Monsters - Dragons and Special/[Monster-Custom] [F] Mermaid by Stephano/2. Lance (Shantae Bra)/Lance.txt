@@ -1,5 +1,5 @@
 #######################################################
-#EF Lance 
+#02 Lance Lord Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -31,11 +31,10 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Lance_016.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 ~~~
 /// - Mode 3               #Melee Critical Animation
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
-1 p- Lance_000.png
 C43                               #Play weapon stance SFE (Clicking noise)
 5 p- Lance_001.png
 5 p- Lance_002.png
@@ -80,13 +79,12 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Lance_016.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Lance_021.png
+C43                               #Play weapon stance SFE (Clicking noise)
 ~~~
 /// - Mode 5               #Ranged Animation 
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
-1 p- Lance_000.png
-C43                               #Play weapon stance SFE (Clicking noise)
-5 p- Lance_001.png
 5 p- Lance_002.png
 5 p- Lance_003.png
 5 p- Lance_004.png
@@ -109,13 +107,13 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Lance_016.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Lance_000.png
+C43                               #Play weapon stance SFE (Clicking noise)
+5 p- Lance_001.png
 ~~~
 /// - Mode 6               #Ranged Critical Animation
-C03                               #Start attack animation; need 07 right after this.
-C07                               #Start attack animation; need 03 right before this.
-1 p- Lance_000.png
-C43                               #Play weapon stance SFE (Clicking noise)
-5 p- Lance_001.png
 5 p- Lance_002.png
 5 p- Lance_003.png
 5 p- Lance_004.png
@@ -158,50 +156,50 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Lance_016.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
+C02                               #Start of dodge
+1 p- Lance_000.png
+2 p- Lance_001.png
+2 p- Lance_022.png
 ~~~
 /// - Mode 7               #Dodge Melee Attack
-C02                               #Start of dodge
-1 p- Lance_000.png
-2 p- Lance_001.png
-2 p- Lance_021.png
-2 p- Lance_022.png
+2 p- Lance_023.png
 C01                               #NOP
-2 p- Lance_021.png
+2 p- Lance_022.png
 2 p- Lance_001.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
+C02                               #Start of dodge
+1 p- Lance_000.png
+2 p- Lance_001.png
+2 p- Lance_022.png
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
-C02                               #Start of dodge
-1 p- Lance_000.png
-2 p- Lance_001.png
-2 p- Lance_021.png
-2 p- Lance_022.png
+2 p- Lance_023.png
 C01                               #NOP
-2 p- Lance_021.png
+2 p- Lance_022.png
 2 p- Lance_001.png
 1 p- Lance_000.png
 C0D                               #End of dodge animation. preceeded by 0x06
+3 p- Lance_000.png
+C01                               #NOP
+3 p- Lance_000.png
+C01                               #NOP
 ~~~
 /// - Mode 9               #Equiped with Melee Weapon
-3 p- Lance_000.png
-C01                               #NOP
-~~~
-/// - Mode 10               #Standing motions
-3 p- Lance_000.png
-C01                               #NOP
-~~~
-/// - Mode 11               #Equiped with Ranged weapon
 2 p- Lance_000.png
 C01                               #NOP
 ~~~
-/// - Mode 12               #Attack Missed Animation
+/// - Mode 10               #Standing motions
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 1 p- Lance_000.png
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
 C43                               #Play weapon stance SFE (Clicking noise)
 5 p- Lance_001.png
 5 p- Lance_002.png
+~~~
+/// - Mode 12               #Attack Missed Animation
 5 p- Lance_003.png
 5 p- Lance_004.png
 4 p- Lance_005.png

@@ -1,0 +1,303 @@
+#######################################################
+#0131 
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+C54                               #未使用　何もなし
+1 p- Sword _000.png
+10 p- Sword _001.png
+6 p- Sword _002.png
+C1D                               #ロードナイトの足音
+6 p- Sword _003.png
+C22                               #リンロードの剣を振る音
+16 p- Sword _004.png
+4 p- Sword _005.png
+C23                               #剣を振る音　小さい
+3 p- Sword _006.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C15                               #画面揺れる　小さい
+C21                               #通常攻撃の効果音
+C1A                               #ノーマルヒットのエフェクト
+1 p- Sword _007.png
+C01                               #NOP
+2 p- Sword _008.png
+C1E                               #ナイトの足音
+2 p- Sword _009.png
+1 p- Sword _010.png
+C23                               #剣を振る音　小さい
+4 p- Sword _011.png
+6 p- Sword _012.png
+1 p- Sword _013.png
+1 p- Sword _014.png
+1 p- Sword _015.png
+1 p- Sword _016.png
+7 p- Sword _017.png
+2 p- Sword _018.png
+1 p- Sword _019.png
+1 p- Sword _020.png
+C15                               #画面揺れる　小さい
+3 p- Sword _021.png
+4 p- Sword _022.png
+C1E                               #ナイトの足音
+5 p- Sword _023.png
+5 p- Sword _024.png
+6 p- Sword _025.png
+8 p- Sword _026.png
+10 p- Sword _027.png
+C1C                               #ナイトの足音
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Sword _028.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+C54                               #未使用　何もなし
+1 p- Sword _000.png
+10 p- Sword _001.png
+6 p- Sword _002.png
+C1D                               #ロードナイトの足音
+6 p- Sword _003.png
+C22                               #リンロードの剣を振る音
+6 p- Sword _004.png
+3 p- Sword _029.png
+C38                               #槍を回す音
+3 p- Sword _030.png
+3 p- Sword _031.png
+3 p- Sword _032.png
+3 p- Sword _033.png
+3 p- Sword _034.png
+6 p- Sword _035.png
+6 p- Sword _034.png
+6 p- Sword _036.png
+6 p- Sword _034.png
+6 p- Sword _035.png
+3 p- Sword _037.png
+2 p- Sword _038.png
+3 p- Sword _039.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+2 p- Sword _040.png
+3 p- Sword _041.png
+5 p- Sword _042.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+5 p- Sword _043.png
+5 p- Sword _044.png
+2 p- Sword _038.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+3 p- Sword _039.png
+2 p- Sword _040.png
+3 p- Sword _041.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+5 p- Sword _042.png
+5 p- Sword _043.png
+4 p- Sword _044.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+1 p- Sword _038.png
+2 p- Sword _039.png
+1 p- Sword _040.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+2 p- Sword _041.png
+3 p- Sword _042.png
+3 p- Sword _043.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+3 p- Sword _044.png
+1 p- Sword _038.png
+2 p- Sword _039.png
+1 p- Sword _040.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+2 p- Sword _041.png
+3 p- Sword _042.png
+3 p- Sword _043.png
+3 p- Sword _044.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+1 p- Sword _038.png
+2 p- Sword _039.png
+1 p- Sword _040.png
+2 p- Sword _041.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+3 p- Sword _042.png
+3 p- Sword _043.png
+3 p- Sword _044.png
+1 p- Sword _038.png
+2 p- Sword _039.png
+C1C                               #ナイトの足音
+C15                               #画面揺れる　小さい
+1 p- Sword _040.png
+2 p- Sword _041.png
+3 p- Sword _042.png
+3 p- Sword _043.png
+3 p- Sword _044.png
+C21                               #通常攻撃の効果音
+C0C                               #クリティカルヒット
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+1 p- Sword _007.png
+C01                               #NOP
+1 p- Sword _008.png
+C1E                               #ナイトの足音
+2 p- Sword _009.png
+2 p- Sword _010.png
+C23                               #剣を振る音　小さい
+4 p- Sword _011.png
+6 p- Sword _012.png
+1 p- Sword _013.png
+1 p- Sword _014.png
+1 p- Sword _015.png
+1 p- Sword _016.png
+7 p- Sword _017.png
+2 p- Sword _018.png
+1 p- Sword _019.png
+1 p- Sword _020.png
+C15                               #画面揺れる　小さい
+3 p- Sword _021.png
+4 p- Sword _022.png
+C1E                               #ナイトの足音
+5 p- Sword _023.png
+5 p- Sword _024.png
+6 p- Sword _025.png
+8 p- Sword _026.png
+10 p- Sword _027.png
+C1C                               #ナイトの足音
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Sword _028.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Sword _000.png
+7 p- Sword _001.png
+5 p- Sword _002.png
+C1D                               #ロードナイトの足音
+5 p- Sword _003.png
+C05                               #魔法の呼び出し
+C22                               #リンロードの剣を振る音
+1 p- Sword _004.png
+C01                               #NOP
+6 p- Sword _045.png
+C1C                               #ナイトの足音
+7 p- Sword _027.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Sword _028.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Sword _000.png
+7 p- Sword _001.png
+5 p- Sword _002.png
+C1D                               #ロードナイトの足音
+5 p- Sword _003.png
+C22                               #リンロードの剣を振る音
+2 p- Sword _046.png
+1 p- Sword _004.png
+3 p- Sword _046.png
+1 p- Sword _004.png
+3 p- Sword _046.png
+1 p- Sword _004.png
+C05                               #魔法の呼び出し
+1 p- Sword _046.png
+1 p- Sword _004.png
+C01                               #NOP
+6 p- Sword _045.png
+C1C                               #ナイトの足音
+7 p- Sword _027.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Sword _028.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Sword _000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+C1C                               #ナイトの足音
+3 p- Sword _047.png
+1 p- Sword _048.png
+C01                               #NOP
+C1C                               #ナイトの足音
+3 p- Sword _047.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Sword _000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+C1C                               #ナイトの足音
+3 p- Sword _047.png
+1 p- Sword _048.png
+C01                               #NOP
+C1C                               #ナイトの足音
+3 p- Sword _047.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+1 p- Sword _000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+1 p- Sword _000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+1 p- Sword _000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Sword _000.png
+10 p- Sword _001.png
+6 p- Sword _002.png
+C1D                               #ロードナイトの足音
+6 p- Sword _003.png
+C22                               #リンロードの剣を振る音
+14 p- Sword _004.png
+3 p- Sword _005.png
+C23                               #剣を振る音　小さい
+3 p- Sword _049.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C15                               #画面揺れる　小さい
+1 p- Sword _050.png
+C01                               #NOP
+4 p- Sword _051.png
+C1E                               #ナイトの足音
+3 p- Sword _010.png
+C23                               #剣を振る音　小さい
+4 p- Sword _011.png
+6 p- Sword _012.png
+1 p- Sword _013.png
+1 p- Sword _014.png
+1 p- Sword _015.png
+1 p- Sword _016.png
+6 p- Sword _017.png
+3 p- Sword _018.png
+1 p- Sword _019.png
+1 p- Sword _020.png
+C15                               #画面揺れる　小さい
+3 p- Sword _021.png
+4 p- Sword _022.png
+C1E                               #ナイトの足音
+5 p- Sword _023.png
+5 p- Sword _024.png
+6 p- Sword _025.png
+8 p- Sword _026.png
+10 p- Sword _027.png
+C1C                               #ナイトの足音
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Sword _028.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

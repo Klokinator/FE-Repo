@@ -15,3 +15,5 @@ Lance by Skitty and Feaw.
 Smoothed Sword by Jey the Count.
 
 Magic by SaintRubenio.
+
+Unarmed (Mount only) by tatata.

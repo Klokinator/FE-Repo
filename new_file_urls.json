@@ -1,0 +1,33 @@
+{
+  "Battle Animations": [
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BMisc%5D%20Warrior%20Naga%20%5BU%5D%20by%20Jotari",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes%2F%5BHero-Custom%5D%20Goldmary%20%5BF%5D%20by%20SteamingTofu",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BMarshall%5D%20Zelgius%20v2%20%28Black%20Knight%29%20%5BM%5D",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMagi%20-%20Dark-Type%2F%5BT2%20Druid-Custom%5D%20%5BF%5D%20Sophia%20by%20SteamingTofu",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BManakete-Custom%5D%20Corrin%20%5BF%5D%20by%20Grima_42o",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Dismounted%2C%20Monsters%2C%20Misc%2F%5BCavalier-Custom%5D%20Snail%20Knight%20%5BM%5D%20by%20Squid1003"
+  ],
+  "Class Cards": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Class%20Cards%2FMounted%20-%20Dismounted%2C%20Monsters%2C%20Misc%2FSnail%20Knight%20%28M%29%20T1%20%7BSquid1003%7D.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Class%20Cards%2FMounted%20-%20Dismounted%2C%20Monsters%2C%20Misc%2FSnail%20Knight%20%28M%29%20T2%20%7BSquid1003%7D.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Class%20Cards%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2FValkyrie%20%28F%29%20Mage%20Knight%20Style%20%7BLeif%7D.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Class%20Cards%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2FValkyrie%20%28M%29%20Mage%20Knight%20Style%20%7BLeif%7D.png"
+  ],
+  "Item Icons": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BAugenis%7D%20Shouzou%20Kaga%20%28No%20Teeth%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BAugenis%7D%20Shouzou%20Kaga%20%28Teeth%29.png"
+  ],
+  "Map Sprites": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Nature-Type%2FMage%20%28M%29%20Thief%20%7BFEGirls%2C%20Glueseppers%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Nature-Type%2FMage%20%28M%29%20Thief%20%7BFEGirls%2C%20Glueseppers%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMonsters%20-%20Dragons%20and%20Special%2FFeral%20Dragon%20%28Corrin%29%20%28U%29%20Fe%20Fates%20%7BIS%2C%20Seliost1%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMonsters%20-%20Dragons%20and%20Special%2FFeral%20Dragon%20%28Corrin%29%20%28U%29%20Fe%20Fates%20%7BIS%2C%20Seliost1%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Dismounted%2C%20Monsters%2C%20Misc%2FSnail%20Knight%20%28M%29%20%7BSquid1003%7D-stand%20.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Dismounted%2C%20Monsters%2C%20Misc%2FSnail%20Knight%20%28M%29%20%7BSquid1003%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2FValkyrie%20%28F%29%20Mage%20Knight%20Style%20%7BLeif%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2FValkyrie%20%28F%29%20Mage%20Knight%20Style%20%7BLeif%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2FValkyrie%20%28M%29%20Mage%20Knight%20Style%20%7BLeif%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2FValkyrie%20%28M%29%20Mage%20Knight%20Style%20%7BLeif%7D-walk.png"
+  ],
+  "Portrait Repository": []
+}

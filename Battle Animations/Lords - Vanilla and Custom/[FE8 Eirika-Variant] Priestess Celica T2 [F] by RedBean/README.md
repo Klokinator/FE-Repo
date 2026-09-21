@@ -1,0 +1,14 @@
+# [\[FE8 Eirika-Variant\] Priestess Celica T2 \[F\] by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword (T2 Basic)</b><br/><img alt="Sword (T2 Basic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean/1.%20Sword%20(T2%20Basic)/Sword.gif"/> | <b>Sword (T2 Thunder 1)</b><br/><img alt="Sword (T2 Thunder 1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean/1.%20Sword%20(T2%20Thunder%201)/Sword.gif"/> | <b>Sword (T2 Thunder 2)</b><br/><img alt="Sword (T2 Thunder 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean/1.%20Sword%20(T2%20Thunder%202)/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Magic (T2)</b><br/><img alt="Magic (T2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean/6.%20Magic%20(T2)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean/7.%20Staff/Staff.gif"/> | <b>Unarmed (T2)</b><br/><img alt="Unarmed (T2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Variant%5D%20Priestess%20Celica%20T2%20%5BF%5D%20by%20RedBean/8.%20Unarmed%20(T2)/Unarmed.gif"/> |
+
+## Credits
+
+F2U/F2E
+
+Made by Red Bean.
+
+Scripted by Jeorge_Reds.
+

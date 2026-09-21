@@ -17,3 +17,5 @@ Sword by RattleSalad.
 Range crit by Seliost1.
 
 Sword (Vanilla Sword) edit by Seliost1.
+
+Axe by tatata.

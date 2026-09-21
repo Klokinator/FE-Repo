@@ -2,6 +2,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20MGR%20-%20Hero%20Raiden%20%5BM%5D%20by%20RattleSalad/1.%20Sword/Sword.gif"/> | <b>Sword (ranged crit)</b><br/><img alt="Sword (ranged crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20MGR%20-%20Hero%20Raiden%20%5BM%5D%20by%20RattleSalad/1.%20Sword%20(ranged%20crit)/Sword.gif"/> | <b>Sword (Vanilla Sword)</b><br/><img alt="Sword (Vanilla Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20MGR%20-%20Hero%20Raiden%20%5BM%5D%20by%20RattleSalad/1.%20Sword%20(Vanilla%20Sword)/Sword.gif"/> |
 | :---: | :---: | :---: |
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20MGR%20-%20Hero%20Raiden%20%5BM%5D%20by%20RattleSalad/3.%20Axe/Axe.gif"/> |
 
 ## Credits
 
@@ -14,4 +15,6 @@ Sword by RattleSalad.
 Range crit by Seliost1.
 
 Sword (Vanilla Sword) edit by Seliost1.
+
+Axe by tatata.
 

@@ -11,3 +11,5 @@
 F2U/F2E
 
 Made by Aruka, Kenpuhu.
+
+Bow by Seliost1.

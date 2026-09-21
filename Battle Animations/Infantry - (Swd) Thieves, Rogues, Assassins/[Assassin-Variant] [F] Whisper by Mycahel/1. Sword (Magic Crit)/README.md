@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Animation by {Mycahel}.
 
 1. Knife by Seliost1.

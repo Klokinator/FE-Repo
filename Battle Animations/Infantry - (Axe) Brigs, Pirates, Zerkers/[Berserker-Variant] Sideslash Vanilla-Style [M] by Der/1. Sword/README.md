@@ -15,3 +15,5 @@ Side-slashing Dozlazerker variant originally made by Aruka and Kenpuhu.
 Derserker variant made by DerTheVaporeon.
 
 Sword by CookieMaster.
+
+Axe (Alt Crit) by Enthusiasm.

@@ -1,0 +1,42 @@
+#######################################################
+#6D godd_hk1 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+9 p- revert_000.png
+3 p- revert_001.png
+4 p- revert_002.png
+2 p- revert_003.png
+2 p- revert_004.png
+4 p- revert_005.png
+4 p- revert_006.png
+4 p- revert_007.png
+2 p- revert_008.png
+2 p- revert_009.png
+2 p- revert_010.png
+2 p- revert_011.png
+2 p- revert_012.png
+2 p- revert_013.png
+2 p- revert_014.png
+1 p- revert_015.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+~~~
+/// - Mode 5               #Ranged Animation 
+~~~
+/// - Mode 6               #Ranged Critical Animation
+~~~
+/// - Mode 7               #Dodge Melee Attack
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+~~~
+/// - Mode 10               #Standing motions
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+~~~
+/// - Mode 12               #Attack Missed Animation
+~~~
+/// - End of animation

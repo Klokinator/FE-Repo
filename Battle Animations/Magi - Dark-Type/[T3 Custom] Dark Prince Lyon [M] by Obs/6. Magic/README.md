@@ -14,4 +14,6 @@ Custom animation by Obsidian Daddy.
 
 Scripting by Rexacuse, Leo Link.
 
-Lyon Edit by Jey the Count
+Lyon Edit by Jey the Count.
+
+Staff by UltraFenix.

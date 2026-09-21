@@ -11,3 +11,9 @@
 F2U/F2E
 
 Vanilla animation made by IS.
+
+1. Sword (Greatsword) by tatata
+
+3. Axe by tatata
+
+4. Handaxe by tatata

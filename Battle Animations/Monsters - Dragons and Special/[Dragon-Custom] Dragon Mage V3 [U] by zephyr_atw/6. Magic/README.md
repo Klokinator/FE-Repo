@@ -1,0 +1,17 @@
+# [\[Dragon-Custom\] Dragon Mage V3 \[U\] by zephyr_atw](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BDragon-Custom%5D%20Dragon%20Mage%20V3%20%5BU%5D%20by%20zephyr_atw%2F6.%20Magic) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+## Magic
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Magic still](./Magic_000.png) | ![Magic](./Magic.gif) |
+
+## Credit
+
+F2U/F2E
+
+(Inspired) Animation by zephyr_atw.
+
+Some animation pieces used from Yonyin and Tutún Negal animation.
+
+Scripit by Seliost1 - Edited by zeephyr_atw.

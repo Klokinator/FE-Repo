@@ -19,3 +19,9 @@ Edit by ShadowAllyX.
 Crossbow Animation by Sphealnuke.
 
 Crossbow Animation commissioned by Greg.
+
+Sword by tatata
+
+Axe by tatata
+
+Handaxe by tatata

@@ -1,0 +1,17 @@
+# [\[Troubadour-Reskin\] Short Hair Repal \[F\] by UltraFenix](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Valks%2C%20MKs%2C%20Magi%2F%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20UltraFenix%2F1.%20Sword) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+## Sword
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Sword still](./Sword_000.png) | ![Sword](./Sword.gif) |
+
+## Credit
+
+F2U/F2E
+
+Animation by BatimaTheBat.
+
+Original Sword Animation by TBA. Extra frames from Sword Cavalier by Leo_Link
+
+Alt Repal By UltraFenix.

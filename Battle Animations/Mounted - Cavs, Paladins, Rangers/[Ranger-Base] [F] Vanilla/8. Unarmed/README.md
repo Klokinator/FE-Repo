@@ -13,3 +13,5 @@ Vanilla animation by IS.
 Lance by Skitty and Feaw.
 
 Magic by SaintRubenio.
+
+Unarmed (Mount only) by tatata.

@@ -13,3 +13,5 @@ Unarmed palette fix by UltraFenix.
 
 Magic by UltraFenix, using Light Mage by Leo_link and L95 as base.
 
+UltraFenix fixes a pixel mistake in all animations.
+

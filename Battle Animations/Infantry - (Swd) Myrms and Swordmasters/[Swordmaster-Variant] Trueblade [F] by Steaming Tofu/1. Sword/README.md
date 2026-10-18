@@ -13,3 +13,5 @@ F2U/F2E
 Created by SteamingTofu.
 
 Alt range and Unarmed by Seliost1.
+
+Sword (for both miss animations) by Seliost1.

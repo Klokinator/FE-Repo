@@ -1,0 +1,31 @@
+Cynon's Fort Tileset by Cynon
+
+---
+Using these tilesets;
+
+A lot of tiles are placed about where they are on the vanilla fields and Super Fields tilesets, so that people familiar with those will have an easier time using this one.
+
+I would like to know about any uses of this tileset, so that I can see how people other than me use it to build maps. This will help me identify problems with it down the line and fix them and improve it. 
+
+You're free to make palettes for this and to add them here. This tileset only uses 4 palettes and there are a few colors common to all palettes.
+
+---
+
+Uses tiles adapted and modified from;
+- Fire Emblem 6
+- Fire Emblem 8
+- Treasure of the Rudras
+- Bahamut Lagoon
+- Final Fantasy 6 (SNES)
+- Pokemon Mystery Dungeon
+
+---
+Tileset strengths;
+- Extremely easy to make your own palettes.
+- Easy to make very elaborate village shapes.
+- An extra color on most of the buildings is used to make lights appear on them on the nighttime palettes. 
+- (Most) mountain tiles are in the exact same places on Fields/Super Fields for familiarity's sake.
+---
+
+Known issues:
+- Getting used to the cliffs might take some time.

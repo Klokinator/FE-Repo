@@ -11,3 +11,5 @@
 F2U/F2E
 
 Made by Greentea, DerTheVaporeon, Nuramon.
+
+Sword (Eckesachs) by tatata.

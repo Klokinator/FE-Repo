@@ -5,3 +5,5 @@ Animation by Red Bean.
 Scripting by Marlon0024.
 
 Improved + Fixed script by Seliost1 and 7743.
+
+Sword (Alt) by Seliost1.

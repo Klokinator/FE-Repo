@@ -8,4 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Animation by Nuramon.
+
+Combination of Lance and Tail Spike by Seliost1.

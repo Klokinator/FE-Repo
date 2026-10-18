@@ -1,0 +1,30 @@
+{
+  "Battle Animations": [
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FBards%2C%20Dancers%2C%20Suppliers%2C%20Misc%2F%5BDancer-Reskin%5D%20%5BF%5D%20Ashera%20Repal%20by%20XaneLover",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Bow%29%20Archers%20and%20Hunters%2F%5BGunner-Reskin%5D%20LoR%20Angela%20%5BF%5D%20by%20Seliost1",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20%28Bow%29%20Archers%20and%20Hunters%2F%5BGunner-Reskin%5D%20Saoirse%20Bersagliere%20%28No%20Prosthetic%20Leg%29%20%5BF%5D%20by%20VelvetKitsune",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20Vanilla%20and%20Custom%2F%5BFE7%20Lyn-Reskin%5D%20T2%20Ronin%20%5BM%5D%20by%20Seliost1",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMonsters%20-%20Dragons%20and%20Special%2F%5BManakete-Custom%5D%20Deer%20%5BM%5D%20by%20Pika",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalier-Reskin%5D%20%5BF%5D%20Greentea%27s%20GenderKent",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BCavalier-Reskin%5D%20%5BM%5D%20Greentea-Style%20Lowen%20by%20Chatroom64"
+  ],
+  "Class Cards": [],
+  "Item Icons": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BBanryu%7D%20Apocalypse%20Reskin.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BBanryu%7D%20Sophia%27s%20Eternal%20Tome%20v3.png"
+  ],
+  "Map Sprites": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers%2FBrigand%20Lizard%20Wildling%20%28U%29%20Axe%20%7BTarantino500%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers%2FBrigand%20Lizard%20Wildling%20%28U%29%20Axe%20%7BTarantino500%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FInfantry%20-%20%28Axe%29%20Fighters%20and%20Warriors%2FWarrior%20%28F%29%20Camilla%20%7BBanryu%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FLords%20-%20Vanilla%20and%20Custom%2FLord%20%28M%29%20Eliwood%20Sword%20%28Dark%20Hair%29%20%7BMattiator%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FLords%20-%20Vanilla%20and%20Custom%2FLord%20%28M%29%20Eliwood%20Sword%20%28Dark%20Hair%29%20%7BMattiator%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Dark-Type%2FDark%20Mage%20%28F%29%20Tharja%20%7BBanryu%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Dark-Type%2FDark%20Mage%20%28F%29%20Tharja%20%7BBanryu%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Dark-Type%2FDruid%20%28F%29%20Dancer%20%7BBanryu%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Dark-Type%2FDruid%20%28F%29%20Dancer%20%7BBanryu%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2FMalig%20Knight%20%28F%29%20Axe%20Camilla%20%7BBanryu%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons%2FMalig%20Knight%20%28F%29%20Axe%20Camilla%20%7BBanryu%7D-walk.png"
+  ],
+  "Portrait Repository": []
+}

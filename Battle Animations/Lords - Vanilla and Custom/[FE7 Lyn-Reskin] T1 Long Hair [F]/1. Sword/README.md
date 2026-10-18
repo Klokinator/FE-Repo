@@ -12,4 +12,6 @@ F2U/F2E
 
 Frames by Blazt.
 
-Formatted by Seliost1.
+Formatted and fix by Seliost1.
+
+

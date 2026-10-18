@@ -8,6 +8,6 @@
 
 ## Credit
 
-F2U/F2E
+Created by SteamingTofu.
 
-Created by SteamingTofu
+Staff design and spinning by Steven the Glimmet.

@@ -22,3 +22,5 @@ Sword (alt) by Seliost1.
 
 Unarmed (Sans Luceid palette) by Seliost1.
 
+Sword (Airgetlam - Ranged) (Sans Luceid palette) by Seliost1.
+

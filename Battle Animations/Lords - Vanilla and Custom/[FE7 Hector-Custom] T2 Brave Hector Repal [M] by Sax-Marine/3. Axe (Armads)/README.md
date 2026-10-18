@@ -13,3 +13,7 @@ F2U/F2E
 Original animation by Nuramon.
 
 Repalette by Sax-Marine.
+
+Armads ported by tatata.
+
+Magic by tatata.

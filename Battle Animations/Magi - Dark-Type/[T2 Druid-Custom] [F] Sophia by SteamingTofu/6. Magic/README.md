@@ -11,3 +11,5 @@
 F2U/F2E
 
 Created by SteamingTofu
+
+Staff animations by NoMan.

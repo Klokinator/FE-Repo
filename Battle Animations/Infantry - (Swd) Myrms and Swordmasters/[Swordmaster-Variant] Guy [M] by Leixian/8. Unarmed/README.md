@@ -8,10 +8,12 @@
 
 ## Credit
 
+F2U/F2E
+
 Base animation by Greentea (Lloyd Alt).
 
 Reskin by Leixian.
 
-Only F2U until further notice.
-
 Unarmed by Seliost1.
+
+Sword (Alt, Alt 2, Alt 3), and Axe by Seliost1.

@@ -6,6 +6,8 @@
 
 ## Credits
 
+F2U/F2E
+
 Animation by Aruka, Kenpuhu.
 
 

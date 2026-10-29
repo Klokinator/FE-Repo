@@ -1,0 +1,33 @@
+F2U/F2E
+
+Vanilla animation base and Eckesachs/Unarmed by IS.
+
+All weapon variants sprited by Hairyblob from Deviantart.
+
+Importing/scripting of all new weapons by Maiser6.
+
+Repal Fix by MageBoy.
+
+Eckesachs(No transformation) critical animation：Victor.
+
+Edits by tatutachang.
+
+Sword (Durandal) by Tatata.
+
+Axe (Armads) by Tatata.
+
+Original Bulwark King Motion by Leo_Link.
+
+Sword (Bulwark King Motion)by tatata
+
+Lance (Bulwark King Motion)by tatata
+
+Axe (Bulwark King Motion)by tatata
+
+Handaxe (Bulwark King Motion)by tatata
+
+Bow by tatata
+
+Magic (Bulwark King Motion)by tatata
+
+Staff (Magic)by tatata

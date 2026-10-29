@@ -14,4 +14,6 @@ Sword by MK404.
 
 Staff by MakeFEGayer, fixes by UltraxBlade.
 
+Unarmed (Mount only) by tatata.
+
 

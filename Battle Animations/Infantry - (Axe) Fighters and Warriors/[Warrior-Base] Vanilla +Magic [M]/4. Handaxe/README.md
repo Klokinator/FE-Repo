@@ -21,3 +21,7 @@ Magic and Staff by Orihara_Saki.
 Realer Axe by Sphealnuke. Commissioned by MournfulRelic.
 
 Axe (+Handaxe) by Yerek.
+
+Sword (Durandal) by tatata.
+
+Axe (Armads) by tatata.

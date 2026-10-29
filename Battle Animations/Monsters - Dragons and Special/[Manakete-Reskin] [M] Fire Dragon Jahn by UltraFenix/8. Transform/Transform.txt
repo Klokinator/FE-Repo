@@ -1,0 +1,228 @@
+#######################################################
+#0F Transform Hero Hand Axe
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Transform_000.png
+5 p- Transform_001.png
+4 p- Transform_002.png
+3 p- Transform_003.png
+C3E                               #Play burning SFE
+3 p- Transform_004.png
+3 p- Transform_005.png
+3 p- Transform_006.png
+C3E                               #Play burning SFE
+3 p- Transform_007.png
+3 p- Transform_008.png
+3 p- Transform_009.png
+C3E                               #Play burning SFE
+3 p- Transform_007.png
+3 p- Transform_008.png
+3 p- Transform_010.png
+C3E                               #Play burning SFE
+3 p- Transform_011.png
+3 p- Transform_012.png
+SF2                               #Sound 242 SE:Fire shoot
+4 p- Transform_013.png
+4 p- Transform_014.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+SE6                               #Sound 230 SE:Mamkute transform growl
+70 p- Transform_015.png
+1 p- Transform_016.png
+1 p- Transform_017.png
+1 p- Transform_018.png
+C51                               #Show brief white flash animation. Do NOT USE because conflict skill animation. alternative is C39.
+S02F0                               #Sound 752 SE:Rumbling at the Dragon's Gate
+C15                               #Slight vibration of screen
+3 p- Transform_019.png
+C15                               #Slight vibration of screen
+2 p- Transform_020.png
+C15                               #Slight vibration of screen
+3 p- Transform_021.png
+C15                               #Slight vibration of screen
+3 p- Transform_022.png
+C15                               #Slight vibration of screen
+2 p- Transform_023.png
+C15                               #Slight vibration of screen
+3 p- Transform_024.png
+C15                               #Slight vibration of screen
+3 p- Transform_025.png
+C15                               #Slight vibration of screen
+2 p- Transform_026.png
+C15                               #Slight vibration of screen
+3 p- Transform_027.png
+C15                               #Slight vibration of screen
+3 p- Transform_028.png
+C15                               #Slight vibration of screen
+3 p- Transform_029.png
+C15                               #Slight vibration of screen
+3 p- Transform_030.png
+C15                               #Slight vibration of screen
+3 p- Transform_031.png
+C15                               #Slight vibration of screen
+2 p- Transform_032.png
+C15                               #Slight vibration of screen
+3 p- Transform_033.png
+C15                               #Slight vibration of screen
+3 p- Transform_034.png
+C15                               #Slight vibration of screen
+2 p- Transform_035.png
+C15                               #Slight vibration of screen
+3 p- Transform_036.png
+C15                               #Slight vibration of screen
+2 p- Transform_037.png
+C15                               #Slight vibration of screen
+3 p- Transform_038.png
+C15                               #Slight vibration of screen
+3 p- Transform_039.png
+C15                               #Slight vibration of screen
+3 p- Transform_040.png
+C15                               #Slight vibration of screen
+3 p- Transform_041.png
+C15                               #Slight vibration of screen
+3 p- Transform_042.png
+C15                               #Slight vibration of screen
+2 p- Transform_043.png
+C15                               #Slight vibration of screen
+3 p- Transform_044.png
+C15                               #Slight vibration of screen
+3 p- Transform_045.png
+C15                               #Slight vibration of screen
+3 p- Transform_046.png
+C15                               #Slight vibration of screen
+2 p- Transform_047.png
+C15                               #Slight vibration of screen
+2 p- Transform_048.png
+2 p- Transform_048.png
+2 p- Transform_048.png
+2 p- Transform_049.png
+2 p- Transform_049.png
+10 p- Transform_050.png
+4 p- Transform_049.png
+6 p- Transform_048.png
+4 p- Transform_049.png
+31 p- Transform_050.png
+10 p- Transform_051.png
+4 p- Transform_050.png
+3 p- Transform_052.png
+19 p- Transform_053.png
+3 p- Transform_052.png
+4 p- Transform_050.png
+13 p- Transform_051.png
+C15                               #Slight vibration of screen
+S02F1                               #Sound 753 SE:Dragons screaming
+3 p- Transform_054.png
+C14                               #Heavy vibration of screen
+2 p- Transform_055.png
+2 p- Transform_054.png
+C14                               #Heavy vibration of screen
+2 p- Transform_055.png
+2 p- Transform_054.png
+C14                               #Heavy vibration of screen
+3 p- Transform_055.png
+1 p- Transform_054.png
+C14                               #Heavy vibration of screen
+1 p- Transform_054.png
+2 p- Transform_055.png
+C14                               #Heavy vibration of screen
+3 p- Transform_054.png
+C14                               #Heavy vibration of screen
+4 p- Transform_054.png
+C14                               #Heavy vibration of screen
+4 p- Transform_055.png
+C14                               #Heavy vibration of screen
+3 p- Transform_055.png
+C14                               #Heavy vibration of screen
+2 p- Transform_054.png
+C14                               #Heavy vibration of screen
+5 p- Transform_050.png
+C14                               #Heavy vibration of screen
+13 p- Transform_050.png
+17 p- Transform_050.png
+21 p- Transform_050.png
+23 p- Transform_050.png
+1 p- Transform_050.png
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Transform_000.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C08                               #Critical hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+1 p- Transform_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Transform_000.png
+C05                               #Call spell associated with equipped weapon
+1 p- Transform_000.png
+C01                               #NOP
+1 p- Transform_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Transform_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Transform_000.png
+C05                               #Call spell associated with equipped weapon
+1 p- Transform_000.png
+C01                               #NOP
+1 p- Transform_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Transform_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Transform_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Transform_000.png
+C01                               #NOP
+1 p- Transform_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Transform_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Transform_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+1 p- Transform_000.png
+C01                               #NOP
+1 p- Transform_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+1 p- Transform_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Transform_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Transform_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Transform_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Transform_000.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C01                               #NOP
+1 p- Transform_000.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

@@ -1,0 +1,1 @@
+grima_42o made the still sprites. They were animated by Jotari. Female Corrin is in the Item folder, you should be able to easily edit her in if you want female Corrin.

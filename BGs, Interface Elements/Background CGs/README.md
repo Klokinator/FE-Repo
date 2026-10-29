@@ -12,6 +12,8 @@ undefined## [7743's BG's {7743}](7743's%20BG's%20%7B7743%7D)
 
 ## [Battlefield V Screenshots {WAve}](Battlefield%20V%20Screenshots%20%7BWAve%7D)
 
+## [Cynon's BGs](Cynon's%20BGs)
+
 ## [FE5 CG's](FE5%20CG's)
 
 ## [FE7 BG's](FE7%20BG's)
@@ -21,6 +23,8 @@ undefined## [7743's BG's {7743}](7743's%20BG's%20%7B7743%7D)
 ## [FE9-10 CG Rips](FE9-10%20CG%20Rips)
 
 ## [FEGBA Cutscene BGs as Battle BGs {CelestiaHeart}](FEGBA%20Cutscene%20BGs%20as%20Battle%20BGs%20%7BCelestiaHeart%7D)
+
+## [Fenriel's BG](Fenriel's%20BG)
 
 ## [FF GBA {Fenreir}](FF%20GBA%20%7BFenreir%7D)
 
@@ -46,8 +50,6 @@ undefined## [7743's BG's {7743}](7743's%20BG's%20%7B7743%7D)
 
 ## [WAve's BGs {WAve} [F2E]](WAve's%20BGs%20%7BWAve%7D%20%5BF2E%5D)
 
-## [Winter {Fenriel}](Winter%20%7BFenriel%7D)
-
 ## [Zakuro No Aji {SmithyGCN}](Zakuro%20No%20Aji%20%7BSmithyGCN%7D)
 
-![Japanese bg 01 {Fenrier}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Japanese%20bg%2001%20%7BFenrier%7D.png "Japanese bg 01 {Fenrier}.png")![Japanese bg 02 {Fenrier}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Japanese%20bg%2002%20%7BFenrier%7D.png "Japanese bg 02 {Fenrier}.png")![Langrisser II Castle {Fenreir}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Langrisser%20II%20Castle%20%7BFenreir%7D.png "Langrisser II Castle {Fenreir}.png")![Langrisser II Dark Sword {Fenreir}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Langrisser%20II%20Dark%20Sword%20%7BFenreir%7D.png "Langrisser II Dark Sword {Fenreir}.png")![Mausoleum BG {Google Images, CanDy}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Mausoleum%20BG%20%7BGoogle%20Images,%20CanDy%7D.png "Mausoleum BG {Google Images, CanDy}.png")![Power Rangers BG {Fenreir}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Power%20Rangers%20BG%20%7BFenreir%7D.png "Power Rangers BG {Fenreir}.png")![Sky bg 1 {Fenreir}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Sky%20bg%201%20%7BFenreir%7D.png "Sky bg 1 {Fenreir}.png")![Sky bg 2 {Fenreir}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Sky%20bg%202%20%7BFenreir%7D.png "Sky bg 2 {Fenreir}.png")
+![Mausoleum BG {Google Images, Cygnus}.png](https://raw.githubusercontent.com/Klokinator/FE-Repo/main/BGs,%20Interface%20Elements/Background%20CGs/Mausoleum%20BG%20%7BGoogle%20Images,%20Cygnus%7D.png "Mausoleum BG {Google Images, Cygnus}.png")

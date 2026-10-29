@@ -1,0 +1,229 @@
+#######################################################
+#2D merm_sw1 佣兵 斧
+#
+#当输入到FEditorAdv时，请删除＃和每行之后。
+#######################################################
+/// - Mode 1               #攻击命中时的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+1 p- Axe_000.png
+3 p- Axe_001.png
+5 p- Axe_002.png
+2 p- Axe_003.png
+2 p- Axe_004.png
+2 p- Axe_005.png
+3 p- Axe_006.png
+2 p- Axe_007.png
+2 p- Axe_008.png
+1 p- Axe_009.png
+1 p- Axe_010.png
+2 p- Axe_011.png
+1 p- Axe_012.png
+3 p- Axe_013.png
+3 p- Axe_014.png
+3 p- Axe_015.png
+3 p- Axe_016.png
+3 p- Axe_017.png
+C23                               #摆动摆动声音小
+2 p- Axe_018.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C15                               #屏幕摆动很小
+C1A                               #正常命中
+C1F                               #关键音效
+1 p- Axe_019.png
+C01                               #NOP
+2 p- Axe_020.png
+2 p- Axe_021.png
+C22                               #摇摆的剑声
+2 p- Axe_022.png
+2 p- Axe_023.png
+3 p- Axe_024.png
+3 p- Axe_025.png
+2 p- Axe_026.png
+2 p- Axe_027.png
+2 p- Axe_028.png
+2 p- Axe_029.png
+1 p- Axe_030.png
+2 p- Axe_031.png
+C15                               #屏幕摆动很小
+C34                               #踢脚步声
+C06                               #攻击动画结束0D会晚点来
+2 p- Axe_001.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 3               #攻击必杀时的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+1 p- Axe_000.png
+3 p- Axe_032.png
+30 p- Axe_033.png
+8 p- Axe_032.png
+8 p- Axe_033.png
+8 p- Axe_032.png
+8 p- Axe_033.png
+15 p- Axe_034.png
+4 p- Axe_035.png
+4 p- Axe_036.png
+4 p- Axe_037.png
+4 p- Axe_038.png
+4 p- Axe_039.png
+C22                               #摇摆的剑声
+3 p- Axe_040.png
+2 p- Axe_041.png
+1 p- Axe_042.png
+2 p- Axe_043.png
+1 p- Axe_044.png
+2 p- Axe_045.png
+1 p- Axe_046.png
+2 p- Axe_047.png
+1 p- Axe_048.png
+2 p- Axe_049.png
+1 p- Axe_050.png
+2 p- Axe_051.png
+1 p- Axe_052.png
+2 p- Axe_053.png
+2 p- Axe_054.png
+2 p- Axe_055.png
+1 p- Axe_055.png
+2 p- Axe_056.png
+1 p- Axe_057.png
+C15                               #屏幕摆动很小
+2 p- Axe_058.png
+2 p- Axe_059.png
+1 p- Axe_059.png
+2 p- Axe_060.png
+1 p- Axe_060.png
+2 p- Axe_061.png
+2 p- Axe_062.png
+1 p- Axe_063.png
+2 p- Axe_064.png
+1 p- Axe_065.png
+2 p- Axe_066.png
+1 p- Axe_067.png
+2 p- Axe_068.png
+1 p- Axe_069.png
+1 p- Axe_070.png
+1 p- Axe_071.png
+2 p- Axe_072.png
+1 p- Axe_073.png
+2 p- Axe_074.png
+1 p- Axe_075.png
+1 p- Axe_076.png
+2 p- Axe_013.png
+2 p- Axe_014.png
+2 p- Axe_015.png
+2 p- Axe_016.png
+2 p- Axe_017.png
+C23                               #摆动摆动声音小
+C34                               #踢脚步声
+2 p- Axe_018.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C08                               #重击
+C14                               #屏幕震动装甲
+C1F                               #关键音效
+1 p- Axe_019.png
+C01                               #NOP
+2 p- Axe_020.png
+C23                               #摆动摆动声音小
+2 p- Axe_021.png
+2 p- Axe_022.png
+2 p- Axe_023.png
+3 p- Axe_024.png
+3 p- Axe_025.png
+2 p- Axe_026.png
+2 p- Axe_027.png
+2 p- Axe_028.png
+2 p- Axe_029.png
+1 p- Axe_030.png
+2 p- Axe_031.png
+C15                               #屏幕摆动很小
+C34                               #踢脚步声
+C06                               #攻击动画结束0D会晚点来
+2 p- Axe_001.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 5               #间接攻击的动作
+1 p- Axe_000.png
+~~~
+/// - Mode 6               #间接攻击必杀时的动作
+1 p- Axe_000.png
+~~~
+/// - Mode 7               #被攻击回避时的动作
+C02                               #避免动议开始
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_077.png
+1 p- Axe_078.png
+C01                               #NOP
+3 p- Axe_077.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 8               #被间接攻击回避时的动作
+C02                               #避免动议开始
+1 p- Axe_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Axe_077.png
+1 p- Axe_078.png
+C01                               #NOP
+3 p- Axe_077.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - Mode 9               #站立不动的动作
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #站立不动的动作
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #间接时站立不动的动作
+1 p- Axe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻击失误时的动作
+C03                               #攻击动作开始07以后会来的
+C07                               #攻击动作开始03会在这之前
+1 p- Axe_000.png
+3 p- Axe_001.png
+5 p- Axe_002.png
+2 p- Axe_003.png
+2 p- Axe_004.png
+2 p- Axe_005.png
+3 p- Axe_006.png
+2 p- Axe_007.png
+2 p- Axe_008.png
+1 p- Axe_009.png
+1 p- Axe_010.png
+2 p- Axe_011.png
+1 p- Axe_012.png
+3 p- Axe_013.png
+3 p- Axe_014.png
+3 p- Axe_015.png
+3 p- Axe_016.png
+3 p- Axe_017.png
+C23                               #摆动摆动声音小
+2 p- Axe_018.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C15                               #屏幕摆动很小
+1 p- Axe_079.png
+C01                               #NOP
+2 p- Axe_080.png
+2 p- Axe_021.png
+C22                               #摇摆的剑声
+2 p- Axe_022.png
+2 p- Axe_023.png
+3 p- Axe_024.png
+3 p- Axe_025.png
+2 p- Axe_026.png
+2 p- Axe_027.png
+2 p- Axe_028.png
+2 p- Axe_029.png
+1 p- Axe_030.png
+2 p- Axe_031.png
+C15                               #屏幕摆动很小
+C34                               #踢脚步声
+C06                               #攻击动画结束0D会晚点来
+2 p- Axe_001.png
+C0D                               #攻击动画结束06前来
+~~~
+/// - End of animation

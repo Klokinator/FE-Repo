@@ -12,4 +12,5 @@ Character Design by Wayforward(TM).
 
 Port by Stephano.
 
+Note: The No Transparency versions are for a the 'devouring' effect to not be see-through.
 

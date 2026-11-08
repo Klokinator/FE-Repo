@@ -13,3 +13,5 @@ F2U/F2E
 Animation by Keks_Krebs, Beccarte, SD9K, FPZero, Moocavo, Riku.
 
 Ponytail + Skirt edit by Sirknite031.
+
+Frame Data Fix by Chatroom64.

@@ -8,6 +8,6 @@
 
 ## Credit
 
-F2U Only
+F2U/F2E
 
-Animation by Leixian.
+Animation by Leixian. (Or by anonymous artitst.)

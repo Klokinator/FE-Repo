@@ -207,6 +207,7 @@ C42                               #Play Axe falling SFE; long axe swinging SFE
 5 p- Sword_006.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Sword_007.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Sword_069.png
 6 p- Sword_008.png
 C01                               #NOP

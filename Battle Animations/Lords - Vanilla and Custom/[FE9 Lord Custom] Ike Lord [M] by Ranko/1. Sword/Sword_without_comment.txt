@@ -211,6 +211,7 @@ C42
 5 p- Sword_006.png
 C42
 3 p- Sword_007.png
+C04
 3 p- Sword_073.png
 6 p- Sword_008.png
 C01

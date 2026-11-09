@@ -1,5 +1,5 @@
 #######################################################
-#05 Bow Great Lord Lance
+#09 lorf_sw1 
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -16,13 +16,15 @@ C19                               #Play bow pulling SFE
 5 p- Bow_006.png
 7 p- Bow_007.png
 2 p- Bow_008.png
+4 p- Bow_009.png
+2 p- Bow_010.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C1A                               #Normal hit
 C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
-3 p- Bow_009.png
-5 p- Bow_010.png
+3 p- Bow_011.png
+5 p- Bow_012.png
 2 p- Bow_003.png
-2 p- Bow_002.png
+2 p- Bow_013.png
 2 p- Bow_001.png
 1 p- Bow_000.png
 C01                               #NOP
@@ -35,30 +37,32 @@ C07                               #Start attack animation; need 03 right before 
 8 p- Bow_000.png
 2 p- Bow_001.png
 2 p- Bow_002.png
-8 p- Bow_011.png
+8 p- Bow_014.png
 2 p- Bow_004.png
 C23                               #Play shorter sword swinging SFE
-2 p- Bow_012.png
-2 p- Bow_013.png
-2 p- Bow_014.png
+2 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_017.png
 C23                               #Play shorter sword swinging SFE
-2 p- Bow_012.png
-2 p- Bow_013.png
-2 p- Bow_014.png
+2 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_017.png
 C23                               #Play shorter sword swinging SFE
-2 p- Bow_012.png
-2 p- Bow_013.png
+2 p- Bow_015.png
+2 p- Bow_016.png
 C19                               #Play bow pulling SFE
 2 p- Bow_005.png
 5 p- Bow_006.png
 7 p- Bow_007.png
 2 p- Bow_008.png
+4 p- Bow_009.png
+2 p- Bow_010.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 C1A                               #Normal hit
 C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
-3 p- Bow_009.png
-5 p- Bow_010.png
-2 p- Bow_002.png
+3 p- Bow_011.png
+5 p- Bow_012.png
+2 p- Bow_013.png
 2 p- Bow_001.png
 1 p- Bow_000.png
 C01                               #NOP
@@ -78,11 +82,13 @@ C19                               #Play bow pulling SFE
 5 p- Bow_006.png
 7 p- Bow_007.png
 2 p- Bow_008.png
-3 p- Bow_009.png
-5 p- Bow_010.png
+4 p- Bow_009.png
+2 p- Bow_010.png
+3 p- Bow_011.png
+5 p- Bow_012.png
 C05                               #Call spell associated with equipped weapon
 C01                               #NOP
-2 p- Bow_002.png
+2 p- Bow_013.png
 2 p- Bow_001.png
 1 p- Bow_000.png
 C01                               #NOP
@@ -95,29 +101,31 @@ C07                               #Start attack animation; need 03 right before 
 8 p- Bow_000.png
 2 p- Bow_001.png
 2 p- Bow_002.png
-8 p- Bow_011.png
+8 p- Bow_014.png
 2 p- Bow_004.png
 C23                               #Play shorter sword swinging SFE
-2 p- Bow_012.png
-2 p- Bow_013.png
-2 p- Bow_014.png
+2 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_017.png
 C23                               #Play shorter sword swinging SFE
-2 p- Bow_012.png
-2 p- Bow_013.png
-2 p- Bow_014.png
+2 p- Bow_015.png
+2 p- Bow_016.png
+2 p- Bow_017.png
 C23                               #Play shorter sword swinging SFE
-2 p- Bow_012.png
-2 p- Bow_013.png
+2 p- Bow_015.png
+2 p- Bow_016.png
 C19                               #Play bow pulling SFE
 2 p- Bow_005.png
 5 p- Bow_006.png
 7 p- Bow_007.png
 2 p- Bow_008.png
-3 p- Bow_009.png
-5 p- Bow_010.png
+4 p- Bow_009.png
+2 p- Bow_010.png
+3 p- Bow_011.png
+5 p- Bow_012.png
 C05                               #Call spell associated with equipped weapon
 C01                               #NOP
-2 p- Bow_002.png
+2 p- Bow_013.png
 2 p- Bow_001.png
 1 p- Bow_000.png
 C01                               #NOP
@@ -126,20 +134,20 @@ C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 7               #Dodge Melee Attack
 C02                               #Start of dodge
-2 p- Bow_015.png
-2 p- Bow_016.png
+2 p- Bow_018.png
+2 p- Bow_019.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 C01                               #NOP
-2 p- Bow_015.png
+2 p- Bow_018.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 8               #Dodge Ranged Attack
 C02                               #Start of dodge
-2 p- Bow_015.png
-2 p- Bow_016.png
+2 p- Bow_018.png
+2 p- Bow_019.png
 C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 C01                               #NOP
-2 p- Bow_015.png
+2 p- Bow_018.png
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 9               #Equiped with Melee Weapon
@@ -165,13 +173,15 @@ C07                               #Start attack animation; need 03 right before 
 2 p- Bow_005.png
 5 p- Bow_006.png
 7 p- Bow_007.png
-C19                               #Play bow pulling SFE
 2 p- Bow_008.png
-3 p- Bow_009.png
+4 p- Bow_009.png
+C19                               #Play bow pulling SFE
+2 p- Bow_010.png
+3 p- Bow_011.png
 C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-5 p- Bow_010.png
+5 p- Bow_012.png
 2 p- Bow_003.png
-2 p- Bow_002.png
+2 p- Bow_013.png
 2 p- Bow_001.png
 1 p- Bow_000.png
 C01                               #NOP

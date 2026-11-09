@@ -7,3 +7,5 @@ This animation is based on/edited from the following animations:
 [FE8 Ephraim-Variant] [M] T1 Vanilla Repack +Weapons
 
 This animation was made by Epicer.
+
+Bow (Crouch) by DatonDemand.

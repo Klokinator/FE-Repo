@@ -1,0 +1,21 @@
+F2U/F2E
+
+Female/Long haired General By RiriK/Rikki
+
+Original General Sword Chain animation by Knabepicer
+
+Credit to Redbean for certain parts
+
+Credit to  Marlon&Louis Fire Hacks' patches that included the original map sprites for [Marshal], who I believe is by Nuramon, so also credits to him as well (Marshal (M) Zelgius Helmless Sword Map Sprite)
+
+Credit to GabrielKnight for the original Bow (Cannon) General.
+
+Knife ported by tatata.
+
+Lance (Chainless, Main Range Back Crit, Main Range Front Crit) ported by tatata.
+
+Lance (Variant Chain Range Back Crit, Variant Chain Range Front Crit) ported by tatata.
+
+Axe (Main Range Front Crit, Main Range Back Crit) ported by tatata.
+
+Axe (Variant Chain Range Back Crit, Variant Chain Range Front Crit) ported by tatata.

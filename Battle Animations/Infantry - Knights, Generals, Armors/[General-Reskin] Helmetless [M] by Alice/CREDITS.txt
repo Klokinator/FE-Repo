@@ -1,0 +1,9 @@
+F2U/F2E
+
+Base General by IS
+
+Helmetless Edit by Alice
+
+Magic Axe frames by Tatutachang. Taken from the Repo on October 18th, 2024.
+
+NOTE: Palettes from Vanilla should mostly be compatible with this animation, as the palette order is the same. 4th Armor color was turned into 3rd hair color.

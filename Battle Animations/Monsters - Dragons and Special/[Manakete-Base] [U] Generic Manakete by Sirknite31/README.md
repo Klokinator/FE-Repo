@@ -2,11 +2,15 @@
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Dragonstone/Dragonstone.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Revert/Revert.gif"/> | <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Transform/Transform.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/8.%20Unarmed/Unarmed.gif"/> | <b>Revert (Alt)</b><br/><img alt="Revert (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Generic%20Manakete%20by%20Sirknite31/Revert%20(Alt)/Revert.gif"/> |
 
 ## Credits
 
 F2U/F2E
 
 Animation by Sirknite31.
+
+Alt Revert by UltraFenix. (Note: Wings forming from Myrrh’s Gran Caster by Seal and Sacred War. & 
+
+Myrrh's Dragon Repal by Teraspark as base.)
 

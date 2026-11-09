@@ -18,4 +18,8 @@ Axe (+Handaxe) by Yerek.
 
 Shield Edit by tatutachang.
 
+Sword (Durandal) animation by tatata.
+
+Axe (Armads) animation by tatata.
+
 Note: The shield edit does not use the shield loop command in the script. It can be edited frame by frame.

@@ -8,4 +8,8 @@
 
 ## Credit
 
-6. Magic by TytheBub
+F2U/F2E
+
+Animation by TytheBub.
+
+Staff by Enthusiasm.

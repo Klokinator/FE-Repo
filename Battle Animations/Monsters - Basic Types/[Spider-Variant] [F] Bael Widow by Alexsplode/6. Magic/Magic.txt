@@ -1,5 +1,5 @@
 #######################################################
-#0148 lorm_sp1 
+#6C magf_mg1 Mage Anima
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
@@ -32,8 +32,6 @@ C25                               #Play wing flap SFE
 6 p- Magic_020.png
 12 p- Magic_021.png
 C05                               #Call spell associated with equipped weapon
-C1A                               #Normal hit
-C01                               #NOP
 6 p- Magic_022.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 6 p- Magic_023.png
@@ -73,9 +71,6 @@ C25                               #Play wing flap SFE
 6 p- Magic_043.png
 12 p- Magic_044.png
 C05                               #Call spell associated with equipped weapon
-C0C                               #Critical hit
-C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
-C01                               #NOP
 6 p- Magic_045.png
 6 p- Magic_046.png
 C1B                               #Play quick "heavy step" SFE
@@ -115,8 +110,6 @@ C25                               #Play wing flap SFE
 6 p- Magic_020.png
 12 p- Magic_021.png
 C05                               #Call spell associated with equipped weapon
-C1A                               #Normal hit
-C01                               #NOP
 6 p- Magic_022.png
 C06                               #Begin opponent's turn after hit.next code 0D.
 6 p- Magic_023.png
@@ -157,9 +150,6 @@ C25                               #Play wing flap SFE
 6 p- Magic_043.png
 12 p- Magic_044.png
 C05                               #Call spell associated with equipped weapon
-C0C                               #Critical hit
-C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
-C01                               #NOP
 6 p- Magic_045.png
 6 p- Magic_046.png
 C1B                               #Play quick "heavy step" SFE
@@ -230,7 +220,6 @@ C25                               #Play wing flap SFE
 6 p- Magic_020.png
 12 p- Magic_021.png
 C05                               #Call spell associated with equipped weapon
-C1A                               #Normal hit
 C01                               #NOP
 6 p- Magic_022.png
 C06                               #Begin opponent's turn after hit.next code 0D.

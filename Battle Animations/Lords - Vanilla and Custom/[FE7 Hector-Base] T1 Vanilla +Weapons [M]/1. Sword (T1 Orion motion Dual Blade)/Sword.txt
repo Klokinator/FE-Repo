@@ -1,0 +1,214 @@
+#######################################################
+#F9 lotm_sp1 ジェネラル 剣
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Sword_000.png
+C43                               #辺を鞘に入れる音　カチ
+5 p- Sword_001.png
+1 p- Sword_002.png
+C3C                               #剣を振る音
+8 p- Sword_003.png
+5 p- Sword_004.png
+5 p- Sword_005.png
+20 p- Sword_006.png
+C15                               #画面揺れる　小さい
+C30                               #リンロードのクリティカル時の砂煙
+C1B                               #重い足音
+4 p- Sword_007.png
+C24                               #剣で空を切る音
+1 p- Sword_008.png
+C42                               #斧を振り回す短い音
+4 p- Sword_009.png
+C1F                               #クリティカルの効果音 ずどーん
+C42                               #斧を振り回す短い音
+C51                               #短いホワイトフラッシュ。スキルアニメと競合するので利用禁止。代替え案はC39
+2 p- Sword_010.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C14                               #画面揺れる　大きい　アルマーズ
+C1A                               #ノーマルヒットのエフェクト
+C1F                               #クリティカルの効果音 ずどーん
+3 p- Sword_011.png
+2 p- Sword_012.png
+2 p- Sword_013.png
+2 p- Sword_014.png
+1 p- Sword_015.png
+C01                               #NOP
+C15                               #画面揺れる　小さい
+C41                               #斧を振り回す音
+5 p- Sword_016.png
+4 p- Sword_017.png
+3 p- Sword_018.png
+1 p- Sword_019.png
+5 p- Sword_020.png
+2 p- Sword_021.png
+5 p- Sword_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Sword_000.png
+C43                               #辺を鞘に入れる音　カチ
+5 p- Sword_001.png
+10 p- Sword_022.png
+1 p- Sword_002.png
+C3C                               #剣を振る音
+10 p- Sword_003.png
+5 p- Sword_004.png
+5 p- Sword_005.png
+25 p- Sword_006.png
+C2B                               #アーマー系の鎧音の再生
+C15                               #画面揺れる　小さい
+2 p- Sword_023.png
+25 p- Sword_024.png
+2 p- Sword_025.png
+2 p- Sword_010.png
+C46                               #斧を地面に叩きつける音 ずどん
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C14                               #画面揺れる　大きい　アルマーズ
+C08                               #クリティカルヒット
+C1F                               #クリティカルの効果音 ずどーん
+5 p- Sword_011.png
+2 p- Sword_012.png
+2 p- Sword_013.png
+2 p- Sword_014.png
+1 p- Sword_015.png
+C01                               #NOP
+C15                               #画面揺れる　小さい
+C41                               #斧を振り回す音
+5 p- Sword_016.png
+4 p- Sword_017.png
+3 p- Sword_018.png
+2 p- Sword_019.png
+7 p- Sword_020.png
+2 p- Sword_021.png
+5 p- Sword_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+5 p- Sword_000.png
+C43                               #辺を鞘に入れる音　カチ
+5 p- Sword_001.png
+10 p- Sword_022.png
+3 p- Sword_026.png
+C05                               #魔法の呼び出し
+3 p- Sword_027.png
+C01                               #NOP
+3 p- Sword_026.png
+4 p- Sword_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- Sword_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+5 p- Sword_000.png
+C43                               #辺を鞘に入れる音　カチ
+5 p- Sword_001.png
+10 p- Sword_022.png
+5 p- Sword_026.png
+1 p- Sword_028.png
+2 p- Sword_027.png
+1 p- Sword_029.png
+2 p- Sword_027.png
+1 p- Sword_028.png
+2 p- Sword_027.png
+1 p- Sword_029.png
+2 p- Sword_027.png
+C05                               #魔法の呼び出し
+2 p- Sword_027.png
+C01                               #NOP
+4 p- Sword_026.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+3 p- Sword_000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Sword_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Sword_002.png
+1 p- Sword_003.png
+C01                               #NOP
+3 p- Sword_002.png
+1 p- Sword_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Sword_000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Sword_002.png
+1 p- Sword_003.png
+C01                               #NOP
+3 p- Sword_002.png
+1 p- Sword_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+3 p- Sword_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+3 p- Sword_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+3 p- Sword_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+1 p- Sword_000.png
+C43                               #辺を鞘に入れる音　カチ
+5 p- Sword_001.png
+1 p- Sword_002.png
+C3C                               #剣を振る音
+8 p- Sword_003.png
+5 p- Sword_004.png
+5 p- Sword_005.png
+20 p- Sword_006.png
+C15                               #画面揺れる　小さい
+C30                               #リンロードのクリティカル時の砂煙
+C1B                               #重い足音
+4 p- Sword_007.png
+C24                               #剣で空を切る音
+1 p- Sword_008.png
+C42                               #斧を振り回す短い音
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+4 p- Sword_030.png
+C42                               #斧を振り回す短い音
+C51                               #短いホワイトフラッシュ。スキルアニメと競合するので利用禁止。代替え案はC39
+2 p- Sword_010.png
+C14                               #画面揺れる　大きい　アルマーズ
+3 p- Sword_011.png
+2 p- Sword_012.png
+2 p- Sword_013.png
+2 p- Sword_014.png
+1 p- Sword_015.png
+C01                               #NOP
+C15                               #画面揺れる　小さい
+C41                               #斧を振り回す音
+5 p- Sword_016.png
+4 p- Sword_017.png
+3 p- Sword_018.png
+1 p- Sword_019.png
+5 p- Sword_020.png
+2 p- Sword_021.png
+5 p- Sword_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

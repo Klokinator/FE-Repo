@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Original animation by IS. 
 
 Knife by JJ09.
@@ -19,3 +21,8 @@ Bow and Knife repal by UltraFenix
 Repalette by Huichelaar.
 
 Sword (Knife + Sword) by Itranc.
+
+Small re-repalette by darkjaden
+	-(replaced a single pixel in the boots that was taking up a color slot and added a third hair shade)
+
+	-(this animation now shares the exact same palette order as the other Assassin repalette I did of the female ponytail Assassin)

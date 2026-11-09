@@ -1,5 +1,5 @@
 #######################################################
-#66 Magic [_P][_e][_g][_a][_s][_u][_s][_SP][_K][_n]i[_g][_h][_t] Anima
+#44 genm_sw1 General Sword
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################

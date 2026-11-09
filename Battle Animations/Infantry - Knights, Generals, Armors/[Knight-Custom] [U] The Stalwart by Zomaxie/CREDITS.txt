@@ -1,5 +1,0 @@
-Original sprite sheet by Zomaxie.
-
-Heavy updates, additions, and revisions, plus scripting by ZoramineFae.
-
-Shield fixes/blur frames by JJ09.

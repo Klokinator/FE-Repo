@@ -15,3 +15,5 @@ Improvements (???) by Starter.
 Magic and Staff by Pikmin1211.
 
 Edits by Dutch Introvert.
+
+Axe and Handaxe by Loreleek.

@@ -14,6 +14,10 @@ Animation by Leo_Link, Commissioned by Ryn.
 
 Scripted by UltraFenix.
 
+Sword (Ragnell Alt 1) by Seliost1.
+
+Sword (Ragnell Alt 2) by Seliost1.
+
 Note: The left over frames are for Tactile/LT engine.
 
 They are getting hit / crit frames.

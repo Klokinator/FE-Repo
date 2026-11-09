@@ -8,6 +8,8 @@
 
 ## Credit
 
+F2U/F2E
+
 Ponytail edit by UltraFenix, Puppet, and L95
 
 Golden Staff inspired by Eldritch and Roxannity Bishop Repal Revamp.

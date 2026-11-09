@@ -1,13 +1,5 @@
 # [Infantry - (Swd) Thieves, Rogues, Assassins Battle Animations](./)
 
-## [\[Assassin-Base\] Hood \[M\] by Jey the Count](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count/8.%20Unarmed/Unarmed.gif"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ## [\[Assassin-Base\] Jaffar Vanilla +Weapons \[M\]](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Jaffar%20Vanilla%20%2BWeapons%20%5BM%5D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Jaffar%20Vanilla%20%2BWeapons%20%5BM%5D) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Jaffar%20Vanilla%20+Weapons%20%5BM%5D/1.%20Knife/Knife.gif"/> | <b>Knife (Alt)</b><br/><img alt="Knife (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Jaffar%20Vanilla%20+Weapons%20%5BM%5D/1.%20Knife%20(Alt)/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20Jaffar%20Vanilla%20+Weapons%20%5BM%5D/1.%20Sword/Sword.gif"/> |
@@ -48,6 +40,23 @@
 
 
 
+## [\[Assassin-Base\] \[M\] Jaffar Vanilla Repal by Huichelaar](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar/1.%20Knife/Knife.gif"/> | <b>Knife (+Sword)</b><br/><img alt="Knife (+Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar/1.%20Knife%20(+Sword)/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar/1.%20Sword/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Bow (Lyn Style)</b><br/><img alt="Bow (Lyn Style)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar/5.%20Bow%20(Lyn%20Style)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Assassin-Custom\] Maid \[F\] by SteamingTofu](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Custom%5D%20Maid%20%5BF%5D%20by%20SteamingTofu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Custom%5D%20Maid%20%5BF%5D%20by%20SteamingTofu) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Custom%5D%20Maid%20%5BF%5D%20by%20SteamingTofu/1.%20Knife/Knife.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Custom%5D%20Maid%20%5BF%5D%20by%20SteamingTofu/4.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Assassin-Reskin\] AS Colter \[M\]](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20AS%20Colter%20%5BM%5D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20AS%20Colter%20%5BM%5D) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20AS%20Colter%20%5BM%5D/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20AS%20Colter%20%5BM%5D/1.%20Sword/Sword.gif"/> |
@@ -68,6 +77,14 @@
 
 | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Full%20Shirt%20(Bow%20Only)%20%5BF%5D/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Full%20Shirt%20(Bow%20Only)%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Assassin-Reskin\] Hood \[M\] by Jey the Count](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Hood%20%5BM%5D%20by%20Jey%20the%20Count/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -194,9 +211,18 @@
 
 
 
+## [\[Assassin-Reskin\] Ponytail +Skirt Repal \[F\]](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%2BSkirt%20Repal%20%5BF%5D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%2BSkirt%20Repal%20%5BF%5D) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Knife (+Sword)</b><br/><img alt="Knife (+Sword)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+Skirt%20Repal%20%5BF%5D/1.%20Knife%20(+Sword)/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+Skirt%20Repal%20%5BF%5D/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+Skirt%20Repal%20%5BF%5D/5.%20Bow/Bow.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+Skirt%20Repal%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
 ## [\[Assassin-Reskin\] Ponytail +skirt Vanilla Desgin \[F\]](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%2Bskirt%20Vanilla%20Desgin%20%5BF%5D) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%2Bskirt%20Vanilla%20Desgin%20%5BF%5D) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+skirt%20Vanilla%20Desgin%20%5BF%5D/1.%20Sword/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+skirt%20Vanilla%20Desgin%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Sword (Frame Data Fix)</b><br/><img alt="Sword (Frame Data Fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+skirt%20Vanilla%20Desgin%20%5BF%5D/1.%20Sword%20(Frame%20Data%20Fix)/Sword.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20+skirt%20Vanilla%20Desgin%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
 
 
@@ -216,6 +242,14 @@
 | <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%5BF%5D%20+%20Skirt%20Repal/1.%20Knife/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%5BF%5D%20+%20Skirt%20Repal/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%5BF%5D%20+%20Skirt%20Repal/5.%20Bow/Bow.gif"/> |
 | :---: | :---: | :---: |
 | <b>Bow (Lyn-style)</b><br/><img alt="Bow (Lyn-style)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%5BF%5D%20+%20Skirt%20Repal/5.%20Bow%20(Lyn-style)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%5BF%5D%20+%20Skirt%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Assassin-Variant\] Bow Stylish Assassin \[F\] by Tíxamas](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20Bow%20Stylish%20Assassin%20%5BF%5D%20by%20T%C3%ADxamas) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20Bow%20Stylish%20Assassin%20%5BF%5D%20by%20T%C3%ADxamas) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20Bow%20Stylish%20Assassin%20%5BF%5D%20by%20T%C3%ADxamas/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Variant%5D%20Bow%20Stylish%20Assassin%20%5BF%5D%20by%20T%C3%ADxamas/5.%20Bow/Bow.gif"/> |
+| :---: | :---: |
 
 
 
@@ -374,6 +408,15 @@
 | <b>Sword (Magic Range)</b><br/><img alt="Sword (Magic Range)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20-%20Kagerou%20%5BF%5D%20by%20SteamingTofu/1.%20Sword%20(Magic%20Range)/Sword.gif"/> | <b>Sword (Shadow Alt crit)</b><br/><img alt="Sword (Shadow Alt crit)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20-%20Kagerou%20%5BF%5D%20by%20SteamingTofu/1.%20Sword%20(Shadow%20Alt%20crit)/Sword.gif"/> | <b>Sword (Shadow crit + magic animation)</b><br/><img alt="Sword (Shadow crit + magic animation)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20-%20Kagerou%20%5BF%5D%20by%20SteamingTofu/1.%20Sword%20(Shadow%20crit%20+%20magic%20animation)/Sword.gif"/> |
 | <b>Sword (Shadow crit with knife)</b><br/><img alt="Sword (Shadow crit with knife)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20-%20Kagerou%20%5BF%5D%20by%20SteamingTofu/1.%20Sword%20(Shadow%20crit%20with%20knife)/Sword.gif"/> | <b>Sword (Shadow crit with shuriken ranged)</b><br/><img alt="Sword (Shadow crit with shuriken ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20-%20Kagerou%20%5BF%5D%20by%20SteamingTofu/1.%20Sword%20(Shadow%20crit%20with%20shuriken%20ranged)/Sword.gif"/> | <b>Sword (Shuriken ranged animation)</b><br/><img alt="Sword (Shuriken ranged animation)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20-%20Kagerou%20%5BF%5D%20by%20SteamingTofu/1.%20Sword%20(Shuriken%20ranged%20animation)/Sword.gif"/> |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20-%20Kagerou%20%5BF%5D%20by%20SteamingTofu/8.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Sword Custom\] Master Ninja \[M\] by Pikmin and Der](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20%5BM%5D%20by%20Pikmin%20and%20Der) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20%5BM%5D%20by%20Pikmin%20and%20Der) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20%5BM%5D%20by%20Pikmin%20and%20Der/1.%20Knife/Knife.gif"/> | <b>Knife (magic ranged)</b><br/><img alt="Knife (magic ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20%5BM%5D%20by%20Pikmin%20and%20Der/1.%20Knife%20(magic%20ranged)/Knife.gif"/> | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20%5BM%5D%20by%20Pikmin%20and%20Der/1.%20Sword/Sword.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BSword%20Custom%5D%20Master%20Ninja%20%5BM%5D%20by%20Pikmin%20and%20Der/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

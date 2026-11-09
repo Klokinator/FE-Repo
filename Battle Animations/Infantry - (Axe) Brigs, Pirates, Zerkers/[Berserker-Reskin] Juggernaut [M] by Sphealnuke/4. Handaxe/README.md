@@ -15,3 +15,5 @@ Original animation by IS.
 All edited animations by Sphealnuke.
 
 Thanks to Obsidian Daddy for helping with the idle axe pose.
+
+3. Axe (Magic) by Seliost1.

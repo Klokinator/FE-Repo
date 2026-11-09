@@ -9,6 +9,14 @@
 
 
 
+## [\[Custom Magi\] Tamamo \(FEShadows\) \[F\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20Tamamo%20(FEShadows)%20%5BF%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20Tamamo%20(FEShadows)%20%5BF%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20Tamamo%20(FEShadows)%20%5BF%5D%20by%20UltraFenix/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Custom Magi\] \[F\] Angel by GabrielKnight](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Angel%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> |
@@ -61,6 +69,14 @@
 ## [\[Custom Magi\] \[F\] Sister +Mag by Mikey Seregon](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sister%20%2BMag%20by%20Mikey%20Seregon) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sister%20%2BMag%20by%20Mikey%20Seregon) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sister%20+Mag%20by%20Mikey%20Seregon/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sister%20+Mag%20by%20Mikey%20Seregon/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Custom Magi\] \[F\] Sofia by SteamingTofu](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sofia%20by%20SteamingTofu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sofia%20by%20SteamingTofu) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sofia%20by%20SteamingTofu/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BCustom%20Magi%5D%20%5BF%5D%20Sofia%20by%20SteamingTofu/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 
@@ -367,8 +383,8 @@
 
 ## [\[Tactician\]  \[M\] Tactician Mark v2 by Jj09](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BTactician%5D%20%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BTactician%5D%20%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BTactician%5D%20%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09/6.%20Magic/Magic.gif"/> |
-| :---: |
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BTactician%5D%20%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09/6.%20Magic/Magic.gif"/> | <b>Magic (v2)</b><br/><img alt="Magic (v2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Special/%5BTactician%5D%20%20%5BM%5D%20Tactician%20Mark%20v2%20by%20Jj09/6.%20Magic%20(v2)/Magic.gif"/> |
+| :---: | :---: |
 
 
 

@@ -17,3 +17,5 @@ Axe (+Handaxe) by Yerek.
 Sword (Durandal) animation by tatata.
 
 Axe (Armads) animation by tatata.
+
+3. Axe (Armads) (Hector Motion) by tatata.

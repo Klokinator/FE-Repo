@@ -11,3 +11,7 @@
 F2U/F2E
 
 Animation by a3d3.
+
+Knife and Knife (Alt Range), Sword (All versions), Lance (All versions), Axe (All versions), Handaxe (Alt Range) ported by tatata.
+
+Bow (Cannon) ported by tatata.

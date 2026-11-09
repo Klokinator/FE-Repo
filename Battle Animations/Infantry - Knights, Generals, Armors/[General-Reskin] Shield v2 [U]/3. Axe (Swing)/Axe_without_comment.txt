@@ -148,11 +148,9 @@ C06
 C0D
 ~~~
 /// - Mode 6
-~~~
-/// - Mode 7
 C03
 C07
-4 p- Axe_000.png
+6 p- Axe_000.png
 5 p- Axe_001.png
 5 p- Axe_002.png
 C2B
@@ -195,6 +193,8 @@ C2B
 1 p- Axe_000.png
 C06
 C0D
+~~~
+/// - Mode 7
 C02
 1 p- Axe_000.png
 3 p- Axe_052.png

@@ -122,6 +122,14 @@
 
 
 
+## [\[Dragon-Custom\] \[U\] Elibian Nights Ice Dragon by SqRtOfPi](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi/8.%20Dragonstone/Dragonstone.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Dragon-Custom\] \[U\] Fire Dragon by SkidMarc25](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Fire%20Dragon%20by%20SkidMarc25) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Fire%20Dragon%20by%20SkidMarc25) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20%5BU%5D%20Fire%20Dragon%20by%20SkidMarc25/8.%20Monster/Monster.gif"/> |
@@ -189,8 +197,9 @@
 
 ## [\[Manakete-Base\] \[F\] Vanilla FE6 Fae +FE7](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20%2BFE7) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20%2BFE7) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone/Dragonstone.gif"/> | <b>Dragonstone (FE7)</b><br/><img alt="Dragonstone (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone%20(FE7)/Dragonstone.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone/Dragonstone.gif"/> | <b>Dragonstone (FE7)</b><br/><img alt="Dragonstone (FE7)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Dragonstone%20(FE7)/Dragonstone.gif"/> | <b>Revert (Any)</b><br/><img alt="Revert (Any)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Revert%20(Any)/Revert.gif"/> |
 | :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20+FE7/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -251,6 +260,40 @@
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BU%5D%20Vanilla%20FE8%20Undead%20Morva/8.%20Dragonstone/Dragonstone.gif"/> |
 | :---: |
+
+
+
+
+## [\[Manakete-Custom\] Corrin \[F\] by Grima_42o](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Corrin%20%5BF%5D%20by%20Grima_42o) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Corrin%20%5BF%5D%20by%20Grima_42o) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Corrin%20%5BF%5D%20by%20Grima_42o/8.%20Dragonstone/Dragonstone.gif"/> | <b>Item</b><br/><img alt="Item" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Corrin%20%5BF%5D%20by%20Grima_42o/8.%20Item/Item.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Corrin%20%5BF%5D%20by%20Grima_42o/8.%20Revert/Revert.gif"/> |
+| :---: | :---: | :---: |
+| <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Corrin%20%5BF%5D%20by%20Grima_42o/8.%20Transform/Transform.gif"/> |
+
+
+
+
+## [\[Manakete-Custom\] Deer \[M\] by Pika](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Deer%20%5BM%5D%20by%20Pika) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Deer%20%5BM%5D%20by%20Pika) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Deer%20%5BM%5D%20by%20Pika/1.%20Dragonstone/Dragonstone.gif"/> | <b>Transform</b><br/><img alt="Transform" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Deer%20%5BM%5D%20by%20Pika/2.%20Transform/Transform.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Deer%20%5BM%5D%20by%20Pika/3.%20Revert/Revert.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Deer%20%5BM%5D%20by%20Pika/4.%20Unarmed/Unarmed.gif"/> |
+
+
+
+
+## [\[Manakete-Custom\] Medeus Earth Dragon \[M\] by Jotrai](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Earth%20Dragon%20%5BM%5D%20by%20Jotrai) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Earth%20Dragon%20%5BM%5D%20by%20Jotrai) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Earth%20Dragon%20%5BM%5D%20by%20Jotrai/8.%20Dragonstone/Dragonstone.gif"/> | <b>Item</b><br/><img alt="Item" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Earth%20Dragon%20%5BM%5D%20by%20Jotrai/8.%20Item/Item.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Earth%20Dragon%20%5BM%5D%20by%20Jotrai/8.%20Revert/Revert.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Manakete-Custom\] Medeus Shadow Dragon \[M\] by Jotari](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Shadow%20Dragon%20%5BM%5D%20by%20Jotari) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Shadow%20Dragon%20%5BM%5D%20by%20Jotari) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Shadow%20Dragon%20%5BM%5D%20by%20Jotari/8.%20Dragonstone/Dragonstone.gif"/> | <b>Item</b><br/><img alt="Item" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Shadow%20Dragon%20%5BM%5D%20by%20Jotari/8.%20Item/Item.gif"/> | <b>Revert</b><br/><img alt="Revert" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20Medeus%20Shadow%20Dragon%20%5BM%5D%20by%20Jotari/8.%20Revert/Revert.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -431,6 +474,14 @@
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Variant%5D%20%5BU%5D%20Dark%20Dragon%20by%20Leo_link/8.%20Dragonstone/Dragonstone.gif"/> |
 | :---: |
+
+
+
+
+## [\[Monster Custom\] \[M\] Minotaur \(Archdemon\)](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster%20Custom%5D%20%5BM%5D%20Minotaur%20(Archdemon)) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster%20Custom%5D%20%5BM%5D%20Minotaur%20(Archdemon)) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster%20Custom%5D%20%5BM%5D%20Minotaur%20(Archdemon)/1.%20Sword/Sword.gif"/> | <b>Axe (Ranged)</b><br/><img alt="Axe (Ranged)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster%20Custom%5D%20%5BM%5D%20Minotaur%20(Archdemon)/3.%20Axe%20(Ranged)/Axe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster%20Custom%5D%20%5BM%5D%20Minotaur%20(Archdemon)/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -633,8 +684,9 @@
 
 ## [\[Monster-Custom\] \[F\] Slimegal by Stephano](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster/Monster.gif"/> | <b>Monster (Physics)</b><br/><img alt="Monster (Physics)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster%20(Physics)/Monster.gif"/> |
-| :---: | :---: |
+| <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster/Monster.gif"/> | <b>Monster (Longer + Physics)</b><br/><img alt="Monster (Longer + Physics)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster%20(Longer%20+%20Physics)/Monster.gif"/> | <b>Monster (Longer)</b><br/><img alt="Monster (Longer)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster%20(Longer)/Monster.gif"/> |
+| :---: | :---: | :---: |
+| <b>Monster (No Transparency)</b><br/><img alt="Monster (No Transparency)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster%20(No%20Transparency)/Monster.gif"/> | <b>Monster (Physics - No Transparency)</b><br/><img alt="Monster (Physics - No Transparency)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster%20(Physics%20-%20No%20Transparency)/Monster.gif"/> | <b>Monster (Physics)</b><br/><img alt="Monster (Physics)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BF%5D%20Slimegal%20by%20Stephano/8.%20Monster%20(Physics)/Monster.gif"/> |
 
 
 
@@ -877,14 +929,6 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Eclipse%20Mage%20by%20Dejais/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Eclipse%20Mage%20by%20Dejais/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
-
-
-
-
-## [\[Monster-Custom\] \[U\] Elibian Nights Ice Dragon by SqRtOfPi](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
-
-| <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BU%5D%20Elibian%20Nights%20Ice%20Dragon%20by%20SqRtOfPi/8.%20Dragonstone/Dragonstone.gif"/> |
-| :---: |
 
 
 

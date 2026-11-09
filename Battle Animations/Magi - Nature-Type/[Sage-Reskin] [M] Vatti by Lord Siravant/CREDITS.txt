@@ -1,5 +1,0 @@
-Animation by Lord Siravant, Spritetrooper.
-
-Scripting and Formatting by ReykRS.
-
-Note: Don't show the effect for the critical attack.

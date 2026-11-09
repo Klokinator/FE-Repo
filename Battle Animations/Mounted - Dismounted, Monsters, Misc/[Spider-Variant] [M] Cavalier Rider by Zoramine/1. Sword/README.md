@@ -11,3 +11,5 @@
 Orginal by PassingbyStranger(DAT)/DATondemand.
 
 Edited and Improved by ZoramineFae.
+
+Sword (Mercenary Blade) by Metalocif.

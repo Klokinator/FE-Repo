@@ -13,3 +13,5 @@ F2U/F2E
 Vanilla animation by IS.
 
 Wallace variant by JeyTheCount.
+
+Sword (Alt Range), Lance (Alt Range), Lance (Chainless), Handaxe (Alt Range), Magic (Alt), 7. Staff - All by UltraFenix, imported by Tatata.

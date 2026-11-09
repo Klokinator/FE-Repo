@@ -1,22 +1,27 @@
 name: Generate encoded asset URLs as JSON
-
 on:
   push:
     branches:
       - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
+      - name: Snapshot previous file
+        run: |
+          if [ -f file_urls.json ]; then
+            cp file_urls.json old_file_urls.json
+          else
+            echo '{}' > old_file_urls.json
+          fi
+
       - name: Generate encoded URL JSON
         run: |
           branch="main"
           repo="${GITHUB_REPOSITORY}"
           base="https://raw.githubusercontent.com/$repo/refs/heads/$branch"
-
           rawurlencode() {
             local string="$1"
             local length="${#string}"
@@ -30,48 +35,57 @@ jobs:
           }
 
           echo "{" > file_urls.json
-
           first_category=true
           for category in "Class Cards" "Item Icons" "Map Sprites" "Portrait Repository"; do
             [ "$first_category" = true ] && first_category=false || echo "," >> file_urls.json
-            echo -n "  \"${category}\": [" >> file_urls.json
-
+            printf '  "%s": [' "$category" >> file_urls.json
             first=true
             find "$category" -type f \( -iname "*.png" -o -iname "*.gif" \) 2>/dev/null | sed 's|^\./||' | sort | while read -r path; do
               encoded=$(rawurlencode "$path")
               url="$base/$encoded"
               if [ "$first" = true ]; then
-                printf "\n    \"%s\"" "$url"
+                printf '\n    "%s"' "$url"
                 first=false
               else
-                printf ",\n    \"%s\"" "$url"
+                printf ',\n    "%s"' "$url"
               fi
             done >> file_urls.json
-            echo -n "\n  ]" >> file_urls.json
+            printf '\n  ]' >> file_urls.json
           done
 
           # Battle Animations
           echo "," >> file_urls.json
-          echo -n "  \"Battle Animations\": [" >> file_urls.json
+          printf '  "Battle Animations": [' >> file_urls.json
           first=true
           find "Battle Animations" -mindepth 2 -maxdepth 2 -type d 2>/dev/null | sed 's|^\./||' | sort | while read -r path; do
             encoded=$(rawurlencode "$path")
             url="https://github.com/$repo/tree/$branch/$encoded"
             if [ "$first" = true ]; then
-              printf "\n    \"%s\"" "$url"
+              printf '\n    "%s"' "$url"
               first=false
             else
-              printf ",\n    \"%s\"" "$url"
+              printf ',\n    "%s"' "$url"
             fi
           done >> file_urls.json
-          echo -e "\n  ]" >> file_urls.json
+          printf '\n  ]\n' >> file_urls.json
+          printf '}\n' >> file_urls.json
 
-          echo -e "\n}" >> file_urls.json
+      - name: Generate diff JSON
+        run: |
+          jq -n \
+            --slurpfile old old_file_urls.json \
+            --slurpfile new file_urls.json \
+            '($new[0]) as $n
+             | ($old[0] // {}) as $o
+             | reduce ($n | keys[]) as $k
+                 ({}; .[$k] = (($n[$k] // []) - ($o[$k] // [])))' \
+            > new_file_urls.json
+          rm -f old_file_urls.json
 
       - name: Commit and push JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add file_urls.json
+          git add file_urls.json new_file_urls.json
           git commit -m "Update asset URL JSON [skip ci]" || echo "No changes"
           git push

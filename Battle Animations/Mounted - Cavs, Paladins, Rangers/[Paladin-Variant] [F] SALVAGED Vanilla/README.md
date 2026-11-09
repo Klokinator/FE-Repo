@@ -4,6 +4,7 @@
 | :---: | :---: | :---: |
 | <b>Axe (+Magic)</b><br/><img alt="Axe (+Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla/3.%20Axe%20(+Magic)/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla/5.%20Bow/Bow.gif"/> |
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed (No shield)</b><br/><img alt="Unarmed (No shield)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla/8.%20Unarmed%20(No%20shield)/Unarmed.gif"/> |
 
 ## Credits
 
@@ -16,6 +17,8 @@ Female Variant: Team SALVAGED, Leo_link, Flasuban, The_Big_Dededester
 Bow Animation: Obsidian Daddy
 
 Magic and Staff: CelestiaHeart
+
+Unarmed (No shield) by tatata.
 
 Note: This animation uses the SALVAGED based design but uses vanilla motions.
 

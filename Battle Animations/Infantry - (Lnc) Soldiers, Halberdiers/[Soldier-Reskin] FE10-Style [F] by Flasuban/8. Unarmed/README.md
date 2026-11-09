@@ -11,3 +11,6 @@
 F2U/F2E
 
 Soldier Animation by Flasuban.
+
+Staff animation by rifa9492.
+

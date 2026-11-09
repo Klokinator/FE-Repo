@@ -154,6 +154,14 @@
 
 
 
+## [\[Dancer-Reskin\] \[F\] Ashera Repal by XaneLover](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Ashera%20Repal%20by%20XaneLover) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Ashera%20Repal%20by%20XaneLover) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Ashera%20Repal%20by%20XaneLover/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Dancer-Reskin\] \[F\] FE5 Port by Shtick](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Refresh</b><br/><img alt="Refresh" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20FE5%20Port%20by%20Shtick/8.%20Refresh/Refresh.gif"/> |
@@ -333,6 +341,15 @@
 
 
 
+## [\[Misc\] Halberdier Training Dummy \[U\] by tatata](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Halberdier%20Training%20Dummy%20%5BU%5D%20by%20tatata) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Halberdier%20Training%20Dummy%20%5BU%5D%20by%20tatata) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Halberdier%20Training%20Dummy%20%5BU%5D%20by%20tatata/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Axe)</b><br/><img alt="Unarmed (Axe)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Halberdier%20Training%20Dummy%20%5BU%5D%20by%20tatata/8.%20Unarmed%20(Axe)/Unarmed.gif"/> | <b>Unarmed (Handaxe)</b><br/><img alt="Unarmed (Handaxe)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Halberdier%20Training%20Dummy%20%5BU%5D%20by%20tatata/8.%20Unarmed%20(Handaxe)/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed (Lance)</b><br/><img alt="Unarmed (Lance)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Halberdier%20Training%20Dummy%20%5BU%5D%20by%20tatata/8.%20Unarmed%20(Lance)/Unarmed.gif"/> |
+
+
+
+
 ## [\[Misc\] Ice Climbers \[U\] by Uncle Mikey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Ice%20Climbers%20%5BU%5D%20by%20Uncle%20Mikey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Ice%20Climbers%20%5BU%5D%20by%20Uncle%20Mikey) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Ice%20Climbers%20%5BU%5D%20by%20Uncle%20Mikey/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Ice%20Climbers%20%5BU%5D%20by%20Uncle%20Mikey/4.%20Handaxe/Handaxe.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Ice%20Climbers%20%5BU%5D%20by%20Uncle%20Mikey/6.%20Magic/Magic.gif"/> |
@@ -352,6 +369,22 @@
 ## [\[Misc\] Princess Peach \[F\] by Uncle Mikey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Princess%20Peach%20%5BF%5D%20by%20Uncle%20Mikey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Princess%20Peach%20%5BF%5D%20by%20Uncle%20Mikey) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Princess%20Peach%20%5BF%5D%20by%20Uncle%20Mikey/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Princess%20Peach%20%5BF%5D%20by%20Uncle%20Mikey/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Misc\] Soldier Training Dummy \[U\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Soldier%20Training%20Dummy%20%5BU%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Soldier%20Training%20Dummy%20%5BU%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Soldier%20Training%20Dummy%20%5BU%5D%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: |
+
+
+
+
+## [\[Misc\] Warrior Naga \[U\] by Jotari](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Warrior%20Naga%20%5BU%5D%20by%20Jotari) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Warrior%20Naga%20%5BU%5D%20by%20Jotari) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Warrior%20Naga%20%5BU%5D%20by%20Jotari/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Warrior%20Naga%20%5BU%5D%20by%20Jotari/6.%20Magic/Magic.gif"/> |
 | :---: | :---: |
 
 

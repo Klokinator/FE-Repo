@@ -21,3 +21,7 @@ Magic by DerTheVaporeon.
 Magic Axe animations UltraFenix.
 
 Staff by SaintRubenio.
+
+Bow and Unarmed (No Shield) by tatata.
+
+Sword (Alt Range), Lance (Alt Range), Lance (Chainless), Handaxe (Alt Range), Magic (Alt), 7. Staff (Alt) - All by UltraFenix, imported by Tatata.

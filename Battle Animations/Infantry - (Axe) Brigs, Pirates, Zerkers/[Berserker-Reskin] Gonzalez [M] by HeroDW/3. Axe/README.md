@@ -11,3 +11,7 @@
 F2U/F2E
 
 Animation by HeroDW.
+
+Axe (Vanilla ) by tatata.
+
+Handaxe (Vanilla)  by tatata.

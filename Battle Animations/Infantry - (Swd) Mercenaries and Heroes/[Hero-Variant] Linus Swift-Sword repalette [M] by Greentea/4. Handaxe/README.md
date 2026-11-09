@@ -15,3 +15,7 @@ Made by Greentea, SHYUTERz, Dis.
 3. Axe (Magic) by Seliost1.
 
 Repalette by Seliost1.
+
+Sword Alt attack by FelixRay.
+
+Axe (Alt) by Seliost.1

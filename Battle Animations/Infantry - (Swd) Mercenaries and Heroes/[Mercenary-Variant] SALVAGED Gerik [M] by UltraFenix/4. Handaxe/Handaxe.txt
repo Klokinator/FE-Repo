@@ -1,0 +1,248 @@
+#######################################################
+#E1 lorm_sp1 傭兵 ておの
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+6 p- Handaxe_000.png
+4 p- Handaxe_001.png
+3 p- Handaxe_002.png
+3 p- Handaxe_003.png
+3 p- Handaxe_004.png
+C1B                               #重い足音
+4 p- Handaxe_005.png
+6 p- Handaxe_006.png
+3 p- Handaxe_007.png
+2 p- Handaxe_008.png
+1 p- Handaxe_009.png
+C22                               #リンロードの剣を振る音
+2 p- Handaxe_010.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+3 p- Handaxe_011.png
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C13                               #ヘクトルの手斧
+2 p- Handaxe_015.png
+C43                               #辺を鞘に入れる音　カチ
+4 p- Handaxe_016.png
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+4 p- Handaxe_019.png
+3 p- Handaxe_020.png
+C1B                               #重い足音
+6 p- Handaxe_000.png
+C01                               #NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+6 p- Handaxe_000.png
+C38                               #槍を回す音
+2 p- Handaxe_021.png
+2 p- Handaxe_022.png
+2 p- Handaxe_023.png
+C38                               #槍を回す音
+2 p- Handaxe_024.png
+2 p- Handaxe_025.png
+2 p- Handaxe_026.png
+C38                               #槍を回す音
+2 p- Handaxe_027.png
+2 p- Handaxe_028.png
+C1B                               #重い足音
+2 p- Handaxe_029.png
+9 p- Handaxe_005.png
+4 p- Handaxe_006.png
+3 p- Handaxe_007.png
+2 p- Handaxe_008.png
+1 p- Handaxe_009.png
+C22                               #リンロードの剣を振る音
+2 p- Handaxe_010.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+3 p- Handaxe_011.png
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C13                               #ヘクトルの手斧
+2 p- Handaxe_015.png
+C43                               #辺を鞘に入れる音　カチ
+4 p- Handaxe_016.png
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+4 p- Handaxe_019.png
+3 p- Handaxe_020.png
+C1B                               #重い足音
+6 p- Handaxe_000.png
+C01                               #NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+6 p- Handaxe_000.png
+4 p- Handaxe_001.png
+3 p- Handaxe_002.png
+3 p- Handaxe_003.png
+3 p- Handaxe_004.png
+C1B                               #重い足音
+4 p- Handaxe_005.png
+6 p- Handaxe_006.png
+3 p- Handaxe_007.png
+2 p- Handaxe_008.png
+1 p- Handaxe_009.png
+C22                               #リンロードの剣を振る音
+2 p- Handaxe_010.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+3 p- Handaxe_011.png
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C13                               #ヘクトルの手斧
+2 p- Handaxe_015.png
+C43                               #辺を鞘に入れる音　カチ
+4 p- Handaxe_016.png
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+4 p- Handaxe_019.png
+3 p- Handaxe_020.png
+C1B                               #重い足音
+6 p- Handaxe_000.png
+C01                               #NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+6 p- Handaxe_000.png
+C38                               #槍を回す音
+2 p- Handaxe_021.png
+2 p- Handaxe_022.png
+2 p- Handaxe_023.png
+C38                               #槍を回す音
+2 p- Handaxe_024.png
+2 p- Handaxe_025.png
+2 p- Handaxe_026.png
+C38                               #槍を回す音
+2 p- Handaxe_027.png
+2 p- Handaxe_028.png
+C1B                               #重い足音
+2 p- Handaxe_029.png
+9 p- Handaxe_005.png
+4 p- Handaxe_006.png
+3 p- Handaxe_007.png
+2 p- Handaxe_008.png
+1 p- Handaxe_009.png
+C22                               #リンロードの剣を振る音
+2 p- Handaxe_010.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+3 p- Handaxe_011.png
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C13                               #ヘクトルの手斧
+2 p- Handaxe_015.png
+C43                               #辺を鞘に入れる音　カチ
+4 p- Handaxe_016.png
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+4 p- Handaxe_019.png
+3 p- Handaxe_020.png
+C1B                               #重い足音
+6 p- Handaxe_000.png
+C01                               #NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+1 p- Handaxe_000.png
+C02                               #回避モーションの始め
+2 p- Handaxe_030.png
+2 p- Handaxe_031.png
+2 p- Handaxe_032.png
+3 p- Handaxe_033.png
+C01                               #NOP
+6 p- Handaxe_032.png
+4 p- Handaxe_031.png
+4 p- Handaxe_030.png
+C1B                               #重い足音
+6 p- Handaxe_034.png
+3 p- Handaxe_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+1 p- Handaxe_000.png
+C02                               #回避モーションの始め
+2 p- Handaxe_030.png
+2 p- Handaxe_031.png
+2 p- Handaxe_032.png
+3 p- Handaxe_033.png
+C01                               #NOP
+6 p- Handaxe_032.png
+4 p- Handaxe_031.png
+4 p- Handaxe_030.png
+C1B                               #重い足音
+6 p- Handaxe_034.png
+3 p- Handaxe_000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+2 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+2 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+2 p- Handaxe_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C03                               #攻撃モーション開始 この後に07が来る
+C07                               #攻撃モーション開始 この前に03が来る
+6 p- Handaxe_000.png
+4 p- Handaxe_001.png
+3 p- Handaxe_002.png
+3 p- Handaxe_003.png
+3 p- Handaxe_004.png
+C1B                               #重い足音
+4 p- Handaxe_005.png
+6 p- Handaxe_006.png
+3 p- Handaxe_007.png
+2 p- Handaxe_008.png
+1 p- Handaxe_009.png
+C22                               #リンロードの剣を振る音
+2 p- Handaxe_010.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+3 p- Handaxe_011.png
+3 p- Handaxe_012.png
+3 p- Handaxe_013.png
+3 p- Handaxe_014.png
+C13                               #ヘクトルの手斧
+2 p- Handaxe_015.png
+C43                               #辺を鞘に入れる音　カチ
+4 p- Handaxe_016.png
+4 p- Handaxe_017.png
+4 p- Handaxe_018.png
+4 p- Handaxe_019.png
+3 p- Handaxe_020.png
+C1B                               #重い足音
+6 p- Handaxe_000.png
+C01                               #NOP
+C06                               #攻撃アニメ終了 後に0Dが来る
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

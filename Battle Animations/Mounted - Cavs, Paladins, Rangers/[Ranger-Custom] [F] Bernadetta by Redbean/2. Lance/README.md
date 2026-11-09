@@ -13,3 +13,5 @@ Bernadetta by Redbean.
 Bow by Jj09.
 
 Bow Alt by Marlon0024.
+
+Bow (Alt 2) by Seliost1.

@@ -15,3 +15,7 @@ Made by: {TytheBub}
 Sword range animation added by Seliost1.
 
 Sword (special fe8) + Sword (special +flashing crit) by Seliost1.
+
+Sword (Greatsword, Vanilla), Lance and Lance (Magic), Axe and Axe (Armads), Handaxe ported by tatata.
+
+Magic (All versions), Staff and Staff (Harbinger motion) ported by tatata.

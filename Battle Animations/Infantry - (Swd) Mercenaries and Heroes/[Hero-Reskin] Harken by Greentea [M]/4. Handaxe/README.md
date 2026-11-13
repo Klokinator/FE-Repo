@@ -11,3 +11,5 @@
 F2U/F2E
 
 Made by Greentea.
+
+Sword and Axe (Alt Range) by tatata.

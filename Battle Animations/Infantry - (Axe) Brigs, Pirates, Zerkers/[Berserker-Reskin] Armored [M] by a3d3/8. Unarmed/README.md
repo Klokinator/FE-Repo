@@ -15,3 +15,5 @@ Animation by a3d3.
 Original stance by TBA.
 
 Unarmed by Seliost1.
+
+Sword, Sword (Greatsword), Lance, Axe (Magic), Bow, Magic, Staff by tatata.

@@ -13,3 +13,5 @@ F2U/F2E
 Original FE10 SM by TheBlindArcher.
 
 Alternate Sword crit by Greentea, Kenpuhu.
+
+Sword (+Greatsword) by Zankantou(Blood Beryl&SHYUTERz)

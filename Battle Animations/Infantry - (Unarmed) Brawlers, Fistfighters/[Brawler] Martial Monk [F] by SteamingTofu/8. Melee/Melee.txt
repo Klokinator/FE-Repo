@@ -1,0 +1,242 @@
+#######################################################
+#0B Melee Mercenary Sword
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Melee_000.png
+3 p- Melee_001.png
+3 p- Melee_002.png
+10 p- Melee_003.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Melee_004.png
+3 p- Melee_005.png
+3 p- Melee_006.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C1A                               #Normal hit
+6 p- Melee_006.png
+4 p- Melee_007.png
+4 p- Melee_008.png
+4 p- Melee_009.png
+4 p- Melee_010.png
+4 p- Melee_011.png
+C01                               #NOP
+S0262                               #Sound 610 SE:@C85_3C Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+8 p- Melee_011.png
+3 p- Melee_012.png
+C34                               #Play heavy stepping SFE
+3 p- Melee_013.png
+4 p- Melee_014.png
+5 p- Melee_015.png
+5 p- Melee_016.png
+5 p- Melee_017.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Melee_018.png
+1 p- Melee_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Melee_000.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Melee_000.png
+5 p- Melee_019.png
+5 p- Melee_020.png
+10 p- Melee_021.png
+SAB                               #Sound 171 SE:Village Destroyed
+6 p- Melee_021.png
+C15                               #Slight vibration of screen
+5 p- Melee_022.png
+5 p- Melee_023.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_000.png
+3 p- Melee_001.png
+3 p- Melee_002.png
+10 p- Melee_003.png
+3 p- Melee_004.png
+3 p- Melee_005.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Melee_006.png
+4 p- Melee_007.png
+4 p- Melee_008.png
+4 p- Melee_009.png
+3 p- Melee_026.png
+3 p- Melee_027.png
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+3 p- Melee_028.png
+4 p- Melee_029.png
+4 p- Melee_030.png
+12 p- Melee_031.png
+4 p- Melee_032.png
+S014C                               #Sound 332 SE:@C85_1B
+3 p- Melee_033.png
+4 p- Melee_034.png
+4 p- Melee_035.png
+4 p- Melee_036.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
+C0A                               #Critical hit
+3 p- Melee_037.png
+4 p- Melee_038.png
+4 p- Melee_039.png
+4 p- Melee_040.png
+4 p- Melee_041.png
+4 p- Melee_042.png
+4 p- Melee_043.png
+C01                               #NOP
+S0264                               #Sound 612 SE:@C85_35 Play longer wing flapping SFE
+3 p- Melee_044.png
+3 p- Melee_013.png
+4 p- Melee_014.png
+5 p- Melee_015.png
+5 p- Melee_016.png
+5 p- Melee_017.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Melee_018.png
+1 p- Melee_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Melee_000.png
+3 p- Melee_001.png
+3 p- Melee_002.png
+8 p- Melee_003.png
+4 p- Melee_004.png
+C05                               #Call spell associated with equipped weapon
+4 p- Melee_045.png
+4 p- Melee_046.png
+4 p- Melee_047.png
+4 p- Melee_048.png
+4 p- Melee_049.png
+C01                               #NOP
+5 p- Melee_019.png
+5 p- Melee_020.png
+5 p- Melee_021.png
+5 p- Melee_050.png
+5 p- Melee_051.png
+5 p- Melee_052.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Melee_025.png
+1 p- Melee_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Melee_000.png
+C3C                               #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+4 p- Melee_000.png
+5 p- Melee_019.png
+5 p- Melee_020.png
+10 p- Melee_021.png
+SAB                               #Sound 171 SE:Village Destroyed
+6 p- Melee_021.png
+C15                               #Slight vibration of screen
+5 p- Melee_022.png
+5 p- Melee_023.png
+5 p- Melee_024.png
+5 p- Melee_025.png
+5 p- Melee_000.png
+3 p- Melee_001.png
+3 p- Melee_002.png
+8 p- Melee_003.png
+4 p- Melee_004.png
+C05                               #Call spell associated with equipped weapon
+4 p- Melee_045.png
+4 p- Melee_046.png
+4 p- Melee_047.png
+4 p- Melee_048.png
+4 p- Melee_049.png
+C01                               #NOP
+5 p- Melee_019.png
+5 p- Melee_020.png
+5 p- Melee_021.png
+5 p- Melee_050.png
+5 p- Melee_051.png
+5 p- Melee_052.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Melee_025.png
+1 p- Melee_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
+1 p- Melee_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+5 p- Melee_053.png
+5 p- Melee_054.png
+5 p- Melee_055.png
+5 p- Melee_056.png
+5 p- Melee_057.png
+C01                               #NOP
+5 p- Melee_058.png
+5 p- Melee_059.png
+5 p- Melee_060.png
+1 p- Melee_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
+1 p- Melee_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+5 p- Melee_053.png
+5 p- Melee_054.png
+5 p- Melee_055.png
+5 p- Melee_056.png
+5 p- Melee_057.png
+C01                               #NOP
+5 p- Melee_058.png
+5 p- Melee_059.png
+5 p- Melee_060.png
+1 p- Melee_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Melee_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Melee_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Melee_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Melee_000.png
+3 p- Melee_001.png
+3 p- Melee_002.png
+3 p- Melee_003.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+3 p- Melee_004.png
+3 p- Melee_005.png
+3 p- Melee_006.png
+4 p- Melee_007.png
+4 p- Melee_008.png
+4 p- Melee_009.png
+4 p- Melee_010.png
+4 p- Melee_011.png
+C01                               #NOP
+S0264                               #Sound 612 SE:@C85_35 Play longer wing flapping SFE
+3 p- Melee_012.png
+3 p- Melee_013.png
+4 p- Melee_014.png
+5 p- Melee_015.png
+5 p- Melee_016.png
+5 p- Melee_017.png
+C06                               #Begin opponent's turn after hit.next code 0D.
+5 p- Melee_018.png
+1 p- Melee_000.png
+C34                               #Play heavy stepping SFE
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

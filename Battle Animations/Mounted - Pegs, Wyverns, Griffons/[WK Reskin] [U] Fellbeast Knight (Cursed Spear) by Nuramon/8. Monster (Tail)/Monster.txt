@@ -1,0 +1,202 @@
+#######################################################
+#09 Monster 
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1               #Melee Animation
+1 p- Monster_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+6 p- Monster_001.png
+6 p- Monster_002.png
+6 p- Monster_003.png
+C24                               #Play sword slashing air SFE
+6 p- Monster_004.png
+6 p- Monster_005.png
+4 p- Monster_006.png
+3 p- Monster_007.png
+C25                               #Play wing flap SFE
+3 p- Monster_008.png
+3 p- Monster_009.png
+C24                               #Play sword slashing air SFE
+2 p- Monster_010.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                               #Normal hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C15                               #Slight vibration of screen
+2 p- Monster_011.png
+3 p- Monster_012.png
+4 p- Monster_013.png
+4 p- Monster_014.png
+6 p- Monster_015.png
+C25                               #Play wing flap SFE
+6 p- Monster_016.png
+4 p- Monster_017.png
+4 p- Monster_018.png
+6 p- Monster_019.png
+6 p- Monster_020.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+6 p- Monster_021.png
+6 p- Monster_003.png
+6 p- Monster_002.png
+1 p- Monster_000.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3               #Melee Critical Animation
+1 p- Monster_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+6 p- Monster_001.png
+4 p- Monster_022.png
+3 p- Monster_023.png
+3 p- Monster_024.png
+3 p- Monster_025.png
+C7B                               #manakete critical
+6 p- Monster_026.png
+6 p- Monster_027.png
+6 p- Monster_026.png
+6 p- Monster_027.png
+6 p- Monster_026.png
+6 p- Monster_027.png
+6 p- Monster_028.png
+9 p- Monster_029.png
+3 p- Monster_030.png
+6 p- Monster_002.png
+6 p- Monster_003.png
+C24                               #Play sword slashing air SFE
+6 p- Monster_004.png
+6 p- Monster_005.png
+4 p- Monster_006.png
+3 p- Monster_007.png
+C25                               #Play wing flap SFE
+3 p- Monster_008.png
+3 p- Monster_009.png
+C24                               #Play sword slashing air SFE
+2 p- Monster_010.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C0C                               #Critical hit
+C21                               #Play hit SFE (sounds like Knight Lord with sword's hit)
+C15                               #Slight vibration of screen
+2 p- Monster_011.png
+3 p- Monster_012.png
+4 p- Monster_013.png
+4 p- Monster_014.png
+6 p- Monster_015.png
+C25                               #Play wing flap SFE
+6 p- Monster_016.png
+4 p- Monster_017.png
+4 p- Monster_018.png
+6 p- Monster_019.png
+6 p- Monster_020.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+6 p- Monster_021.png
+6 p- Monster_003.png
+6 p- Monster_002.png
+1 p- Monster_000.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5               #Ranged Animation 
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 6               #Ranged Critical Animation
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 7               #Dodge Melee Attack
+1 p- Monster_000.png
+C02                               #Start of dodge
+1 p- Monster_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Monster_031.png
+4 p- Monster_032.png
+C01                               #NOP
+3 p- Monster_033.png
+3 p- Monster_034.png
+C34                               #Play heavy stepping SFE
+C15                               #Slight vibration of screen
+6 p- Monster_021.png
+4 p- Monster_003.png
+4 p- Monster_002.png
+1 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8               #Dodge Ranged Attack
+1 p- Monster_000.png
+C02                               #Start of dodge
+1 p- Monster_000.png
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
+3 p- Monster_031.png
+4 p- Monster_032.png
+C01                               #NOP
+3 p- Monster_033.png
+3 p- Monster_034.png
+C34                               #Play heavy stepping SFE
+C15                               #Slight vibration of screen
+6 p- Monster_021.png
+4 p- Monster_003.png
+4 p- Monster_002.png
+1 p- Monster_000.png
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9               #Equiped with Melee Weapon
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #Standing motions
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #Equiped with Ranged weapon
+1 p- Monster_000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #Attack Missed Animation
+1 p- Monster_000.png
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
+1 p- Monster_000.png
+6 p- Monster_001.png
+6 p- Monster_002.png
+6 p- Monster_003.png
+C24                               #Play sword slashing air SFE
+6 p- Monster_004.png
+6 p- Monster_005.png
+4 p- Monster_006.png
+3 p- Monster_007.png
+C25                               #Play wing flap SFE
+3 p- Monster_008.png
+3 p- Monster_009.png
+C24                               #Play sword slashing air SFE
+2 p- Monster_035.png
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+2 p- Monster_036.png
+3 p- Monster_037.png
+4 p- Monster_038.png
+4 p- Monster_014.png
+6 p- Monster_015.png
+C25                               #Play wing flap SFE
+6 p- Monster_016.png
+4 p- Monster_017.png
+4 p- Monster_018.png
+6 p- Monster_019.png
+6 p- Monster_020.png
+C46                               #Play dropped axe crashing onto ground SFE
+C15                               #Slight vibration of screen
+6 p- Monster_021.png
+6 p- Monster_003.png
+6 p- Monster_002.png
+1 p- Monster_000.png
+C01                               #NOP
+C06                               #Begin opponent's turn after hit.next code 0D.
+C0D                               #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

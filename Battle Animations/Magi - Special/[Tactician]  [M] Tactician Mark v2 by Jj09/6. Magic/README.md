@@ -8,4 +8,6 @@
 
 ## Credit
 
-Marlon0024, Asael, Jj09, Huichelaar
+Marlon0024, Asael, Jj09, Huichelaar.
+
+Magic (v2) by Seliost1.

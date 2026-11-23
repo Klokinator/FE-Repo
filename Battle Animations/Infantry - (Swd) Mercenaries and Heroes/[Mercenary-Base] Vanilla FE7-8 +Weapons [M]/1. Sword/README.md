@@ -15,3 +15,15 @@ Vanilla Mercenary by IS. (Sword, Unarmed)
 Greatsword by SD9K.
 
 Axe and Handaxe by PrincessKilvas.
+
+Sword (Combo Crit) by Seliost1, ported by tatata.
+
+Sword (FF7 - Cloud) by  Lord Zymeth and Yangfly Master, pported by tatata.
+
+Sword (Flashy Ranged + Materia Ranged) by Seliost1, ported by tatata.
+
+Sword (Blue Mage Sword) by  Linkain and Lord Zymeth, ported by tatata.
+
+Magic by Linkain and Lord Zymeth, ported by tatata.
+
+All Dragonstone related anims by tatata.

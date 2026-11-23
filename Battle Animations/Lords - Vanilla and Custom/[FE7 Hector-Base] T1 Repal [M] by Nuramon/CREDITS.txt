@@ -1,0 +1,13 @@
+F2U/F2E
+
+Base animation by IS.
+
+Still by George Reds.
+
+Repalette by Nuramon.
+
+Sword and Sword (Alt, Broadsword, T1 Orion Dual Blade) ported by tatata.
+
+Axe (Armads), Axe (Hammer), Axe (Punch Crit), Handaxe (Alt Crit 1 and 2) ported by tatata.
+
+Magic ported by tatata.

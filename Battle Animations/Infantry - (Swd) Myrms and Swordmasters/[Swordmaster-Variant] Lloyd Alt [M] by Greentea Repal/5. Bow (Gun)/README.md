@@ -13,3 +13,5 @@ F2U/F2E
 Greentea, DerTheVaporeon, ltranc.
 
 VelvetKitsune for Gun animation.
+
+Sword (Astra) by Seliost1.

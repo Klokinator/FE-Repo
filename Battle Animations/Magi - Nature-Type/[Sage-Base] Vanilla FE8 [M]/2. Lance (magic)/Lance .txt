@@ -1,0 +1,296 @@
+#######################################################
+#CC lorm_sp1 スナイパー ロングアーチ
+#
+#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#######################################################
+/// - Mode 1               #至近攻撃のヒット時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Lance _000.png
+4 p- Lance _001.png
+8 p- Lance _002.png
+C1B                               #重い足音
+7 p- Lance _003.png
+8 p- Lance _004.png
+C1B                               #重い足音
+11 p- Lance _005.png
+4 p- Lance _006.png
+4 p- Lance _007.png
+C1B                               #重い足音
+C22                               #リンロードの剣を振る音
+2 p- Lance _008.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C1A                               #ノーマルヒットのエフェクト
+C20                               #クリティカルの効果音 ずどーん
+1 p- Lance _009.png
+C01                               #NOP
+4 p- Lance _010.png
+4 p- Lance _011.png
+4 p- Lance _012.png
+4 p- Lance _013.png
+C1B                               #重い足音
+3 p- Lance _014.png
+3 p- Lance _015.png
+2 p- Lance _016.png
+C1B                               #重い足音
+3 p- Lance _017.png
+3 p- Lance _018.png
+8 p- Lance _019.png
+6 p- Lance _020.png
+3 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance _000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 3               #至近攻撃必殺時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Lance _000.png
+8 p- Lance _021.png
+C2F                               #賢者のクリティカルエフェクト　効果音あり
+4 p- Lance _022.png
+8 p- Lance _023.png
+4 p- Lance _024.png
+3 p- Lance _025.png
+8 p- Lance _026.png
+4 p- Lance _027.png
+8 p- Lance _028.png
+4 p- Lance _029.png
+3 p- Lance _025.png
+8 p- Lance _030.png
+4 p- Lance _031.png
+8 p- Lance _032.png
+4 p- Lance _033.png
+10 p- Lance _034.png
+4 p- Lance _034.png
+4 p- Lance _035.png
+12 p- Lance _035.png
+8 p- Lance _002.png
+C1B                               #重い足音
+7 p- Lance _003.png
+8 p- Lance _004.png
+C1B                               #重い足音
+11 p- Lance _005.png
+4 p- Lance _006.png
+4 p- Lance _007.png
+C1B                               #重い足音
+C22                               #リンロードの剣を振る音
+2 p- Lance _008.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C1A                               #ノーマルヒットのエフェクト
+C20                               #クリティカルの効果音 ずどーん
+1 p- Lance _009.png
+C01                               #NOP
+4 p- Lance _010.png
+4 p- Lance _011.png
+4 p- Lance _012.png
+4 p- Lance _013.png
+C1B                               #重い足音
+3 p- Lance _014.png
+3 p- Lance _015.png
+2 p- Lance _016.png
+C1B                               #重い足音
+3 p- Lance _017.png
+3 p- Lance _018.png
+8 p- Lance _019.png
+6 p- Lance _020.png
+3 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance _000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 5               #間接攻撃時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Lance _000.png
+4 p- Lance _001.png
+C2E                               #賢者の魔法エフェクト　効果音なし
+C49                               #賢者　魔法効果音
+8 p- Lance _002.png
+C1B                               #重い足音
+7 p- Lance _003.png
+8 p- Lance _004.png
+C1B                               #重い足音
+11 p- Lance _005.png
+4 p- Lance _006.png
+4 p- Lance _007.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Lance _036.png
+2 p- Lance _037.png
+4 p- Lance _038.png
+2 p- Lance _039.png
+4 p- Lance _036.png
+2 p- Lance _037.png
+2 p- Lance _038.png
+4 p- Lance _039.png
+C01                               #LOOPEND }  NOP
+1 p- Lance _036.png
+4 p- Lance _040.png
+4 p- Lance _041.png
+4 p- Lance _042.png
+4 p- Lance _043.png
+C1B                               #重い足音
+3 p- Lance _044.png
+3 p- Lance _045.png
+2 p- Lance _046.png
+C1B                               #重い足音
+3 p- Lance _017.png
+3 p- Lance _018.png
+8 p- Lance _019.png
+6 p- Lance _020.png
+3 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance _000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 6               #間接攻撃必殺時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Lance _000.png
+8 p- Lance _021.png
+C2F                               #賢者のクリティカルエフェクト　効果音あり
+4 p- Lance _022.png
+8 p- Lance _023.png
+4 p- Lance _024.png
+3 p- Lance _025.png
+8 p- Lance _026.png
+4 p- Lance _027.png
+8 p- Lance _028.png
+4 p- Lance _029.png
+3 p- Lance _025.png
+8 p- Lance _030.png
+4 p- Lance _031.png
+8 p- Lance _032.png
+4 p- Lance _033.png
+10 p- Lance _034.png
+4 p- Lance _034.png
+4 p- Lance _035.png
+12 p- Lance _035.png
+C2E                               #賢者の魔法エフェクト　効果音なし
+C49                               #賢者　魔法効果音
+8 p- Lance _002.png
+C1B                               #重い足音
+7 p- Lance _003.png
+8 p- Lance _004.png
+C1B                               #重い足音
+11 p- Lance _005.png
+4 p- Lance _006.png
+4 p- Lance _007.png
+C1B                               #重い足音
+C05                               #魔法の呼び出し
+L                                 #LOOPSTART {
+2 p- Lance _036.png
+2 p- Lance _037.png
+4 p- Lance _038.png
+2 p- Lance _039.png
+4 p- Lance _036.png
+2 p- Lance _037.png
+2 p- Lance _038.png
+4 p- Lance _039.png
+C01                               #LOOPEND }  NOP
+1 p- Lance _036.png
+4 p- Lance _040.png
+4 p- Lance _041.png
+4 p- Lance _042.png
+4 p- Lance _043.png
+C1B                               #重い足音
+3 p- Lance _044.png
+3 p- Lance _045.png
+2 p- Lance _046.png
+C1B                               #重い足音
+3 p- Lance _017.png
+3 p- Lance _018.png
+8 p- Lance _019.png
+6 p- Lance _020.png
+3 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance _000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 7               #被至近攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Lance _000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Lance _047.png
+1 p- Lance _048.png
+C01                               #NOP
+3 p- Lance _047.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 8               #被間接攻撃回避時のモーション
+C02                               #回避モーションの始め
+1 p- Lance _000.png
+C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+3 p- Lance _047.png
+1 p- Lance _048.png
+C01                               #NOP
+3 p- Lance _047.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - Mode 9               #至近時棒立ちモーション
+4 p- Lance _000.png
+C01                               #NOP
+~~~
+/// - Mode 10               #棒立ちモーション
+4 p- Lance _000.png
+C01                               #NOP
+~~~
+/// - Mode 11               #間接時棒立ちモーション
+4 p- Lance _000.png
+C01                               #NOP
+~~~
+/// - Mode 12               #攻撃ミス時のモーション
+C07                               #攻撃モーション開始 この前に03が来る
+C03                               #攻撃モーション開始 この後に07が来る
+1 p- Lance _000.png
+4 p- Lance _001.png
+8 p- Lance _002.png
+C1B                               #重い足音
+7 p- Lance _003.png
+8 p- Lance _004.png
+C1B                               #重い足音
+11 p- Lance _005.png
+4 p- Lance _006.png
+4 p- Lance _007.png
+C1B                               #重い足音
+C22                               #リンロードの剣を振る音
+2 p- Lance _008.png
+C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+1 p- Lance _049.png
+C01                               #NOP
+4 p- Lance _050.png
+4 p- Lance _051.png
+4 p- Lance _052.png
+4 p- Lance _053.png
+C1B                               #重い足音
+3 p- Lance _014.png
+3 p- Lance _015.png
+2 p- Lance _016.png
+C1B                               #重い足音
+3 p- Lance _017.png
+3 p- Lance _018.png
+8 p- Lance _019.png
+6 p- Lance _020.png
+3 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+1 p- Lance _000.png
+C06                               #攻撃アニメ終了 後に0Dが来る
+6 p- Lance _000.png
+C0D                               #攻撃アニメ終了 前に06が来る
+~~~
+/// - End of animation

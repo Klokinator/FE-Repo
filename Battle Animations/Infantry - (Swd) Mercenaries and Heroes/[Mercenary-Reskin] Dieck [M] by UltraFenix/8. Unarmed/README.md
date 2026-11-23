@@ -17,3 +17,9 @@ Repalette by Eldritch Abomination.
 Edit by Knabepicer.
 
 Dieck Reskin by UltraFenix.
+
+Greatsword by SD9K.
+
+Axe and Handaxe by PrincessKilvas.
+
+Mixed by Cyx9877.

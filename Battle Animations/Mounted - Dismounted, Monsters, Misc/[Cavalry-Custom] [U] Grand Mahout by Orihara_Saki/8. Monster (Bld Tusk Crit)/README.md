@@ -29,3 +29,5 @@ Song Table = 026D (FE8 JPN_SHYUTERz Sub PATCH) _ 20200724184104
 -----------------------------------------------------------------------------
 
 Bow Volley animation added by Jotari.
+
+Melee (Charge) by Jotari.

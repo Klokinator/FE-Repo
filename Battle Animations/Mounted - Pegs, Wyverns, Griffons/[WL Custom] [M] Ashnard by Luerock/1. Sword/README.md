@@ -11,3 +11,5 @@
 Animation by cybaster, Luerock.
 
 GBA Port by SHYUTERz.
+
+Axe and Handaxe by Seliost1.

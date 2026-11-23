@@ -13,3 +13,5 @@ F2U/F2E
 Vanilla animation by IS.
 
 5. Bow by Seliost1.
+
+Sword (Astra) by Seliost1.

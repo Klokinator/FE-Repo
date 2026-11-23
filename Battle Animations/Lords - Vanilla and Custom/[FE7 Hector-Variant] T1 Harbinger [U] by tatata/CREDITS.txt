@@ -1,0 +1,13 @@
+F2U/F2E
+
+Animation by tatata.
+
+Sword desgin by Zane Avernathy. Ported by tatata.
+
+Broadsword desgin by Seliost1. Ported by tatata.
+
+Axe (Punch Crit) motion by Vilkalizer. Ported by tatata.
+
+Handaxe (Alt Crit 1/2) motion by Seliost1. Ported by tatata.
+
+

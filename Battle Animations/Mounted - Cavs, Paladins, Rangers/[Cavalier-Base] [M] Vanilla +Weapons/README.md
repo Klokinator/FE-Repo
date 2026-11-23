@@ -4,7 +4,7 @@
 | :---: | :---: | :---: |
 | <b>Axe (Alt1)</b><br/><img alt="Axe (Alt1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe%20(Alt1)/Axe.gif"/> | <b>Axe (Alt2)</b><br/><img alt="Axe (Alt2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/3.%20Axe%20(Alt2)/Axe.gif"/> | <b>Handaxe (Alt1)</b><br/><img alt="Handaxe (Alt1)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/4.%20Handaxe%20(Alt1)/Handaxe.gif"/> |
 | <b>Handaxe (Alt2)</b><br/><img alt="Handaxe (Alt2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/4.%20Handaxe%20(Alt2)/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/5.%20Bow/Bow.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/6.%20Magic/Magic.gif"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed/Unarmed.gif"/> | <b>Unarmed (Mount only)</b><br/><img alt="Unarmed (Mount only)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Base%5D%20%5BM%5D%20Vanilla%20+Weapons/8.%20Unarmed%20(Mount%20only)/Unarmed.gif"/> |
 
 ## Credits
 
@@ -23,4 +23,6 @@ Bow by Orihara_Saki, DerTheVaporeon, Kao, and Aurora.
 Magic by Orihara_Saki.
 
 2. Lance (Ranged Magic) by Seliost1.
+
+Unarmed (Mount only) by tatata.
 

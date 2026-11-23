@@ -27,8 +27,6 @@ C25
 6 p- Magic_020.png
 12 p- Magic_021.png
 C05
-C1A
-C01
 6 p- Magic_022.png
 C06
 6 p- Magic_023.png
@@ -68,9 +66,6 @@ C25
 6 p- Magic_043.png
 12 p- Magic_044.png
 C05
-C0C
-C21
-C01
 6 p- Magic_045.png
 6 p- Magic_046.png
 C1B
@@ -110,8 +105,6 @@ C25
 6 p- Magic_020.png
 12 p- Magic_021.png
 C05
-C1A
-C01
 6 p- Magic_022.png
 C06
 6 p- Magic_023.png
@@ -152,9 +145,6 @@ C25
 6 p- Magic_043.png
 12 p- Magic_044.png
 C05
-C0C
-C21
-C01
 6 p- Magic_045.png
 6 p- Magic_046.png
 C1B
@@ -225,7 +215,6 @@ C25
 6 p- Magic_020.png
 12 p- Magic_021.png
 C05
-C1A
 C01
 6 p- Magic_022.png
 C06

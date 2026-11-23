@@ -13,3 +13,5 @@ F2U/F2E
 Made by Greentea.
 
 Staff animation by Brober.
+
+Axe and Handaxe animation by Seliost1.

@@ -8,4 +8,8 @@
 
 ## Credit
 
+Animation by IS.
 
+Sword (Durandal) by tatata.
+
+Unarmed (Mount only) by tatata.

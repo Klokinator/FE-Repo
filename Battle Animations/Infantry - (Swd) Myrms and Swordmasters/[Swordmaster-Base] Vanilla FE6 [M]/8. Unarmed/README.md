@@ -11,3 +11,7 @@
 F2U/F2E
 
 Vanilla animation by IS.
+
+Durandal animation by Tatata and SteamingTofu.
+
+Durandal animation imported by ToGY.
